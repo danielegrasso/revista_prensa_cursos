@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reseña de Prensa</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: #000000;
+            font-weight: 300;
+        }
+
+        .media-section {
+            margin-bottom: 2rem;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .media-header {
+            background-color: #f8f9fa;
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.2s ease;
+        }
+
+        .media-header:hover {
+            background-color: #e9ecef;
+        }
+
+        .media-title-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .media-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #000000;
+        }
+
+        .update-time {
+            font-size: 0.85rem;
+            color: #666666;
+            font-weight: 400;
+        }
+
+        .toggle-icon {
+            font-size: 1.2rem;
+            transition: transform 0.3s ease;
+        }
+
+        .toggle-icon.expanded {
+            transform: rotate(180deg);
+        }
+
+        .portada-link {
+            padding: 1rem 1.5rem;
+            background-color: #ffffff;
+            border-bottom: 1px solid #e0e0e0;
+            text-align: left;
+        }
+
+        .portada-link a {
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1rem;
+        }
+
+        .portada-link a:hover {
+            text-decoration: underline;
+        }
+
+        .news-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .news-content.expanded {
+            max-height: 2000px;
+        }
+
+        .news-list {
+            padding: 1rem 1.5rem;
+        }
+
+        .news-item {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .news-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .news-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #000000;
+        }
+
+        .news-title a {
+            color: #000000;
+            text-decoration: none;
+        }
+
+        .news-title a:hover {
+            text-decoration: underline;
+        }
+
+        .news-subtitle {
+            font-size: 0.9rem;
+            color: #666666;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            font-size: 0.8rem;
+            color: #999999;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .media-header {
+                padding: 0.8rem 1rem;
+            }
+
+            .media-title-container {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.3rem;
+            }
+
+            .media-title {
+                font-size: 1.1rem;
+            }
+
+            .update-time {
+                font-size: 0.8rem;
+            }
+
+            .portada-link {
+                padding: 0.8rem 1rem;
+            }
+
+            .news-list {
+                padding: 0.8rem 1rem;
+            }
+
+            .news-title {
+                font-size: 1rem;
+            }
+
+            .news-subtitle {
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Reseña de Prensa</h1>
+        
+        <!-- Sección El Mundo -->
+        <div class="media-section">
+            <div class="media-header" onclick="toggleSection('elmundo')">
+                <div class="media-title-container">
+                    <div class="media-title">El Mundo</div>
+                    <div class="update-time">26/09/2025 20:07</div>
+                </div>
+                <div class="toggle-icon" id="elmundo-icon">▼</div>
+            </div>
+            <div class="portada-link">
+                <a href="https://es.kiosko.net/es/np/elmundo.html" target="_blank">Portada Papel</a>
+            </div>
+            <div class="news-content" id="elmundo-content">
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elmundo.es/internacional/2025/09/26/68d69263e4d4d87e0d8b4595.html" target="_blank">
+                                Netanyahu en la ONU: &quot;Dar a los palestinos un Estado a una milla de Jerusalén es como dárselo a Al Qaeda junto a Nueva York tras el 11-S&quot;
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El primer ministro israelí asegura que &quot;dar a los palestinos un estado a una milla de Jerusalén después del 7 de octubre es como darle a Al Qaeda un estado a una milla de Nueva York después del 11 de septiembre&quot;
+                        </div>
+                        <div class="news-meta">El Mundo • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elmundo.es/internacional/2025/09/26/68d6b6cbe4d4d878488b45a2.html" target="_blank">
+                                Netanyahu pidió colocar altavoces para transmitir su discurso en la ONU a los rehenes en Gaza
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            La medida había provocado críticas en el ejército y entre familiares de soldados
+                        </div>
+                        <div class="news-meta">El Mundo • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elmundo.es/internacional/2025/09/26/68d6995ee4d4d8cf528b45a8.html" target="_blank">
+                                España se ausenta del discurso de Benjamin Netanyahu boicoteado por decenas de países
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            No se precisa que otras naciones salieron de la sala de la Asamblea General de la ONU
+                        </div>
+                        <div class="news-meta">El Mundo • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elmundo.es/espana/2025/09/26/68d67abcfc6c83446c8b458a.html" target="_blank">
+                                La decana de los juzgados de Madrid autoriza la entrada de Begoña Gómez por el garaje por &quot;el ambiente hostil&quot; y de &quot;rechazo social&quot;
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            La esposa de Pedro Sánchez está citada este sábado a las 18.00 horas por el juez Peinado para concretar su imputación por un presunto delito de malversación
+                        </div>
+                        <div class="news-meta">El Mundo • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elmundo.es/deportes/futbol/2025/09/26/68d6d233e85ece61088b458a.html" target="_blank">
+                                Votaciones Balón de Oro
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            France Football hizo públicos este viernes los detalles de la clasificación: el jugador francés del PSG acumuló 1.380 puntos, por delante del español Lamine Yamal (FC Barcelona, 1.059 puntos) y del portugués Vitinha (PSG, 703 puntos)
+                        </div>
+                        <div class="news-meta">El Mundo • 26/09/2025 20:07</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sección ElDiario.es -->
+        <div class="media-section">
+            <div class="media-header" onclick="toggleSection('eldiario')">
+                <div class="media-title-container">
+                    <div class="media-title">ElDiario.es</div>
+                    <div class="update-time">26/09/2025 20:07</div>
+                </div>
+                <div class="toggle-icon" id="eldiario-icon">▼</div>
+            </div>
+            <div class="news-content" id="eldiario-content">
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.eldiario.es/internacional/netanyahu-anuncia-onu-seguira-genocidio-gaza-no-hemos-terminado_1_12635508.html" target="_blank">
+                                Netanyahu anuncia en la ONU que seguirá con el genocidio en Gaza: “Aún no hemos terminado”
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El primer ministro de Israel ha pronunciado su discurso ante la Asamblea General de la ONU en una semana en la que importantes países han reconocido al Estado palestino como respuesta a su ofensiva en Gaza, y ha acusado a los países que han reconocido el Estado palestino en los últimos meses de &quot;premiar a los asesinos de judíos&quot;
+                        </div>
+                        <div class="news-meta">ElDiario.es • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.eldiario.es/internacional/netanyahu-recibido-abucheos-asamblea-onu-cientos-delegados-abandonan-sala_1_12635666.html" target="_blank">
+                                Netanyahu, recibido con abucheos en la ONU mientras cientos de delegados abandonan la sala
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Antes de tomar la palabra ante la Asamblea General, Netanyahu ha sido recibido con una sonora pitada de muchos presentes en la sala. La delegación española no asistió, explican fuentes gubernamentales
+                        </div>
+                        <div class="news-meta">ElDiario.es • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.eldiario.es/internacional/miles-personas-marchan-nueva-york-sede-onu-protestar-genocidio-gaza_1_12636213.html" target="_blank">
+                                Miles de personas marchan en Nueva York a la sede de la ONU para protestar contra el genocidio en Gaza
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Una multitud recorre el centro de Manhattan desde Times Square hasta la sede de Naciones Unidas en solidaridad con Palestina y para denunciar el genocidio Israelí y la connivencia de EEUU con el Gobierno de Benjamín Netanyahu
+                        </div>
+                        <div class="news-meta">ElDiario.es • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.eldiario.es/economia/onu-senala-4-empresas-espanolas-lista-firmas-operan-cisjordania-ocupada_1_12636144.html" target="_blank">
+                                La ONU señala a cuatro empresas españolas en su lista de firmas que operan en la Cisjordania ocupada
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Junto a ACS, su filial SEMI y CAF, aparece la pública Ineco, del Ministerio de Transportes, que asegura que terminará sus proyectos en Israel pero que, tras los atentados de octubre de 2023, decidió no participar en nuevos contratos
+                        </div>
+                        <div class="news-meta">ElDiario.es • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.eldiario.es/economia/trump-anuncia-nuevos-aranceles-importacion-medicamentos-muebles-cocina-camiones-pesados_1_12633933.html" target="_blank">
+                                Aranceles
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Los nuevos aranceles corren el riesgo de agudizar la inflación, que ya es elevada –2,9% en agosto–, así como de desacelerar el crecimiento económico, a medida de que los empleadores se enfrentan a nuevos niveles de incertidumbre
+                        </div>
+                        <div class="news-meta">ElDiario.es • 26/09/2025 20:07</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sección ABC.es -->
+        <div class="media-section">
+            <div class="media-header" onclick="toggleSection('abc')">
+                <div class="media-title-container">
+                    <div class="media-title">ABC.es</div>
+                    <div class="update-time">26/09/2025 20:08</div>
+                </div>
+                <div class="toggle-icon" id="abc-icon">▼</div>
+            </div>
+            <div class="portada-link">
+                <a href="https://es.kiosko.net/es/np/abc.html" target="_blank">Portada Papel</a>
+            </div>
+            <div class="news-content" id="abc-content">
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.abc.es/internacional/netanyahu-carga-onu-reconocen-estado-palestino-ante-20250926163840-nt.html" target="_blank">
+                                Boicot de decenas de países en la ONU a Netanyahu, que insiste en «completar el trabajo» en Gaza
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            España se une al plante durante el discurso del primer ministro israelí en la Asamblea General de las Naciones Unidas
+                        </div>
+                        <div class="news-meta">ABC.es • 26/09/2025 20:07</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.abc.es/internacional/espana-une-plante-asamblea-discurso-netanyahu-20250926170613-nt.html" target="_blank">
+                                España se une al plante en la Asamblea de las Naciones Unidas al discurso del primer ministro israelí
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Decenas de delegaciones abandonaron la sala al inicio del discurso del líder israelí
+                        </div>
+                        <div class="news-meta">ABC.es • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.abc.es/internacional/netanyahu-mostrado-chapa-intervencion-onu-lleva-imagenes-20250926180319-nt.html" target="_blank">
+                                El QR que Netanyahu ha mostrado en una chapa en su intervención en la ONU y que lleva a imágenes del 7-O
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El primer ministro de Israel ha asegurado que no olvidan los ataques perpetrados por Hamás hace casi dos años
+                        </div>
+                        <div class="news-meta">ABC.es • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.abc.es/internacional/eeuu-promueve-tony-blair-lidere-transicion-gaza-20250926184128-nt.html" target="_blank">
+                                Estados Unidos promueve a Tony Blair para que lidere la transición en Gaza
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Pese a su experiencia en la región, su figura sigue lastrada por la guerra de Irak
+                        </div>
+                        <div class="news-meta">ABC.es • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.abc.es/espana/barco-sanchez-gaza-basico-protegera-20250926232931-nt.html" target="_blank">
+                                Buque Furor
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Militares consultados por ABC creen que el Gobierno se mueve «a golpe de efecto»
+                        </div>
+                        <div class="news-meta">ABC.es • 26/09/2025 20:08</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sección La Vanguardia -->
+        <div class="media-section">
+            <div class="media-header" onclick="toggleSection('lavanguardia')">
+                <div class="media-title-container">
+                    <div class="media-title">La Vanguardia</div>
+                    <div class="update-time">26/09/2025 20:08</div>
+                </div>
+                <div class="toggle-icon" id="lavanguardia-icon">▼</div>
+            </div>
+            <div class="portada-link">
+                <a href="https://es.kiosko.net/es/np/lavanguardia.html" target="_blank">Portada Papel</a>
+            </div>
+            <div class="news-content" id="lavanguardia-content">
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.lavanguardia.com/internacional/20250926/11101071/netanyahu-insulta-apoyan-palestino-recompensan-asesino-judios.html" target="_blank">
+                                Netanyahu carga en la ONU contra quienes apoyan al Estado palestino: “Asesinar judíos tiene recompensa”
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El show de Beniamin Netanyahu en la Asamblea General de la Organización de las Naciones Unidas (ONU), realizado en un tono bélico, demostró el profundo abismo entre
+                        </div>
+                        <div class="news-meta">La Vanguardia • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.lavanguardia.com/internacional/20250926/11101131/abucheos-aplausos-qr-hemiciclo-medio-vacio.html" target="_blank">
+                                Abucheos, aplausos y un QR ante un hemiciclo medio vacío
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            La delegación española no estaba en sus asientos en el hemiciclo de la asamblea general de la ONU cuando el secretario general de la organización, Antonio Guterres,
+                        </div>
+                        <div class="news-meta">La Vanguardia • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.lavanguardia.com/internacional/20250926/11097812/que-le-espera-flotilla-ultimo-tramo-viaje-gaza.html" target="_blank">
+                                ¿Qué le espera a la flotilla en el último tramo de su viaje a Gaza?
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El convoy de embarcaciones de la Flotilla Global Sumud (GSF, por sus siglas en inglés) encara el último tramo de su travesía de Barcelona a Gaza, donde su objetivo es
+                        </div>
+                        <div class="news-meta">La Vanguardia • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.lavanguardia.com/internacional/20250926/11099309/tony-blair-quiere-liderar-transicion-gaza-guerra.html" target="_blank">
+                                Tony Blair quiere liderar la transición de Gaza tras la guerra
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El ex primer ministro británico, Tony Blair, quiere liderar una autoridad de transición en Gaza tras la guerra. Según ha avanzado la BBC, la propuesta contaría con el
+                        </div>
+                        <div class="news-meta">La Vanguardia • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.lavanguardia.com/sucesos/20250926/11098111/antonio-llompart-parricidio-mancuerna-sobrecogio-mallorca-queria-callara-asesinato-madre-caras-mal.html" target="_blank">
+                                Antonio Llompart y el parricidio que sobrecogió Mallorca: “Quería que se callara”
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            En la penumbra de un piso humilde de Palma, un muchacho de dieciocho años aguardaba el momento. La mancuerna de tres kilos ya estaba lista, el cable preparado. Su madre,
+                        </div>
+                        <div class="news-meta">La Vanguardia • 26/09/2025 20:08</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sección El Confidencial -->
+        <div class="media-section">
+            <div class="media-header" onclick="toggleSection('elconfidencial')">
+                <div class="media-title-container">
+                    <div class="media-title">El Confidencial</div>
+                    <div class="update-time">26/09/2025 20:08</div>
+                </div>
+                <div class="toggle-icon" id="elconfidencial-icon">▼</div>
+            </div>
+            <div class="news-content" id="elconfidencial-content">
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elconfidencial.com/espana/2025-09-26/onu-denuncia-empresa-publica-ineco-opera-asentamientos-israel_4217042/" target="_blank">
+                                La ONU denuncia que la empresa pública española Ineco opera en asentamientos ilegales de Israel
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Junto a ella, y según la &#039;lista negra&#039; actualizada por la Comisión de Derechos Humanos con sede en Ginebra, hay otras tres españolas: ACS, CAF -con participación del Gobierno vasco- y SEMI
+                        </div>
+                        <div class="news-meta">El Confidencial • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elconfidencial.com/mundo/2025-09-26/netanyahu-compara-el-reconocimiento-de-palestina-con-el-antisemitismo-ante-la-onu_4216999/" target="_blank">
+                                Netanyahu equipara reconocer Palestina con &quot;matar judíos&quot; ante una ONU casi vacía por el boicot
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El primer ministro de Israel fue recibido con vítores y la retirada de una gran parte de los asistentes a la cumbre de la ONU, donde rechazó un genocidio en Gaza
+                        </div>
+                        <div class="news-meta">El Confidencial • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elconfidencial.com/mundo/2025-09-26/trump-disney-churchill-guerra-relato-estados-unidos_4216017/" target="_blank">
+                                &quot;Hitler era mejor que Churchill&quot;: Disney, Trump y la guerra por el relato
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            El choque entre el presidente y la empresa alfa del entretenimiento es el penúltimo capítulo de una batalla en la que la antigua corrección política woke ha dado paso al rodillo trumpista
+                        </div>
+                        <div class="news-meta">El Confidencial • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elconfidencial.com/espana/cataluna/2025-09-26/junts-acusa-andalucia-deducciones-fiscales_4216680/" target="_blank">
+                                Junts acusa a Juanma Moreno de &quot;subvencionar el gimnasio y el perro&quot; con &quot;dinero catalán&quot;
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            Turull ha hecho referencia a las últimas deducciones fiscales anunciadas por la Junta de Andalucía y denuncia que les están &quot;colapsando muchos servicios&quot; por la financiación
+                        </div>
+                        <div class="news-meta">El Confidencial • 26/09/2025 20:08</div>
+                    </div>
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="https://www.elconfidencial.com/economia/2025-09-26/europa-tierras-raras-dependencia-china-eeuu_4216286/" target="_blank">
+                                Tierras raras
+                            </a>
+                        </div>
+                        <div class="news-subtitle">
+                            La industria europea tiene una alta dependencia de las tierras raras. No sólo es vulnerable a un conflicto con China o con EEUU, también a una escalada entre las dos potencias
+                        </div>
+                        <div class="news-meta">El Confidencial • 26/09/2025 20:08</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleSection(sectionId) {
+            const content = document.getElementById(sectionId + '-content');
+            const icon = document.getElementById(sectionId + '-icon');
+            
+            if (content.classList.contains('expanded')) {
+                content.classList.remove('expanded');
+                icon.classList.remove('expanded');
+            } else {
+                content.classList.add('expanded');
+                icon.classList.add('expanded');
+            }
+        }
+    </script>
+</body>
+</html>
