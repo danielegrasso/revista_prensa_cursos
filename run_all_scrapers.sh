@@ -3,8 +3,9 @@
 # Script para ejecutar todos los scrapers de noticias
 # Se ejecuta automáticamente todos los días a las 7:15 AM
 
-# Directorio del proyecto
-PROJECT_DIR="/Users/danielegrasso/Dropbox/trabajo/EL_PAIS/2025/revista_prensa_cursos"
+# Obtener el directorio del script (funciona tanto local como en GitHub Actions)
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_DIR="$SCRIPT_DIR"
 SCRAPERS_DIR="$PROJECT_DIR/scrapers_y_results"
 
 # Cambiar al directorio de scrapers
