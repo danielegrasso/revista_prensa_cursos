@@ -23,7 +23,11 @@ def format_time(timestamp):
     """Formatear timestamp a formato legible"""
     try:
         dt = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
-        return dt.strftime('%d/%m/%Y %H:%M')
+        # Convertir a zona horaria de Madrid (CET/CEST)
+        import pytz
+        madrid_tz = pytz.timezone('Europe/Madrid')
+        dt_madrid = dt.astimezone(madrid_tz)
+        return dt_madrid.strftime('%d/%m/%Y %H:%M')
     except:
         return timestamp
 
