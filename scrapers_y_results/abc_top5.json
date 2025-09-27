@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Boicot de decenas de países en la ONU a Netanyahu, que insiste en «completar el trabajo» en Gaza: España se une al plante durante el discurso del primer ministro israelí en la Asamblea General de las Naciones Unidas; España se une al plante en la Asamblea de las Naciones Unidas al discurso del primer ministro israelí: Decenas de delegaciones abandonaron la sala al inicio del discurso del líder israelí; El QR que Netanyahu ha mostrado en una chapa en su intervención en la ONU y que lleva a imágenes del 7-O: El primer ministro de Israel ha asegurado que no olvidan los ataques perpetrados por Hamás hace casi dos años. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-09-26T21:28:38Z",
+  "summary": "Resumen del día en ABC.es: Escribano busca proveedores no israelíes antes de vender a Indra para que su valor no se hunda: Mientras, algunos expertos ven el lado positivo de la desconexión: se abre la oportunidad para EM&E de desarrollar tecnología propia aunque les lleve tiempo y dinero; Empresas españolas de defensa avisan sobre contratar a dedo a Indra: «No tiene las capacidades»: El plan del Ejecutivo para privilegiar a la empresa semipública dispara el malestar en gran parte del sector; Montero llevará la senda de déficit sin apoyos al Congreso para acelerar los Presupuestos: Hacienda la presentará «pronto» y si fracasa, elaborará las cuentas con la actual: «Nos favorece». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-09-27T06:35:08Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Boicot de decenas de países en la ONU a Netanyahu, que insiste en «completar el trabajo» en Gaza",
-      "subtitle": "España se une al plante durante el discurso del primer ministro israelí en la Asamblea General de las Naciones Unidas",
-      "url": "https://www.abc.es/internacional/netanyahu-carga-onu-reconocen-estado-palestino-ante-20250926163840-nt.html",
-      "scraped_at": "2025-09-26T21:28:37Z"
+      "title": "Escribano busca proveedores no israelíes antes de vender a Indra para que su valor no se hunda",
+      "subtitle": "Mientras, algunos expertos ven el lado positivo de la desconexión: se abre la oportunidad para EM&E de desarrollar tecnología propia aunque les lleve tiempo y dinero",
+      "url": "https://www.abc.es/economia/tras-veto-israel-escribano-busca-proveedores-alternativos-20250927183939-nt.html",
+      "scraped_at": "2025-09-27T06:35:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "España se une al plante en la Asamblea de las Naciones Unidas al discurso del primer ministro israelí",
-      "subtitle": "Decenas de delegaciones abandonaron la sala al inicio del discurso del líder israelí",
-      "url": "https://www.abc.es/internacional/espana-une-plante-asamblea-discurso-netanyahu-20250926170613-nt.html",
-      "scraped_at": "2025-09-26T21:28:37Z"
+      "title": "Empresas españolas de defensa avisan sobre contratar a dedo a Indra: «No tiene las capacidades»",
+      "subtitle": "El plan del Ejecutivo para privilegiar a la empresa semipública dispara el malestar en gran parte del sector",
+      "url": "https://www.abc.es/espana/empresas-espanolas-defensa-avisan-sobre-contratar-dedo-20250927040823-nt.html",
+      "scraped_at": "2025-09-27T06:35:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "El QR que Netanyahu ha mostrado en una chapa en su intervención en la ONU y que lleva a imágenes del 7-O",
-      "subtitle": "El primer ministro de Israel ha asegurado que no olvidan los ataques perpetrados por Hamás hace casi dos años",
-      "url": "https://www.abc.es/internacional/netanyahu-mostrado-chapa-intervencion-onu-lleva-imagenes-20250926180319-nt.html",
-      "scraped_at": "2025-09-26T21:28:38Z"
+      "title": "Montero llevará la senda de déficit sin apoyos al Congreso para acelerar los Presupuestos",
+      "subtitle": "Hacienda la presentará «pronto» y si fracasa, elaborará las cuentas con la actual: «Nos favorece»",
+      "url": "https://www.abc.es/espana/montero-llevara-senda-deficit-apoyos-congreso-acelerar-20250927182155-nt.html",
+      "scraped_at": "2025-09-27T06:35:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Estados Unidos promueve a Tony Blair para que lidere la transición en Gaza",
-      "subtitle": "Pese a su experiencia en la región, su figura sigue lastrada por la guerra de Irak",
-      "url": "https://www.abc.es/internacional/eeuu-promueve-tony-blair-lidere-transicion-gaza-20250926184128-nt.html",
-      "scraped_at": "2025-09-26T21:28:38Z"
+      "title": "Europa empieza a levantar el 'muro antidrones' frente a Rusia",
+      "subtitle": "Los países en 'primera línea' preparan con ayuda de Ucrania la red que detecte y derribe aparatos no tripulados",
+      "url": "https://www.abc.es/internacional/europa-empieza-levantar-muro-antidrones-frente-rusia-20250926040913-nt.html",
+      "scraped_at": "2025-09-27T06:35:07Z"
     },
     {
       "source": "ABC.es",
       "title": "Buque Furor",
       "subtitle": "Militares consultados por ABC creen que el Gobierno se mueve «a golpe de efecto»",
       "url": "https://www.abc.es/espana/barco-sanchez-gaza-basico-protegera-20250926232931-nt.html",
-      "scraped_at": "2025-09-26T21:28:38Z"
+      "scraped_at": "2025-09-27T06:35:08Z"
     }
   ]
 }
