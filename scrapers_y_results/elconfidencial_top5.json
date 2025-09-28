@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La última bala de Begoña ante Peinado: intentará desactivar la malversación: Discutirá la calificación del instructor que atribuye a la mujer del presidente del Gobierno un delito que obliga a juicio con jurado. Se espera que la Fiscalía también se oponga a la interpretación del magistrado; Espinosa de los Monteros y los movimientos que están sucediendo en las derechas: La presentación de Atenea y el anuncio de un nuevo partido liberal muestran movimientos en un agitado derecho del tablero. La lucha ideológica, más profunda de lo que parece, revela un momento diferente; No es lugar para cuarentones: el secreto de los hostels que acaba en pelea generacional: La proliferación de albergues en grandes ciudades los ha convertido en la opción más barata para dormir en ellas. Pero no son aptos para todos, si superas los 35 tus posibilidades de encontrar cama se van agotando. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-09-27T06:35:12Z",
+  "summary": "Resumen del día en El Confidencial: Fiscalía pide archivar la malversación pese a detectar 121 mails privados de la cátedra de Begoña: La vista estuvo marcada por la ausencia de los tres acusados, con la mujer del presidente a la cabeza, que no acudieron y fueron representados por sus abogados; Del 'No a la guerra' a Gaza, 25 años de agitación callejera de la izquierda: Entre manifestarse por una causa justa y hacerlo contra un partido político hay un trecho, pero el salto ha sido el aplauso del Gobierno al boicot violento a la Vuelta. En medio, acosos, escraches y señalamientos. Así se tensiona la calle; Marc Márquez completa su resurrección y conquista su séptimo Mundial de MotoGP: Logra un título que se le escapaba desde 2019, cuando consiguió un póker consecutivo. En sus siete primeras temporadas en MotoGP, ganó seis. El rey del motociclismo está de vuelta. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-09-28T06:37:02Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La última bala de Begoña ante Peinado: intentará desactivar la malversación",
-      "subtitle": "Discutirá la calificación del instructor que atribuye a la mujer del presidente del Gobierno un delito que obliga a juicio con jurado. Se espera que la Fiscalía también se oponga a la interpretación del magistrado",
-      "url": "https://www.elconfidencial.com/espana/2025-09-27/la-ultima-bala-de-begona-ante-peinado-tratara-de-desactivar-la-malversacion-en-su-comparecencia_4216714/",
-      "scraped_at": "2025-09-27T06:35:11Z"
+      "title": "Fiscalía pide archivar la malversación pese a detectar 121 mails privados de la cátedra de Begoña",
+      "subtitle": "La vista estuvo marcada por la ausencia de los tres acusados, con la mujer del presidente a la cabeza, que no acudieron y fueron representados por sus abogados",
+      "url": "https://www.elconfidencial.com/espana/2025-09-27/begona-gomez-fiscalia-defensas-comparecencia-malversacion-jurado_4217535/",
+      "scraped_at": "2025-09-28T06:37:01Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Espinosa de los Monteros y los movimientos que están sucediendo en las derechas",
-      "subtitle": "La presentación de Atenea y el anuncio de un nuevo partido liberal muestran movimientos en un agitado derecho del tablero. La lucha ideológica, más profunda de lo que parece, revela un momento diferente",
-      "url": "https://www.elconfidencial.com/espana/2025-09-27/espinosa-de-los-monteros-pedro-sanchez-feijoo-ayuso-trump_4217197/",
-      "scraped_at": "2025-09-27T06:35:11Z"
+      "title": "Del 'No a la guerra' a Gaza, 25 años de agitación callejera de la izquierda",
+      "subtitle": "Entre manifestarse por una causa justa y hacerlo contra un partido político hay un trecho, pero el salto ha sido el aplauso del Gobierno al boicot violento a la Vuelta. En medio, acosos, escraches y señalamientos. Así se tensiona la calle",
+      "url": "https://www.elconfidencial.com/espana/2025-09-28/agitacion-izquierda_4216748/",
+      "scraped_at": "2025-09-28T06:37:01Z"
     },
     {
       "source": "El Confidencial",
-      "title": "No es lugar para cuarentones: el secreto de los hostels que acaba en pelea generacional",
-      "subtitle": "La proliferación de albergues en grandes ciudades los ha convertido en la opción más barata para dormir en ellas. Pero no son aptos para todos, si superas los 35 tus posibilidades de encontrar cama se van agotando",
-      "url": "https://www.elconfidencial.com/economia/2025-09-27/albergues-hostels-edad-limites-ciudades-espanolas_4216706/",
-      "scraped_at": "2025-09-27T06:35:12Z"
+      "title": "Marc Márquez completa su resurrección y conquista su séptimo Mundial de MotoGP",
+      "subtitle": "Logra un título que se le escapaba desde 2019, cuando consiguió un póker consecutivo. En sus siete primeras temporadas en MotoGP, ganó seis. El rey del motociclismo está de vuelta",
+      "url": "https://www.elconfidencial.com/deportes/futbol/2025-09-28/marc-marquez-mundial-ducati-alex-marquez_4215957/",
+      "scraped_at": "2025-09-28T06:37:02Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Netanyahu, solo ante el púlpito: \"Así es como verá el mundo a Israel; a la defensiva y aislado\"",
-      "subtitle": "En cuanto terminó su discurso en el enorme salón de sesiones de la ONU casi vacío, con los aplausos enfervorecidos de la delegación israelí, varios analistas israelíes se lamentaron",
-      "url": "https://www.elconfidencial.com/mundo/2025-09-27/netanyahu-israel-onu-palestina_4217286/",
-      "scraped_at": "2025-09-27T06:35:12Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El tranvía 'fake' de Sevilla pone en pie de guerra al barrio que no tiene Metro",
-      "subtitle": "Tras meses de atascos por las obras, los vecinos de Sevilla Este protestarán contra el bus de tránsito rápido. El vehículo va por el mismo trayecto que debía ir el suburbano proyectado hace casi 25 años",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2025-09-25/el-tranvia-fake-que-tiene-en-pie-de-guerra-al-barrio-de-sevilla-que-clama-por-un-metro-que-no-llega_4216043/",
-      "scraped_at": "2025-09-27T06:35:12Z"
+      "title": "Las cosas se están moviendo en Ucrania. En España nadie parece estar mirando",
+      "subtitle": "La guerra en Ucrania está entrando en otra fase distinta con enormes implicaciones para la seguridad europea, pero en España no ha habido un debate a fondo sobre qué postura adoptar",
+      "url": "https://www.elconfidencial.com/mundo/2025-09-28/rusia-ucrania-europa-otan-amenaza-1hms_4217084/",
+      "scraped_at": "2025-09-28T06:37:02Z"
     }
   ]
 }

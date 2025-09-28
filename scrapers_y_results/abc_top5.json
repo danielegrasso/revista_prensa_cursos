@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Escribano busca proveedores no israelíes antes de vender a Indra para que su valor no se hunda: Mientras, algunos expertos ven el lado positivo de la desconexión: se abre la oportunidad para EM&E de desarrollar tecnología propia aunque les lleve tiempo y dinero; Empresas españolas de defensa avisan sobre contratar a dedo a Indra: «No tiene las capacidades»: El plan del Ejecutivo para privilegiar a la empresa semipública dispara el malestar en gran parte del sector; Montero llevará la senda de déficit sin apoyos al Congreso para acelerar los Presupuestos: Hacienda la presentará «pronto» y si fracasa, elaborará las cuentas con la actual: «Nos favorece». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-09-27T06:35:08Z",
+  "summary": "Resumen del día en ABC.es: La Fiscalía Europea estudia llevarse la instrucción de las mordidas de Cerdán: Anticorrupción es la que investiga pero la existencia de fondos de la Unión Europea plantea dudas; Begoña Gómez planta al juez Peinado pese a que la citó presencialmente: Su defensa se ha valido de una circular de Fiscalía que dice que la presencia del imputado «no es indispensable»; El Gobierno asume que aguantará sin Presupuestos en 2026 tras revisar el PIB al alza: Calcula que el récord de impuestos y los fondos europeos le dan margen aunque no consiga el aval del Congreso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-09-28T06:36:57Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Escribano busca proveedores no israelíes antes de vender a Indra para que su valor no se hunda",
-      "subtitle": "Mientras, algunos expertos ven el lado positivo de la desconexión: se abre la oportunidad para EM&E de desarrollar tecnología propia aunque les lleve tiempo y dinero",
-      "url": "https://www.abc.es/economia/tras-veto-israel-escribano-busca-proveedores-alternativos-20250927183939-nt.html",
-      "scraped_at": "2025-09-27T06:35:07Z"
+      "title": "La Fiscalía Europea estudia llevarse la instrucción de las mordidas de Cerdán",
+      "subtitle": "Anticorrupción es la que investiga pero la existencia de fondos de la Unión Europea plantea dudas",
+      "url": "https://www.abc.es/espana/fiscalia-europea-estudia-puede-quedarse-causa-cerdan-20250927183234-nt.html",
+      "scraped_at": "2025-09-28T06:36:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Empresas españolas de defensa avisan sobre contratar a dedo a Indra: «No tiene las capacidades»",
-      "subtitle": "El plan del Ejecutivo para privilegiar a la empresa semipública dispara el malestar en gran parte del sector",
-      "url": "https://www.abc.es/espana/empresas-espanolas-defensa-avisan-sobre-contratar-dedo-20250927040823-nt.html",
-      "scraped_at": "2025-09-27T06:35:07Z"
+      "title": "Begoña Gómez planta al juez Peinado pese a que la citó presencialmente",
+      "subtitle": "Su defensa se ha valido de una circular de Fiscalía que dice que la presencia del imputado «no es indispensable»",
+      "url": "https://www.abc.es/espana/begona-gomez-planta-juez-peinado-pese-cito-20250927215324-nt.html",
+      "scraped_at": "2025-09-28T06:36:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Montero llevará la senda de déficit sin apoyos al Congreso para acelerar los Presupuestos",
-      "subtitle": "Hacienda la presentará «pronto» y si fracasa, elaborará las cuentas con la actual: «Nos favorece»",
-      "url": "https://www.abc.es/espana/montero-llevara-senda-deficit-apoyos-congreso-acelerar-20250927182155-nt.html",
-      "scraped_at": "2025-09-27T06:35:07Z"
+      "title": "El Gobierno asume que aguantará sin Presupuestos en 2026 tras revisar el PIB al alza",
+      "subtitle": "Calcula que el récord de impuestos y los fondos europeos le dan margen aunque no consiga el aval del Congreso",
+      "url": "https://www.abc.es/economia/gobierno-asume-aguantara-presupuestos-2026-tras-revisar-20250928195519-nt.html",
+      "scraped_at": "2025-09-28T06:36:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Europa empieza a levantar el 'muro antidrones' frente a Rusia",
-      "subtitle": "Los países en 'primera línea' preparan con ayuda de Ucrania la red que detecte y derribe aparatos no tripulados",
-      "url": "https://www.abc.es/internacional/europa-empieza-levantar-muro-antidrones-frente-rusia-20250926040913-nt.html",
-      "scraped_at": "2025-09-27T06:35:07Z"
+      "title": "¡Marc Márquez, campeón del Mundo por novena vez!",
+      "subtitle": "Acaba segundo y consigue la renta necesaria con su hermano Álex para coger el testigo de Jorge Martín, que no pudo correr tras una fractura de clavícula por una caída en la esprint",
+      "url": "https://www.abc.es/deportes/motos/marc-marquez-campeon-mundo-novena-vez-20250928074723-nt.html",
+      "scraped_at": "2025-09-28T06:36:57Z"
     },
     {
       "source": "ABC.es",
       "title": "Buque Furor",
       "subtitle": "Militares consultados por ABC creen que el Gobierno se mueve «a golpe de efecto»",
       "url": "https://www.abc.es/espana/barco-sanchez-gaza-basico-protegera-20250926232931-nt.html",
-      "scraped_at": "2025-09-27T06:35:08Z"
+      "scraped_at": "2025-09-28T06:36:57Z"
     }
   ]
 }
