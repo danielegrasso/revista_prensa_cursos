@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno pide a Junts y a Podemos que dejen de cortocircuitar la mayoría que sostiene la legislatura: Los de Puigdemont y los de Belarra se cruzan insultos y reproches a cuenta del traspaso de las competencias migratorias y se convierten en una piedra en el zapato del Ejecutivo a la hora de poder sacar adelante su agenda legislativa; De Ayuso a la alcaldesa de Marbella: los cargos que tendrían que dimitir por tener familiares “en un juzgado”, según el listón de Feijóo: El discurso del PP sobre la exigencia de hacer dimitir a políticos con familiares imputados choca con su actuación en casos como el de la presidenta madrileña, cuya pareja irá a juicio por fraude fiscal; Begoña Gómez no acude al juzgado y su defensa pide a Peinado el archivo de la malversación: “Ni nombró, ni paga a la asesora”: Las acusaciones ultras solicitan la declaración como testigo de Pedro Sánchez durante una comparecencia a la que no asistió la mujer del presidente ni los otros dos investigados, amparados por la Ley del Jurado y una circular de la Fiscalía. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-09-28T06:36:55Z",
+  "summary": "Resumen del día en elDiario.es: La derecha española se revuelve ante el nuevo ciclo electoral: PP y Vox escenifican un distanciamiento aunque asumen que tendrán que aliarse para echar a Sánchez de la Moncloa; Junts azuza el discurso xenófobo ante el auge de Aliança Catalana; Alvise se abona a la carta del punitivismo de Bukele; y Espinosa de los Monteros espera su oportunidad con una nueva plataforma; El tribunal que juzgará al fiscal general por el correo de la pareja de Ayuso rechazó querellas similares contra la ministra Montero: Cinco de los siete magistrados del Supremo que sentenciarán el caso alegaron que los datos del expediente tributario de González Amador ya circulaban por las redacciones para inadmitir dos querellas por revelación de secretos contra María Jesús Montero; La iniciativa popular para regularizar migrantes languidece en el Congreso en pleno choque entre Junts y Podemos: Las negociaciones que el Gobierno trató de acelerar antes del verano se interrumpieron tras el estallido del caso Cerdán y los grupos no se han vuelto a reunir en un inicio de curso marcado por el endurecimiento de los discursos xenófobos de la derecha y también de Junts. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-09-29T06:44:20Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno pide a Junts y a Podemos que dejen de cortocircuitar la mayoría que sostiene la legislatura",
-      "subtitle": "Los de Puigdemont y los de Belarra se cruzan insultos y reproches a cuenta del traspaso de las competencias migratorias y se convierten en una piedra en el zapato del Ejecutivo a la hora de poder sacar adelante su agenda legislativa",
-      "url": "https://www.eldiario.es/politica/gobierno-pide-junts-dejen-cortocircuitar-mayoria-parlamentaria-sostiene-legislatura_1_12632955.html",
-      "scraped_at": "2025-09-28T06:36:54Z"
+      "title": "La derecha española se revuelve ante el nuevo ciclo electoral",
+      "subtitle": "PP y Vox escenifican un distanciamiento aunque asumen que tendrán que aliarse para echar a Sánchez de la Moncloa; Junts azuza el discurso xenófobo ante el auge de Aliança Catalana; Alvise se abona a la carta del punitivismo de Bukele; y Espinosa de los Monteros espera su oportunidad con una nueva plataforma",
+      "url": "https://www.eldiario.es/politica/derecha-espanola-revuelve-nuevo-ciclo-electoral_1_12636636.html",
+      "scraped_at": "2025-09-29T06:44:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De Ayuso a la alcaldesa de Marbella: los cargos que tendrían que dimitir por tener familiares “en un juzgado”, según el listón de Feijóo",
-      "subtitle": "El discurso del PP sobre la exigencia de hacer dimitir a políticos con familiares imputados choca con su actuación en casos como el de la presidenta madrileña, cuya pareja irá a juicio por fraude fiscal",
-      "url": "https://www.eldiario.es/politica/ayuso-alcaldesa-marbella-cargos-tendrian-dimitir-familiares-juzgado-liston-feijoo_1_12631871.html",
-      "scraped_at": "2025-09-28T06:36:54Z"
+      "title": "El tribunal que juzgará al fiscal general por el correo de la pareja de Ayuso rechazó querellas similares contra la ministra Montero",
+      "subtitle": "Cinco de los siete magistrados del Supremo que sentenciarán el caso alegaron que los datos del expediente tributario de González Amador ya circulaban por las redacciones para inadmitir dos querellas por revelación de secretos contra María Jesús Montero",
+      "url": "https://www.eldiario.es/politica/tribunal-juzgara-fiscal-general-correo-pareja-ayuso-rechazo-querellas-similares-ministra-montero_1_12634028.html",
+      "scraped_at": "2025-09-29T06:44:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez no acude al juzgado y su defensa pide a Peinado el archivo de la malversación: “Ni nombró, ni paga a la asesora”",
-      "subtitle": "Las acusaciones ultras solicitan la declaración como testigo de Pedro Sánchez durante una comparecencia a la que no asistió la mujer del presidente ni los otros dos investigados, amparados por la Ley del Jurado y una circular de la Fiscalía",
-      "url": "https://www.eldiario.es/politica/begona-gomez-no-acudira-citacion-juez-peinado-estara-representada-abogado_1_12637889.html",
-      "scraped_at": "2025-09-28T06:36:54Z"
+      "title": "La iniciativa popular para regularizar migrantes languidece en el Congreso en pleno choque entre Junts y Podemos",
+      "subtitle": "Las negociaciones que el Gobierno trató de acelerar antes del verano se interrumpieron tras el estallido del caso Cerdán y los grupos no se han vuelto a reunir en un inicio de curso marcado por el endurecimiento de los discursos xenófobos de la derecha y también de Junts",
+      "url": "https://www.eldiario.es/politica/iniciativa-popular-regularizar-migrantes-languidece-congreso-pleno-choque-junts_1_12634330.html",
+      "scraped_at": "2025-09-29T06:44:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez fija el marco del debate en Gaza y arrastra a Feijóo a una posición imposible",
-      "subtitle": "La agenda de la oposición circunvala en torno a los casos judiciales excepto el del novio de Ayuso mientras el Gobierno hurga en la herida del genocidio y eleva al presidente a líder de la resistencia global contra Netanyahu y Trump",
-      "url": "https://www.eldiario.es/politica/sanchez-fija-marco-debate-gaza-arrastra-feijoo-posicion-imposible_129_12635581.html",
-      "scraped_at": "2025-09-28T06:36:55Z"
+      "title": "Del calor severo al fuego devastador y ahora las lluvias torrenciales: la crisis climática ya es lo normal en España",
+      "subtitle": "El calentamiento global obliga a soportar un cóctel destructivo que se repite y evidencia la necesidad de adaptación a una \"realidad inequívoca\"",
+      "url": "https://www.eldiario.es/sociedad/calor-severo-fuego-devastador-ahora-lluvias-torrenciales-crisis-climatica-normal-espana_1_12624221.html",
+      "scraped_at": "2025-09-29T06:44:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Gustavo Petro",
-      "subtitle": "La Administración Trump acusa al mandatario colombiano de instar a los soldados estadounidenses \"a desobedecer órdenes e incitar a la violencia\".",
-      "url": "https://www.eldiario.es/internacional/eeuu-revocara-visado-presidente-colombia-gustavo-petro-despues-protesta-nueva-york-genocidio_1_12637177.html",
-      "scraped_at": "2025-09-28T06:36:55Z"
+      "title": "Moldavia",
+      "subtitle": "El partido de la presidenta Maia Sandu consigue veinte puntos más que el bloque prorruso, en unos comicios marcados por las acusaciones de injerencias del Kremlin",
+      "url": "https://www.eldiario.es/internacional/proeuropeos-pierden-mayoria-moldavia-complica-camino-ue-primeros-resultados_1_12639617.html",
+      "scraped_at": "2025-09-29T06:44:20Z"
     }
   ]
 }

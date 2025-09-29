@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Fiscalía Europea estudia llevarse la instrucción de las mordidas de Cerdán: Anticorrupción es la que investiga pero la existencia de fondos de la Unión Europea plantea dudas; Begoña Gómez planta al juez Peinado pese a que la citó presencialmente: Su defensa se ha valido de una circular de Fiscalía que dice que la presencia del imputado «no es indispensable»; El Gobierno asume que aguantará sin Presupuestos en 2026 tras revisar el PIB al alza: Calcula que el récord de impuestos y los fondos europeos le dan margen aunque no consiga el aval del Congreso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-09-28T06:36:57Z",
+  "summary": "Resumen del día en ABC.es: Varias comunidades del PP sopesan adelantar elecciones en 2026: En Aragón opera la falta de Presupuestos y en Extremadura se suma la crisis del PSOE con Gallardo; La inestabilidad en el empleo se dispara en España con contratos temporales de sólo 37 días: La calidad del empleo eventual se deteriora a niveles desconocidos: más del 38% de los trabajos no supera la semana, pese a las penalizaciones; El edadismo no da tregua: la mitad de los parados tiene más de 50: Ofensiva del PP en el Senado para «erradicar» la discriminación laboral por edad: «Si no actuamos, perdemos todos». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-09-29T06:44:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Fiscalía Europea estudia llevarse la instrucción de las mordidas de Cerdán",
-      "subtitle": "Anticorrupción es la que investiga pero la existencia de fondos de la Unión Europea plantea dudas",
-      "url": "https://www.abc.es/espana/fiscalia-europea-estudia-puede-quedarse-causa-cerdan-20250927183234-nt.html",
-      "scraped_at": "2025-09-28T06:36:56Z"
+      "title": "Varias comunidades del PP sopesan adelantar elecciones en 2026",
+      "subtitle": "En Aragón opera la falta de Presupuestos y en Extremadura se suma la crisis del PSOE con Gallardo",
+      "url": "https://www.abc.es/espana/varias-comunidades-pp-sopesan-adelantar-elecciones-2026-20250929182414-nt.html",
+      "scraped_at": "2025-09-29T06:44:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "Begoña Gómez planta al juez Peinado pese a que la citó presencialmente",
-      "subtitle": "Su defensa se ha valido de una circular de Fiscalía que dice que la presencia del imputado «no es indispensable»",
-      "url": "https://www.abc.es/espana/begona-gomez-planta-juez-peinado-pese-cito-20250927215324-nt.html",
-      "scraped_at": "2025-09-28T06:36:57Z"
+      "title": "La inestabilidad en el empleo se dispara en España con contratos temporales de sólo 37 días",
+      "subtitle": "La calidad del empleo eventual se deteriora a niveles desconocidos: más del 38% de los trabajos no supera la semana, pese a las penalizaciones",
+      "url": "https://www.abc.es/economia/inestabilidad-dispara-trabajos-temporales-solo-dias-20250929171824-nt.html",
+      "scraped_at": "2025-09-29T06:44:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno asume que aguantará sin Presupuestos en 2026 tras revisar el PIB al alza",
-      "subtitle": "Calcula que el récord de impuestos y los fondos europeos le dan margen aunque no consiga el aval del Congreso",
-      "url": "https://www.abc.es/economia/gobierno-asume-aguantara-presupuestos-2026-tras-revisar-20250928195519-nt.html",
-      "scraped_at": "2025-09-28T06:36:57Z"
+      "title": "El edadismo no da tregua: la mitad de los parados tiene más de 50",
+      "subtitle": "Ofensiva del PP en el Senado para «erradicar» la discriminación laboral por edad: «Si no actuamos, perdemos todos»",
+      "url": "https://www.abc.es/economia/edadismo-tregua-mitad-parados-20250929174456-nt.html",
+      "scraped_at": "2025-09-29T06:44:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "¡Marc Márquez, campeón del Mundo por novena vez!",
-      "subtitle": "Acaba segundo y consigue la renta necesaria con su hermano Álex para coger el testigo de Jorge Martín, que no pudo correr tras una fractura de clavícula por una caída en la esprint",
-      "url": "https://www.abc.es/deportes/motos/marc-marquez-campeon-mundo-novena-vez-20250928074723-nt.html",
-      "scraped_at": "2025-09-28T06:36:57Z"
+      "title": "Viaje a Israel: ganar la guerra, perder el relato",
+      "subtitle": "Cada vez más aislado, el Gobierno hebreo se defiende de las acusaciones de genocidio y hambruna y recuerda que el conflicto en Gaza empezó con el atentado del 7-O y sigue porque Hamás no libera a los rehenes ni se rinde",
+      "url": "https://www.abc.es/internacional/viaje-israel-ganar-guerra-perder-relato-20250926232921-nt.html",
+      "scraped_at": "2025-09-29T06:44:21Z"
     },
     {
       "source": "ABC.es",
       "title": "Buque Furor",
       "subtitle": "Militares consultados por ABC creen que el Gobierno se mueve «a golpe de efecto»",
       "url": "https://www.abc.es/espana/barco-sanchez-gaza-basico-protegera-20250926232931-nt.html",
-      "scraped_at": "2025-09-28T06:36:57Z"
+      "scraped_at": "2025-09-29T06:44:22Z"
     }
   ]
 }

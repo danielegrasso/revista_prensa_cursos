@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Fiscalía pide archivar la malversación pese a detectar 121 mails privados de la cátedra de Begoña: La vista estuvo marcada por la ausencia de los tres acusados, con la mujer del presidente a la cabeza, que no acudieron y fueron representados por sus abogados; Del 'No a la guerra' a Gaza, 25 años de agitación callejera de la izquierda: Entre manifestarse por una causa justa y hacerlo contra un partido político hay un trecho, pero el salto ha sido el aplauso del Gobierno al boicot violento a la Vuelta. En medio, acosos, escraches y señalamientos. Así se tensiona la calle; Marc Márquez completa su resurrección y conquista su séptimo Mundial de MotoGP: Logra un título que se le escapaba desde 2019, cuando consiguió un póker consecutivo. En sus siete primeras temporadas en MotoGP, ganó seis. El rey del motociclismo está de vuelta. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-09-28T06:37:02Z",
+  "summary": "Resumen del día en El Confidencial: Un abogado del círculo del PNV pagó a Belén Cerdán para triangular dinero de la trama: Gotzon Gondra, letrado del Consejo Superior de Cooperativas de Euskadi con el PNV, colocó a Belén Cerdán en una cooperativa para ocultar el dinero que recibió de la constructora clave del caso Koldo; Operación Chamartín llega a la Audiencia Nacional: admite el recurso de Trinitario: La Audiencia admite a trámite el escrito de Baraka y los reversionistas, en el que piden la nulidad del convenio de 2018 y, con ello, invalidar la venta de los terrenos de Chamartín; Un tiroteo en una iglesia mormona de Míchigan deja cinco muertos, entre ellos el tirador: Al menos cinco personas fallecieron y ocho resultaron heridas tras un ataque armado y posterior incendio en un templo religioso de Míchigan. El FBI investiga posibles motivaciones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-09-29T06:44:27Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Fiscalía pide archivar la malversación pese a detectar 121 mails privados de la cátedra de Begoña",
-      "subtitle": "La vista estuvo marcada por la ausencia de los tres acusados, con la mujer del presidente a la cabeza, que no acudieron y fueron representados por sus abogados",
-      "url": "https://www.elconfidencial.com/espana/2025-09-27/begona-gomez-fiscalia-defensas-comparecencia-malversacion-jurado_4217535/",
-      "scraped_at": "2025-09-28T06:37:01Z"
+      "title": "Un abogado del círculo del PNV pagó a Belén Cerdán para triangular dinero de la trama",
+      "subtitle": "Gotzon Gondra, letrado del Consejo Superior de Cooperativas de Euskadi con el PNV, colocó a Belén Cerdán en una cooperativa para ocultar el dinero que recibió de la constructora clave del caso Koldo",
+      "url": "https://www.elconfidencial.com/espana/2025-09-29/cerdan-hermana-pnv-sanchez-psoe-koldo-gotzon_4217691/",
+      "scraped_at": "2025-09-29T06:44:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Del 'No a la guerra' a Gaza, 25 años de agitación callejera de la izquierda",
-      "subtitle": "Entre manifestarse por una causa justa y hacerlo contra un partido político hay un trecho, pero el salto ha sido el aplauso del Gobierno al boicot violento a la Vuelta. En medio, acosos, escraches y señalamientos. Así se tensiona la calle",
-      "url": "https://www.elconfidencial.com/espana/2025-09-28/agitacion-izquierda_4216748/",
-      "scraped_at": "2025-09-28T06:37:01Z"
+      "title": "Operación Chamartín llega a la Audiencia Nacional: admite el recurso de Trinitario",
+      "subtitle": "La Audiencia admite a trámite el escrito de Baraka y los reversionistas, en el que piden la nulidad del convenio de 2018 y, con ello, invalidar la venta de los terrenos de Chamartín",
+      "url": "https://www.elconfidencial.com/inmobiliario/2025-09-29/operacion-chamartin-audiencia-nacional-trinitario_4216925/",
+      "scraped_at": "2025-09-29T06:44:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Marc Márquez completa su resurrección y conquista su séptimo Mundial de MotoGP",
-      "subtitle": "Logra un título que se le escapaba desde 2019, cuando consiguió un póker consecutivo. En sus siete primeras temporadas en MotoGP, ganó seis. El rey del motociclismo está de vuelta",
-      "url": "https://www.elconfidencial.com/deportes/futbol/2025-09-28/marc-marquez-mundial-ducati-alex-marquez_4215957/",
-      "scraped_at": "2025-09-28T06:37:02Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Las cosas se están moviendo en Ucrania. En España nadie parece estar mirando",
-      "subtitle": "La guerra en Ucrania está entrando en otra fase distinta con enormes implicaciones para la seguridad europea, pero en España no ha habido un debate a fondo sobre qué postura adoptar",
-      "url": "https://www.elconfidencial.com/mundo/2025-09-28/rusia-ucrania-europa-otan-amenaza-1hms_4217084/",
-      "scraped_at": "2025-09-28T06:37:02Z"
+      "title": "Un tiroteo en una iglesia mormona de Míchigan deja cinco muertos, entre ellos el tirador",
+      "subtitle": "Al menos cinco personas fallecieron y ocho resultaron heridas tras un ataque armado y posterior incendio en un templo religioso de Míchigan. El FBI investiga posibles motivaciones",
+      "url": "https://www.elconfidencial.com/mundo/2025-09-29/tiroteo-iglesia-michigan-victimas-1tps-1tna_4217948/",
+      "scraped_at": "2025-09-29T06:44:27Z"
     }
   ]
 }
