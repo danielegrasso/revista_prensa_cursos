@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Varias comunidades del PP sopesan adelantar elecciones en 2026: En Aragón opera la falta de Presupuestos y en Extremadura se suma la crisis del PSOE con Gallardo; La inestabilidad en el empleo se dispara en España con contratos temporales de sólo 37 días: La calidad del empleo eventual se deteriora a niveles desconocidos: más del 38% de los trabajos no supera la semana, pese a las penalizaciones; El edadismo no da tregua: la mitad de los parados tiene más de 50: Ofensiva del PP en el Senado para «erradicar» la discriminación laboral por edad: «Si no actuamos, perdemos todos». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-09-29T06:44:22Z",
+  "summary": "Resumen del día en ABC.es: Moncloa usará a Peinado para victimizarse y 'anular' la causa contra Begoña Gómez: El Gobierno busca victimizarse y promover un cuestionamiento global de la causa; Podemos ignora al PSOE y rechaza negociar el embargo de armas a Israel: El Ejecutivo no cuenta con los apoyos suficientes para su convalidación; Consumo investigará a empresas que ofrecen en España productos hechos en territorios palestinos ocupados: La intención de Consumo es conseguir que «cualquier empresa con actividad en España abandone toda operación vinculada a la ocupación israelí, ya sea directa o indirectamente». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-09-30T06:42:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Varias comunidades del PP sopesan adelantar elecciones en 2026",
+      "title": "Moncloa usará a Peinado para victimizarse y 'anular' la causa contra Begoña Gómez",
+      "subtitle": "El Gobierno busca victimizarse y promover un cuestionamiento global de la causa",
+      "url": "https://www.abc.es/espana/moncloa-usara-peinado-anular-causa-gomez-20250930193120-nt.html",
+      "scraped_at": "2025-09-30T06:42:39Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Podemos ignora al PSOE y rechaza negociar el embargo de armas a Israel",
+      "subtitle": "El Ejecutivo no cuenta con los apoyos suficientes para su convalidación",
+      "url": "https://www.abc.es/espana/podemos-ignora-psoe-rechaza-negociar-embargo-israel-20250929222108-nt.html",
+      "scraped_at": "2025-09-30T06:42:39Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Consumo investigará a empresas que ofrecen en España productos hechos en territorios palestinos ocupados",
+      "subtitle": "La intención de Consumo es conseguir que «cualquier empresa con actividad en España abandone toda operación vinculada a la ocupación israelí, ya sea directa o indirectamente»",
+      "url": "https://www.abc.es/sociedad/consumo-investigara-empresas-ofrecen-espana-productos-territorios-20250930082833-nt.html",
+      "scraped_at": "2025-09-30T06:42:39Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "PP y Vox entran en el cuerpo a cuerpo con el debate de la inmigración",
+      "subtitle": "Abascal acusa al PP de «copiar» sus propuestas y duda que llegaran a implementarlas",
+      "url": "https://www.abc.es/espana/pp-vox-entran-cuerpo-cuerpo-debate-inmigracion-20250930190308-nt.html",
+      "scraped_at": "2025-09-30T06:42:39Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Elecciones",
       "subtitle": "En Aragón opera la falta de Presupuestos y en Extremadura se suma la crisis del PSOE con Gallardo",
       "url": "https://www.abc.es/espana/varias-comunidades-pp-sopesan-adelantar-elecciones-2026-20250929182414-nt.html",
-      "scraped_at": "2025-09-29T06:44:20Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "La inestabilidad en el empleo se dispara en España con contratos temporales de sólo 37 días",
-      "subtitle": "La calidad del empleo eventual se deteriora a niveles desconocidos: más del 38% de los trabajos no supera la semana, pese a las penalizaciones",
-      "url": "https://www.abc.es/economia/inestabilidad-dispara-trabajos-temporales-solo-dias-20250929171824-nt.html",
-      "scraped_at": "2025-09-29T06:44:20Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El edadismo no da tregua: la mitad de los parados tiene más de 50",
-      "subtitle": "Ofensiva del PP en el Senado para «erradicar» la discriminación laboral por edad: «Si no actuamos, perdemos todos»",
-      "url": "https://www.abc.es/economia/edadismo-tregua-mitad-parados-20250929174456-nt.html",
-      "scraped_at": "2025-09-29T06:44:21Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Viaje a Israel: ganar la guerra, perder el relato",
-      "subtitle": "Cada vez más aislado, el Gobierno hebreo se defiende de las acusaciones de genocidio y hambruna y recuerda que el conflicto en Gaza empezó con el atentado del 7-O y sigue porque Hamás no libera a los rehenes ni se rinde",
-      "url": "https://www.abc.es/internacional/viaje-israel-ganar-guerra-perder-relato-20250926232921-nt.html",
-      "scraped_at": "2025-09-29T06:44:21Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Buque Furor",
-      "subtitle": "Militares consultados por ABC creen que el Gobierno se mueve «a golpe de efecto»",
-      "url": "https://www.abc.es/espana/barco-sanchez-gaza-basico-protegera-20250926232931-nt.html",
-      "scraped_at": "2025-09-29T06:44:22Z"
+      "scraped_at": "2025-09-30T06:42:39Z"
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Un abogado del círculo del PNV pagó a Belén Cerdán para triangular dinero de la trama: Gotzon Gondra, letrado del Consejo Superior de Cooperativas de Euskadi con el PNV, colocó a Belén Cerdán en una cooperativa para ocultar el dinero que recibió de la constructora clave del caso Koldo; Operación Chamartín llega a la Audiencia Nacional: admite el recurso de Trinitario: La Audiencia admite a trámite el escrito de Baraka y los reversionistas, en el que piden la nulidad del convenio de 2018 y, con ello, invalidar la venta de los terrenos de Chamartín; Un tiroteo en una iglesia mormona de Míchigan deja cinco muertos, entre ellos el tirador: Al menos cinco personas fallecieron y ocho resultaron heridas tras un ataque armado y posterior incendio en un templo religioso de Míchigan. El FBI investiga posibles motivaciones. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-09-29T06:44:27Z",
+  "summary": "Resumen del día en El Confidencial: España dispara sus compras de armas a Israel antes de entrar en vigor el embargo: Las importaciones de armas y tanques realizadas por España a Israel ascienden a 19,8 millones en lo que va de 2025. El Gobierno lo justifica por &quot;necesidades de la defensa nacional&quot; y por &quot;programas estratégicos&quot; del Ministerio de Defensa; Trump logra el visto bueno de Netanyahu a su \"plan de paz\" para Gaza, a la espera de Hamás: El acuerdo promete reconstrucción y amnistías, pero condiciona la paz a la entrega de armas por parte de Hamás, bajo amenaza de continuar con la guerra; Los informes rompen el relato de Moncloa de que no hay \"nada\" en el caso: La Moncloa se aferra a que Red.es &quot;viene aplicando desde marzo de 2011&quot; las mismas normas de contratación y asegura que puede explicar todos los pormenores del informe remitido a la Fiscalía Europea. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-09-30T06:42:43Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Un abogado del círculo del PNV pagó a Belén Cerdán para triangular dinero de la trama",
-      "subtitle": "Gotzon Gondra, letrado del Consejo Superior de Cooperativas de Euskadi con el PNV, colocó a Belén Cerdán en una cooperativa para ocultar el dinero que recibió de la constructora clave del caso Koldo",
-      "url": "https://www.elconfidencial.com/espana/2025-09-29/cerdan-hermana-pnv-sanchez-psoe-koldo-gotzon_4217691/",
-      "scraped_at": "2025-09-29T06:44:26Z"
+      "title": "España dispara sus compras de armas a Israel antes de entrar en vigor el embargo",
+      "subtitle": "Las importaciones de armas y tanques realizadas por España a Israel ascienden a 19,8 millones en lo que va de 2025. El Gobierno lo justifica por &quot;necesidades de la defensa nacional&quot; y por &quot;programas estratégicos&quot; del Ministerio de Defensa",
+      "url": "https://www.elconfidencial.com/economia/2025-09-30/espana-dispara-compras-armas-israel-antes-embargo_4218600/",
+      "scraped_at": "2025-09-30T06:42:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Operación Chamartín llega a la Audiencia Nacional: admite el recurso de Trinitario",
-      "subtitle": "La Audiencia admite a trámite el escrito de Baraka y los reversionistas, en el que piden la nulidad del convenio de 2018 y, con ello, invalidar la venta de los terrenos de Chamartín",
-      "url": "https://www.elconfidencial.com/inmobiliario/2025-09-29/operacion-chamartin-audiencia-nacional-trinitario_4216925/",
-      "scraped_at": "2025-09-29T06:44:26Z"
+      "title": "Trump logra el visto bueno de Netanyahu a su \"plan de paz\" para Gaza, a la espera de Hamás",
+      "subtitle": "El acuerdo promete reconstrucción y amnistías, pero condiciona la paz a la entrega de armas por parte de Hamás, bajo amenaza de continuar con la guerra",
+      "url": "https://www.elconfidencial.com/mundo/2025-09-30/trump-netanyahu-plan-paz-gaza_4218796/",
+      "scraped_at": "2025-09-30T06:42:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un tiroteo en una iglesia mormona de Míchigan deja cinco muertos, entre ellos el tirador",
-      "subtitle": "Al menos cinco personas fallecieron y ocho resultaron heridas tras un ataque armado y posterior incendio en un templo religioso de Míchigan. El FBI investiga posibles motivaciones",
-      "url": "https://www.elconfidencial.com/mundo/2025-09-29/tiroteo-iglesia-michigan-victimas-1tps-1tna_4217948/",
-      "scraped_at": "2025-09-29T06:44:27Z"
+      "title": "Los informes rompen el relato de Moncloa de que no hay \"nada\" en el caso",
+      "subtitle": "La Moncloa se aferra a que Red.es &quot;viene aplicando desde marzo de 2011&quot; las mismas normas de contratación y asegura que puede explicar todos los pormenores del informe remitido a la Fiscalía Europea",
+      "url": "https://www.elconfidencial.com/espana/2025-09-30/revelaciones-fiscalia-europea-begona-gomez-rompen-relato-gobierno_4218699/",
+      "scraped_at": "2025-09-30T06:42:43Z"
     }
   ]
 }
