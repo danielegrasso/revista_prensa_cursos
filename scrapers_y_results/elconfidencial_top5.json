@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: España dispara sus compras de armas a Israel antes de entrar en vigor el embargo: Las importaciones de armas y tanques realizadas por España a Israel ascienden a 19,8 millones en lo que va de 2025. El Gobierno lo justifica por &quot;necesidades de la defensa nacional&quot; y por &quot;programas estratégicos&quot; del Ministerio de Defensa; Trump logra el visto bueno de Netanyahu a su \"plan de paz\" para Gaza, a la espera de Hamás: El acuerdo promete reconstrucción y amnistías, pero condiciona la paz a la entrega de armas por parte de Hamás, bajo amenaza de continuar con la guerra; Los informes rompen el relato de Moncloa de que no hay \"nada\" en el caso: La Moncloa se aferra a que Red.es &quot;viene aplicando desde marzo de 2011&quot; las mismas normas de contratación y asegura que puede explicar todos los pormenores del informe remitido a la Fiscalía Europea. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-09-30T06:42:43Z",
+  "summary": "Resumen del día en El Confidencial: Fiscalía Europea abre más investigaciones tras el duro informe de los contratos al amigo de Begoña: La pericial supone un punto de inflexión en el caso a cargo del departamento de la UE que abrirá ahora el foco de sus pesquisas y practicará nueva prueba con declaraciones y más informes; Pero quiénes son esos \"futuristas\" que están fichando cada vez más empresas españolas: España se ha resistido, pero ha terminado rindiéndose ante los prospectivistas: todas las grandes empresas (e instituciones públicas) quieren contar con ellos; La falta de acuerdo en el Congreso activa un cierre parcial del Gobierno en EEUU: La incapacidad de republicanos y demócratas para acordar un presupuesto antes de la fecha límite fijada para este miércoles ha activado un cierre del Gobierno Federal de EEUU, por ahora solo de servicios no esenciales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-01T06:41:59Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España dispara sus compras de armas a Israel antes de entrar en vigor el embargo",
-      "subtitle": "Las importaciones de armas y tanques realizadas por España a Israel ascienden a 19,8 millones en lo que va de 2025. El Gobierno lo justifica por &quot;necesidades de la defensa nacional&quot; y por &quot;programas estratégicos&quot; del Ministerio de Defensa",
-      "url": "https://www.elconfidencial.com/economia/2025-09-30/espana-dispara-compras-armas-israel-antes-embargo_4218600/",
-      "scraped_at": "2025-09-30T06:42:43Z"
+      "title": "Fiscalía Europea abre más investigaciones tras el duro informe de los contratos al amigo de Begoña",
+      "subtitle": "La pericial supone un punto de inflexión en el caso a cargo del departamento de la UE que abrirá ahora el foco de sus pesquisas y practicará nueva prueba con declaraciones y más informes",
+      "url": "https://www.elconfidencial.com/espana/2025-10-01/fiscalia-europea-amplia-investigacion-informe-contratos-amigo-begona_4219275/",
+      "scraped_at": "2025-10-01T06:41:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump logra el visto bueno de Netanyahu a su \"plan de paz\" para Gaza, a la espera de Hamás",
-      "subtitle": "El acuerdo promete reconstrucción y amnistías, pero condiciona la paz a la entrega de armas por parte de Hamás, bajo amenaza de continuar con la guerra",
-      "url": "https://www.elconfidencial.com/mundo/2025-09-30/trump-netanyahu-plan-paz-gaza_4218796/",
-      "scraped_at": "2025-09-30T06:42:43Z"
+      "title": "Pero quiénes son esos \"futuristas\" que están fichando cada vez más empresas españolas",
+      "subtitle": "España se ha resistido, pero ha terminado rindiéndose ante los prospectivistas: todas las grandes empresas (e instituciones públicas) quieren contar con ellos",
+      "url": "https://www.elconfidencial.com/economia/2025-10-01/quienes-son-futuristas-empresas-espanolas_4219113/",
+      "scraped_at": "2025-10-01T06:41:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los informes rompen el relato de Moncloa de que no hay \"nada\" en el caso",
-      "subtitle": "La Moncloa se aferra a que Red.es &quot;viene aplicando desde marzo de 2011&quot; las mismas normas de contratación y asegura que puede explicar todos los pormenores del informe remitido a la Fiscalía Europea",
-      "url": "https://www.elconfidencial.com/espana/2025-09-30/revelaciones-fiscalia-europea-begona-gomez-rompen-relato-gobierno_4218699/",
-      "scraped_at": "2025-09-30T06:42:43Z"
+      "title": "La falta de acuerdo en el Congreso activa un cierre parcial del Gobierno en EEUU",
+      "subtitle": "La incapacidad de republicanos y demócratas para acordar un presupuesto antes de la fecha límite fijada para este miércoles ha activado un cierre del Gobierno Federal de EEUU, por ahora solo de servicios no esenciales",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-01/la-falta-de-acuerdo-en-el-congreso-activa-un-cierre-parcial-del-gobierno-federal-en-eeuu_4219560/",
+      "scraped_at": "2025-10-01T06:41:58Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "País Vasco",
+      "subtitle": "El líder nacionalista plantea avanzar en autogobierno vasco, explora pactos con otras formaciones y advierte sobre la compleja situación política y los retos para la identidad regional",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/",
+      "scraped_at": "2025-10-01T06:41:59Z"
     }
   ]
 }
