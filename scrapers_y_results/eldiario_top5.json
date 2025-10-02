@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: EEUU cierra su Gobierno por la falta de apoyos de Trump para su plan de gasto: Los demócratas han rehusado renovar el presupuesto del ejecutivo hasta el 21 de noviembre por la negativa de los republicanos a incluir sus demandas sobre la financiación de los servicios de salud; Dudas en Israel sobre el compromiso de Netanyahu con el plan para Gaza: “Ha demostrado que puede matar cualquier acuerdo”: El primer ministro ya ha rechazado uno de los puntos del plan y podría intentar boicotear su aplicación, como ha hecho con otros acuerdos en los pasados dos años en los que ha prolongado la guerra en Gaza; Tony Blair, la estrella laborista que cayó por la invasión de Irak y busca ahora redención en Oriente Próximo: El regreso del ex primer ministro británico, que ha construido su fundación con la ayuda del multimillonario estadounidense Larry Ellison, ha sorprendido a su propio partido mientras el actual Gobierno británico reconoce no tener información de su plan y sus relaciones con Trump. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-01T06:41:52Z",
+  "summary": "Resumen del día en elDiario.es: Israel aborda la flotilla y detiene a sus tripulantes para que no llegue a Gaza: Tras un mes de travesía y varios ataques, Israel intercepta a una veintena de embarcaciones de la Flotilla Global Sumud cuando estaba a unas 100 millas de la costa de Gaza y detiene a sus tripulantes, cuyo paradero se desconoce de momento; Manifestaciones por todo el mundo reclaman la liberación de los activistas de la flotilla detenidos por Israel: El asalto de Israel a la flotilla provoca la reacción de ciudadanos de distintos países y de algunos gobiernos, que reclaman al país hebreo la liberación de los detenidos; Mahmud Al Habbash: “El pueblo de Gaza está esperando que volvamos a la Franja”: El plan presentado por Donald Trump para Gaza no aclara el papel de la Autoridad Palestina, pero abre la puerta a que vuelva a gobernar en la Franja en el futuro. Por su parte, la Autoridad que encabeza Mahmud Abás no renuncia a Gaza como parte integral del Estado palestino. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-02T06:39:18Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "EEUU cierra su Gobierno por la falta de apoyos de Trump para su plan de gasto",
-      "subtitle": "Los demócratas han rehusado renovar el presupuesto del ejecutivo hasta el 21 de noviembre por la negativa de los republicanos a incluir sus demandas sobre la financiación de los servicios de salud",
-      "url": "https://www.eldiario.es/internacional/estados-unidos-adentra-cierre-gobierno-amenaza-trump-despidos-masivos_1_12646515.html",
-      "scraped_at": "2025-10-01T06:41:50Z"
+      "title": "Israel aborda la flotilla y detiene a sus tripulantes para que no llegue a Gaza",
+      "subtitle": "Tras un mes de travesía y varios ataques, Israel intercepta a una veintena de embarcaciones de la Flotilla Global Sumud cuando estaba a unas 100 millas de la costa de Gaza y detiene a sus tripulantes, cuyo paradero se desconoce de momento",
+      "url": "https://www.eldiario.es/internacional/flotilla-humanitaria-alerta-barcos-israel-aproximando-impedir-llegada-gaza_1_12648987.html",
+      "scraped_at": "2025-10-02T06:39:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Dudas en Israel sobre el compromiso de Netanyahu con el plan para Gaza: “Ha demostrado que puede matar cualquier acuerdo”",
-      "subtitle": "El primer ministro ya ha rechazado uno de los puntos del plan y podría intentar boicotear su aplicación, como ha hecho con otros acuerdos en los pasados dos años en los que ha prolongado la guerra en Gaza",
-      "url": "https://www.eldiario.es/internacional/dudas-israel-compromiso-netanyahu-plan-gaza-demostrado-matar-acuerdo_1_12645775.html",
-      "scraped_at": "2025-10-01T06:41:50Z"
+      "title": "Manifestaciones por todo el mundo reclaman la liberación de los activistas de la flotilla detenidos por Israel",
+      "subtitle": "El asalto de Israel a la flotilla provoca la reacción de ciudadanos de distintos países y de algunos gobiernos, que reclaman al país hebreo la liberación de los detenidos",
+      "url": "https://www.eldiario.es/internacional/manifestaciones-mundo-reclaman-liberacion-activistas-flotilla-detenidos-israel_1_12649975.html",
+      "scraped_at": "2025-10-02T06:39:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Tony Blair, la estrella laborista que cayó por la invasión de Irak y busca ahora redención en Oriente Próximo",
-      "subtitle": "El regreso del ex primer ministro británico, que ha construido su fundación con la ayuda del multimillonario estadounidense Larry Ellison, ha sorprendido a su propio partido mientras el actual Gobierno británico reconoce no tener información de su plan y sus relaciones con Trump",
-      "url": "https://www.eldiario.es/internacional/tony-blair-estrella-laborista-cayo-invasion-irak-busca-ahora-redencion-oriente-proximo_1_12645832.html",
-      "scraped_at": "2025-10-01T06:41:51Z"
+      "title": "Mahmud Al Habbash: “El pueblo de Gaza está esperando que volvamos a la Franja”",
+      "subtitle": "El plan presentado por Donald Trump para Gaza no aclara el papel de la Autoridad Palestina, pero abre la puerta a que vuelva a gobernar en la Franja en el futuro. Por su parte, la Autoridad que encabeza Mahmud Abás no renuncia a Gaza como parte integral del Estado palestino",
+      "url": "https://www.eldiario.es/internacional/mahmud-habbash-asesor-presidente-palestino-pueblo-gaza-esperando-volvamos-franja_128_12649099.html",
+      "scraped_at": "2025-10-02T06:39:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno pide a la Flotilla de Gaza que no se adentre en la zona de exclusión establecida por Israel",
-      "subtitle": "El Ejecutivo dice que el buque del ejército que envió para acompañar a la Flotilla no puede adentrarse en ese territorio y que hacerlo supone un riesgo: \"La misión de la flotilla es encomiable y legítima, pero las vidas de sus integrantes tiene que estar por encima\"",
-      "url": "https://www.eldiario.es/internacional/barco-militar-italia-acompana-flotilla-gaza-insta-tripulantes-abandonar-tachan-sabotaje_1_12646079.html",
-      "scraped_at": "2025-10-01T06:41:52Z"
+      "title": "Milicias de Gaza apoyadas por Israel amenazan el nuevo plan de paz de Trump",
+      "subtitle": "Israel ha armado y apoyado varios grupos alternativos a Hamás y decenas de ellos han emergido en los últimos meses",
+      "url": "https://www.eldiario.es/internacional/theguardian/milicias-gaza-apoyadas-israel-amenazan-nuevo-plan-paz-trump_1_12646954.html",
+      "scraped_at": "2025-10-02T06:39:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Registro horario",
-      "subtitle": "Trabajo definirá el texto final, que llevará al Consejo de Estado y la Agencia de Protección de Datos antes de ir al Consejo de Ministros, un procedimiento que puede llevar algunos meses",
-      "url": "https://www.eldiario.es/economia/gobierno-aprueba-tramitacion-urgente-refuerzo-control-horario-acabo-fichar-diga-jefe_1_12644233.html",
-      "scraped_at": "2025-10-01T06:41:52Z"
+      "title": "Jane Goodall",
+      "subtitle": "La etóloga y naturalista dedicó su vida a conocer, proteger y dar voz a los grandes simios. Tenía 91 años y ha fallecido por causas naturales",
+      "url": "https://www.eldiario.es/sociedad/muere-jane-goodall-experta-mundial-chimpances-e-icono-ecologia-siglo-xx_1_12649505.html",
+      "scraped_at": "2025-10-02T06:39:18Z"
     }
   ]
 }
