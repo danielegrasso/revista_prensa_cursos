@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno cuela inmigrantes mayores de edad en los traslados desde Canarias: Extremadura descubre que recibía un joven de 19 años cuando figuraba en su declaración con 17; Cuatro casos que salpican al PSOE tienen fondos de la UE bajo sospecha de mal uso: Se trata del caso Cerdán, la investigación a Begoña Gómez, al hermano de Sánchez y la causa de Plus Ultra; Moncloa asume el fracaso del embargo de armas y mira al PP: El Gobierno cuenta con el 'no' de Junts y acelera el trámite: «Si todo el mundo lo tiene tan claro, para qué dilatarlo más». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-02T06:39:20Z",
+  "summary": "Resumen del día en ABC.es: Aragón denuncia la entrada de 19 inmigrantes adultos camuflados como menores: Las pruebas médicas desvelaron el engaño y el Gobierno autonómico denuncia «la falta total de información»; Peinado señala a Sánchez y dice que «sin el vínculo» con Begoña Gómez no se habrían producido los delitos: En su auto, el instructor señala al presidente como «vínculo» es «fundamental para poder apreciar la posible concurrencia del delito de tráfico de influencias»; Al Haddad, jefe militar de Hamás, principal obstáculo al acuerdo: Se opone al plan de Trump y aboga por «seguir luchando». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-03T06:38:52Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno cuela inmigrantes mayores de edad en los traslados desde Canarias",
+      "title": "Aragón denuncia la entrada de 19 inmigrantes adultos camuflados como menores",
+      "subtitle": "Las pruebas médicas desvelaron el engaño y el Gobierno autonómico denuncia «la falta total de información»",
+      "url": "https://www.abc.es/espana/inmigrantes-adultos-entrado-aragon-camuflados-menores-ano-20251003195208-nt.html",
+      "scraped_at": "2025-10-03T06:38:51Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Peinado señala a Sánchez y dice que «sin el vínculo» con Begoña Gómez no se habrían producido los delitos",
+      "subtitle": "En su auto, el instructor señala al presidente como «vínculo» es «fundamental para poder apreciar la posible concurrencia del delito de tráfico de influencias»",
+      "url": "https://www.abc.es/espana/peinado-indica-vinculo-begona-gomez-pedro-sanchez-20251002204549-nt.html",
+      "scraped_at": "2025-10-03T06:38:51Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Al Haddad, jefe militar de Hamás, principal obstáculo al acuerdo",
+      "subtitle": "Se opone al plan de Trump y aboga por «seguir luchando»",
+      "url": "https://www.abc.es/internacional/haddad-jefe-militar-hamas-ideologo-ataques-octubre-20251002201210-nt.html",
+      "scraped_at": "2025-10-03T06:38:51Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Birawi, el activista palestino-británico señalado por Israel como enlace de Hamás",
+      "subtitle": "Para Tel Aviv, es un operador clave del grupo islamista en el exterior; para sus seguidores, un activista que actúa con legitimidad política y civil",
+      "url": "https://www.abc.es/internacional/zaher-birawi-activista-palestinobritanico-senalado-israel-enlace-20251002164713-nt.html",
+      "scraped_at": "2025-10-03T06:38:51Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Reparto de inmigrantes",
       "subtitle": "Extremadura descubre que recibía un joven de 19 años cuando figuraba en su declaración con 17",
       "url": "https://www.abc.es/espana/mayores-anos-cuelan-reparto-inmigrantes-falsos-menores-20251002041134-nt.html",
-      "scraped_at": "2025-10-02T06:39:19Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Cuatro casos que salpican al PSOE tienen fondos de la UE bajo sospecha de mal uso",
-      "subtitle": "Se trata del caso Cerdán, la investigación a Begoña Gómez, al hermano de Sánchez y la causa de Plus Ultra",
-      "url": "https://www.abc.es/espana/cuatro-casos-salpican-psoe-fondos-ue-bajo-20251002202022-nt.html",
-      "scraped_at": "2025-10-02T06:39:19Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Moncloa asume el fracaso del embargo de armas y mira al PP",
-      "subtitle": "El Gobierno cuenta con el 'no' de Junts y acelera el trámite: «Si todo el mundo lo tiene tan claro, para qué dilatarlo más»",
-      "url": "https://www.abc.es/espana/moncloa-asume-fracaso-embargo-armas-mira-pp-20251002161056-nt.html",
-      "scraped_at": "2025-10-02T06:39:20Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Israel detiene a trece barcos de la Flotilla de Gaza y la acusa de estar a las órdenes de Hamás",
-      "subtitle": "Los tripulantes han alertado de que varios buques de Tel Aviv se están aproximando",
-      "url": "https://www.abc.es/internacional/flotilla-ayuda-gaza-llega-zona-alto-riesgo-20251001192450-nt.html",
-      "scraped_at": "2025-10-02T06:39:20Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Ataque Hamás",
-      "subtitle": "Los tres hombres estaban involucrados en la adquisición de armas de fuego y municiones para Hamás",
-      "url": "https://www.abc.es/internacional/policia-alemana-detiene-tres-miembros-hamas-berlin-20251001170435-nt.html",
-      "scraped_at": "2025-10-02T06:39:20Z"
+      "scraped_at": "2025-10-03T06:38:52Z"
     }
   ]
 }
