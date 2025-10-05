@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: España es el gran país europeo donde los funcionarios más cobran frente al sector privado: La brecha salarial alcanza el 9%, sólo superada por Chipre y Luxemburgo. En España, los gobiernos emplean las retribuciones públicas como herramienta electoral; Israel se prepara para la primera fase del plan de paz tras la respuesta de Hamás a Trump: Hamás ha anunciado que liberará a todos los rehenes, como exigía Donald Trump, para poder poner fin a los bombardeos; La salvamización política le sale bien a TVE (y Ferreras es su víctima inesperada): La audiencia responde al experimento de TVE de llenar la parrilla de magazines políticos oficialistas: mejor arranque de curso en 14 años. &#039;Al Rojo Vivo&#039;, entre dos aguas, cae por la polarización entre teles sanchistas y teles antisanchistas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-04T06:36:15Z",
+  "summary": "Resumen del día en El Confidencial: El gran negocio de la vivienda: la rentabilidad vuelve a niveles de la burbuja: Invertir en vivienda para alquilar es algo más que rentable. En concreto, supone una rentabilidad media del 15,9%, según el Banco de España. De esta manera, se recuperan niveles inexistentes desde la burbuja inmobiliaria; Muere el expresidente de la Junta de Extremadura, Guillermo Fernández Vara: Fue una figura clave del socialismo regional y nacional durante las últimas dos décadas, y ocupó la presidencia de la Junta de Extremadura en dos etapas; Un día en el pueblo de 2.800 habitantes que ha metido a su equipo en primera división: &quot;Estamos acostumbrados a que el deporte profesional esté reservado a grandes ciudades y municipios con mucho empuje y aquí demostramos que no tiene por qué ser así&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-05T06:36:17Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España es el gran país europeo donde los funcionarios más cobran frente al sector privado",
-      "subtitle": "La brecha salarial alcanza el 9%, sólo superada por Chipre y Luxemburgo. En España, los gobiernos emplean las retribuciones públicas como herramienta electoral",
-      "url": "https://www.elconfidencial.com/economia/2025-10-04/espana-pais-europeo-empleados-publicos-cobran-mas_4221799/",
-      "scraped_at": "2025-10-04T06:36:13Z"
+      "title": "El gran negocio de la vivienda: la rentabilidad vuelve a niveles de la burbuja",
+      "subtitle": "Invertir en vivienda para alquilar es algo más que rentable. En concreto, supone una rentabilidad media del 15,9%, según el Banco de España. De esta manera, se recuperan niveles inexistentes desde la burbuja inmobiliaria",
+      "url": "https://www.elconfidencial.com/economia/2025-10-05/gran-negocio-vivienda-rentabilidad-recupera-niveles-burbuja_4221552/",
+      "scraped_at": "2025-10-05T06:36:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Israel se prepara para la primera fase del plan de paz tras la respuesta de Hamás a Trump",
-      "subtitle": "Hamás ha anunciado que liberará a todos los rehenes, como exigía Donald Trump, para poder poner fin a los bombardeos",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-03/hamas-responde-trump-acepta-liberar-rehenes_4222021/",
-      "scraped_at": "2025-10-04T06:36:14Z"
+      "title": "Muere el expresidente de la Junta de Extremadura, Guillermo Fernández Vara",
+      "subtitle": "Fue una figura clave del socialismo regional y nacional durante las últimas dos décadas, y ocupó la presidencia de la Junta de Extremadura en dos etapas",
+      "url": "https://www.elconfidencial.com/espana/2025-10-05/muere-guillermo-fernandez-vara-expresidente-extremadura_4222139/",
+      "scraped_at": "2025-10-05T06:36:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La salvamización política le sale bien a TVE (y Ferreras es su víctima inesperada)",
-      "subtitle": "La audiencia responde al experimento de TVE de llenar la parrilla de magazines políticos oficialistas: mejor arranque de curso en 14 años. &#039;Al Rojo Vivo&#039;, entre dos aguas, cae por la polarización entre teles sanchistas y teles antisanchistas",
-      "url": "https://www.elconfidencial.com/television/2025-10-04/tve-magazines-audiencia-politica-1hms_4221485/",
-      "scraped_at": "2025-10-04T06:36:14Z"
+      "title": "Un día en el pueblo de 2.800 habitantes que ha metido a su equipo en primera división",
+      "subtitle": "&quot;Estamos acostumbrados a que el deporte profesional esté reservado a grandes ciudades y municipios con mucho empuje y aquí demostramos que no tiene por qué ser así&quot;",
+      "url": "https://www.elconfidencial.com/deportes/2025-10-05/nava-asuncion-equipo-club-balonmano-profesional_4221829/",
+      "scraped_at": "2025-10-05T06:36:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Juicio histórico: el TS planea dictar la sentencia del fiscal general antes de fin de año",
-      "subtitle": "Como ya vio en ocasión de su procesamiento, la división de opiniones en el seno del Supremo existe y es muy difícil que el juicio consiga despejarla dado que no existe prueba directa",
-      "url": "https://www.elconfidencial.com/espana/2025-10-04/el-supremo-preve-dictar-la-sentencia-del-fiscal-general-antes-de-que-acabe-este-ano_4221669/",
-      "scraped_at": "2025-10-04T06:36:15Z"
+      "title": "El exmilitar español acusado de espiar a Assange: \"Le molestaba no poder estar en calzoncillos\"",
+      "subtitle": "La empresa de David Morales, UC Global, llegó a prestar protección a Sheldon Aldenson y al expresidente ecuatoriano Rafael Correa. Lleva 6 años siendo investigado por la denuncia que puso el despacho de Baltasar Garzón",
+      "url": "https://www.elconfidencial.com/espana/2025-10-05/exmilitar-acusado-espiar-assange-cia_4220895/",
+      "scraped_at": "2025-10-05T06:36:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El pueblo lleno de palacetes y casones que es perfecto para visitar en octubre",
-      "subtitle": "Entre montañas y bosques que en otoño se tiñen de tonos rojizos y dorados, esta villa navarra sorprende por la elegancia de sus casas nobles, la riqueza de su historia y un ambiente que invita a pasear sin prisa",
-      "url": "https://www.elconfidencial.com/espana/2025-10-04/pueblo-navarra-palacetes-casones-1qrt-1tna_4218485/",
-      "scraped_at": "2025-10-04T06:36:15Z"
+      "title": "Algo está cambiando en los consumidores chinos y la razón tiene que ver con los altos precios",
+      "subtitle": "Las marcas de lujo europeas han perdido su atractivo entre los consumidores chinos, y el cambio no se debe solo a la economía",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-05/cultura-ping-ti-consumo-china-1hms_4221812/",
+      "scraped_at": "2025-10-05T06:36:17Z"
     }
   ]
 }
