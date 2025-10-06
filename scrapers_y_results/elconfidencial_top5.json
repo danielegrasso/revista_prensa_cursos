@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El gran negocio de la vivienda: la rentabilidad vuelve a niveles de la burbuja: Invertir en vivienda para alquilar es algo más que rentable. En concreto, supone una rentabilidad media del 15,9%, según el Banco de España. De esta manera, se recuperan niveles inexistentes desde la burbuja inmobiliaria; Muere el expresidente de la Junta de Extremadura, Guillermo Fernández Vara: Fue una figura clave del socialismo regional y nacional durante las últimas dos décadas, y ocupó la presidencia de la Junta de Extremadura en dos etapas; Un día en el pueblo de 2.800 habitantes que ha metido a su equipo en primera división: &quot;Estamos acostumbrados a que el deporte profesional esté reservado a grandes ciudades y municipios con mucho empuje y aquí demostramos que no tiene por qué ser así&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-05T06:36:17Z",
+  "summary": "Resumen del día en El Confidencial: El inesperado éxito de los visados 'anti-woke': cientos de occidentales se mudan a Rusia: Aumentan las solicitudes de permisos especiales para quienes rechazan políticas occidentales, atraídos por beneficios y una imagen idealizada, mientras Rusia impulsa su narrativa como refugio de valores tradicionales; Hace un año era improbable. El \"muro\" de drones es ahora el futuro de los cielos de Europa: La idea de un &quot;muro&quot; antidrones fue promovida por países como los bálticos para intentar frenar a Rusia, y esta semana ha sido uno de los principales temas a tratar en la cumbre europea de Copenhague; Hospitalizado un herido por disparos en Cedillo del Condado (Toledo): Un varón de 39 años permanece estable tras recibir dos disparos en una plaza de Cedillo; la investigación sigue abierta y aún no hay arrestos relacionados con el caso. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-06T06:42:20Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El gran negocio de la vivienda: la rentabilidad vuelve a niveles de la burbuja",
-      "subtitle": "Invertir en vivienda para alquilar es algo más que rentable. En concreto, supone una rentabilidad media del 15,9%, según el Banco de España. De esta manera, se recuperan niveles inexistentes desde la burbuja inmobiliaria",
-      "url": "https://www.elconfidencial.com/economia/2025-10-05/gran-negocio-vivienda-rentabilidad-recupera-niveles-burbuja_4221552/",
-      "scraped_at": "2025-10-05T06:36:16Z"
+      "title": "El inesperado éxito de los visados 'anti-woke': cientos de occidentales se mudan a Rusia",
+      "subtitle": "Aumentan las solicitudes de permisos especiales para quienes rechazan políticas occidentales, atraídos por beneficios y una imagen idealizada, mientras Rusia impulsa su narrativa como refugio de valores tradicionales",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-06/visado-valores-tradicionales-rusia-occidente-1hms_4218467/",
+      "scraped_at": "2025-10-06T06:42:20Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Muere el expresidente de la Junta de Extremadura, Guillermo Fernández Vara",
-      "subtitle": "Fue una figura clave del socialismo regional y nacional durante las últimas dos décadas, y ocupó la presidencia de la Junta de Extremadura en dos etapas",
-      "url": "https://www.elconfidencial.com/espana/2025-10-05/muere-guillermo-fernandez-vara-expresidente-extremadura_4222139/",
-      "scraped_at": "2025-10-05T06:36:17Z"
+      "title": "Hace un año era improbable. El \"muro\" de drones es ahora el futuro de los cielos de Europa",
+      "subtitle": "La idea de un &quot;muro&quot; antidrones fue promovida por países como los bálticos para intentar frenar a Rusia, y esta semana ha sido uno de los principales temas a tratar en la cumbre europea de Copenhague",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-06/hace-un-ano-parecia-un-plan-improbable-ahora-el-muro-de-drones-es-el-futuro-de-los-cielos-de-europa_4220828/",
+      "scraped_at": "2025-10-06T06:42:20Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un día en el pueblo de 2.800 habitantes que ha metido a su equipo en primera división",
-      "subtitle": "&quot;Estamos acostumbrados a que el deporte profesional esté reservado a grandes ciudades y municipios con mucho empuje y aquí demostramos que no tiene por qué ser así&quot;",
-      "url": "https://www.elconfidencial.com/deportes/2025-10-05/nava-asuncion-equipo-club-balonmano-profesional_4221829/",
-      "scraped_at": "2025-10-05T06:36:17Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El exmilitar español acusado de espiar a Assange: \"Le molestaba no poder estar en calzoncillos\"",
-      "subtitle": "La empresa de David Morales, UC Global, llegó a prestar protección a Sheldon Aldenson y al expresidente ecuatoriano Rafael Correa. Lleva 6 años siendo investigado por la denuncia que puso el despacho de Baltasar Garzón",
-      "url": "https://www.elconfidencial.com/espana/2025-10-05/exmilitar-acusado-espiar-assange-cia_4220895/",
-      "scraped_at": "2025-10-05T06:36:17Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Algo está cambiando en los consumidores chinos y la razón tiene que ver con los altos precios",
-      "subtitle": "Las marcas de lujo europeas han perdido su atractivo entre los consumidores chinos, y el cambio no se debe solo a la economía",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-05/cultura-ping-ti-consumo-china-1hms_4221812/",
-      "scraped_at": "2025-10-05T06:36:17Z"
+      "title": "Hospitalizado un herido por disparos en Cedillo del Condado (Toledo)",
+      "subtitle": "Un varón de 39 años permanece estable tras recibir dos disparos en una plaza de Cedillo; la investigación sigue abierta y aún no hay arrestos relacionados con el caso",
+      "url": "https://www.elconfidencial.com/espana/2025-10-05/herido-arma-fuego-cedillo-toledo-1tna-1tps_4222402/",
+      "scraped_at": "2025-10-06T06:42:20Z"
     }
   ]
 }

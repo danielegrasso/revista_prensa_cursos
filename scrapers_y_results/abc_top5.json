@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Robles, Marlaska y Albares ocultan al Congreso el uso de los fondos reservados: Solo ellos tienen esta partida y la ley les obliga a rendir cuentas cada semestre; Moncloa asume que la UCO volverá a Ferraz a por pruebas: «Forzarán todo lo que tengan que forzar para seguir sembrando dudas», aunque todo esté limpio», dicen; Seis derrotas en un mes: el bloque de investidura hace agua en el Congreso: El Gobierno acumula seis derrotas en el primer mes de curso político por las deserciones de Junts y Podemos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-05T06:36:13Z",
+  "summary": "Resumen del día en ABC.es: Moncloa tantea a grandes empresas españolas para entrar en su capital al 'estilo Telefónica': Desde principios de año, compañías del Ibex y no cotizadas, han recibido la llamada del Gobierno ofreciéndoles su ayuda como potencial socio, tras recabar informes de consultoría sobre empresas de diferentes sectores susceptibles de ser 'tocadas'; Editorial | Sin Presupuestos, sin control: El Gobierno vuelve a incumplir la Carta Magna al no presentar los Presupuestos en plazo. La opacidad fiscal y el deterioro institucional hacen imposible el control democrático del gasto; «De niña me dijeron que tenía un CI de más de 140. Hoy el test dice otra cosa»: Hay 51.396 alumnos diagnosticados como de altas capacidades, cuando se estima que en realidad son 600.000. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-06T06:42:17Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Robles, Marlaska y Albares ocultan al Congreso el uso de los fondos reservados",
-      "subtitle": "Solo ellos tienen esta partida y la ley les obliga a rendir cuentas cada semestre",
-      "url": "https://www.abc.es/espana/robles-marlaska-albares-ocultan-congreso-uso-fondos-20251005140758-nt.html",
-      "scraped_at": "2025-10-05T06:36:12Z"
+      "title": "Moncloa tantea a grandes empresas españolas para entrar en su capital al 'estilo Telefónica'",
+      "subtitle": "Desde principios de año, compañías del Ibex y no cotizadas, han recibido la llamada del Gobierno ofreciéndoles su ayuda como potencial socio, tras recabar informes de consultoría sobre empresas de diferentes sectores susceptibles de ser 'tocadas'",
+      "url": "https://www.abc.es/economia/moncloa-tantea-grandes-empresas-espanolas-entrar-capital-20251006195429-nt.html",
+      "scraped_at": "2025-10-06T06:42:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa asume que la UCO volverá a Ferraz a por pruebas",
-      "subtitle": "«Forzarán todo lo que tengan que forzar para seguir sembrando dudas», aunque todo esté limpio», dicen",
-      "url": "https://www.abc.es/espana/moncloa-asume-uco-volvera-ferraz-pruebas-20251005034143-nt.html",
-      "scraped_at": "2025-10-05T06:36:13Z"
+      "title": "Editorial | Sin Presupuestos, sin control",
+      "subtitle": "El Gobierno vuelve a incumplir la Carta Magna al no presentar los Presupuestos en plazo. La opacidad fiscal y el deterioro institucional hacen imposible el control democrático del gasto",
+      "url": "https://www.abc.es/opinion/editorial-presupuestos-control-20251006191557-nt.html",
+      "scraped_at": "2025-10-06T06:42:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Seis derrotas en un mes: el bloque de investidura hace agua en el Congreso",
-      "subtitle": "El Gobierno acumula seis derrotas en el primer mes de curso político por las deserciones de Junts y Podemos",
-      "url": "https://www.abc.es/espana/bloque-investidura-agua-20251005034453-nt.html",
-      "scraped_at": "2025-10-05T06:36:13Z"
+      "title": "«De niña me dijeron que tenía un CI de más de 140. Hoy el test dice otra cosa»",
+      "subtitle": "Hay 51.396 alumnos diagnosticados como de altas capacidades, cuando se estima que en realidad son 600.000",
+      "url": "https://www.abc.es/sociedad/fallos-deteccion-superdotados-nina-dijeron-140-hoy-20251006190817-nt.html",
+      "scraped_at": "2025-10-06T06:42:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Muere Guillermo Fernández Vara, expresidente de Extremadura",
-      "subtitle": "El líder socialista ha fallecido víctima de un cáncer",
-      "url": "https://www.abc.es/espana/fallece-expresidente-extremeno-guillermo-fernandez-vara-20251005213423-nt.html",
-      "scraped_at": "2025-10-05T06:36:13Z"
+      "title": "Así desveló ABC hace cinco años los pagos de Ábalos y Koldo en metálico con sobres",
+      "subtitle": "El entonces ministro de Transportes se alojó en un hotel de lujo en Canarias y Koldo pagó con los tres sobres que siempre llevaba en su mochila",
+      "url": "https://www.abc.es/espana/desvelo-abc-cinco-anos-pagos-abalos-koldo-20251006082645-nt.html",
+      "scraped_at": "2025-10-06T06:42:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Última hora Gaza",
-      "subtitle": "Sigue en directo la última hora del acuerdo de paz en Gaza y la respuesta de Israel a el alto el fuego",
-      "url": "https://www.abc.es/internacional/ultima-hora-acuerdo-paz-gaza-hamas-acepta-20251003221349-di.html",
-      "scraped_at": "2025-10-05T06:36:13Z"
+      "title": "Ranking ejércitos",
+      "subtitle": "En total una lista de 145 países en la que miden sus fuerzas las naciones más pequeñas y tecnológicamente más avanzadas con las grandes potencias",
+      "url": "https://www.abc.es/internacional/ranking-ejercitos-poderosos-mundo-puede-ver-puesto-20251005163638-nt.html",
+      "scraped_at": "2025-10-06T06:42:17Z"
     }
   ]
 }
