@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El inesperado éxito de los visados 'anti-woke': cientos de occidentales se mudan a Rusia: Aumentan las solicitudes de permisos especiales para quienes rechazan políticas occidentales, atraídos por beneficios y una imagen idealizada, mientras Rusia impulsa su narrativa como refugio de valores tradicionales; Hace un año era improbable. El \"muro\" de drones es ahora el futuro de los cielos de Europa: La idea de un &quot;muro&quot; antidrones fue promovida por países como los bálticos para intentar frenar a Rusia, y esta semana ha sido uno de los principales temas a tratar en la cumbre europea de Copenhague; Hospitalizado un herido por disparos en Cedillo del Condado (Toledo): Un varón de 39 años permanece estable tras recibir dos disparos en una plaza de Cedillo; la investigación sigue abierta y aún no hay arrestos relacionados con el caso. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-06T06:42:20Z",
+  "summary": "Resumen del día en El Confidencial: Sus padres fueron asesinados el 7 de octubre. Maoz Inon llama a la no venganza desde entonces: Tras perder a sus padres en un ataque, Maoz Inon y Aziz Abu Sarah impulsan iniciativas de reconciliación y turismo para fomentar la convivencia y rechazar la venganza en la región; El economista David McWilliams: \"El dinero es una fe en la que hemos decidido creer\": David McWilliams, profesor de Economía Global en el Trinity College de Dublín, asegura en su libro &#039;Dinero&#039; que el &quot;vil metal&quot; es lo que desde hace 5.000 años define a nuestra especie e impulsa los avances de la humanidad; Debray 'ajusta' las memorias por indicación del emérito y saldrán en España en diciembre: El padre del Rey ha modulado también la fecha de lanzamiento. No será en noviembre, sino en la primera semana de diciembre. En Francia se conocerán sus memorias veinte días antes. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-07T06:41:28Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El inesperado éxito de los visados 'anti-woke': cientos de occidentales se mudan a Rusia",
-      "subtitle": "Aumentan las solicitudes de permisos especiales para quienes rechazan políticas occidentales, atraídos por beneficios y una imagen idealizada, mientras Rusia impulsa su narrativa como refugio de valores tradicionales",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-06/visado-valores-tradicionales-rusia-occidente-1hms_4218467/",
-      "scraped_at": "2025-10-06T06:42:20Z"
+      "title": "Sus padres fueron asesinados el 7 de octubre. Maoz Inon llama a la no venganza desde entonces",
+      "subtitle": "Tras perder a sus padres en un ataque, Maoz Inon y Aziz Abu Sarah impulsan iniciativas de reconciliación y turismo para fomentar la convivencia y rechazar la venganza en la región",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-07/paz-reconciliacion-israel-palestina-turismo-1hms_4223388/",
+      "scraped_at": "2025-10-07T06:41:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hace un año era improbable. El \"muro\" de drones es ahora el futuro de los cielos de Europa",
-      "subtitle": "La idea de un &quot;muro&quot; antidrones fue promovida por países como los bálticos para intentar frenar a Rusia, y esta semana ha sido uno de los principales temas a tratar en la cumbre europea de Copenhague",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-06/hace-un-ano-parecia-un-plan-improbable-ahora-el-muro-de-drones-es-el-futuro-de-los-cielos-de-europa_4220828/",
-      "scraped_at": "2025-10-06T06:42:20Z"
+      "title": "El economista David McWilliams: \"El dinero es una fe en la que hemos decidido creer\"",
+      "subtitle": "David McWilliams, profesor de Economía Global en el Trinity College de Dublín, asegura en su libro &#039;Dinero&#039; que el &quot;vil metal&quot; es lo que desde hace 5.000 años define a nuestra especie e impulsa los avances de la humanidad",
+      "url": "https://www.elconfidencial.com/cultura/2025-10-07/entrevista-david-mcwilliams-dinero_4220125/",
+      "scraped_at": "2025-10-07T06:41:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hospitalizado un herido por disparos en Cedillo del Condado (Toledo)",
-      "subtitle": "Un varón de 39 años permanece estable tras recibir dos disparos en una plaza de Cedillo; la investigación sigue abierta y aún no hay arrestos relacionados con el caso",
-      "url": "https://www.elconfidencial.com/espana/2025-10-05/herido-arma-fuego-cedillo-toledo-1tna-1tps_4222402/",
-      "scraped_at": "2025-10-06T06:42:20Z"
+      "title": "Debray 'ajusta' las memorias por indicación del emérito y saldrán en España en diciembre",
+      "subtitle": "El padre del Rey ha modulado también la fecha de lanzamiento. No será en noviembre, sino en la primera semana de diciembre. En Francia se conocerán sus memorias veinte días antes",
+      "url": "https://www.elconfidencial.com/espana/2025-10-07/debray-ajusta-memorias-juan-carlos-planeta-publicacion-diciembre_4223227/",
+      "scraped_at": "2025-10-07T06:41:27Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Avellanar aterriza en Tenerife con casas entre 800.000 € y 1,45 millones",
+      "subtitle": "Avellanar y su socio BSof Capital, con quien ya ha realizado inversiones en el mercado de lujo en Madrid y Andalucía, aterrizan en las Islas Canarias con 65 apartamentos",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2025-10-07/tenerife-islas-canarias-mercado-inmobiliario-precios-promotores_4220467/",
+      "scraped_at": "2025-10-07T06:41:28Z"
     }
   ]
 }
