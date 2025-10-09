@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez recoloca al núcleo duro de Ábalos y Cerdán y lo blinda con sueldos de hasta 245.000 euros: Se trata de al menos siete personas que conocen bien todos los movimientos de los dos encausados durante años; Urtasun veta en la Biblioteca Nacional a la empresa israelí a la que renovó hace dos meses: La institución cambiará su sistema de catalogación, préstamos y adquisiciones, que desde 2024 prestaba Ex Libris; El Constitucional suprime cuatro párrafos que beneficiaban a Puigdemont con la amnistía: Dos magistrados avisaron de que el borrador sobre el recurso de Aragón contradecía al Supremo y anticipaba la decisión sobre el amparo al prófugo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-08T06:41:39Z",
+  "summary": "Resumen del día en ABC.es: Trump anuncia un acuerdo «histórico» entre Israel y Hamás para liberar a los rehenes y el repliegue en Gaza: Para el mandatario norteamericano, el acuerdo significa «un gran día para el mundo árabe y musulmán, para Israel, para todas las naciones de sus arlededores y para EE.UU.»; La firma del acuerdo está prevista a las 11.00 horas: Sigue en directo la última hora del acuerdo de paz entre Israel y Hamás anunciado por Donald Trump; Yolanda Díaz avisa a las empresas de que subirá el salario mínimo cada seis meses con el IPC: Trabajo condiciona la subida de 2026 a que solo se aplique al sueldo base y exigirá por ley que un 80% de los empleados tengan convenio colectivo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-09T06:42:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez recoloca al núcleo duro de Ábalos y Cerdán y lo blinda con sueldos de hasta 245.000 euros",
-      "subtitle": "Se trata de al menos siete personas que conocen bien todos los movimientos de los dos encausados durante años",
-      "url": "https://www.abc.es/espana/sanchez-blinda-nucleo-duro-abalos-cerdan-informacion-20251007194744-nt.html",
-      "scraped_at": "2025-10-08T06:41:37Z"
+      "title": "Trump anuncia un acuerdo «histórico» entre Israel y Hamás para liberar a los rehenes y el repliegue en Gaza",
+      "subtitle": "Para el mandatario norteamericano, el acuerdo significa «un gran día para el mundo árabe y musulmán, para Israel, para todas las naciones de sus arlededores y para EE.UU.»",
+      "url": "https://www.abc.es/internacional/trump-anuncia-acuerdo-historico-israel-hamas-liberacion-20251009012332-nt.html",
+      "scraped_at": "2025-10-09T06:42:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Urtasun veta en la Biblioteca Nacional a la empresa israelí a la que renovó hace dos meses",
-      "subtitle": "La institución cambiará su sistema de catalogación, préstamos y adquisiciones, que desde 2024 prestaba Ex Libris",
-      "url": "https://www.abc.es/cultura/urtasun-veta-biblioteca-nacional-empresa-israeli-renovo-20251008045301-nt.html",
-      "scraped_at": "2025-10-08T06:41:38Z"
+      "title": "La firma del acuerdo está prevista a las 11.00 horas",
+      "subtitle": "Sigue en directo la última hora del acuerdo de paz entre Israel y Hamás anunciado por Donald Trump",
+      "url": "https://www.abc.es/internacional/negociaciones-israel-hamas-plan-paz-trump-gaza-20251008151026-di.html",
+      "scraped_at": "2025-10-09T06:42:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Constitucional suprime cuatro párrafos que beneficiaban a Puigdemont con la amnistía",
-      "subtitle": "Dos magistrados avisaron de que el borrador sobre el recurso de Aragón contradecía al Supremo y anticipaba la decisión sobre el amparo al prófugo",
-      "url": "https://www.abc.es/espana/tc-suprime-cuatro-parrafos-beneficiaban-puigdemont-amnistia-20251008200553-nt.html",
-      "scraped_at": "2025-10-08T06:41:38Z"
+      "title": "Yolanda Díaz avisa a las empresas de que subirá el salario mínimo cada seis meses con el IPC",
+      "subtitle": "Trabajo condiciona la subida de 2026 a que solo se aplique al sueldo base y exigirá por ley que un 80% de los empleados tengan convenio colectivo",
+      "url": "https://www.abc.es/economia/yolanda-diaz-quiere-revisar-salario-minimo-semestre-20251009182109-nt.html",
+      "scraped_at": "2025-10-09T06:42:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa aísla a Podemos en las negociaciones para forzar su voto",
-      "subtitle": "Ensaya con el embargo de armas a Israel la estrategia que aplicará a los Presupuestos: «No quieren hablar»",
-      "url": "https://www.abc.es/espana/moncloa-aisla-podemos-negociaciones-forzar-voto-20251008182349-nt.html",
-      "scraped_at": "2025-10-08T06:41:38Z"
+      "title": "El informe de la UCO pondrá a prueba las versiones de Alegría sobre el caso del Parador de Teruel",
+      "subtitle": "Temor en el PSOE aragonés ante la posibilidad de que las indagaciones de la Guardia Civil contradigan a la ministra de Educación",
+      "url": "https://www.abc.es/espana/informe-uco-pondra-prueba-versiones-alegria-sobre-20251009041655-nt.html",
+      "scraped_at": "2025-10-09T06:42:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ucrania - España",
-      "subtitle": "Conoce a qué hora juega España hoy contra Ucrania y dónde ver en televisión y online el partido del Mundial Sub-20",
-      "url": "https://www.abc.es/deportes/futbol/ucrania-espana-horario-canal-television-ver-online-20251007201314-nt.html",
-      "scraped_at": "2025-10-08T06:41:39Z"
+      "title": "Ley de movilidad",
+      "subtitle": "El partido pidió el voto telemático, pero el motivo de su ausencia, su luna de miel, no lo contempla el Reglamento",
+      "url": "https://www.abc.es/espana/ausencia-diputado-pp-asegura-ley-movilidad-amenazaba-20251008182227-nt.html",
+      "scraped_at": "2025-10-09T06:42:43Z"
     }
   ]
 }
