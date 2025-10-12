@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Nobel de la Paz a María Corina Machado desnuda a Zapatero: El Gobierno y el expresidente tienen un largo historial de ninguneo a la oposición venezolana; La Moncloa encaja tres reveses internacionales en una semana: Del embargo de armas cuando ya había paz, a las críticas de Trump por la OTAN y el Nobel de la Paz; El Nobel que irrita a la izquierda: Lo deseable sería que este premio a María Corina Machado, más allá del merecido reconocimiento, estimulara una reacción internacional para que la libertad llegue a Venezuela, y eso no ocurrirá hasta que el régimen chavista desaparezca. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-11T06:36:27Z",
+  "summary": "Resumen del día en ABC.es: Sánchez convocará las elecciones cuando Vox esté más fuerte: Explotará el momento de mayor debilidad de Feijóo y la falta de alternativa por la izquierda; «Papá, mis amigos no te van a votar»: Vox arrasa entre el votante más joven: La mayoría de dirigentes del PP asume esa batalla como perdida para el próximo ciclo electoral; Dos fiscales del Tribunal Supremo respaldan a un senador del PP contra la censura de Sánchez: Uno de ellos describe la remisión del Gobierno a páginas web como «el viaje a ninguna parte». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-12T06:36:34Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Nobel de la Paz a María Corina Machado desnuda a Zapatero",
-      "subtitle": "El Gobierno y el expresidente tienen un largo historial de ninguneo a la oposición venezolana",
-      "url": "https://www.abc.es/espana/premio-nobel-paz-maria-corina-machado-vuelve-20251011194702-nt.html",
-      "scraped_at": "2025-10-11T06:36:25Z"
+      "title": "Sánchez convocará las elecciones cuando Vox esté más fuerte",
+      "subtitle": "Explotará el momento de mayor debilidad de Feijóo y la falta de alternativa por la izquierda",
+      "url": "https://www.abc.es/espana/pedro-sanchez-busca-oportunidad-adelantar-elecciones-20251012171433-nt.html",
+      "scraped_at": "2025-10-12T06:36:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Moncloa encaja tres reveses internacionales en una semana",
-      "subtitle": "Del embargo de armas cuando ya había paz, a las críticas de Trump por la OTAN y el Nobel de la Paz",
-      "url": "https://www.abc.es/espana/gobierno-encaja-tres-reveses-internacionales-semana-20251011200633-nt.html",
-      "scraped_at": "2025-10-11T06:36:25Z"
+      "title": "«Papá, mis amigos no te van a votar»: Vox arrasa entre el votante más joven",
+      "subtitle": "La mayoría de dirigentes del PP asume esa batalla como perdida para el próximo ciclo electoral",
+      "url": "https://www.abc.es/espana/papa-amigos-van-votar-vox-arrasa-votante-20251012044939-nt.html",
+      "scraped_at": "2025-10-12T06:36:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Nobel que irrita a la izquierda",
-      "subtitle": "Lo deseable sería que este premio a María Corina Machado, más allá del merecido reconocimiento, estimulara una reacción internacional para que la libertad llegue a Venezuela, y eso no ocurrirá hasta que el régimen chavista desaparezca",
-      "url": "https://www.abc.es/opinion/editorial-nobel-irrita-izquierda-20251011200900-nt.html",
-      "scraped_at": "2025-10-11T06:36:26Z"
+      "title": "Dos fiscales del Tribunal Supremo respaldan a un senador del PP contra la censura de Sánchez",
+      "subtitle": "Uno de ellos describe la remisión del Gobierno a páginas web como «el viaje a ninguna parte»",
+      "url": "https://www.abc.es/espana/dos-fiscales-tribunal-supremo-respaldan-senador-pp-20251012143220-nt.html",
+      "scraped_at": "2025-10-12T06:36:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Diplomáticos y militares advierten de la amenaza de Trump: «Otro aviso a España»",
-      "subtitle": "La UE y EE.UU. ven a Sánchez como un «elemento tóxico» para la influencia de España en el exterior",
-      "url": "https://www.abc.es/espana/diplomaticos-militares-advierten-amenaza-trump-aviso-espana-20251011041649-nt.html",
-      "scraped_at": "2025-10-11T06:36:26Z"
+      "title": "«Queridos padres. Cuando lean esto, no estaré viva»: Cartas de ejecutados por los nazis que nunca llegaron",
+      "subtitle": "Entre los 844 expedientes de muerte de la prisión de Múnich-Stadelheim se han descubierto más de 50 misivas de despedida que los condenados escribieron a sus familias y nunca vieron la luz. Hasta ahora, en pleno siglo XXI",
+      "url": "https://www.abc.es/internacional/queridos-padres-lean-viva-cartas-nunca-llegaron-20251012173914-nt.html",
+      "scraped_at": "2025-10-12T06:36:34Z"
     },
     {
       "source": "ABC.es",
       "title": "Maria Corina Machado",
       "subtitle": "Es galardonada «por su incansable labor en favor de los derechos democráticos del pueblo de Venezuela y por su lucha por lograr una transición justa y pacífica de la dictadura a la democracia»",
       "url": "https://www.abc.es/internacional/maria-corina-machado-premio-nobel-paz-20251010110146-nt.html",
-      "scraped_at": "2025-10-11T06:36:27Z"
+      "scraped_at": "2025-10-12T06:36:34Z"
     }
   ]
 }
