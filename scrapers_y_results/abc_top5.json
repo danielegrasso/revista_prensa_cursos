@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las reformas de Sánchez endosan una factura de miles de millones de euros a los gobiernos autonómicos: Identifican una docena de cambios legales aprobados por el Estado cuyo coste han terminado sufragando con cargo a sus propios presupuestos; Defensa se niega a validar los blindados 8x8 recibidos porque siguen teniendo defectos: Un fallo grave en la transmisión de Sapa provocó el jueves pasado la paralización de unas pruebas del VCR Dragón; Feijóo saca provecho al plantón de Abascal el 12-O y arrincona a Vox con los independentistas: El líder del PP recuerda que en palacio solo faltaban Bildu y los nacionalistas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-13T06:44:38Z",
+  "summary": "Resumen del día en ABC.es: El PP se convence de que hay una estrategia PSOE-Vox contra Feijóo: En Moncloa dan por perdido otro Gobierno y piensan ya en que el de la derecha sea inestable; Sánchez cesará a Torres si hay escándalo con mujeres como Ábalos: Solo aguantaría al ministro si un nuevo informe de la UCO habla de compra de material sanitario; El camino de los rehenes liberados para volver a la vida: reclusión, psicólogos y forenses: Los rehenes liberados se enfrentan a un proceso largo de recuperación física y mental. La preocupación está ahora en los cadáveres no entregados aún. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-14T06:41:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las reformas de Sánchez endosan una factura de miles de millones de euros a los gobiernos autonómicos",
-      "subtitle": "Identifican una docena de cambios legales aprobados por el Estado cuyo coste han terminado sufragando con cargo a sus propios presupuestos",
-      "url": "https://www.abc.es/economia/reformas-sanchez-endosan-factura-miles-millones-euros-20251013132855-nt.html",
-      "scraped_at": "2025-10-13T06:44:37Z"
+      "title": "El PP se convence de que hay una estrategia PSOE-Vox contra Feijóo",
+      "subtitle": "En Moncloa dan por perdido otro Gobierno y piensan ya en que el de la derecha sea inestable",
+      "url": "https://www.abc.es/espana/pp-convence-estrategia-psoevox-feijoo-20251014080730-nt.html",
+      "scraped_at": "2025-10-14T06:41:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Defensa se niega a validar los blindados 8x8 recibidos porque siguen teniendo defectos",
-      "subtitle": "Un fallo grave en la transmisión de Sapa provocó el jueves pasado la paralización de unas pruebas del VCR Dragón",
-      "url": "https://www.abc.es/espana/defensa-niega-validar-blindados-8x8-recibidos-siguen-20251013181732-nt.html",
-      "scraped_at": "2025-10-13T06:44:37Z"
+      "title": "Sánchez cesará a Torres si hay escándalo con mujeres como Ábalos",
+      "subtitle": "Solo aguantaría al ministro si un nuevo informe de la UCO habla de compra de material sanitario",
+      "url": "https://www.abc.es/espana/sanchez-tumbara-torres-escandalo-mujeres-abalos-20251014194956-nt.html",
+      "scraped_at": "2025-10-14T06:41:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo saca provecho al plantón de Abascal el 12-O y arrincona a Vox con los independentistas",
-      "subtitle": "El líder del PP recuerda que en palacio solo faltaban Bildu y los nacionalistas",
-      "url": "https://www.abc.es/espana/feijoo-saca-provecho-planton-abascal-arrincona-vox-20251013204911-nt.html",
-      "scraped_at": "2025-10-13T06:44:38Z"
+      "title": "El camino de los rehenes liberados para volver a la vida: reclusión, psicólogos y forenses",
+      "subtitle": "Los rehenes liberados se enfrentan a un proceso largo de recuperación física y mental. La preocupación está ahora en los cadáveres no entregados aún",
+      "url": "https://www.abc.es/internacional/camino-rehenes-liberados-volver-vida-reclusion-psicologos-20251013201938-nt.html",
+      "scraped_at": "2025-10-14T06:41:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Estados Unidos usa la felicitación a España por la Fiesta Nacional para abroncar de nuevo a Sánchez",
-      "subtitle": "«Para que nuestra asociación perdure y pueda afrontar los desafíos del futuro, España debe cumplir con el compromiso de gasto en defensa»",
-      "url": "https://www.abc.es/internacional/estados-unidos-usa-felicitacion-espana-fiesta-nacional-20251012232856-nt.html",
-      "scraped_at": "2025-10-13T06:44:38Z"
+      "title": "Trump rechaza posicionarse sobre la 'solución de dos estados'",
+      "subtitle": "Los propios líderes árabes, que acudieron para mostrar unidad alrededor del plan del presidente estadounidense, consideran que no habrá éxito si no se camina hacia un Estado palestino independiente",
+      "url": "https://www.abc.es/internacional/trump-rechaza-posicionarse-sobre-solucion-dos-estados-20251014062431-nt.html",
+      "scraped_at": "2025-10-14T06:41:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Acuerdo de paz",
-      "subtitle": "Sigue en directo la última hora del acuerdo de paz entre Israel y Hamás anunciado por Donald Trump",
-      "url": "https://www.abc.es/internacional/negociaciones-israel-hamas-plan-paz-trump-gaza-20251008151026-di.html",
-      "scraped_at": "2025-10-13T06:44:38Z"
+      "title": "CIS de Tezanos",
+      "subtitle": "El sondeo correspondiente al mes de octubre coloca a Pedro Sánchez como el líder político mejor valorado",
+      "url": "https://www.abc.es/espana/cis-tezanos-xxx-20251013094116-nt.html",
+      "scraped_at": "2025-10-14T06:41:22Z"
     }
   ]
 }

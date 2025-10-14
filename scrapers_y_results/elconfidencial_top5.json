@@ -1,35 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: El PSOE disparó a 405 sus cuentas sin fiscalizar con la trama Ábalos-Cerdán a pleno rendimiento: El importe que contenían estas cuentas supera los 700.000 euros, casi el cuádruple que el año anterior. En ese año 2020 se produjo la compra de mascarillas a Aldama y contratos con constructoras investigadas; Los mapas de las fronteras internas que alimentan el voto ultra en Europa: La evolución económica y demográfica de las regiones de Europa determina cuáles están estancadas y son más propensas a apoyar partidos populistas.; Dos comunidades autónomas van a ser las regiones más envejecidas de Europa en 2050: Cinco de las siete regiones europeas que tendrán una edad media superior a los 55 años en 2050 serán españolas. A la cabeza de ellas, Asturias y Castilla y León. Esto pone de relieve la intensidad del fenómeno del envejecimiento. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-13T06:44:43Z",
+  "summary": "Resumen del día en El Confidencial: La última pirueta inmobiliaria: comprar un piso en Elda para pagar el alquiler de Madrid: La dificultad para acceder a una vivienda en grandes urbes lleva a muchos a invertir en inmuebles más asequibles en otras ciudades, buscando rentabilidad o asegurar su futuro residencial.; Las oficinas de atención móvil darán servicio a 1 M de vecinos de 155 pueblos: La Comunidad de Madrid buscar facilitar los trámites con la administración de los ciudadanos de las localidades más pequeñas y reubicará la oficina central de atención en un edificio más grande y céntrico, en la calle Carretas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-14T06:41:25Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El PSOE disparó a 405 sus cuentas sin fiscalizar con la trama Ábalos-Cerdán a pleno rendimiento",
-      "subtitle": "El importe que contenían estas cuentas supera los 700.000 euros, casi el cuádruple que el año anterior. En ese año 2020 se produjo la compra de mascarillas a Aldama y contratos con constructoras investigadas",
-      "url": "https://www.elconfidencial.com/espana/2025-10-13/el-psoe-duplico-sus-cuentas-sin-fiscalizar-hasta-las-400-con-la-trama-abalos-cerdan-a-pleno-rendimiento_4226145/",
-      "scraped_at": "2025-10-13T06:44:42Z"
+      "title": "La última pirueta inmobiliaria: comprar un piso en Elda para pagar el alquiler de Madrid",
+      "subtitle": "La dificultad para acceder a una vivienda en grandes urbes lleva a muchos a invertir en inmuebles más asequibles en otras ciudades, buscando rentabilidad o asegurar su futuro residencial.",
+      "url": "https://www.elconfidencial.com/inmobiliario/2025-10-14/comprar-vivienda-inversion-alquiler-rentabilidad-1hms_4225975/",
+      "scraped_at": "2025-10-14T06:41:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los mapas de las fronteras internas que alimentan el voto ultra en Europa",
-      "subtitle": "La evolución económica y demográfica de las regiones de Europa determina cuáles están estancadas y son más propensas a apoyar partidos populistas.",
-      "url": "https://www.elconfidencial.com/mundo/europa/2025-10-13/fronteras-internas-alimentan-voto-ultra-europa_4225472/",
-      "scraped_at": "2025-10-13T06:44:43Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Dos comunidades autónomas van a ser las regiones más envejecidas de Europa en 2050",
-      "subtitle": "Cinco de las siete regiones europeas que tendrán una edad media superior a los 55 años en 2050 serán españolas. A la cabeza de ellas, Asturias y Castilla y León. Esto pone de relieve la intensidad del fenómeno del envejecimiento",
-      "url": "https://www.elconfidencial.com/economia/2025-10-13/asturias-castilla-leon-seran-regiones-mas-envejecidas-europa-2025_4226786/",
-      "scraped_at": "2025-10-13T06:44:43Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Virgen del Pilar frases",
-      "subtitle": "La Virgen del Pilar es símbolo de fe y orgullo para los aragoneses, pero también un motivo de celebración para todas las mujeres llamadas Pilar, que festejan su santo cada 12 de octubre",
-      "url": "https://www.elconfidencial.com/espana/aragon/2025-10-12/feliz-dia-virgen-pilar-frases-felicitar-whatsapp-1qrt-1tna_4226476/",
-      "scraped_at": "2025-10-13T06:44:43Z"
+      "title": "Las oficinas de atención móvil darán servicio a 1 M de vecinos de 155 pueblos",
+      "subtitle": "La Comunidad de Madrid buscar facilitar los trámites con la administración de los ciudadanos de las localidades más pequeñas y reubicará la oficina central de atención en un edificio más grande y céntrico, en la calle Carretas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2025-10-14/nueva-sede-oficina-central-ayuda-ciudadano-pueblos_4227451/",
+      "scraped_at": "2025-10-14T06:41:25Z"
     }
   ]
 }
