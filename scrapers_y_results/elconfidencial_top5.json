@@ -1,21 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La última pirueta inmobiliaria: comprar un piso en Elda para pagar el alquiler de Madrid: La dificultad para acceder a una vivienda en grandes urbes lleva a muchos a invertir en inmuebles más asequibles en otras ciudades, buscando rentabilidad o asegurar su futuro residencial.; Las oficinas de atención móvil darán servicio a 1 M de vecinos de 155 pueblos: La Comunidad de Madrid buscar facilitar los trámites con la administración de los ciudadanos de las localidades más pequeñas y reubicará la oficina central de atención en un edificio más grande y céntrico, en la calle Carretas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-14T06:41:25Z",
+  "summary": "Resumen del día en El Confidencial: Juristas avisan de que la nueva reforma del Gobierno rebaja la protección del aborto: Consideran que la reforma en ningún caso ofrece mayor protección que las últimas sentencias del Constitucional e incluso abre la puerta a imponer limitaciones a las mujeres; Hacienda se queda con el 70% de lo que recauda de más por la inflación: La no deflactación de la tarifa del IRPF para adecuarla a la inflación pasa factura a los contribuyentes. Dos estudios calculan que 7 de cada 10 euros de recaudación adicional, al ser progresivo el impuesto, se quedan en Hacienda; El fenómeno Custodio: cómo un aceitunero de Jaén ha llevado su libro al 1 de Amazon: Hablamos con el hombre más viral del momento, que se ha colocado en el top tras su aparición en &#039;La Revuelta&#039;. Un fenómeno sin parangón en la historia reciente. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-15T06:41:36Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La última pirueta inmobiliaria: comprar un piso en Elda para pagar el alquiler de Madrid",
-      "subtitle": "La dificultad para acceder a una vivienda en grandes urbes lleva a muchos a invertir en inmuebles más asequibles en otras ciudades, buscando rentabilidad o asegurar su futuro residencial.",
-      "url": "https://www.elconfidencial.com/inmobiliario/2025-10-14/comprar-vivienda-inversion-alquiler-rentabilidad-1hms_4225975/",
-      "scraped_at": "2025-10-14T06:41:25Z"
+      "title": "Juristas avisan de que la nueva reforma del Gobierno rebaja la protección del aborto",
+      "subtitle": "Consideran que la reforma en ningún caso ofrece mayor protección que las últimas sentencias del Constitucional e incluso abre la puerta a imponer limitaciones a las mujeres",
+      "url": "https://www.elconfidencial.com/espana/2025-10-15/juristas-avisan-reforma-aborto-rebaja-proteccion_4228158/",
+      "scraped_at": "2025-10-15T06:41:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las oficinas de atención móvil darán servicio a 1 M de vecinos de 155 pueblos",
-      "subtitle": "La Comunidad de Madrid buscar facilitar los trámites con la administración de los ciudadanos de las localidades más pequeñas y reubicará la oficina central de atención en un edificio más grande y céntrico, en la calle Carretas",
-      "url": "https://www.elconfidencial.com/espana/madrid/2025-10-14/nueva-sede-oficina-central-ayuda-ciudadano-pueblos_4227451/",
-      "scraped_at": "2025-10-14T06:41:25Z"
+      "title": "Hacienda se queda con el 70% de lo que recauda de más por la inflación",
+      "subtitle": "La no deflactación de la tarifa del IRPF para adecuarla a la inflación pasa factura a los contribuyentes. Dos estudios calculan que 7 de cada 10 euros de recaudación adicional, al ser progresivo el impuesto, se quedan en Hacienda",
+      "url": "https://www.elconfidencial.com/economia/2025-10-15/hacienda-recaudacion-inflacion_4228167/",
+      "scraped_at": "2025-10-15T06:41:35Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El fenómeno Custodio: cómo un aceitunero de Jaén ha llevado su libro al 1 de Amazon",
+      "subtitle": "Hablamos con el hombre más viral del momento, que se ha colocado en el top tras su aparición en &#039;La Revuelta&#039;. Un fenómeno sin parangón en la historia reciente",
+      "url": "https://www.elconfidencial.com/cultura/2025-10-15/custodio-jose-perez-perez-aceitunero-revuelta_4228071/",
+      "scraped_at": "2025-10-15T06:41:36Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"El PSOE tiene club de fans\": Griso y Motos denuncian la política \"hooligan\" en 'EH'",
+      "subtitle": "Los presentadores lamentaron en Antena 3 las campañas que han sufrido por su férrea crítica al Gobierno: &quot;Lo único que quieren es cuestionar y debilitar tu trabajo&quot;",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2025-10-14/susanna-griso-pablo-motos-el-hormiguero-hooliganismo-politica_4228291/",
+      "scraped_at": "2025-10-15T06:41:36Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PP se convence de que hay una estrategia PSOE-Vox contra Feijóo: En Moncloa dan por perdido otro Gobierno y piensan ya en que el de la derecha sea inestable; Sánchez cesará a Torres si hay escándalo con mujeres como Ábalos: Solo aguantaría al ministro si un nuevo informe de la UCO habla de compra de material sanitario; El camino de los rehenes liberados para volver a la vida: reclusión, psicólogos y forenses: Los rehenes liberados se enfrentan a un proceso largo de recuperación física y mental. La preocupación está ahora en los cadáveres no entregados aún. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-14T06:41:22Z",
+  "summary": "Resumen del día en ABC.es: Ábalos vivió cinco años de lujo sin sacar ni un euro del banco: Está citado a las 10 horas en el Supremo para explicar el origen de 95.000 euros que manejó con su asesor; Bolaños ni se plantea reformar el CGPJ pese al revés de Venecia: Desdeña el dictamen de la Comisión e insiste en que las Cortes deben elegir a los doce jueces; La Europa que ignora Bolaños: Pese a los graves reparos que Bruselas presenta a la 'reforma Bolaños', el Gobierno se declara en rebeldía y se enroca en la táctica de lo que Europa presenta como una amenaza al Estado de derecho. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-15T06:41:31Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PP se convence de que hay una estrategia PSOE-Vox contra Feijóo",
-      "subtitle": "En Moncloa dan por perdido otro Gobierno y piensan ya en que el de la derecha sea inestable",
-      "url": "https://www.abc.es/espana/pp-convence-estrategia-psoevox-feijoo-20251014080730-nt.html",
-      "scraped_at": "2025-10-14T06:41:21Z"
+      "title": "Ábalos vivió cinco años de lujo sin sacar ni un euro del banco",
+      "subtitle": "Está citado a las 10 horas en el Supremo para explicar el origen de 95.000 euros que manejó con su asesor",
+      "url": "https://www.abc.es/espana/abalos-paso-cinco-anos-lujo-sacar-euro-20251015202117-nt.html",
+      "scraped_at": "2025-10-15T06:41:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez cesará a Torres si hay escándalo con mujeres como Ábalos",
-      "subtitle": "Solo aguantaría al ministro si un nuevo informe de la UCO habla de compra de material sanitario",
-      "url": "https://www.abc.es/espana/sanchez-tumbara-torres-escandalo-mujeres-abalos-20251014194956-nt.html",
-      "scraped_at": "2025-10-14T06:41:21Z"
+      "title": "Bolaños ni se plantea reformar el CGPJ pese al revés de Venecia",
+      "subtitle": "Desdeña el dictamen de la Comisión e insiste en que las Cortes deben elegir a los doce jueces",
+      "url": "https://www.abc.es/espana/bolanos-plantea-reformar-cgpj-pese-reves-venecia-20251015175638-nt.html",
+      "scraped_at": "2025-10-15T06:41:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "El camino de los rehenes liberados para volver a la vida: reclusión, psicólogos y forenses",
-      "subtitle": "Los rehenes liberados se enfrentan a un proceso largo de recuperación física y mental. La preocupación está ahora en los cadáveres no entregados aún",
-      "url": "https://www.abc.es/internacional/camino-rehenes-liberados-volver-vida-reclusion-psicologos-20251013201938-nt.html",
-      "scraped_at": "2025-10-14T06:41:21Z"
+      "title": "La Europa que ignora Bolaños",
+      "subtitle": "Pese a los graves reparos que Bruselas presenta a la 'reforma Bolaños', el Gobierno se declara en rebeldía y se enroca en la táctica de lo que Europa presenta como una amenaza al Estado de derecho",
+      "url": "https://www.abc.es/opinion/editorial-europa-ignora-bolanos-20251015191823-nt.html",
+      "scraped_at": "2025-10-15T06:41:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump rechaza posicionarse sobre la 'solución de dos estados'",
-      "subtitle": "Los propios líderes árabes, que acudieron para mostrar unidad alrededor del plan del presidente estadounidense, consideran que no habrá éxito si no se camina hacia un Estado palestino independiente",
-      "url": "https://www.abc.es/internacional/trump-rechaza-posicionarse-sobre-solucion-dos-estados-20251014062431-nt.html",
-      "scraped_at": "2025-10-14T06:41:21Z"
+      "title": "Hamás se resiste a desarmarse e impide que Gaza reviva",
+      "subtitle": "Israel y los islamistas se acusan mutuamente de incumplir con la primera fase del acuerdo",
+      "url": "https://www.abc.es/internacional/hamas-resiste-desarmarse-facilitar-transicion-gaza-20251015042939-nt.html",
+      "scraped_at": "2025-10-15T06:41:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "CIS de Tezanos",
-      "subtitle": "El sondeo correspondiente al mes de octubre coloca a Pedro Sánchez como el líder político mejor valorado",
-      "url": "https://www.abc.es/espana/cis-tezanos-xxx-20251013094116-nt.html",
-      "scraped_at": "2025-10-14T06:41:22Z"
+      "title": "España hoy",
+      "subtitle": "Conoce a qué hora empieza el partido de hoy entre España y Bulgaria y dónde verlo online y en televisión",
+      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-television-espana-hoy-horario-partido-contra-bulgaria-20251014050100-nt.html",
+      "scraped_at": "2025-10-15T06:41:31Z"
     }
   ]
 }
