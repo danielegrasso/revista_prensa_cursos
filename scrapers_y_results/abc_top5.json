@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Ábalos vivió cinco años de lujo sin sacar ni un euro del banco: Está citado a las 10 horas en el Supremo para explicar el origen de 95.000 euros que manejó con su asesor; Bolaños ni se plantea reformar el CGPJ pese al revés de Venecia: Desdeña el dictamen de la Comisión e insiste en que las Cortes deben elegir a los doce jueces; La Europa que ignora Bolaños: Pese a los graves reparos que Bruselas presenta a la 'reforma Bolaños', el Gobierno se declara en rebeldía y se enroca en la táctica de lo que Europa presenta como una amenaza al Estado de derecho. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-15T06:41:31Z",
+  "summary": "Resumen del día en ABC.es: Koldo avisó de la recepción de «dos mil chistorras» antes de las elecciones de 2019: El mensaje a su exmujer recogido por la UCO es una de las cuestiones claves del interrogatorio de este jueves; Moncloa se parapeta tras la UE para esquivar el «castigo» de Trump a España: El Gobierno se afana en trasladar imagen de normalidad con EE.UU., pero mantiene el desafío del 2%; Un escollo más para la vivienda: la falta de redes eléctricas retrasará hasta cuatro años la entrega de una casa: Los problemas de acceso a la red dejan en el alambre futuras promociones cuando la crisis de oferta de casas está devorando el mercado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-16T06:41:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Ábalos vivió cinco años de lujo sin sacar ni un euro del banco",
-      "subtitle": "Está citado a las 10 horas en el Supremo para explicar el origen de 95.000 euros que manejó con su asesor",
-      "url": "https://www.abc.es/espana/abalos-paso-cinco-anos-lujo-sacar-euro-20251015202117-nt.html",
-      "scraped_at": "2025-10-15T06:41:30Z"
+      "title": "Koldo avisó de la recepción de «dos mil chistorras» antes de las elecciones de 2019",
+      "subtitle": "El mensaje a su exmujer recogido por la UCO es una de las cuestiones claves del interrogatorio de este jueves",
+      "url": "https://www.abc.es/espana/koldo-aviso-recepcion-dos-mil-chistorras-elecciones-20251016040849-nt.html",
+      "scraped_at": "2025-10-16T06:41:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Bolaños ni se plantea reformar el CGPJ pese al revés de Venecia",
-      "subtitle": "Desdeña el dictamen de la Comisión e insiste en que las Cortes deben elegir a los doce jueces",
-      "url": "https://www.abc.es/espana/bolanos-plantea-reformar-cgpj-pese-reves-venecia-20251015175638-nt.html",
-      "scraped_at": "2025-10-15T06:41:31Z"
+      "title": "Moncloa se parapeta tras la UE para esquivar el «castigo» de Trump a España",
+      "subtitle": "El Gobierno se afana en trasladar imagen de normalidad con EE.UU., pero mantiene el desafío del 2%",
+      "url": "https://www.abc.es/espana/moncloa-parapeta-tras-ue-esquivar-castigo-trump-20251016181657-nt.html",
+      "scraped_at": "2025-10-16T06:41:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Europa que ignora Bolaños",
-      "subtitle": "Pese a los graves reparos que Bruselas presenta a la 'reforma Bolaños', el Gobierno se declara en rebeldía y se enroca en la táctica de lo que Europa presenta como una amenaza al Estado de derecho",
-      "url": "https://www.abc.es/opinion/editorial-europa-ignora-bolanos-20251015191823-nt.html",
-      "scraped_at": "2025-10-15T06:41:31Z"
+      "title": "Un escollo más para la vivienda: la falta de redes eléctricas retrasará hasta cuatro años la entrega de una casa",
+      "subtitle": "Los problemas de acceso a la red dejan en el alambre futuras promociones cuando la crisis de oferta de casas está devorando el mercado",
+      "url": "https://www.abc.es/economia/escollo-vivienda-falta-redes-electricas-retrasara-cuatro-20251016041105-nt.html",
+      "scraped_at": "2025-10-16T06:41:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "Hamás se resiste a desarmarse e impide que Gaza reviva",
-      "subtitle": "Israel y los islamistas se acusan mutuamente de incumplir con la primera fase del acuerdo",
-      "url": "https://www.abc.es/internacional/hamas-resiste-desarmarse-facilitar-transicion-gaza-20251015042939-nt.html",
-      "scraped_at": "2025-10-15T06:41:31Z"
+      "title": "El Gobierno se plantea cambiar la subida de cuotas a los autónomos tras el fuerte rechazo",
+      "subtitle": "ATA aclara que el pacto de 2022 no exigía elevarlas tanto como se ha llegado a proponer",
+      "url": "https://www.abc.es/economia/gobierno-plantea-cambiar-subida-cuotas-autonomos-tras-20251016183341-nt.html",
+      "scraped_at": "2025-10-16T06:41:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "España hoy",
-      "subtitle": "Conoce a qué hora empieza el partido de hoy entre España y Bulgaria y dónde verlo online y en televisión",
-      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-television-espana-hoy-horario-partido-contra-bulgaria-20251014050100-nt.html",
-      "scraped_at": "2025-10-15T06:41:31Z"
+      "title": "Cuota de autónomos",
+      "subtitle": "Los trabajadores por cuenta propia experimentarán subidas para 2026 entre el 8,7% y el 34,9%, según el tramo",
+      "url": "https://www.abc.es/economia/calcula-subiria-exactamente-cuota-autonomos-propuesta-gobierno-20251015040000-nt.html",
+      "scraped_at": "2025-10-16T06:41:39Z"
     }
   ]
 }
