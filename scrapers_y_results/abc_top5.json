@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Koldo avisó de la recepción de «dos mil chistorras» antes de las elecciones de 2019: El mensaje a su exmujer recogido por la UCO es una de las cuestiones claves del interrogatorio de este jueves; Moncloa se parapeta tras la UE para esquivar el «castigo» de Trump a España: El Gobierno se afana en trasladar imagen de normalidad con EE.UU., pero mantiene el desafío del 2%; Un escollo más para la vivienda: la falta de redes eléctricas retrasará hasta cuatro años la entrega de una casa: Los problemas de acceso a la red dejan en el alambre futuras promociones cuando la crisis de oferta de casas está devorando el mercado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-16T06:41:39Z",
+  "summary": "Resumen del día en ABC.es: Koldo llevaba tres sobres para gastos oficiales cuando viajaba con Ábalos y un cuarto, para prostitutas: Lo portaba en viajes con el entonces ministro junto a los tres 'oficiales', el del ministerio, el del partido y el de gastos personales; Moncloa arremete contra el juez Puente para desviar el foco de Ábalos: Utiliza el «estupor» del instructor para cuestionar el auto: «Que se presente a unas elecciones»; El PP jugará al despiste hasta el final para acorralar a Sánchez en el Senado: Valoran distintos portavoces para un interrogatorio clave en la comisión sobre el caso Koldo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-17T06:40:00Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Koldo avisó de la recepción de «dos mil chistorras» antes de las elecciones de 2019",
-      "subtitle": "El mensaje a su exmujer recogido por la UCO es una de las cuestiones claves del interrogatorio de este jueves",
-      "url": "https://www.abc.es/espana/koldo-aviso-recepcion-dos-mil-chistorras-elecciones-20251016040849-nt.html",
-      "scraped_at": "2025-10-16T06:41:38Z"
+      "title": "Koldo llevaba tres sobres para gastos oficiales cuando viajaba con Ábalos y un cuarto, para prostitutas",
+      "subtitle": "Lo portaba en viajes con el entonces ministro junto a los tres 'oficiales', el del ministerio, el del partido y el de gastos personales",
+      "url": "https://www.abc.es/espana/koldo-llevaba-cuarto-sobre-dinero-pagar-prostitutas-20251017173941-nt.html",
+      "scraped_at": "2025-10-17T06:39:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa se parapeta tras la UE para esquivar el «castigo» de Trump a España",
-      "subtitle": "El Gobierno se afana en trasladar imagen de normalidad con EE.UU., pero mantiene el desafío del 2%",
-      "url": "https://www.abc.es/espana/moncloa-parapeta-tras-ue-esquivar-castigo-trump-20251016181657-nt.html",
-      "scraped_at": "2025-10-16T06:41:38Z"
+      "title": "Moncloa arremete contra el juez Puente para desviar el foco de Ábalos",
+      "subtitle": "Utiliza el «estupor» del instructor para cuestionar el auto: «Que se presente a unas elecciones»",
+      "url": "https://www.abc.es/espana/moncloa-arremete-juez-puente-desviar-foco-corrupcion-20251017192934-nt.html",
+      "scraped_at": "2025-10-17T06:39:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un escollo más para la vivienda: la falta de redes eléctricas retrasará hasta cuatro años la entrega de una casa",
+      "title": "El PP jugará al despiste hasta el final para acorralar a Sánchez en el Senado",
+      "subtitle": "Valoran distintos portavoces para un interrogatorio clave en la comisión sobre el caso Koldo",
+      "url": "https://www.abc.es/espana/pp-jugara-despiste-final-acorralar-sanchez-senado-20251017041856-nt.html",
+      "scraped_at": "2025-10-17T06:39:59Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "BBVA fracasa en su opa sobre el Banco Sabadell con una aceptación de solo el 25%",
+      "subtitle": "Al no superar el 30%, la oferta queda ya sin efecto y la entidad catalana seguirá en solitario",
+      "url": "https://www.abc.es/economia/bbva-fracasa-opa-sabadell-aceptacion-solo-2533-20251016203530-nt.html",
+      "scraped_at": "2025-10-17T06:40:00Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Vivienda",
       "subtitle": "Los problemas de acceso a la red dejan en el alambre futuras promociones cuando la crisis de oferta de casas está devorando el mercado",
       "url": "https://www.abc.es/economia/escollo-vivienda-falta-redes-electricas-retrasara-cuatro-20251016041105-nt.html",
-      "scraped_at": "2025-10-16T06:41:39Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El Gobierno se plantea cambiar la subida de cuotas a los autónomos tras el fuerte rechazo",
-      "subtitle": "ATA aclara que el pacto de 2022 no exigía elevarlas tanto como se ha llegado a proponer",
-      "url": "https://www.abc.es/economia/gobierno-plantea-cambiar-subida-cuotas-autonomos-tras-20251016183341-nt.html",
-      "scraped_at": "2025-10-16T06:41:39Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Cuota de autónomos",
-      "subtitle": "Los trabajadores por cuenta propia experimentarán subidas para 2026 entre el 8,7% y el 34,9%, según el tramo",
-      "url": "https://www.abc.es/economia/calcula-subiria-exactamente-cuota-autonomos-propuesta-gobierno-20251015040000-nt.html",
-      "scraped_at": "2025-10-16T06:41:39Z"
+      "scraped_at": "2025-10-17T06:40:00Z"
     }
   ]
 }
