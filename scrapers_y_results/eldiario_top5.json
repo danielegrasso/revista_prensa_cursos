@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El batacazo de BBVA en la OPA sobre Sabadell cuestiona la estrategia de Carlos Torres: Aunque el presidente de BBVA ha contado con el apoyo unánime de su consejo de administración y siempre consideró que saldría victorioso, es su segundo intento fallido de comprar el banco catalán en cinco años; BBVA fracasa en su OPA por Banco Sabadell y solo logra el respaldo del 25% de los accionistas: La entidad presidida por Carlos Torres se retira de la operación \"porque no ha alcanzado el nivel mínimo de aceptación que el banco había fijado\"; Cronología de una OPA fracasada: la historia del intento frustrado de BBVA por hacerse con Sabadell: Resumimos las fechas clave de una operación que ya dura año y medio cuando la CNMV ha confirmado que el BBVA ha conseguido algo más del 25% del accionariado en su oferta, un porcentaje insuficiente para sacar adelante la propuesta de compra. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-17T06:39:58Z",
+  "summary": "Resumen del día en elDiario.es: El auge de la universidad privada dispara los créditos para pagar los estudios: En cinco años los préstamos al estudio han crecido un 60%. Las universidades privadas han pasado de facturar 2.200 millones de euros en 2017 a 3.700 millones en 2023 y en el último cuatro de siglo han abierto 27 centros privados por ninguno público; El caso Ábalos se estanca entre el silencio del ministro y Koldo y la falta de avances en la búsqueda del dinero: El juez admite que en 20 meses de investigación no se han hallado las “cantidades importantes de dinero opaco” de las supuestas mordidas y mantiene a ambos en libertad aunque cree que los indicios son cada vez más robustos; Sánchez le toma la medida a Feijóo en el Congreso: El Gobierno ha dejado de afrontar las sesiones de control como un trance tras atravesar el momento más crítico hace meses con el caso Cerdán y sus socios ven un cambio de dinámica: \"El PP está perdidísimo\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-18T06:36:52Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El batacazo de BBVA en la OPA sobre Sabadell cuestiona la estrategia de Carlos Torres",
-      "subtitle": "Aunque el presidente de BBVA ha contado con el apoyo unánime de su consejo de administración y siempre consideró que saldría victorioso, es su segundo intento fallido de comprar el banco catalán en cinco años",
-      "url": "https://www.eldiario.es/economia/batacazo-bbva-opa-sabadell-cuestiona-estrategia-carlos-torres_1_12690803.html",
-      "scraped_at": "2025-10-17T06:39:56Z"
+      "title": "El auge de la universidad privada dispara los créditos para pagar los estudios",
+      "subtitle": "En cinco años los préstamos al estudio han crecido un 60%. Las universidades privadas han pasado de facturar 2.200 millones de euros en 2017 a 3.700 millones en 2023 y en el último cuatro de siglo han abierto 27 centros privados por ninguno público",
+      "url": "https://www.eldiario.es/sociedad/auge-universidad-privada-dispara-creditos-pagar-estudios_1_12671072.html",
+      "scraped_at": "2025-10-18T06:36:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "BBVA fracasa en su OPA por Banco Sabadell y solo logra el respaldo del 25% de los accionistas",
-      "subtitle": "La entidad presidida por Carlos Torres se retira de la operación \"porque no ha alcanzado el nivel mínimo de aceptación que el banco había fijado\"",
-      "url": "https://www.eldiario.es/economia/bbva-fracasa-opa-banco-sabadell-no-llegar-30-capital_1_12682412.html",
-      "scraped_at": "2025-10-17T06:39:57Z"
+      "title": "El caso Ábalos se estanca entre el silencio del ministro y Koldo y la falta de avances en la búsqueda del dinero",
+      "subtitle": "El juez admite que en 20 meses de investigación no se han hallado las “cantidades importantes de dinero opaco” de las supuestas mordidas y mantiene a ambos en libertad aunque cree que los indicios son cada vez más robustos",
+      "url": "https://www.eldiario.es/politica/caso-abalos-estanca-silencio-ministro-koldo-garcia-falta-avances-busqueda-dinero_1_12693596.html",
+      "scraped_at": "2025-10-18T06:36:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cronología de una OPA fracasada: la historia del intento frustrado de BBVA por hacerse con Sabadell",
-      "subtitle": "Resumimos las fechas clave de una operación que ya dura año y medio cuando la CNMV ha confirmado que el BBVA ha conseguido algo más del 25% del accionariado en su oferta, un porcentaje insuficiente para sacar adelante la propuesta de compra",
-      "url": "https://www.eldiario.es/economia/cronologia-opa-fracasada-historia-frustrado-bbva-hacerse-sabadell_1_12686810.html",
-      "scraped_at": "2025-10-17T06:39:57Z"
+      "title": "Sánchez le toma la medida a Feijóo en el Congreso",
+      "subtitle": "El Gobierno ha dejado de afrontar las sesiones de control como un trance tras atravesar el momento más crítico hace meses con el caso Cerdán y sus socios ven un cambio de dinámica: \"El PP está perdidísimo\"",
+      "url": "https://www.eldiario.es/politica/sanchez-le-toma-medida-feijoo-congreso_1_12692146.html",
+      "scraped_at": "2025-10-18T06:36:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El final de la OPA: en el fondo, nada de lo que alegrarse",
-      "subtitle": "Las dos partes de la operación no tienen nada de lo que alegrarse del todo: a BBVA puede que sus accionistas le exijan la liquidez con la que contaba para la OPA y hacer caja; a Sabadell le toca rehacer descosidos y afronta el riesgo de lo que pueda suceder con las acciones de una entidad que lo ha prometido todo para su andadura en solitario",
-      "url": "https://www.eldiario.es/economia/final-opa-fondo-alegrarse_129_12690993.html",
-      "scraped_at": "2025-10-17T06:39:57Z"
+      "title": "Arroyomolinos recrea la corrupción del PP madrileño con los casos de la 'número tres' de Ayuso y su sucesor en la alcaldía",
+      "subtitle": "La vivienda tiene un papel especial en los casos de Ana Millán y su sucesor: ella cobró a un empresario, al que adjudicaba contratos, el doble del precio de mercado por un ático, y los presuntos delitos de Luis Quiroga se cometieron al frente de la agencia pública del suelo",
+      "url": "https://www.eldiario.es/politica/arroyomolinos-recrea-corrupcion-pp-madrileno-casos-numero-tres-ayuso-sucesor-alcaldia_1_12655062.html",
+      "scraped_at": "2025-10-18T06:36:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Premio Planeta",
-      "subtitle": "Del Val se une a la lista de rostros televisivos galardonados que demuestran que ser mediático ayuda a ganar premios pero, sobre todo, a vender libros",
-      "url": "https://www.eldiario.es/cultura/libros/ana-maria-matute-juan-val-viaje-premio-planeta-prestigio-negocio_129_12689006.html",
-      "scraped_at": "2025-10-17T06:39:58Z"
+      "title": "Santos Cerdán",
+      "subtitle": "Los abogados del ex ‘número tres’ del PSOE consideran “difícil de entender” la tesis del juez de que Cerdán es el único investigado que puede destruir pruebas y dicen que no hay ningún \"argumento constitucional\" para prolongar su encarcelamiento",
+      "url": "https://www.eldiario.es/politica/santos-cerdan-denuncia-agravio-comparativo-frente-abalos-koldo-garcia-pide-salir-prision_1_12692324.html",
+      "scraped_at": "2025-10-18T06:36:52Z"
     }
   ]
 }

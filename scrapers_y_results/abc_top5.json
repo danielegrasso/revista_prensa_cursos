@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Koldo llevaba tres sobres para gastos oficiales cuando viajaba con Ábalos y un cuarto, para prostitutas: Lo portaba en viajes con el entonces ministro junto a los tres 'oficiales', el del ministerio, el del partido y el de gastos personales; Moncloa arremete contra el juez Puente para desviar el foco de Ábalos: Utiliza el «estupor» del instructor para cuestionar el auto: «Que se presente a unas elecciones»; El PP jugará al despiste hasta el final para acorralar a Sánchez en el Senado: Valoran distintos portavoces para un interrogatorio clave en la comisión sobre el caso Koldo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-17T06:40:00Z",
+  "summary": "Resumen del día en ABC.es: El Consejo de Estado alerta del riesgo de designar fiscales 'ad hoc': En su informe a la reforma del Estatuto Fiscal recuerda que la Policía Judicial no depende del Ministerio Público; Gasolina, dietas, comidas.... Los pagos de miles de euros del PSOE a Koldo y Ábalos: El exministro de Transportes recibió en sobres del partido más de 19.000 euros entre 2017 y 2021; Carlos III fuerza al Príncipe Andrés a renunciar a todos sus títulos para evitar que sus escándalos le salpiquen: Asegura en un comunicado que da «un paso atrás» ante las acusaciones que está recibiendo para «priorizar» el deber a su familia y a su país. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-18T06:36:54Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Koldo llevaba tres sobres para gastos oficiales cuando viajaba con Ábalos y un cuarto, para prostitutas",
-      "subtitle": "Lo portaba en viajes con el entonces ministro junto a los tres 'oficiales', el del ministerio, el del partido y el de gastos personales",
-      "url": "https://www.abc.es/espana/koldo-llevaba-cuarto-sobre-dinero-pagar-prostitutas-20251017173941-nt.html",
-      "scraped_at": "2025-10-17T06:39:59Z"
+      "title": "El Consejo de Estado alerta del riesgo de designar fiscales 'ad hoc'",
+      "subtitle": "En su informe a la reforma del Estatuto Fiscal recuerda que la Policía Judicial no depende del Ministerio Público",
+      "url": "https://www.abc.es/espana/consejo-estado-alerta-riesgo-designar-fiscales-hoc-20251018043307-nt.html",
+      "scraped_at": "2025-10-18T06:36:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa arremete contra el juez Puente para desviar el foco de Ábalos",
-      "subtitle": "Utiliza el «estupor» del instructor para cuestionar el auto: «Que se presente a unas elecciones»",
-      "url": "https://www.abc.es/espana/moncloa-arremete-juez-puente-desviar-foco-corrupcion-20251017192934-nt.html",
-      "scraped_at": "2025-10-17T06:39:59Z"
+      "title": "Gasolina, dietas, comidas.... Los pagos de miles de euros del PSOE a Koldo y Ábalos",
+      "subtitle": "El exministro de Transportes recibió en sobres del partido más de 19.000 euros entre 2017 y 2021",
+      "url": "https://www.abc.es/espana/1400-euros-comidas-mes-pagos-metalico-psoe-20251018183414-nt.html",
+      "scraped_at": "2025-10-18T06:36:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP jugará al despiste hasta el final para acorralar a Sánchez en el Senado",
-      "subtitle": "Valoran distintos portavoces para un interrogatorio clave en la comisión sobre el caso Koldo",
-      "url": "https://www.abc.es/espana/pp-jugara-despiste-final-acorralar-sanchez-senado-20251017041856-nt.html",
-      "scraped_at": "2025-10-17T06:39:59Z"
+      "title": "Carlos III fuerza al Príncipe Andrés a renunciar a todos sus títulos para evitar que sus escándalos le salpiquen",
+      "subtitle": "Asegura en un comunicado que da «un paso atrás» ante las acusaciones que está recibiendo para «priorizar» el deber a su familia y a su país",
+      "url": "https://www.abc.es/internacional/principe-andres-abandona-ducado-york-titulos-militares-20251017201449-nt.html",
+      "scraped_at": "2025-10-18T06:36:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "BBVA fracasa en su opa sobre el Banco Sabadell con una aceptación de solo el 25%",
-      "subtitle": "Al no superar el 30%, la oferta queda ya sin efecto y la entidad catalana seguirá en solitario",
-      "url": "https://www.abc.es/economia/bbva-fracasa-opa-sabadell-aceptacion-solo-2533-20251016203530-nt.html",
-      "scraped_at": "2025-10-17T06:40:00Z"
+      "title": "BBVA se enfocará en el crecimiento interno, pero sin cerrarse opciones",
+      "subtitle": "El banco quiere finiquitar cuanto antes este capítulo y lanza guiños con la remuneración a sus accionistas",
+      "url": "https://www.abc.es/economia/bbva-enfocara-crecimiento-interno-cerrarse-opciones-20251018043505-nt.html",
+      "scraped_at": "2025-10-18T06:36:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vivienda",
-      "subtitle": "Los problemas de acceso a la red dejan en el alambre futuras promociones cuando la crisis de oferta de casas está devorando el mercado",
-      "url": "https://www.abc.es/economia/escollo-vivienda-falta-redes-electricas-retrasara-cuatro-20251016041105-nt.html",
-      "scraped_at": "2025-10-17T06:40:00Z"
+      "title": "Fracaso OPA",
+      "subtitle": "Al no superar el 30%, la oferta quedó sin efecto y la entidad catalana seguirá en solitario",
+      "url": "https://www.abc.es/economia/fracaso-opa-bbva-sobre-sabadell-rueda-prensa-20251017085116-di.html",
+      "scraped_at": "2025-10-18T06:36:54Z"
     }
   ]
 }

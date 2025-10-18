@@ -1,42 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sumar ahonda la grieta entre el PSOE y los autónomos y propondrá eliminar el IVA adelantado: Ahonda en la brecha con el PSOE tras rechazar la propuesta de la Seguridad Social de subir las cuotas a los autónomos. Ahora canaliza una reivindicación del colectivo que Hacienda ha venido rechazando; El Gobierno deberá informar al Congreso si Hacienda investiga al PSOE por los sobres de Ferraz: El PP logra sacar adelante una iniciativa para que el Gobierno informe también de la contratación del expresidente de la SEPI, Vicente Fernández, por la empresa de Santos Cerdán, Servinabar; No hay muertos para tanto tanatorio en España, pero es un negocio muy rentable: Mientras aquí las salas para funerales superan seis veces la demanda, otros países europeos apenas tienen lo imprescindible. Las funerarias han creado una red amplia y fácil de mantener. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-17T06:40:04Z",
+  "summary": "Resumen del día en El Confidencial: Temor al sorpasso de Aliança: crecen en Junts los partidarios de un congreso extraordinario: Un grupo de alcaldes viaja el lunes a Waterloo para pedir a Puigdemont un giro estratégico para frenar a Aliança Catalana, de Silvia Orriols. Surgen las voces para pedir al líder que supere el 1-O y abra el debate para no condenar al partido; Bajos para viviendas, cribados y rebajas fiscales: la agenda social de Rueda: La Xunta da luz verde a sus Presupuestos con cifra récord: 14.240 millones, un 2% más.  Rueda presume del mayor gasto social “mientras España sigue sin aprobar los suyos”. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-18T06:36:57Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sumar ahonda la grieta entre el PSOE y los autónomos y propondrá eliminar el IVA adelantado",
-      "subtitle": "Ahonda en la brecha con el PSOE tras rechazar la propuesta de la Seguridad Social de subir las cuotas a los autónomos. Ahora canaliza una reivindicación del colectivo que Hacienda ha venido rechazando",
-      "url": "https://www.elconfidencial.com/economia/2025-10-17/sumar-propone-eliminar-iva-adelantado-autonomos_4229474/",
-      "scraped_at": "2025-10-17T06:40:03Z"
+      "title": "Temor al sorpasso de Aliança: crecen en Junts los partidarios de un congreso extraordinario",
+      "subtitle": "Un grupo de alcaldes viaja el lunes a Waterloo para pedir a Puigdemont un giro estratégico para frenar a Aliança Catalana, de Silvia Orriols. Surgen las voces para pedir al líder que supere el 1-O y abra el debate para no condenar al partido",
+      "url": "https://www.elconfidencial.com/espana/2025-10-18/temor-sorpasso-alianca-crecen-junts-partidarios-congreso-extraordinario_4230041/",
+      "scraped_at": "2025-10-18T06:36:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Gobierno deberá informar al Congreso si Hacienda investiga al PSOE por los sobres de Ferraz",
-      "subtitle": "El PP logra sacar adelante una iniciativa para que el Gobierno informe también de la contratación del expresidente de la SEPI, Vicente Fernández, por la empresa de Santos Cerdán, Servinabar",
-      "url": "https://www.elconfidencial.com/espana/2025-10-17/gobierno-informar-congreso-investigacion-hacienda-psoe-pagos-metalico_4229535/",
-      "scraped_at": "2025-10-17T06:40:03Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "No hay muertos para tanto tanatorio en España, pero es un negocio muy rentable",
-      "subtitle": "Mientras aquí las salas para funerales superan seis veces la demanda, otros países europeos apenas tienen lo imprescindible. Las funerarias han creado una red amplia y fácil de mantener",
-      "url": "https://www.elconfidencial.com/espana/2025-10-17/europa-funeraria-tanatorio-fallecidos-cremacion_4228249/",
-      "scraped_at": "2025-10-17T06:40:03Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El suicidio de la niña Sandra: \"Los profesores no saben aplicar el protocolo antiacoso\"",
-      "subtitle": "La muerte de la joven se produjo tras denunciar sus padres que sufría bullying, pero el colegio no aplicó el protocolo de la Junta. Pablo Duchement, perito judicial,",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2025-10-17/suicidio-sandra-sevilla-debate-protocolo-antiacoso-profesores_4229650/",
-      "scraped_at": "2025-10-17T06:40:03Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Detenido por el secuestro y traslado a Argelia de cuatro de sus hijos menores",
-      "subtitle": "La investigación judicial continúa tras la denuncia de la madre, quien asegura que los menores sufren malos tratos en Argelia desde agosto bajo la custodia del progenitor",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-16/secuestro-menores-valencia-argelia-1tna-1tps_4229409/",
-      "scraped_at": "2025-10-17T06:40:04Z"
+      "title": "Bajos para viviendas, cribados y rebajas fiscales: la agenda social de Rueda",
+      "subtitle": "La Xunta da luz verde a sus Presupuestos con cifra récord: 14.240 millones, un 2% más.  Rueda presume del mayor gasto social “mientras España sigue sin aprobar los suyos”",
+      "url": "https://www.elconfidencial.com/espana/galicia/2025-10-18/xunta-apruebas-cuentas-2026-en-clave-social_4230402/",
+      "scraped_at": "2025-10-18T06:36:57Z"
     }
   ]
 }
