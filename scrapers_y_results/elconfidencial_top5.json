@@ -1,21 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Temor al sorpasso de Aliança: crecen en Junts los partidarios de un congreso extraordinario: Un grupo de alcaldes viaja el lunes a Waterloo para pedir a Puigdemont un giro estratégico para frenar a Aliança Catalana, de Silvia Orriols. Surgen las voces para pedir al líder que supere el 1-O y abra el debate para no condenar al partido; Bajos para viviendas, cribados y rebajas fiscales: la agenda social de Rueda: La Xunta da luz verde a sus Presupuestos con cifra récord: 14.240 millones, un 2% más.  Rueda presume del mayor gasto social “mientras España sigue sin aprobar los suyos”. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-18T06:36:57Z",
+  "summary": "Resumen del día en El Confidencial: La otra cara del crecimiento: 4, 4M de personas viven hacinadas en España: Los precios disparados y la falta de viviendas provoca que más hogares estén &quot;superpoblados&quot;, por debajo de los requisitos mínimos de espacio; ¿Cinco euros por entrar a un mercado? La Boquería muestra el futuro del comercio: La posibilidad de cobrar entrada en el popular mercado barcelonés ha levantado ampollas entre los comerciantes y señala cuál puede ser la dirección a seguir: ¿comercio o atracción turística?; Si te desquicia la \"superioridad moral de la izquierda\", te presento a Michael Huemer: Profesor de Ética, Epistemología y Filosofía Política en Colorado, es una de las voces prominentes del anarcocapitalismo americano. Ha escrito un libro para desmontar los &quot;mitos progres&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-19T06:38:09Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Temor al sorpasso de Aliança: crecen en Junts los partidarios de un congreso extraordinario",
-      "subtitle": "Un grupo de alcaldes viaja el lunes a Waterloo para pedir a Puigdemont un giro estratégico para frenar a Aliança Catalana, de Silvia Orriols. Surgen las voces para pedir al líder que supere el 1-O y abra el debate para no condenar al partido",
-      "url": "https://www.elconfidencial.com/espana/2025-10-18/temor-sorpasso-alianca-crecen-junts-partidarios-congreso-extraordinario_4230041/",
-      "scraped_at": "2025-10-18T06:36:57Z"
+      "title": "La otra cara del crecimiento: 4, 4M de personas viven hacinadas en España",
+      "subtitle": "Los precios disparados y la falta de viviendas provoca que más hogares estén &quot;superpoblados&quot;, por debajo de los requisitos mínimos de espacio",
+      "url": "https://www.elconfidencial.com/economia/2025-10-19/4-4-millones-personas-viven-hacinadas-espana_4230451/",
+      "scraped_at": "2025-10-19T06:38:07Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Bajos para viviendas, cribados y rebajas fiscales: la agenda social de Rueda",
-      "subtitle": "La Xunta da luz verde a sus Presupuestos con cifra récord: 14.240 millones, un 2% más.  Rueda presume del mayor gasto social “mientras España sigue sin aprobar los suyos”",
-      "url": "https://www.elconfidencial.com/espana/galicia/2025-10-18/xunta-apruebas-cuentas-2026-en-clave-social_4230402/",
-      "scraped_at": "2025-10-18T06:36:57Z"
+      "title": "¿Cinco euros por entrar a un mercado? La Boquería muestra el futuro del comercio",
+      "subtitle": "La posibilidad de cobrar entrada en el popular mercado barcelonés ha levantado ampollas entre los comerciantes y señala cuál puede ser la dirección a seguir: ¿comercio o atracción turística?",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-19/cinco-euros-entrar-mercado-la-boqueria_4230006/",
+      "scraped_at": "2025-10-19T06:38:08Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Si te desquicia la \"superioridad moral de la izquierda\", te presento a Michael Huemer",
+      "subtitle": "Profesor de Ética, Epistemología y Filosofía Política en Colorado, es una de las voces prominentes del anarcocapitalismo americano. Ha escrito un libro para desmontar los &quot;mitos progres&quot;",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-19/michael-huemer-mitos-progres-entrevista_4230467/",
+      "scraped_at": "2025-10-19T06:38:08Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Hablan los padres huérfanos de hijos por el acoso escolar: \"Ya le pedimos a Alegría una ley\"",
+      "subtitle": "El presidente de la asociación Trencats, José Manuel López, reclama al Gobierno una norma que obligue a los colegios a &quot;no mirar a otro lado&quot; y responsabilice a los padres de los acosadores",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2025-10-19/hablan-los-padres-huerfanos-de-hijos-por-el-acoso-escolar_4230357/",
+      "scraped_at": "2025-10-19T06:38:09Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Quiénes somos",
+      "subtitle": "Hace 24 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
+      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
+      "scraped_at": "2025-10-19T06:38:09Z"
     }
   ]
 }

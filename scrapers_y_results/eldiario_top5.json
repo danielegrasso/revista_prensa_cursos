@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El auge de la universidad privada dispara los créditos para pagar los estudios: En cinco años los préstamos al estudio han crecido un 60%. Las universidades privadas han pasado de facturar 2.200 millones de euros en 2017 a 3.700 millones en 2023 y en el último cuatro de siglo han abierto 27 centros privados por ninguno público; El caso Ábalos se estanca entre el silencio del ministro y Koldo y la falta de avances en la búsqueda del dinero: El juez admite que en 20 meses de investigación no se han hallado las “cantidades importantes de dinero opaco” de las supuestas mordidas y mantiene a ambos en libertad aunque cree que los indicios son cada vez más robustos; Sánchez le toma la medida a Feijóo en el Congreso: El Gobierno ha dejado de afrontar las sesiones de control como un trance tras atravesar el momento más crítico hace meses con el caso Cerdán y sus socios ven un cambio de dinámica: \"El PP está perdidísimo\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-18T06:36:52Z",
+  "summary": "Resumen del día en elDiario.es: Trump quiere redibujar el mundo desde un país en llamas: En una semana en la que prosigue el cierre del Gobierno y que ha culminado con movilizaciones por todo el país contra Trump, el presidente de EEUU ha sellado un incipiente alto el fuego en Gaza, para después autorizar operaciones encubiertas en Venezuela y hablar por teléfono y en persona con Putin y Zelenski para el fin de la guerra en Ucrania; La crisis de deuda de Francia hace temblar al resto de Europa: La incertidumbre política que asola al Gobierno de Emmanuel Macron, sin visos de acabar, más el fuerte endeudamiento de Francia conforman un cóctel que preocupa al resto de la Unión Europea; Fase 2 del genocidio israelí: ocupación del 53% de Gaza, asesinatos, segregación y línea amarilla: En una semana de tregua Israel ha matado a 38 personas, varios niños y niñas, mantiene bloqueado el paso de Rafah y consolida su ocupación en más de la mitad de la Franja, con la señalización de una línea de separación. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-19T06:38:02Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El auge de la universidad privada dispara los créditos para pagar los estudios",
-      "subtitle": "En cinco años los préstamos al estudio han crecido un 60%. Las universidades privadas han pasado de facturar 2.200 millones de euros en 2017 a 3.700 millones en 2023 y en el último cuatro de siglo han abierto 27 centros privados por ninguno público",
-      "url": "https://www.eldiario.es/sociedad/auge-universidad-privada-dispara-creditos-pagar-estudios_1_12671072.html",
-      "scraped_at": "2025-10-18T06:36:50Z"
+      "title": "Trump quiere redibujar el mundo desde un país en llamas",
+      "subtitle": "En una semana en la que prosigue el cierre del Gobierno y que ha culminado con movilizaciones por todo el país contra Trump, el presidente de EEUU ha sellado un incipiente alto el fuego en Gaza, para después autorizar operaciones encubiertas en Venezuela y hablar por teléfono y en persona con Putin y Zelenski para el fin de la guerra en Ucrania",
+      "url": "https://www.eldiario.es/internacional/trump-quiere-redibujar-mundo-pais-llamas_1_12693808.html",
+      "scraped_at": "2025-10-19T06:37:59Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El caso Ábalos se estanca entre el silencio del ministro y Koldo y la falta de avances en la búsqueda del dinero",
-      "subtitle": "El juez admite que en 20 meses de investigación no se han hallado las “cantidades importantes de dinero opaco” de las supuestas mordidas y mantiene a ambos en libertad aunque cree que los indicios son cada vez más robustos",
-      "url": "https://www.eldiario.es/politica/caso-abalos-estanca-silencio-ministro-koldo-garcia-falta-avances-busqueda-dinero_1_12693596.html",
-      "scraped_at": "2025-10-18T06:36:50Z"
+      "title": "La crisis de deuda de Francia hace temblar al resto de Europa",
+      "subtitle": "La incertidumbre política que asola al Gobierno de Emmanuel Macron, sin visos de acabar, más el fuerte endeudamiento de Francia conforman un cóctel que preocupa al resto de la Unión Europea",
+      "url": "https://www.eldiario.es/economia/crisis-deuda-francia-temblar-resto-europa_1_12693161.html",
+      "scraped_at": "2025-10-19T06:38:00Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez le toma la medida a Feijóo en el Congreso",
-      "subtitle": "El Gobierno ha dejado de afrontar las sesiones de control como un trance tras atravesar el momento más crítico hace meses con el caso Cerdán y sus socios ven un cambio de dinámica: \"El PP está perdidísimo\"",
-      "url": "https://www.eldiario.es/politica/sanchez-le-toma-medida-feijoo-congreso_1_12692146.html",
-      "scraped_at": "2025-10-18T06:36:51Z"
+      "title": "Fase 2 del genocidio israelí: ocupación del 53% de Gaza, asesinatos, segregación y línea amarilla",
+      "subtitle": "En una semana de tregua Israel ha matado a 38 personas, varios niños y niñas, mantiene bloqueado el paso de Rafah y consolida su ocupación en más de la mitad de la Franja, con la señalización de una línea de separación",
+      "url": "https://www.eldiario.es/internacional/fase-2-genocidio-israeli-ocupacion-53-gaza-asesinatos-segregacion-linea-amarilla_129_12694721.html",
+      "scraped_at": "2025-10-19T06:38:00Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Arroyomolinos recrea la corrupción del PP madrileño con los casos de la 'número tres' de Ayuso y su sucesor en la alcaldía",
-      "subtitle": "La vivienda tiene un papel especial en los casos de Ana Millán y su sucesor: ella cobró a un empresario, al que adjudicaba contratos, el doble del precio de mercado por un ático, y los presuntos delitos de Luis Quiroga se cometieron al frente de la agencia pública del suelo",
-      "url": "https://www.eldiario.es/politica/arroyomolinos-recrea-corrupcion-pp-madrileno-casos-numero-tres-ayuso-sucesor-alcaldia_1_12655062.html",
-      "scraped_at": "2025-10-18T06:36:52Z"
+      "title": "Sánchez afronta su comparecencia en el Senado como un Vietnam pero convencido de haber mitigado la onda expansiva del caso Ábalos",
+      "subtitle": "El presidente hará una exposición pedagógica y tratará de distinguir entre el dato y el ruido. Los socialistas creen que la debilidad de Feijóo le ha arrastrado a malgastar su última bala contra el Gobierno y ven en las encuestas y las audiencias de televisión una señal clara de recuperación entre su base social",
+      "url": "https://www.eldiario.es/politica/sanchez-afronta-comparecencia-senado-vietnam-convencido-haber-mitigado-onda-expansiva-caso-abalos_129_12692824.html",
+      "scraped_at": "2025-10-19T06:38:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Santos Cerdán",
-      "subtitle": "Los abogados del ex ‘número tres’ del PSOE consideran “difícil de entender” la tesis del juez de que Cerdán es el único investigado que puede destruir pruebas y dicen que no hay ningún \"argumento constitucional\" para prolongar su encarcelamiento",
-      "url": "https://www.eldiario.es/politica/santos-cerdan-denuncia-agravio-comparativo-frente-abalos-koldo-garcia-pide-salir-prision_1_12692324.html",
-      "scraped_at": "2025-10-18T06:36:52Z"
+      "title": "Manifestación EEUU",
+      "subtitle": "'No Kings' es el lema bajo el que se engloba todo tipo de organización y colectivo que ha protestado este sábado contra la deriva autoritaria de la Administración Trump en más de 2.500 lugares del país",
+      "url": "https://www.eldiario.es/internacional/oposicion-trump-moviliza-eeuu-deriva-autoritaria-agenda-ultra-grito-no-reyes_1_12695010.html",
+      "scraped_at": "2025-10-19T06:38:02Z"
     }
   ]
 }

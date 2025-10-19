@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Sabadell reconoce el apoyo de la sociedad catalana ante el BBVA: Con megáfano en mano, el presidente del Sabadell, Josep Oliu, agradeció ayer a la plantilla del banco concentrada a las puertas de la sede operativa en Sant Cugat del; Lecciones tras la batalla: La vida es un discurrir de pequeñas y grandes victorias o derrotas. La clave de todo es como uno es capaz después de administrar estos éxitos o fracasos de la forma; El movimiento inesperado que tumbó la opa: Una triple alianza que ha cuajado durante los diecisiete largos meses que ha durado la opa del BBVA sobre el Sabadell ha vencido al poder financiero de un gigante. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-10-18T06:36:56Z",
+  "summary": "Resumen del día en La Vanguardia: Josep Oliu y César González-Bueno: “El Banc Sabadell sale de la opa muy fortalecido en España”: Apenas habían dormido unas horas después de recibir con sorpresa que la opa hostil del BBVA, la operación bancaria más larga de la historia de España, había llegado; El futuro del Sabadell: del Santander a Unicaja: El embriagador aroma de la euforia y la energía tras la victoria impregna aún la atmósfera del cuartel general del Sabadell en la localidad barcelonesa de Sant Cugat; Cientos de miles de estadounidenses rechazan el autoritarismo de Trump en las calles: Un mar de banderas estadounidenses, gritos de “libertad” y carteles pidiendo “democracia” ha inundado esta mañana la Avenida Pensilvania de Washington, que une. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-10-19T06:38:06Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Sabadell reconoce el apoyo de la sociedad catalana ante el BBVA",
-      "subtitle": "Con megáfano en mano, el presidente del Sabadell, Josep Oliu, agradeció ayer a la plantilla del banco concentrada a las puertas de la sede operativa en Sant Cugat del",
-      "url": "https://www.lavanguardia.com/economia/20251018/11171630/sabadell-reconoce-apoyo-sociedad-catalana-bbva.html",
-      "scraped_at": "2025-10-18T06:36:55Z"
+      "title": "Josep Oliu y César González-Bueno: “El Banc Sabadell sale de la opa muy fortalecido en España”",
+      "subtitle": "Apenas habían dormido unas horas después de recibir con sorpresa que la opa hostil del BBVA, la operación bancaria más larga de la historia de España, había llegado",
+      "url": "https://www.lavanguardia.com/economia/20251019/11173334/minoritarios-han-demostrado-son-nucleo-duro-sabadell.html",
+      "scraped_at": "2025-10-19T06:38:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Lecciones tras la batalla",
-      "subtitle": "La vida es un discurrir de pequeñas y grandes victorias o derrotas. La clave de todo es como uno es capaz después de administrar estos éxitos o fracasos de la forma",
-      "url": "https://www.lavanguardia.com/opinion/20251018/11171985/lecciones-batalla.html",
-      "scraped_at": "2025-10-18T06:36:55Z"
+      "title": "El futuro del Sabadell: del Santander a Unicaja",
+      "subtitle": "El embriagador aroma de la euforia y la energía tras la victoria impregna aún la atmósfera del cuartel general del Sabadell en la localidad barcelonesa de Sant Cugat",
+      "url": "https://www.lavanguardia.com/economia/20251019/11173300/futuro-sabadell-santander-unicaja.html",
+      "scraped_at": "2025-10-19T06:38:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El movimiento inesperado que tumbó la opa",
-      "subtitle": "Una triple alianza que ha cuajado durante los diecisiete largos meses que ha durado la opa del BBVA sobre el Sabadell ha vencido al poder financiero de un gigante",
-      "url": "https://www.lavanguardia.com/economia/20251018/11171576/triple-alianza-vencio-gigante-bancario.html",
-      "scraped_at": "2025-10-18T06:36:55Z"
+      "title": "Cientos de miles de estadounidenses rechazan el autoritarismo de Trump en las calles",
+      "subtitle": "Un mar de banderas estadounidenses, gritos de “libertad” y carteles pidiendo “democracia” ha inundado esta mañana la Avenida Pensilvania de Washington, que une",
+      "url": "https://www.lavanguardia.com/internacional/20251018/11173311/millones-estadounidenses-rechazan-autoritarismo-trump-calles-50-estados.html",
+      "scraped_at": "2025-10-19T06:38:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El BBVA achaca el revés a la segunda opa, los retrasos y los minoritarios",
-      "subtitle": "El primer diagnóstico oficial de lo ocurrido con la mayor operación bancaria de los últimos años lo ofreció ayer el BBVA. En una rueda de prensa telemática a",
-      "url": "https://www.lavanguardia.com/economia/20251018/11171758/bbva-achaca-reves-segunda-opa-retrasos-minoritarios.html",
-      "scraped_at": "2025-10-18T06:36:55Z"
+      "title": "Operación cabezas de cerdo",
+      "subtitle": "Más allá de los drones, la guerra híbrida de Rusia se libra en las redes. Agentes rusos multiplican las provocaciones y las operaciones masivas de desinformación con el f...",
+      "url": "https://www.lavanguardia.com/internacional/20251019/11170904/europa-ue-ucrania-rusia-guerra-hibrida-desinformacion.html",
+      "scraped_at": "2025-10-19T06:38:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El PP propone un recuerdo para el RCD Espanyol en Sarrià",
-      "subtitle": "Daniel Sirera, presidente del grupo municipal del Partido Popular en el Ayuntamiento de Barcelona, ha propuesto conmemorar los 125 años del RCD Espanyol con una réplica",
-      "url": "https://www.lavanguardia.com/local/barcelona/20251017/11169716/pp-propone-recuerdo-rcd-espanyol-sarria.html",
-      "scraped_at": "2025-10-18T06:36:56Z"
+      "title": "Sánchez llama a la movilización ante el auge de la ultraderecha: “No daremos ni un paso atrás”",
+      "subtitle": "“Quienes buscan el poder cabalgando sobre el lomo de un tigre, acaban en sus fauces”. Pedro Sánchez ha parafraseado este sábado a Kennedy, en la clausura del",
+      "url": "https://www.lavanguardia.com/politica/20251018/11172859/sanchez-llama-movilizacion-auge-ultraderecha-miedo-daremos-paso.html",
+      "scraped_at": "2025-10-19T06:38:06Z"
     }
   ]
 }
