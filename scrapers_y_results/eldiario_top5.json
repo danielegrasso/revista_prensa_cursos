@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump quiere redibujar el mundo desde un país en llamas: En una semana en la que prosigue el cierre del Gobierno y que ha culminado con movilizaciones por todo el país contra Trump, el presidente de EEUU ha sellado un incipiente alto el fuego en Gaza, para después autorizar operaciones encubiertas en Venezuela y hablar por teléfono y en persona con Putin y Zelenski para el fin de la guerra en Ucrania; La crisis de deuda de Francia hace temblar al resto de Europa: La incertidumbre política que asola al Gobierno de Emmanuel Macron, sin visos de acabar, más el fuerte endeudamiento de Francia conforman un cóctel que preocupa al resto de la Unión Europea; Fase 2 del genocidio israelí: ocupación del 53% de Gaza, asesinatos, segregación y línea amarilla: En una semana de tregua Israel ha matado a 38 personas, varios niños y niñas, mantiene bloqueado el paso de Rafah y consolida su ocupación en más de la mitad de la Franja, con la señalización de una línea de separación. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-19T06:38:02Z",
+  "summary": "Resumen del día en elDiario.es: Tres jueces distintos descartaron hasta tres querellas ultras contra Begoña Gómez antes de que la causa llegara a Peinado: Las primeras denuncias en los tribunales contra la mujer del presidente llegaron a mediados de 2023 cuando un abogado pidió información y la Universidad respondió con un apoyo cerrado a la legalidad del proyecto académico; Sánchez quiere que las comunidades rindan cuentas del dinero que reciben del Gobierno: 300.000 millones más desde 2018: El Consejo de Ministros busca fórmulas para poner coto \"a la deslealtad de los gobiernos del PP y su reiterada bajada de impuestos mientras aplica recortes y deteriora los servicios públicos\". Vivienda abre un camino para condicionar la funcionalidad de los fondos que podría extenderse a otros programas de competencias exclusivas de las comunidades que financia el Estado; Los fantasmas de Gürtel ante su último juicio: un banquillo sin el gestor del dinero en Suiza de Correa y Juan Carlos: La Audiencia Nacional celebra a partir de este lunes la vista por la trama de blanqueo de capitales de la red corrupta en torno al PP con 21 acusados, entre ellos los cabecillas de Gürtel y el \"arquitecto\" de la evasión fiscal, Ramón Blanco Balín, pero sin su contacto en Suiza, Arturo Fasana. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-20T06:44:10Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump quiere redibujar el mundo desde un país en llamas",
-      "subtitle": "En una semana en la que prosigue el cierre del Gobierno y que ha culminado con movilizaciones por todo el país contra Trump, el presidente de EEUU ha sellado un incipiente alto el fuego en Gaza, para después autorizar operaciones encubiertas en Venezuela y hablar por teléfono y en persona con Putin y Zelenski para el fin de la guerra en Ucrania",
-      "url": "https://www.eldiario.es/internacional/trump-quiere-redibujar-mundo-pais-llamas_1_12693808.html",
-      "scraped_at": "2025-10-19T06:37:59Z"
+      "title": "Tres jueces distintos descartaron hasta tres querellas ultras contra Begoña Gómez antes de que la causa llegara a Peinado",
+      "subtitle": "Las primeras denuncias en los tribunales contra la mujer del presidente llegaron a mediados de 2023 cuando un abogado pidió información y la Universidad respondió con un apoyo cerrado a la legalidad del proyecto académico",
+      "url": "https://www.eldiario.es/politica/tres-jueces-distintos-descartaron-tres-querellas-ultras-begona-gomez-causa-llegara-peinado_1_12673035.html",
+      "scraped_at": "2025-10-20T06:44:08Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La crisis de deuda de Francia hace temblar al resto de Europa",
-      "subtitle": "La incertidumbre política que asola al Gobierno de Emmanuel Macron, sin visos de acabar, más el fuerte endeudamiento de Francia conforman un cóctel que preocupa al resto de la Unión Europea",
-      "url": "https://www.eldiario.es/economia/crisis-deuda-francia-temblar-resto-europa_1_12693161.html",
-      "scraped_at": "2025-10-19T06:38:00Z"
+      "title": "Sánchez quiere que las comunidades rindan cuentas del dinero que reciben del Gobierno: 300.000 millones más desde 2018",
+      "subtitle": "El Consejo de Ministros busca fórmulas para poner coto \"a la deslealtad de los gobiernos del PP y su reiterada bajada de impuestos mientras aplica recortes y deteriora los servicios públicos\". Vivienda abre un camino para condicionar la funcionalidad de los fondos que podría extenderse a otros programas de competencias exclusivas de las comunidades que financia el Estado",
+      "url": "https://www.eldiario.es/politica/sanchez-quiere-comunidades-rindan-cuentas-dinero-reciben-gobierno-300-000-millones_129_12694229.html",
+      "scraped_at": "2025-10-20T06:44:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Fase 2 del genocidio israelí: ocupación del 53% de Gaza, asesinatos, segregación y línea amarilla",
-      "subtitle": "En una semana de tregua Israel ha matado a 38 personas, varios niños y niñas, mantiene bloqueado el paso de Rafah y consolida su ocupación en más de la mitad de la Franja, con la señalización de una línea de separación",
-      "url": "https://www.eldiario.es/internacional/fase-2-genocidio-israeli-ocupacion-53-gaza-asesinatos-segregacion-linea-amarilla_129_12694721.html",
-      "scraped_at": "2025-10-19T06:38:00Z"
+      "title": "Los fantasmas de Gürtel ante su último juicio: un banquillo sin el gestor del dinero en Suiza de Correa y Juan Carlos",
+      "subtitle": "La Audiencia Nacional celebra a partir de este lunes la vista por la trama de blanqueo de capitales de la red corrupta en torno al PP con 21 acusados, entre ellos los cabecillas de Gürtel y el \"arquitecto\" de la evasión fiscal, Ramón Blanco Balín, pero sin su contacto en Suiza, Arturo Fasana",
+      "url": "https://www.eldiario.es/politica/fantasmas-gurtel-ultimo-juicio-banquillo-gestor-dinero-suiza-correa-juan-carlos-i_1_12691698.html",
+      "scraped_at": "2025-10-20T06:44:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez afronta su comparecencia en el Senado como un Vietnam pero convencido de haber mitigado la onda expansiva del caso Ábalos",
-      "subtitle": "El presidente hará una exposición pedagógica y tratará de distinguir entre el dato y el ruido. Los socialistas creen que la debilidad de Feijóo le ha arrastrado a malgastar su última bala contra el Gobierno y ven en las encuestas y las audiencias de televisión una señal clara de recuperación entre su base social",
-      "url": "https://www.eldiario.es/politica/sanchez-afronta-comparecencia-senado-vietnam-convencido-haber-mitigado-onda-expansiva-caso-abalos_129_12692824.html",
-      "scraped_at": "2025-10-19T06:38:01Z"
+      "title": "Familias o inversores: ¿quién compra viviendas en España con los precios disparados?",
+      "subtitle": "Un estudio de los agentes inmobiliarios señala que el 40% de las viviendas que se compran son para familias con hijos, mientras una de cada cuatro casas son para inversores y el 18%, para segundas residencias",
+      "url": "https://www.eldiario.es/economia/familias-inversores-compra-viviendas-espana-precios-disparados_1_12672831.html",
+      "scraped_at": "2025-10-20T06:44:10Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Manifestación EEUU",
-      "subtitle": "'No Kings' es el lema bajo el que se engloba todo tipo de organización y colectivo que ha protestado este sábado contra la deriva autoritaria de la Administración Trump en más de 2.500 lugares del país",
-      "url": "https://www.eldiario.es/internacional/oposicion-trump-moviliza-eeuu-deriva-autoritaria-agenda-ultra-grito-no-reyes_1_12695010.html",
-      "scraped_at": "2025-10-19T06:38:02Z"
+      "title": "Elecciones Bolivia",
+      "subtitle": "Bolivia eligió este domingo al senador de centroderecha Rodrigo Paz Pereira como su próximo presidente, tras una segunda vuelta en la que se impuso al expresidente Jorge Tuto Quiroga, aspirante de la derecha más conservadora",
+      "url": "https://www.eldiario.es/internacional/derecha-moderada-rodrigo-paz-presidencia-bolivia_1_12697013.html",
+      "scraped_at": "2025-10-20T06:44:10Z"
     }
   ]
 }

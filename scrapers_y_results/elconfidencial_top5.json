@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: La otra cara del crecimiento: 4, 4M de personas viven hacinadas en España: Los precios disparados y la falta de viviendas provoca que más hogares estén &quot;superpoblados&quot;, por debajo de los requisitos mínimos de espacio; ¿Cinco euros por entrar a un mercado? La Boquería muestra el futuro del comercio: La posibilidad de cobrar entrada en el popular mercado barcelonés ha levantado ampollas entre los comerciantes y señala cuál puede ser la dirección a seguir: ¿comercio o atracción turística?; Si te desquicia la \"superioridad moral de la izquierda\", te presento a Michael Huemer: Profesor de Ética, Epistemología y Filosofía Política en Colorado, es una de las voces prominentes del anarcocapitalismo americano. Ha escrito un libro para desmontar los &quot;mitos progres&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-19T06:38:09Z",
+  "summary": "Resumen del día en El Confidencial: Aznar: \"La extrema derecha ha capturado la inmigración con un discurso xenófobo\": José María Aznar publica libro. Sabe que la influencia que perdió en el PP con Rajoy la ha recuperado con Feijóo. De hecho, sigue reivindicando su célebre: &quot;El que pueda hacer que haga&quot;; Un escándalo de espionaje chino en UK consigue meterse hasta la cocina de Starmer: El equilibrio entre la defensa de la seguridad nacional y la necesidad de reactivar la economía se ha convertido en una ecuación cada vez más difícil de resolver. Y esto no es algo que afecte solo a Reino Unido; La fontanera del PSOE ofreció a Sabadell dos veces frenar la opa con datos sensibles de BBVA: La mano derecha de Cerdán en las cloacas de Ferraz, Leire Díez, se reunió en Madrid y Tarifa con emisarios del Sabadell en los primeros meses de la OPA para trasladarles que disponía de material de BBVA capaz de dinamitar la absorción. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-20T06:44:15Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La otra cara del crecimiento: 4, 4M de personas viven hacinadas en España",
-      "subtitle": "Los precios disparados y la falta de viviendas provoca que más hogares estén &quot;superpoblados&quot;, por debajo de los requisitos mínimos de espacio",
-      "url": "https://www.elconfidencial.com/economia/2025-10-19/4-4-millones-personas-viven-hacinadas-espana_4230451/",
-      "scraped_at": "2025-10-19T06:38:07Z"
+      "title": "Aznar: \"La extrema derecha ha capturado la inmigración con un discurso xenófobo\"",
+      "subtitle": "José María Aznar publica libro. Sabe que la influencia que perdió en el PP con Rajoy la ha recuperado con Feijóo. De hecho, sigue reivindicando su célebre: &quot;El que pueda hacer que haga&quot;",
+      "url": "https://www.elconfidencial.com/espana/2025-10-20/aznar-entrevista-derecha-captura-inmigracion-discurso-xenofobo_4228793/",
+      "scraped_at": "2025-10-20T06:44:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Cinco euros por entrar a un mercado? La Boquería muestra el futuro del comercio",
-      "subtitle": "La posibilidad de cobrar entrada en el popular mercado barcelonés ha levantado ampollas entre los comerciantes y señala cuál puede ser la dirección a seguir: ¿comercio o atracción turística?",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-19/cinco-euros-entrar-mercado-la-boqueria_4230006/",
-      "scraped_at": "2025-10-19T06:38:08Z"
+      "title": "Un escándalo de espionaje chino en UK consigue meterse hasta la cocina de Starmer",
+      "subtitle": "El equilibrio entre la defensa de la seguridad nacional y la necesidad de reactivar la economía se ha convertido en una ecuación cada vez más difícil de resolver. Y esto no es algo que afecte solo a Reino Unido",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-20/espionaje-china-reino-unido-westminster-1hms_4230429/",
+      "scraped_at": "2025-10-20T06:44:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Si te desquicia la \"superioridad moral de la izquierda\", te presento a Michael Huemer",
-      "subtitle": "Profesor de Ética, Epistemología y Filosofía Política en Colorado, es una de las voces prominentes del anarcocapitalismo americano. Ha escrito un libro para desmontar los &quot;mitos progres&quot;",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-19/michael-huemer-mitos-progres-entrevista_4230467/",
-      "scraped_at": "2025-10-19T06:38:08Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Hablan los padres huérfanos de hijos por el acoso escolar: \"Ya le pedimos a Alegría una ley\"",
-      "subtitle": "El presidente de la asociación Trencats, José Manuel López, reclama al Gobierno una norma que obligue a los colegios a &quot;no mirar a otro lado&quot; y responsabilice a los padres de los acosadores",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2025-10-19/hablan-los-padres-huerfanos-de-hijos-por-el-acoso-escolar_4230357/",
-      "scraped_at": "2025-10-19T06:38:09Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "Hace 24 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2025-10-19T06:38:09Z"
+      "title": "La fontanera del PSOE ofreció a Sabadell dos veces frenar la opa con datos sensibles de BBVA",
+      "subtitle": "La mano derecha de Cerdán en las cloacas de Ferraz, Leire Díez, se reunió en Madrid y Tarifa con emisarios del Sabadell en los primeros meses de la OPA para trasladarles que disponía de material de BBVA capaz de dinamitar la absorción",
+      "url": "https://www.elconfidencial.com/espana/2025-10-19/opa-bbva-sabadell-sanchez-psoe-leire-fontanera_4230591/",
+      "scraped_at": "2025-10-20T06:44:15Z"
     }
   ]
 }
