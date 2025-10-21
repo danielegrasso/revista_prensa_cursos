@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Aznar: \"La extrema derecha ha capturado la inmigración con un discurso xenófobo\": José María Aznar publica libro. Sabe que la influencia que perdió en el PP con Rajoy la ha recuperado con Feijóo. De hecho, sigue reivindicando su célebre: &quot;El que pueda hacer que haga&quot;; Un escándalo de espionaje chino en UK consigue meterse hasta la cocina de Starmer: El equilibrio entre la defensa de la seguridad nacional y la necesidad de reactivar la economía se ha convertido en una ecuación cada vez más difícil de resolver. Y esto no es algo que afecte solo a Reino Unido; La fontanera del PSOE ofreció a Sabadell dos veces frenar la opa con datos sensibles de BBVA: La mano derecha de Cerdán en las cloacas de Ferraz, Leire Díez, se reunió en Madrid y Tarifa con emisarios del Sabadell en los primeros meses de la OPA para trasladarles que disponía de material de BBVA capaz de dinamitar la absorción. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-20T06:44:15Z",
+  "summary": "Resumen del día en El Confidencial: Madrid concentra ya el 42% de los ultrarricos que hay en España: El proceso de concentración de la riqueza es cada vez más acusado. Y Madrid y, en menor medida, Cataluña reúnen ya a siete de cada diez ultra ricos que existen en España. Así lo estima un trabajo publicado por Hacienda Pública; El futuro amargo del azúcar español: \"Es el fin del cultivo de remolacha en Andalucía\": De las más de 90 fábricas azucareras que existieron en España, solo quedan tres en funcionamiento. Y una de ellas, la de Jerez de la Frontera, también podría cesar su actividad, acabando con un cultivo clave en la región; Segunda trampa a Zelenski: así fue la reunión con Trump en la que Kiev perdió la esperanza: Según fuentes consultadas por Financial Times, la reunión entre los mandatarios acabó en una &quot;discusión a gritos&quot; en la que el estadounidense presionó para que Kiev ceda territorio. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-21T06:42:12Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Aznar: \"La extrema derecha ha capturado la inmigración con un discurso xenófobo\"",
-      "subtitle": "José María Aznar publica libro. Sabe que la influencia que perdió en el PP con Rajoy la ha recuperado con Feijóo. De hecho, sigue reivindicando su célebre: &quot;El que pueda hacer que haga&quot;",
-      "url": "https://www.elconfidencial.com/espana/2025-10-20/aznar-entrevista-derecha-captura-inmigracion-discurso-xenofobo_4228793/",
-      "scraped_at": "2025-10-20T06:44:15Z"
+      "title": "Madrid concentra ya el 42% de los ultrarricos que hay en España",
+      "subtitle": "El proceso de concentración de la riqueza es cada vez más acusado. Y Madrid y, en menor medida, Cataluña reúnen ya a siete de cada diez ultra ricos que existen en España. Así lo estima un trabajo publicado por Hacienda Pública",
+      "url": "https://www.elconfidencial.com/economia/2025-10-21/riqueza-madrid-irpf-renta-irpf-cataluna-contribuyentes_4231605/",
+      "scraped_at": "2025-10-21T06:42:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un escándalo de espionaje chino en UK consigue meterse hasta la cocina de Starmer",
-      "subtitle": "El equilibrio entre la defensa de la seguridad nacional y la necesidad de reactivar la economía se ha convertido en una ecuación cada vez más difícil de resolver. Y esto no es algo que afecte solo a Reino Unido",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-20/espionaje-china-reino-unido-westminster-1hms_4230429/",
-      "scraped_at": "2025-10-20T06:44:15Z"
+      "title": "El futuro amargo del azúcar español: \"Es el fin del cultivo de remolacha en Andalucía\"",
+      "subtitle": "De las más de 90 fábricas azucareras que existieron en España, solo quedan tres en funcionamiento. Y una de ellas, la de Jerez de la Frontera, también podría cesar su actividad, acabando con un cultivo clave en la región",
+      "url": "https://www.elconfidencial.com/economia/2025-10-21/azucar-remolacha-espana-cultivo-final-crisis_4230009/",
+      "scraped_at": "2025-10-21T06:42:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La fontanera del PSOE ofreció a Sabadell dos veces frenar la opa con datos sensibles de BBVA",
-      "subtitle": "La mano derecha de Cerdán en las cloacas de Ferraz, Leire Díez, se reunió en Madrid y Tarifa con emisarios del Sabadell en los primeros meses de la OPA para trasladarles que disponía de material de BBVA capaz de dinamitar la absorción",
-      "url": "https://www.elconfidencial.com/espana/2025-10-19/opa-bbva-sabadell-sanchez-psoe-leire-fontanera_4230591/",
-      "scraped_at": "2025-10-20T06:44:15Z"
+      "title": "Segunda trampa a Zelenski: así fue la reunión con Trump en la que Kiev perdió la esperanza",
+      "subtitle": "Según fuentes consultadas por Financial Times, la reunión entre los mandatarios acabó en una &quot;discusión a gritos&quot; en la que el estadounidense presionó para que Kiev ceda territorio",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-21/reconstruccion-reunion-trump-zelenski-segunda-trampa_4231695/",
+      "scraped_at": "2025-10-21T06:42:12Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Condenado a 22 años por asesinar a un hombre y dejarlo tirado en un arcén",
+      "subtitle": "Los dos procesados y la víctima coincidieron en una fiesta que se celebró la noche del día 27 en Vilafant y discutieron por algún tema relacionado con la droga que consumían",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-20/condenado-a-22-anos-por-asesinar-a-un-hombre-y-dejarlo-tirado-en-un-arcen-en-girona_4231663/",
+      "scraped_at": "2025-10-21T06:42:12Z"
     }
   ]
 }
