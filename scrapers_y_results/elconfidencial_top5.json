@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Madrid concentra ya el 42% de los ultrarricos que hay en España: El proceso de concentración de la riqueza es cada vez más acusado. Y Madrid y, en menor medida, Cataluña reúnen ya a siete de cada diez ultra ricos que existen en España. Así lo estima un trabajo publicado por Hacienda Pública; El futuro amargo del azúcar español: \"Es el fin del cultivo de remolacha en Andalucía\": De las más de 90 fábricas azucareras que existieron en España, solo quedan tres en funcionamiento. Y una de ellas, la de Jerez de la Frontera, también podría cesar su actividad, acabando con un cultivo clave en la región; Segunda trampa a Zelenski: así fue la reunión con Trump en la que Kiev perdió la esperanza: Según fuentes consultadas por Financial Times, la reunión entre los mandatarios acabó en una &quot;discusión a gritos&quot; en la que el estadounidense presionó para que Kiev ceda territorio. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-21T06:42:12Z",
+  "summary": "Resumen del día en El Confidencial: España tiene menos déficit que la UE: el ajuste silencioso de la prórroga de los PGE: El gasto sobre PIB se ha reducido en los dos años de prórroga presupuestaria, mientras los ingresos siguen subiendo gracias a la progresividad en frío del IRPF. España ya tiene un déficit inferior a la Unión Europea; A Rusia le vas a enseñar a negociar: tras la cancelación del encuentro Trump-Putin: Pese a meses de contactos, Rusia vuelve al punto de partida en las negociaciones. No es el mejor escenario para que Trump salga con su &quot;novena guerra solventada&quot; bajo el brazo en Budapest; País Vasco: El hallazgo del cuerpo sin vida se produjo ayer sobre las cinco de la tarde. Cerca de esa hora, los servicios de emergencia recibieron un aviso que informaba de que se había encontrado un cuerpo en una zona boscosa. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-22T06:44:06Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Madrid concentra ya el 42% de los ultrarricos que hay en España",
-      "subtitle": "El proceso de concentración de la riqueza es cada vez más acusado. Y Madrid y, en menor medida, Cataluña reúnen ya a siete de cada diez ultra ricos que existen en España. Así lo estima un trabajo publicado por Hacienda Pública",
-      "url": "https://www.elconfidencial.com/economia/2025-10-21/riqueza-madrid-irpf-renta-irpf-cataluna-contribuyentes_4231605/",
-      "scraped_at": "2025-10-21T06:42:12Z"
+      "title": "España tiene menos déficit que la UE: el ajuste silencioso de la prórroga de los PGE",
+      "subtitle": "El gasto sobre PIB se ha reducido en los dos años de prórroga presupuestaria, mientras los ingresos siguen subiendo gracias a la progresividad en frío del IRPF. España ya tiene un déficit inferior a la Unión Europea",
+      "url": "https://www.elconfidencial.com/economia/2025-10-22/prorroga-presupuestaria-ajuste-menos-deficit-ue_4232442/",
+      "scraped_at": "2025-10-22T06:44:04Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El futuro amargo del azúcar español: \"Es el fin del cultivo de remolacha en Andalucía\"",
-      "subtitle": "De las más de 90 fábricas azucareras que existieron en España, solo quedan tres en funcionamiento. Y una de ellas, la de Jerez de la Frontera, también podría cesar su actividad, acabando con un cultivo clave en la región",
-      "url": "https://www.elconfidencial.com/economia/2025-10-21/azucar-remolacha-espana-cultivo-final-crisis_4230009/",
-      "scraped_at": "2025-10-21T06:42:12Z"
+      "title": "A Rusia le vas a enseñar a negociar: tras la cancelación del encuentro Trump-Putin",
+      "subtitle": "Pese a meses de contactos, Rusia vuelve al punto de partida en las negociaciones. No es el mejor escenario para que Trump salga con su &quot;novena guerra solventada&quot; bajo el brazo en Budapest",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-22/cancelacion-reunion-trump-y-putin-en-budapest-ucrania_4232503/",
+      "scraped_at": "2025-10-22T06:44:05Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Segunda trampa a Zelenski: así fue la reunión con Trump en la que Kiev perdió la esperanza",
-      "subtitle": "Según fuentes consultadas por Financial Times, la reunión entre los mandatarios acabó en una &quot;discusión a gritos&quot; en la que el estadounidense presionó para que Kiev ceda territorio",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-21/reconstruccion-reunion-trump-zelenski-segunda-trampa_4231695/",
-      "scraped_at": "2025-10-21T06:42:12Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Condenado a 22 años por asesinar a un hombre y dejarlo tirado en un arcén",
-      "subtitle": "Los dos procesados y la víctima coincidieron en una fiesta que se celebró la noche del día 27 en Vilafant y discutieron por algún tema relacionado con la droga que consumían",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-20/condenado-a-22-anos-por-asesinar-a-un-hombre-y-dejarlo-tirado-en-un-arcen-en-girona_4231663/",
-      "scraped_at": "2025-10-21T06:42:12Z"
+      "title": "País Vasco",
+      "subtitle": "El hallazgo del cuerpo sin vida se produjo ayer sobre las cinco de la tarde. Cerca de esa hora, los servicios de emergencia recibieron un aviso que informaba de que se había encontrado un cuerpo en una zona boscosa",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/",
+      "scraped_at": "2025-10-22T06:44:06Z"
     }
   ]
 }

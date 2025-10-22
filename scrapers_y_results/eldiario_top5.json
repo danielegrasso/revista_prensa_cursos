@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El PP agita la tesis de la caja B del PSOE por un descuadre de miles de euros en pagos a Ábalos y Koldo García: El juez Puente cita como testigos a un exgerente y a la responsable de la caja del partido para que expliquen los pagos “sin respaldo documental” al exministro y a su exasesor hallados por la UCO; El volantazo de la Seguridad Social con las cuotas de autónomos tampoco contenta a casi nadie: “Es un paso atrás”: Sindicatos y colectivos de autónomos progresistas lamentan la escasa subida a quienes más ganan, por debajo del IPC, y en la patronal celebran que han tumbado el \"sablazo\", pero dicen que es \"insuficiente\"; “Como si hubiera caído una bomba atómica”: los palestinos buscan los restos de sus hogares entre barrios arrasados: Muchos acampan y levantan refugios improvisados sobre las ruinas de sus hogares, que otros ni siquiera son capaces de localizar en medio de tanta destrucción. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-21T06:42:08Z",
+  "summary": "Resumen del día en elDiario.es: El PP bloquea el plan del Gobierno para revisar los cribados de cáncer de toda España: Las regiones gobernadas por el partido de Feijóo se coordinan para rechazar la petición de información de Sanidad: repiten frases literales, argumentos y acusan a Mónica García de poner en riesgo “la credibilidad” del sistema de prevención; Choque entre abogacías por la filtración del correo de la pareja de Ayuso: “Es una inconsciencia venir sin datos para afirmar algo incierto”: El juez Hurtado cortó a la defensa del fiscal general cuando afeaba al decano del Colegio de Abogados de Madrid que dijera, sin datos, que la filtración torpedeó los acuerdos que cada día se firman en los juzgados; El PP avaló en el Congreso la reforma de los autónomos que aplica el Gobierno, pero advirtió: “¿Qué pasará en 2026?”: La Seguridad Social ha planteado las nuevas cuotas basándose en un sistema para que los autónomos coticen por sus ganancias en 2032 que aprobó una amplia mayoría de la Cámara Baja en 2022, pero que dejó abierta la cuantificación de las mismas a partir de 2025. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-22T06:43:58Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El PP agita la tesis de la caja B del PSOE por un descuadre de miles de euros en pagos a Ábalos y Koldo García",
-      "subtitle": "El juez Puente cita como testigos a un exgerente y a la responsable de la caja del partido para que expliquen los pagos “sin respaldo documental” al exministro y a su exasesor hallados por la UCO",
-      "url": "https://www.eldiario.es/politica/pp-agita-tesis-caja-b-psoe-descuadre-miles-euros-pagos-abalos-koldo-garcia_1_12699985.html",
-      "scraped_at": "2025-10-21T06:42:06Z"
+      "title": "El PP bloquea el plan del Gobierno para revisar los cribados de cáncer de toda España",
+      "subtitle": "Las regiones gobernadas por el partido de Feijóo se coordinan para rechazar la petición de información de Sanidad: repiten frases literales, argumentos y acusan a Mónica García de poner en riesgo “la credibilidad” del sistema de prevención",
+      "url": "https://www.eldiario.es/politica/pp-bloquea-plan-gobierno-revisar-cribados-cancer-espana_1_12702830.html",
+      "scraped_at": "2025-10-22T06:43:56Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El volantazo de la Seguridad Social con las cuotas de autónomos tampoco contenta a casi nadie: “Es un paso atrás”",
-      "subtitle": "Sindicatos y colectivos de autónomos progresistas lamentan la escasa subida a quienes más ganan, por debajo del IPC, y en la patronal celebran que han tumbado el \"sablazo\", pero dicen que es \"insuficiente\"",
-      "url": "https://www.eldiario.es/economia/volantazo-seguridad-social-cuotas-autonomos-contenta-nadie-paso_1_12698875.html",
-      "scraped_at": "2025-10-21T06:42:07Z"
+      "title": "Choque entre abogacías por la filtración del correo de la pareja de Ayuso: “Es una inconsciencia venir sin datos para afirmar algo incierto”",
+      "subtitle": "El juez Hurtado cortó a la defensa del fiscal general cuando afeaba al decano del Colegio de Abogados de Madrid que dijera, sin datos, que la filtración torpedeó los acuerdos que cada día se firman en los juzgados",
+      "url": "https://www.eldiario.es/politica/choque-abogacias-filtracion-correo-pareja-ayuso-inconsciencia-venir-datos-afirmar-incierto_1_12700711.html",
+      "scraped_at": "2025-10-22T06:43:57Z"
     },
     {
       "source": "elDiario.es",
-      "title": "“Como si hubiera caído una bomba atómica”: los palestinos buscan los restos de sus hogares entre barrios arrasados",
-      "subtitle": "Muchos acampan y levantan refugios improvisados sobre las ruinas de sus hogares, que otros ni siquiera son capaces de localizar en medio de tanta destrucción",
-      "url": "https://www.eldiario.es/internacional/si-hubiera-caido-bomba-atomica-palestinos-buscan-restos-hogares-barrios-arrasados_1_12696247.html",
-      "scraped_at": "2025-10-21T06:42:07Z"
+      "title": "El PP avaló en el Congreso la reforma de los autónomos que aplica el Gobierno, pero advirtió: “¿Qué pasará en 2026?”",
+      "subtitle": "La Seguridad Social ha planteado las nuevas cuotas basándose en un sistema para que los autónomos coticen por sus ganancias en 2032 que aprobó una amplia mayoría de la Cámara Baja en 2022, pero que dejó abierta la cuantificación de las mismas a partir de 2025",
+      "url": "https://www.eldiario.es/politica/pp-avalo-congreso-reforma-autonomos-aplica-gobierno-advirtio-pasar-2026_1_12701610.html",
+      "scraped_at": "2025-10-22T06:43:57Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Gershon Baskin, exnegociador de paz: “Los israelíes debemos entender que habrá consecuencias por lo hecho en Gaza”",
-      "subtitle": "El activista y exnegociador de paz israelí conversa con elDiario.es sobre la delicada situación del alto el fuego en Gaza y las posibilidades de resolver un conflicto interminable",
-      "url": "https://www.eldiario.es/internacional/gershon-baskin-exnegociador-israelies-debemos-entender-habra-consecuencias-hemos-hecho-gaza_128_12697398.html",
-      "scraped_at": "2025-10-21T06:42:07Z"
+      "title": "Una universidad privada ultracatólica cercana a Vox refuerza sus tentáculos en Madrid gracias a Ayuso",
+      "subtitle": "Con un centro de formación eclesiástica en la capital y una sede recién inaugurada en Torrejón, la UCAM participa en una fundación que promueve un \"Campus para la Vida\" para personas con discapacidad que pidió 19 hectáreas gratis en Boadilla",
+      "url": "https://www.eldiario.es/economia/universidad-privada-ultracatolica-cercana-vox-refuerza-tentaculos-madrid-gracias-ayuso_1_12693040.html",
+      "scraped_at": "2025-10-22T06:43:58Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cambio de hora",
-      "subtitle": "\"Pueden contar con la Comisión para apoyar la búsqueda de una posición común en la UE. Vamos fomentar el consenso entre los Estados miembros\", ha señalado sobre la propuesta el comisario de Energía, Dan Jogersen",
-      "url": "https://www.eldiario.es/sociedad/comision-europea-respalda-peticion-espana-acabar-cambio-hora_1_12699320.html",
-      "scraped_at": "2025-10-21T06:42:08Z"
+      "title": "Anuncio vivienda",
+      "subtitle": "La última ofensiva política del Ministerio de Vivienda incluye un anuncio que despierta críticas y rechazo en la izquierda y la derecha, también en Sumar, que lo llama \"lamentable\" y \"frívolo\". Y todo después de poner en marcha un servicio telefónico de utilidad cuestionable",
+      "url": "https://www.eldiario.es/politica/ministerio-calzoncillos-suelos-falta-viviendas_129_12702475.html",
+      "scraped_at": "2025-10-22T06:43:58Z"
     }
   ]
 }
