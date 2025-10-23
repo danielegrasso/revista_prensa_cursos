@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El PP bloquea el plan del Gobierno para revisar los cribados de cáncer de toda España: Las regiones gobernadas por el partido de Feijóo se coordinan para rechazar la petición de información de Sanidad: repiten frases literales, argumentos y acusan a Mónica García de poner en riesgo “la credibilidad” del sistema de prevención; Choque entre abogacías por la filtración del correo de la pareja de Ayuso: “Es una inconsciencia venir sin datos para afirmar algo incierto”: El juez Hurtado cortó a la defensa del fiscal general cuando afeaba al decano del Colegio de Abogados de Madrid que dijera, sin datos, que la filtración torpedeó los acuerdos que cada día se firman en los juzgados; El PP avaló en el Congreso la reforma de los autónomos que aplica el Gobierno, pero advirtió: “¿Qué pasará en 2026?”: La Seguridad Social ha planteado las nuevas cuotas basándose en un sistema para que los autónomos coticen por sus ganancias en 2032 que aprobó una amplia mayoría de la Cámara Baja en 2022, pero que dejó abierta la cuantificación de las mismas a partir de 2025. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-22T06:43:58Z",
+  "summary": "Resumen del día en elDiario.es: Junts amenaza a Sánchez con hacer inviable la legislatura si no desbloquea su agenda antiinmigración: El Gobierno se muestra tranquilo a pesar de la dureza de los de Carles Puigdemont y no lo ven como un ultimátum: \"Es una frase que han conseguido colar en el telediario\"; El origen del montaje policial contra Urbán y Podemos: “Bajó con una bolsa de dinero y tiró cocaína en la barra”: elDiario.es accede a las diligencias secretas de la Fiscalía Antidroga que incluyen los testimonios falsos de confidentes y las notas policiales con informaciones anónimas para vincular el tráfico de cocaína y la financiación de Podemos en pleno periodo electoral; El PP se desespera tras la fallida intervención de Núñez Feijóo con Sánchez: “Nos hemos equivocado y nos ha hecho daño”: El entorno del líder popular le afea haber utilizado un lapsus de Yolanda Díaz para atacar al presidente, que le ridiculizó en la respuesta al recordarle sus propios errores. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-23T06:42:47Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El PP bloquea el plan del Gobierno para revisar los cribados de cáncer de toda España",
-      "subtitle": "Las regiones gobernadas por el partido de Feijóo se coordinan para rechazar la petición de información de Sanidad: repiten frases literales, argumentos y acusan a Mónica García de poner en riesgo “la credibilidad” del sistema de prevención",
-      "url": "https://www.eldiario.es/politica/pp-bloquea-plan-gobierno-revisar-cribados-cancer-espana_1_12702830.html",
-      "scraped_at": "2025-10-22T06:43:56Z"
+      "title": "Junts amenaza a Sánchez con hacer inviable la legislatura si no desbloquea su agenda antiinmigración",
+      "subtitle": "El Gobierno se muestra tranquilo a pesar de la dureza de los de Carles Puigdemont y no lo ven como un ultimátum: \"Es una frase que han conseguido colar en el telediario\"",
+      "url": "https://www.eldiario.es/politica/junts-amenaza-sanchez-inviable-legislatura-si-no-desbloquea-agenda-antiinmigracion_1_12706584.html",
+      "scraped_at": "2025-10-23T06:42:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Choque entre abogacías por la filtración del correo de la pareja de Ayuso: “Es una inconsciencia venir sin datos para afirmar algo incierto”",
-      "subtitle": "El juez Hurtado cortó a la defensa del fiscal general cuando afeaba al decano del Colegio de Abogados de Madrid que dijera, sin datos, que la filtración torpedeó los acuerdos que cada día se firman en los juzgados",
-      "url": "https://www.eldiario.es/politica/choque-abogacias-filtracion-correo-pareja-ayuso-inconsciencia-venir-datos-afirmar-incierto_1_12700711.html",
-      "scraped_at": "2025-10-22T06:43:57Z"
+      "title": "El origen del montaje policial contra Urbán y Podemos: “Bajó con una bolsa de dinero y tiró cocaína en la barra”",
+      "subtitle": "elDiario.es accede a las diligencias secretas de la Fiscalía Antidroga que incluyen los testimonios falsos de confidentes y las notas policiales con informaciones anónimas para vincular el tráfico de cocaína y la financiación de Podemos en pleno periodo electoral",
+      "url": "https://www.eldiario.es/politica/origen-montaje-policial-urban-bolsa-llena-dinero-tiro-cocaina-barra_1_12706291.html",
+      "scraped_at": "2025-10-23T06:42:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP avaló en el Congreso la reforma de los autónomos que aplica el Gobierno, pero advirtió: “¿Qué pasará en 2026?”",
-      "subtitle": "La Seguridad Social ha planteado las nuevas cuotas basándose en un sistema para que los autónomos coticen por sus ganancias en 2032 que aprobó una amplia mayoría de la Cámara Baja en 2022, pero que dejó abierta la cuantificación de las mismas a partir de 2025",
-      "url": "https://www.eldiario.es/politica/pp-avalo-congreso-reforma-autonomos-aplica-gobierno-advirtio-pasar-2026_1_12701610.html",
-      "scraped_at": "2025-10-22T06:43:57Z"
+      "title": "El PP se desespera tras la fallida intervención de Núñez Feijóo con Sánchez: “Nos hemos equivocado y nos ha hecho daño”",
+      "subtitle": "El entorno del líder popular le afea haber utilizado un lapsus de Yolanda Díaz para atacar al presidente, que le ridiculizó en la respuesta al recordarle sus propios errores",
+      "url": "https://www.eldiario.es/politica/pp-desespera-fallida-intervencion-feijoo-sanchez-hemos-equivocado-hecho-dano_1_12706231.html",
+      "scraped_at": "2025-10-23T06:42:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Una universidad privada ultracatólica cercana a Vox refuerza sus tentáculos en Madrid gracias a Ayuso",
-      "subtitle": "Con un centro de formación eclesiástica en la capital y una sede recién inaugurada en Torrejón, la UCAM participa en una fundación que promueve un \"Campus para la Vida\" para personas con discapacidad que pidió 19 hectáreas gratis en Boadilla",
-      "url": "https://www.eldiario.es/economia/universidad-privada-ultracatolica-cercana-vox-refuerza-tentaculos-madrid-gracias-ayuso_1_12693040.html",
-      "scraped_at": "2025-10-22T06:43:58Z"
+      "title": "Junts roba protagonismo al PP y copia su retórica y sus amenazas al Gobierno",
+      "subtitle": "Feijóo vuelve a pinchar en la sesión de control al Gobierno, pero es Junts quien se lleva los titulares. Amaga con precipitar \"la hora del cambio\". \"El chicle ya no da más de sí\", dice el partido de Puigdemont",
+      "url": "https://www.eldiario.es/politica/junts-roba-protagonismo-pp-copia-retorica-amenazas-gobierno_129_12705792.html",
+      "scraped_at": "2025-10-23T06:42:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Anuncio vivienda",
-      "subtitle": "La última ofensiva política del Ministerio de Vivienda incluye un anuncio que despierta críticas y rechazo en la izquierda y la derecha, también en Sumar, que lo llama \"lamentable\" y \"frívolo\". Y todo después de poner en marcha un servicio telefónico de utilidad cuestionable",
-      "url": "https://www.eldiario.es/politica/ministerio-calzoncillos-suelos-falta-viviendas_129_12702475.html",
-      "scraped_at": "2025-10-22T06:43:58Z"
+      "title": "Genocidio",
+      "subtitle": "La relatora de la ONU para Palestina detalla en su nuevo informe cómo los Estados \"principalmente occidentales\" han permitido el genocidio israelí con \"complicidad directa o indirecta\" por acción, apoyo u omisión",
+      "url": "https://www.eldiario.es/internacional/informe-relatora-onu-resalta-genocidio-gaza-crimen-colectivo-senala-paises-occidentales_1_12706420.html",
+      "scraped_at": "2025-10-23T06:42:47Z"
     }
   ]
 }

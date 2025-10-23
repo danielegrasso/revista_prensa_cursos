@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: España tiene menos déficit que la UE: el ajuste silencioso de la prórroga de los PGE: El gasto sobre PIB se ha reducido en los dos años de prórroga presupuestaria, mientras los ingresos siguen subiendo gracias a la progresividad en frío del IRPF. España ya tiene un déficit inferior a la Unión Europea; A Rusia le vas a enseñar a negociar: tras la cancelación del encuentro Trump-Putin: Pese a meses de contactos, Rusia vuelve al punto de partida en las negociaciones. No es el mejor escenario para que Trump salga con su &quot;novena guerra solventada&quot; bajo el brazo en Budapest; País Vasco: El hallazgo del cuerpo sin vida se produjo ayer sobre las cinco de la tarde. Cerca de esa hora, los servicios de emergencia recibieron un aviso que informaba de que se había encontrado un cuerpo en una zona boscosa. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-22T06:44:06Z",
+  "summary": "Resumen del día en El Confidencial: Puigdemont reúne a su cúpula: dará un ultimátum a Sánchez de 7 días o romperá todos los contactos: La dirección del partido dará siete días al presidente español para ver cambios. En caso contrario, se dará por acabada la negociación con el PSOE en Suiza y se pedirán elecciones; A ver quién se muda a Madrid o BCN: la crisis de la vivienda ya reduce la movilidad laboral: Menos trabajadores están dispuestos a cambiar de CCAA para mejorar en su carrera laboral ante la falta de vivienda y los precios disparados. Aunque los inmigrantes compensan el fenómeno, Funcas prevé que también les acabe lastrando; Los comerciantes que viajan por toda España para hacer caja con las manifestaciones: Cada vez se ha vuelto más común ver a personas vendiendo objetos, alimentos o bebidas dentro de las manifestaciones y otras concentraciones masivas. Algunos llevan años viajando por toda España a pesar de las multas de la Policía. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-23T06:42:54Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España tiene menos déficit que la UE: el ajuste silencioso de la prórroga de los PGE",
-      "subtitle": "El gasto sobre PIB se ha reducido en los dos años de prórroga presupuestaria, mientras los ingresos siguen subiendo gracias a la progresividad en frío del IRPF. España ya tiene un déficit inferior a la Unión Europea",
-      "url": "https://www.elconfidencial.com/economia/2025-10-22/prorroga-presupuestaria-ajuste-menos-deficit-ue_4232442/",
-      "scraped_at": "2025-10-22T06:44:04Z"
+      "title": "Puigdemont reúne a su cúpula: dará un ultimátum a Sánchez de 7 días o romperá todos los contactos",
+      "subtitle": "La dirección del partido dará siete días al presidente español para ver cambios. En caso contrario, se dará por acabada la negociación con el PSOE en Suiza y se pedirán elecciones",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-23/puigdemont-convoca-junts-ultimatum-romper-sanchez_4233347/",
+      "scraped_at": "2025-10-23T06:42:52Z"
     },
     {
       "source": "El Confidencial",
-      "title": "A Rusia le vas a enseñar a negociar: tras la cancelación del encuentro Trump-Putin",
-      "subtitle": "Pese a meses de contactos, Rusia vuelve al punto de partida en las negociaciones. No es el mejor escenario para que Trump salga con su &quot;novena guerra solventada&quot; bajo el brazo en Budapest",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-22/cancelacion-reunion-trump-y-putin-en-budapest-ucrania_4232503/",
-      "scraped_at": "2025-10-22T06:44:05Z"
+      "title": "A ver quién se muda a Madrid o BCN: la crisis de la vivienda ya reduce la movilidad laboral",
+      "subtitle": "Menos trabajadores están dispuestos a cambiar de CCAA para mejorar en su carrera laboral ante la falta de vivienda y los precios disparados. Aunque los inmigrantes compensan el fenómeno, Funcas prevé que también les acabe lastrando",
+      "url": "https://www.elconfidencial.com/economia/2025-10-23/crisis-vivienda-reduce-movilidad-laboral_4233185/",
+      "scraped_at": "2025-10-23T06:42:53Z"
     },
     {
       "source": "El Confidencial",
-      "title": "País Vasco",
-      "subtitle": "El hallazgo del cuerpo sin vida se produjo ayer sobre las cinco de la tarde. Cerca de esa hora, los servicios de emergencia recibieron un aviso que informaba de que se había encontrado un cuerpo en una zona boscosa",
-      "url": "https://www.elconfidencial.com/espana/pais-vasco/",
-      "scraped_at": "2025-10-22T06:44:06Z"
+      "title": "Los comerciantes que viajan por toda España para hacer caja con las manifestaciones",
+      "subtitle": "Cada vez se ha vuelto más común ver a personas vendiendo objetos, alimentos o bebidas dentro de las manifestaciones y otras concentraciones masivas. Algunos llevan años viajando por toda España a pesar de las multas de la Policía",
+      "url": "https://www.elconfidencial.com/espana/2025-10-23/protestas-vendedores-ambulantes-madrid-barcelona_4230514/",
+      "scraped_at": "2025-10-23T06:42:53Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "De Gaza a Kiev, la diplomacia salvaje de Trump se choca con los límites de la realidad",
+      "subtitle": "Donald Trump ha reconocido que conseguir un acuerdo de paz en Ucrania es más difícil de lo esperado, mientras su Administración teme que Netanyahu viole el alto al fuego en Gaza",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-23/trump-ucrania-rusia-gaza-paz-1hms_4233157/",
+      "scraped_at": "2025-10-23T06:42:53Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Von der Leyen presiona a las capitales para bajar los impuestos a la electricidad",
+      "subtitle": "La presidenta de la Comisión Europea redobla la presión para que las capitales reduzcan la fiscalidad sobre la electricidad, lo que afecta a las facturas y al atractivo de la electrificación frente al gas",
+      "url": "https://www.elconfidencial.com/economia/2025-10-23/impuestos-electricidad-europa-competitividad-1hms_4233186/",
+      "scraped_at": "2025-10-23T06:42:54Z"
     }
   ]
 }
