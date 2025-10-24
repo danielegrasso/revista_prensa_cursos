@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Puigdemont reúne a su cúpula: dará un ultimátum a Sánchez de 7 días o romperá todos los contactos: La dirección del partido dará siete días al presidente español para ver cambios. En caso contrario, se dará por acabada la negociación con el PSOE en Suiza y se pedirán elecciones; A ver quién se muda a Madrid o BCN: la crisis de la vivienda ya reduce la movilidad laboral: Menos trabajadores están dispuestos a cambiar de CCAA para mejorar en su carrera laboral ante la falta de vivienda y los precios disparados. Aunque los inmigrantes compensan el fenómeno, Funcas prevé que también les acabe lastrando; Los comerciantes que viajan por toda España para hacer caja con las manifestaciones: Cada vez se ha vuelto más común ver a personas vendiendo objetos, alimentos o bebidas dentro de las manifestaciones y otras concentraciones masivas. Algunos llevan años viajando por toda España a pesar de las multas de la Policía. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-23T06:42:54Z",
+  "summary": "Resumen del día en El Confidencial: Puigdemont se abre a la moción de censura instrumental con PP y Vox si Sánchez no convoca elecciones: Este lunes, Junts romperá formalmente las conversaciones con el Gobierno. Si el presidente no convoca elecciones, está dispuesto a apoyar una moción de censura instrumental con un candidato independiente para que llame a las urnas; No se saben los detalles del pacto con España, pero Gibraltar ya vive un 'boom' empresarial: Con acceso continuo a Reino Unido para servicios y acuerdo con la UE para libertad de movimiento de personas y bienes, la Roca queda ahora en una posición única para inversores; Internacional: Trump acusa a Ontario de manipular un discurso de Reagan en un anuncio crítico con los aranceles y rompe el diálogo bilateral tras la polémica por el uso no autorizado del audio. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-24T06:41:14Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Puigdemont reúne a su cúpula: dará un ultimátum a Sánchez de 7 días o romperá todos los contactos",
-      "subtitle": "La dirección del partido dará siete días al presidente español para ver cambios. En caso contrario, se dará por acabada la negociación con el PSOE en Suiza y se pedirán elecciones",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-23/puigdemont-convoca-junts-ultimatum-romper-sanchez_4233347/",
-      "scraped_at": "2025-10-23T06:42:52Z"
+      "title": "Puigdemont se abre a la moción de censura instrumental con PP y Vox si Sánchez no convoca elecciones",
+      "subtitle": "Este lunes, Junts romperá formalmente las conversaciones con el Gobierno. Si el presidente no convoca elecciones, está dispuesto a apoyar una moción de censura instrumental con un candidato independiente para que llame a las urnas",
+      "url": "https://www.elconfidencial.com/espana/2025-10-24/puigdemont-mocion-censura-instrumental-candidato-pactado_4233735/",
+      "scraped_at": "2025-10-24T06:41:14Z"
     },
     {
       "source": "El Confidencial",
-      "title": "A ver quién se muda a Madrid o BCN: la crisis de la vivienda ya reduce la movilidad laboral",
-      "subtitle": "Menos trabajadores están dispuestos a cambiar de CCAA para mejorar en su carrera laboral ante la falta de vivienda y los precios disparados. Aunque los inmigrantes compensan el fenómeno, Funcas prevé que también les acabe lastrando",
-      "url": "https://www.elconfidencial.com/economia/2025-10-23/crisis-vivienda-reduce-movilidad-laboral_4233185/",
-      "scraped_at": "2025-10-23T06:42:53Z"
+      "title": "No se saben los detalles del pacto con España, pero Gibraltar ya vive un 'boom' empresarial",
+      "subtitle": "Con acceso continuo a Reino Unido para servicios y acuerdo con la UE para libertad de movimiento de personas y bienes, la Roca queda ahora en una posición única para inversores",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-24/entrevista-gibraltar-boom-empresarial_4233956/",
+      "scraped_at": "2025-10-24T06:41:14Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los comerciantes que viajan por toda España para hacer caja con las manifestaciones",
-      "subtitle": "Cada vez se ha vuelto más común ver a personas vendiendo objetos, alimentos o bebidas dentro de las manifestaciones y otras concentraciones masivas. Algunos llevan años viajando por toda España a pesar de las multas de la Policía",
-      "url": "https://www.elconfidencial.com/espana/2025-10-23/protestas-vendedores-ambulantes-madrid-barcelona_4230514/",
-      "scraped_at": "2025-10-23T06:42:53Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "De Gaza a Kiev, la diplomacia salvaje de Trump se choca con los límites de la realidad",
-      "subtitle": "Donald Trump ha reconocido que conseguir un acuerdo de paz en Ucrania es más difícil de lo esperado, mientras su Administración teme que Netanyahu viole el alto al fuego en Gaza",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-23/trump-ucrania-rusia-gaza-paz-1hms_4233157/",
-      "scraped_at": "2025-10-23T06:42:53Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Von der Leyen presiona a las capitales para bajar los impuestos a la electricidad",
-      "subtitle": "La presidenta de la Comisión Europea redobla la presión para que las capitales reduzcan la fiscalidad sobre la electricidad, lo que afecta a las facturas y al atractivo de la electrificación frente al gas",
-      "url": "https://www.elconfidencial.com/economia/2025-10-23/impuestos-electricidad-europa-competitividad-1hms_4233186/",
-      "scraped_at": "2025-10-23T06:42:54Z"
+      "title": "Internacional",
+      "subtitle": "Trump acusa a Ontario de manipular un discurso de Reagan en un anuncio crítico con los aranceles y rompe el diálogo bilateral tras la polémica por el uso no autorizado del audio",
+      "url": "https://www.elconfidencial.com/mundo/",
+      "scraped_at": "2025-10-24T06:41:14Z"
     }
   ]
 }
