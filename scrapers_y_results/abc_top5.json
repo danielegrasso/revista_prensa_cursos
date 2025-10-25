@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Caos en las transferencias para cribados de cáncer por la bronca entre Hacienda y Sanidad: El director de Salud Pública comunicó este jueves a las comunidades que Hacienda les bloqueaba nuevas inyecciones; Moncloa insta a los ministros económicos a aplicar medidas que eviten el paso por las Cortes: A falta de Presupuesto, Díaz, Cuerpo, Aagesen o Saiz trabajan con normas inferiores que desguazan sus propias leyes para esquivar al Parlamento; Ultimátum de alcaldes de Junts a Puigdemont: «O el proyecto o tú»: Convoca una consulta a la militancia para decidir si rompe con Sánchez, además de una reunión de urgencia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-24T06:41:08Z",
+  "summary": "Resumen del día en ABC.es: Un fallo de Defensa desvela los planos de un nuevo centro para la Inteligencia militar: «Es muy serio; esa información siempre debería ser clasificada», aseguran fuentes militares consultadas por ABC; Casi la mitad del empleo público creado con Pedro Sánchez es temporal: El número de trabajadores en la Administración crece en 414.000 desde 2018, de los que 177.000 son eventuales; Los técnicos de Hacienda avisan al Congreso que las dietas son menos correctas que una tarjeta de gastos: No ven «entendible» que la Cámara recuperara las dietas de viaje en 2020 tras eliminarlas en 2017. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-25T06:37:03Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Caos en las transferencias para cribados de cáncer por la bronca entre Hacienda y Sanidad",
-      "subtitle": "El director de Salud Pública comunicó este jueves a las comunidades que Hacienda les bloqueaba nuevas inyecciones",
-      "url": "https://www.abc.es/sociedad/montero-veta-transferencias-sanidad-autonomias-vigilar-cancer-20251024200050-nt.html",
-      "scraped_at": "2025-10-24T06:41:07Z"
+      "title": "Un fallo de Defensa desvela los planos de un nuevo centro para la Inteligencia militar",
+      "subtitle": "«Es muy serio; esa información siempre debería ser clasificada», aseguran fuentes militares consultadas por ABC",
+      "url": "https://www.abc.es/espana/defensa-difunde-adjudicacion-planos-nuevo-edificio-inteligencia-20251025183722-nt.html",
+      "scraped_at": "2025-10-25T06:37:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa insta a los ministros económicos a aplicar medidas que eviten el paso por las Cortes",
-      "subtitle": "A falta de Presupuesto, Díaz, Cuerpo, Aagesen o Saiz trabajan con normas inferiores que desguazan sus propias leyes para esquivar al Parlamento",
-      "url": "https://www.abc.es/economia/moncloa-insta-ministros-economicos-aplicar-medidas-eviten-20251024195637-nt.html",
-      "scraped_at": "2025-10-24T06:41:07Z"
+      "title": "Casi la mitad del empleo público creado con Pedro Sánchez es temporal",
+      "subtitle": "El número de trabajadores en la Administración crece en 414.000 desde 2018, de los que 177.000 son eventuales",
+      "url": "https://www.abc.es/economia/mitad-empleo-publico-creado-pedro-sanchez-temporal-20251024204002-nt.html",
+      "scraped_at": "2025-10-25T06:37:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ultimátum de alcaldes de Junts a Puigdemont: «O el proyecto o tú»",
-      "subtitle": "Convoca una consulta a la militancia para decidir si rompe con Sánchez, además de una reunión de urgencia",
-      "url": "https://www.abc.es/espana/ultimatum-alcaldes-junts-puigdemont-proyecto-20251023214736-nt.html",
-      "scraped_at": "2025-10-24T06:41:08Z"
+      "title": "Los técnicos de Hacienda avisan al Congreso que las dietas son menos correctas que una tarjeta de gastos",
+      "subtitle": "No ven «entendible» que la Cámara recuperara las dietas de viaje en 2020 tras eliminarlas en 2017",
+      "url": "https://www.abc.es/espana/tecnicos-hacienda-avisan-congreso-dietas-correctas-tarjeta-20251025040625-nt.html",
+      "scraped_at": "2025-10-25T06:37:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ferraz no valora querellarse contra Leire Díez pese a la presión interna",
-      "subtitle": "Malestar en el partido por la «inacción» de la cúpula socialista ante el daño reputacional que provoca la 'fontanera'",
-      "url": "https://www.abc.es/espana/ferraz-valora-querellarse-leire-diez-pese-presion-20251024182001-nt.html",
-      "scraped_at": "2025-10-24T06:41:08Z"
+      "title": "La brutal guerra del mayor cártel de la cocaína en Europa: bombas, torturas y mutilaciones",
+      "subtitle": "Una guerra sin cuartel con bombas, torturas y mutilaciones detrás de la detención en Málaga de un miembro fugado del clan Kavak cuando recibió la visita de su enamorada",
+      "url": "https://www.abc.es/espana/andalucia/malaga/brutalidad-mayor-cartel-cocaina-europa-20251025041006-nts.html",
+      "scraped_at": "2025-10-25T06:37:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Extremadura y Aragón",
-      "subtitle": "Guardiola ya está lista para convocar elecciones y Azcón asume que Vox terminará tumbando los Presupuestos",
-      "url": "https://www.abc.es/espana/situacion-extremadura-aragon-acerca-adelanto-electoral-20251023191817-nt.html",
-      "scraped_at": "2025-10-24T06:41:08Z"
+      "title": "BOE cambio de hora",
+      "subtitle": "El país cambiará este fin de semana al horario de invierno, lo que significa que los relojes se atrasarán una hora",
+      "url": "https://www.abc.es/sociedad/boe-pone-fecha-fin-cambio-hora-espana-20251024164131-nt.html",
+      "scraped_at": "2025-10-25T06:37:03Z"
     }
   ]
 }
