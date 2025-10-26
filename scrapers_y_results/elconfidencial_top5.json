@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Gobierno conserva el hilo con Junts para ofrecer respuestas al envite de Puigdemont: Los canales de comunicación siguen abiertos para evitar la ruptura pero los posconvergentes exigen a Sánchez &quot;hechos&quot;.  En la órbita de Junts se da por hecho un clima más hostil hacia el Ejecutivo; Stampa y Grinda: fiscales que las cloacas quisieron comprar y hoy cercan a la fontanera del PSOE: El juez que mantiene imputada a Leire Díez y a Pérez Dolset tomará declaración a los dos fiscales el próximo 5 de noviembre para que relaten los intentos de soborno; El gran pinchazo: Trump fracasa en su objetivo de equilibrar el déficit de EEUU: Aunque aún es pronto para conocer los resultados a medio y largo plazo, los resultados provisionales muestran que el déficit comercial crece, las empresas nacionales han asumido los costes y no se recaudará tanto como se preveía. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-25T06:37:07Z",
+  "summary": "Resumen del día en El Confidencial: La parálisis del Gobierno obliga al Congreso a recortar el 60% de los plenos: De las veinte sesiones celebradas en 2025, 12 se han limitado a dos días ante la falta de iniciativas del Ejecutivo. Varios ministros comparecen a petición propia para &quot;rellenar&quot;, pese a que tienen centenares de peticiones todavía pendientes; ¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy: Este intento de rescate de un Milei justo en horas bajas no ha venido gratis. A principios de septiembre, perdió en Buenos Aires. Ahora se enfrentaría a unas elecciones muy reñidas que podrían bloquear su política económica; \"Estamos dejando atrás la era de Hitler y nos adentramos en un nuevo territorio moral\": Un historiador del Cristianismo probablemente sea la persona más preparada para explicar cómo se está transformando nuestro marco de referencia moral y anticipar hacia dónde nos estamos dirigiendo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-26T06:39:14Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Gobierno conserva el hilo con Junts para ofrecer respuestas al envite de Puigdemont",
-      "subtitle": "Los canales de comunicación siguen abiertos para evitar la ruptura pero los posconvergentes exigen a Sánchez &quot;hechos&quot;.  En la órbita de Junts se da por hecho un clima más hostil hacia el Ejecutivo",
-      "url": "https://www.elconfidencial.com/espana/2025-10-25/gobierno-junts-respuestas-desafio-puigdemont_4235091/",
-      "scraped_at": "2025-10-25T06:37:06Z"
+      "title": "La parálisis del Gobierno obliga al Congreso a recortar el 60% de los plenos",
+      "subtitle": "De las veinte sesiones celebradas en 2025, 12 se han limitado a dos días ante la falta de iniciativas del Ejecutivo. Varios ministros comparecen a petición propia para &quot;rellenar&quot;, pese a que tienen centenares de peticiones todavía pendientes",
+      "url": "https://www.elconfidencial.com/espana/2025-10-26/paralisis-gobierno-obliga-congreso-recortar-plenos_4235178/",
+      "scraped_at": "2025-10-26T06:39:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Stampa y Grinda: fiscales que las cloacas quisieron comprar y hoy cercan a la fontanera del PSOE",
-      "subtitle": "El juez que mantiene imputada a Leire Díez y a Pérez Dolset tomará declaración a los dos fiscales el próximo 5 de noviembre para que relaten los intentos de soborno",
-      "url": "https://www.elconfidencial.com/espana/2025-10-25/grinda-stampa-fiscales-comprar-cloacas-fontanera_4234923/",
-      "scraped_at": "2025-10-25T06:37:06Z"
+      "title": "¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy",
+      "subtitle": "Este intento de rescate de un Milei justo en horas bajas no ha venido gratis. A principios de septiembre, perdió en Buenos Aires. Ahora se enfrentaría a unas elecciones muy reñidas que podrían bloquear su política económica",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-26/milei-elecciones-argentina-trump-economia-1hms_4235421/",
+      "scraped_at": "2025-10-26T06:39:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El gran pinchazo: Trump fracasa en su objetivo de equilibrar el déficit de EEUU",
-      "subtitle": "Aunque aún es pronto para conocer los resultados a medio y largo plazo, los resultados provisionales muestran que el déficit comercial crece, las empresas nacionales han asumido los costes y no se recaudará tanto como se preveía",
-      "url": "https://www.elconfidencial.com/economia/2025-10-25/aranceles-trump-minimis-eeuu-china-fracaso-impuestos_4234801/",
-      "scraped_at": "2025-10-25T06:37:07Z"
+      "title": "\"Estamos dejando atrás la era de Hitler y nos adentramos en un nuevo territorio moral\"",
+      "subtitle": "Un historiador del Cristianismo probablemente sea la persona más preparada para explicar cómo se está transformando nuestro marco de referencia moral y anticipar hacia dónde nos estamos dirigiendo",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-26/estamos-dejando-atras-la-era-de-hitler-alec-ryrie_4235252/",
+      "scraped_at": "2025-10-26T06:39:14Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Roberto Brasero",
-      "subtitle": "Una reflexión del meteorólogo reabre la eterna discusión sobre qué hora debería regir en España",
-      "url": "https://www.elconfidencial.com/espana/2025-10-24/roberto-brasero-meteorologo-cambio-de-hora_4234421/",
-      "scraped_at": "2025-10-25T06:37:07Z"
+      "title": "Economía",
+      "subtitle": "El consumo eléctrico en los negocios de hostelería y comercio de la zona cero, más pequeños que los industriales, aún es inferior. Las ayudas y los ERTE han impulsado la reactivación económica y el empleo",
+      "url": "https://www.elconfidencial.com/economia/",
+      "scraped_at": "2025-10-26T06:39:14Z"
     }
   ]
 }
