@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: La parálisis del Gobierno obliga al Congreso a recortar el 60% de los plenos: De las veinte sesiones celebradas en 2025, 12 se han limitado a dos días ante la falta de iniciativas del Ejecutivo. Varios ministros comparecen a petición propia para &quot;rellenar&quot;, pese a que tienen centenares de peticiones todavía pendientes; ¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy: Este intento de rescate de un Milei justo en horas bajas no ha venido gratis. A principios de septiembre, perdió en Buenos Aires. Ahora se enfrentaría a unas elecciones muy reñidas que podrían bloquear su política económica; \"Estamos dejando atrás la era de Hitler y nos adentramos en un nuevo territorio moral\": Un historiador del Cristianismo probablemente sea la persona más preparada para explicar cómo se está transformando nuestro marco de referencia moral y anticipar hacia dónde nos estamos dirigiendo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-26T06:39:14Z",
+  "summary": "Resumen del día en El Confidencial: Sánchez y Yolanda Díaz exploran ir juntos en más de 30 provincias sin escaños de Sumar: En 33 provincias Sumar no logró escaño en las últimas elecciones generales. El plan es ir unidos en estas circunscripciones para que el PP pierda un escaño en dichos enclaves; La cúpula de Junts romperá con el PSOE, pero descarta la moción de censura: Puigdemont reunió a la permanente toda la tarde en un coworking a las afueras de Perpiñán para romper con Sánchez y suspender los contactos en Suiza. Pero sin moción de censura; Paco Roca: \"No sé qué editor americano pensó que yo debería dibujar a Batman\": El celebrado historietista es el primero en bajar al búnker de &#039;Esto no es un simulacro&#039;, un vídeopodcast apocalíptico de entrevistas a heterodoxos de las artes sobre el valor de la cultura para la transformación social y personal. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-27T06:47:25Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La parálisis del Gobierno obliga al Congreso a recortar el 60% de los plenos",
-      "subtitle": "De las veinte sesiones celebradas en 2025, 12 se han limitado a dos días ante la falta de iniciativas del Ejecutivo. Varios ministros comparecen a petición propia para &quot;rellenar&quot;, pese a que tienen centenares de peticiones todavía pendientes",
-      "url": "https://www.elconfidencial.com/espana/2025-10-26/paralisis-gobierno-obliga-congreso-recortar-plenos_4235178/",
-      "scraped_at": "2025-10-26T06:39:13Z"
+      "title": "Sánchez y Yolanda Díaz exploran ir juntos en más de 30 provincias sin escaños de Sumar",
+      "subtitle": "En 33 provincias Sumar no logró escaño en las últimas elecciones generales. El plan es ir unidos en estas circunscripciones para que el PP pierda un escaño en dichos enclaves",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-27/psoe-sumar-negocian-presentarse-provincias-izquierda_4234757/",
+      "scraped_at": "2025-10-27T06:47:22Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿El principio del fin del experimento de Milei en Argentina? Lo veremos hoy",
-      "subtitle": "Este intento de rescate de un Milei justo en horas bajas no ha venido gratis. A principios de septiembre, perdió en Buenos Aires. Ahora se enfrentaría a unas elecciones muy reñidas que podrían bloquear su política económica",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-26/milei-elecciones-argentina-trump-economia-1hms_4235421/",
-      "scraped_at": "2025-10-26T06:39:13Z"
+      "title": "La cúpula de Junts romperá con el PSOE, pero descarta la moción de censura",
+      "subtitle": "Puigdemont reunió a la permanente toda la tarde en un coworking a las afueras de Perpiñán para romper con Sánchez y suspender los contactos en Suiza. Pero sin moción de censura",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-26/cupula-junts-apuesta-romper-psoe-descarta-mocion-censura_4235766/",
+      "scraped_at": "2025-10-27T06:47:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Estamos dejando atrás la era de Hitler y nos adentramos en un nuevo territorio moral\"",
-      "subtitle": "Un historiador del Cristianismo probablemente sea la persona más preparada para explicar cómo se está transformando nuestro marco de referencia moral y anticipar hacia dónde nos estamos dirigiendo",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-26/estamos-dejando-atras-la-era-de-hitler-alec-ryrie_4235252/",
-      "scraped_at": "2025-10-26T06:39:14Z"
+      "title": "Paco Roca: \"No sé qué editor americano pensó que yo debería dibujar a Batman\"",
+      "subtitle": "El celebrado historietista es el primero en bajar al búnker de &#039;Esto no es un simulacro&#039;, un vídeopodcast apocalíptico de entrevistas a heterodoxos de las artes sobre el valor de la cultura para la transformación social y personal",
+      "url": "https://www.elconfidencial.com/cultura/2025-10-27/cultura-impacto-no-es-un-simulacro-paco-roca_4228394/",
+      "scraped_at": "2025-10-27T06:47:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Economía",
-      "subtitle": "El consumo eléctrico en los negocios de hostelería y comercio de la zona cero, más pequeños que los industriales, aún es inferior. Las ayudas y los ERTE han impulsado la reactivación económica y el empleo",
-      "url": "https://www.elconfidencial.com/economia/",
-      "scraped_at": "2025-10-26T06:39:14Z"
+      "title": "El juez rastrea un contrato de Interior para una nueva cárcel que ganó un cliente de Cerdán",
+      "subtitle": "Las diligencias del caso Koldo se extienden a una obra licitada en 2021 en el País Vasco por el departamento de Fernando Grande-Marlaska que se llevó una constructora que hizo pagos a la sociedad de Santos Cerdán",
+      "url": "https://www.elconfidencial.com/espana/2025-10-27/interior-marlaska-cerdan-sanchez-carcel-zubieta-cycasa_4235435/",
+      "scraped_at": "2025-10-27T06:47:24Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Auge y despido del sindicalista que atiborró A Coruña de basura",
+      "subtitle": "El juzgado confirma el despido disciplinario del líder de STL por hostigar a los compañeros que no secundaron la huelga de recogida de residuos. También fue acusado de sabotaje contra la empresa",
+      "url": "https://www.elconfidencial.com/espana/galicia/2025-10-27/auge-y-despido-sindicalista-huelga-basura-a-coruna_4234615/",
+      "scraped_at": "2025-10-27T06:47:25Z"
     }
   ]
 }

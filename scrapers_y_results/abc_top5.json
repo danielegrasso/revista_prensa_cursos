@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La gran mayoría responsabiliza a la Generalitat de la dana: El 61% de los valencianos señalan al 'president' Mazón como el principal culpable de lo ocurrido; La mitad de los valencianos opina que la región no ha mejorado si se repite la riada: El 64% consideran que las actuaciones para la reconstrucción no son las adecuadas; Editorial | ¿Dónde estuvo el Estado?: Un año después de la tragedia, la sensación dominante en la Comunidad Valenciana sigue siendo el abandono institucional. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-26T06:39:09Z",
+  "summary": "Resumen del día en ABC.es: El 75% de los valencianos cree que Mazón debe dimitir: Seis de cada diez consideran que tendría que convocar elecciones autonómicas anticipadas; El 43% de los votantes valencianos del PP opinan que el tiempo de Camps ha pasado: El 26% ven bien que vuelva a la política y el 9% auguran que tendría éxito en ella; La periodista que comió con Mazón el día de la dana dice que la acompañó al parking: El presidente valenciano sostuvo que fue directo desde el restaurante al Palau de la Generalitat y desde allí, al Cecopi. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-27T06:47:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La gran mayoría responsabiliza a la Generalitat de la dana",
-      "subtitle": "El 61% de los valencianos señalan al 'president' Mazón como el principal culpable de lo ocurrido",
-      "url": "https://www.abc.es/espana/gran-mayoria-responsabiliza-generalitat-dana-20251026143004-nt.html",
-      "scraped_at": "2025-10-26T06:39:08Z"
+      "title": "El 75% de los valencianos cree que Mazón debe dimitir",
+      "subtitle": "Seis de cada diez consideran que tendría que convocar elecciones autonómicas anticipadas",
+      "url": "https://www.abc.es/espana/valencianos-creen-mazon-debe-dimitir-20251027171455-nt.html",
+      "scraped_at": "2025-10-27T06:47:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "La mitad de los valencianos opina que la región no ha mejorado si se repite la riada",
-      "subtitle": "El 64% consideran que las actuaciones para la reconstrucción no son las adecuadas",
-      "url": "https://www.abc.es/espana/mitad-opina-region-mejorado-repite-riada-20251026143007-nt.html",
-      "scraped_at": "2025-10-26T06:39:08Z"
+      "title": "El 43% de los votantes valencianos del PP opinan que el tiempo de Camps ha pasado",
+      "subtitle": "El 26% ven bien que vuelva a la política y el 9% auguran que tendría éxito en ella",
+      "url": "https://www.abc.es/espana/votantes-valencianos-pp-opinan-tiempo-camps-pasado-20251026171024-nt.html",
+      "scraped_at": "2025-10-27T06:47:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Editorial | ¿Dónde estuvo el Estado?",
-      "subtitle": "Un año después de la tragedia, la sensación dominante en la Comunidad Valenciana sigue siendo el abandono institucional",
-      "url": "https://www.abc.es/opinion/editorial-estado-20251026193035-nt.html",
-      "scraped_at": "2025-10-26T06:39:09Z"
+      "title": "La periodista que comió con Mazón el día de la dana dice que la acompañó al parking",
+      "subtitle": "El presidente valenciano sostuvo que fue directo desde el restaurante al Palau de la Generalitat y desde allí, al Cecopi",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/periodista-comio-mazon-dia-dana-dice-acompano-20251026215840-nt.html",
+      "scraped_at": "2025-10-27T06:47:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "La vida y la muerte en cien metros",
-      "subtitle": "En la zona cero de Paiporta, el agua trepó hasta tres metros de altura. Aquí, hace un año, en el número 12, María José lograba huir con su hijo autista mientras Paco, del número 2, braceaba arrastrado por la corriente. En el 24, la frutera Begoña hallaba un resquicio para escapar; y en el 13 se hacía el silencio: morían ahogados Emilia y Salvador",
-      "url": "https://www.abc.es/sociedad/dana-vida-muerte-cien-metros-20251026125431-nt.html",
-      "scraped_at": "2025-10-26T06:39:09Z"
+      "title": "Las historias detrás de los vídeos de la dana que nos sobrecogieron",
+      "subtitle": "Ríos de barro, personas aferradas a balcones, coches flotando... El desastre saltó de móvil en móvil a través de vídeos casi en tiempo real. Los protagonistas de algunas de aquellas grabaciones nos cuentan qué ocurrió después",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/historias-deja-dana-ano-despues-20251024125800-nt.html",
+      "scraped_at": "2025-10-27T06:47:19Z"
     },
     {
       "source": "ABC.es",
       "title": "Cambio de hora hoy",
       "subtitle": "El cambio busca un mejor aprovechamiento de la luz solar y un ahorro energético, aunque su efectividad ha sido cada vez más cuestionada",
       "url": "https://www.abc.es/sociedad/cambio-hora-hoy-espana-hora-cambia-reloj-20251025170725-nt.html",
-      "scraped_at": "2025-10-26T06:39:09Z"
+      "scraped_at": "2025-10-27T06:47:19Z"
     }
   ]
 }
