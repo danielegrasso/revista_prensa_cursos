@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Un segundo testigo presencial confirma que Mazón llegó al Palau de la Generalitat casi a las 20.00 y cambiado de ropa: El testimonio de este nuevo testigo consultado por elDiario.es, que se cruzó con el president ante el Palau a las 19.55, desmonta el intento de Mazón de justificar su ausencia de una hora asegurando que acompañó a Vilaplana a un parking tras salir de El Ventorro; Ángel Rivera: “Hay que agilizar las decisiones frente a las danas, que no haga falta pasar por los políticos”: El que fue durante años portavoz de Aemet, y creador de la palabra \"dana\", analiza cuáles son los aspectos mejorables en los sistemas de predicción y coordinación ante el aumento de eventos extremos que trae el cambio climático; Milei gana las elecciones legislativas de Argentina tras recibir el rescate de Trump: Con más del 40% de los votos, la ultraderecha triunfa de modo sorpresivo ante el peronismo. \"Hoy comienza la construcción de la Argentina grande\", dijo el mandatario dispuesto a avanzar en reformas estructurales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-27T06:47:17Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno ve margen para aguantar tras el nuevo portazo de Junts: \"Vamos a trabajar como siempre, votación a votación\", señalan en Moncloa, donde a priori no ven un cambio sustancial en la posición de Puigdemont, que tampoco había garantizado la estabilidad de la legislatura. Ya eran pesimistas respecto al apoyo de Junts a los Presupuestos y Sánchez quería seguir; Extremadura abre un nuevo ciclo electoral con el adelanto de sus comicios para el 21 de diciembre: Extremadura es la primera comunidad con un Gobierno en minoría del PP que cita a los ciudadanos con las urnas al no ser capaz de conseguir apoyos de Vox ni del PSOE a sus presupuestos para 2026; España se arriesga a perder hasta 1.400 millones de fondos europeos por retrasar la reforma de cuotas de los autónomos: Al ser un hito que afecta a una reforma fundamental para Bruselas, como es la sostenibilidad del sistema público de pensiones, la multa se multiplicaría por el mayor coeficiente, pudiendo ascender a 1.400 millones de euros. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-28T06:45:03Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Un segundo testigo presencial confirma que Mazón llegó al Palau de la Generalitat casi a las 20.00 y cambiado de ropa",
-      "subtitle": "El testimonio de este nuevo testigo consultado por elDiario.es, que se cruzó con el president ante el Palau a las 19.55, desmonta el intento de Mazón de justificar su ausencia de una hora asegurando que acompañó a Vilaplana a un parking tras salir de El Ventorro",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/segundo-testigo-presencial-confirma-mazon-llego-palau-generalitat-20-00-cambiado-ropa_1_12715353.html",
-      "scraped_at": "2025-10-27T06:47:14Z"
+      "title": "El Gobierno ve margen para aguantar tras el nuevo portazo de Junts",
+      "subtitle": "\"Vamos a trabajar como siempre, votación a votación\", señalan en Moncloa, donde a priori no ven un cambio sustancial en la posición de Puigdemont, que tampoco había garantizado la estabilidad de la legislatura. Ya eran pesimistas respecto al apoyo de Junts a los Presupuestos y Sánchez quería seguir",
+      "url": "https://www.eldiario.es/politica/gobierno-ve-margen-aguantar-nuevo-portazo-junts_1_12719247.html",
+      "scraped_at": "2025-10-28T06:44:59Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ángel Rivera: “Hay que agilizar las decisiones frente a las danas, que no haga falta pasar por los políticos”",
-      "subtitle": "El que fue durante años portavoz de Aemet, y creador de la palabra \"dana\", analiza cuáles son los aspectos mejorables en los sistemas de predicción y coordinación ante el aumento de eventos extremos que trae el cambio climático",
-      "url": "https://www.eldiario.es/sociedad/angel-rivera-meteorologo-hay-agilizar-decisiones-frente-danas-no-haga-falta-pasar-politicos_128_12691368.html",
-      "scraped_at": "2025-10-27T06:47:15Z"
+      "title": "Extremadura abre un nuevo ciclo electoral con el adelanto de sus comicios para el 21 de diciembre",
+      "subtitle": "Extremadura es la primera comunidad con un Gobierno en minoría del PP que cita a los ciudadanos con las urnas al no ser capaz de conseguir apoyos de Vox ni del PSOE a sus presupuestos para 2026",
+      "url": "https://www.eldiario.es/extremadura/politica/guardiola-adelanta-elecciones-extremadura-seran-21-diciembre_1_12717035.html",
+      "scraped_at": "2025-10-28T06:45:00Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Milei gana las elecciones legislativas de Argentina tras recibir el rescate de Trump",
-      "subtitle": "Con más del 40% de los votos, la ultraderecha triunfa de modo sorpresivo ante el peronismo. \"Hoy comienza la construcción de la Argentina grande\", dijo el mandatario dispuesto a avanzar en reformas estructurales",
-      "url": "https://www.eldiario.es/internacional/javier-milei-argentina-elecciones-de-medio-termino_1_12716581.html",
-      "scraped_at": "2025-10-27T06:47:15Z"
+      "title": "España se arriesga a perder hasta 1.400 millones de fondos europeos por retrasar la reforma de cuotas de los autónomos",
+      "subtitle": "Al ser un hito que afecta a una reforma fundamental para Bruselas, como es la sostenibilidad del sistema público de pensiones, la multa se multiplicaría por el mayor coeficiente, pudiendo ascender a 1.400 millones de euros",
+      "url": "https://www.eldiario.es/economia/espana-arriesga-perder-1-400-millones-fondos-europeos-retrasar-reforma-cuotas-autonomos_1_12718069.html",
+      "scraped_at": "2025-10-28T06:45:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Junts decide si torpedea la legislatura en su último órdago a Pedro Sánchez",
-      "subtitle": "El partido de Puigdemont encara el nuevo ciclo electoral en modo de pánico por el trasvase de votos a la xenófoba Aliança Catalana y eleva el tono de su eterna amenaza al Gobierno, que trata de alejar la idea de un cambio de ciclo",
-      "url": "https://www.eldiario.es/politica/junts-decide-si-torpedea-legislatura-ultimo-ordago-pedro-sanchez_1_12711766.html",
-      "scraped_at": "2025-10-27T06:47:16Z"
+      "title": "El juez Peinado amenaza a elDiario.es con una querella y exige 50.000 euros por una entrevista a Óscar Puente",
+      "subtitle": "El magistrado insta, a través de la abogada de la pareja de Ayuso, a un acto de conciliación contra el director del periódico y el ministro por una entrevista en la que Puente cargó contra su labor como instructor del caso",
+      "url": "https://www.eldiario.es/politica/juez-peinado-amenaza-eldiario-querella-exige-50-000-euros-entrevista-oscar-puente_1_12716728.html",
+      "scraped_at": "2025-10-28T06:45:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Reforma Lecrim",
-      "subtitle": "El Consejo de Ministros dará luz verde y remitirá a las Cortes la nueva la Ley de Enjuiciamiento Criminal, que también propone que el mandato del fiscal general no coincida con el del Ejecutivo",
-      "url": "https://www.eldiario.es/politica/gobierno-aprobara-definitivamente-martes-reforma-da-investigacion-fiscales-limita-accion-popular_1_12713433.html",
-      "scraped_at": "2025-10-27T06:47:17Z"
+      "title": "Iván Ferreiro",
+      "subtitle": "El cantante celebra 35 años de carrera con la gira 'Hoy x ayer' y se pronuncia sobre los festivales financiados por el fondo vinculado con Israel KKR: \"Es una broma creer que porque no podemos romper nuestro contrato nos digas que somos hijos del mal\"",
+      "url": "https://www.eldiario.es/cultura/musica/ivan-ferreiro-odie-anos-80-escuche-amaral-concierto_1_12718823.html",
+      "scraped_at": "2025-10-28T06:45:03Z"
     }
   ]
 }

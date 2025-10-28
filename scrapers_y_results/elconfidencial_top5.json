@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sánchez y Yolanda Díaz exploran ir juntos en más de 30 provincias sin escaños de Sumar: En 33 provincias Sumar no logró escaño en las últimas elecciones generales. El plan es ir unidos en estas circunscripciones para que el PP pierda un escaño en dichos enclaves; La cúpula de Junts romperá con el PSOE, pero descarta la moción de censura: Puigdemont reunió a la permanente toda la tarde en un coworking a las afueras de Perpiñán para romper con Sánchez y suspender los contactos en Suiza. Pero sin moción de censura; Paco Roca: \"No sé qué editor americano pensó que yo debería dibujar a Batman\": El celebrado historietista es el primero en bajar al búnker de &#039;Esto no es un simulacro&#039;, un vídeopodcast apocalíptico de entrevistas a heterodoxos de las artes sobre el valor de la cultura para la transformación social y personal. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-27T06:47:25Z",
+  "summary": "Resumen del día en El Confidencial: Junts deja a Sánchez con respiración asistida, pero evita matar la legislatura: Puigdemont abre la puerta a seguir votando con el PSOE en el Congreso en lo que beneficie a Cataluña. El final anunciado es sobre todo formal y de matiz. Lo más concreto: acabar los contactos en Suiza; Liechtenstein ofrece salarios de 8.000 euros y estos 400 españoles llevan décadas allí: El principado alpino acoge a una comunidad de gallegos desde finales de los años 70 que mantiene muy bien sus tradiciones. Hoy reciben a jóvenes españoles que viven en Suiza o Austria para trabajar en este rico micropaís; Laura Pausini revela en 'EH' su escatológico ritual antes de salir al escenario: La invitada fetiche de Pablo Motos volvió a desvelar todo tipo de anécdotas sobre su carrera profesional, entre ellas, la íntima tradición que comparte con los miembros de su equipo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-28T06:45:12Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sánchez y Yolanda Díaz exploran ir juntos en más de 30 provincias sin escaños de Sumar",
-      "subtitle": "En 33 provincias Sumar no logró escaño en las últimas elecciones generales. El plan es ir unidos en estas circunscripciones para que el PP pierda un escaño en dichos enclaves",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-27/psoe-sumar-negocian-presentarse-provincias-izquierda_4234757/",
-      "scraped_at": "2025-10-27T06:47:22Z"
+      "title": "Junts deja a Sánchez con respiración asistida, pero evita matar la legislatura",
+      "subtitle": "Puigdemont abre la puerta a seguir votando con el PSOE en el Congreso en lo que beneficie a Cataluña. El final anunciado es sobre todo formal y de matiz. Lo más concreto: acabar los contactos en Suiza",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-28/junts-deja-sanchez-respiracion-asistida-sentenciar_4236534/",
+      "scraped_at": "2025-10-28T06:45:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La cúpula de Junts romperá con el PSOE, pero descarta la moción de censura",
-      "subtitle": "Puigdemont reunió a la permanente toda la tarde en un coworking a las afueras de Perpiñán para romper con Sánchez y suspender los contactos en Suiza. Pero sin moción de censura",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-26/cupula-junts-apuesta-romper-psoe-descarta-mocion-censura_4235766/",
-      "scraped_at": "2025-10-27T06:47:23Z"
+      "title": "Liechtenstein ofrece salarios de 8.000 euros y estos 400 españoles llevan décadas allí",
+      "subtitle": "El principado alpino acoge a una comunidad de gallegos desde finales de los años 70 que mantiene muy bien sus tradiciones. Hoy reciben a jóvenes españoles que viven en Suiza o Austria para trabajar en este rico micropaís",
+      "url": "https://www.elconfidencial.com/mundo/2025-10-28/espanoles-emigrantes-trabajo-liechtenstein_4236092/",
+      "scraped_at": "2025-10-28T06:45:11Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Paco Roca: \"No sé qué editor americano pensó que yo debería dibujar a Batman\"",
-      "subtitle": "El celebrado historietista es el primero en bajar al búnker de &#039;Esto no es un simulacro&#039;, un vídeopodcast apocalíptico de entrevistas a heterodoxos de las artes sobre el valor de la cultura para la transformación social y personal",
-      "url": "https://www.elconfidencial.com/cultura/2025-10-27/cultura-impacto-no-es-un-simulacro-paco-roca_4228394/",
-      "scraped_at": "2025-10-27T06:47:23Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El juez rastrea un contrato de Interior para una nueva cárcel que ganó un cliente de Cerdán",
-      "subtitle": "Las diligencias del caso Koldo se extienden a una obra licitada en 2021 en el País Vasco por el departamento de Fernando Grande-Marlaska que se llevó una constructora que hizo pagos a la sociedad de Santos Cerdán",
-      "url": "https://www.elconfidencial.com/espana/2025-10-27/interior-marlaska-cerdan-sanchez-carcel-zubieta-cycasa_4235435/",
-      "scraped_at": "2025-10-27T06:47:24Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Auge y despido del sindicalista que atiborró A Coruña de basura",
-      "subtitle": "El juzgado confirma el despido disciplinario del líder de STL por hostigar a los compañeros que no secundaron la huelga de recogida de residuos. También fue acusado de sabotaje contra la empresa",
-      "url": "https://www.elconfidencial.com/espana/galicia/2025-10-27/auge-y-despido-sindicalista-huelga-basura-a-coruna_4234615/",
-      "scraped_at": "2025-10-27T06:47:25Z"
+      "title": "Laura Pausini revela en 'EH' su escatológico ritual antes de salir al escenario",
+      "subtitle": "La invitada fetiche de Pablo Motos volvió a desvelar todo tipo de anécdotas sobre su carrera profesional, entre ellas, la íntima tradición que comparte con los miembros de su equipo",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2025-10-27/laura-pausini-el-hormiguero-ritual-salir-escenario-contar-esto_4236579/",
+      "scraped_at": "2025-10-28T06:45:12Z"
     }
   ]
 }

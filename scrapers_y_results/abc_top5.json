@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El 75% de los valencianos cree que Mazón debe dimitir: Seis de cada diez consideran que tendría que convocar elecciones autonómicas anticipadas; El 43% de los votantes valencianos del PP opinan que el tiempo de Camps ha pasado: El 26% ven bien que vuelva a la política y el 9% auguran que tendría éxito en ella; La periodista que comió con Mazón el día de la dana dice que la acompañó al parking: El presidente valenciano sostuvo que fue directo desde el restaurante al Palau de la Generalitat y desde allí, al Cecopi. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-27T06:47:19Z",
+  "summary": "Resumen del día en ABC.es: Vox capitaliza la caída del PP por la dana y quita siete escaños a Mazón: Compromís sube los cuatro escaños que se deja el PSOE respecto al 2023 y la derecha mantiene su mayoría; El PP espera que Feijóo haga un relevo «a tiempo» de Mazón: En el partido dan por amortizado al 'president' y confían en que no les arrastre; María Guardiola abre la carrera electoral al convocar en Extremadura: La presidenta cumple su advertencia tras constatar que no tendrá Presupuestos e irá a las urnas el 21-D. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-28T06:45:06Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El 75% de los valencianos cree que Mazón debe dimitir",
-      "subtitle": "Seis de cada diez consideran que tendría que convocar elecciones autonómicas anticipadas",
-      "url": "https://www.abc.es/espana/valencianos-creen-mazon-debe-dimitir-20251027171455-nt.html",
-      "scraped_at": "2025-10-27T06:47:18Z"
+      "title": "Vox capitaliza la caída del PP por la dana y quita siete escaños a Mazón",
+      "subtitle": "Compromís sube los cuatro escaños que se deja el PSOE respecto al 2023 y la derecha mantiene su mayoría",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/vox-capitaliza-caida-pp-dana-quita-siete-20251028183357-nt.html",
+      "scraped_at": "2025-10-28T06:45:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 43% de los votantes valencianos del PP opinan que el tiempo de Camps ha pasado",
-      "subtitle": "El 26% ven bien que vuelva a la política y el 9% auguran que tendría éxito en ella",
-      "url": "https://www.abc.es/espana/votantes-valencianos-pp-opinan-tiempo-camps-pasado-20251026171024-nt.html",
-      "scraped_at": "2025-10-27T06:47:18Z"
+      "title": "El PP espera que Feijóo haga un relevo «a tiempo» de Mazón",
+      "subtitle": "En el partido dan por amortizado al 'president' y confían en que no les arrastre",
+      "url": "https://www.abc.es/espana/pp-espera-feijoo-haga-relevo-tiempo-mazon-20251028040253-nt.html",
+      "scraped_at": "2025-10-28T06:45:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "La periodista que comió con Mazón el día de la dana dice que la acompañó al parking",
-      "subtitle": "El presidente valenciano sostuvo que fue directo desde el restaurante al Palau de la Generalitat y desde allí, al Cecopi",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/periodista-comio-mazon-dia-dana-dice-acompano-20251026215840-nt.html",
-      "scraped_at": "2025-10-27T06:47:18Z"
+      "title": "María Guardiola abre la carrera electoral al convocar en Extremadura",
+      "subtitle": "La presidenta cumple su advertencia tras constatar que no tendrá Presupuestos e irá a las urnas el 21-D",
+      "url": "https://www.abc.es/espana/maria-guardiola-abre-carrera-electoral-convocar-extremadura-20251028210404-nt.html",
+      "scraped_at": "2025-10-28T06:45:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las historias detrás de los vídeos de la dana que nos sobrecogieron",
-      "subtitle": "Ríos de barro, personas aferradas a balcones, coches flotando... El desastre saltó de móvil en móvil a través de vídeos casi en tiempo real. Los protagonistas de algunas de aquellas grabaciones nos cuentan qué ocurrió después",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/historias-deja-dana-ano-despues-20251024125800-nt.html",
-      "scraped_at": "2025-10-27T06:47:19Z"
+      "title": "El día a día del hortelano Koldo: «Tengo que plantar más kiwis»",
+      "subtitle": "El exasesor de Ábalos vive en la provincia de Alicante cultivando",
+      "url": "https://www.abc.es/espana/koldo-garcia-nueva-vida-pitayas-fruta-pasion-20251027172916-nt.html",
+      "scraped_at": "2025-10-28T06:45:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cambio de hora hoy",
-      "subtitle": "El cambio busca un mejor aprovechamiento de la luz solar y un ahorro energético, aunque su efectividad ha sido cada vez más cuestionada",
-      "url": "https://www.abc.es/sociedad/cambio-hora-hoy-espana-hora-cambia-reloj-20251025170725-nt.html",
-      "scraped_at": "2025-10-27T06:47:19Z"
+      "title": "Betis - Atlético",
+      "subtitle": "Conoce a qué hora empieza el partido entre el Betis - Atlético de Madrid, y dónde ver en televisión y online el encuentro de hoy, 18 de octubre",
+      "url": "https://www.abc.es/deportes/atletico-madrid/betis-atletico-madrid-horario-canal-television-ver-20251027195512-nt.html",
+      "scraped_at": "2025-10-28T06:45:06Z"
     }
   ]
 }
