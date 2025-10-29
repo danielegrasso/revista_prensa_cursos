@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno ve margen para aguantar tras el nuevo portazo de Junts: \"Vamos a trabajar como siempre, votación a votación\", señalan en Moncloa, donde a priori no ven un cambio sustancial en la posición de Puigdemont, que tampoco había garantizado la estabilidad de la legislatura. Ya eran pesimistas respecto al apoyo de Junts a los Presupuestos y Sánchez quería seguir; Extremadura abre un nuevo ciclo electoral con el adelanto de sus comicios para el 21 de diciembre: Extremadura es la primera comunidad con un Gobierno en minoría del PP que cita a los ciudadanos con las urnas al no ser capaz de conseguir apoyos de Vox ni del PSOE a sus presupuestos para 2026; España se arriesga a perder hasta 1.400 millones de fondos europeos por retrasar la reforma de cuotas de los autónomos: Al ser un hito que afecta a una reforma fundamental para Bruselas, como es la sostenibilidad del sistema público de pensiones, la multa se multiplicaría por el mayor coeficiente, pudiendo ascender a 1.400 millones de euros. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-28T06:45:03Z",
+  "summary": "Resumen del día en elDiario.es: Feijóo calla sobre la gestión de Mazón en el primer aniversario de la dana e ignora sus normas para no abrir la sucesión: El líder del PP asegura que el president de la Generalitat responderá preguntas \"en la comisión de investigación en las Cortes Valencianas y en la del Senado\" y deja expresamente fuera la del Congreso, donde está citado el 17 de noviembre; Los migrantes regularizados por la dana temen perder sus papeles en unos meses: “Para nosotros todo es más difícil”: La regularización extraordinaria aprobada por el Gobierno para migrantes afectados de la dana concedió los papeles a 35.178 personas, pero el permiso tiene un año de vigencia. Según Oxfam Intermón, miles de beneficiarios pueden perder la autorización en \"pocos meses\" por no poder cumplir los requisitos de la renovación. Nilka y Yusset están entre ellas; El PP utiliza la comisión del Senado como un cajón de sastre contra el Gobierno: La investigación parlamentaria que se inició para indagar en los contratos de mascarillas suma ya 80 sesiones y 90 comparecientes sobre una amalgama de asuntos con \"conexión\" con Sánchez. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-29T06:45:13Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno ve margen para aguantar tras el nuevo portazo de Junts",
-      "subtitle": "\"Vamos a trabajar como siempre, votación a votación\", señalan en Moncloa, donde a priori no ven un cambio sustancial en la posición de Puigdemont, que tampoco había garantizado la estabilidad de la legislatura. Ya eran pesimistas respecto al apoyo de Junts a los Presupuestos y Sánchez quería seguir",
-      "url": "https://www.eldiario.es/politica/gobierno-ve-margen-aguantar-nuevo-portazo-junts_1_12719247.html",
-      "scraped_at": "2025-10-28T06:44:59Z"
+      "title": "Feijóo calla sobre la gestión de Mazón en el primer aniversario de la dana e ignora sus normas para no abrir la sucesión",
+      "subtitle": "El líder del PP asegura que el president de la Generalitat responderá preguntas \"en la comisión de investigación en las Cortes Valencianas y en la del Senado\" y deja expresamente fuera la del Congreso, donde está citado el 17 de noviembre",
+      "url": "https://www.eldiario.es/politica/feijoo-calla-gestion-mazon-primer-aniversario-dana-e-ignora-normas-no-abrir-sucesion_1_12722712.html",
+      "scraped_at": "2025-10-29T06:45:10Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Extremadura abre un nuevo ciclo electoral con el adelanto de sus comicios para el 21 de diciembre",
-      "subtitle": "Extremadura es la primera comunidad con un Gobierno en minoría del PP que cita a los ciudadanos con las urnas al no ser capaz de conseguir apoyos de Vox ni del PSOE a sus presupuestos para 2026",
-      "url": "https://www.eldiario.es/extremadura/politica/guardiola-adelanta-elecciones-extremadura-seran-21-diciembre_1_12717035.html",
-      "scraped_at": "2025-10-28T06:45:00Z"
+      "title": "Los migrantes regularizados por la dana temen perder sus papeles en unos meses: “Para nosotros todo es más difícil”",
+      "subtitle": "La regularización extraordinaria aprobada por el Gobierno para migrantes afectados de la dana concedió los papeles a 35.178 personas, pero el permiso tiene un año de vigencia. Según Oxfam Intermón, miles de beneficiarios pueden perder la autorización en \"pocos meses\" por no poder cumplir los requisitos de la renovación. Nilka y Yusset están entre ellas",
+      "url": "https://www.eldiario.es/desalambre/migrantes-regularizados-dana-temen-perder-papeles-meses-dificil_1_12722586.html",
+      "scraped_at": "2025-10-29T06:45:11Z"
     },
     {
       "source": "elDiario.es",
-      "title": "España se arriesga a perder hasta 1.400 millones de fondos europeos por retrasar la reforma de cuotas de los autónomos",
-      "subtitle": "Al ser un hito que afecta a una reforma fundamental para Bruselas, como es la sostenibilidad del sistema público de pensiones, la multa se multiplicaría por el mayor coeficiente, pudiendo ascender a 1.400 millones de euros",
-      "url": "https://www.eldiario.es/economia/espana-arriesga-perder-1-400-millones-fondos-europeos-retrasar-reforma-cuotas-autonomos_1_12718069.html",
-      "scraped_at": "2025-10-28T06:45:01Z"
+      "title": "El PP utiliza la comisión del Senado como un cajón de sastre contra el Gobierno",
+      "subtitle": "La investigación parlamentaria que se inició para indagar en los contratos de mascarillas suma ya 80 sesiones y 90 comparecientes sobre una amalgama de asuntos con \"conexión\" con Sánchez",
+      "url": "https://www.eldiario.es/politica/pp-utiliza-comision-senado-cajon-sastre-gobierno_1_12722814.html",
+      "scraped_at": "2025-10-29T06:45:11Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado amenaza a elDiario.es con una querella y exige 50.000 euros por una entrevista a Óscar Puente",
-      "subtitle": "El magistrado insta, a través de la abogada de la pareja de Ayuso, a un acto de conciliación contra el director del periódico y el ministro por una entrevista en la que Puente cargó contra su labor como instructor del caso",
-      "url": "https://www.eldiario.es/politica/juez-peinado-amenaza-eldiario-querella-exige-50-000-euros-entrevista-oscar-puente_1_12716728.html",
-      "scraped_at": "2025-10-28T06:45:02Z"
+      "title": "Netanyahu bombardea Gaza después de acusar a Hamás de violar el acuerdo",
+      "subtitle": "El primer ministro israelí ha ordenado \"bombardeos contundentes\" el martes por la tarde y los primeros ataques han tenido como objetivo Ciudad de Gaza. Una decena de palestinos han sido asesinados",
+      "url": "https://www.eldiario.es/internacional/netanyahu-ordena-bombardeos-contundentes-gaza-despues-acusar-hamas-violar-acuerdo_1_12722236.html",
+      "scraped_at": "2025-10-29T06:45:12Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Iván Ferreiro",
-      "subtitle": "El cantante celebra 35 años de carrera con la gira 'Hoy x ayer' y se pronuncia sobre los festivales financiados por el fondo vinculado con Israel KKR: \"Es una broma creer que porque no podemos romper nuestro contrato nos digas que somos hijos del mal\"",
-      "url": "https://www.eldiario.es/cultura/musica/ivan-ferreiro-odie-anos-80-escuche-amaral-concierto_1_12718823.html",
-      "scraped_at": "2025-10-28T06:45:03Z"
+      "title": "Huracán Melissa",
+      "subtitle": "Jamaica puede ser el lugar del Caribe con el peor escenario de cara a la llegada de este huracán, inicialmente de nivel 5, que ya había provocado en la isla tres muertes en los momentos previos a la llegada del ojo de la tormenta y otras tres en países cercanos",
+      "url": "https://www.eldiario.es/internacional/huracan-melissa-toca-tierra-isla-jamaica-vientos-297-kilometros-hora_1_12721636.html",
+      "scraped_at": "2025-10-29T06:45:13Z"
     }
   ]
 }

@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Junts deja a Sánchez con respiración asistida, pero evita matar la legislatura: Puigdemont abre la puerta a seguir votando con el PSOE en el Congreso en lo que beneficie a Cataluña. El final anunciado es sobre todo formal y de matiz. Lo más concreto: acabar los contactos en Suiza; Liechtenstein ofrece salarios de 8.000 euros y estos 400 españoles llevan décadas allí: El principado alpino acoge a una comunidad de gallegos desde finales de los años 70 que mantiene muy bien sus tradiciones. Hoy reciben a jóvenes españoles que viven en Suiza o Austria para trabajar en este rico micropaís; Laura Pausini revela en 'EH' su escatológico ritual antes de salir al escenario: La invitada fetiche de Pablo Motos volvió a desvelar todo tipo de anécdotas sobre su carrera profesional, entre ellas, la íntima tradición que comparte con los miembros de su equipo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-28T06:45:12Z",
+  "summary": "Resumen del día en El Confidencial: Feijóo y Abascal escenifican distancia con Mazón en su semana más difícil: \"Nos hace daño\": La presión política y social contra el presidente valenciano y las &quot;lagunas&quot; respecto a su paradero el 29-O reactivan las alarmas en el PP. Varios presidentes autonómicos, entre ellos Ayuso, no acudirán al funeral de Estado; Las cicatrices mentales de la dana: \"La vida ya no es igual, ves nubes y te echas a temblar\": Las huellas de la catástrofe están fuera, en la calle, pero también sangran por dentro; los valencianos afrontan los traumas de la destrucción y las ausencias de los 229 fallecidos; El nihilismo ha muerto: la cultura va a misa y los jóvenes abrazan la espiritualidad: Recientes expresiones artísticas como &#039;Los domingos&#039;, &#039;Lux&#039; o &#039;Sirat&#039;, que exploran cierto misticismo, reflejan que frente a las ideologías hay una búsqueda de lo esencial en el cristianismo más humanista. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-29T06:45:20Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Junts deja a Sánchez con respiración asistida, pero evita matar la legislatura",
-      "subtitle": "Puigdemont abre la puerta a seguir votando con el PSOE en el Congreso en lo que beneficie a Cataluña. El final anunciado es sobre todo formal y de matiz. Lo más concreto: acabar los contactos en Suiza",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-10-28/junts-deja-sanchez-respiracion-asistida-sentenciar_4236534/",
-      "scraped_at": "2025-10-28T06:45:10Z"
+      "title": "Feijóo y Abascal escenifican distancia con Mazón en su semana más difícil: \"Nos hace daño\"",
+      "subtitle": "La presión política y social contra el presidente valenciano y las &quot;lagunas&quot; respecto a su paradero el 29-O reactivan las alarmas en el PP. Varios presidentes autonómicos, entre ellos Ayuso, no acudirán al funeral de Estado",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-29/feijoo-abascal-distancia-mazon-aniversario-dana_4237083/",
+      "scraped_at": "2025-10-29T06:45:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Liechtenstein ofrece salarios de 8.000 euros y estos 400 españoles llevan décadas allí",
-      "subtitle": "El principado alpino acoge a una comunidad de gallegos desde finales de los años 70 que mantiene muy bien sus tradiciones. Hoy reciben a jóvenes españoles que viven en Suiza o Austria para trabajar en este rico micropaís",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-28/espanoles-emigrantes-trabajo-liechtenstein_4236092/",
-      "scraped_at": "2025-10-28T06:45:11Z"
+      "title": "Las cicatrices mentales de la dana: \"La vida ya no es igual, ves nubes y te echas a temblar\"",
+      "subtitle": "Las huellas de la catástrofe están fuera, en la calle, pero también sangran por dentro; los valencianos afrontan los traumas de la destrucción y las ausencias de los 229 fallecidos",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-29/cicatrices-mentales-dana-vida_4234878/",
+      "scraped_at": "2025-10-29T06:45:19Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Laura Pausini revela en 'EH' su escatológico ritual antes de salir al escenario",
-      "subtitle": "La invitada fetiche de Pablo Motos volvió a desvelar todo tipo de anécdotas sobre su carrera profesional, entre ellas, la íntima tradición que comparte con los miembros de su equipo",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-10-27/laura-pausini-el-hormiguero-ritual-salir-escenario-contar-esto_4236579/",
-      "scraped_at": "2025-10-28T06:45:12Z"
+      "title": "El nihilismo ha muerto: la cultura va a misa y los jóvenes abrazan la espiritualidad",
+      "subtitle": "Recientes expresiones artísticas como &#039;Los domingos&#039;, &#039;Lux&#039; o &#039;Sirat&#039;, que exploran cierto misticismo, reflejan que frente a las ideologías hay una búsqueda de lo esencial en el cristianismo más humanista",
+      "url": "https://www.elconfidencial.com/cultura/2025-10-29/nihilismo-muerte-cultura-misa-jovenes-espiritualidad_4236714/",
+      "scraped_at": "2025-10-29T06:45:20Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "De Maribel Vilaplana al general Gan, los actores de reparto marcan el guion",
+      "subtitle": "La larga comida de Mazón con la comunicadora, la instrucción judicial de la jueza de Catarroja o la salida por la puerta de atrás del exmilitar decoran un aniversario con las víctimas en un plano discreto. Hoy es su funeral",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-29/vilaplana-gan-pampols-pulso-guion-dana-un-ano_4236733/",
+      "scraped_at": "2025-10-29T06:45:20Z"
     }
   ]
 }

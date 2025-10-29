@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Vox capitaliza la caída del PP por la dana y quita siete escaños a Mazón: Compromís sube los cuatro escaños que se deja el PSOE respecto al 2023 y la derecha mantiene su mayoría; El PP espera que Feijóo haga un relevo «a tiempo» de Mazón: En el partido dan por amortizado al 'president' y confían en que no les arrastre; María Guardiola abre la carrera electoral al convocar en Extremadura: La presidenta cumple su advertencia tras constatar que no tendrá Presupuestos e irá a las urnas el 21-D. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-28T06:45:06Z",
+  "summary": "Resumen del día en ABC.es: La irregular reunión del Gobierno: en el búnker de Moncloa, sin actas y sin la jefa de Seguridad Nacional: Presidencia inventó un comité de crisis solo con cargos socialistas en vez de convocar a los órganos competentes; Moncloa aislará a las autoridades del público en el funeral de la dana: El blindaje policial impedirá el contacto con las personas que puedan acercarse al recinto; El PSOE cuestiona la candidatura de Diana Morant a la Generalitat: Crece la preocupación por no rentabilizar el desgaste de Mazón y en el partido creen que su liderazgo «no tira». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-10-29T06:45:15Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Vox capitaliza la caída del PP por la dana y quita siete escaños a Mazón",
-      "subtitle": "Compromís sube los cuatro escaños que se deja el PSOE respecto al 2023 y la derecha mantiene su mayoría",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/vox-capitaliza-caida-pp-dana-quita-siete-20251028183357-nt.html",
-      "scraped_at": "2025-10-28T06:45:04Z"
+      "title": "La irregular reunión del Gobierno: en el búnker de Moncloa, sin actas y sin la jefa de Seguridad Nacional",
+      "subtitle": "Presidencia inventó un comité de crisis solo con cargos socialistas en vez de convocar a los órganos competentes",
+      "url": "https://www.abc.es/espana/irregular-reunion-gobierno-bunker-moncloa-actas-jefa-20251029042537-nt.html",
+      "scraped_at": "2025-10-29T06:45:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP espera que Feijóo haga un relevo «a tiempo» de Mazón",
-      "subtitle": "En el partido dan por amortizado al 'president' y confían en que no les arrastre",
-      "url": "https://www.abc.es/espana/pp-espera-feijoo-haga-relevo-tiempo-mazon-20251028040253-nt.html",
-      "scraped_at": "2025-10-28T06:45:05Z"
+      "title": "Moncloa aislará a las autoridades del público en el funeral de la dana",
+      "subtitle": "El blindaje policial impedirá el contacto con las personas que puedan acercarse al recinto",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/moncloa-aislara-autoridades-publico-funeral-dana-20251029220554-nt.html",
+      "scraped_at": "2025-10-29T06:45:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "María Guardiola abre la carrera electoral al convocar en Extremadura",
-      "subtitle": "La presidenta cumple su advertencia tras constatar que no tendrá Presupuestos e irá a las urnas el 21-D",
-      "url": "https://www.abc.es/espana/maria-guardiola-abre-carrera-electoral-convocar-extremadura-20251028210404-nt.html",
-      "scraped_at": "2025-10-28T06:45:05Z"
+      "title": "El PSOE cuestiona la candidatura de Diana Morant a la Generalitat",
+      "subtitle": "Crece la preocupación por no rentabilizar el desgaste de Mazón y en el partido creen que su liderazgo «no tira»",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/psoe-cuestiona-candidatura-diana-morant-generalitat-20251029042834-nt.html",
+      "scraped_at": "2025-10-29T06:45:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "El día a día del hortelano Koldo: «Tengo que plantar más kiwis»",
-      "subtitle": "El exasesor de Ábalos vive en la provincia de Alicante cultivando",
-      "url": "https://www.abc.es/espana/koldo-garcia-nueva-vida-pitayas-fruta-pasion-20251027172916-nt.html",
-      "scraped_at": "2025-10-28T06:45:06Z"
+      "title": "IN MEMORIAM",
+      "subtitle": "Vidas rotas por la dana: consulta el muro homenaje con el nombre todas las víctimas que dejó el temporal en España, afectando fundamentalmente a Valencia, Castilla - La M",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/vidas-rotas-dana-20251028124400-nt.html",
+      "scraped_at": "2025-10-29T06:45:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Betis - Atlético",
-      "subtitle": "Conoce a qué hora empieza el partido entre el Betis - Atlético de Madrid, y dónde ver en televisión y online el encuentro de hoy, 18 de octubre",
-      "url": "https://www.abc.es/deportes/atletico-madrid/betis-atletico-madrid-horario-canal-television-ver-20251027195512-nt.html",
-      "scraped_at": "2025-10-28T06:45:06Z"
+      "title": "Dónde ver Alcaraz - Norrie",
+      "subtitle": "Conoce a qué hora debuta Carlos Alcaraz en el Masters 1.000 de París ante Cameron Norrie y dónde ver el partido del torneo online hoy",
+      "url": "https://www.abc.es/deportes/tenis/donde-ver-online-television-carlos-alcaraz-hoy-partido-norrie-paris-20251028051500-nt.html",
+      "scraped_at": "2025-10-29T06:45:15Z"
     }
   ]
 }
