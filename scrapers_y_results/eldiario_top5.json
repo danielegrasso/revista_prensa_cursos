@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Feijóo calla sobre la gestión de Mazón en el primer aniversario de la dana e ignora sus normas para no abrir la sucesión: El líder del PP asegura que el president de la Generalitat responderá preguntas \"en la comisión de investigación en las Cortes Valencianas y en la del Senado\" y deja expresamente fuera la del Congreso, donde está citado el 17 de noviembre; Los migrantes regularizados por la dana temen perder sus papeles en unos meses: “Para nosotros todo es más difícil”: La regularización extraordinaria aprobada por el Gobierno para migrantes afectados de la dana concedió los papeles a 35.178 personas, pero el permiso tiene un año de vigencia. Según Oxfam Intermón, miles de beneficiarios pueden perder la autorización en \"pocos meses\" por no poder cumplir los requisitos de la renovación. Nilka y Yusset están entre ellas; El PP utiliza la comisión del Senado como un cajón de sastre contra el Gobierno: La investigación parlamentaria que se inició para indagar en los contratos de mascarillas suma ya 80 sesiones y 90 comparecientes sobre una amalgama de asuntos con \"conexión\" con Sánchez. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-29T06:45:13Z",
+  "summary": "Resumen del día en elDiario.es: Cuando la palabra 'Mazón' es como un insulto: El PP persiste en la ficción de que si no habla de Mazón, se olvidará que Feijóo decidió mantenerle en el poder a pesar de su conducta negligente el día de la tragedia y que ha quedado confirmada en la investigación judicial; Sánchez afronta la comparecencia en el Senado consciente de que se la juega en “terreno difícil”: La euforia que emitió Moncloa cuando Feijóo anunció la citación del presidente a la comisión de investigación del Senado se ha disipado y el presidente se ha preparado a conciencia argumentos jurídicos ante una sesión controlada por el PP. “Corremos el riesgo de que la imagen sea terrible, pero la verdad te asiste”, señalan en el Gobierno; El “asalto” a la universidad pública de Ayuso: da el control de las cuentas a excargos del PP y empresarios: La ley universitaria de Madrid otorga la potestad última de aprobar cada gasto, por encima de rectores y gerentes, a una Oficina Económica controlada por el Consejo Social, que a su vez depende del Ejecutivo regional; Marhuenda o Mayor Oreja son algunos de los elegidos por Ayuso para presidir estos entes. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-10-30T06:42:46Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Feijóo calla sobre la gestión de Mazón en el primer aniversario de la dana e ignora sus normas para no abrir la sucesión",
-      "subtitle": "El líder del PP asegura que el president de la Generalitat responderá preguntas \"en la comisión de investigación en las Cortes Valencianas y en la del Senado\" y deja expresamente fuera la del Congreso, donde está citado el 17 de noviembre",
-      "url": "https://www.eldiario.es/politica/feijoo-calla-gestion-mazon-primer-aniversario-dana-e-ignora-normas-no-abrir-sucesion_1_12722712.html",
-      "scraped_at": "2025-10-29T06:45:10Z"
+      "title": "Cuando la palabra 'Mazón' es como un insulto",
+      "subtitle": "El PP persiste en la ficción de que si no habla de Mazón, se olvidará que Feijóo decidió mantenerle en el poder a pesar de su conducta negligente el día de la tragedia y que ha quedado confirmada en la investigación judicial",
+      "url": "https://www.eldiario.es/politica/palabra-mazon-insulto_129_12725159.html",
+      "scraped_at": "2025-10-30T06:42:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Los migrantes regularizados por la dana temen perder sus papeles en unos meses: “Para nosotros todo es más difícil”",
-      "subtitle": "La regularización extraordinaria aprobada por el Gobierno para migrantes afectados de la dana concedió los papeles a 35.178 personas, pero el permiso tiene un año de vigencia. Según Oxfam Intermón, miles de beneficiarios pueden perder la autorización en \"pocos meses\" por no poder cumplir los requisitos de la renovación. Nilka y Yusset están entre ellas",
-      "url": "https://www.eldiario.es/desalambre/migrantes-regularizados-dana-temen-perder-papeles-meses-dificil_1_12722586.html",
-      "scraped_at": "2025-10-29T06:45:11Z"
+      "title": "Sánchez afronta la comparecencia en el Senado consciente de que se la juega en “terreno difícil”",
+      "subtitle": "La euforia que emitió Moncloa cuando Feijóo anunció la citación del presidente a la comisión de investigación del Senado se ha disipado y el presidente se ha preparado a conciencia argumentos jurídicos ante una sesión controlada por el PP. “Corremos el riesgo de que la imagen sea terrible, pero la verdad te asiste”, señalan en el Gobierno",
+      "url": "https://www.eldiario.es/politica/sanchez-afronta-comparecencia-senado-consciente-juega-terreno-dificil_1_12724235.html",
+      "scraped_at": "2025-10-30T06:42:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP utiliza la comisión del Senado como un cajón de sastre contra el Gobierno",
-      "subtitle": "La investigación parlamentaria que se inició para indagar en los contratos de mascarillas suma ya 80 sesiones y 90 comparecientes sobre una amalgama de asuntos con \"conexión\" con Sánchez",
-      "url": "https://www.eldiario.es/politica/pp-utiliza-comision-senado-cajon-sastre-gobierno_1_12722814.html",
-      "scraped_at": "2025-10-29T06:45:11Z"
+      "title": "El “asalto” a la universidad pública de Ayuso: da el control de las cuentas a excargos del PP y empresarios",
+      "subtitle": "La ley universitaria de Madrid otorga la potestad última de aprobar cada gasto, por encima de rectores y gerentes, a una Oficina Económica controlada por el Consejo Social, que a su vez depende del Ejecutivo regional; Marhuenda o Mayor Oreja son algunos de los elegidos por Ayuso para presidir estos entes",
+      "url": "https://www.eldiario.es/sociedad/asalto-universidad-publica-ayuso-da-control-cuentas-excargos-pp-empresarios_1_12724089.html",
+      "scraped_at": "2025-10-30T06:42:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Netanyahu bombardea Gaza después de acusar a Hamás de violar el acuerdo",
-      "subtitle": "El primer ministro israelí ha ordenado \"bombardeos contundentes\" el martes por la tarde y los primeros ataques han tenido como objetivo Ciudad de Gaza. Una decena de palestinos han sido asesinados",
-      "url": "https://www.eldiario.es/internacional/netanyahu-ordena-bombardeos-contundentes-gaza-despues-acusar-hamas-violar-acuerdo_1_12722236.html",
-      "scraped_at": "2025-10-29T06:45:12Z"
+      "title": "Trump ordena realizar “inmediatamente” ensayos con armas nucleares por primera vez en 33 años",
+      "subtitle": "\"A consecuencia de los programas de pruebas de otros países, he ordenado al Departamento de Guerra que inicie las pruebas de nuestras armas nucleares en condiciones de igualdad\", ha dicho el presidente de EEUU en alusión a Rusia y China. El último ensayo de armamento nuclear estadounidense fue en 1992, en Nevada",
+      "url": "https://www.eldiario.es/internacional/trump-ordena-realizar-inmediatamente-ensayos-armas-nucleares_1_12726749.html",
+      "scraped_at": "2025-10-30T06:42:45Z"
     },
     {
       "source": "elDiario.es",
       "title": "Huracán Melissa",
-      "subtitle": "Jamaica puede ser el lugar del Caribe con el peor escenario de cara a la llegada de este huracán, inicialmente de nivel 5, que ya había provocado en la isla tres muertes en los momentos previos a la llegada del ojo de la tormenta y otras tres en países cercanos",
-      "url": "https://www.eldiario.es/internacional/huracan-melissa-toca-tierra-isla-jamaica-vientos-297-kilometros-hora_1_12721636.html",
-      "scraped_at": "2025-10-29T06:45:13Z"
+      "subtitle": "El Gobierno cubano ha evacuado a más de 750.000 residentes. Jamaica ha registrado también inundaciones generalizadas, daños en infraestructuras, cortes de luz y hospitales afectados, y el temporal deja 5.000 refugiados y 500.000 residentes sin electricidad",
+      "url": "https://www.eldiario.es/internacional/jamaica-declara-pais-zona-catastrofica-paso-huracan-melissa-dirige-cuba_1_12723224.html",
+      "scraped_at": "2025-10-30T06:42:46Z"
     }
   ]
 }
