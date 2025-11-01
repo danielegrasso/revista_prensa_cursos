@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Moncloa impuso a Montero un comité de crisis de la dana en el búnker sin actas y solo con políticos del PSOE: La vicepresidenta no decidió nada sobre el órgano y se limitó a presidir una reunión que le vino organizada; Los otros responsables: Estando clara la responsabilidad inmediata de la Generalitat, el Gobierno central pretende liberarse de la suya ocultándose tras la rabia y el descontento que despierta Carlos Mazón; El Rey pide rigor para «evitar que se repita»: Don Felipe y Doña Letizia presiden el funeral de Estado en Valencia, marcado por el dolor de los familiares de las víctimas de la dana, el aislamiento de Mazón y la crispación política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-10-30T06:42:48Z",
+  "summary": "Resumen del día en ABC.es: La izquierda evita condenar la vuelta de la 'kale borroka' a las calles de Pamplona: Los disturbios del jueves dejaron seis heridos, entre ellos cuatro policías y un periodista de 'El Español' al que apalearon en grupo; El Gran Museo Egipcio: la mayor colección faraónica con nuevas piezas y el gran tesoro de Tutankamón: Situado al lado de las pirámides de Giza, el Gran Museo Egipcio se inaugura hoy, tras mil millones de inversión; La ONU vota a favor de la soberanía marroquí sobre el Sahara Occidental: El Consejo de Seguridad da un apoyo histórico al cuestionado «plan de autonomía» presentado por Rabat. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-01T06:37:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Moncloa impuso a Montero un comité de crisis de la dana en el búnker sin actas y solo con políticos del PSOE",
-      "subtitle": "La vicepresidenta no decidió nada sobre el órgano y se limitó a presidir una reunión que le vino organizada",
-      "url": "https://www.abc.es/espana/moncloa-impuso-montero-comite-crisis-dana-bunker-20251030040909-nt.html",
-      "scraped_at": "2025-10-30T06:42:47Z"
+      "title": "La izquierda evita condenar la vuelta de la 'kale borroka' a las calles de Pamplona",
+      "subtitle": "Los disturbios del jueves dejaron seis heridos, entre ellos cuatro policías y un periodista de 'El Español' al que apalearon en grupo",
+      "url": "https://www.abc.es/espana/navarra/izquierda-evita-condenar-vuelta-kale-borroka-calles-20251101042622-nt.html",
+      "scraped_at": "2025-11-01T06:37:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los otros responsables",
-      "subtitle": "Estando clara la responsabilidad inmediata de la Generalitat, el Gobierno central pretende liberarse de la suya ocultándose tras la rabia y el descontento que despierta Carlos Mazón",
-      "url": "https://www.abc.es/opinion/editorial-responsables-20251030190237-nt.html",
-      "scraped_at": "2025-10-30T06:42:47Z"
+      "title": "El Gran Museo Egipcio: la mayor colección faraónica con nuevas piezas y el gran tesoro de Tutankamón",
+      "subtitle": "Situado al lado de las pirámides de Giza, el Gran Museo Egipcio se inaugura hoy, tras mil millones de inversión",
+      "url": "https://www.abc.es/cultura/abre-gran-museo-egipcio-referente-piezas-desconocidas-20251101130424-nt.html",
+      "scraped_at": "2025-11-01T06:37:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Rey pide rigor para «evitar que se repita»",
-      "subtitle": "Don Felipe y Doña Letizia presiden el funeral de Estado en Valencia, marcado por el dolor de los familiares de las víctimas de la dana, el aislamiento de Mazón y la crispación política",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/funeral-estado-victimas-dana-valencia-20251029164522-nt.html",
-      "scraped_at": "2025-10-30T06:42:48Z"
+      "title": "La ONU vota a favor de la soberanía marroquí sobre el Sahara Occidental",
+      "subtitle": "El Consejo de Seguridad da un apoyo histórico al cuestionado «plan de autonomía» presentado por Rabat",
+      "url": "https://www.abc.es/internacional/onu-vota-favor-soberania-marroqui-sobre-sahara-20251031203952-nt.html",
+      "scraped_at": "2025-11-01T06:37:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP estrechará hoy el cerco a Sánchez con un interrogatorio de cientos de preguntas",
-      "subtitle": "El presidente espera una sesión «muy dura y muy sucia» y en su entorno le aconsejan «mucha calma»",
-      "url": "https://www.abc.es/espana/pp-estrechara-cerco-sanchez-interrogatorio-cientos-preguntas-20251030041138-nt.html",
-      "scraped_at": "2025-10-30T06:42:48Z"
+      "title": "Resistir a las bombas rusas en el Donbás: «Así no se puede vivir»",
+      "subtitle": "El horror se intensifica en Kramatorsk mientras los misiles y drones rusos complican la vida de los civiles",
+      "url": "https://www.abc.es/internacional/resistir-bombas-rusas-donbas-puede-vivir-20251101201105-nt.html",
+      "scraped_at": "2025-11-01T06:37:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "Carlos Mazón",
-      "subtitle": "Sigue en directo la declaración institucional de Carlos Mazón en el primer aniversario de la tragedia de la Dana en Valencia, con la última hora de su comparecencia en el Palau de la Generalitat hoy",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/declaracion-institucional-carlos-mazon-ano-despues-dana-20251029093834-di.html",
-      "scraped_at": "2025-10-30T06:42:48Z"
+      "title": "Vivienda",
+      "subtitle": "Vitoria y Bilbao siguen la estela de San Sebastián y también aplicarán el tope al precio de los alquileres",
+      "url": "https://www.abc.es/economia/compraventa-vivienda-empieza-tocar-techo-apunta-saturacion-20251030175023-nt.html",
+      "scraped_at": "2025-11-01T06:37:39Z"
     }
   ]
 }

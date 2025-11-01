@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los 25 \"no me consta\" y 7 contradicciones de Sánchez en el Senado por sus nexos con la trama Koldo: Después de 8 años como secretario general del PSOE, Sánchez afirmó que no conocía la ubicación del despacho del gerente, y califica de &quot;anecdótica&quot; su relación con Koldo, que custodió sus avales y al que conoce desde 2014; El Supremo revoluciona el uso de la inteligencia artificial por la Administración: Una sentencia del TS que convierte en un derecho subjetivo el acceso a la información en poder de la Administración cuando utiliza la inteligencia artificial, ha puesto patas arriba las relaciones del Estado con los administrados; De un euro a 750.000 euros, el loco mercado de los traspasos de negocios en Wallapop: Algunos anuncios de traspasos ocultan o falsean la información de los negocios. Se exponen todo tipo de empresas sin ni siquiera decir su nombre o ubicación exacta. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-10-31T06:43:45Z",
+  "summary": "Resumen del día en El Confidencial: El Supremo pone contra las cuerdas la financiación del PSOE y el testimonio de Pedro Sánchez: El juez sospecha que una parte de las comisiones irregulares acabó en el partido y que al menos Ábalos las cobraba blanqueadas como devoluciones de abonos que había adelantado en concepto de gastos; Malestar con Sánchez por exponer al Rey en China, socio de Putin y rival de Trump: Zarzuela observa las posibles derivadas, mientras círculos diplomáticos critican un viaje por el que el Gobierno ha mostrado &quot;gran interés&quot;. Bruselas también dedica cierta atención, en plena redefinición de las relaciones comerciales con Pekín; Los 'wokes' han reinventado el plato combinado y ahora es todo un éxito: Varias cadenas de restaurantes &#039;eco&#039; han puesto de moda las comidas modelo Harvard. Apuestan por platos únicos que combinan verduras, hidratos y proteínas y no paran de ganar adeptos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-01T06:37:45Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los 25 \"no me consta\" y 7 contradicciones de Sánchez en el Senado por sus nexos con la trama Koldo",
-      "subtitle": "Después de 8 años como secretario general del PSOE, Sánchez afirmó que no conocía la ubicación del despacho del gerente, y califica de &quot;anecdótica&quot; su relación con Koldo, que custodió sus avales y al que conoce desde 2014",
-      "url": "https://www.elconfidencial.com/espana/2025-10-31/contradicciones-sanchez-mentiras-senado-koldo-no-me-consta_4238739/",
-      "scraped_at": "2025-10-31T06:43:42Z"
+      "title": "El Supremo pone contra las cuerdas la financiación del PSOE y el testimonio de Pedro Sánchez",
+      "subtitle": "El juez sospecha que una parte de las comisiones irregulares acabó en el partido y que al menos Ábalos las cobraba blanqueadas como devoluciones de abonos que había adelantado en concepto de gastos",
+      "url": "https://www.elconfidencial.com/espana/2025-11-01/supremo-pone-contra-las-cuerdas-psoe-declaracion-sanchez-senado_4239395/",
+      "scraped_at": "2025-11-01T06:37:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Supremo revoluciona el uso de la inteligencia artificial por la Administración",
-      "subtitle": "Una sentencia del TS que convierte en un derecho subjetivo el acceso a la información en poder de la Administración cuando utiliza la inteligencia artificial, ha puesto patas arriba las relaciones del Estado con los administrados",
-      "url": "https://www.elconfidencial.com/economia/2025-10-31/algoritmos-transparencia-sentencia-tribunal-supremo_4237071/",
-      "scraped_at": "2025-10-31T06:43:43Z"
+      "title": "Malestar con Sánchez por exponer al Rey en China, socio de Putin y rival de Trump",
+      "subtitle": "Zarzuela observa las posibles derivadas, mientras círculos diplomáticos critican un viaje por el que el Gobierno ha mostrado &quot;gran interés&quot;. Bruselas también dedica cierta atención, en plena redefinición de las relaciones comerciales con Pekín",
+      "url": "https://www.elconfidencial.com/espana/2025-11-01/malestar-sanchez-exponga-rey-viaje-china-actual-escenario-mundial_4239535/",
+      "scraped_at": "2025-11-01T06:37:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "De un euro a 750.000 euros, el loco mercado de los traspasos de negocios en Wallapop",
-      "subtitle": "Algunos anuncios de traspasos ocultan o falsean la información de los negocios. Se exponen todo tipo de empresas sin ni siquiera decir su nombre o ubicación exacta",
-      "url": "https://www.elconfidencial.com/economia/2025-10-31/mercado-traspasos-negocios-wallapop_4238624/",
-      "scraped_at": "2025-10-31T06:43:44Z"
+      "title": "Los 'wokes' han reinventado el plato combinado y ahora es todo un éxito",
+      "subtitle": "Varias cadenas de restaurantes &#039;eco&#039; han puesto de moda las comidas modelo Harvard. Apuestan por platos únicos que combinan verduras, hidratos y proteínas y no paran de ganar adeptos",
+      "url": "https://www.elconfidencial.com/economia/2025-11-01/platos-combinados-woke-moda-espana-ecologico_4237627/",
+      "scraped_at": "2025-11-01T06:37:45Z"
     },
     {
       "source": "El Confidencial",
-      "title": "2.000 asesinados en tres días: la guerra más violenta del mundo se vive en Sudán",
-      "subtitle": "Mientras la violencia y el hambre arrasan Sudán, la ayuda internacional fracasa y solo la solidaridad local sostiene a millones de personas atrapadas en ciudades sitiadas y rutas controladas por milicias",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-31/guerra-sudan-hambre-desplazados-ayuda-1hms_4237561/",
-      "scraped_at": "2025-10-31T06:43:44Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "¿Un pacto histórico o más de lo mismo? Cinco claves tras el acuerdo entre Trump y Xi Jinping",
-      "subtitle": "La Casa Blanca lo ha presentado como &quot;un acuerdo increíble&quot;; Pekín, como una &quot;pausa constructiva”. La descripción china se ajusta más a la realidad",
-      "url": "https://www.elconfidencial.com/mundo/2025-10-30/un-pacto-historico-o-mas-de-lo-mismo-cinco-claves-tras-el-acuerdo-entre-trump-y-xi_4238427/",
-      "scraped_at": "2025-10-31T06:43:45Z"
+      "title": "Biblioteca Madrid",
+      "subtitle": "La biblioteca del Museo Nacional del Prado acoge una amplia representación de las obras y artistas que copan las principales salas de la famosa pinacoteca, con más de 16.000 monografías y 1.300 publicaciones periódicas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2025-10-31/biblioteca-madrid-frescos-cupula-luca-giordano_4239201/",
+      "scraped_at": "2025-11-01T06:37:45Z"
     }
   ]
 }
