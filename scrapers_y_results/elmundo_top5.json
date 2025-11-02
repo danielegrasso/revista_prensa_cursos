@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La Justicia impulsa la investigación por \"blanqueo\" con los sobres del PSOE con el foco en el \"origen del dinero en metálico\": El juez Puente aprecia indicios de delito en el descontrol de las finanzas de Ferraz y corresponderá a la Audiencia Nacional investigar si hubo financiación ilegal; Las 72 horas en las que el PSOE se despeñó con el ex gerente y Sánchez hasta quedar bajo sospecha en la Audiencia: Las cuentas de Ferraz, las testificales del ex gerente y la trabajadora del partido y la cita del presidente del Gobierno en el Senado acaban en una investigación; María Caballero, la senadora de UPN que preguntó a Sánchez: \"El presidente no es libre para poder hablar y contestar la verdad rotunda\": Cree \"imposible\" que el jefe del Ejecutivo no supiera lo que hacía Ábalos y dice que su comparecencia en el Senado \"afianzó más dudas\" en el caso. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-01T06:37:33Z",
+  "summary": "Resumen del día en El Mundo: El dilema de Carlos Mazón: La atmósfera es insostenible y es difícil que sea suficiente con anunciar que no se presentará a las próximas elecciones.; En el campamento donde se forjó la 'manada' argelina de Pamplona entre basura, hachis y bicis robadas: Los cuatro detenidos por la violación de una joven entraron en prisión después de que se hallara la ropa interior de ella junto a sus tiendas de campaña. El caso ha destapado un incremento de las violaciones de un 77% y un problema incontrolado de asentamientos ilegales; Secuencia de una filtración que ha llevado al banquillo al fiscal general: 12 horas para ganar \"el relato\" contra Ayuso: La noticia de EL MUNDO el 13 de marzo activó una respuesta frenética de García Ortiz por la que se le juzgará desde este lunes. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-02T06:39:41Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La Justicia impulsa la investigación por \"blanqueo\" con los sobres del PSOE con el foco en el \"origen del dinero en metálico\"",
+      "title": "El dilema de Carlos Mazón",
+      "subtitle": "La atmósfera es insostenible y es difícil que sea suficiente con anunciar que no se presentará a las próximas elecciones.",
+      "url": "https://www.elmundo.es/opinion/2025/11/01/69065955fc6c83921d8b45af.html",
+      "scraped_at": "2025-11-02T06:39:40Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "En el campamento donde se forjó la 'manada' argelina de Pamplona entre basura, hachis y bicis robadas",
+      "subtitle": "Los cuatro detenidos por la violación de una joven entraron en prisión después de que se hallara la ropa interior de ella junto a sus tiendas de campaña. El caso ha destapado un incremento de las violaciones de un 77% y un problema incontrolado de asentamientos ilegales",
+      "url": "https://www.elmundo.es/cronica/2025/11/01/6906272fe85eceb6688b458c.html",
+      "scraped_at": "2025-11-02T06:39:40Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Secuencia de una filtración que ha llevado al banquillo al fiscal general: 12 horas para ganar \"el relato\" contra Ayuso",
+      "subtitle": "La noticia de EL MUNDO el 13 de marzo activó una respuesta frenética de García Ortiz por la que se le juzgará desde este lunes",
+      "url": "https://www.elmundo.es/espana/2025/11/01/69063863e85ece99478b458c.html",
+      "scraped_at": "2025-11-02T06:39:40Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "El decano de la Abogacía de Madrid que pide cuatro años de cárcel para García Ortiz: \"La gravedad reside en el rango institucional del implicado, máximo garante de la legalidad\"",
+      "subtitle": "\"Se trata de un hecho anómalo y sin precedentes\", dice sobre el juicio al fiscal general del Estado. \"Hubiéramos actuado igual con alguien de signo político opuesto\", afirma",
+      "url": "https://www.elmundo.es/espana/2025/11/02/6905f705e9cf4a01068b456e.html",
+      "scraped_at": "2025-11-02T06:39:41Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Blanqueo sobres PSOE",
       "subtitle": "El juez Puente aprecia indicios de delito en el descontrol de las finanzas de Ferraz y corresponderá a la Audiencia Nacional investigar si hubo financiación ilegal",
       "url": "https://www.elmundo.es/espana/2025/10/31/6904fc97e85ece6b238b457d.html",
-      "scraped_at": "2025-11-01T06:37:32Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Las 72 horas en las que el PSOE se despeñó con el ex gerente y Sánchez hasta quedar bajo sospecha en la Audiencia",
-      "subtitle": "Las cuentas de Ferraz, las testificales del ex gerente y la trabajadora del partido y la cita del presidente del Gobierno en el Senado acaban en una investigación",
-      "url": "https://www.elmundo.es/espana/2025/11/01/6904fcb9e85ece287d8b4589.html",
-      "scraped_at": "2025-11-01T06:37:33Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "María Caballero, la senadora de UPN que preguntó a Sánchez: \"El presidente no es libre para poder hablar y contestar la verdad rotunda\"",
-      "subtitle": "Cree \"imposible\" que el jefe del Ejecutivo no supiera lo que hacía Ábalos y dice que su comparecencia en el Senado \"afianzó más dudas\" en el caso",
-      "url": "https://www.elmundo.es/espana/2025/11/01/690517b6e85ece99478b457b.html",
-      "scraped_at": "2025-11-01T06:37:33Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Críticos de Gallardo intentaron forzar en el Comité Extraordinario su renuncia como candidato del PSOE",
-      "subtitle": "A puerta cerrada y encabezados por el presidente de la Diputación de Cáceres, Miguel Ángel Morales, le pidieron su renuncia, que no valoró en ningún momento",
-      "url": "https://www.elmundo.es/espana/2025/10/31/6904de11e85eceff488b4578.html",
-      "scraped_at": "2025-11-01T06:37:33Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Vajillas de La Cartuja",
-      "subtitle": "La primera pieza que salió de la fábrica de La Cartuja de Sevilla fue un palanganero (conjunto de jarra y palangana para el aseo) que lucía ya el característico diseño que se...",
-      "url": "https://www.elmundo.es/andalucia/2025/10/31/6904d229e85ece00498b4573.html",
-      "scraped_at": "2025-11-01T06:37:33Z"
+      "scraped_at": "2025-11-02T06:39:41Z"
     }
   ]
 }

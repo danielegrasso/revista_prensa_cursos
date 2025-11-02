@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La izquierda evita condenar la vuelta de la 'kale borroka' a las calles de Pamplona: Los disturbios del jueves dejaron seis heridos, entre ellos cuatro policías y un periodista de 'El Español' al que apalearon en grupo; El Gran Museo Egipcio: la mayor colección faraónica con nuevas piezas y el gran tesoro de Tutankamón: Situado al lado de las pirámides de Giza, el Gran Museo Egipcio se inaugura hoy, tras mil millones de inversión; La ONU vota a favor de la soberanía marroquí sobre el Sahara Occidental: El Consejo de Seguridad da un apoyo histórico al cuestionado «plan de autonomía» presentado por Rabat. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-01T06:37:39Z",
+  "summary": "Resumen del día en ABC.es: Feijóo medita entre convocar ya elecciones en Valencia o elegir un sucesor a Mazón: El presidente autonómico dedica el fin de semana a decidir su futuro inmediato. Feijóo volvió del funeral de la dana convencido de que Mazón ya ha aceptado su situación irreversible; La causa judicial de la dana entra en El Ventorro y deja al PP en vilo: La testifical de la periodista que comió con Mazón este lunes «sólo puede salir mal», aseveran desde la formación; Sánchez y el 'síndrome de Paiporta': un presidente que evita el contacto con la calle: El jefe del Ejecutivo rehúye cualquier formato que evidencie la contestación ciudadana que sufre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-02T06:39:47Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La izquierda evita condenar la vuelta de la 'kale borroka' a las calles de Pamplona",
-      "subtitle": "Los disturbios del jueves dejaron seis heridos, entre ellos cuatro policías y un periodista de 'El Español' al que apalearon en grupo",
-      "url": "https://www.abc.es/espana/navarra/izquierda-evita-condenar-vuelta-kale-borroka-calles-20251101042622-nt.html",
-      "scraped_at": "2025-11-01T06:37:38Z"
+      "title": "Feijóo medita entre convocar ya elecciones en Valencia o elegir un sucesor a Mazón",
+      "subtitle": "El presidente autonómico dedica el fin de semana a decidir su futuro inmediato. Feijóo volvió del funeral de la dana convencido de que Mazón ya ha aceptado su situación irreversible",
+      "url": "https://www.abc.es/espana/feijoo-decidira-elecciones-valencia-pone-sucesor-mazon-20251102204011-nt.html",
+      "scraped_at": "2025-11-02T06:39:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gran Museo Egipcio: la mayor colección faraónica con nuevas piezas y el gran tesoro de Tutankamón",
-      "subtitle": "Situado al lado de las pirámides de Giza, el Gran Museo Egipcio se inaugura hoy, tras mil millones de inversión",
-      "url": "https://www.abc.es/cultura/abre-gran-museo-egipcio-referente-piezas-desconocidas-20251101130424-nt.html",
-      "scraped_at": "2025-11-01T06:37:39Z"
+      "title": "La causa judicial de la dana entra en El Ventorro y deja al PP en vilo",
+      "subtitle": "La testifical de la periodista que comió con Mazón este lunes «sólo puede salir mal», aseveran desde la formación",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/causa-judicial-dana-entra-ventorro-deja-pp-20251102204748-nt.html",
+      "scraped_at": "2025-11-02T06:39:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "La ONU vota a favor de la soberanía marroquí sobre el Sahara Occidental",
-      "subtitle": "El Consejo de Seguridad da un apoyo histórico al cuestionado «plan de autonomía» presentado por Rabat",
-      "url": "https://www.abc.es/internacional/onu-vota-favor-soberania-marroqui-sobre-sahara-20251031203952-nt.html",
-      "scraped_at": "2025-11-01T06:37:39Z"
+      "title": "Sánchez y el 'síndrome de Paiporta': un presidente que evita el contacto con la calle",
+      "subtitle": "El jefe del Ejecutivo rehúye cualquier formato que evidencie la contestación ciudadana que sufre",
+      "url": "https://www.abc.es/espana/sanchez-sindrome-paiporta-presidente-evita-contacto-calle-20251102040600-nt.html",
+      "scraped_at": "2025-11-02T06:39:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "Resistir a las bombas rusas en el Donbás: «Así no se puede vivir»",
-      "subtitle": "El horror se intensifica en Kramatorsk mientras los misiles y drones rusos complican la vida de los civiles",
-      "url": "https://www.abc.es/internacional/resistir-bombas-rusas-donbas-puede-vivir-20251101201105-nt.html",
-      "scraped_at": "2025-11-01T06:37:39Z"
+      "title": "José María Aznar: «España necesita urgentemente elecciones, la moción de censura no puede prosperar»",
+      "subtitle": "El expresidente reclama a los ciudadanos «responsabilidad» y considera que los siguientes comicios generales «serán constituyentes»",
+      "url": "https://www.abc.es/espana/jose-maria-aznar-proximas-elecciones-constituyentes-puede-20251101175135-nt.html",
+      "scraped_at": "2025-11-02T06:39:47Z"
     },
     {
       "source": "ABC.es",
       "title": "Vivienda",
       "subtitle": "Vitoria y Bilbao siguen la estela de San Sebastián y también aplicarán el tope al precio de los alquileres",
       "url": "https://www.abc.es/economia/compraventa-vivienda-empieza-tocar-techo-apunta-saturacion-20251030175023-nt.html",
-      "scraped_at": "2025-11-01T06:37:39Z"
+      "scraped_at": "2025-11-02T06:39:47Z"
     }
   ]
 }
