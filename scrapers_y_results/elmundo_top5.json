@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El dilema de Carlos Mazón: La atmósfera es insostenible y es difícil que sea suficiente con anunciar que no se presentará a las próximas elecciones.; En el campamento donde se forjó la 'manada' argelina de Pamplona entre basura, hachis y bicis robadas: Los cuatro detenidos por la violación de una joven entraron en prisión después de que se hallara la ropa interior de ella junto a sus tiendas de campaña. El caso ha destapado un incremento de las violaciones de un 77% y un problema incontrolado de asentamientos ilegales; Secuencia de una filtración que ha llevado al banquillo al fiscal general: 12 horas para ganar \"el relato\" contra Ayuso: La noticia de EL MUNDO el 13 de marzo activó una respuesta frenética de García Ortiz por la que se le juzgará desde este lunes. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-02T06:39:41Z",
+  "summary": "Resumen del día en El Mundo: Arranca en el Supremo un juicio inédito al fiscal general que arrastra al banquillo a toda una institución: La decisión de Álvaro García Ortiz de mantenerse en el puesto pese a las acusaciones supone un \"bochorno\" para toda la Fiscalía, según el sentimiento mayoritario de sus miembros; Fiscales y políticos: cinco testimonios clave para seis jornadas de juicio a García Ortiz: El Supremo escuchará 40 declaraciones antes de oír las explicaciones del fiscal general del Estado; Siete magistrados de distintas sensibilidades decidirán el futuro del fiscal general del Estado: La trascendencia del asunto ha llevado al Supremo a elevar la cifra habitual de cinco componentes del tribunal, como ya ocurrió en el juicio del 'procés'. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-03T06:45:56Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El dilema de Carlos Mazón",
-      "subtitle": "La atmósfera es insostenible y es difícil que sea suficiente con anunciar que no se presentará a las próximas elecciones.",
-      "url": "https://www.elmundo.es/opinion/2025/11/01/69065955fc6c83921d8b45af.html",
-      "scraped_at": "2025-11-02T06:39:40Z"
+      "title": "Arranca en el Supremo un juicio inédito al fiscal general que arrastra al banquillo a toda una institución",
+      "subtitle": "La decisión de Álvaro García Ortiz de mantenerse en el puesto pese a las acusaciones supone un \"bochorno\" para toda la Fiscalía, según el sentimiento mayoritario de sus miembros",
+      "url": "https://www.elmundo.es/espana/2025/11/02/69075a60e4d4d875318b4596.html",
+      "scraped_at": "2025-11-03T06:45:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "En el campamento donde se forjó la 'manada' argelina de Pamplona entre basura, hachis y bicis robadas",
-      "subtitle": "Los cuatro detenidos por la violación de una joven entraron en prisión después de que se hallara la ropa interior de ella junto a sus tiendas de campaña. El caso ha destapado un incremento de las violaciones de un 77% y un problema incontrolado de asentamientos ilegales",
-      "url": "https://www.elmundo.es/cronica/2025/11/01/6906272fe85eceb6688b458c.html",
-      "scraped_at": "2025-11-02T06:39:40Z"
+      "title": "Fiscales y políticos: cinco testimonios clave para seis jornadas de juicio a García Ortiz",
+      "subtitle": "El Supremo escuchará 40 declaraciones antes de oír las explicaciones del fiscal general del Estado",
+      "url": "https://www.elmundo.es/espana/2025/11/02/690759c4e4d4d84c548b4589.html",
+      "scraped_at": "2025-11-03T06:45:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "Secuencia de una filtración que ha llevado al banquillo al fiscal general: 12 horas para ganar \"el relato\" contra Ayuso",
-      "subtitle": "La noticia de EL MUNDO el 13 de marzo activó una respuesta frenética de García Ortiz por la que se le juzgará desde este lunes",
-      "url": "https://www.elmundo.es/espana/2025/11/01/69063863e85ece99478b458c.html",
-      "scraped_at": "2025-11-02T06:39:40Z"
+      "title": "Siete magistrados de distintas sensibilidades decidirán el futuro del fiscal general del Estado",
+      "subtitle": "La trascendencia del asunto ha llevado al Supremo a elevar la cifra habitual de cinco componentes del tribunal, como ya ocurrió en el juicio del 'procés'",
+      "url": "https://www.elmundo.es/espana/2025/11/03/6907593ce4d4d8885c8b457d.html",
+      "scraped_at": "2025-11-03T06:45:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "El decano de la Abogacía de Madrid que pide cuatro años de cárcel para García Ortiz: \"La gravedad reside en el rango institucional del implicado, máximo garante de la legalidad\"",
-      "subtitle": "\"Se trata de un hecho anómalo y sin precedentes\", dice sobre el juicio al fiscal general del Estado. \"Hubiéramos actuado igual con alguien de signo político opuesto\", afirma",
-      "url": "https://www.elmundo.es/espana/2025/11/02/6905f705e9cf4a01068b456e.html",
-      "scraped_at": "2025-11-02T06:39:41Z"
+      "title": "Cargos del PSOE admiten desgaste por el apoyo al fiscal general del Estado: \"Este asunto nos ha salpicado mucho\"",
+      "subtitle": "Moncloa ha impuesto un cierre de filas en torno a García Ortiz pero varias voces internas abogan por su salida: \"Si es condenado ya no hay más camino que la dimisión. Hay un límite legal al apoyo\"",
+      "url": "https://www.elmundo.es/espana/2025/11/03/69074b48fdddffb3388b4580.html",
+      "scraped_at": "2025-11-03T06:45:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "Blanqueo sobres PSOE",
-      "subtitle": "El juez Puente aprecia indicios de delito en el descontrol de las finanzas de Ferraz y corresponderá a la Audiencia Nacional investigar si hubo financiación ilegal",
-      "url": "https://www.elmundo.es/espana/2025/10/31/6904fc97e85ece6b238b457d.html",
-      "scraped_at": "2025-11-02T06:39:41Z"
+      "title": "Gallardo",
+      "subtitle": "La diferencia de bloques entre el centro-derecha (38 escaños) y el centro-izquierda (30) sigue aumentando en un arco parlamentario donde la mayoría absoluta está en 33",
+      "url": "https://www.elmundo.es/espana/encuestas/2025/11/03/69075f94e9cf4aae598b457c.html",
+      "scraped_at": "2025-11-03T06:45:56Z"
     }
   ]
 }

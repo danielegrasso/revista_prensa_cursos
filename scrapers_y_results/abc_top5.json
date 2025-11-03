@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Feijóo medita entre convocar ya elecciones en Valencia o elegir un sucesor a Mazón: El presidente autonómico dedica el fin de semana a decidir su futuro inmediato. Feijóo volvió del funeral de la dana convencido de que Mazón ya ha aceptado su situación irreversible; La causa judicial de la dana entra en El Ventorro y deja al PP en vilo: La testifical de la periodista que comió con Mazón este lunes «sólo puede salir mal», aseveran desde la formación; Sánchez y el 'síndrome de Paiporta': un presidente que evita el contacto con la calle: El jefe del Ejecutivo rehúye cualquier formato que evidencie la contestación ciudadana que sufre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-02T06:39:47Z",
+  "summary": "Resumen del día en ABC.es: García Ortiz, blindado por el Gobierno, se resiste a declarar como cualquier acusado: El Supremo resolverá este lunes su petición de responder desde estrados, a la altura de los magistrados que le juzgan; sí entrará por la puerta principal del Tribunal; El fiscal ante los jueces: El problema de la democracia española es que son los jueces los que tienen que decidir sobre la responsabilidad política de los altos cargos, como si fuera accesoria de una condena penal; Al servicio de las garantías constitucionales: El derecho de defensa y su derivada del secreto profesional constituyen los cimientos del resto de garantías constitucionales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-03T06:46:01Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Feijóo medita entre convocar ya elecciones en Valencia o elegir un sucesor a Mazón",
-      "subtitle": "El presidente autonómico dedica el fin de semana a decidir su futuro inmediato. Feijóo volvió del funeral de la dana convencido de que Mazón ya ha aceptado su situación irreversible",
-      "url": "https://www.abc.es/espana/feijoo-decidira-elecciones-valencia-pone-sucesor-mazon-20251102204011-nt.html",
-      "scraped_at": "2025-11-02T06:39:47Z"
+      "title": "García Ortiz, blindado por el Gobierno, se resiste a declarar como cualquier acusado",
+      "subtitle": "El Supremo resolverá este lunes su petición de responder desde estrados, a la altura de los magistrados que le juzgan; sí entrará por la puerta principal del Tribunal",
+      "url": "https://www.abc.es/espana/garcia-ortiz-aferra-toga-resiste-declarar-acusado-20251103190722-nt.html",
+      "scraped_at": "2025-11-03T06:46:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "La causa judicial de la dana entra en El Ventorro y deja al PP en vilo",
-      "subtitle": "La testifical de la periodista que comió con Mazón este lunes «sólo puede salir mal», aseveran desde la formación",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/causa-judicial-dana-entra-ventorro-deja-pp-20251102204748-nt.html",
-      "scraped_at": "2025-11-02T06:39:47Z"
+      "title": "El fiscal ante los jueces",
+      "subtitle": "El problema de la democracia española es que son los jueces los que tienen que decidir sobre la responsabilidad política de los altos cargos, como si fuera accesoria de una condena penal",
+      "url": "https://www.abc.es/opinion/editorial-fiscal-ante-jueces-20251103210117-nt.html",
+      "scraped_at": "2025-11-03T06:46:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez y el 'síndrome de Paiporta': un presidente que evita el contacto con la calle",
-      "subtitle": "El jefe del Ejecutivo rehúye cualquier formato que evidencie la contestación ciudadana que sufre",
-      "url": "https://www.abc.es/espana/sanchez-sindrome-paiporta-presidente-evita-contacto-calle-20251102040600-nt.html",
-      "scraped_at": "2025-11-02T06:39:47Z"
+      "title": "Al servicio de las garantías constitucionales",
+      "subtitle": "El derecho de defensa y su derivada del secreto profesional constituyen los cimientos del resto de garantías constitucionales",
+      "url": "https://www.abc.es/espana/eugenio-ribon-servicio-garantias-constitucionales-20251103042953-nt.html",
+      "scraped_at": "2025-11-03T06:46:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "José María Aznar: «España necesita urgentemente elecciones, la moción de censura no puede prosperar»",
-      "subtitle": "El expresidente reclama a los ciudadanos «responsabilidad» y considera que los siguientes comicios generales «serán constituyentes»",
-      "url": "https://www.abc.es/espana/jose-maria-aznar-proximas-elecciones-constituyentes-puede-20251101175135-nt.html",
-      "scraped_at": "2025-11-02T06:39:47Z"
+      "title": "El PP debate hasta última hora el futuro de Mazón y las elecciones anticipadas",
+      "subtitle": "El 'president' de la Generalitat informará a lo largo de este lunes en una comparecencia pública",
+      "url": "https://www.abc.es/espana/partido-popular-aplaza-lunes-decision-sobre-carlos-20251102202159-nt.html",
+      "scraped_at": "2025-11-03T06:46:01Z"
     },
     {
       "source": "ABC.es",
       "title": "Vivienda",
       "subtitle": "Vitoria y Bilbao siguen la estela de San Sebastián y también aplicarán el tope al precio de los alquileres",
       "url": "https://www.abc.es/economia/compraventa-vivienda-empieza-tocar-techo-apunta-saturacion-20251030175023-nt.html",
-      "scraped_at": "2025-11-02T06:39:47Z"
+      "scraped_at": "2025-11-03T06:46:01Z"
     }
   ]
 }
