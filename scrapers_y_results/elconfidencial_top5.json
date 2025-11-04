@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Gerentes del PSOE se autoinculpan al admitir la utilización irregular de efectivo en campaña electoral: Los responsables de Ferraz confiesan el uso de grandes cantidades de dinero líquido en citas electorales, una operativa que permite dedicar a la campaña más fondos de los permitidos y sortear los controles del Tribunal de Cuentas; El Estado se reinventa: el gasto público no cede y avanzan las privatizaciones: La tarta del consumo público es imponente: casi 308.000 millones de euros. El Estado es quien formalmente lo gasta, pero quien realmente lo gestiona son empresas privadas. Supone una reinvención del Estado; Antonio de la Torre: \"El miedo es el arma que tienen los poderosos para tenerte pillado\": Lejos de la gravedad que desprenden algunos de sus personajes, lejos también de las ínfulas que rodean a veces a su profesión, esta entrevista muestra al De la Torre más expansivo y con más ganas de mambo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-03T06:46:06Z",
+  "summary": "Resumen del día en El Confidencial: La UCO busca en 84 dispositivos y un millón de 'mails' más pruebas de la trama que cerca a Torres: La Guardia Civil avisa al juez de que sus trabajos no han terminado debido al gran volumen de información que les obliga a buscar por palabras clave: &quot;Podrían hallarse nuevos indicios&quot;; El duelo de versiones en el juicio crucial de García Ortiz retrata la guerra interna de la Fiscalía: El enfrentamiento en el arranque del juicio fue más allá de la división lógica entre defensa y acusación y se contagió también a las declaraciones de los cuatro fiscales clave para determinar como se produjo la filtración; Ganó 4 millones de dólares al póker y ahora te enseña cómo aplicar ese juego a tu vida: La estadounidense Annie Duke, experta en Psicología cognitiva, ha sido durante 20 años jugadora profesional y sostiene que todos los trucos para ganar en el tapete verde son aplicables a los procesos de toma de decisiones en general. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-04T06:45:01Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Gerentes del PSOE se autoinculpan al admitir la utilización irregular de efectivo en campaña electoral",
-      "subtitle": "Los responsables de Ferraz confiesan el uso de grandes cantidades de dinero líquido en citas electorales, una operativa que permite dedicar a la campaña más fondos de los permitidos y sortear los controles del Tribunal de Cuentas",
-      "url": "https://www.elconfidencial.com/espana/2025-11-03/psoe-sanchez-ferraz-autoinculpan-efectivo-elecciones_4240289/",
-      "scraped_at": "2025-11-03T06:46:05Z"
+      "title": "La UCO busca en 84 dispositivos y un millón de 'mails' más pruebas de la trama que cerca a Torres",
+      "subtitle": "La Guardia Civil avisa al juez de que sus trabajos no han terminado debido al gran volumen de información que les obliga a buscar por palabras clave: &quot;Podrían hallarse nuevos indicios&quot;",
+      "url": "https://www.elconfidencial.com/espana/2025-11-04/uco-busca-dispositivos-correo-pruebas-trama-torres_4240850/",
+      "scraped_at": "2025-11-04T06:44:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Estado se reinventa: el gasto público no cede y avanzan las privatizaciones",
-      "subtitle": "La tarta del consumo público es imponente: casi 308.000 millones de euros. El Estado es quien formalmente lo gasta, pero quien realmente lo gestiona son empresas privadas. Supone una reinvención del Estado",
-      "url": "https://www.elconfidencial.com/economia/2025-11-02/externalizacion-gasto-publico-contratacion-cnmc_4240067/",
-      "scraped_at": "2025-11-03T06:46:05Z"
+      "title": "El duelo de versiones en el juicio crucial de García Ortiz retrata la guerra interna de la Fiscalía",
+      "subtitle": "El enfrentamiento en el arranque del juicio fue más allá de la división lógica entre defensa y acusación y se contagió también a las declaraciones de los cuatro fiscales clave para determinar como se produjo la filtración",
+      "url": "https://www.elconfidencial.com/espana/2025-11-04/duelo-versiones-juicio-garcia-ortiz-guerra-interna-fiscalia_4240862/",
+      "scraped_at": "2025-11-04T06:44:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Antonio de la Torre: \"El miedo es el arma que tienen los poderosos para tenerte pillado\"",
-      "subtitle": "Lejos de la gravedad que desprenden algunos de sus personajes, lejos también de las ínfulas que rodean a veces a su profesión, esta entrevista muestra al De la Torre más expansivo y con más ganas de mambo",
-      "url": "https://www.elconfidencial.com/cultura/2025-11-03/cultura-impacto-de-la-torre-bra_4237667/",
-      "scraped_at": "2025-11-03T06:46:05Z"
+      "title": "Ganó 4 millones de dólares al póker y ahora te enseña cómo aplicar ese juego a tu vida",
+      "subtitle": "La estadounidense Annie Duke, experta en Psicología cognitiva, ha sido durante 20 años jugadora profesional y sostiene que todos los trucos para ganar en el tapete verde son aplicables a los procesos de toma de decisiones en general",
+      "url": "https://www.elconfidencial.com/cultura/2025-11-04/entrevista-annie-duke-poker-vida-diaria_4240432/",
+      "scraped_at": "2025-11-04T06:45:00Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Un fracaso\": Tony Spina arremete sin piedad contra Oriana en 'SV All Stars 2'",
-      "subtitle": "El cuarto clasificado del &#039;reality&#039; de Telecinco ha reaccionado a los incontables enfrentamientos de su pareja y su exnovia en televisión",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-11-02/supervivientes-all-stars-tony-spina-oriana-marta_4240286/",
-      "scraped_at": "2025-11-03T06:46:06Z"
+      "title": "El Tribunal de Cuentas desmonta la eficacia del plan  contra la despoblación",
+      "subtitle": "El Plan del Gobierno contra la despoblación tiene múltiples carencias. Esto es lo que sostiene el Tribunal de Cuentas en un informe en el que cuestiona la eficacia de las medidas del Ministerio de Transición y Reto Demográfico",
+      "url": "https://www.elconfidencial.com/economia/2025-11-04/reto-demografico-despoblacion-informe-tribunal-cuentas_4240864/",
+      "scraped_at": "2025-11-04T06:45:00Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Canarias",
+      "subtitle": "Tierra de volcanes y mar infinito, se revela en otoño como un destino perfecto para quienes buscan desconectar entre rutas culturales, charcos naturales y sabores que rinden homenaje a la tradición majorera",
+      "url": "https://www.elconfidencial.com/espana/islas-canarias/",
+      "scraped_at": "2025-11-04T06:45:01Z"
     }
   ]
 }

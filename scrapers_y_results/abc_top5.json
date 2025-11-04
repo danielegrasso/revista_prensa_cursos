@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: García Ortiz, blindado por el Gobierno, se resiste a declarar como cualquier acusado: El Supremo resolverá este lunes su petición de responder desde estrados, a la altura de los magistrados que le juzgan; sí entrará por la puerta principal del Tribunal; El fiscal ante los jueces: El problema de la democracia española es que son los jueces los que tienen que decidir sobre la responsabilidad política de los altos cargos, como si fuera accesoria de una condena penal; Al servicio de las garantías constitucionales: El derecho de defensa y su derivada del secreto profesional constituyen los cimientos del resto de garantías constitucionales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-03T06:46:01Z",
+  "summary": "Resumen del día en ABC.es: Feijóo traslada a Vox el nombre de Pérez Llorca como sucesor temporal de Mazón: El líder del PP se garantiza tener manos libres para decidir la candidatura en las próximas elecciones autonómicas; Tarde y mal resuelto: Mazón es pasado, pero la crisis no ha concluido. El PP tiene la obligación de rehacerse, presentar un candidato a la altura, negociarlo con Vox, y recuperar la confianza de los valencianos; 48 horas frenéticas en el PP hasta la dimisión de Mazón: «Nos dijo que no podía más. Se desmoronaba»: El president insistió a Génova en que no esperaría más y «en 24 horas» hubo que organizar su salida. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-04T06:44:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "García Ortiz, blindado por el Gobierno, se resiste a declarar como cualquier acusado",
-      "subtitle": "El Supremo resolverá este lunes su petición de responder desde estrados, a la altura de los magistrados que le juzgan; sí entrará por la puerta principal del Tribunal",
-      "url": "https://www.abc.es/espana/garcia-ortiz-aferra-toga-resiste-declarar-acusado-20251103190722-nt.html",
-      "scraped_at": "2025-11-03T06:46:00Z"
+      "title": "Feijóo traslada a Vox el nombre de Pérez Llorca como sucesor temporal de Mazón",
+      "subtitle": "El líder del PP se garantiza tener manos libres para decidir la candidatura en las próximas elecciones autonómicas",
+      "url": "https://www.abc.es/espana/genova-traslada-vox-perez-llorca-sustituto-temporal-20251104214232-nt.html",
+      "scraped_at": "2025-11-04T06:44:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "El fiscal ante los jueces",
-      "subtitle": "El problema de la democracia española es que son los jueces los que tienen que decidir sobre la responsabilidad política de los altos cargos, como si fuera accesoria de una condena penal",
-      "url": "https://www.abc.es/opinion/editorial-fiscal-ante-jueces-20251103210117-nt.html",
-      "scraped_at": "2025-11-03T06:46:00Z"
+      "title": "Tarde y mal resuelto",
+      "subtitle": "Mazón es pasado, pero la crisis no ha concluido. El PP tiene la obligación de rehacerse, presentar un candidato a la altura, negociarlo con Vox, y recuperar la confianza de los valencianos",
+      "url": "https://www.abc.es/opinion/editorial-tarde-mal-resuelto-20251104201905-nt.html",
+      "scraped_at": "2025-11-04T06:44:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Al servicio de las garantías constitucionales",
-      "subtitle": "El derecho de defensa y su derivada del secreto profesional constituyen los cimientos del resto de garantías constitucionales",
-      "url": "https://www.abc.es/espana/eugenio-ribon-servicio-garantias-constitucionales-20251103042953-nt.html",
-      "scraped_at": "2025-11-03T06:46:00Z"
+      "title": "48 horas frenéticas en el PP hasta la dimisión de Mazón: «Nos dijo que no podía más. Se desmoronaba»",
+      "subtitle": "El president insistió a Génova en que no esperaría más y «en 24 horas» hubo que organizar su salida",
+      "url": "https://www.abc.es/espana/frenetico-fin-semana-pp-mazon-dijo-desmoronaba-20251103200433-nt.html",
+      "scraped_at": "2025-11-04T06:44:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP debate hasta última hora el futuro de Mazón y las elecciones anticipadas",
-      "subtitle": "El 'president' de la Generalitat informará a lo largo de este lunes en una comparecencia pública",
-      "url": "https://www.abc.es/espana/partido-popular-aplaza-lunes-decision-sobre-carlos-20251102202159-nt.html",
-      "scraped_at": "2025-11-03T06:46:01Z"
+      "title": "La juez echó la culpa al expresidente de la Comunidad Valenciana cuando Vilaplana se derrumbó: «Tranquila, que la responsabilidad no es suya»",
+      "subtitle": "La magistrada señala al presidente de la Generalitat como único responsable de la polémica comida en El Ventorro el día de la dana",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/juez-echo-culpa-mazon-vilaplana-derrumbo-20251103202114-nt.html",
+      "scraped_at": "2025-11-04T06:44:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vivienda",
-      "subtitle": "Vitoria y Bilbao siguen la estela de San Sebastián y también aplicarán el tope al precio de los alquileres",
-      "url": "https://www.abc.es/economia/compraventa-vivienda-empieza-tocar-techo-apunta-saturacion-20251030175023-nt.html",
-      "scraped_at": "2025-11-03T06:46:01Z"
+      "title": "Ángel Víctor Torres",
+      "subtitle": "Una conversación con Koldo García revela que siendo presidente de Canarias se interesó por esos pagos del servicio canario de Salud: «Déjame el día de hoy que me voy a cagar en todos los santos»",
+      "url": "https://www.abc.es/espana/torres-agilizo-personalmente-cobro-empresa-trama-mascarillas-20251103153321-nt.html",
+      "scraped_at": "2025-11-04T06:44:55Z"
     }
   ]
 }
