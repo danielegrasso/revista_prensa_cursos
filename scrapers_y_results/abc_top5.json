@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Feijóo traslada a Vox el nombre de Pérez Llorca como sucesor temporal de Mazón: El líder del PP se garantiza tener manos libres para decidir la candidatura en las próximas elecciones autonómicas; Tarde y mal resuelto: Mazón es pasado, pero la crisis no ha concluido. El PP tiene la obligación de rehacerse, presentar un candidato a la altura, negociarlo con Vox, y recuperar la confianza de los valencianos; 48 horas frenéticas en el PP hasta la dimisión de Mazón: «Nos dijo que no podía más. Se desmoronaba»: El president insistió a Génova en que no esperaría más y «en 24 horas» hubo que organizar su salida. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-04T06:44:55Z",
+  "summary": "Resumen del día en ABC.es: Las tres mentiras del ministro Ángel Víctor Torres tras el informe de la UCO: Su relación con Aldama, su nivel de confianza con Koldo García y las órdenes a una jefa del servicio de salud; Las responsabilidades de Torres: La mentira sobre el papel de Torres en la trama de Koldo García y Víctor de Aldama es suficiente para incidir en que el ministro debe asumir su responsabilidad política; Nueva York elige a un alcalde socialista y musulmán: Zohran Mamdani se impone a Andrew Cuomo: El resultado confirmaba el ascenso improbable del candidato socialista, de 34 años, que ha sabido utilizar su mensaje populista de izquierdas en las aguas turbulentas de la política de EE.UU.. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-05T06:44:30Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Feijóo traslada a Vox el nombre de Pérez Llorca como sucesor temporal de Mazón",
-      "subtitle": "El líder del PP se garantiza tener manos libres para decidir la candidatura en las próximas elecciones autonómicas",
-      "url": "https://www.abc.es/espana/genova-traslada-vox-perez-llorca-sustituto-temporal-20251104214232-nt.html",
-      "scraped_at": "2025-11-04T06:44:54Z"
+      "title": "Las tres mentiras del ministro Ángel Víctor Torres tras el informe de la UCO",
+      "subtitle": "Su relación con Aldama, su nivel de confianza con Koldo García y las órdenes a una jefa del servicio de salud",
+      "url": "https://www.abc.es/espana/tres-conclusiones-informe-uco-dejan-evidencia-version-20251105203820-nt.html",
+      "scraped_at": "2025-11-05T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Tarde y mal resuelto",
-      "subtitle": "Mazón es pasado, pero la crisis no ha concluido. El PP tiene la obligación de rehacerse, presentar un candidato a la altura, negociarlo con Vox, y recuperar la confianza de los valencianos",
-      "url": "https://www.abc.es/opinion/editorial-tarde-mal-resuelto-20251104201905-nt.html",
-      "scraped_at": "2025-11-04T06:44:54Z"
+      "title": "Las responsabilidades de Torres",
+      "subtitle": "La mentira sobre el papel de Torres en la trama de Koldo García y Víctor de Aldama es suficiente para incidir en que el ministro debe asumir su responsabilidad política",
+      "url": "https://www.abc.es/opinion/editorial-responsabilidades-torres-20251105201005-nt.html",
+      "scraped_at": "2025-11-05T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "48 horas frenéticas en el PP hasta la dimisión de Mazón: «Nos dijo que no podía más. Se desmoronaba»",
-      "subtitle": "El president insistió a Génova en que no esperaría más y «en 24 horas» hubo que organizar su salida",
-      "url": "https://www.abc.es/espana/frenetico-fin-semana-pp-mazon-dijo-desmoronaba-20251103200433-nt.html",
-      "scraped_at": "2025-11-04T06:44:54Z"
+      "title": "Nueva York elige a un alcalde socialista y musulmán: Zohran Mamdani se impone a Andrew Cuomo",
+      "subtitle": "El resultado confirmaba el ascenso improbable del candidato socialista, de 34 años, que ha sabido utilizar su mensaje populista de izquierdas en las aguas turbulentas de la política de EE.UU.",
+      "url": "https://www.abc.es/internacional/nueva-york-elige-alcalde-socialista-musulman-zohran-20251105040348-nt.html",
+      "scraped_at": "2025-11-05T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "La juez echó la culpa al expresidente de la Comunidad Valenciana cuando Vilaplana se derrumbó: «Tranquila, que la responsabilidad no es suya»",
-      "subtitle": "La magistrada señala al presidente de la Generalitat como único responsable de la polémica comida en El Ventorro el día de la dana",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/juez-echo-culpa-mazon-vilaplana-derrumbo-20251103202114-nt.html",
-      "scraped_at": "2025-11-04T06:44:55Z"
+      "title": "Génova confía en una negociación «rápida» con Vox para resolver la sucesión de Mazón",
+      "subtitle": "Feijóo y Abascal tienen la primera conversación, que ahora seguirá a nivel autonómico",
+      "url": "https://www.abc.es/espana/genova-confia-negociacion-rapida-vox-resolver-sucesion-20251105181903-nt.html",
+      "scraped_at": "2025-11-05T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ángel Víctor Torres",
-      "subtitle": "Una conversación con Koldo García revela que siendo presidente de Canarias se interesó por esos pagos del servicio canario de Salud: «Déjame el día de hoy que me voy a cagar en todos los santos»",
-      "url": "https://www.abc.es/espana/torres-agilizo-personalmente-cobro-empresa-trama-mascarillas-20251103153321-nt.html",
-      "scraped_at": "2025-11-04T06:44:55Z"
+      "title": "Amancio Ortega",
+      "subtitle": "El empresario gallego, de 89 años, se mantiene líder, y aunque ha visto reducido su patrimonio en 10.300 millones de euros respecto al 2024, su fortuna representa el 42,5% del total de la lista",
+      "url": "https://www.abc.es/economia/amancio-ortega-vuelve-encabezar-lista-forbes-ricos-20251104103000-nt.html",
+      "scraped_at": "2025-11-05T06:44:30Z"
     }
   ]
 }

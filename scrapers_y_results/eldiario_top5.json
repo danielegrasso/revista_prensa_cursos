@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Feijóo cierra en falso la crisis de Mazón y se encomienda a Vox para su relevo: Génova 13 intentó pactar con el aún president el nombre de su sucesor en varias conversaciones durante el fin de semana, pero finalmente aceptó someterse a Vox, que será el que decida si bloquea la legislatura y provoca un adelanto electoral en un contexto de crecimiento en las encuestas; El juicio al fiscal general pone el foco en el bulo de Miguel Ángel Rodríguez y cuándo lo difundió: El testimonio del jefe de gabinete de Ayuso está previsto para este martes por la tarde después de que una fiscal haya explicado que sus bulos sobre el caso empezaron a llegar mucho antes de lo que él ha reconocido; Duelo entre fiscales con fiscal general de fondo: La primera jornada del juicio del fiscal general ofrece el testimonio de dos fiscales, Pilar Rodríguez y Almudena Lastra, con posiciones totalmente diferentes hasta que los defensores de García Ortiz deciden denunciar la \"animadversión\" de la segunda contra su jefe. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-04T06:44:53Z",
+  "summary": "Resumen del día en elDiario.es: La pareja y la mano derecha de Ayuso se presentan como víctimas del “aparato del Estado” mientras frivolizan con sus bulos: González Amador, que enfila el banquillo por un fraude fiscal de 350.000 euros, acusa al fiscal general ante el Supremo de matarle “públicamente” y Miguel Ángel Rodríguez dice falsamente que Hacienda “no ha permitido\" al empresario \"llegar a un acuerdo”; Miguel Ángel Rodríguez lanza una bomba de humo en el Tribunal Supremo: En el juicio del fiscal general, el jefe de gabinete de Ayuso ofrece su repertorio de costumbre: acusaciones gravísimas contra la Fiscalía basadas en deducciones y ataques a los periodistas. González Amador opta por dar la imagen penosa de un hombre destruido por las autoridades; Dos fraudes fiscales, facturas falsas y dos millones de comisión: lo que realmente ha “destrozado la vida” a la pareja de Ayuso: Alberto González Amador atribuye a la filtración de un correo su supuesta ruina personal al tiempo que obvia el origen de sus problemas: las declaraciones fraudulentas para no tributar por una comisión de dos millones en mascarillas que luego le ha traído otros problemas con la justicia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-05T06:44:28Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Feijóo cierra en falso la crisis de Mazón y se encomienda a Vox para su relevo",
-      "subtitle": "Génova 13 intentó pactar con el aún president el nombre de su sucesor en varias conversaciones durante el fin de semana, pero finalmente aceptó someterse a Vox, que será el que decida si bloquea la legislatura y provoca un adelanto electoral en un contexto de crecimiento en las encuestas",
-      "url": "https://www.eldiario.es/politica/feijoo-cierra-falso-crisis-mazon-encomienda-extrema-derecha-relevo_1_12737405.html",
-      "scraped_at": "2025-11-04T06:44:50Z"
+      "title": "La pareja y la mano derecha de Ayuso se presentan como víctimas del “aparato del Estado” mientras frivolizan con sus bulos",
+      "subtitle": "González Amador, que enfila el banquillo por un fraude fiscal de 350.000 euros, acusa al fiscal general ante el Supremo de matarle “públicamente” y Miguel Ángel Rodríguez dice falsamente que Hacienda “no ha permitido\" al empresario \"llegar a un acuerdo”",
+      "url": "https://www.eldiario.es/politica/pareja-mano-derecha-ayuso-presentan-victimas-aparato-frivolizan-bulos_1_12741707.html",
+      "scraped_at": "2025-11-05T06:44:25Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juicio al fiscal general pone el foco en el bulo de Miguel Ángel Rodríguez y cuándo lo difundió",
-      "subtitle": "El testimonio del jefe de gabinete de Ayuso está previsto para este martes por la tarde después de que una fiscal haya explicado que sus bulos sobre el caso empezaron a llegar mucho antes de lo que él ha reconocido",
-      "url": "https://www.eldiario.es/politica/juicio-fiscal-general-pone-foco-bulo-miguel-angel-rodriguez-empezo-difundirlo_1_12738438.html",
-      "scraped_at": "2025-11-04T06:44:51Z"
+      "title": "Miguel Ángel Rodríguez lanza una bomba de humo en el Tribunal Supremo",
+      "subtitle": "En el juicio del fiscal general, el jefe de gabinete de Ayuso ofrece su repertorio de costumbre: acusaciones gravísimas contra la Fiscalía basadas en deducciones y ataques a los periodistas. González Amador opta por dar la imagen penosa de un hombre destruido por las autoridades",
+      "url": "https://www.eldiario.es/politica/miguel-angel-rodriguez-lanza-bomba-humo-tribunal-supremo_129_12741292.html",
+      "scraped_at": "2025-11-05T06:44:25Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Duelo entre fiscales con fiscal general de fondo",
-      "subtitle": "La primera jornada del juicio del fiscal general ofrece el testimonio de dos fiscales, Pilar Rodríguez y Almudena Lastra, con posiciones totalmente diferentes hasta que los defensores de García Ortiz deciden denunciar la \"animadversión\" de la segunda contra su jefe",
-      "url": "https://www.eldiario.es/politica/duelo-fiscales-fiscal-general-fondo_129_12738001.html",
-      "scraped_at": "2025-11-04T06:44:51Z"
+      "title": "Dos fraudes fiscales, facturas falsas y dos millones de comisión: lo que realmente ha “destrozado la vida” a la pareja de Ayuso",
+      "subtitle": "Alberto González Amador atribuye a la filtración de un correo su supuesta ruina personal al tiempo que obvia el origen de sus problemas: las declaraciones fraudulentas para no tributar por una comisión de dos millones en mascarillas que luego le ha traído otros problemas con la justicia",
+      "url": "https://www.eldiario.es/politica/fraudes-fiscales-facturas-falsas-millones-comision-realmente-destrozado-vida-pareja-ayuso_1_12741500.html",
+      "scraped_at": "2025-11-05T06:44:26Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De cómo el 'virus Aldama' involucra al ministro Torres en el caso Koldo sin las pruebas que permitieron procesar a Ábalos",
-      "subtitle": "El informe de la UCO no halla en la actuación del expresidente canario ni uno solo de los indicios que han permitido procesar al exministro Ábalos en la compra de mascarillas al comisionista corrupto",
-      "url": "https://www.eldiario.es/politica/virus-aldama-involucra-ministro-torres-caso-koldo-pruebas-permitieron-procesar-abalos_129_12738081.html",
-      "scraped_at": "2025-11-04T06:44:52Z"
+      "title": "Miguel Ángel Rodríguez insulta a elDiario.es en el Supremo por desvelar el caso de fraude fiscal de la pareja de Ayuso",
+      "subtitle": "Reconoce haber mentido en fase de instrucción cuando declaró que ningún periodista de este medio contactó con él antes de publicar la exclusiva: “No le presté más atención porque son unos escandalosos”",
+      "url": "https://www.eldiario.es/politica/miguel-angel-rodriguez-insulta-eldiario-supremo-desvelar-caso-fraude-fiscal-pareja-ayuso_1_12740913.html",
+      "scraped_at": "2025-11-05T06:44:27Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez",
-      "subtitle": "Los mensajes que copan la bandeja de entrada son envíos a una lista de destinatarios sobre logística del Palacio de La Moncloa y mensajes ofensivos enviados después de que la dirección fuera filtrada a partir de su inclusión en la documentación de la causa",
-      "url": "https://www.eldiario.es/politica/juez-peinado-pide-uco-informe-siete-anos-correos-cuenta-begona-gomez-moncloa-utilizo_1_12736860.html",
-      "scraped_at": "2025-11-04T06:44:53Z"
+      "title": "Zohran Mamdani",
+      "subtitle": "La victoria de Nueva York, frente al candidato identificado con el establishment demócrata y apoyado por Trump y Musk, Andrew Cuomo, y el republicano no MAGA, Curtis Sliwa, puede tener un impacto sobre el modo de hacer frente a la agenda ultra de la Casa Blanca",
+      "url": "https://www.eldiario.es/internacional/socialista-mamdani-conquista-alcaldia-nueva-york-marca-camino-trump-izquierda-eeuu_1_12742002.html",
+      "scraped_at": "2025-11-05T06:44:28Z"
     }
   ]
 }
