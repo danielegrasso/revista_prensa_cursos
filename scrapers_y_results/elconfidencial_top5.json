@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La Fiscalía, a la caza de un filtrador en \"la tercera planta\" para salvar a García Ortiz: La Abogacía del Estado y el Ministerio Público siembra la duda razonable sobre quién difundió el correo del novio de Ayuso y buscan cargar parte de la culpa a Miguel Ángel Rodríguez; Moncloa destina a su política de comunicación y redes un presupuesto récord: 78,7 M: El Gobierno destina a las acciones de comunicación del presidente 60 millones de euros más que lo que destinaban Mariano Rajoy, José Luis Rodríguez Zapatero y José María Aznar; Pódcast | El 'boom' de los pagos a plazos: por qué los jóvenes financian todo: El 60% de los asistentes al festival de Coachella este año financiaron su entrada. Una tendencia que también encontramos en bodas, viajes... ¿Qué se esconde tras este fenómeno?. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-05T06:44:34Z",
+  "summary": "Resumen del día en El Confidencial: Amnesia y borrado de mensajes: Moncloa se blinda de la filtración sobre el novio de Ayuso: La tesis de una filtración dirigida por Álvaro García Ortiz al gabinete de Presidencia acabó en vía muerta mientras tres periodistas confirman ante el tribunal que accedieron al contenido del correo antes que el fiscal general; El negocio de productos para vagos: por qué triunfan los ajos pelados y la fruta troceada: Los lineales de los supermercados se han llenado de productos ya preparados como los huevos fritos (envasados) o las patatas cocidas. No es solo una cuestión de pereza; \"Un revulsivo de esperanza\": la izquierda europea (y española) quiere copiar a Mamdani: Algunos políticos de partidos de izquierda de Alemania, Francia, Reino Unido y España han viajado a Nueva York durante la campaña de Zohran Mamdani a la alcaldía. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-06T06:44:50Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La Fiscalía, a la caza de un filtrador en \"la tercera planta\" para salvar a García Ortiz",
-      "subtitle": "La Abogacía del Estado y el Ministerio Público siembra la duda razonable sobre quién difundió el correo del novio de Ayuso y buscan cargar parte de la culpa a Miguel Ángel Rodríguez",
-      "url": "https://www.elconfidencial.com/espana/2025-11-05/caza-filtrador-tercera-planta-salvar-garcia-ortiz-dia-dos-juicio_4241534/",
-      "scraped_at": "2025-11-05T06:44:34Z"
+      "title": "Amnesia y borrado de mensajes: Moncloa se blinda de la filtración sobre el novio de Ayuso",
+      "subtitle": "La tesis de una filtración dirigida por Álvaro García Ortiz al gabinete de Presidencia acabó en vía muerta mientras tres periodistas confirman ante el tribunal que accedieron al contenido del correo antes que el fiscal general",
+      "url": "https://www.elconfidencial.com/espana/2025-11-06/filtracion-novio-ayuso-amnesia-borrado-mensajes-moncloa_4242277/",
+      "scraped_at": "2025-11-06T06:44:49Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Moncloa destina a su política de comunicación y redes un presupuesto récord: 78,7 M",
-      "subtitle": "El Gobierno destina a las acciones de comunicación del presidente 60 millones de euros más que lo que destinaban Mariano Rajoy, José Luis Rodríguez Zapatero y José María Aznar",
-      "url": "https://www.elconfidencial.com/espana/2025-11-05/moncloa-presupuesto-record-comunicacion-redes-tiktok_4241540/",
-      "scraped_at": "2025-11-05T06:44:34Z"
+      "title": "El negocio de productos para vagos: por qué triunfan los ajos pelados y la fruta troceada",
+      "subtitle": "Los lineales de los supermercados se han llenado de productos ya preparados como los huevos fritos (envasados) o las patatas cocidas. No es solo una cuestión de pereza",
+      "url": "https://www.elconfidencial.com/economia/2025-11-06/negocio-productos-vagos-ajos-pelados-huevos_4240638/",
+      "scraped_at": "2025-11-06T06:44:49Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pódcast | El 'boom' de los pagos a plazos: por qué los jóvenes financian todo",
-      "subtitle": "El 60% de los asistentes al festival de Coachella este año financiaron su entrada. Una tendencia que también encontramos en bodas, viajes... ¿Qué se esconde tras este fenómeno?",
-      "url": "https://www.elconfidencial.com/economia/2025-10-28/en-que-se-endeudan-los-jovenes-bra_4231354/",
-      "scraped_at": "2025-11-05T06:44:34Z"
+      "title": "\"Un revulsivo de esperanza\": la izquierda europea (y española) quiere copiar a Mamdani",
+      "subtitle": "Algunos políticos de partidos de izquierda de Alemania, Francia, Reino Unido y España han viajado a Nueva York durante la campaña de Zohran Mamdani a la alcaldía",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-06/izquierda-quiere-copiar-mamdani-revulsivo_4241497/",
+      "scraped_at": "2025-11-06T06:44:49Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Las 'cartas' del miedo, el aviso de Hacienda a los contribuyentes españoles: qué es y quién la puede recibir",
+      "subtitle": "La Ley General Tributaria lo confirma: así se clasifican las sanciones tributarias en leves, graves y muy graves\r\n\tSigue a El Confidencial en Google Discover para enterarte",
+      "url": "https://www.elconfidencial.com/economia/2025-11-04/cartas-miedo-aviso-hacienda-espanoles-que-es-quien-la-puede-recibir-1qrt_4241308/",
+      "scraped_at": "2025-11-06T06:44:50Z"
     }
   ]
 }
