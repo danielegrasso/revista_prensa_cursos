@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Amnesia y borrado de mensajes: Moncloa se blinda de la filtración sobre el novio de Ayuso: La tesis de una filtración dirigida por Álvaro García Ortiz al gabinete de Presidencia acabó en vía muerta mientras tres periodistas confirman ante el tribunal que accedieron al contenido del correo antes que el fiscal general; El negocio de productos para vagos: por qué triunfan los ajos pelados y la fruta troceada: Los lineales de los supermercados se han llenado de productos ya preparados como los huevos fritos (envasados) o las patatas cocidas. No es solo una cuestión de pereza; \"Un revulsivo de esperanza\": la izquierda europea (y española) quiere copiar a Mamdani: Algunos políticos de partidos de izquierda de Alemania, Francia, Reino Unido y España han viajado a Nueva York durante la campaña de Zohran Mamdani a la alcaldía. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-06T06:44:50Z",
+  "summary": "Resumen del día en El Confidencial: Sánchez reta a Junts con la financiación y el riesgo de perder 4.500 millones al año: Moncloa sigue con calma las amenazas de los de Puigdemont porque tiene un as en la manga: el nuevo modelo de financiación para las CCAA que Junts no se atreverá a tumbar; El FMI entierra el auge del liberalismo industrial posterior a la caída del Muro: El mundo está cambiando. Eso es lo que piensa un importante artículo elaborado por el FMI en el que acredita que las tensiones geopolíticas han liquidado los paradigmas del comercio mundial puestos en circulación desde los años 80; Los 'boomers' también tienen problemas 'millennial': \"A los 63 debo buscarme la vida\": Frente a la teoría de que los problemas son generacionales y que los mayores de 50 son unos privilegiados, hay determinadas coyunturas (laborales o de vivienda) que comparten. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-07T06:44:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Amnesia y borrado de mensajes: Moncloa se blinda de la filtración sobre el novio de Ayuso",
-      "subtitle": "La tesis de una filtración dirigida por Álvaro García Ortiz al gabinete de Presidencia acabó en vía muerta mientras tres periodistas confirman ante el tribunal que accedieron al contenido del correo antes que el fiscal general",
-      "url": "https://www.elconfidencial.com/espana/2025-11-06/filtracion-novio-ayuso-amnesia-borrado-mensajes-moncloa_4242277/",
-      "scraped_at": "2025-11-06T06:44:49Z"
+      "title": "Sánchez reta a Junts con la financiación y el riesgo de perder 4.500 millones al año",
+      "subtitle": "Moncloa sigue con calma las amenazas de los de Puigdemont porque tiene un as en la manga: el nuevo modelo de financiación para las CCAA que Junts no se atreverá a tumbar",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-11-07/sanchez-financiacion-autonomica-junts-calendario-negociacion_4242046/",
+      "scraped_at": "2025-11-07T06:44:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El negocio de productos para vagos: por qué triunfan los ajos pelados y la fruta troceada",
-      "subtitle": "Los lineales de los supermercados se han llenado de productos ya preparados como los huevos fritos (envasados) o las patatas cocidas. No es solo una cuestión de pereza",
-      "url": "https://www.elconfidencial.com/economia/2025-11-06/negocio-productos-vagos-ajos-pelados-huevos_4240638/",
-      "scraped_at": "2025-11-06T06:44:49Z"
+      "title": "El FMI entierra el auge del liberalismo industrial posterior a la caída del Muro",
+      "subtitle": "El mundo está cambiando. Eso es lo que piensa un importante artículo elaborado por el FMI en el que acredita que las tensiones geopolíticas han liquidado los paradigmas del comercio mundial puestos en circulación desde los años 80",
+      "url": "https://www.elconfidencial.com/economia/2025-11-07/comercial-fmi-informe-omc-cambio-climatico-liberalismo_4242103/",
+      "scraped_at": "2025-11-07T06:44:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Un revulsivo de esperanza\": la izquierda europea (y española) quiere copiar a Mamdani",
-      "subtitle": "Algunos políticos de partidos de izquierda de Alemania, Francia, Reino Unido y España han viajado a Nueva York durante la campaña de Zohran Mamdani a la alcaldía",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-06/izquierda-quiere-copiar-mamdani-revulsivo_4241497/",
-      "scraped_at": "2025-11-06T06:44:49Z"
+      "title": "Los 'boomers' también tienen problemas 'millennial': \"A los 63 debo buscarme la vida\"",
+      "subtitle": "Frente a la teoría de que los problemas son generacionales y que los mayores de 50 son unos privilegiados, hay determinadas coyunturas (laborales o de vivienda) que comparten",
+      "url": "https://www.elconfidencial.com/espana/2025-11-07/boomers-problemas-millennial_4242053/",
+      "scraped_at": "2025-11-07T06:44:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las 'cartas' del miedo, el aviso de Hacienda a los contribuyentes españoles: qué es y quién la puede recibir",
-      "subtitle": "La Ley General Tributaria lo confirma: así se clasifican las sanciones tributarias en leves, graves y muy graves\r\n\tSigue a El Confidencial en Google Discover para enterarte",
-      "url": "https://www.elconfidencial.com/economia/2025-11-04/cartas-miedo-aviso-hacienda-espanoles-que-es-quien-la-puede-recibir-1qrt_4241308/",
-      "scraped_at": "2025-11-06T06:44:50Z"
+      "title": "Los cárteles gringos: la gran mentira del tráfico de drogas que esconde Estados Unidos",
+      "subtitle": "Moteros, farmacéuticos, banqueros y armeros estadounidenses controlan el tráfico de estupefacientes en su país",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-07/drogas-narcotrafico-estados-unidos-1hms_4241162/",
+      "scraped_at": "2025-11-07T06:44:36Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Tifón Filipinas",
+      "subtitle": "La isla de Cebú, con 71 fallecidos, es la zona más afectada por Kalmaegi, que cruzó entre el martes y el miércoles el país con vientos huracanados e intensas precipitaciones",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-05/tifon-kalmaegi-filipinas-cebu-victimas-1tps_4242546/",
+      "scraped_at": "2025-11-07T06:44:37Z"
     }
   ]
 }

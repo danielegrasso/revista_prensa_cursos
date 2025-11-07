@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: García Ortiz intenta ahora salvarse en el Supremo gracias a la noticia de EL MUNDO que descalificó durante meses: La defensa del fiscal general del Estado se apoya en los datos del pacto desvelados por este diario; Y el \"bulo\" mutó en \"exclusiva\": Seis periodistas comparecieron tras el prudente Lobato y la amnésica Sánchez Acera. Hubo un dilema moral, un alegato interrumpido y una hermosa mutación en la defensa; El último soldado español en el Sáhara, 50 años después de la Marcha Verde: \"Ni en mil vidas olvidaría cómo nos fuimos de allí\": Se cumplen 50 años de la Marcha Verde, la movilización masiva de civiles por parte de Marruecos hacia el Sáhara que condicionó la salida de España de su 53ª provincia. Tres militares que estuvieron allí reconstruyen en EL MUNDO los últimos días de presencia española en el territorio. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-06T06:44:37Z",
+  "summary": "Resumen del día en El Mundo: Sánchez se queda ya sin margen para aprobar seis leyes imprescindibles para recibir fondos europeos pendientes: Junts confirma que bloquea al menos media docena de las prometidas a la UE para recibir los más de 90.000 millones que quedan; \"Pueden sacar a Franco ocho veces más, que no funcionará\": el PP da por finiquitada la legislatura tras el veto de Junts: Consideran que \"cada Consejo de Ministros será una farsa\" en medio del bloqueo de los de Puigdemont; Sánchez se unirá a Petro y Lula en la cumbre CELAC que tratará las acciones militares de Trump: Santa Marta alberga el cuarto acercamiento entre ambos continentes en pleno despliegue naval de Estados Unidos. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-07T06:44:23Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "García Ortiz intenta ahora salvarse en el Supremo gracias a la noticia de EL MUNDO que descalificó durante meses",
-      "subtitle": "La defensa del fiscal general del Estado se apoya en los datos del pacto desvelados por este diario",
-      "url": "https://www.elmundo.es/espana/2025/11/05/690b9433e4d4d8f5158b4586.html",
-      "scraped_at": "2025-11-06T06:44:36Z"
+      "title": "Sánchez se queda ya sin margen para aprobar seis leyes imprescindibles para recibir fondos europeos pendientes",
+      "subtitle": "Junts confirma que bloquea al menos media docena de las prometidas a la UE para recibir los más de 90.000 millones que quedan",
+      "url": "https://www.elmundo.es/espana/2025/11/06/690cf0d2e85ece1c598b4599.html",
+      "scraped_at": "2025-11-07T06:44:22Z"
     },
     {
       "source": "El Mundo",
-      "title": "Y el \"bulo\" mutó en \"exclusiva\"",
-      "subtitle": "Seis periodistas comparecieron tras el prudente Lobato y la amnésica Sánchez Acera. Hubo un dilema moral, un alegato interrumpido y una hermosa mutación en la defensa",
-      "url": "https://www.elmundo.es/espana/2025/11/05/690b8410e9cf4adf098b4582.html",
-      "scraped_at": "2025-11-06T06:44:36Z"
+      "title": "\"Pueden sacar a Franco ocho veces más, que no funcionará\": el PP da por finiquitada la legislatura tras el veto de Junts",
+      "subtitle": "Consideran que \"cada Consejo de Ministros será una farsa\" en medio del bloqueo de los de Puigdemont",
+      "url": "https://www.elmundo.es/espana/2025/11/06/690cfc56e85ece705a8b45a4.html",
+      "scraped_at": "2025-11-07T06:44:22Z"
     },
     {
       "source": "El Mundo",
-      "title": "El último soldado español en el Sáhara, 50 años después de la Marcha Verde: \"Ni en mil vidas olvidaría cómo nos fuimos de allí\"",
+      "title": "Sánchez se unirá a Petro y Lula en la cumbre CELAC que tratará las acciones militares de Trump",
+      "subtitle": "Santa Marta alberga el cuarto acercamiento entre ambos continentes en pleno despliegue naval de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2025/11/06/690cd8d5fdddff18458b45aa.html",
+      "scraped_at": "2025-11-07T06:44:22Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Las horas más bajas de la alta velocidad: más trenes, más pesados y falta de inversión",
+      "subtitle": "Cuando el ministro de Transportes, Óscar Puente, compareció en septiembre en el Congreso -a petición propia- para hablar de los problemas que ha experimentado recientemente el...",
+      "url": "https://www.elmundo.es/economia/2025/11/06/68fbb60221efa091088b4596.html",
+      "scraped_at": "2025-11-07T06:44:23Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Marcha Verde Sáhara",
       "subtitle": "Se cumplen 50 años de la Marcha Verde, la movilización masiva de civiles por parte de Marruecos hacia el Sáhara que condicionó la salida de España de su 53ª provincia. Tres militares que estuvieron allí reconstruyen en EL MUNDO los últimos días de presencia española en el territorio",
       "url": "https://www.elmundo.es/espana/2025/11/05/690b5c80fc6c83c4248b45b8.html",
-      "scraped_at": "2025-11-06T06:44:37Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Feijóo refuerza su plan migratorio con un Comité de Dirección en Melilla mientras negocia en Valencia",
-      "subtitle": "El líder del PP reunirá el lunes en la ciudad autónoma a toda la cúpula del partido para apuntalar su postura",
-      "url": "https://www.elmundo.es/espana/2025/11/06/690b9496e4d4d85a3d8b458e.html",
-      "scraped_at": "2025-11-06T06:44:37Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Alcalde Nueva York",
-      "subtitle": "El joven candidato socialista arrasa en las elecciones a la Alcaldía de Nueva York en una gran noche para el Partido Demócrata en todo el país",
-      "url": "https://www.elmundo.es/internacional/2025/11/06/690b7308fdddff34518b4572.html",
-      "scraped_at": "2025-11-06T06:44:37Z"
+      "scraped_at": "2025-11-07T06:44:23Z"
     }
   ]
 }

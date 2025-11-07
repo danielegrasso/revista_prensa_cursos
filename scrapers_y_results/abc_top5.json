@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Torres adjudicó la mayoría de los contratos del Covid a la empresa de «dudosa legalidad» de Aldama: Soluciones de Gestión y Apoyo a Empresas S.L. «carecía de capacidad de obrar con la Administración»; La conexión Moncloa: la 'fontanera' Acera y lo que el juicio no aclarará: Todo apunta a que el jucio del fiscal general del Estado no va a dirimir un punto fundamental en el caso, la activa participación de la Presidencia del Gobierno en la filtración del documento secreto: la asesora tiene amnesia; Linchamientos y propaganda: El juicio a García Ortiz confirma una estrategia de señalamiento político desde las instituciones mientras que la movilización de periodistas en defensa del fiscal desdibuja su perfil profesional. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-06T06:44:44Z",
+  "summary": "Resumen del día en ABC.es: Sánchez renuncia a presentar los Presupuestos este año tras el órdago de Puigdemont: El Gobierno aprobará la senda de déficit en Consejo de Ministros la «próxima semana o la siguiente»; El divorcio PSOE-Junts: dos versiones de una ruptura: El varapalo de la justicia europea y el próximo CIS catalán, detrás del nuevo pulso; Europa deja en evidencia al sector progresista del TC en el fallo sobre Junqueras: El Tribunal Europeo de Derechos Humanos dicta que su prisión preventiva, y la de Turull, fue proporcional y «no arbitraria». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-07T06:44:31Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Torres adjudicó la mayoría de los contratos del Covid a la empresa de «dudosa legalidad» de Aldama",
-      "subtitle": "Soluciones de Gestión y Apoyo a Empresas S.L. «carecía de capacidad de obrar con la Administración»",
-      "url": "https://www.abc.es/espana/torres-adjudico-mayoria-contratos-covid-trama-koldo-20251106032806-nt.html",
-      "scraped_at": "2025-11-06T06:44:43Z"
+      "title": "Sánchez renuncia a presentar los Presupuestos este año tras el órdago de Puigdemont",
+      "subtitle": "El Gobierno aprobará la senda de déficit en Consejo de Ministros la «próxima semana o la siguiente»",
+      "url": "https://www.abc.es/espana/sanchez-renuncia-presentar-presupuestos-ano-tras-ordago-20251107032929-nt.html",
+      "scraped_at": "2025-11-07T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "La conexión Moncloa: la 'fontanera' Acera y lo que el juicio no aclarará",
-      "subtitle": "Todo apunta a que el jucio del fiscal general del Estado no va a dirimir un punto fundamental en el caso, la activa participación de la Presidencia del Gobierno en la filtración del documento secreto: la asesora tiene amnesia",
-      "url": "https://www.abc.es/espana/javier-chicote-conexion-moncloa-fontanera-acera-juicio-aclarara-20251106033033-nt.html",
-      "scraped_at": "2025-11-06T06:44:43Z"
+      "title": "El divorcio PSOE-Junts: dos versiones de una ruptura",
+      "subtitle": "El varapalo de la justicia europea y el próximo CIS catalán, detrás del nuevo pulso",
+      "url": "https://www.abc.es/espana/psoe-cree-junts-reacciona-ante-proximas-encuestas-20251107192449-nt.html",
+      "scraped_at": "2025-11-07T06:44:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Linchamientos y propaganda",
-      "subtitle": "El juicio a García Ortiz confirma una estrategia de señalamiento político desde las instituciones mientras que la movilización de periodistas en defensa del fiscal desdibuja su perfil profesional",
-      "url": "https://www.abc.es/opinion/editorial-linchamientos-propaganda-20251106193102-nt.html",
-      "scraped_at": "2025-11-06T06:44:43Z"
+      "title": "Europa deja en evidencia al sector progresista del TC en el fallo sobre Junqueras",
+      "subtitle": "El Tribunal Europeo de Derechos Humanos dicta que su prisión preventiva, y la de Turull, fue proporcional y «no arbitraria»",
+      "url": "https://www.abc.es/espana/cataluna/europa-deja-evidencia-sector-progresista-tc-fallo-20251106190422-nt.html",
+      "scraped_at": "2025-11-07T06:44:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los últimos españoles en el Sahara: «El Polisario se equivocó de enemigo, era Marruecos no España»",
-      "subtitle": "Cincuenta años de la Marcha Verde, la movilización de Marruecos para ocupar el Sahara Occidental, los últimos testigos españoles rememoran sus años en el territorio",
-      "url": "https://www.abc.es/internacional/polisario-equivoco-enemigo-era-marruecos-espana-20251105184610-nt.html",
-      "scraped_at": "2025-11-06T06:44:44Z"
+      "title": "Las grietas del megaproyecto del Santiago Bernabéu",
+      "subtitle": "Los sobrecostes de la obra, el freno a los conciertos y el revés judicial por el parking golpearon duro en los planes de crecimiento del Real Madrid",
+      "url": "https://www.abc.es/deportes/real-madrid/grietas-megaproyecto-bernabeu-20251107170152-nt.html",
+      "scraped_at": "2025-11-07T06:44:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Álvaro García Ortiz",
-      "subtitle": "Sigue en directo las esperables declaraciones a lo largo del día de Juan Lobato, Pilar Sánchez Acera y varios periodistas en el juicio al fiscal general por revelación de secretos: el análisis y todas las reacciones a la tercera jornada del juicio hoy, miércoles 5 de noviembre",
-      "url": "https://www.abc.es/espana/juicio-alvaro-garcia-ortiz-revelacion-secretos-filtracion-20251105093036-di.html",
-      "scraped_at": "2025-11-06T06:44:44Z"
+      "title": "Crítica Rosalía",
+      "subtitle": "Las primeras críticas del nuevo álbum de la catalana, de Rolling Stone Brasil y The Guardian, se saldan con la máxima puntuación",
+      "url": "https://www.abc.es/cultura/musica/disco-impresionante-estrella-pop-decadas-critica-extranjera-20251106130922-nt.html",
+      "scraped_at": "2025-11-07T06:44:31Z"
     }
   ]
 }
