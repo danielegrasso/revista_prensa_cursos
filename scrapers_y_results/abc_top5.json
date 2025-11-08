@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez renuncia a presentar los Presupuestos este año tras el órdago de Puigdemont: El Gobierno aprobará la senda de déficit en Consejo de Ministros la «próxima semana o la siguiente»; El divorcio PSOE-Junts: dos versiones de una ruptura: El varapalo de la justicia europea y el próximo CIS catalán, detrás del nuevo pulso; Europa deja en evidencia al sector progresista del TC en el fallo sobre Junqueras: El Tribunal Europeo de Derechos Humanos dicta que su prisión preventiva, y la de Turull, fue proporcional y «no arbitraria». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-07T06:44:31Z",
+  "summary": "Resumen del día en ABC.es: Las bolsas con dinero que llevó Carmen Pano a Ferraz decidirán la imputación del PSOE: El testimonio de la empresaria será clave para que las acusaciones populares pidan investigar al partido y el posible registro de su sede; Moncloa pactó con Air Europa la entrada de capital turco a cambio de amortizar antes del rescate: Moncloa se reunió con los Hidalgo para descartar una posición de control de los turcos y evitar vetos de Competencia y Manuel de la Rocha aprobó el acuerdo a cambio de amortizar un año antes el crédito de 475 millones por el rescate de la aérea; Sin ayudas para los pobres y caos aéreo por el cierre del Gobierno en EE.UU.: Las cancelaciones de cientos de vuelos y la amenaza a las ayudas para comida de millones de estadounidenses no desbloquean la batalla en el Congreso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-08T06:38:24Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez renuncia a presentar los Presupuestos este año tras el órdago de Puigdemont",
+      "title": "Las bolsas con dinero que llevó Carmen Pano a Ferraz decidirán la imputación del PSOE",
+      "subtitle": "El testimonio de la empresaria será clave para que las acusaciones populares pidan investigar al partido y el posible registro de su sede",
+      "url": "https://www.abc.es/espana/bolsas-dinero-camen-pano-decidiran-imputacion-psoe-20251108030243-nt.html",
+      "scraped_at": "2025-11-08T06:38:24Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Moncloa pactó con Air Europa la entrada de capital turco a cambio de amortizar antes del rescate",
+      "subtitle": "Moncloa se reunió con los Hidalgo para descartar una posición de control de los turcos y evitar vetos de Competencia y Manuel de la Rocha aprobó el acuerdo a cambio de amortizar un año antes el crédito de 475 millones por el rescate de la aérea",
+      "url": "https://www.abc.es/economia/air-europa-extraoficial-gobierno-entrada-turkish-airlines-20251108181900-nt.html",
+      "scraped_at": "2025-11-08T06:38:24Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Sin ayudas para los pobres y caos aéreo por el cierre del Gobierno en EE.UU.",
+      "subtitle": "Las cancelaciones de cientos de vuelos y la amenaza a las ayudas para comida de millones de estadounidenses no desbloquean la batalla en el Congreso",
+      "url": "https://www.abc.es/internacional/ayudas-pobres-caos-aereo-cierre-gobierno-eeuu-20251108030355-nt.html",
+      "scraped_at": "2025-11-08T06:38:24Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Puigdemont teme que Sánchez e Illa pacten un adelanto electoral conjunto",
+      "subtitle": "La opción de ir a las urnas en 2026 fue uno de los motivos de la ruptura con el PSOE",
+      "url": "https://www.abc.es/espana/puigdemont-teme-sanchez-illa-pacten-adelanto-electoral-20251108030522-nt.html",
+      "scraped_at": "2025-11-08T06:38:24Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Presupuestos generales del Estado",
       "subtitle": "El Gobierno aprobará la senda de déficit en Consejo de Ministros la «próxima semana o la siguiente»",
       "url": "https://www.abc.es/espana/sanchez-renuncia-presentar-presupuestos-ano-tras-ordago-20251107032929-nt.html",
-      "scraped_at": "2025-11-07T06:44:29Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El divorcio PSOE-Junts: dos versiones de una ruptura",
-      "subtitle": "El varapalo de la justicia europea y el próximo CIS catalán, detrás del nuevo pulso",
-      "url": "https://www.abc.es/espana/psoe-cree-junts-reacciona-ante-proximas-encuestas-20251107192449-nt.html",
-      "scraped_at": "2025-11-07T06:44:29Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Europa deja en evidencia al sector progresista del TC en el fallo sobre Junqueras",
-      "subtitle": "El Tribunal Europeo de Derechos Humanos dicta que su prisión preventiva, y la de Turull, fue proporcional y «no arbitraria»",
-      "url": "https://www.abc.es/espana/cataluna/europa-deja-evidencia-sector-progresista-tc-fallo-20251106190422-nt.html",
-      "scraped_at": "2025-11-07T06:44:30Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Las grietas del megaproyecto del Santiago Bernabéu",
-      "subtitle": "Los sobrecostes de la obra, el freno a los conciertos y el revés judicial por el parking golpearon duro en los planes de crecimiento del Real Madrid",
-      "url": "https://www.abc.es/deportes/real-madrid/grietas-megaproyecto-bernabeu-20251107170152-nt.html",
-      "scraped_at": "2025-11-07T06:44:30Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Crítica Rosalía",
-      "subtitle": "Las primeras críticas del nuevo álbum de la catalana, de Rolling Stone Brasil y The Guardian, se saldan con la máxima puntuación",
-      "url": "https://www.abc.es/cultura/musica/disco-impresionante-estrella-pop-decadas-critica-extranjera-20251106130922-nt.html",
-      "scraped_at": "2025-11-07T06:44:31Z"
+      "scraped_at": "2025-11-08T06:38:24Z"
     }
   ]
 }

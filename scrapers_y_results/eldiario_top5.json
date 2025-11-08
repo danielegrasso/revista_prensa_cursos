@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno se conjura para mantener su hoja de ruta pese al bloqueo práctico de la legislatura: PSOE y Sumar consideran que el KO sólo se produciría con una moción de censura a priori imposible por la necesidad de que confluyan PP, Vox y Junts en el apoyo a un candidato alternativo; La decisión de Lula de explotar petróleo en la desembocadura del Amazonas ensombrece la COP30: El anuncio reciente resta legitimidad ambiental a Brasil, que pretende liderar la transición energética global y sacar resultados concretos de la COP30 mientras organizaciones de la sociedad civil denuncian en la justicia la licencia de perforación; Guerra civil en el trumpismo por el acercamiento al supremacista Nick Fuentes: Tucker Carlson, ex presentador de la FOX que hizo campaña con Trump para las presidenciales de 2024 y referente del mundo MAGA, amparó las narrativas antisemitas con Fuentes en una entrevista defendida por el director de la Heritage Foundation, lobby ultra que diseñó el Proyecto 2025, una de las bases ideológicas de la agenda de Trump. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-07T06:44:28Z",
+  "summary": "Resumen del día en elDiario.es: Donald Trump acumula crisis un año después de su victoria: El presidente de EEUU cumple un año de su victoria ante Kamala Harris con los aranceles pendientes del Supremo, la guerra en Ucrania camino de los cuatro años, un cierre de la Administración que evidencia las costuras de su agenda ultra, un resurgimiento demócrata y el mundo MAGA revuelto; De la denuncia de la Fiscalía al banquillo: 20 meses de rigor y exclusivas de elDiario.es sobre la pareja de Ayuso: Este periódico desveló el fraude fiscal del empresario y desde entonces ha ofrecido nuevas revelaciones del caso acreditadas en su totalidad: la comisión de 2 millones, el ático, los avances de la investigación...; El PSOE se lanza a la guerra de desgaste contra el PP por su rendición a Vox si no hay elecciones en la Comunitat Valenciana: Los socialistas y sus aliados querían un adelanto rápido para aprovechar el desgaste acumulado por Mazón, aunque no descartan que las negociaciones fracasen por las estrategias de Génova o Abascal. Una de las conversaciones pendientes es la de si Compromís se abrirá a una alianza más amplia con Esquerra Unida y Podem. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-08T06:38:23Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno se conjura para mantener su hoja de ruta pese al bloqueo práctico de la legislatura",
-      "subtitle": "PSOE y Sumar consideran que el KO sólo se produciría con una moción de censura a priori imposible por la necesidad de que confluyan PP, Vox y Junts en el apoyo a un candidato alternativo",
-      "url": "https://www.eldiario.es/politica/gobierno-conjura-mantener-hoja-ruta-pese-bloqueo-practico-legislatura_1_12747742.html",
-      "scraped_at": "2025-11-07T06:44:26Z"
+      "title": "Donald Trump acumula crisis un año después de su victoria",
+      "subtitle": "El presidente de EEUU cumple un año de su victoria ante Kamala Harris con los aranceles pendientes del Supremo, la guerra en Ucrania camino de los cuatro años, un cierre de la Administración que evidencia las costuras de su agenda ultra, un resurgimiento demócrata y el mundo MAGA revuelto",
+      "url": "https://www.eldiario.es/internacional/trump-acumula-crisis-ano-despues-victoria_129_12751795.html",
+      "scraped_at": "2025-11-08T06:38:21Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La decisión de Lula de explotar petróleo en la desembocadura del Amazonas ensombrece la COP30",
-      "subtitle": "El anuncio reciente resta legitimidad ambiental a Brasil, que pretende liderar la transición energética global y sacar resultados concretos de la COP30 mientras organizaciones de la sociedad civil denuncian en la justicia la licencia de perforación",
-      "url": "https://www.eldiario.es/sociedad/decision-lula-explotar-petroleo-desembocadura-amazonas-ensombrece-comienzo-cop30_1_12746792.html",
-      "scraped_at": "2025-11-07T06:44:26Z"
+      "title": "De la denuncia de la Fiscalía al banquillo: 20 meses de rigor y exclusivas de elDiario.es sobre la pareja de Ayuso",
+      "subtitle": "Este periódico desveló el fraude fiscal del empresario y desde entonces ha ofrecido nuevas revelaciones del caso acreditadas en su totalidad: la comisión de 2 millones, el ático, los avances de la investigación...",
+      "url": "https://www.eldiario.es/politica/denuncia-fiscalia-banquillo-20-meses-rigor-exclusivas-eldiario-pareja-ayuso_1_12751158.html",
+      "scraped_at": "2025-11-08T06:38:21Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Guerra civil en el trumpismo por el acercamiento al supremacista Nick Fuentes",
-      "subtitle": "Tucker Carlson, ex presentador de la FOX que hizo campaña con Trump para las presidenciales de 2024 y referente del mundo MAGA, amparó las narrativas antisemitas con Fuentes en una entrevista defendida por el director de la Heritage Foundation, lobby ultra que diseñó el Proyecto 2025, una de las bases ideológicas de la agenda de Trump",
-      "url": "https://www.eldiario.es/internacional/guerra-civil-trumpismo-acercamiento-lider-supremacista-nick-fuentes_1_12748354.html",
-      "scraped_at": "2025-11-07T06:44:27Z"
+      "title": "El PSOE se lanza a la guerra de desgaste contra el PP por su rendición a Vox si no hay elecciones en la Comunitat Valenciana",
+      "subtitle": "Los socialistas y sus aliados querían un adelanto rápido para aprovechar el desgaste acumulado por Mazón, aunque no descartan que las negociaciones fracasen por las estrategias de Génova o Abascal. Una de las conversaciones pendientes es la de si Compromís se abrirá a una alianza más amplia con Esquerra Unida y Podem",
+      "url": "https://www.eldiario.es/politica/psoe-lanza-guerra-desgaste-pp-rendicion-vox-si-no-hay-elecciones-comunitat-valenciana_1_12750042.html",
+      "scraped_at": "2025-11-08T06:38:22Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno de Trump salva una votación en el Senado que le limitaba la capacidad de atacar Venezuela",
-      "subtitle": "La Resolución de Poderes de Guerra en relación a Venezuela no ha prosperado este jueves por 51 a 49 votos: la posibilidad de que saliera adelante llevó a la Administración Trump a apaciguar 'in extremis' a los republicanos del Congreso admitiendo que no tenía justificación legal para los ataques, si bien está trabjándola",
-      "url": "https://www.eldiario.es/internacional/trump-salva-minima-votacion-senado-frenar-ataque-venezuela-decir-no-base-legal-hacerlo_1_12748648.html",
-      "scraped_at": "2025-11-07T06:44:27Z"
+      "title": "Codicia en el Ártico: las potencias detrás de su destrucción pugnan por controlar la riqueza destapada por el deshielo",
+      "subtitle": "EEUU, Rusia o China, los principales causantes del calentamiento global que derrite el polo norte, chocan por el dominio de las rutas comerciales y los yacimientos abiertos en el Ártico, mientras la desaparición de hielo altera el clima mundial",
+      "url": "https://www.eldiario.es/sociedad/codicia-artico-potencias-detras-destruccion-pugnan-controlar-riquezas-destapadas-deshielo_1_12727843.html",
+      "scraped_at": "2025-11-08T06:38:22Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Víctimas dana",
-      "subtitle": "\"Si de verdad lo sienten, les pido que una vez me vaya de aquí aplaudan todos ustedes. Solo así entenderé que mi presencia aquí, que mi dolor, haya valido la pena\", ha pedido Toñi García, de la Associacio Victimes de la Dana 29 d'Octubre 2024",
-      "url": "https://www.eldiario.es/politica/victima-dana-ruega-pp-vox-aplaudan-negarse-durante-tres-dias_1_12746480.html",
-      "scraped_at": "2025-11-07T06:44:28Z"
+      "title": "Pareja de Ayuso",
+      "subtitle": "Los jueces de la Audiencia Provincial rechazan los dos últimos recursos de Alberto González Amador contra su procesamiento en la pieza principal y confirman la decisión de la jueza de dar por finalizada la investigación y enviar a juicio",
+      "url": "https://www.eldiario.es/politica/audiencia-madrid-confirma-procesamiento-pareja-ayuso-caso-fraude-fiscal_1_12750060.html",
+      "scraped_at": "2025-11-08T06:38:23Z"
     }
   ]
 }
