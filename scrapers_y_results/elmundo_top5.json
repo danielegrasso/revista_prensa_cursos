@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El PP se volcará en medidas que puede apoyar Junts: \"El objetivo es que caiga el Gobierno y ahora parece que ellos se apuntan\": Acelerará las cuestiones sobre autónomos, IVA, IRPF, inmigración, okupación o nucleares; Puigdemont desprecia los guiños de Sánchez: \"Nos mantenemos en el no; no hay marcha atrás\": El Gobierno mueve ficha y desbloquea tras 10 meses la ley de multirreincidencia; Anticorrupción acerca el foco al ministro Torres por el \"cobro de las mascarillas\" en el 'caso Koldo': La Fiscalía subraya cómo el asesor de Ábalos influía también en los pagos, donde su enlace era el hoy ministro, como documentó la UCO en su último informe. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-08T06:38:19Z",
+  "summary": "Resumen del día en El Mundo: El PP mantiene su ventaja y Vox ya le roba votos al PSOE: Feijóo supera a Sánchez en 6,2 puntos y 34 escaños. Pese a crecer un diputado en el último mes, los socialistas no tendrían opción de gobernar. Abascal anota su mejor dato, llega al 16,2% y 55 representantes; El juicio del fiscal general evidencia que la filtración sobre el novio de Ayuso carece de precedentes: Varios testigos confirman en su declaración en el Tribunal Supremo las prisas de García Ortiz para obtener datos fiscales de Alberto González Amador; ¿Quién puede dudar de un fiscal general?: García Ortiz utilizó \"rotundamente\" su influencia como alta autoridad para intentar intimidarnos a través de la mentira. El juicio será trascendental: es el Estado contra el Estado. En la batalla moral, ocurra lo que ocurra, nos sentimos ganadores. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-09T06:38:48Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El PP se volcará en medidas que puede apoyar Junts: \"El objetivo es que caiga el Gobierno y ahora parece que ellos se apuntan\"",
-      "subtitle": "Acelerará las cuestiones sobre autónomos, IVA, IRPF, inmigración, okupación o nucleares",
-      "url": "https://www.elmundo.es/espana/2025/11/07/690e54eee4d4d84e098b45b3.html",
-      "scraped_at": "2025-11-08T06:38:18Z"
+      "title": "El PP mantiene su ventaja y Vox ya le roba votos al PSOE",
+      "subtitle": "Feijóo supera a Sánchez en 6,2 puntos y 34 escaños. Pese a crecer un diputado en el último mes, los socialistas no tendrían opción de gobernar. Abascal anota su mejor dato, llega al 16,2% y 55 representantes",
+      "url": "https://www.elmundo.es/espana/encuestas/2025/11/08/690f753721efa05a0d8b4578.html",
+      "scraped_at": "2025-11-09T06:38:47Z"
     },
     {
       "source": "El Mundo",
-      "title": "Puigdemont desprecia los guiños de Sánchez: \"Nos mantenemos en el no; no hay marcha atrás\"",
-      "subtitle": "El Gobierno mueve ficha y desbloquea tras 10 meses la ley de multirreincidencia",
-      "url": "https://www.elmundo.es/espana/2025/11/07/690e4237fc6c832c338b4591.html",
-      "scraped_at": "2025-11-08T06:38:18Z"
+      "title": "El juicio del fiscal general evidencia que la filtración sobre el novio de Ayuso carece de precedentes",
+      "subtitle": "Varios testigos confirman en su declaración en el Tribunal Supremo las prisas de García Ortiz para obtener datos fiscales de Alberto González Amador",
+      "url": "https://www.elmundo.es/espana/2025/11/09/690f7d28fdddffe5168b45a1.html",
+      "scraped_at": "2025-11-09T06:38:47Z"
     },
     {
       "source": "El Mundo",
-      "title": "Anticorrupción acerca el foco al ministro Torres por el \"cobro de las mascarillas\" en el 'caso Koldo'",
-      "subtitle": "La Fiscalía subraya cómo el asesor de Ábalos influía también en los pagos, donde su enlace era el hoy ministro, como documentó la UCO en su último informe",
-      "url": "https://www.elmundo.es/espana/2025/11/07/690e57c5e9cf4a78688b45a5.html",
-      "scraped_at": "2025-11-08T06:38:18Z"
+      "title": "¿Quién puede dudar de un fiscal general?",
+      "subtitle": "García Ortiz utilizó \"rotundamente\" su influencia como alta autoridad para intentar intimidarnos a través de la mentira. El juicio será trascendental: es el Estado contra el Estado. En la batalla moral, ocurra lo que ocurra, nos sentimos ganadores",
+      "url": "https://www.elmundo.es/opinion/2025/11/08/690ef153e9cf4ae5518b4594.html",
+      "scraped_at": "2025-11-09T06:38:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "Margen a otra maniobra de Gallardo en el caso del 'hermanísimo' de Sánchez: ya será aforado cuando empiece el juicio",
-      "subtitle": "La Audiencia Judicial fija la celebración del juicio oral 49 días después de las elecciones extremeñas, con Gallardo ya gozando del fuero especial",
-      "url": "https://www.elmundo.es/espana/2025/11/08/690e341ae9cf4a56308b45a2.html",
-      "scraped_at": "2025-11-08T06:38:19Z"
+      "title": "Cara, cruz y tragedia de los profesionales que se opusieron al pelotazo de las mascarillas canarias: \"La han dejado tirada\"",
+      "subtitle": "María Salomé Ballesteros murió sin saber que sus advertencias durante la compra de material sanitario en la pandemia resurgirían años después como símbolo de la integridad de quienes se enfrentan a las presiones del poder: \"Me da igual de dónde venga. Soy funcionaria y tengo que comprobar unos mínimos\", escribió. Junto a ella otros dos empleados públicos encendieron las alarmas ante una superior hoy imputada",
+      "url": "https://www.elmundo.es/cronica/2025/11/08/690e4ae3e4d4d833248b458c.html",
+      "scraped_at": "2025-11-09T06:38:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "Tren de Arauca",
-      "subtitle": "La organización venezolana tenía células autónomas que dirigían treinteañeros",
-      "url": "https://www.elmundo.es/espana/2025/11/07/690e5b2c21efa0351b8b45c1.html",
-      "scraped_at": "2025-11-08T06:38:19Z"
+      "title": "Giorgia Meloni",
+      "subtitle": "La solidez de su coalición ultraconservadora y la ausencia de una alternativa fuerte en la oposición progresista son las claves que la afianzan en el Ejecutivo",
+      "url": "https://www.elmundo.es/internacional/2025/11/09/690dc795fc6c83027b8b45b8.html",
+      "scraped_at": "2025-11-09T06:38:48Z"
     }
   ]
 }
