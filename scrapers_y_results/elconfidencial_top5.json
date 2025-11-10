@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El precio que España empieza a pagar por crecer al doble del ritmo de Europa: La demanda interna sostiene el crecimiento, pero genera tensiones de precios, lo que está provocando un deterioro de la competitividad de España respecto a la eurozona; \"Hay que derogar buena parte de las leyes de incompatibilidades que tienen los políticos\": El expresidente cree que los gobernantes cobran poco y que es difícil atraer talento a la política porque &quot;te atizan por todas partes&quot; y después &quot;te estigmatiza&quot;. Aún así cree que &quot;merece la pena&quot; y publica un nuevo libro: &#039;El arte de gobernar&#039;; Drogas, tiroteos y amenazas: ¿es Bélgica el primer narcoestado de Europa?: El gobierno belga estudia desplegar a los militares en las calles y se ha llegado a plantear un toque de queda en las zonas más calientes del barrio de Anderlecht. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-09T06:38:58Z",
+  "summary": "Resumen del día en El Confidencial: La reducción de emisiones se estanca en España y complica el objetivo de 2030: El desacople entre economía y gases de efecto invernadero debería avanzar a un ritmo más rápido que el de los últimos 17 años, pero las cifras más recientes apuntan en la dirección contraria, con una caída leve en 2024 y un repunte en 2025; La paradoja del nuevo autónomo: huyen de la precariedad o se hunden en ella: El perfil del trabajador por cuenta propia ha empezado a cambiar en España, ya no hay tanto pequeño comerciante o transportistas y se ha disparado el número de profesionales con estudios. Pero la idea del freelance tiene agujeros; El CSIC abandona un edificio en la sierra de Madrid: un agujero de 2,3M solo en saqueos: El Tribunal de Cuentas señala que el organismo, dependiente del Ministerio de Ciencia, Innovación y Universidades, descuidó la vigilancia del complejo durante 9 años. Invirtió 5 millones en su reforma, pero nunca se utilizó. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-10T06:46:00Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El precio que España empieza a pagar por crecer al doble del ritmo de Europa",
-      "subtitle": "La demanda interna sostiene el crecimiento, pero genera tensiones de precios, lo que está provocando un deterioro de la competitividad de España respecto a la eurozona",
-      "url": "https://www.elconfidencial.com/economia/2025-11-09/precio-paga-espana-crece-doble-europa_4244215/",
-      "scraped_at": "2025-11-09T06:38:57Z"
+      "title": "La reducción de emisiones se estanca en España y complica el objetivo de 2030",
+      "subtitle": "El desacople entre economía y gases de efecto invernadero debería avanzar a un ritmo más rápido que el de los últimos 17 años, pero las cifras más recientes apuntan en la dirección contraria, con una caída leve en 2024 y un repunte en 2025",
+      "url": "https://www.elconfidencial.com/economia/2025-11-10/reduccion-emisiones-estanca-cuestiona-objetivo-2030_4243673/",
+      "scraped_at": "2025-11-10T06:45:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Hay que derogar buena parte de las leyes de incompatibilidades que tienen los políticos\"",
-      "subtitle": "El expresidente cree que los gobernantes cobran poco y que es difícil atraer talento a la política porque &quot;te atizan por todas partes&quot; y después &quot;te estigmatiza&quot;. Aún así cree que &quot;merece la pena&quot; y publica un nuevo libro: &#039;El arte de gobernar&#039;",
-      "url": "https://www.elconfidencial.com/espana/2025-11-09/derogar-buna-parte-leyes-incompatibilidades-politicos_4244195/",
-      "scraped_at": "2025-11-09T06:38:57Z"
+      "title": "La paradoja del nuevo autónomo: huyen de la precariedad o se hunden en ella",
+      "subtitle": "El perfil del trabajador por cuenta propia ha empezado a cambiar en España, ya no hay tanto pequeño comerciante o transportistas y se ha disparado el número de profesionales con estudios. Pero la idea del freelance tiene agujeros",
+      "url": "https://www.elconfidencial.com/economia/2025-11-10/autonomos-espana-nuevo-perfil-profesional-liberal_4242255/",
+      "scraped_at": "2025-11-10T06:45:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Drogas, tiroteos y amenazas: ¿es Bélgica el primer narcoestado de Europa?",
-      "subtitle": "El gobierno belga estudia desplegar a los militares en las calles y se ha llegado a plantear un toque de queda en las zonas más calientes del barrio de Anderlecht",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-09/narcotrafico-violencia-amberes-bruselas-bandas-1hms_4243536/",
-      "scraped_at": "2025-11-09T06:38:58Z"
+      "title": "El CSIC abandona un edificio en la sierra de Madrid: un agujero de 2,3M solo en saqueos",
+      "subtitle": "El Tribunal de Cuentas señala que el organismo, dependiente del Ministerio de Ciencia, Innovación y Universidades, descuidó la vigilancia del complejo durante 9 años. Invirtió 5 millones en su reforma, pero nunca se utilizó",
+      "url": "https://www.elconfidencial.com/espana/madrid/2025-11-10/csic-abandona-edificio-publico-sierra-de-madrid-2-3-millones-saqueos_4243751/",
+      "scraped_at": "2025-11-10T06:45:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las potencias se preparan para reventar la caja fuerte del Ártico: \"Es una batalla imperial\"",
-      "subtitle": "Conversamos con Marzio G. Mian, autor de &#039;Guerra Blanca. En el frente ártico del conflicto mundial&#039;, una brutal radiografía geopolítica, ambiental y humana de cómo las grandes mueven sus piezas para el inminente asalto al Ártico",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-09/guerra-artico-rusia-china-geopolitica-1hms_4242268/",
-      "scraped_at": "2025-11-09T06:38:58Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Acaba de llegar a Netflix: la película con Quim Gutiérrez que hay que ver",
-      "subtitle": "Netflix continúa apostando por el talento español y revive joyas olvidadas del cine nacional con títulos que mezclan humor, caos y un reparto estelar, como esta comedia negra que regresa más viva que nunca",
-      "url": "https://www.elconfidencial.com/cultura/cine/2025-11-09/1qrt-netflix-disponible-pelicula-quim-gutierrez-_4242043/",
-      "scraped_at": "2025-11-09T06:38:58Z"
+      "title": "Avance semanal de 'Sueños de libertad': una tienda cambiada, un nuevo director y el grave susto de Damián",
+      "subtitle": "Begoña hará una propuesta sobre Julia en los nuevos capítulos de la serie diaria de Antena 3, pero esta no encontrará el apoyo de los abuelos de la niña",
+      "url": "https://www.elconfidencial.com/television/series-tv/2025-11-10/suenos-de-libertad-avance-semana-46-2025-antena3-diagonaltv_4242242/",
+      "scraped_at": "2025-11-10T06:46:00Z"
     }
   ]
 }

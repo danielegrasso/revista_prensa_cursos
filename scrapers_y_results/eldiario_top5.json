@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El juicio por el correo de la pareja de Ayuso cruza su ecuador sin pruebas de que lo filtrara el fiscal general: Las primeras tres sesiones dejan el testimonio de varios periodistas que reconocieron haber tenido acceso a la confesión antes que Álvaro García Ortiz y la constatación de que fiscales y funcionarios pudieron acceder a la información confidencial en semanas anteriores sin que ese aspecto se haya investigado; El fraude fiscal de la pareja de Ayuso: intrahistoria de un trabajo periodístico excepcional: El trabajo de los periodistas de elDiario.es durante aquellos días permitió dar una enorme cantidad de exclusivas en un corto espacio de tiempo. Nunca Alberto González Amador ni Isabel Díaz Ayuso han podido recriminarnos nada de lo que publicamos y la justicia ha avalado nuestras informaciones; Juan Carlos I, un rey ingrato que sigue libre gracias a los poderes del Estado: El monarca emérito culpa al Gobierno de Pedro Sánchez de su descrédito a cuenta de las investigaciones judiciales que destaparon su intento de fraude fiscal y otros delitos protegidos por la inviolabilidad. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-09T06:38:53Z",
+  "summary": "Resumen del día en elDiario.es: El PP une su destino a Vox a las puertas de un nuevo ciclo electoral: Mientras los populares intentan aglutinar al voto conservador en Extremadura, donde tendrá lugar la primera cita con las urnas, la dirección de Feijóo deja en manos de la extrema derecha el relevo de Mazón en un contexto de crecimiento de los de Abascal en todas las encuestas; Por qué el Supremo no investiga que una asesora de la Moncloa tuviera la confesión de la pareja de Ayuso: El instructor Ángel Hurtado reconoció que Pilar Sánchez Acera se limitó a mandar a Juan Lobato un documento que ya no era secreto porque se había filtrado el día anterior, que es precisamente el argumento con el que la defensa pide la absolución del fiscal general; La COP de Brasil decide si el mundo avanza o si Trump dinamita el esfuerzo común contra el cambio climático: Las negociaciones demostrarán si la colaboracion entre países para atajar la crisis del clima soporta el boicot activo de EEUU al tiempo que el Gobierno brasileño está empeñado en sacar medidas concretas de la primera cumbre realizada en la Amazonia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-10T06:45:54Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El juicio por el correo de la pareja de Ayuso cruza su ecuador sin pruebas de que lo filtrara el fiscal general",
-      "subtitle": "Las primeras tres sesiones dejan el testimonio de varios periodistas que reconocieron haber tenido acceso a la confesión antes que Álvaro García Ortiz y la constatación de que fiscales y funcionarios pudieron acceder a la información confidencial en semanas anteriores sin que ese aspecto se haya investigado",
-      "url": "https://www.eldiario.es/politica/juicio-correo-pareja-ayuso-cruza-ecuador-pruebas-filtrara-fiscal-general_1_12750733.html",
-      "scraped_at": "2025-11-09T06:38:50Z"
+      "title": "El PP une su destino a Vox a las puertas de un nuevo ciclo electoral",
+      "subtitle": "Mientras los populares intentan aglutinar al voto conservador en Extremadura, donde tendrá lugar la primera cita con las urnas, la dirección de Feijóo deja en manos de la extrema derecha el relevo de Mazón en un contexto de crecimiento de los de Abascal en todas las encuestas",
+      "url": "https://www.eldiario.es/politica/pp-une-destino-vox-puertas-nuevo-ciclo-electoral_1_12749085.html",
+      "scraped_at": "2025-11-10T06:45:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El fraude fiscal de la pareja de Ayuso: intrahistoria de un trabajo periodístico excepcional",
-      "subtitle": "El trabajo de los periodistas de elDiario.es durante aquellos días permitió dar una enorme cantidad de exclusivas en un corto espacio de tiempo. Nunca Alberto González Amador ni Isabel Díaz Ayuso han podido recriminarnos nada de lo que publicamos y la justicia ha avalado nuestras informaciones",
-      "url": "https://www.eldiario.es/politica/fraude-fiscal-pareja-ayuso-intrahistoria-trabajo-periodistico-excepcional_129_12751186.html",
-      "scraped_at": "2025-11-09T06:38:51Z"
+      "title": "Por qué el Supremo no investiga que una asesora de la Moncloa tuviera la confesión de la pareja de Ayuso",
+      "subtitle": "El instructor Ángel Hurtado reconoció que Pilar Sánchez Acera se limitó a mandar a Juan Lobato un documento que ya no era secreto porque se había filtrado el día anterior, que es precisamente el argumento con el que la defensa pide la absolución del fiscal general",
+      "url": "https://www.eldiario.es/politica/supremo-no-investiga-asesora-moncloa-tuviera-confesion-pareja-ayuso_1_12750793.html",
+      "scraped_at": "2025-11-10T06:45:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Juan Carlos I, un rey ingrato que sigue libre gracias a los poderes del Estado",
-      "subtitle": "El monarca emérito culpa al Gobierno de Pedro Sánchez de su descrédito a cuenta de las investigaciones judiciales que destaparon su intento de fraude fiscal y otros delitos protegidos por la inviolabilidad",
-      "url": "https://www.eldiario.es/politica/juan-carlos-i-rey-ingrato-sigue-libre-gracias-poderes_129_12751303.html",
-      "scraped_at": "2025-11-09T06:38:51Z"
+      "title": "La COP de Brasil decide si el mundo avanza o si Trump dinamita el esfuerzo común contra el cambio climático",
+      "subtitle": "Las negociaciones demostrarán si la colaboracion entre países para atajar la crisis del clima soporta el boicot activo de EEUU al tiempo que el Gobierno brasileño está empeñado en sacar medidas concretas de la primera cumbre realizada en la Amazonia",
+      "url": "https://www.eldiario.es/sociedad/cop-brasil-decide-si-mundo-avanza-si-trump-dinamita-esfuerzo-comun-cambio-climatico_1_12748992.html",
+      "scraped_at": "2025-11-10T06:45:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez aguanta el órdago de Junts convencido de tener cartas para seguir la partida",
-      "subtitle": "La Moncloa ve “un bloqueo al Congreso pero no al Gobierno” tras el último pulso de los independentistas: “Es una guerra de nervios para la que contamos con el BOE y con mucho temple”. ERC sí augura un aumento de la presión de los de Puigdemont que acabe forzando un anticipo electoral",
-      "url": "https://www.eldiario.es/politica/sanchez-aguanta-ordago-junts-convencido-cartas-seguir-partida_129_12750849.html",
-      "scraped_at": "2025-11-09T06:38:52Z"
+      "title": "Así es la investigación forense de un genocidio para reconstruir los hechos y desmontar la narrativa oficial",
+      "subtitle": "Júlia Nueno Guitart es la editora del libro colectivo ‘Genocidios’ (Galaxia Gutenberg, 2025) en el que se analizan estos procesos desde la perspectiva de la arquitectura forense partiendo del caso de Gaza y con base en otros conflictos coloniales",
+      "url": "https://www.eldiario.es/internacional/investigacion-forense-genocidio-reconstruir-hechos-desmontar-narrativa-oficial_128_12750907.html",
+      "scraped_at": "2025-11-10T06:45:53Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pareja de Ayuso",
-      "subtitle": "Este periódico desveló el fraude fiscal del empresario y desde entonces ha ofrecido nuevas revelaciones del caso acreditadas en su totalidad: la comisión de 2 millones, el ático, los avances de la investigación...",
-      "url": "https://www.eldiario.es/politica/denuncia-fiscalia-banquillo-20-meses-rigor-exclusivas-eldiario-pareja-ayuso_1_12751158.html",
-      "scraped_at": "2025-11-09T06:38:53Z"
+      "title": "Tiendas CBD",
+      "subtitle": "Empresarios con tiendas de cáñamo industrial lamentan una persecución por parte de agentes de la Policía Municipal de Madrid que pone en peligro sus negocios",
+      "url": "https://www.eldiario.es/politica/denuncias-policiales-tiendas-cbd-acaban-archivadas-justicia-tuve-cerrar-acoso-amenazas_1_12700798.html",
+      "scraped_at": "2025-11-10T06:45:54Z"
     }
   ]
 }

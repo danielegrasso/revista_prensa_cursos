@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El PP mantiene su ventaja y Vox ya le roba votos al PSOE: Feijóo supera a Sánchez en 6,2 puntos y 34 escaños. Pese a crecer un diputado en el último mes, los socialistas no tendrían opción de gobernar. Abascal anota su mejor dato, llega al 16,2% y 55 representantes; El juicio del fiscal general evidencia que la filtración sobre el novio de Ayuso carece de precedentes: Varios testigos confirman en su declaración en el Tribunal Supremo las prisas de García Ortiz para obtener datos fiscales de Alberto González Amador; ¿Quién puede dudar de un fiscal general?: García Ortiz utilizó \"rotundamente\" su influencia como alta autoridad para intentar intimidarnos a través de la mentira. El juicio será trascendental: es el Estado contra el Estado. En la batalla moral, ocurra lo que ocurra, nos sentimos ganadores. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-09T06:38:48Z",
+  "summary": "Resumen del día en El Mundo: China aplaude a España en su prensa oficial por \"alinearse abiertamente\" con el país y no \"rendir pleitesía a EEUU\": Alaba a Sánchez por su \"traición inteligente a sus tradicionales alianzas\" y alejarse del resto de Europa. Los Reyes inician un viaje de Estado al máximo nivel; Los votantes de PP y Vox piden un acuerdo para sustituir a Mazón que evite unas elecciones en la Comunidad Valenciana: El 89,5% de los electores 'populares' apoya la dimisión del presidente autonómico por su gestión de la dana que causó 229 muertos; El PSOE pierde el relato: los casos de los jóvenes, las mujeres y los autónomos: Pedro Sánchez proclamó el viernes con la moderación que le caracteriza que \"España está viviendo uno de sus mejores momentos de los últimos 45 años\". Lo hizo.... Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-10T06:45:50Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El PP mantiene su ventaja y Vox ya le roba votos al PSOE",
+      "title": "China aplaude a España en su prensa oficial por \"alinearse abiertamente\" con el país y no \"rendir pleitesía a EEUU\"",
+      "subtitle": "Alaba a Sánchez por su \"traición inteligente a sus tradicionales alianzas\" y alejarse del resto de Europa. Los Reyes inician un viaje de Estado al máximo nivel",
+      "url": "https://www.elmundo.es/espana/2025/11/09/6910d1eb21efa002378b4592.html",
+      "scraped_at": "2025-11-10T06:45:49Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Los votantes de PP y Vox piden un acuerdo para sustituir a Mazón que evite unas elecciones en la Comunidad Valenciana",
+      "subtitle": "El 89,5% de los electores 'populares' apoya la dimisión del presidente autonómico por su gestión de la dana que causó 229 muertos",
+      "url": "https://www.elmundo.es/espana/encuestas/2025/11/10/6910c19efc6c83e11d8b456f.html",
+      "scraped_at": "2025-11-10T06:45:49Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "El PSOE pierde el relato: los casos de los jóvenes, las mujeres y los autónomos",
+      "subtitle": "Pedro Sánchez proclamó el viernes con la moderación que le caracteriza que \"España está viviendo uno de sus mejores momentos de los últimos 45 años\". Lo hizo...",
+      "url": "https://www.elmundo.es/espana/2025/11/10/690f87efe9cf4ab56f8b456d.html",
+      "scraped_at": "2025-11-10T06:45:49Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "La cena con Torres en el reservado del Jai Alai según Aldama: \"Él quería tests PCR como fuera y le daba igual si eran mejores o peores\"",
+      "subtitle": "El empresario reconstruye a EL MUNDO la cena en Madrid que el ministro niega",
+      "url": "https://www.elmundo.es/espana/2025/11/10/6910dbc4e4d4d8c4448b4587.html",
+      "scraped_at": "2025-11-10T06:45:49Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Intención de votos",
       "subtitle": "Feijóo supera a Sánchez en 6,2 puntos y 34 escaños. Pese a crecer un diputado en el último mes, los socialistas no tendrían opción de gobernar. Abascal anota su mejor dato, llega al 16,2% y 55 representantes",
       "url": "https://www.elmundo.es/espana/encuestas/2025/11/08/690f753721efa05a0d8b4578.html",
-      "scraped_at": "2025-11-09T06:38:47Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El juicio del fiscal general evidencia que la filtración sobre el novio de Ayuso carece de precedentes",
-      "subtitle": "Varios testigos confirman en su declaración en el Tribunal Supremo las prisas de García Ortiz para obtener datos fiscales de Alberto González Amador",
-      "url": "https://www.elmundo.es/espana/2025/11/09/690f7d28fdddffe5168b45a1.html",
-      "scraped_at": "2025-11-09T06:38:47Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "¿Quién puede dudar de un fiscal general?",
-      "subtitle": "García Ortiz utilizó \"rotundamente\" su influencia como alta autoridad para intentar intimidarnos a través de la mentira. El juicio será trascendental: es el Estado contra el Estado. En la batalla moral, ocurra lo que ocurra, nos sentimos ganadores",
-      "url": "https://www.elmundo.es/opinion/2025/11/08/690ef153e9cf4ae5518b4594.html",
-      "scraped_at": "2025-11-09T06:38:48Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Cara, cruz y tragedia de los profesionales que se opusieron al pelotazo de las mascarillas canarias: \"La han dejado tirada\"",
-      "subtitle": "María Salomé Ballesteros murió sin saber que sus advertencias durante la compra de material sanitario en la pandemia resurgirían años después como símbolo de la integridad de quienes se enfrentan a las presiones del poder: \"Me da igual de dónde venga. Soy funcionaria y tengo que comprobar unos mínimos\", escribió. Junto a ella otros dos empleados públicos encendieron las alarmas ante una superior hoy imputada",
-      "url": "https://www.elmundo.es/cronica/2025/11/08/690e4ae3e4d4d833248b458c.html",
-      "scraped_at": "2025-11-09T06:38:48Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Giorgia Meloni",
-      "subtitle": "La solidez de su coalición ultraconservadora y la ausencia de una alternativa fuerte en la oposición progresista son las claves que la afianzan en el Ejecutivo",
-      "url": "https://www.elmundo.es/internacional/2025/11/09/690dc795fc6c83027b8b45b8.html",
-      "scraped_at": "2025-11-09T06:38:48Z"
+      "scraped_at": "2025-11-10T06:45:50Z"
     }
   ]
 }

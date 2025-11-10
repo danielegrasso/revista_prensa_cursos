@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno sigue sin asumir sus responsabilidades por la dana: El Ejecutivo de Pedro Sánchez no ha respondido políticamente por sus errores en la gestión de la catástrofe; La inacción del Ejecutivo pone en peligro el futuro de 1.100 médicos de atención primaria: El Gobierno sigue sin prorrogar una medida, a punto de caducar, por la que facultativos jubilados pueden trabajar; Sánchez y Gallardo, un matrimonio de conveniencia unido por el hermano del presidente: La relación entre ambos nunca fue la mejor, uno apostó por otra candidata para liderar al PSOE de Extremadura y el otro fue uno de los grandes apoyos de Susana Díaz en 2017. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-09T06:38:54Z",
+  "summary": "Resumen del día en ABC.es: Los subsidios a los mayores de 52 años disparan un 10% el gasto con el paro a la baja: El primer año tras reformar la ayuda a mayores de 52 años se salda con un incremento del 3% en el número de perceptores; Los blindados 8x8 de la modernización del Ejército de Tierra ya no son eficaces para la guerra actual: Diseñado para misiones como la de Afganistán, no sirven en conflictos de alta intensidad como el de Ucrania; Ucrania se convierte en potencia exportadora de las armas del futuro: La guerra impulsa la industria de la defensa del país, que pasa de depender de Occidente a ser su proveedor. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-10T06:45:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno sigue sin asumir sus responsabilidades por la dana",
-      "subtitle": "El Ejecutivo de Pedro Sánchez no ha respondido políticamente por sus errores en la gestión de la catástrofe",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/gobierno-sigue-asumir-responsabilidades-dana-20251109152333-nt.html",
-      "scraped_at": "2025-11-09T06:38:54Z"
+      "title": "Los subsidios a los mayores de 52 años disparan un 10% el gasto con el paro a la baja",
+      "subtitle": "El primer año tras reformar la ayuda a mayores de 52 años se salda con un incremento del 3% en el número de perceptores",
+      "url": "https://www.abc.es/economia/gasto-subsidios-desempleo-repunta-paro-baja-20251110195401-nt.html",
+      "scraped_at": "2025-11-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "La inacción del Ejecutivo pone en peligro el futuro de 1.100 médicos de atención primaria",
-      "subtitle": "El Gobierno sigue sin prorrogar una medida, a punto de caducar, por la que facultativos jubilados pueden trabajar",
-      "url": "https://www.abc.es/sociedad/cuenta-atras-sanidad-publica-pierda-mil-medicos-20251109174139-nt.html",
-      "scraped_at": "2025-11-09T06:38:54Z"
+      "title": "Los blindados 8x8 de la modernización del Ejército de Tierra ya no son eficaces para la guerra actual",
+      "subtitle": "Diseñado para misiones como la de Afganistán, no sirven en conflictos de alta intensidad como el de Ucrania",
+      "url": "https://www.abc.es/espana/blindados-8x8-futuro-eficaces-guerra-actual-20251110033007-nt.html",
+      "scraped_at": "2025-11-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez y Gallardo, un matrimonio de conveniencia unido por el hermano del presidente",
-      "subtitle": "La relación entre ambos nunca fue la mejor, uno apostó por otra candidata para liderar al PSOE de Extremadura y el otro fue uno de los grandes apoyos de Susana Díaz en 2017",
-      "url": "https://www.abc.es/espana/extremadura/sanchez-gallardo-matrimonio-conveniencia-unido-hermano-presidente-20251109155418-nt.html",
-      "scraped_at": "2025-11-09T06:38:54Z"
+      "title": "Ucrania se convierte en potencia exportadora de las armas del futuro",
+      "subtitle": "La guerra impulsa la industria de la defensa del país, que pasa de depender de Occidente a ser su proveedor",
+      "url": "https://www.abc.es/internacional/ucrania-aspira-potencia-exportadora-armas-futuro-20251109171746-nt.html",
+      "scraped_at": "2025-11-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "La 'santa' Omayra: 40 años de la agonía en directo que estremeció al mundo",
-      "subtitle": "Se cumplen 40 años de la erupción que dejó casi 25.000 muertos, golpeó el corazón de Colombia y convirtió el pueblo de Armero en un camposanto. ABC lo ha recorrido y ha visitado la tumba de la niña cuya agonía estremeció al mundo",
-      "url": "https://www.abc.es/internacional/milagro-nina-omayra-surgio-lava-volcan-nevado-20251107190757-nt.html",
-      "scraped_at": "2025-11-09T06:38:54Z"
+      "title": "Las elecciones extremeñas dificultan la negociación de PP y Vox en Valencia",
+      "subtitle": "En el partido de Abascal preocupa que las conversaciones para acercar posturas coincidan con una campaña donde la confrontación será total",
+      "url": "https://www.abc.es/espana/elecciones-extremenas-amenazan-negociacion-pp-vox-valencia-20251110181208-nt.html",
+      "scraped_at": "2025-11-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
       "title": "Puigdemont",
       "subtitle": "La opción de ir a las urnas en 2026 fue uno de los motivos de la ruptura con el PSOE",
       "url": "https://www.abc.es/espana/puigdemont-teme-sanchez-illa-pacten-adelanto-electoral-20251108030522-nt.html",
-      "scraped_at": "2025-11-09T06:38:54Z"
+      "scraped_at": "2025-11-10T06:45:55Z"
     }
   ]
 }
