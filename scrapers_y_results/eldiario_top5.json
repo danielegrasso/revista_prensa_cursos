@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Los barones del PP temen que la negociación con Vox para sustituir a Mazón les penalice en sus territorios: Extremadura afronta elecciones el 21 de diciembre, Castilla y León en marzo del año que viene y Andalucía en junio, mientras Murcia y Aragón siguen sin presupuestos para 2026; Juanfran Pérez Llorca, el candidato para suceder a Mazón que quiere Vox y del que recela Feijóo: La mano derecha del presidente en funciones y secretario general del PP valenciano pierde opciones para el Palau de la Generalitat a medida que pasan los días; el silencio sobre las negociaciones y la falta de un candidato una semana después de la dimisión de Mazón dan cuenta de las tensiones internas en el PP: \"Nadie me ha comunicado que vaya a ser yo el candidato\", afirma; El juicio al fiscal general encara su recta final con el foco en la UCO y más periodistas que conocieron la confesión de la pareja de Ayuso: Los siguientes días del juicio incluirán las declaraciones de agentes de la Guardia Civil que elaboraron los informes clave y del decano del ICAM, autor de una de las primeras denuncias; después será el turno de García Ortiz. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-11T06:45:05Z",
+  "summary": "Resumen del día en elDiario.es: El Vaticano prepara el relevo del obispo de Cádiz cuatro meses después de recibir la denuncia por abusos sexuales: Rafael Zornoza presentó su renuncia hace más de un año por haber cumplido ya 75, pero la Santa Sede la rechazó. Los expertos no se explican por qué no se tomaron medidas cautelares contra el todavía obispo de Cádiz, cuyo relevo, para el que hay candidatos, podría producirse antes de la llegada del nuevo nuncio a España, que está prevista para diciembre; La hora del fiscal general: García Ortiz negará ante el Supremo haber filtrado la confesión de la pareja de Ayuso: El máximo responsable de la Fiscalía declara este miércoles después de que varios periodistas hayan revelado que conocieron el correo antes que él y sin que aparecieran pruebas de que lo filtró; Las miradas en el juicio se vuelven hacia la Fiscalía de la Comunidad de Madrid: Los testimonios de dos periodistas coinciden en que tuvieron la información sobre el caso del novio de Ayuso antes que el fiscal general y que la recibieron de fuentes de la Fiscalía Superior de Madrid, que dirige Almudena Lastra. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-12T06:44:54Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Los barones del PP temen que la negociación con Vox para sustituir a Mazón les penalice en sus territorios",
-      "subtitle": "Extremadura afronta elecciones el 21 de diciembre, Castilla y León en marzo del año que viene y Andalucía en junio, mientras Murcia y Aragón siguen sin presupuestos para 2026",
-      "url": "https://www.eldiario.es/politica/barones-pp-temen-negociacion-vox-sustituir-mazon-les-penalice-territorios_1_12756708.html",
-      "scraped_at": "2025-11-11T06:45:03Z"
+      "title": "El Vaticano prepara el relevo del obispo de Cádiz cuatro meses después de recibir la denuncia por abusos sexuales",
+      "subtitle": "Rafael Zornoza presentó su renuncia hace más de un año por haber cumplido ya 75, pero la Santa Sede la rechazó. Los expertos no se explican por qué no se tomaron medidas cautelares contra el todavía obispo de Cádiz, cuyo relevo, para el que hay candidatos, podría producirse antes de la llegada del nuevo nuncio a España, que está prevista para diciembre",
+      "url": "https://www.eldiario.es/sociedad/vaticano-prepara-relevo-obispo-cadiz-cuatro-meses-despues-recibir-denuncia-abusos-sexuales_1_12759175.html",
+      "scraped_at": "2025-11-12T06:44:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Juanfran Pérez Llorca, el candidato para suceder a Mazón que quiere Vox y del que recela Feijóo",
-      "subtitle": "La mano derecha del presidente en funciones y secretario general del PP valenciano pierde opciones para el Palau de la Generalitat a medida que pasan los días; el silencio sobre las negociaciones y la falta de un candidato una semana después de la dimisión de Mazón dan cuenta de las tensiones internas en el PP: \"Nadie me ha comunicado que vaya a ser yo el candidato\", afirma",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/juanfran-perez-llorca-candidato-suceder-mazon-quiere-vox-recela-feijoo_1_12756384.html",
-      "scraped_at": "2025-11-11T06:45:03Z"
+      "title": "La hora del fiscal general: García Ortiz negará ante el Supremo haber filtrado la confesión de la pareja de Ayuso",
+      "subtitle": "El máximo responsable de la Fiscalía declara este miércoles después de que varios periodistas hayan revelado que conocieron el correo antes que él y sin que aparecieran pruebas de que lo filtró",
+      "url": "https://www.eldiario.es/politica/hora-fiscal-general-garcia-ortiz-negara-supremo-haber-filtrado-confesion-pareja-ayuso_1_12759437.html",
+      "scraped_at": "2025-11-12T06:44:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juicio al fiscal general encara su recta final con el foco en la UCO y más periodistas que conocieron la confesión de la pareja de Ayuso",
-      "subtitle": "Los siguientes días del juicio incluirán las declaraciones de agentes de la Guardia Civil que elaboraron los informes clave y del decano del ICAM, autor de una de las primeras denuncias; después será el turno de García Ortiz",
-      "url": "https://www.eldiario.es/politica/juicio-fiscal-general-encara-recta-final-foco-uco-periodistas-conocieron-confesion-pareja-ayuso_1_12750909.html",
-      "scraped_at": "2025-11-11T06:45:04Z"
+      "title": "Las miradas en el juicio se vuelven hacia la Fiscalía de la Comunidad de Madrid",
+      "subtitle": "Los testimonios de dos periodistas coinciden en que tuvieron la información sobre el caso del novio de Ayuso antes que el fiscal general y que la recibieron de fuentes de la Fiscalía Superior de Madrid, que dirige Almudena Lastra",
+      "url": "https://www.eldiario.es/politica/miradas-juicio-vuelven-fiscalia-comunidad-madrid_129_12759194.html",
+      "scraped_at": "2025-11-12T06:44:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez busca retratar a Feijóo en el “desastre de gestión” del PP en un nuevo cara a cara en el Congreso",
-      "subtitle": "El presidente comparece a petición propia para hablar de \"la situación de los servicios públicos en España\" con el objetivo de tener horas para echar en cara al PP la dana, el escándalo de los cribados en Andalucía o la privatización de la Sanidad, con el gran exponente de Quirón en la Comunidad de Madrid, mientras el Gobierno confía en salir ileso de los casos judiciales, entre ellos el del fiscal general",
-      "url": "https://www.eldiario.es/politica/sanchez-busca-retratar-feijoo-desastre-gestion-pp-nuevo-cara-cara-congreso_1_12750834.html",
-      "scraped_at": "2025-11-11T06:45:04Z"
+      "title": "Un patio circular como “espacio de acogida” frente al eje “autoritario”: los detalles del proyecto para Cuelgamuros",
+      "subtitle": "La propuesta que ha elegido el jurado para transformar el mausoleo franquista plantea un cambio en el acceso al conjunto eliminando la escalinata y construyendo un gran soportal atravesado por un patio de 40 metros de diámetro que dará acceso a la basílica y al centro de interpretación",
+      "url": "https://www.eldiario.es/sociedad/patio-circular-espacio-acogida-frente-eje-autoritario-detalles-proyecto-cuelgamuros_1_12759445.html",
+      "scraped_at": "2025-11-12T06:44:53Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Permisos trabajo",
-      "subtitle": "Hay varias medidas laborales negociándose en el diálogo social o pendientes de aprobación, que se enfrentan a un contexto muy complicado en el Parlamento y a una patronal en contra de casi todas ellas",
-      "url": "https://www.eldiario.es/economia/frentes-laborales-abiertos-gobierno-permisos-duelo-cuotas-autonomos_1_12748947.html",
-      "scraped_at": "2025-11-11T06:45:05Z"
+      "title": "Borrasca Claudia",
+      "subtitle": "Se esperan abundantes precipitaciones y fuertes rachas de viento en el oeste peninsular y Canarias",
+      "url": "https://www.eldiario.es/sociedad/el-tiempo/borrasca-claudia-descarga-hoy-fuerza-seis-comunidades-avisos-lluvias-vientos-pm_1_12759079.html",
+      "scraped_at": "2025-11-12T06:44:54Z"
     }
   ]
 }
