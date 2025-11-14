@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Leire implica al fiscal general en otro audio con Stampa: \"Tu jefe máximo va a saber lo que tiene que hacer\": Una llamada telefónica aportada a la causa contra las cloacas del PSOE, a la que ha tenido acceso El Confidencial, muestra el interés de Leire Díez por tranquilizar al fiscal Stampa y hacerle saber que García Ortiz estaría al tanto; Y García Ortiz se quitó la toga y trató de volverse humano en su prueba final ante el tribunal: Protagonizó una defensa técnica contra la acusación de revelación de secretos en la que no dejó prueba por tratar de desmontar y defiende &quot;su verdad&quot; en contra de las sospechas de filtración; La educación de élite británica asalta España y Madrid se convierte en su capital: En los próximos años se prevé un diluvio de aperturas de campus británicos en nuestro país. España se ha convertido en la vía de acceso en Europa de la educación de élite. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-13T06:44:50Z",
+  "summary": "Resumen del día en El Confidencial: Fin al juicio histórico del fiscal general: se ve \"impune\", pero la nota de prensa hace difícil su absolución: Su defensa no ha logrado explicar de forma convincente por qué incluyeron en el comunicado que el novio de Ayuso reconocía la comisión de delitos a pesar de que no era necesario para desactivar el supuesto bulo; ¿Y ahora, qué? Las posibilidades de que el TJUE rebata al abogado general y tumbe la amnistía: El informe del letrado ve incompatible la amnistía con la tutela judicial efectiva, consagrada en los artículos 2 y 19 del Tratado de la Unión. El Supremo aún puede formular nuevas preguntas no formuladas por el Tribunal de Cuentas; Viaje a la única región de España donde hay pleno empleo (y quizá sea un problema): La provincia de Lleida es la única cuyos niveles de desempleo pueden mirar a la cara a países como Alemania, pero no todos sus vecinos lo consideran una buena noticia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-14T06:44:43Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Leire implica al fiscal general en otro audio con Stampa: \"Tu jefe máximo va a saber lo que tiene que hacer\"",
+      "title": "Fin al juicio histórico del fiscal general: se ve \"impune\", pero la nota de prensa hace difícil su absolución",
+      "subtitle": "Su defensa no ha logrado explicar de forma convincente por qué incluyeron en el comunicado que el novio de Ayuso reconocía la comisión de delitos a pesar de que no era necesario para desactivar el supuesto bulo",
+      "url": "https://www.elconfidencial.com/espana/2025-11-14/nota-prensa-complica-garcia-ortiz-absolucion_4246963/",
+      "scraped_at": "2025-11-14T06:44:41Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "¿Y ahora, qué? Las posibilidades de que el TJUE rebata al abogado general y tumbe la amnistía",
+      "subtitle": "El informe del letrado ve incompatible la amnistía con la tutela judicial efectiva, consagrada en los artículos 2 y 19 del Tratado de la Unión. El Supremo aún puede formular nuevas preguntas no formuladas por el Tribunal de Cuentas",
+      "url": "https://www.elconfidencial.com/espana/2025-11-14/tjue-abogado-general-amnistia_4246999/",
+      "scraped_at": "2025-11-14T06:44:42Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Viaje a la única región de España donde hay pleno empleo (y quizá sea un problema)",
+      "subtitle": "La provincia de Lleida es la única cuyos niveles de desempleo pueden mirar a la cara a países como Alemania, pero no todos sus vecinos lo consideran una buena noticia",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-11-14/alemania-espanola-pleno-empleo-cataluna_4245313/",
+      "scraped_at": "2025-11-14T06:44:42Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Buscando al camarada Lavrov: ¿ha 'defenestrado' Putin a su ministro de Exteriores?",
+      "subtitle": "El veterano titular de Exteriores ruso no ha aparecido en los últimos eventos del Kremlin, lo que ha desatado rumores sobre un hipotético desencuentro con Putin o problemas de salud",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-14/lavrov-defenestrado-putin_4246875/",
+      "scraped_at": "2025-11-14T06:44:42Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Caso Leire",
       "subtitle": "Una llamada telefónica aportada a la causa contra las cloacas del PSOE, a la que ha tenido acceso El Confidencial, muestra el interés de Leire Díez por tranquilizar al fiscal Stampa y hacerle saber que García Ortiz estaría al tanto",
       "url": "https://www.elconfidencial.com/espana/2025-11-13/audio-stampa-fontanera-psoe-implica-fiscal-general_4246110/",
-      "scraped_at": "2025-11-13T06:44:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Y García Ortiz se quitó la toga y trató de volverse humano en su prueba final ante el tribunal",
-      "subtitle": "Protagonizó una defensa técnica contra la acusación de revelación de secretos en la que no dejó prueba por tratar de desmontar y defiende &quot;su verdad&quot; en contra de las sospechas de filtración",
-      "url": "https://www.elconfidencial.com/espana/2025-11-13/fiscal-general-toga-humano-prueba-final-tribunal_4246232/",
-      "scraped_at": "2025-11-13T06:44:49Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "La educación de élite británica asalta España y Madrid se convierte en su capital",
-      "subtitle": "En los próximos años se prevé un diluvio de aperturas de campus británicos en nuestro país. España se ha convertido en la vía de acceso en Europa de la educación de élite",
-      "url": "https://www.elconfidencial.com/economia/2025-11-13/educacion-elite-britanica-espana-madrid-capital_4243049/",
-      "scraped_at": "2025-11-13T06:44:49Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Las encuestas ya no aciertan como hace años y en parte también es culpa tuya",
-      "subtitle": "Solo una minoría acepta participar en sondeos, lo que complica obtener muestras fiables y obliga a las encuestadoras a innovar en métodos para mejorar la calidad de sus resultados.",
-      "url": "https://www.elconfidencial.com/espana/2025-11-13/baja-respuesta-encuestas-sesgo-estimacion_4243377/",
-      "scraped_at": "2025-11-13T06:44:50Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "La banca podrá prestar a las promotoras ante la escasez de vivienda",
-      "subtitle": "La regulación flexibiliza el consumo de capital del crédito promotor para los bancos si se cumplen requisitos sobre preventas o aportación de equity",
-      "url": "https://www.elconfidencial.com/inmobiliario/2025-11-13/banca-credito-promotor-oferta-de-vivienda-bce-eba_4246385/",
-      "scraped_at": "2025-11-13T06:44:50Z"
+      "scraped_at": "2025-11-14T06:44:43Z"
     }
   ]
 }

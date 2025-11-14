@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las revelaciones de la UCO que cercan a García Ortiz: Los agentes sentencian al fiscal general del Estado: «Tenía el dominio y jerarquía a todos los niveles»; El relato y el metarrelato: García Ortiz mostró ante el tribunal una atención obsesiva por el sesgo de las informaciones periodísticas. Su empeño en desmentir las noticias que atribuía a una inducción ayusista parecía delatar una preocupación más política que jurídica; El Consejo de Europa se reúne con el Gobierno, Feijóo y Pumpido para chequear la salud de la democracia: La misión viajará a Barcelona para reunirse con Rull, presidente del Parlament catalán y miembro de Junts, y Duch, consejero de Illa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-13T06:44:46Z",
+  "summary": "Resumen del día en ABC.es: El dictamen del abogado del TJUE no supone la vuelta de Puigdemont a España: La decisión de Luxemburgo, no vinculada a la opinión del letrado, se dará a conocer en unos meses; Moncloa cree que la abstención de Junts demuestra que la ruptura no es real: El Gobierno muestra su satisfacción por «salvar la semana»: «Esto no es 'Juego de Tronos'»; De las 58 'cheerleaders' a las cinco toneladas de equipaje: las cifras del gran desembarco yanqui en Madrid: Dolphins y Commanders han traído una gran cantidad de material deportivo y humano desde Estados Unidos para hacer frente a los desafíos del partido internacional. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-14T06:44:38Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las revelaciones de la UCO que cercan a García Ortiz",
-      "subtitle": "Los agentes sentencian al fiscal general del Estado: «Tenía el dominio y jerarquía a todos los niveles»",
-      "url": "https://www.abc.es/espana/revelaciones-uco-cercan-garcia-ortiz-20251113041816-nt.html",
-      "scraped_at": "2025-11-13T06:44:44Z"
+      "title": "El dictamen del abogado del TJUE no supone la vuelta de Puigdemont a España",
+      "subtitle": "La decisión de Luxemburgo, no vinculada a la opinión del letrado, se dará a conocer en unos meses",
+      "url": "https://www.abc.es/espana/cataluna/dictamen-abogado-tjue-supone-vuelta-puigdemont-espana-20251114040700-nt.html",
+      "scraped_at": "2025-11-14T06:44:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "El relato y el metarrelato",
-      "subtitle": "García Ortiz mostró ante el tribunal una atención obsesiva por el sesgo de las informaciones periodísticas. Su empeño en desmentir las noticias que atribuía a una inducción ayusista parecía delatar una preocupación más política que jurídica",
-      "url": "https://www.abc.es/espana/ignacio-camacho-relato-metarrelato-20251113042020-nt.html",
-      "scraped_at": "2025-11-13T06:44:45Z"
+      "title": "Moncloa cree que la abstención de Junts demuestra que la ruptura no es real",
+      "subtitle": "El Gobierno muestra su satisfacción por «salvar la semana»: «Esto no es 'Juego de Tronos'»",
+      "url": "https://www.abc.es/espana/moncloa-cree-abstencion-junts-votacion-mantener-cierre-20251114040908-nt.html",
+      "scraped_at": "2025-11-14T06:44:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Consejo de Europa se reúne con el Gobierno, Feijóo y Pumpido para chequear la salud de la democracia",
-      "subtitle": "La misión viajará a Barcelona para reunirse con Rull, presidente del Parlament catalán y miembro de Junts, y Duch, consejero de Illa",
-      "url": "https://www.abc.es/espana/consejo-europa-reune-gobierno-feijoo-pumpido-chequear-20251113042158-nt.html",
-      "scraped_at": "2025-11-13T06:44:45Z"
+      "title": "De las 58 'cheerleaders' a las cinco toneladas de equipaje: las cifras del gran desembarco yanqui en Madrid",
+      "subtitle": "Dolphins y Commanders han traído una gran cantidad de material deportivo y humano desde Estados Unidos para hacer frente a los desafíos del partido internacional",
+      "url": "https://www.abc.es/deportes/cheerleaders-cinco-toneladas-equipaje-cifras-gran-desembarco-20251113193426-nt.html",
+      "scraped_at": "2025-11-14T06:44:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cristina Garrido, madre del único español fallecido: «No hay perdón que valga para los que asesinaron a mi hijo»",
-      "subtitle": "Han pasado diez años del mayor atentado terrorista de la historia en Francia que acabó con la vida de Juan Alberto, que estaba en la sala Bataclan",
-      "url": "https://www.abc.es/internacional/cristina-garrido-madre-unico-espanol-victima-atentado-20251112042440-nt.html",
-      "scraped_at": "2025-11-13T06:44:46Z"
+      "title": "El PP pide la comparecencia de la ministra Robles por la compra del avión turco",
+      "subtitle": "Los de Feijóo en la Cámara Baja registran también una batería de preguntas sobre la última «maniobra a dedo» de la responsable de Defensa",
+      "url": "https://www.abc.es/espana/pp-pide-comparecencia-ministra-robles-compra-avion-20251114191507-nt.html",
+      "scraped_at": "2025-11-14T06:44:37Z"
     },
     {
       "source": "ABC.es",
       "title": "Juicio García Ortiz",
-      "subtitle": "Sigue en directo las declaraciones a lo largo del día de once agentes de la UCO y el propio fiscal general del Estado: el análisis y todas las reacciones a la quinta jornada del juicio hoy, miércoles 12 de noviembre",
-      "url": "https://www.abc.es/espana/juicio-alvaro-garcia-ortiz-revelacion-secretos-filtracion-20251111132720-di.html",
-      "scraped_at": "2025-11-13T06:44:46Z"
+      "subtitle": "Sigue en directo el último día del juicio por revelación de secretos al Fiscal General del Estado, Álvaro García Ortiz con la última hora del caso de la filtración de datos personales de la pareja de Ayuso",
+      "url": "https://www.abc.es/espana/juicio-alvaro-garcia-ortiz-revelacion-secretos-filtracion-20251113080955-di.html",
+      "scraped_at": "2025-11-14T06:44:38Z"
     }
   ]
 }
