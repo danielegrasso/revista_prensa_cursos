@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El dictamen del abogado del TJUE no supone la vuelta de Puigdemont a España: La decisión de Luxemburgo, no vinculada a la opinión del letrado, se dará a conocer en unos meses; Moncloa cree que la abstención de Junts demuestra que la ruptura no es real: El Gobierno muestra su satisfacción por «salvar la semana»: «Esto no es 'Juego de Tronos'»; De las 58 'cheerleaders' a las cinco toneladas de equipaje: las cifras del gran desembarco yanqui en Madrid: Dolphins y Commanders han traído una gran cantidad de material deportivo y humano desde Estados Unidos para hacer frente a los desafíos del partido internacional. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-14T06:44:38Z",
+  "summary": "Resumen del día en ABC.es: «En Venezuela tememos más a la inflación que a los marines de EE.UU.»: Los preparativos para una incursión terrestre no preocupan tanto a pie de calle como los precios disparados; El sueldo de los jóvenes se reduce por primera vez en la última década: Los contratos parciales de los menores de 24 años abren una brecha con el salario medio, que crece a 2.385 euros; La era Calviño vista por Nadia Calviño: «Parecía que alrededor del Gobierno todos actuaban de forma irresponsable»: La exvicepresidenta solo encuentra aciertos y batallas ganadas en el balance de sus 2.000 días en el Gobierno de Sánchez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-15T06:39:04Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El dictamen del abogado del TJUE no supone la vuelta de Puigdemont a España",
+      "title": "«En Venezuela tememos más a la inflación que a los marines de EE.UU.»",
+      "subtitle": "Los preparativos para una incursión terrestre no preocupan tanto a pie de calle como los precios disparados",
+      "url": "https://www.abc.es/internacional/venezuela-tememos-inflacion-marines-eeuu-20251115202458-nt.html",
+      "scraped_at": "2025-11-15T06:39:04Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "El sueldo de los jóvenes se reduce por primera vez en la última década",
+      "subtitle": "Los contratos parciales de los menores de 24 años abren una brecha con el salario medio, que crece a 2.385 euros",
+      "url": "https://www.abc.es/economia/sueldo-jovenes-reduce-primera-vez-ultima-decada-20251115040843-nt.html",
+      "scraped_at": "2025-11-15T06:39:04Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "La era Calviño vista por Nadia Calviño: «Parecía que alrededor del Gobierno todos actuaban de forma irresponsable»",
+      "subtitle": "La exvicepresidenta solo encuentra aciertos y batallas ganadas en el balance de sus 2.000 días en el Gobierno de Sánchez",
+      "url": "https://www.abc.es/economia/era-calvino-vista-nadia-calvino-parecia-alrededor-20251115194656-nt.html",
+      "scraped_at": "2025-11-15T06:39:04Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "El Ayuntamiento de Pamplona subvenciona por igual a asociaciones proetarras y de víctimas de ETA",
+      "subtitle": "Los presupuestos del alcalde de EH Bildu Joseba Asiron destina 3.000 euros a familiares de terroristas y a Covite en su «nuevo plan de convivencia»",
+      "url": "https://www.abc.es/espana/pais-vasco/ayuntamiento-pamplona-subvenciona-igual-asociaciones-proetarras-victimas-20251115040906-nt.html",
+      "scraped_at": "2025-11-15T06:39:04Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Puigdemont",
       "subtitle": "La decisión de Luxemburgo, no vinculada a la opinión del letrado, se dará a conocer en unos meses",
       "url": "https://www.abc.es/espana/cataluna/dictamen-abogado-tjue-supone-vuelta-puigdemont-espana-20251114040700-nt.html",
-      "scraped_at": "2025-11-14T06:44:37Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Moncloa cree que la abstención de Junts demuestra que la ruptura no es real",
-      "subtitle": "El Gobierno muestra su satisfacción por «salvar la semana»: «Esto no es 'Juego de Tronos'»",
-      "url": "https://www.abc.es/espana/moncloa-cree-abstencion-junts-votacion-mantener-cierre-20251114040908-nt.html",
-      "scraped_at": "2025-11-14T06:44:37Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "De las 58 'cheerleaders' a las cinco toneladas de equipaje: las cifras del gran desembarco yanqui en Madrid",
-      "subtitle": "Dolphins y Commanders han traído una gran cantidad de material deportivo y humano desde Estados Unidos para hacer frente a los desafíos del partido internacional",
-      "url": "https://www.abc.es/deportes/cheerleaders-cinco-toneladas-equipaje-cifras-gran-desembarco-20251113193426-nt.html",
-      "scraped_at": "2025-11-14T06:44:37Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El PP pide la comparecencia de la ministra Robles por la compra del avión turco",
-      "subtitle": "Los de Feijóo en la Cámara Baja registran también una batería de preguntas sobre la última «maniobra a dedo» de la responsable de Defensa",
-      "url": "https://www.abc.es/espana/pp-pide-comparecencia-ministra-robles-compra-avion-20251114191507-nt.html",
-      "scraped_at": "2025-11-14T06:44:37Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Juicio García Ortiz",
-      "subtitle": "Sigue en directo el último día del juicio por revelación de secretos al Fiscal General del Estado, Álvaro García Ortiz con la última hora del caso de la filtración de datos personales de la pareja de Ayuso",
-      "url": "https://www.abc.es/espana/juicio-alvaro-garcia-ortiz-revelacion-secretos-filtracion-20251113080955-di.html",
-      "scraped_at": "2025-11-14T06:44:38Z"
+      "scraped_at": "2025-11-15T06:39:04Z"
     }
   ]
 }
