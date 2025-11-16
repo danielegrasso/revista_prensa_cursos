@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Rusia, China, Irán... los amigos de Maduro: Rusia, China, y en un segundo plano, Irán, son las potencias que dan su apoyo a Venezuela y que han advertido a Estados Unidos contra una acción militar; Cuánto hemos cambiado: El próximo jueves se cumplen 50 años de la muerte de Francisco Franco. Aunque hace ya tiempo que se habla de esta efeméride, esta próxima semana va a ser; Amnistía nuclear: Dos líneas de alta tensión se cruzan en el Congreso y obligan a Junts a perdonar la vida al Gobierno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-11-15T06:39:07Z",
+  "summary": "Resumen del día en La Vanguardia: La energía nuclear renace alentada por la geopolítica y el clima: La capacidad atómica se incrementará “al menos un tercio” en la próxima década; Sara Aagesen: “El PP da señales  que lo acercan a un partido negacionista”: “La conferencia del clima de Belém tiene que empujar para eliminar los combustibles fósiles y acelerar las renovables”, señala la vicepresidenta Tercera del; El mal menor de la nuclear: Las grandes tecnológicas de Estados Unidos esperan invertir este próximo año más de 300.000 millones de euros en grandes centros de datos, según informamos hoy en. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-11-16T06:41:03Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Rusia, China, Irán... los amigos de Maduro",
-      "subtitle": "Rusia, China, y en un segundo plano, Irán, son las potencias que dan su apoyo a Venezuela y que han advertido a Estados Unidos contra una acción militar",
-      "url": "https://www.lavanguardia.com/internacional/20251115/11263976/amigos-maduro.html",
-      "scraped_at": "2025-11-15T06:39:06Z"
+      "title": "La energía nuclear renace alentada por la geopolítica y el clima",
+      "subtitle": "La capacidad atómica se incrementará “al menos un tercio” en la próxima década",
+      "url": "https://www.lavanguardia.com/economia/20251116/11267858/centrales-nucleares-renacen-tensiones-geopoliticas-transicion-verde.html",
+      "scraped_at": "2025-11-16T06:41:02Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuánto hemos cambiado",
-      "subtitle": "El próximo jueves se cumplen 50 años de la muerte de Francisco Franco. Aunque hace ya tiempo que se habla de esta efeméride, esta próxima semana va a ser",
-      "url": "https://www.lavanguardia.com/opinion/20251115/11266466/hemos-cambiado.html",
-      "scraped_at": "2025-11-15T06:39:06Z"
+      "title": "Sara Aagesen: “El PP da señales  que lo acercan a un partido negacionista”",
+      "subtitle": "“La conferencia del clima de Belém tiene que empujar para eliminar los combustibles fósiles y acelerar las renovables”, señala la vicepresidenta Tercera del",
+      "url": "https://www.lavanguardia.com/natural/cambio-climatico/20251116/11267217/sara-aagesen-accion-climatica-mundial-debe-seguir-trump-quede-margen.html",
+      "scraped_at": "2025-11-16T06:41:02Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Amnistía nuclear",
-      "subtitle": "Dos líneas de alta tensión se cruzan en el Congreso y obligan a Junts a perdonar la vida al Gobierno",
-      "url": "https://www.lavanguardia.com/politica/20251115/11265863/amnistia-nuclear.html",
-      "scraped_at": "2025-11-15T06:39:06Z"
+      "title": "El mal menor de la nuclear",
+      "subtitle": "Las grandes tecnológicas de Estados Unidos esperan invertir este próximo año más de 300.000 millones de euros en grandes centros de datos, según informamos hoy en",
+      "url": "https://www.lavanguardia.com/opinion/20251116/11268167/mal-menor-nuclear.html",
+      "scraped_at": "2025-11-16T06:41:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Presunto inocente",
-      "subtitle": "Aeropuerto de Barajas. Una pareja, no más de 25-30 años, desayuna en la sala de Iberia. Me fijo en ellos porque los encuentro jóvenes y guapos. Van muy bien vestidos,",
-      "url": "https://www.lavanguardia.com/opinion/20251115/11266181/presunto-inocente.html",
-      "scraped_at": "2025-11-15T06:39:06Z"
+      "title": "Juego táctico, tensa espera y un lejano recuerdo de la dictadura de Franco",
+      "subtitle": "El frente judicial no decide la lucha política, que pronto se retratará en elecciones regionales",
+      "url": "https://www.lavanguardia.com/politica/20251116/11268204/juego-tactico-tensa-espera-vago-recuerdo-dictadura-franco.html",
+      "scraped_at": "2025-11-16T06:41:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los millones de Josep Maria",
-      "subtitle": "Mediodía de un lluvioso jueves que podría haber sido como cualquiera. Madrid sigue con sus obras y sus banderas. Y más patas arriba que nunca de medio Atocha para",
-      "url": "https://www.lavanguardia.com/opinion/20251115/11265520/millones-josep-maria.html",
-      "scraped_at": "2025-11-15T06:39:07Z"
+      "title": "La música catalana deja huella en Hamburgo",
+      "subtitle": "Ovación a la OBC, sardanas multitudinarias y sorpresa con Tarta Relena y el Cor de Cambra del Palau en la ciudad alemana",
+      "url": "https://www.lavanguardia.com/cultura/20251116/11268190/musica-catalana-deja-huella-hamburgo.html",
+      "scraped_at": "2025-11-16T06:41:03Z"
     }
   ]
 }
