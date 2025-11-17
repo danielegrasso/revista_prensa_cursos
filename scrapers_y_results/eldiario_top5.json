@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Del procés al fiscal general: el Supremo, ante su sentencia más relevante del último lustro: La decisión de los siete magistrados de lo Penal sobre la filtración de un correo de la pareja de Ayuso marcará una de las grandes batallas políticas del momento, tal y como hizo en 2019 la condena a los líderes independentistas; El aval a la amnistía del abogado general del Tribunal de Justicia de la UE allana al PP el camino hacia Junts: La aplicación integral de la norma está en manos de los jueces desde hace año y medio y Puigdemont sabe que si alguien tiene ascendente sobre los togados es la derecha, no Sánchez. Con el aval de Europa y el del Constitucional, Feijóo podrá “poner el contador a cero”, tal y como ofreció ya a los independentistas; Pablo Bustinduy: “Toda la gente progresista comparte la necesidad de aunar fuerzas frente a la ola ultra”: El ministro de Derechos Sociales se descarta como candidato de una futura coalición de izquierdas pero ve posible volver gobernar en los próximos comicios si la coalición progresista logra avances en materia de vivienda y de redistribución de la riqueza. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-16T06:41:00Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno calibra cuándo presentar los Presupuestos incluso sin apoyos: En el Ejecutivo abren la puerta a que la presentación de las cuentas se retrase a principios de 2026, pese al compromiso de hacerlo antes de que acabara el año. Lo atribuyen al ajustado calendario parlamentario, aunque pulsar la relación con Junts y medir los tiempos electorales también pesa en la decisión; Las muertes en el trabajo se abren paso en el debate político: “Vemos amputaciones, casos dantescos”: El Gobierno ha declarado 2026 'Año de la Salud y Seguridad en el Trabajo' mientras se negocia la futura la Ley de Prevención y víctimas y sindicatos intentan romper el silencio sobre los accidentes laborales; La progresista Jara gana las elecciones en Chile y se medirá al ultraderechista Kast en segunda vuelta: Jeannette Jara, militante comunista, obtiene un 26,8% de los votos frente al 23,9% del ultraderechista José Antonio Kast. Ambos líderes se enfrentarán en la segunda vuelta del 24 de diciembre. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-17T06:45:35Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Del procés al fiscal general: el Supremo, ante su sentencia más relevante del último lustro",
-      "subtitle": "La decisión de los siete magistrados de lo Penal sobre la filtración de un correo de la pareja de Ayuso marcará una de las grandes batallas políticas del momento, tal y como hizo en 2019 la condena a los líderes independentistas",
-      "url": "https://www.eldiario.es/politica/proces-fiscal-general-supremo-sentencia-relevante-ultimo-lustro_1_12769052.html",
-      "scraped_at": "2025-11-16T06:40:58Z"
+      "title": "El Gobierno calibra cuándo presentar los Presupuestos incluso sin apoyos",
+      "subtitle": "En el Ejecutivo abren la puerta a que la presentación de las cuentas se retrase a principios de 2026, pese al compromiso de hacerlo antes de que acabara el año. Lo atribuyen al ajustado calendario parlamentario, aunque pulsar la relación con Junts y medir los tiempos electorales también pesa en la decisión",
+      "url": "https://www.eldiario.es/politica/gobierno-calibra-presentar-presupuestos-apoyos_1_12768793.html",
+      "scraped_at": "2025-11-17T06:45:32Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El aval a la amnistía del abogado general del Tribunal de Justicia de la UE allana al PP el camino hacia Junts",
-      "subtitle": "La aplicación integral de la norma está en manos de los jueces desde hace año y medio y Puigdemont sabe que si alguien tiene ascendente sobre los togados es la derecha, no Sánchez. Con el aval de Europa y el del Constitucional, Feijóo podrá “poner el contador a cero”, tal y como ofreció ya a los independentistas",
-      "url": "https://www.eldiario.es/politica/aval-amnistia-abogado-general-tribunal-justicia-ue-allana-pp-camino-junts_129_12769531.html",
-      "scraped_at": "2025-11-16T06:40:58Z"
+      "title": "Las muertes en el trabajo se abren paso en el debate político: “Vemos amputaciones, casos dantescos”",
+      "subtitle": "El Gobierno ha declarado 2026 'Año de la Salud y Seguridad en el Trabajo' mientras se negocia la futura la Ley de Prevención y víctimas y sindicatos intentan romper el silencio sobre los accidentes laborales",
+      "url": "https://www.eldiario.es/economia/muertes-trabajo-abren-paso-primera-linea-politica-vemos-amputaciones-casos-dantescos_1_12757851.html",
+      "scraped_at": "2025-11-17T06:45:33Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pablo Bustinduy: “Toda la gente progresista comparte la necesidad de aunar fuerzas frente a la ola ultra”",
-      "subtitle": "El ministro de Derechos Sociales se descarta como candidato de una futura coalición de izquierdas pero ve posible volver gobernar en los próximos comicios si la coalición progresista logra avances en materia de vivienda y de redistribución de la riqueza",
-      "url": "https://www.eldiario.es/politica/pablo-bustinduy-gente-progresista-comparte-necesidad-aunar-fuerzas-frente-ola-ultra_1_12769228.html",
-      "scraped_at": "2025-11-16T06:40:59Z"
+      "title": "La progresista Jara gana las elecciones en Chile y se medirá al ultraderechista Kast en segunda vuelta",
+      "subtitle": "Jeannette Jara, militante comunista, obtiene un 26,8% de los votos frente al 23,9% del ultraderechista José Antonio Kast. Ambos líderes se enfrentarán en la segunda vuelta del 24 de diciembre",
+      "url": "https://www.eldiario.es/internacional/progresista-jara-lidera-recuento-chile-15-escrutado-mediria-ultraderechista-kast-segunda-vuelta_1_12769600.html",
+      "scraped_at": "2025-11-17T06:45:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La ultraderecha, contra los medios públicos: “Es una forma de disciplinar a quien ponga en duda sus valores”",
-      "subtitle": "De Trump a Milei y Le Pen, la extrema derecha cuestiona la existencia de la prensa pública, a la que acusa de “ideologizada” y “woke”; los ultras visten de lucha contra el discurso hegemónico su ataque a la libertad y el derecho a la información",
-      "url": "https://www.eldiario.es/internacional/ultraderecha-medios-publicos-forma-disciplinar-ponga-duda-valores_1_12768948.html",
-      "scraped_at": "2025-11-16T06:40:59Z"
+      "title": "Trump da otro bandazo y afirma que los congresistas republicanos deberían votar a favor de la publicación de los archivos de Epstein",
+      "subtitle": "El giro de Trump con respecto a la votación en la Cámara de Representantes es un reconocimiento implícito de que los partidarios de exigir al Ejecutivo la publicación de los documentos de Epstein cuentan con los votos suficientes para su aprobación",
+      "url": "https://www.eldiario.es/internacional/trump-da-bandazo-afirma-congresistas-republicanos-deberian-votar-favor-publicacion-archivos-epstein_1_12772735.html",
+      "scraped_at": "2025-11-17T06:45:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Jóvenes extrema derecha",
-      "subtitle": "Encuestas y estudios recientes apuntan a que la población joven se siente más atraída por posturas más conservadoras, pero los expertos piden no caer en el alarmismo ante una realidad compleja: \"Interesa que perdamos la esperanza\"",
-      "url": "https://www.eldiario.es/politica/extrema-derecha-trata-colarse-mentes-jovenes-ahora_1_12745828.html",
-      "scraped_at": "2025-11-16T06:41:00Z"
+      "title": "Begoña Gómez",
+      "subtitle": "La secretaria general de Presidencia explica al juez que la asesora de Begoña Gómez no depende de ella y que los correos enviados por su asesora se enviaron mucho antes de que ella accediera al puesto",
+      "url": "https://www.eldiario.es/politica/peinado-archiva-causa-secretaria-general-presidencia-caso-begona-11-dias-despues-imputarla_1_12772353.html",
+      "scraped_at": "2025-11-17T06:45:35Z"
     }
   ]
 }

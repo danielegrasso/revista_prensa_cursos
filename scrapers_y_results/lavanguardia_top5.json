@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La energía nuclear renace alentada por la geopolítica y el clima: La capacidad atómica se incrementará “al menos un tercio” en la próxima década; Sara Aagesen: “El PP da señales  que lo acercan a un partido negacionista”: “La conferencia del clima de Belém tiene que empujar para eliminar los combustibles fósiles y acelerar las renovables”, señala la vicepresidenta Tercera del; El mal menor de la nuclear: Las grandes tecnológicas de Estados Unidos esperan invertir este próximo año más de 300.000 millones de euros en grandes centros de datos, según informamos hoy en. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-11-16T06:41:03Z",
+  "summary": "Resumen del día en La Vanguardia: Hacienda abre el debate de la nueva financiación con las comunidades: El Consejo de Política Fiscal y Financiera se reúne hoy; Quien parte y reparte...: El Gobierno se dispone a abrir una de las discusiones que más agravios y reproches suscitan entre los españoles, ya que mezcla el sentimiento de pertenencia con el; Vox no es Ciudadanos: Vox no es ni se comporta como Ciudadanos (Cs). El Madrid D.F. debería abandonar cualquier esperanza de lo contrario. Cs siempre nos remitió al pasado, al viejo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-11-17T06:45:40Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La energía nuclear renace alentada por la geopolítica y el clima",
-      "subtitle": "La capacidad atómica se incrementará “al menos un tercio” en la próxima década",
-      "url": "https://www.lavanguardia.com/economia/20251116/11267858/centrales-nucleares-renacen-tensiones-geopoliticas-transicion-verde.html",
-      "scraped_at": "2025-11-16T06:41:02Z"
+      "title": "Hacienda abre el debate de la nueva financiación con las comunidades",
+      "subtitle": "El Consejo de Política Fiscal y Financiera se reúne hoy",
+      "url": "https://www.lavanguardia.com/economia/20251117/11269603/hacienda-abre-lineas-generales-reforma-sistema-dar-detalles.html",
+      "scraped_at": "2025-11-17T06:45:39Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sara Aagesen: “El PP da señales  que lo acercan a un partido negacionista”",
-      "subtitle": "“La conferencia del clima de Belém tiene que empujar para eliminar los combustibles fósiles y acelerar las renovables”, señala la vicepresidenta Tercera del",
-      "url": "https://www.lavanguardia.com/natural/cambio-climatico/20251116/11267217/sara-aagesen-accion-climatica-mundial-debe-seguir-trump-quede-margen.html",
-      "scraped_at": "2025-11-16T06:41:02Z"
+      "title": "Quien parte y reparte...",
+      "subtitle": "El Gobierno se dispone a abrir una de las discusiones que más agravios y reproches suscitan entre los españoles, ya que mezcla el sentimiento de pertenencia con el",
+      "url": "https://www.lavanguardia.com/opinion/20251117/11269786/parte-reparte.html",
+      "scraped_at": "2025-11-17T06:45:39Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El mal menor de la nuclear",
-      "subtitle": "Las grandes tecnológicas de Estados Unidos esperan invertir este próximo año más de 300.000 millones de euros en grandes centros de datos, según informamos hoy en",
-      "url": "https://www.lavanguardia.com/opinion/20251116/11268167/mal-menor-nuclear.html",
-      "scraped_at": "2025-11-16T06:41:03Z"
+      "title": "Vox no es Ciudadanos",
+      "subtitle": "Vox no es ni se comporta como Ciudadanos (Cs). El Madrid D.F. debería abandonar cualquier esperanza de lo contrario. Cs siempre nos remitió al pasado, al viejo",
+      "url": "https://www.lavanguardia.com/politica/20251117/11269533/vox-ciudadanos.html",
+      "scraped_at": "2025-11-17T06:45:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Juego táctico, tensa espera y un lejano recuerdo de la dictadura de Franco",
-      "subtitle": "El frente judicial no decide la lucha política, que pronto se retratará en elecciones regionales",
-      "url": "https://www.lavanguardia.com/politica/20251116/11268204/juego-tactico-tensa-espera-vago-recuerdo-dictadura-franco.html",
-      "scraped_at": "2025-11-16T06:41:03Z"
+      "title": "“Que aquí cabemos todos o no cabe ni Dios”",
+      "subtitle": "El 50.º aniversario de la muerte de Francisco Franco Bahamonde, el Caudillo , el Generalísimo , el dictador, es un buen momento para afrontar el problema que tiene",
+      "url": "https://www.lavanguardia.com/politica/20251117/11269539/cabemos-todos-dios.html",
+      "scraped_at": "2025-11-17T06:45:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La música catalana deja huella en Hamburgo",
-      "subtitle": "Ovación a la OBC, sardanas multitudinarias y sorpresa con Tarta Relena y el Cor de Cambra del Palau en la ciudad alemana",
-      "url": "https://www.lavanguardia.com/cultura/20251116/11268190/musica-catalana-deja-huella-hamburgo.html",
-      "scraped_at": "2025-11-16T06:41:03Z"
+      "title": "De la casa del ratón Pérez a Messi en un balcón",
+      "subtitle": "* Los autores forman parte de la comunidad de lectores de La Vanguardia De la casa del ratón Pérez a Messi en un balcón... En Las Fotos de los Lectores de La",
+      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20251116/11255363/casa-raton-perez-messi-balcon.html",
+      "scraped_at": "2025-11-17T06:45:40Z"
     }
   ]
 }

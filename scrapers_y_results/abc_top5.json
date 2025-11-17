@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE asume su próxima debacle autonómica y quiere usar a Vox para debilitar al PP: El partido se prepara para encarar otro ciclo electoral adverso, sin visos de recuperar poder territorial; Sánchez sale de la burbuja a golpe de Tik Tok y Rosalía para pelearle a Abascal el voto joven: Emula la campaña de 2023 para humanizar su imagen y alejarla del desgaste de la gestión y la corrupción; La nota informativa en la que el fiscal general se volcó, clave en el fallo: En el juicio al fiscal general ha quedado claro que la filtración y el comunicado que reveló el correo son imprescindibles. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-16T06:41:01Z",
+  "summary": "Resumen del día en ABC.es: Ábalos pagó en negro con billetes de 500 una parte del local que compró bajo su casa de Valencia: Quedó en su domicilio con los vendedores antes de ir al notario y les dio «un sobre con bin ladens». El exministro insiste en que el precio fue «el de la escritura»; El Gobierno reduce un 30% la inversión para facilitar el acceso a la vivienda en plena crisis habitacional: España solo destina el 0,2% del PIB a políticas públicas de desarrollo residencial, tres veces menos que la media europea; Sira Rego: «No habría un debate con la acogida de menores si los niños fueran blancos»: La ministra de Juventud e Infancia confía en cumplir el plazo para reubicar a los menores que llegan a Canarias, a pesar de la compleja negociación y el retraso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-17T06:45:37Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE asume su próxima debacle autonómica y quiere usar a Vox para debilitar al PP",
-      "subtitle": "El partido se prepara para encarar otro ciclo electoral adverso, sin visos de recuperar poder territorial",
-      "url": "https://www.abc.es/espana/psoe-asume-proxima-debacle-autonomica-relanza-pinza-20251115123805-nt.html",
-      "scraped_at": "2025-11-16T06:41:00Z"
+      "title": "Ábalos pagó en negro con billetes de 500 una parte del local que compró bajo su casa de Valencia",
+      "subtitle": "Quedó en su domicilio con los vendedores antes de ir al notario y les dio «un sobre con bin ladens». El exministro insiste en que el precio fue «el de la escritura»",
+      "url": "https://www.abc.es/espana/abalos-pago-negro-billetes-500-parte-local-20251117170019-nt.html",
+      "scraped_at": "2025-11-17T06:45:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez sale de la burbuja a golpe de Tik Tok y Rosalía para pelearle a Abascal el voto joven",
-      "subtitle": "Emula la campaña de 2023 para humanizar su imagen y alejarla del desgaste de la gestión y la corrupción",
-      "url": "https://www.abc.es/espana/sanchez-sale-burbuja-tik-tok-rosalia-pelearle-20251115172309-nt.html",
-      "scraped_at": "2025-11-16T06:41:00Z"
+      "title": "El Gobierno reduce un 30% la inversión para facilitar el acceso a la vivienda en plena crisis habitacional",
+      "subtitle": "España solo destina el 0,2% del PIB a políticas públicas de desarrollo residencial, tres veces menos que la media europea",
+      "url": "https://www.abc.es/economia/gobierno-reduce-inversion-facilitar-acceso-vivienda-plena-20251117040747-nt.html",
+      "scraped_at": "2025-11-17T06:45:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "La nota informativa en la que el fiscal general se volcó, clave en el fallo",
-      "subtitle": "En el juicio al fiscal general ha quedado claro que la filtración y el comunicado que reveló el correo son imprescindibles",
-      "url": "https://www.abc.es/espana/nota-informativa-ortiz-volco-clave-fallo-20251115184522-nt.html",
-      "scraped_at": "2025-11-16T06:41:01Z"
+      "title": "Sira Rego: «No habría un debate con la acogida de menores si los niños fueran blancos»",
+      "subtitle": "La ministra de Juventud e Infancia confía en cumplir el plazo para reubicar a los menores que llegan a Canarias, a pesar de la compleja negociación y el retraso",
+      "url": "https://www.abc.es/sociedad/sira-20251117185927-nt.html",
+      "scraped_at": "2025-11-17T06:45:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "La sombra de Rusia planea sobre la inmigración subsahariana",
-      "subtitle": "Informes de inteligencia británicos, Frontex, 'think tanks'... Cada vez son más los organismos que alertan de una realidad inquietante: Putin utilizará, si es que no lo hace ya, los flujos migratorios desde el Sahel para desestabilizar a Europa. Y España está en primera línea",
-      "url": "https://www.abc.es/internacional/sombra-rusia-planea-sobre-inmigracion-subsahariana-20251116202450-nt.html",
-      "scraped_at": "2025-11-16T06:41:01Z"
+      "title": "La productora de la serie sobre Sánchez ha logrado 15 millones en contratos de TVE",
+      "subtitle": "Los siete acuerdos se concentran en los meses inmediatamente anteriores y posteriores a la grabación",
+      "url": "https://www.abc.es/espana/productora-serie-sobre-sanchez-logrado-millones-contratos-20251116174720-nt.html",
+      "scraped_at": "2025-11-17T06:45:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alcaraz - Auger Aliassime hoy",
-      "subtitle": "Conoce a qué hora juega Carlos Alcaraz su partido de semifinales en las Finales ATP y dónde ver el partido en televisión y online contra Aliassime",
-      "url": "https://www.abc.es/deportes/tenis/alcaraz-aliassime-horario-canal-television-ver-online-20251115170323-nt.html",
-      "scraped_at": "2025-11-16T06:41:01Z"
+      "title": "Dónde ver Alcaraz - Sinner hoy",
+      "subtitle": "Conoce a qué hora juega Alcaraz su final en la ATP Finals y dónde ver el partido en televisión y online contra Sinner en España",
+      "url": "https://www.abc.es/deportes/tenis/donde-ver-online-television-alcaraz-sinner-horario-atp-finals-20251116161545-nt.html",
+      "scraped_at": "2025-11-17T06:45:37Z"
     }
   ]
 }

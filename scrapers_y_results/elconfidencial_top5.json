@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: España, tierra de emigrantes: tres provincias tienen a más de la mitad de su población fuera: La movilidad laboral no es exclusiva de los extranjeros. La población española también se desplaza buscando mejores oportunidades, sobre todo hacia las grandes capitales; \"Los jueces son independientes, son los políticos los que atacan la separación de poderes\": El Tribunal de Estrasburgo vela por los derechos humanos en 46 países. La juez Elósegui es la representante española y desde allí tiene una perspectiva comparada que deja bien a la Justicia española y mal a los políticos: &quot;A todos por igual&quot;; El puente aéreo Madrid-Miami trae la NFL al Bernabéu para su conquista del mercado español: A diferencia del Villarreal-Barça de Miami, este encuentro forma parte de un plan colectivo en el que todas las franquicias están de acuerdo y lleva casi dos décadas en marcha. La NFL considera clave a España en su expansión global. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-16T06:41:06Z",
+  "summary": "Resumen del día en El Confidencial: Transportes adjudica una línea arrasada por la dana a una empresa que tenía a sueldo a Koldo: El contrato, que asciende a 15 millones de euros, se adjudicó a dedo a Azvi y ha sido financiado con fondos de la Unión Europea. Esta empresa fue señalada por Víctor de Aldama y es mencionada en los audios de Koldo; Estos son los países donde los hombres escasean y España no está entre ellos: En la mayoría de los países el número de mujeres supera al de hombres. La mayor esperanza de vida de ellas es clave, pero no es la única explicación; Isabel Carrasco: Carlos Castresana aborda los posibles errores que pudo haber en la investigación y juicio por el asesinato de la presidenta de la Diputación. Es uno de los capítulos de su interesante libro sobre fallos judiciales &#039;Bajo las togas&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-17T06:45:43Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España, tierra de emigrantes: tres provincias tienen a más de la mitad de su población fuera",
-      "subtitle": "La movilidad laboral no es exclusiva de los extranjeros. La población española también se desplaza buscando mejores oportunidades, sobre todo hacia las grandes capitales",
-      "url": "https://www.elconfidencial.com/economia/2025-11-16/tres-provincias-tienen-mas-de-la-mitad-poblacion-fuera_4247874/",
-      "scraped_at": "2025-11-16T06:41:05Z"
+      "title": "Transportes adjudica una línea arrasada por la dana a una empresa que tenía a sueldo a Koldo",
+      "subtitle": "El contrato, que asciende a 15 millones de euros, se adjudicó a dedo a Azvi y ha sido financiado con fondos de la Unión Europea. Esta empresa fue señalada por Víctor de Aldama y es mencionada en los audios de Koldo",
+      "url": "https://www.elconfidencial.com/espana/2025-11-17/transportes-adjudica-una-estacion-arrasada-por-la-dana-a-una-empresa-que-tenia-a-sueldo-a-koldo_4247748/",
+      "scraped_at": "2025-11-17T06:45:42Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Los jueces son independientes, son los políticos los que atacan la separación de poderes\"",
-      "subtitle": "El Tribunal de Estrasburgo vela por los derechos humanos en 46 países. La juez Elósegui es la representante española y desde allí tiene una perspectiva comparada que deja bien a la Justicia española y mal a los políticos: &quot;A todos por igual&quot;",
-      "url": "https://www.elconfidencial.com/espana/2025-11-16/juez-espanola-tedh-jueces-independientes-politicos-no_4247382/",
-      "scraped_at": "2025-11-16T06:41:05Z"
+      "title": "Estos son los países donde los hombres escasean y España no está entre ellos",
+      "subtitle": "En la mayoría de los países el número de mujeres supera al de hombres. La mayor esperanza de vida de ellas es clave, pero no es la única explicación",
+      "url": "https://www.elconfidencial.com/mundo/europa/2025-11-17/mujeres-hombres-europa-desequilibrio-demografico-1hms_4247429/",
+      "scraped_at": "2025-11-17T06:45:42Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El puente aéreo Madrid-Miami trae la NFL al Bernabéu para su conquista del mercado español",
-      "subtitle": "A diferencia del Villarreal-Barça de Miami, este encuentro forma parte de un plan colectivo en el que todas las franquicias están de acuerdo y lleva casi dos décadas en marcha. La NFL considera clave a España en su expansión global",
-      "url": "https://www.elconfidencial.com/deportes/otros-deportes/2025-11-16/nfl-bernabeu-miami-dolphins-washington-commanders_4244775/",
-      "scraped_at": "2025-11-16T06:41:06Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Ya es Navidad en Vigo: Abel Caballero enciende las luces de la ciudad",
-      "subtitle": "Acompañado por los 18 concejales socialistas del gobierno municipal, Caballero tomó la palabra ante unas 7.000 personas que aguardaban desde hacía horas el encendido",
-      "url": "https://www.elconfidencial.com/espana/galicia/2025-11-15/navidad-vigo-luces-fiesta-1tps_4248295/",
-      "scraped_at": "2025-11-16T06:41:06Z"
+      "title": "Isabel Carrasco",
+      "subtitle": "Carlos Castresana aborda los posibles errores que pudo haber en la investigación y juicio por el asesinato de la presidenta de la Diputación. Es uno de los capítulos de su interesante libro sobre fallos judiciales &#039;Bajo las togas&#039;",
+      "url": "https://www.elconfidencial.com/cultura/2025-11-16/fiscal-duda-raquel-gago-condena-leon_4246115/",
+      "scraped_at": "2025-11-17T06:45:43Z"
     }
   ]
 }
