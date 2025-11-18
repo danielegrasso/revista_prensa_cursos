@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Transportes adjudica una línea arrasada por la dana a una empresa que tenía a sueldo a Koldo: El contrato, que asciende a 15 millones de euros, se adjudicó a dedo a Azvi y ha sido financiado con fondos de la Unión Europea. Esta empresa fue señalada por Víctor de Aldama y es mencionada en los audios de Koldo; Estos son los países donde los hombres escasean y España no está entre ellos: En la mayoría de los países el número de mujeres supera al de hombres. La mayor esperanza de vida de ellas es clave, pero no es la única explicación; Isabel Carrasco: Carlos Castresana aborda los posibles errores que pudo haber en la investigación y juicio por el asesinato de la presidenta de la Diputación. Es uno de los capítulos de su interesante libro sobre fallos judiciales &#039;Bajo las togas&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-17T06:45:43Z",
+  "summary": "Resumen del día en El Confidencial: Leire y Dolset dieron a Ferraz un audio de las saunas del suegro de Sánchez tras el caso Begoña: Los dos investigados confiesan que en pleno periodo de reflexión del presidente entregaron ese material en una reunión con Cerdán y Hernando. El PSOE lo usó luego para denunciar una presunta guerra sucia desde 2014; Estos jóvenes han desatado la fiebre por los relojes de lujo: \"Creen que es un chollo\": Un grupo de &#039;influencers&#039; impulsa el fenómeno divulgando contenido en las redes sociales sobre relojes de lujo que también compran y venden. Aunque algunos modelos pueden rentabilizarse, los expertos piden cautela; La resaca de las elecciones de Chile: Vox adelanta al PP como socio de las nuevas derechas: Aliado clave de líderes latinoamericanos, el partido de Abascal impulsa una red internacional conservadora y refuerza su influencia regional a través de estrategias ideológicas y vínculos con formaciones afines. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-18T06:44:09Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Transportes adjudica una línea arrasada por la dana a una empresa que tenía a sueldo a Koldo",
-      "subtitle": "El contrato, que asciende a 15 millones de euros, se adjudicó a dedo a Azvi y ha sido financiado con fondos de la Unión Europea. Esta empresa fue señalada por Víctor de Aldama y es mencionada en los audios de Koldo",
-      "url": "https://www.elconfidencial.com/espana/2025-11-17/transportes-adjudica-una-estacion-arrasada-por-la-dana-a-una-empresa-que-tenia-a-sueldo-a-koldo_4247748/",
-      "scraped_at": "2025-11-17T06:45:42Z"
+      "title": "Leire y Dolset dieron a Ferraz un audio de las saunas del suegro de Sánchez tras el caso Begoña",
+      "subtitle": "Los dos investigados confiesan que en pleno periodo de reflexión del presidente entregaron ese material en una reunión con Cerdán y Hernando. El PSOE lo usó luego para denunciar una presunta guerra sucia desde 2014",
+      "url": "https://www.elconfidencial.com/espana/2025-11-18/leire-dolset-ferraz-audio-saunas-suegro-sanchez-caso-begona_4249350/",
+      "scraped_at": "2025-11-18T06:44:07Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Estos son los países donde los hombres escasean y España no está entre ellos",
-      "subtitle": "En la mayoría de los países el número de mujeres supera al de hombres. La mayor esperanza de vida de ellas es clave, pero no es la única explicación",
-      "url": "https://www.elconfidencial.com/mundo/europa/2025-11-17/mujeres-hombres-europa-desequilibrio-demografico-1hms_4247429/",
-      "scraped_at": "2025-11-17T06:45:42Z"
+      "title": "Estos jóvenes han desatado la fiebre por los relojes de lujo: \"Creen que es un chollo\"",
+      "subtitle": "Un grupo de &#039;influencers&#039; impulsa el fenómeno divulgando contenido en las redes sociales sobre relojes de lujo que también compran y venden. Aunque algunos modelos pueden rentabilizarse, los expertos piden cautela",
+      "url": "https://www.elconfidencial.com/economia/2025-11-18/inversion-lujo-relojes-jovenes-influencers_4247697/",
+      "scraped_at": "2025-11-18T06:44:08Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Isabel Carrasco",
-      "subtitle": "Carlos Castresana aborda los posibles errores que pudo haber en la investigación y juicio por el asesinato de la presidenta de la Diputación. Es uno de los capítulos de su interesante libro sobre fallos judiciales &#039;Bajo las togas&#039;",
-      "url": "https://www.elconfidencial.com/cultura/2025-11-16/fiscal-duda-raquel-gago-condena-leon_4246115/",
-      "scraped_at": "2025-11-17T06:45:43Z"
+      "title": "La resaca de las elecciones de Chile: Vox adelanta al PP como socio de las nuevas derechas",
+      "subtitle": "Aliado clave de líderes latinoamericanos, el partido de Abascal impulsa una red internacional conservadora y refuerza su influencia regional a través de estrategias ideológicas y vínculos con formaciones afines",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-18/vox-latinoamerica-derecha-alianzas-1hms_4248993/",
+      "scraped_at": "2025-11-18T06:44:08Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "La Guardia Urbana critica a Collboni por paralizar la compra de táser",
+      "subtitle": "Agentes y sindicatos consideran imprescindible la herramienta como recurso intermedio entre defensa extensible y arma de fuego, y lamentan su bloqueo. El PSC entierra la medida tras no sumar los suficientes apoyos en el pleno",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-11-18/guardia-urbana-barcelona-taser-1hms_4246560/",
+      "scraped_at": "2025-11-18T06:44:09Z"
     }
   ]
 }
