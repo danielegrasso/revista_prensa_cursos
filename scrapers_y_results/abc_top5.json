@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno gasta un millón de euros en habilitar pisos para Óscar Puente y Ana Redondo: Es un inmueble señorial de Patrimonio del Estado ahora adscrito a los ministerios de Transportes e Igualdad; El TC mantiene su calendario pese a las prisas de Puigdemont por resolver su caso: Fuentes del tribunal no creen que el informe del abogado general del TJUE altere sus planes, como quiere el prófugo; Leire Díez dice que se reunió dos veces con Cerdán por casos que perjudicaban al PSOE: Pérez Dolset indica que en una de esas ocasiones participó Antonio Hernando, quien era en abril de 2024 director adjunto de Gabinete de presidencia del Gobierno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-18T06:44:04Z",
+  "summary": "Resumen del día en ABC.es: La UCO coloca a Cerdán como líder de una millonaria red de mordidas: El exsecretario de Organización del PSOE habría cobrado mordidas del 2%, según la UCO, por amañar obra pública; La aparición de Antonio Hernando en el caso Leire pone en el disparadero a Óscar López: El numero dos del ministro y hombre de su absoluta confianza admite una reunión; El caso Mascarillas de Almería: del narcotráfico a la corrupción política: La investigación emana de las comunicaciones interceptadas en la Operación Lúa contra el narcotráfico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-19T06:44:17Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno gasta un millón de euros en habilitar pisos para Óscar Puente y Ana Redondo",
+      "title": "La UCO coloca a Cerdán como líder de una millonaria red de mordidas",
+      "subtitle": "El exsecretario de Organización del PSOE habría cobrado mordidas del 2%, según la UCO, por amañar obra pública",
+      "url": "https://www.abc.es/espana/cerdan-era-lider-triangulo-delictivo-gobierno-acciona-20251118202307-nt.html",
+      "scraped_at": "2025-11-19T06:44:17Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "La aparición de Antonio Hernando en el caso Leire pone en el disparadero a Óscar López",
+      "subtitle": "El numero dos del ministro y hombre de su absoluta confianza admite una reunión",
+      "url": "https://www.abc.es/espana/aparicion-antonio-hernando-leire-pone-disparadero-oscar-20251119043614-nt.html",
+      "scraped_at": "2025-11-19T06:44:17Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "El caso Mascarillas de Almería: del narcotráfico a la corrupción política",
+      "subtitle": "La investigación emana de las comunicaciones interceptadas en la Operación Lúa contra el narcotráfico",
+      "url": "https://www.abc.es/espana/andalucia/almeria/mascarillas-almeria-narcotrafico-corrupcion-politica-20251119201045-nts.html",
+      "scraped_at": "2025-11-19T06:44:17Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Los recuerdos de la generación que aprendió a vivir en libertad en España",
+      "subtitle": "El imperdible que no quiso la musa del destape; la muerte del payaso que sí impresionó al joven poeta; el chaval que acabaría cantando sin regatear a la censura -como le tocó a su padre-, y la punki, hartita de esa educación moña. Victoria Vera, Ángel Antonio Herrera, David Summers y Ana Curra se sientan a rememorar aquella época irrepetible que vivieron de jóvenes",
+      "url": "https://www.abc.es/espana/casa-real/recuerdos-generacion-vio-rey-trajo-libertad-espana-20251119153927-nt.html",
+      "scraped_at": "2025-11-19T06:44:17Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Óscar Puente Ana Redondo",
       "subtitle": "Es un inmueble señorial de Patrimonio del Estado ahora adscrito a los ministerios de Transportes e Igualdad",
       "url": "https://www.abc.es/espana/gobierno-gasta-millon-euros-habilitar-pisos-puente-20251118205753-nt.html",
-      "scraped_at": "2025-11-18T06:44:03Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El TC mantiene su calendario pese a las prisas de Puigdemont por resolver su caso",
-      "subtitle": "Fuentes del tribunal no creen que el informe del abogado general del TJUE altere sus planes, como quiere el prófugo",
-      "url": "https://www.abc.es/espana/tc-mantiene-calendario-pese-prisas-puigdemont-resolver-20251118042443-nt.html",
-      "scraped_at": "2025-11-18T06:44:03Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Leire Díez dice que se reunió dos veces con Cerdán por casos que perjudicaban al PSOE",
-      "subtitle": "Pérez Dolset indica que en una de esas ocasiones participó Antonio Hernando, quien era en abril de 2024 director adjunto de Gabinete de presidencia del Gobierno",
-      "url": "https://www.abc.es/espana/leire-diez-sostiene-reunio-cerdan-dos-veces-20251117192119-nt.html",
-      "scraped_at": "2025-11-18T06:44:03Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El PP pasará página de Mazón tras intervenir en el Congreso y no lo llevará al Senado",
-      "subtitle": "Génova entierra la posibilidad de llamarle a la Cámara Alta y ya se centra en el inicio de la etapa de Pérez Llorca",
-      "url": "https://www.abc.es/espana/pp-pasara-pagina-mazon-tras-intervenir-congreso-20251118203336-nt.html",
-      "scraped_at": "2025-11-18T06:44:04Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Leire Díez",
-      "subtitle": "El juez traslada la petición a las partes para que se pronuncien pero en el día de hoy ya ha reproducido alguna de ellas",
-      "url": "https://www.abc.es/espana/leire-diez-fontanera-psoe-pide-juez-anular-20251117121343-nt.html",
-      "scraped_at": "2025-11-18T06:44:04Z"
+      "scraped_at": "2025-11-19T06:44:17Z"
     }
   ]
 }

@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Leire y Dolset dieron a Ferraz un audio de las saunas del suegro de Sánchez tras el caso Begoña: Los dos investigados confiesan que en pleno periodo de reflexión del presidente entregaron ese material en una reunión con Cerdán y Hernando. El PSOE lo usó luego para denunciar una presunta guerra sucia desde 2014; Estos jóvenes han desatado la fiebre por los relojes de lujo: \"Creen que es un chollo\": Un grupo de &#039;influencers&#039; impulsa el fenómeno divulgando contenido en las redes sociales sobre relojes de lujo que también compran y venden. Aunque algunos modelos pueden rentabilizarse, los expertos piden cautela; La resaca de las elecciones de Chile: Vox adelanta al PP como socio de las nuevas derechas: Aliado clave de líderes latinoamericanos, el partido de Abascal impulsa una red internacional conservadora y refuerza su influencia regional a través de estrategias ideológicas y vínculos con formaciones afines. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-18T06:44:09Z",
+  "summary": "Resumen del día en El Confidencial: El Gobierno desiste con el pleno empleo pese al crecimiento de la economía: El Ministerio de Economía acaba de elevar su previsión de paro en su último cuadro macro. El ritmo del empleo supera sus previsiones, pero el aumento de la población dificulta la reducción del desempleo; No solo tanques: los Gobiernos van a meter asfaltar carreteras en el gasto en defensa: La Comisión Europea discutirá un plan de movilidad militar para hacer frente a uno de los retos de la defensa en el bloque: el transporte de tropas y tanques por túneles, carreteras y trenes; Andalucía: Es uno de los bastiones del PP de Juanma Moreno, que mantiene a Gabriel Amat con cargo en la cúpula regional y se enfrenta al auge de los de Abascal en una provincia con mucho peso de la inmigración. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-19T06:44:22Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Leire y Dolset dieron a Ferraz un audio de las saunas del suegro de Sánchez tras el caso Begoña",
-      "subtitle": "Los dos investigados confiesan que en pleno periodo de reflexión del presidente entregaron ese material en una reunión con Cerdán y Hernando. El PSOE lo usó luego para denunciar una presunta guerra sucia desde 2014",
-      "url": "https://www.elconfidencial.com/espana/2025-11-18/leire-dolset-ferraz-audio-saunas-suegro-sanchez-caso-begona_4249350/",
-      "scraped_at": "2025-11-18T06:44:07Z"
+      "title": "El Gobierno desiste con el pleno empleo pese al crecimiento de la economía",
+      "subtitle": "El Ministerio de Economía acaba de elevar su previsión de paro en su último cuadro macro. El ritmo del empleo supera sus previsiones, pero el aumento de la población dificulta la reducción del desempleo",
+      "url": "https://www.elconfidencial.com/economia/2025-11-19/gobierno-tira-la-toalla-pleno-empleo_4249867/",
+      "scraped_at": "2025-11-19T06:44:21Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Estos jóvenes han desatado la fiebre por los relojes de lujo: \"Creen que es un chollo\"",
-      "subtitle": "Un grupo de &#039;influencers&#039; impulsa el fenómeno divulgando contenido en las redes sociales sobre relojes de lujo que también compran y venden. Aunque algunos modelos pueden rentabilizarse, los expertos piden cautela",
-      "url": "https://www.elconfidencial.com/economia/2025-11-18/inversion-lujo-relojes-jovenes-influencers_4247697/",
-      "scraped_at": "2025-11-18T06:44:08Z"
+      "title": "No solo tanques: los Gobiernos van a meter asfaltar carreteras en el gasto en defensa",
+      "subtitle": "La Comisión Europea discutirá un plan de movilidad militar para hacer frente a uno de los retos de la defensa en el bloque: el transporte de tropas y tanques por túneles, carreteras y trenes",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-19/asfaltar-carreteras-gasto-defensa_4249885/",
+      "scraped_at": "2025-11-19T06:44:21Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La resaca de las elecciones de Chile: Vox adelanta al PP como socio de las nuevas derechas",
-      "subtitle": "Aliado clave de líderes latinoamericanos, el partido de Abascal impulsa una red internacional conservadora y refuerza su influencia regional a través de estrategias ideológicas y vínculos con formaciones afines",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-18/vox-latinoamerica-derecha-alianzas-1hms_4248993/",
-      "scraped_at": "2025-11-18T06:44:08Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "La Guardia Urbana critica a Collboni por paralizar la compra de táser",
-      "subtitle": "Agentes y sindicatos consideran imprescindible la herramienta como recurso intermedio entre defensa extensible y arma de fuego, y lamentan su bloqueo. El PSC entierra la medida tras no sumar los suficientes apoyos en el pleno",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-11-18/guardia-urbana-barcelona-taser-1hms_4246560/",
-      "scraped_at": "2025-11-18T06:44:09Z"
+      "title": "Andalucía",
+      "subtitle": "Es uno de los bastiones del PP de Juanma Moreno, que mantiene a Gabriel Amat con cargo en la cúpula regional y se enfrenta al auge de los de Abascal en una provincia con mucho peso de la inmigración",
+      "url": "https://www.elconfidencial.com/espana/andalucia/",
+      "scraped_at": "2025-11-19T06:44:22Z"
     }
   ]
 }
