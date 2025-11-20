@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Gobierno desiste con el pleno empleo pese al crecimiento de la economía: El Ministerio de Economía acaba de elevar su previsión de paro en su último cuadro macro. El ritmo del empleo supera sus previsiones, pero el aumento de la población dificulta la reducción del desempleo; No solo tanques: los Gobiernos van a meter asfaltar carreteras en el gasto en defensa: La Comisión Europea discutirá un plan de movilidad militar para hacer frente a uno de los retos de la defensa en el bloque: el transporte de tropas y tanques por túneles, carreteras y trenes; Andalucía: Es uno de los bastiones del PP de Juanma Moreno, que mantiene a Gabriel Amat con cargo en la cúpula regional y se enfrenta al auge de los de Abascal en una provincia con mucho peso de la inmigración. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-19T06:44:22Z",
+  "summary": "Resumen del día en El Confidencial: Dónde estaba España y dónde está: el gran salto de medio siglo que cambió el país: Cincuenta años no son nada en la historia de un país. Pero pocas veces una nación ha sufrido un cambio tan trascendental en tan escaso periodo de tiempo. Esta es la historia de la transformación económica de España; Un 21% de españoles ve \"buena o muy buena\" la dictadura de Franco. ¿Por qué y quiénes son?: Los menores de 24 años son los que más piensan que la democracia actual es igual o peor que el franquismo, mientras que los mayores de 75 son los que más consideran que los años de dictadura fueron buenos; Herido un hombre en la ciudad de Málaga por un disparo en una pierna: Un varón de 58 años ha sido alcanzado por un proyectil en una pierna cerca de un aparcamiento de caravanas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-20T06:43:43Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Gobierno desiste con el pleno empleo pese al crecimiento de la economía",
-      "subtitle": "El Ministerio de Economía acaba de elevar su previsión de paro en su último cuadro macro. El ritmo del empleo supera sus previsiones, pero el aumento de la población dificulta la reducción del desempleo",
-      "url": "https://www.elconfidencial.com/economia/2025-11-19/gobierno-tira-la-toalla-pleno-empleo_4249867/",
-      "scraped_at": "2025-11-19T06:44:21Z"
+      "title": "Dónde estaba España y dónde está: el gran salto de medio siglo que cambió el país",
+      "subtitle": "Cincuenta años no son nada en la historia de un país. Pero pocas veces una nación ha sufrido un cambio tan trascendental en tan escaso periodo de tiempo. Esta es la historia de la transformación económica de España",
+      "url": "https://www.elconfidencial.com/economia/2025-11-20/franco-muerte-transicion-economia-desempleo-inflacion_4250117/",
+      "scraped_at": "2025-11-20T06:43:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "No solo tanques: los Gobiernos van a meter asfaltar carreteras en el gasto en defensa",
-      "subtitle": "La Comisión Europea discutirá un plan de movilidad militar para hacer frente a uno de los retos de la defensa en el bloque: el transporte de tropas y tanques por túneles, carreteras y trenes",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-19/asfaltar-carreteras-gasto-defensa_4249885/",
-      "scraped_at": "2025-11-19T06:44:21Z"
+      "title": "Un 21% de españoles ve \"buena o muy buena\" la dictadura de Franco. ¿Por qué y quiénes son?",
+      "subtitle": "Los menores de 24 años son los que más piensan que la democracia actual es igual o peor que el franquismo, mientras que los mayores de 75 son los que más consideran que los años de dictadura fueron buenos",
+      "url": "https://www.elconfidencial.com/espana/2025-11-20/cis-dictadura-franco_4250498/",
+      "scraped_at": "2025-11-20T06:43:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Andalucía",
-      "subtitle": "Es uno de los bastiones del PP de Juanma Moreno, que mantiene a Gabriel Amat con cargo en la cúpula regional y se enfrenta al auge de los de Abascal en una provincia con mucho peso de la inmigración",
-      "url": "https://www.elconfidencial.com/espana/andalucia/",
-      "scraped_at": "2025-11-19T06:44:22Z"
+      "title": "Herido un hombre en la ciudad de Málaga por un disparo en una pierna",
+      "subtitle": "Un varón de 58 años ha sido alcanzado por un proyectil en una pierna cerca de un aparcamiento de caravanas",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2025-11-19/malaga-hombre-herido-disparo-1tna-1tps_4250634/",
+      "scraped_at": "2025-11-20T06:43:43Z"
     }
   ]
 }
