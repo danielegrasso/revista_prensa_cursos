@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Dónde estaba España y dónde está: el gran salto de medio siglo que cambió el país: Cincuenta años no son nada en la historia de un país. Pero pocas veces una nación ha sufrido un cambio tan trascendental en tan escaso periodo de tiempo. Esta es la historia de la transformación económica de España; Un 21% de españoles ve \"buena o muy buena\" la dictadura de Franco. ¿Por qué y quiénes son?: Los menores de 24 años son los que más piensan que la democracia actual es igual o peor que el franquismo, mientras que los mayores de 75 son los que más consideran que los años de dictadura fueron buenos; Herido un hombre en la ciudad de Málaga por un disparo en una pierna: Un varón de 58 años ha sido alcanzado por un proyectil en una pierna cerca de un aparcamiento de caravanas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-20T06:43:43Z",
+  "summary": "Resumen del día en El Confidencial: Ábalos planea sobre Cerdán: su libertad es reversible y puede volver a prisión: Tanto el juez Puente como la Fiscalía Anticorrupción han dejado claro que el riesgo de fuga que respalda el ingreso en la cárcel se acrecienta a medida que avanza el procedimiento; Feijóo ocupa el espacio de Sánchez y Abascal y arropa al Rey en mitad de los escándalos: El líder del PP recupera la institucionalidad y respalda en solitario a Felipe VI en el Congreso ante las críticas de Vox, el plantón de los socios y la ausencia del presidente del Gobierno, que sí estará en el Palacio Real; Queso manchego, pero hecho en Nueva York: la plaga de la 'fake food' que inunda EEUU: En supermercados estadounidenses abundan imitaciones de especialidades europeas, adaptadas legalmente, que confunden al consumidor y desafían la protección de las denominaciones de origen tradicionales del viejo continente. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-21T06:45:42Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Dónde estaba España y dónde está: el gran salto de medio siglo que cambió el país",
-      "subtitle": "Cincuenta años no son nada en la historia de un país. Pero pocas veces una nación ha sufrido un cambio tan trascendental en tan escaso periodo de tiempo. Esta es la historia de la transformación económica de España",
-      "url": "https://www.elconfidencial.com/economia/2025-11-20/franco-muerte-transicion-economia-desempleo-inflacion_4250117/",
-      "scraped_at": "2025-11-20T06:43:43Z"
+      "title": "Ábalos planea sobre Cerdán: su libertad es reversible y puede volver a prisión",
+      "subtitle": "Tanto el juez Puente como la Fiscalía Anticorrupción han dejado claro que el riesgo de fuga que respalda el ingreso en la cárcel se acrecienta a medida que avanza el procedimiento",
+      "url": "https://www.elconfidencial.com/espana/2025-11-21/ejemplo-abalos-avisa-cerdan-libertad-reversible-a-prision_4250990/",
+      "scraped_at": "2025-11-21T06:45:41Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un 21% de españoles ve \"buena o muy buena\" la dictadura de Franco. ¿Por qué y quiénes son?",
-      "subtitle": "Los menores de 24 años son los que más piensan que la democracia actual es igual o peor que el franquismo, mientras que los mayores de 75 son los que más consideran que los años de dictadura fueron buenos",
-      "url": "https://www.elconfidencial.com/espana/2025-11-20/cis-dictadura-franco_4250498/",
-      "scraped_at": "2025-11-20T06:43:43Z"
+      "title": "Feijóo ocupa el espacio de Sánchez y Abascal y arropa al Rey en mitad de los escándalos",
+      "subtitle": "El líder del PP recupera la institucionalidad y respalda en solitario a Felipe VI en el Congreso ante las críticas de Vox, el plantón de los socios y la ausencia del presidente del Gobierno, que sí estará en el Palacio Real",
+      "url": "https://www.elconfidencial.com/espana/2025-11-21/feijoo-ocupa-espacio-sanchez-abascal-arropa-rey-escandalos-gobierno_4251570/",
+      "scraped_at": "2025-11-21T06:45:41Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Herido un hombre en la ciudad de Málaga por un disparo en una pierna",
-      "subtitle": "Un varón de 58 años ha sido alcanzado por un proyectil en una pierna cerca de un aparcamiento de caravanas",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2025-11-19/malaga-hombre-herido-disparo-1tna-1tps_4250634/",
-      "scraped_at": "2025-11-20T06:43:43Z"
+      "title": "Queso manchego, pero hecho en Nueva York: la plaga de la 'fake food' que inunda EEUU",
+      "subtitle": "En supermercados estadounidenses abundan imitaciones de especialidades europeas, adaptadas legalmente, que confunden al consumidor y desafían la protección de las denominaciones de origen tradicionales del viejo continente",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-21/productos-europeos-denominacion-origen-estados-unidos-1hms_4251421/",
+      "scraped_at": "2025-11-21T06:45:42Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "De Utiel a Paiporta, viaje por Valencia un año después de la gran barrancada",
+      "subtitle": "365 días después, los daños siguen visibles y las ayudas, atascadas. Este viaje por las huellas del desastre revela las grietas, físicas y anímicas, que la dana dejó en Valencia",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-26/viaje-por-la-valencia-de-la-dana-doce-meses-despues_4234453/",
+      "scraped_at": "2025-11-21T06:45:42Z"
     }
   ]
 }
