@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Ábalos planea sobre Cerdán: su libertad es reversible y puede volver a prisión: Tanto el juez Puente como la Fiscalía Anticorrupción han dejado claro que el riesgo de fuga que respalda el ingreso en la cárcel se acrecienta a medida que avanza el procedimiento; Feijóo ocupa el espacio de Sánchez y Abascal y arropa al Rey en mitad de los escándalos: El líder del PP recupera la institucionalidad y respalda en solitario a Felipe VI en el Congreso ante las críticas de Vox, el plantón de los socios y la ausencia del presidente del Gobierno, que sí estará en el Palacio Real; Queso manchego, pero hecho en Nueva York: la plaga de la 'fake food' que inunda EEUU: En supermercados estadounidenses abundan imitaciones de especialidades europeas, adaptadas legalmente, que confunden al consumidor y desafían la protección de las denominaciones de origen tradicionales del viejo continente. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-21T06:45:42Z",
+  "summary": "Resumen del día en El Confidencial: La condena al fiscal otorga a Ayuso una victoria política y blinda su autoridad dentro del PP: Génova y su círculo más cercano coinciden en que &quot;el tiempo le ha dado razón&quot;, tras meses denunciando una operación política de Sánchez para destruirla. La línea a seguir será la misma, según advierten desde el partido en Madrid; ¿Cuántos extranjeros compran casa en tu barrio? La 'invasión silenciosa' de la costa: Puerto de Andratx, en las Islas Baleares, no es solo una de las zonas más caras de España, sino que también concentra mayor porcentaje de compraventas de extranjeros no residentes; Por qué cada vez más restaurantes cierran el sábado por la noche: Desde siempre, el momento fuerte de la semana era la noche del fin de semana. La comida lo ha sustituido y algunos establecimientos incluso optan por no abrir por distintos motivos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-22T06:38:52Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Ábalos planea sobre Cerdán: su libertad es reversible y puede volver a prisión",
-      "subtitle": "Tanto el juez Puente como la Fiscalía Anticorrupción han dejado claro que el riesgo de fuga que respalda el ingreso en la cárcel se acrecienta a medida que avanza el procedimiento",
-      "url": "https://www.elconfidencial.com/espana/2025-11-21/ejemplo-abalos-avisa-cerdan-libertad-reversible-a-prision_4250990/",
-      "scraped_at": "2025-11-21T06:45:41Z"
+      "title": "La condena al fiscal otorga a Ayuso una victoria política y blinda su autoridad dentro del PP",
+      "subtitle": "Génova y su círculo más cercano coinciden en que &quot;el tiempo le ha dado razón&quot;, tras meses denunciando una operación política de Sánchez para destruirla. La línea a seguir será la misma, según advierten desde el partido en Madrid",
+      "url": "https://www.elconfidencial.com/espana/2025-11-22/fallo-supremo-ayuso-victoria-politica-blinda-autoridad-pp_4252126/",
+      "scraped_at": "2025-11-22T06:38:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Feijóo ocupa el espacio de Sánchez y Abascal y arropa al Rey en mitad de los escándalos",
-      "subtitle": "El líder del PP recupera la institucionalidad y respalda en solitario a Felipe VI en el Congreso ante las críticas de Vox, el plantón de los socios y la ausencia del presidente del Gobierno, que sí estará en el Palacio Real",
-      "url": "https://www.elconfidencial.com/espana/2025-11-21/feijoo-ocupa-espacio-sanchez-abascal-arropa-rey-escandalos-gobierno_4251570/",
-      "scraped_at": "2025-11-21T06:45:41Z"
+      "title": "¿Cuántos extranjeros compran casa en tu barrio? La 'invasión silenciosa' de la costa",
+      "subtitle": "Puerto de Andratx, en las Islas Baleares, no es solo una de las zonas más caras de España, sino que también concentra mayor porcentaje de compraventas de extranjeros no residentes",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2025-11-22/extranjeros-compraventas-portal-estadistico-notarios-costa-espanola_4250916/",
+      "scraped_at": "2025-11-22T06:38:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Queso manchego, pero hecho en Nueva York: la plaga de la 'fake food' que inunda EEUU",
-      "subtitle": "En supermercados estadounidenses abundan imitaciones de especialidades europeas, adaptadas legalmente, que confunden al consumidor y desafían la protección de las denominaciones de origen tradicionales del viejo continente",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-21/productos-europeos-denominacion-origen-estados-unidos-1hms_4251421/",
-      "scraped_at": "2025-11-21T06:45:42Z"
+      "title": "Por qué cada vez más restaurantes cierran el sábado por la noche",
+      "subtitle": "Desde siempre, el momento fuerte de la semana era la noche del fin de semana. La comida lo ha sustituido y algunos establecimientos incluso optan por no abrir por distintos motivos",
+      "url": "https://www.elconfidencial.com/espana/2025-11-22/espana-no-cena-come-restaurantes-sabado-noche_4251348/",
+      "scraped_at": "2025-11-22T06:38:51Z"
     },
     {
       "source": "El Confidencial",
-      "title": "De Utiel a Paiporta, viaje por Valencia un año después de la gran barrancada",
-      "subtitle": "365 días después, los daños siguen visibles y las ayudas, atascadas. Este viaje por las huellas del desastre revela las grietas, físicas y anímicas, que la dana dejó en Valencia",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-10-26/viaje-por-la-valencia-de-la-dana-doce-meses-despues_4234453/",
-      "scraped_at": "2025-11-21T06:45:42Z"
+      "title": "Cuenta atrás 'trumpiana' para Ucrania: Europa, arrollada por el 'blitz del plan EEUU-Rusia",
+      "subtitle": "Los socios europeos tratan de resistirse al plan de paz impuesto por EEUU a Ucrania usando las estrategias del pasado, pero cuentan con pocas cartas para hacerlo descarrilar",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-22/plan-paz-ucrania-europa-rusia-1hms_4252280/",
+      "scraped_at": "2025-11-22T06:38:52Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Rovelli, físico teórico: \"Todo lo que sabemos podría contener errores\"",
+      "subtitle": "El famoso divulgador italiano, conocido por mezclar física y filosofía en sus libros, acaba de participar en la Bienal Ciudad y Ciencia en el Círculo de Bellas Artes.  Hablamos con él de lo divino y lo humano",
+      "url": "https://www.elconfidencial.com/cultura/2025-11-22/carlo-rovelli-fisico-teorico-cuantico_4250906/",
+      "scraped_at": "2025-11-22T06:38:52Z"
     }
   ]
 }

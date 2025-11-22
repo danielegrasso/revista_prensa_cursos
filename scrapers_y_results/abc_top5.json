@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La negativa de la ponente a condenar a García Ortiz precipitó la difusión del fallo: En el entorno del fiscal general impera la prudencia a la espera de conocer los argumentos del Supremo; Moncloa instará al fiscal general a que recurra al Constitucional y está dispuesta a acudir a Europa: No cambiará el argumentario utilizado hasta ahora y se aferrará a los dos votos particulares; Su horizonte: tendrá que cesar aunque recurra: Tan pronto como la sentencia sea notificada, será apartado del cargo sin posibilidad de suspender la condena, pues la ejecución es firme. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-21T06:45:37Z",
+  "summary": "Resumen del día en ABC.es: García Ortiz no podrá beneficiarse de un indulto total tras su condena: El fiscal general inhabilitado está «muy tranquilo» y arropado por sus allegados; A Sánchez le quedan tres inocentes: Tras el fiasco de Ortiz, al presidente le queda defender la inocencia de su mujer, su hermano y su candidato a presidir la Junta de Extremadura; Lo que hay que celebrar: Lo que ABC conmemora de 1975 no es una muerte sino, de la mano de la Monarquía, el nacimiento de la etapa más pacífica y próspera de España; no una revancha, sino la concordia que hizo posible el reencuentro de las dos Españas en una sola. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-22T06:38:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La negativa de la ponente a condenar a García Ortiz precipitó la difusión del fallo",
+      "title": "García Ortiz no podrá beneficiarse de un indulto total tras su condena",
+      "subtitle": "El fiscal general inhabilitado está «muy tranquilo» y arropado por sus allegados",
+      "url": "https://www.abc.es/espana/garcia-ortiz-podra-beneficiarse-indulto-total-tras-20251122041108-nt.html",
+      "scraped_at": "2025-11-22T06:38:44Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "A Sánchez le quedan tres inocentes",
+      "subtitle": "Tras el fiasco de Ortiz, al presidente le queda defender la inocencia de su mujer, su hermano y su candidato a presidir la Junta de Extremadura",
+      "url": "https://www.abc.es/espana/sanchez-quedan-inocentes-20251122201455-nt.html",
+      "scraped_at": "2025-11-22T06:38:45Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Lo que hay que celebrar",
+      "subtitle": "Lo que ABC conmemora de 1975 no es una muerte sino, de la mano de la Monarquía, el nacimiento de la etapa más pacífica y próspera de España; no una revancha, sino la concordia que hizo posible el reencuentro de las dos Españas en una sola",
+      "url": "https://www.abc.es/opinion/editorial-sanchez-necesita-franco-20251122183501-nt.html",
+      "scraped_at": "2025-11-22T06:38:45Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "La Corona: el símbolo que une a Felipe VI con Carlos III",
+      "subtitle": "Emparejada al cetro, ha acompañado a los Reyes españoles durante 250 años en sus funerales y, desde Isabel II, ocupa un lugar protagonista en las proclamaciones",
+      "url": "https://www.abc.es/espana/casa-real/corona-real-20251122154618-nt.html",
+      "scraped_at": "2025-11-22T06:38:45Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "García Ortiz",
       "subtitle": "En el entorno del fiscal general impera la prudencia a la espera de conocer los argumentos del Supremo",
       "url": "https://www.abc.es/espana/negativa-ponente-condenar-garcia-ortiz-precipito-difusion-20251120223507-nt.html",
-      "scraped_at": "2025-11-21T06:45:36Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Moncloa instará al fiscal general a que recurra al Constitucional y está dispuesta a acudir a Europa",
-      "subtitle": "No cambiará el argumentario utilizado hasta ahora y se aferrará a los dos votos particulares",
-      "url": "https://www.abc.es/espana/moncloa-instara-fiscal-general-recurra-constitucional-dispuesta-20251121042630-nt.html",
-      "scraped_at": "2025-11-21T06:45:36Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Su horizonte: tendrá que cesar aunque recurra",
-      "subtitle": "Tan pronto como la sentencia sea notificada, será apartado del cargo sin posibilidad de suspender la condena, pues la ejecución es firme",
-      "url": "https://www.abc.es/espana/garcia-ortiz-inhabilitado-recurra-constitucional-busca-amparo-20251120175922-nt.html",
-      "scraped_at": "2025-11-21T06:45:36Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Una condena que refuerza el Estado de derecho",
-      "subtitle": "El derecho de defensa, el secreto profesional y la lealtad procesal no son fórmulas retóricas, sino garantías constitucionales que protegen al ciudadano frente al poder",
-      "url": "https://www.abc.es/espana/eugenio-ribon-condena-refuerza-estado-derecho-20251120191218-nt.html",
-      "scraped_at": "2025-11-21T06:45:37Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Fiesta Cerdán",
-      "subtitle": "El exsecretario de Organización celebró por todo lo alto su entrada en la vivienda pagada y reformada presuntamente por Servinabar",
-      "url": "https://www.abc.es/espana/cerdan-hizo-fiesta-inaugurar-casa-varios-altos-20251120205355-nt.html",
-      "scraped_at": "2025-11-21T06:45:37Z"
+      "scraped_at": "2025-11-22T06:38:46Z"
     }
   ]
 }
