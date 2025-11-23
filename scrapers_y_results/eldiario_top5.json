@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno prepara ya el relevo del fiscal general para blindar la normalidad institucional ante la campaña de la derecha: Moncloa dejó claro desde el principio que activaría la sustitución de Álvaro García Ortiz con premura, pero ven \"muy poco probable\" que la decisión se pueda tomar en el Consejo de Ministros del martes; Las anomalías en la instrucción de la causa contra García Ortiz animan el recurso ante el Constitucional para anular la condena: La defensa de García Ortiz analiza posibles vulneraciones de los derechos de inviolabilidad, a la presunción de inocencia y a la tutela judicial efectiva; Las falsedades de Ayuso tras la condena contra el fiscal general: de la “campaña organizada” al “ciudadano particular”: La dirigente madrileña ha convocado una comparecencia sin preguntas de los medios para cargar contra el Gobierno y repetir la misma tesis de un 'complot' que lleva difundiendo su entorno desde hace un año. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-22T06:38:43Z",
+  "summary": "Resumen del día en elDiario.es: La condena al fiscal general culmina una de las causas más polémicas de la historia del Tribunal Supremo: La sentencia que inhabilita a García Ortiz por la difusión de datos de la confesión de fraude fiscal de la pareja de Ayuso ha sido dictada con varios votos en contra y llega después de una inédita división en el Supremo sobre si el caso merecía llegar a juicio; Sánchez reactiva la confrontación ideológica para espolear a la base social progresista tras la condena al fiscal: Gobierno y PSOE tratarán de canalizar la indignación de la izquierda hacia las urnas en Extremadura, primera cita del nuevo ciclo electoral. La consigna: \"Resistir y convencer\"; Ayuso escapa de la crisis de la vivienda y se asienta en un piso y un ático que paga un procesado por fraude fiscal: Las dos viviendas están a nombre de su pareja, Alberto González Amador, también investigado por corrupción en los negocios, quien aseguró en el Supremo que el fiscal general le había puesto en una situación límite: \"O me voy de España o me suicido\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-23T06:41:31Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno prepara ya el relevo del fiscal general para blindar la normalidad institucional ante la campaña de la derecha",
-      "subtitle": "Moncloa dejó claro desde el principio que activaría la sustitución de Álvaro García Ortiz con premura, pero ven \"muy poco probable\" que la decisión se pueda tomar en el Consejo de Ministros del martes",
-      "url": "https://www.eldiario.es/politica/gobierno-prepara-relevo-fiscal-general-blindar-normalidad-institucional-frenar-campana-derecha_1_12787890.html",
-      "scraped_at": "2025-11-22T06:38:40Z"
+      "title": "La condena al fiscal general culmina una de las causas más polémicas de la historia del Tribunal Supremo",
+      "subtitle": "La sentencia que inhabilita a García Ortiz por la difusión de datos de la confesión de fraude fiscal de la pareja de Ayuso ha sido dictada con varios votos en contra y llega después de una inédita división en el Supremo sobre si el caso merecía llegar a juicio",
+      "url": "https://www.eldiario.es/politica/condena-fiscal-general-culmina-causas-polemicas-historia-tribunal-supremo_1_12787741.html",
+      "scraped_at": "2025-11-23T06:41:28Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las anomalías en la instrucción de la causa contra García Ortiz animan el recurso ante el Constitucional para anular la condena",
-      "subtitle": "La defensa de García Ortiz analiza posibles vulneraciones de los derechos de inviolabilidad, a la presunción de inocencia y a la tutela judicial efectiva",
-      "url": "https://www.eldiario.es/politica/anomalias-instruccion-causa-fiscal-general-animan-recurso-constitucional-anular-condena_1_12787714.html",
-      "scraped_at": "2025-11-22T06:38:41Z"
+      "title": "Sánchez reactiva la confrontación ideológica para espolear a la base social progresista tras la condena al fiscal",
+      "subtitle": "Gobierno y PSOE tratarán de canalizar la indignación de la izquierda hacia las urnas en Extremadura, primera cita del nuevo ciclo electoral. La consigna: \"Resistir y convencer\"",
+      "url": "https://www.eldiario.es/politica/sanchez-reactiva-confrontacion-ideologica-espolear-base-social-progresista-condena-fiscal-general_129_12787588.html",
+      "scraped_at": "2025-11-23T06:41:29Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las falsedades de Ayuso tras la condena contra el fiscal general: de la “campaña organizada” al “ciudadano particular”",
-      "subtitle": "La dirigente madrileña ha convocado una comparecencia sin preguntas de los medios para cargar contra el Gobierno y repetir la misma tesis de un 'complot' que lleva difundiendo su entorno desde hace un año",
-      "url": "https://www.eldiario.es/politica/falsedades-ayuso-condena-fiscal-general-campana-organizada-ciudadano-particular_1_12785852.html",
-      "scraped_at": "2025-11-22T06:38:42Z"
+      "title": "Ayuso escapa de la crisis de la vivienda y se asienta en un piso y un ático que paga un procesado por fraude fiscal",
+      "subtitle": "Las dos viviendas están a nombre de su pareja, Alberto González Amador, también investigado por corrupción en los negocios, quien aseguró en el Supremo que el fiscal general le había puesto en una situación límite: \"O me voy de España o me suicido\"",
+      "url": "https://www.eldiario.es/politica/ayuso-escapa-crisis-vivienda-madrid-asienta-piso-atico-paga-procesado-fraude-fiscal_1_12786629.html",
+      "scraped_at": "2025-11-23T06:41:29Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Álvaro García Ortiz: de fiscal más votado de España a primer fiscal general condenado",
-      "subtitle": "La inhabilitación de dos años dictada por el Supremo termina con la carrera ascendente de un fiscal que, tras dos décadas de trabajo discreto en Galicia, fue recibido en la cúpula del Ministerio Público con la oposición de los sectores más conservadores de la judicatura",
-      "url": "https://www.eldiario.es/politica/alvaro-garcia-ortiz-fiscal-votado-espana-primer-fiscal-general-condenado_1_12787737.html",
-      "scraped_at": "2025-11-22T06:38:43Z"
+      "title": "La corrupción acecha a PSOE y PP en el arranque del ciclo electoral y da alas a la ultraderecha",
+      "subtitle": "El Gobierno suma una nueva semana horribilis que comenzó con el duro informe de la UCO sobre Cerdán y culminó con la condena al fiscal general; en el PP ha dimitido el presidente de la Diputación de Almería tras ser detenido",
+      "url": "https://www.eldiario.es/politica/corrupcion-acecha-psoe-pp-arranque-ciclo-electoral-da-alas-ultraderecha_1_12786341.html",
+      "scraped_at": "2025-11-23T06:41:31Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Jueces Supremo",
-      "subtitle": "La Sala de lo Penal no ha condenado al fiscal general de forma unánime: dos magistradas progresistas de los siete integrantes del tribunal han anunciado votos particulares para oponerse a esa decisión",
-      "url": "https://www.eldiario.es/politica/son-cinco-jueces-han-condenado-fiscal-general-firman-votos-discrepantes_1_12784289.html",
-      "scraped_at": "2025-11-22T06:38:43Z"
+      "title": "Rafael Zornoza",
+      "subtitle": "Cuatro meses después de recibir la denuncia, el Vaticano jubila al obispo de Cádiz y Ceuta, que asegura que se marcha en paz tras una acusación de abusos sexuales \"injusta y falsa\". El auxiliar de Sevilla Ramón Valdivia será administrador apostólico hasta el nombramiento de un sustituto para el prelado, que podría ser juzgado en breve",
+      "url": "https://www.eldiario.es/sociedad/papa-fulmina-rafael-zornoza-primer-obispo-espanol-acusado-abusos-menores_1_12766837.html",
+      "scraped_at": "2025-11-23T06:41:31Z"
     }
   ]
 }
