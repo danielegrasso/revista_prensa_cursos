@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Juicio a una época: cómo la maquinaria policial y judicial logró atrapar a los Pujol: C. Guindal , J. Vera , B. M. Goitia , C. Penín; Junts y la nostalgia: El 25 de julio de 2014, a las 8 de la mañana, Jordi Pujol telefonea a Artur Mas. “Nos hemos de ver con urgencia, ahora”. Mas va a anunciar ese día que Josep Rull; Mònica Sales: “El PSOE no cumple porque no quiere, no porque no puede”: Entrevista a la presidenta del grupo de Junts en el Parlament de Catalunya. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-11-23T06:41:36Z",
+  "summary": "Resumen del día en La Vanguardia: La Audiencia Nacional decide si juzga a Pujol junto a sus hijos acusados de asociación ilícita: El juicio a los Pujol arranca con un nuevo análisis de tres médicos al ex president El juicio a los Pujol arranca con un nuevo análisis de tres médicos al expresident; Cómo la maquinaria policial y judicial logró atrapar a los Pujol: C. Guindal , J. Vera , B. M. Goitia , C. Penín; Sánchez confía en el Constitucional para enmendar la condena al fiscal general: El presidente acata la decisión del Supremo, pero insiste en que Ortiz es inocente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-11-24T06:45:38Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Juicio a una época: cómo la maquinaria policial y judicial logró atrapar a los Pujol",
+      "title": "La Audiencia Nacional decide si juzga a Pujol junto a sus hijos acusados de asociación ilícita",
+      "subtitle": "El juicio a los Pujol arranca con un nuevo análisis de tres médicos al ex president El juicio a los Pujol arranca con un nuevo análisis de tres médicos al expresident",
+      "url": "https://www.lavanguardia.com/politica/20251124/11293925/maraton-41-sesiones-juicio.html",
+      "scraped_at": "2025-11-24T06:45:37Z"
+    },
+    {
+      "source": "La Vanguardia",
+      "title": "Cómo la maquinaria policial y judicial logró atrapar a los Pujol",
       "subtitle": "C. Guindal , J. Vera , B. M. Goitia , C. Penín",
       "url": "https://www.lavanguardia.com/politica/20251123/11261596/juicio-epoca-como-maquinaria-policial-judicial-logro-atrapar-pujol.html",
-      "scraped_at": "2025-11-23T06:41:35Z"
+      "scraped_at": "2025-11-24T06:45:37Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Junts y la nostalgia",
-      "subtitle": "El 25 de julio de 2014, a las 8 de la mañana, Jordi Pujol telefonea a Artur Mas. “Nos hemos de ver con urgencia, ahora”. Mas va a anunciar ese día que Josep Rull",
-      "url": "https://www.lavanguardia.com/politica/20251123/11292116/junts-nostalgia-pujol-puigdemont-juicio.html",
-      "scraped_at": "2025-11-23T06:41:35Z"
+      "title": "Sánchez confía en el Constitucional para enmendar la condena al fiscal general",
+      "subtitle": "El presidente acata la decisión del Supremo, pero insiste en que Ortiz es inocente",
+      "url": "https://www.lavanguardia.com/politica/20251124/11294156/sanchez-fija-rumbo-fiscal-general-corregir-sentencia-tc.html",
+      "scraped_at": "2025-11-24T06:45:38Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Mònica Sales: “El PSOE no cumple porque no quiere, no porque no puede”",
-      "subtitle": "Entrevista a la presidenta del grupo de Junts en el Parlament de Catalunya",
-      "url": "https://www.lavanguardia.com/politica/20251123/11292259/monica-sales-psoe-cumple-quiere.html",
-      "scraped_at": "2025-11-23T06:41:35Z"
+      "title": "Movida en el Madrid DF",
+      "subtitle": "La movida en el Madrid DF sigue tomando dimensiones bíblicas porque nuestra ciudad-Estado vive en una nostalgia permanente de bipartiditis . Atrapada mentalmente en unos",
+      "url": "https://www.lavanguardia.com/politica/20251124/11293951/movida-madrid-df.html",
+      "scraped_at": "2025-11-24T06:45:38Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Europa recela del plan de Trump que hace a Ucrania más vulnerable",
-      "subtitle": "Tras la reunión convocada por Costa en los márgenes del G20, varios países de la UE además de socios como el Reino Unido, Canadá y Japón han declarado que el",
-      "url": "https://www.lavanguardia.com/internacional/20251123/11292383/europa-recela-plan-trump-ucrania-mas-vulnerable.html",
-      "scraped_at": "2025-11-23T06:41:36Z"
-    },
-    {
-      "source": "La Vanguardia",
-      "title": "España, a la final de la Copa Davis: ¡qué fondo de armario!",
-      "subtitle": "Sin Carlos Alcaraz ni Alejandro Davidovich, España se deshace de Alemania (2-1) y buscará su séptima Copa Davis ante Italia, anfitriona y campeona vigente",
-      "url": "https://www.lavanguardia.com/deportes/tenis/20251122/11292295/espana-granollers-davis-carreno-munar-portero-alemania-zverev.html",
-      "scraped_at": "2025-11-23T06:41:36Z"
+      "title": "Asier Manso: “Millones de aves mueren por culpa de cristaleras o ventanas con efecto espejo”",
+      "subtitle": "El colectivo ecologista Eguzki ha denunciado la problemática causada por diversos edificios del País Vasco, donde se han encontrado decenas de pájaros sin vida, pero",
+      "url": "https://www.lavanguardia.com/participacion/red-lectores/20251124/11279805/asier-manso-millones-aves-mueren-culpa-cristaleras-ventanas-efecto-espejo.html",
+      "scraped_at": "2025-11-24T06:45:38Z"
     }
   ]
 }

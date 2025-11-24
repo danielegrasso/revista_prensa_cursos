@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La condena al fiscal general culmina una de las causas más polémicas de la historia del Tribunal Supremo: La sentencia que inhabilita a García Ortiz por la difusión de datos de la confesión de fraude fiscal de la pareja de Ayuso ha sido dictada con varios votos en contra y llega después de una inédita división en el Supremo sobre si el caso merecía llegar a juicio; Sánchez reactiva la confrontación ideológica para espolear a la base social progresista tras la condena al fiscal: Gobierno y PSOE tratarán de canalizar la indignación de la izquierda hacia las urnas en Extremadura, primera cita del nuevo ciclo electoral. La consigna: \"Resistir y convencer\"; Ayuso escapa de la crisis de la vivienda y se asienta en un piso y un ático que paga un procesado por fraude fiscal: Las dos viviendas están a nombre de su pareja, Alberto González Amador, también investigado por corrupción en los negocios, quien aseguró en el Supremo que el fiscal general le había puesto en una situación límite: \"O me voy de España o me suicido\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-23T06:41:31Z",
+  "summary": "Resumen del día en elDiario.es: Bulos, exclusivas y una condena: cronología del caso que ha terminado con el fiscal general inhabilitado: La causa que ha desembocado en una sentencia condenatoria nació hace más de tres años cuando Hacienda puso la lupa sobre las cuentas de la pareja de Isabel Díaz Ayuso y se ha desarrollado entre exclusivas periodísticas, bulos del entorno de la presidenta madrileña y una polémica investigación del juez Hurtado; Santos Cerdán, el hombre al que ya no conoce nadie: El día que vio la luz el primer informe de la Guardia Civil Santos Cerdán se despidió de un reducido grupo de compañeros en Ferraz: “Lo siento, chicos. Yo soy inocente. Y voy a dedicar lo que me queda de vida a demostrar mi inocencia”. Cinco meses después, un segundo informe apuntala las evidencias en su contra; El mapa de las 45.000 viviendas para alquiler asequible de la nueva empresa pública, municipio a municipio: Las ciudades de Madrid, Murcia y Roquetas de Mar se encuentran a la cabeza en el reparto por unidades de las decenas de miles de viviendas que Sareb está transfiriendo a la nueva empresa pública, mientras las mayores tasas por habitante se concentran en la costa mediterránea. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-24T06:45:35Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La condena al fiscal general culmina una de las causas más polémicas de la historia del Tribunal Supremo",
-      "subtitle": "La sentencia que inhabilita a García Ortiz por la difusión de datos de la confesión de fraude fiscal de la pareja de Ayuso ha sido dictada con varios votos en contra y llega después de una inédita división en el Supremo sobre si el caso merecía llegar a juicio",
-      "url": "https://www.eldiario.es/politica/condena-fiscal-general-culmina-causas-polemicas-historia-tribunal-supremo_1_12787741.html",
-      "scraped_at": "2025-11-23T06:41:28Z"
+      "title": "Bulos, exclusivas y una condena: cronología del caso que ha terminado con el fiscal general inhabilitado",
+      "subtitle": "La causa que ha desembocado en una sentencia condenatoria nació hace más de tres años cuando Hacienda puso la lupa sobre las cuentas de la pareja de Isabel Díaz Ayuso y se ha desarrollado entre exclusivas periodísticas, bulos del entorno de la presidenta madrileña y una polémica investigación del juez Hurtado",
+      "url": "https://www.eldiario.es/politica/bulos-exclusivas-condena-cronologia-caso-terminado-fiscal-general-inhabilitado_1_12787872.html",
+      "scraped_at": "2025-11-24T06:45:32Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez reactiva la confrontación ideológica para espolear a la base social progresista tras la condena al fiscal",
-      "subtitle": "Gobierno y PSOE tratarán de canalizar la indignación de la izquierda hacia las urnas en Extremadura, primera cita del nuevo ciclo electoral. La consigna: \"Resistir y convencer\"",
-      "url": "https://www.eldiario.es/politica/sanchez-reactiva-confrontacion-ideologica-espolear-base-social-progresista-condena-fiscal-general_129_12787588.html",
-      "scraped_at": "2025-11-23T06:41:29Z"
+      "title": "Santos Cerdán, el hombre al que ya no conoce nadie",
+      "subtitle": "El día que vio la luz el primer informe de la Guardia Civil Santos Cerdán se despidió de un reducido grupo de compañeros en Ferraz: “Lo siento, chicos. Yo soy inocente. Y voy a dedicar lo que me queda de vida a demostrar mi inocencia”. Cinco meses después, un segundo informe apuntala las evidencias en su contra",
+      "url": "https://www.eldiario.es/politica/santos-cerdan-hombre-no-conoce-nadie_1_12788196.html",
+      "scraped_at": "2025-11-24T06:45:32Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ayuso escapa de la crisis de la vivienda y se asienta en un piso y un ático que paga un procesado por fraude fiscal",
-      "subtitle": "Las dos viviendas están a nombre de su pareja, Alberto González Amador, también investigado por corrupción en los negocios, quien aseguró en el Supremo que el fiscal general le había puesto en una situación límite: \"O me voy de España o me suicido\"",
-      "url": "https://www.eldiario.es/politica/ayuso-escapa-crisis-vivienda-madrid-asienta-piso-atico-paga-procesado-fraude-fiscal_1_12786629.html",
-      "scraped_at": "2025-11-23T06:41:29Z"
+      "title": "El mapa de las 45.000 viviendas para alquiler asequible de la nueva empresa pública, municipio a municipio",
+      "subtitle": "Las ciudades de Madrid, Murcia y Roquetas de Mar se encuentran a la cabeza en el reparto por unidades de las decenas de miles de viviendas que Sareb está transfiriendo a la nueva empresa pública, mientras las mayores tasas por habitante se concentran en la costa mediterránea",
+      "url": "https://www.eldiario.es/economia/mapa-45-000-viviendas-alquiler-asequible-nueva-empresa-publica-municipio-municipio_1_12781988.html",
+      "scraped_at": "2025-11-24T06:45:33Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La corrupción acecha a PSOE y PP en el arranque del ciclo electoral y da alas a la ultraderecha",
-      "subtitle": "El Gobierno suma una nueva semana horribilis que comenzó con el duro informe de la UCO sobre Cerdán y culminó con la condena al fiscal general; en el PP ha dimitido el presidente de la Diputación de Almería tras ser detenido",
-      "url": "https://www.eldiario.es/politica/corrupcion-acecha-psoe-pp-arranque-ciclo-electoral-da-alas-ultraderecha_1_12786341.html",
-      "scraped_at": "2025-11-23T06:41:31Z"
+      "title": "EEUU y Ucrania ven “progresos significativos” en las negociaciones y acuerdan rehacer el plan de paz",
+      "subtitle": "El secretario de Estado de EEUU, Marco Rubio, y Andrii Yermak, jefe de Gabinete del presidente ucranio, Volodímir Zelenski, muestran buena sintonía tras las conversaciones de este domingo en Ginebra después del plan de paz trazado por Washington y Moscú que incluía cesiones territoriales ucranianas",
+      "url": "https://www.eldiario.es/internacional/eeuu-ucrania-hablan-progresos-significativos-negociaciones-acuerdan-rehacer-plan-paz-trazado-washington-moscu_1_12791158.html",
+      "scraped_at": "2025-11-24T06:45:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Rafael Zornoza",
-      "subtitle": "Cuatro meses después de recibir la denuncia, el Vaticano jubila al obispo de Cádiz y Ceuta, que asegura que se marcha en paz tras una acusación de abusos sexuales \"injusta y falsa\". El auxiliar de Sevilla Ramón Valdivia será administrador apostólico hasta el nombramiento de un sustituto para el prelado, que podría ser juzgado en breve",
-      "url": "https://www.eldiario.es/sociedad/papa-fulmina-rafael-zornoza-primer-obispo-espanol-acusado-abusos-menores_1_12766837.html",
-      "scraped_at": "2025-11-23T06:41:31Z"
+      "title": "Iberia ciberataque",
+      "subtitle": "La información sustraída no es operacional: los datos podrían incluir nombre y apellidos, correo electrónico, teléfono y número de la tarjeta Iberia Club, aunque también se han extraído algunos códigos de reserva para vuelos futuros",
+      "url": "https://www.eldiario.es/economia/iberia-denuncia-ciberataque-sistemas-afecta-datos-personales-clientes_1_12790413.html",
+      "scraped_at": "2025-11-24T06:45:35Z"
     }
   ]
 }

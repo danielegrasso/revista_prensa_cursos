@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Los ministros-candidatos de Sánchez suman 194 actos en sus territorios: Montero, Morant, Torres, Alegría y López usan su cargo en el Ejecutivo para sacar rédito electoral; Auge y caída del fiscal general del Estado: el fin de un jurista que cambió en Madrid: La condena a García Ortiz pone punto final a la trayectoria de un jurista que cambió en Madrid; El PP cree que Ayuso ha logrado una victoria política y moral con la condena al fiscal general: Los dirigentes consultados apuntan al varapalo que implica para el Gobierno de Sánchez y apuntan, tras un año «muy malo», al auge de Ayuso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-23T06:41:33Z",
+  "summary": "Resumen del día en ABC.es: Vidas en suspenso y mal pagadas para proteger a las nucleares: Una unidad de élite de la Guardia Civil blinda día y noche los siete reactores españoles. Las centrales pagan una jugosa tasa a Interior por ello pero los agentes denuncian medios heredados, jornadas interminables y una peligrosidad que tampoco aparece en su nómina; Sánchez tampoco se someterá al debate sobre el estado de la nación en 2025: El presidente, que propuso su obligatoriedad anual, solo ha protagonizado uno en siete años de mandato; Sánchez recupera a Redondo y Salazar como asesores externos: Ambos, que formaron tándem durante los primeros años del presidente en Moncloa, han montado empresa propia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-24T06:45:36Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Los ministros-candidatos de Sánchez suman 194 actos en sus territorios",
-      "subtitle": "Montero, Morant, Torres, Alegría y López usan su cargo en el Ejecutivo para sacar rédito electoral",
-      "url": "https://www.abc.es/espana/ministroscandidatos-sanchez-suman-194-actos-territorios-20251123194908-nt.html",
-      "scraped_at": "2025-11-23T06:41:32Z"
+      "title": "Vidas en suspenso y mal pagadas para proteger a las nucleares",
+      "subtitle": "Una unidad de élite de la Guardia Civil blinda día y noche los siete reactores españoles. Las centrales pagan una jugosa tasa a Interior por ello pero los agentes denuncian medios heredados, jornadas interminables y una peligrosidad que tampoco aparece en su nómina",
+      "url": "https://www.abc.es/espana/vidas-suspenso-mal-pagadas-proteger-nucleares-20251124194614-nt.html",
+      "scraped_at": "2025-11-24T06:45:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "Auge y caída del fiscal general del Estado: el fin de un jurista que cambió en Madrid",
-      "subtitle": "La condena a García Ortiz pone punto final a la trayectoria de un jurista que cambió en Madrid",
-      "url": "https://www.abc.es/espana/auge-caida-fiscal-general-estado-20251123175939-nt.html",
-      "scraped_at": "2025-11-23T06:41:32Z"
+      "title": "Sánchez tampoco se someterá al debate sobre el estado de la nación en 2025",
+      "subtitle": "El presidente, que propuso su obligatoriedad anual, solo ha protagonizado uno en siete años de mandato",
+      "url": "https://www.abc.es/espana/sanchez-tampoco-sometera-debate-sobre-estado-nacion-20251124042407-nt.html",
+      "scraped_at": "2025-11-24T06:45:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP cree que Ayuso ha logrado una victoria política y moral con la condena al fiscal general",
-      "subtitle": "Los dirigentes consultados apuntan al varapalo que implica para el Gobierno de Sánchez y apuntan, tras un año «muy malo», al auge de Ayuso",
-      "url": "https://www.abc.es/espana/gran-victoria-politica-moral-ayuso-refuerza-tras-20251123123600-nt.html",
-      "scraped_at": "2025-11-23T06:41:33Z"
+      "title": "Sánchez recupera a Redondo y Salazar como asesores externos",
+      "subtitle": "Ambos, que formaron tándem durante los primeros años del presidente en Moncloa, han montado empresa propia",
+      "url": "https://www.abc.es/espana/sanchez-recupera-redondo-salazar-asesores-externos-20251124184129-nt.html",
+      "scraped_at": "2025-11-24T06:45:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cuéntame cómo cambió",
-      "subtitle": "La Transición en tres capítulos, escritos por los guionistas de la serie que mejor contó la historia de España",
-      "url": "https://www.abc.es/espana/casa-real/cuentame-cambio-20251123171113-nt.html",
-      "scraped_at": "2025-11-23T06:41:33Z"
+      "title": "Pujol, a un paso de librarse del banquillo once años después de su confesión",
+      "subtitle": "El tribunal decide hoy si exonera o no al fundador de CDC por su deterioro cognitivo",
+      "url": "https://www.abc.es/espana/cataluna/pujol-paso-librarse-banquillo-once-anos-despues-20251124111232-nt.html",
+      "scraped_at": "2025-11-24T06:45:36Z"
     },
     {
       "source": "ABC.es",
       "title": "García Ortiz",
       "subtitle": "En el entorno del fiscal general impera la prudencia a la espera de conocer los argumentos del Supremo",
       "url": "https://www.abc.es/espana/negativa-ponente-condenar-garcia-ortiz-precipito-difusion-20251120223507-nt.html",
-      "scraped_at": "2025-11-23T06:41:33Z"
+      "scraped_at": "2025-11-24T06:45:36Z"
     }
   ]
 }
