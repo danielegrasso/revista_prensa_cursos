@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Ejecutivo de Sánchez presiona para colocar en Ifema al comisario de las cargas de Ferraz: Moncloa quiere situar al exresponsable de los antidisturbios al frente de la Dirección de Seguridad de Ifema, que organiza la vuelta de la Fórmula 1 a Madrid y acogerá el Centro de Datos de las próximas elecciones generales; Elisa Núñez, ex de Vox: \"Abascal lidera, no dirige. Mandan Ariza y Méndez-Monasterio\": La exconsejera de Justicia de Mazón insiste en que Vox se está radicalizando, relata cómo funciona orgánicamente el partido y advierte al PP de que debe pactar con ellos &quot;pero sin cruzar líneas rojas, como la inmigración&quot;; Drogas, madereros y sangre: la última patrulla de los Guardianes de la Selva: Aislados y con recursos limitados, los guardianes indígenas enfrentan amenazas y exigen mayor reconocimiento y apoyo internacional para proteger la Amazonía y preservar su cultura y territorio frente a crecientes peligros. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-24T06:45:40Z",
+  "summary": "Resumen del día en El Confidencial: La Generalitat pacta con Hacienda que la financiación se rija por ordinalidad: El principio de ordinalidad determina que las autonomías ricas, una vez hecha la aportación al conjunto del sistema, no bajan en el &#039;ranking&#039; de ingreso tributario por habitante; El Gobierno propone a Teresa Peramato como nueva fiscal general del Estado: Actualmente es Fiscal de Sala Jefa de la Sección Penal de la Fiscalía del Tribunal Supremo. También es Fiscal de Sala Delegada para la Protección y Tutela de las Víctimas en el Proceso Penal; El desgarro de Isabel Pantoja con el que lloró toda España sigue siendo un discazo: Se cumplen 40 años del disco que resucitó a la cantaora y cerró la herida de Paquirri. &#039;Marinero de luces&#039; es un lamento hecho himno que todo el país empezó a entonar por si &quot;saltaba la liebre&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-25T06:47:01Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Ejecutivo de Sánchez presiona para colocar en Ifema al comisario de las cargas de Ferraz",
-      "subtitle": "Moncloa quiere situar al exresponsable de los antidisturbios al frente de la Dirección de Seguridad de Ifema, que organiza la vuelta de la Fórmula 1 a Madrid y acogerá el Centro de Datos de las próximas elecciones generales",
-      "url": "https://www.elconfidencial.com/espana/2025-11-24/gobierno-sanchez-ifema-comisario-castro-ferraz-elecciones_4253015/",
-      "scraped_at": "2025-11-24T06:45:40Z"
+      "title": "La Generalitat pacta con Hacienda que la financiación se rija por ordinalidad",
+      "subtitle": "El principio de ordinalidad determina que las autonomías ricas, una vez hecha la aportación al conjunto del sistema, no bajan en el &#039;ranking&#039; de ingreso tributario por habitante",
+      "url": "https://www.elconfidencial.com/economia/2025-11-25/generalitat-montero-pacta-financiacion-ordinalidad_4252139/",
+      "scraped_at": "2025-11-25T06:46:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Elisa Núñez, ex de Vox: \"Abascal lidera, no dirige. Mandan Ariza y Méndez-Monasterio\"",
-      "subtitle": "La exconsejera de Justicia de Mazón insiste en que Vox se está radicalizando, relata cómo funciona orgánicamente el partido y advierte al PP de que debe pactar con ellos &quot;pero sin cruzar líneas rojas, como la inmigración&quot;",
-      "url": "https://www.elconfidencial.com/espana/2025-11-24/purgada-vox-abascal-lidera-mandan-ariza-mendez-monasterio_4252040/",
-      "scraped_at": "2025-11-24T06:45:40Z"
+      "title": "El Gobierno propone a Teresa Peramato como nueva fiscal general del Estado",
+      "subtitle": "Actualmente es Fiscal de Sala Jefa de la Sección Penal de la Fiscalía del Tribunal Supremo. También es Fiscal de Sala Delegada para la Protección y Tutela de las Víctimas en el Proceso Penal",
+      "url": "https://www.elconfidencial.com/espana/2025-11-25/teresa-peramato-nueva-fiscal-general_4253988/",
+      "scraped_at": "2025-11-25T06:46:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Drogas, madereros y sangre: la última patrulla de los Guardianes de la Selva",
-      "subtitle": "Aislados y con recursos limitados, los guardianes indígenas enfrentan amenazas y exigen mayor reconocimiento y apoyo internacional para proteger la Amazonía y preservar su cultura y territorio frente a crecientes peligros",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-23/guardia-indigena-amazonas-conservacion-defensa-1hms_4252645/",
-      "scraped_at": "2025-11-24T06:45:40Z"
+      "title": "El desgarro de Isabel Pantoja con el que lloró toda España sigue siendo un discazo",
+      "subtitle": "Se cumplen 40 años del disco que resucitó a la cantaora y cerró la herida de Paquirri. &#039;Marinero de luces&#039; es un lamento hecho himno que todo el país empezó a entonar por si &quot;saltaba la liebre&quot;",
+      "url": "https://www.elconfidencial.com/cultura/2025-11-25/paquirri-isabel-pantoja-decadas-marinero-luces_4225158/",
+      "scraped_at": "2025-11-25T06:47:00Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "C. Valenciana",
+      "subtitle": "Solicitan documentos y pruebas a varios implicados para esclarecer comunicaciones y reuniones mantenidas durante la gestión de la emergencia, en el marco de la investigación judicial abierta por la jueza",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/",
+      "scraped_at": "2025-11-25T06:47:01Z"
     }
   ]
 }
