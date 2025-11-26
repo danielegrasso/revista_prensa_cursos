@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno propone a la exportavoz de la UPF Teresa Peramato como nueva fiscal general del Estado: Peramato es fiscal de carrera con 35 años de ejercicio y opta por un perfil próximo a Garcia Ortiz y a Delgado; 'La Manada', Asunta, los ERE o la exhumación de Franco: otros casos en los que el Supremo también adelantó el fallo: La relevancia jurídica o pública del asunto han llevado al Alto Tribunal a anticipar su decisión en otros procedimientos; el del fiscal general no es una excepción; Sánchez designa al 'fontanero' Hernando interlocutor con PNV y Bildu como relevo de Cerdán: El ex número dos del gabinete del presidente participó, como mínimo, en una reunión con la cloaca liderada por Leire Díez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-25T06:46:56Z",
+  "summary": "Resumen del día en ABC.es: La UCO investiga al asesor rehabilitado por Sánchez por su contrato 'fake' en Dos Hermanas: Francisco Salazar estuvo contratado por el Consistorio nazareno entre 2012 y 2017, aunque no acudía a su puesto de trabajo, según la querella de Vox; Paco Salazar vuelve a estar sentado a la derecha del presidente para asesorarle en la recta final de la legislatura: La consultora del socialista sevillano, apartado del partido por las acusaciones de comportamientos machistas, ha sido contratada por el presidente del Gobierno para su asesoramiento; El clan de Pedro Sánchez en Dos Hermanas: el kilómetro cero de la ruta del Peugeot: El municipio sevillano era una isla sanchista en mitad del PSOE andaluz de Susana Díaz, con figuras como Toscano y Salazar, y el lugar donde empezó la resurrección del presidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-26T06:46:11Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno propone a la exportavoz de la UPF Teresa Peramato como nueva fiscal general del Estado",
-      "subtitle": "Peramato es fiscal de carrera con 35 años de ejercicio y opta por un perfil próximo a Garcia Ortiz y a Delgado",
-      "url": "https://www.abc.es/espana/gobierno-propone-teresa-peramato-nueva-fiscal-general-20251125072057-nt.html",
-      "scraped_at": "2025-11-25T06:46:55Z"
+      "title": "La UCO investiga al asesor rehabilitado por Sánchez por su contrato 'fake' en Dos Hermanas",
+      "subtitle": "Francisco Salazar estuvo contratado por el Consistorio nazareno entre 2012 y 2017, aunque no acudía a su puesto de trabajo, según la querella de Vox",
+      "url": "https://www.abc.es/sevilla/provincia/dos-hermanas/uco-registra-ayuntamiento-dos-hermanas-busca-contratos-20251126171232-nts.html",
+      "scraped_at": "2025-11-26T06:46:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "'La Manada', Asunta, los ERE o la exhumación de Franco: otros casos en los que el Supremo también adelantó el fallo",
-      "subtitle": "La relevancia jurídica o pública del asunto han llevado al Alto Tribunal a anticipar su decisión en otros procedimientos; el del fiscal general no es una excepción",
-      "url": "https://www.abc.es/espana/manada-asunta-ere-exhumacion-franco-casos-supremo-20251125042459-nt.html",
-      "scraped_at": "2025-11-25T06:46:55Z"
+      "title": "Paco Salazar vuelve a estar sentado a la derecha del presidente para asesorarle en la recta final de la legislatura",
+      "subtitle": "La consultora del socialista sevillano, apartado del partido por las acusaciones de comportamientos machistas, ha sido contratada por el presidente del Gobierno para su asesoramiento",
+      "url": "https://www.abc.es/sevilla/provincia/dos-hermanas/paco-salazar-vuelve-estar-sentado-derecha-sanchez-20251126162432-nts.html",
+      "scraped_at": "2025-11-26T06:46:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez designa al 'fontanero' Hernando interlocutor con PNV y Bildu como relevo de Cerdán",
-      "subtitle": "El ex número dos del gabinete del presidente participó, como mínimo, en una reunión con la cloaca liderada por Leire Díez",
-      "url": "https://www.abc.es/espana/sanchez-designa-fontanero-hernando-interlocutor-pnv-bildu-20251125194858-nt.html",
-      "scraped_at": "2025-11-25T06:46:55Z"
+      "title": "El clan de Pedro Sánchez en Dos Hermanas: el kilómetro cero de la ruta del Peugeot",
+      "subtitle": "El municipio sevillano era una isla sanchista en mitad del PSOE andaluz de Susana Díaz, con figuras como Toscano y Salazar, y el lugar donde empezó la resurrección del presidente",
+      "url": "https://www.abc.es/sevilla/provincia/dos-hermanas/clan-pedro-sanchez-dos-hermanas-kilometro-cero-20251126161532-nts.html",
+      "scraped_at": "2025-11-26T06:46:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Illa desvelará el país de origen de los detenidos en pleno auge de Aliança",
+      "title": "El Gobierno se reserva el control total de las empresas estratégicas",
+      "subtitle": "Confía a De la Rocha, jefe de la oficina económica, y al ministro Carlos Cuerpo la gestión de la comisión interministerial para cercar a las compañías españolas más relevantes, y pone a su disposición los recursos del resto de ministerios",
+      "url": "https://www.abc.es/economia/pedro-sanchez-reserva-control-total-empresas-estrategicas-20251126194248-nt.html",
+      "scraped_at": "2025-11-26T06:46:10Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Aliança catalana",
       "subtitle": "Los Mossos anuncian que seguirán los pasos de la Ertzaintza el día que Orriols empata con Junts en los sondeos",
       "url": "https://www.abc.es/espana/cataluna/illa-desvelara-origen-detenidos-pleno-auge-alianca-20251125181405-nt.html",
-      "scraped_at": "2025-11-25T06:46:55Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "García Ortiz",
-      "subtitle": "García Ortiz anuncia que deja el cargo en «profundo respeto a las resoluciones judiciales»",
-      "url": "https://www.abc.es/espana/fiscal-general-estado-presenta-dimision-tras-fallo-20251124084311-nt.html",
-      "scraped_at": "2025-11-25T06:46:56Z"
+      "scraped_at": "2025-11-26T06:46:11Z"
     }
   ]
 }

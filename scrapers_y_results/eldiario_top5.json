@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno propone a Teresa Peramato como fiscal general del Estado: Fiscal con 35 años de ejercicio, es actualmente fiscal jefa de lo Penal del Supremo y tiene una amplia trayectoria especialmente en materia de lucha contra la violencia de género; El Gobierno se revuelve contra la impunidad de Miguel Ángel Rodríguez y alerta del peligro del “ciclo del bulo”: Los socialistas señalan la contradicción de la condena al fiscal general mientras \"la verdad es otra\" cuando el jefe de gabinete de Ayuso admite haber mentido sin que pase nada. Las mentiras campan a sus anchas, como la falsa reunión de Sánchez y Otegi, desmentida por todos los actores, salvo Koldo García; Un juez condena al marido de Aguirre a pagar 853.000 euros a su hermano por el cuadro de Goya: La sentencia, todavía recurrible, considera que Fernando Ramírez de Haro vendió la obra de arte familiar por más de cinco millones de euros al constructor Villar Mir para salvarse de la ruina y nunca devolvió su parte a su hermano Íñigo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-25T06:46:54Z",
+  "summary": "Resumen del día en elDiario.es: Peramato se pone al frente de una Fiscalía rota en el momento más delicado de su historia: La futura fiscal general llega a una institución cuestionada de forma constante por la derecha con varias situaciones delicadas por delante: del juicio a Begoña Gómez o el ‘caso Koldo’ a la expulsión de su predecesor tras la condena del Supremo; Jueces del Supremo que condenaron al fiscal general impartieron tras el juicio un curso pagado por una acusación: Los magistrados Andrés Martínez Arrieta, Juan Ramón Berdugo y Antonio del Moral protagonizaron la semana pasada varias ponencias en una formación organizada por el Colegio de Abogados de Madrid, que reclamó cuatro años de cárcel para García Ortiz; Cuando Giorgia Meloni es más incisiva en la lucha contra la violencia machista que Alberto Núñez Feijóo: La extrema derecha italiana acepta una reforma legislativa que pone el consentimiento en el centro de las relaciones sexuales en aplicación del Convenio de Estambul, mientras en España ni el PP ni Vox creían necesario ese cambio. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-26T06:46:09Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno propone a Teresa Peramato como fiscal general del Estado",
+      "title": "Peramato se pone al frente de una Fiscalía rota en el momento más delicado de su historia",
+      "subtitle": "La futura fiscal general llega a una institución cuestionada de forma constante por la derecha con varias situaciones delicadas por delante: del juicio a Begoña Gómez o el ‘caso Koldo’ a la expulsión de su predecesor tras la condena del Supremo",
+      "url": "https://www.eldiario.es/politica/peramato-pone-frente-fiscalia-rota-momento-delicado-historia_1_12796764.html",
+      "scraped_at": "2025-11-26T06:46:06Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Jueces del Supremo que condenaron al fiscal general impartieron tras el juicio un curso pagado por una acusación",
+      "subtitle": "Los magistrados Andrés Martínez Arrieta, Juan Ramón Berdugo y Antonio del Moral protagonizaron la semana pasada varias ponencias en una formación organizada por el Colegio de Abogados de Madrid, que reclamó cuatro años de cárcel para García Ortiz",
+      "url": "https://www.eldiario.es/politica/tres-jueces-supremo-condenaron-fiscal-general-impartieron-juicio-curso-pagado-acusacion_1_12796151.html",
+      "scraped_at": "2025-11-26T06:46:07Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cuando Giorgia Meloni es más incisiva en la lucha contra la violencia machista que Alberto Núñez Feijóo",
+      "subtitle": "La extrema derecha italiana acepta una reforma legislativa que pone el consentimiento en el centro de las relaciones sexuales en aplicación del Convenio de Estambul, mientras en España ni el PP ni Vox creían necesario ese cambio",
+      "url": "https://www.eldiario.es/politica/meloni-incisiva-lucha-violencia-machista-feijoo_129_12794811.html",
+      "scraped_at": "2025-11-26T06:46:08Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Gobierno y sindicatos negocian contrarreloj el sueldo de los funcionarios ante una alternativa incierta: “Hay margen”",
+      "subtitle": "El Ministerio de Función Pública ha puesto sobre la mesa la posibilidad de abonar un 2,5% de subida pendiente de 2025 en un solo pago en diciembre, para atraer a los sindicatos al acuerdo, que ven en el incremento del 1,5% para 2026 el principal escollo",
+      "url": "https://www.eldiario.es/economia/gobierno-sindicatos-negocian-contrarreloj-sueldo-funcionarios-alternativa-incierta-hay-margen_1_12796036.html",
+      "scraped_at": "2025-11-26T06:46:08Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Teresa Peramato",
       "subtitle": "Fiscal con 35 años de ejercicio, es actualmente fiscal jefa de lo Penal del Supremo y tiene una amplia trayectoria especialmente en materia de lucha contra la violencia de género",
       "url": "https://www.eldiario.es/politica/gobierno-propone-teresa-peramato-fiscal-general_1_12793796.html",
-      "scraped_at": "2025-11-25T06:46:51Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno se revuelve contra la impunidad de Miguel Ángel Rodríguez y alerta del peligro del “ciclo del bulo”",
-      "subtitle": "Los socialistas señalan la contradicción de la condena al fiscal general mientras \"la verdad es otra\" cuando el jefe de gabinete de Ayuso admite haber mentido sin que pase nada. Las mentiras campan a sus anchas, como la falsa reunión de Sánchez y Otegi, desmentida por todos los actores, salvo Koldo García",
-      "url": "https://www.eldiario.es/politica/gobierno-revuelve-impunidad-miguel-angel-rodriguez-alerta-peligro-ciclo-bulo_1_12792112.html",
-      "scraped_at": "2025-11-25T06:46:52Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez condena al marido de Aguirre a pagar 853.000 euros a su hermano por el cuadro de Goya",
-      "subtitle": "La sentencia, todavía recurrible, considera que Fernando Ramírez de Haro vendió la obra de arte familiar por más de cinco millones de euros al constructor Villar Mir para salvarse de la ruina y nunca devolvió su parte a su hermano Íñigo",
-      "url": "https://www.eldiario.es/politica/juez-condena-marido-esperanza-aguirre-pagar-853-000-euros-hermano-cuadro-goya_1_12792659.html",
-      "scraped_at": "2025-11-25T06:46:53Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Amables, divertidos, comprometidos: los maltratadores son hombres 'normales'",
-      "subtitle": "Frente a la idea aún extendida de que existe un perfil más o menos concreto de hombre que ejerce violencia machista o de que es un arrebato o una enfermedad mental lo que está detrás de un asesinato, la evidencia muestra exactamente lo contrario",
-      "url": "https://www.eldiario.es/sociedad/amables-divertidos-comprometidos-maltratadores-son-hombres-normales_1_12786068.html",
-      "scraped_at": "2025-11-25T06:46:53Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Fiscal general",
-      "subtitle": "Álvaro García Ortiz remite una carta de renuncia al ministro de Justicia después de que el tribunal, \"a falta de mayor concreción\" sobre la sentencia, le haya considerado culpable de la filtración de la confesión de fraude fiscal de la pareja de Isabel Díaz Ayuso",
-      "url": "https://www.eldiario.es/politica/fiscal-general-dimite-despues-condenado-supremo-he-servido-fielmente-institucion_1_12791200.html",
-      "scraped_at": "2025-11-25T06:46:54Z"
+      "scraped_at": "2025-11-26T06:46:09Z"
     }
   ]
 }
