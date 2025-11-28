@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Mundo: Ábalos, cerca de ser el primer diputado en prisión mientras amenaza a sus ex compañeros en el Gobierno: Encara hoy en el Tribunal Supremo la previsible petición de ingreso en la cárcel por riesgo de fuga; ¿Qué pasa si un diputado entra en la cárcel? Ni cobra ni vota aunque mantiene el acta: La prisión preventiva no implica perder la condición de parlamentario pero sí todos los derechos políticos y económicos. El listón de las mayorías se mantiene; El PSOE tendrá que detallar al juez los pagos en metálico a Sánchez desde la caja del partido durante siete años: El presidente del Gobierno reconoció que, \"en alguna ocasión\", recibió dinero en efectivo de Ferraz como compensación por gastos. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-11-27T06:46:57Z",
+  "summary": "Resumen del día en El Mundo: Ábalos señala a Begoña Gómez en Air Europa: \"Claro que Hidalgo habló con ella\": El ex ministro confirma los mensajes intervenidos por la UCO entre Aldama y Koldo explicando la intervención de la mujer del presidente en el rescate; El Supremo resta valor a una colaboración tardía de Ábalos con la Justicia: \"En este momento es poco relevante lo que pudiera aportar\": El magistrado Puente aprecia riesgo de fuga y decide enviar al diputado y a Koldo García a prisión; La cárcel de Ábalos corona el jueves negro del Gobierno: \"Se nos colaron unas manzanas podridas y las hicimos número 2, es heavy\": Se acrecienta la debilidad parlamentaria de Sánchez: ya no vale la abstención de Junts. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-11-28T06:46:08Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Ábalos, cerca de ser el primer diputado en prisión mientras amenaza a sus ex compañeros en el Gobierno",
-      "subtitle": "Encara hoy en el Tribunal Supremo la previsible petición de ingreso en la cárcel por riesgo de fuga",
-      "url": "https://www.elmundo.es/espana/2025/11/26/6927460421efa0ac2c8b4588.html",
-      "scraped_at": "2025-11-27T06:46:56Z"
+      "title": "Ábalos señala a Begoña Gómez en Air Europa: \"Claro que Hidalgo habló con ella\"",
+      "subtitle": "El ex ministro confirma los mensajes intervenidos por la UCO entre Aldama y Koldo explicando la intervención de la mujer del presidente en el rescate",
+      "url": "https://www.elmundo.es/espana/2025/11/27/69289870e9cf4a210b8b45aa.html",
+      "scraped_at": "2025-11-28T06:46:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "¿Qué pasa si un diputado entra en la cárcel? Ni cobra ni vota aunque mantiene el acta",
-      "subtitle": "La prisión preventiva no implica perder la condición de parlamentario pero sí todos los derechos políticos y económicos. El listón de las mayorías se mantiene",
-      "url": "https://www.elmundo.es/espana/2025/11/26/6927462e21efa029488b457f.html",
-      "scraped_at": "2025-11-27T06:46:56Z"
+      "title": "El Supremo resta valor a una colaboración tardía de Ábalos con la Justicia: \"En este momento es poco relevante lo que pudiera aportar\"",
+      "subtitle": "El magistrado Puente aprecia riesgo de fuga y decide enviar al diputado y a Koldo García a prisión",
+      "url": "https://www.elmundo.es/espana/2025/11/27/692897ade9cf4af5278b4590.html",
+      "scraped_at": "2025-11-28T06:46:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "El PSOE tendrá que detallar al juez los pagos en metálico a Sánchez desde la caja del partido durante siete años",
-      "subtitle": "El presidente del Gobierno reconoció que, \"en alguna ocasión\", recibió dinero en efectivo de Ferraz como compensación por gastos",
-      "url": "https://www.elmundo.es/espana/2025/11/26/6927563efdddffeb1c8b458d.html",
-      "scraped_at": "2025-11-27T06:46:56Z"
+      "title": "La cárcel de Ábalos corona el jueves negro del Gobierno: \"Se nos colaron unas manzanas podridas y las hicimos número 2, es heavy\"",
+      "subtitle": "Se acrecienta la debilidad parlamentaria de Sánchez: ya no vale la abstención de Junts",
+      "url": "https://www.elmundo.es/espana/2025/11/27/69289b1cfdddffe52c8b458a.html",
+      "scraped_at": "2025-11-28T06:46:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "La Inteligencia Artificial entra en la escuela y abre un debate sobre su uso ético: \"Hacemos 'deepfakes' con uso educativo\"",
-      "subtitle": "Galicia es la primera región en regular la utilización de esta herramienta en los colegios. Su asignatura de IA pesa tanto en el horario como Lengua o Historia",
-      "url": "https://www.elmundo.es/espana/2025/11/26/6924b203fdddff610c8b459a.html",
-      "scraped_at": "2025-11-27T06:46:56Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Incendio Hong Kong",
-      "subtitle": "Las primeras investigaciones apuntan a que la estructura exterior del edificio en obras, revestida con andamios de bambú, jugó un papel determinante, al igual que el poliestireno usado para sellar las ventanas",
-      "url": "https://www.elmundo.es/internacional/2025/11/27/69279d8afdddff13758b45ba.html",
-      "scraped_at": "2025-11-27T06:46:57Z"
+      "title": "Los críticos de Sánchez piden aprovechar para reformar el PSOE",
+      "subtitle": "Page, Guerra, González... el ala enfrentada al presidente del Gobierno se conjura en torno a la memoria de Lambán para volver a los consensos",
+      "url": "https://www.elmundo.es/espana/2025/11/28/692898ec21efa0190b8b45c5.html",
+      "scraped_at": "2025-11-28T06:46:08Z"
     }
   ]
 }

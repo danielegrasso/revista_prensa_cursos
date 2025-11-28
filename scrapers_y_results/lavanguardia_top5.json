@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Ábalos abre la guerra con Sánchez ante la posibilidad de que el juez ordene hoy su ingreso en prisión: El exministro dispara misiles contra el jefe del Ejecutivo y la vicepresidenta segunda; En el caserío Txillarre nadie vio a Pedro Sánchez: La supuesta reunión con Arnaldo Otegi genera muchas dudas en el País Vasco; Mazón es tóxico para el PP: La instrucción de la jueza de Catarroja que investiga la dana, Nuria Ruiz Tobarra, está siendo un calvario para Carlos Mazón porque cada día que pasa se descubre una. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-11-27T06:47:06Z",
+  "summary": "Resumen del día en La Vanguardia: La prisión de Ábalos y Koldo García ahonda la inquietud en el PSOE: El juez del Supremo encierra a ambos exmilitantes porque serán juzgados y teme que se fuguen; Presión extrema a Sánchez: El Gobierno perdió ayer en el Congreso la votación sobre sus objetivos de estabilidad porque el bloque de la investidura aparece hoy totalmente fragmentado. Junts votó; Así son las primeras horas de Ábalos y Koldo en Soto del Real: Cuenta con 1.100 celdas y es considerada uno de los centros con mejores instalaciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-11-28T06:46:20Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Ábalos abre la guerra con Sánchez ante la posibilidad de que el juez ordene hoy su ingreso en prisión",
-      "subtitle": "El exministro dispara misiles contra el jefe del Ejecutivo y la vicepresidenta segunda",
-      "url": "https://www.lavanguardia.com/politica/20251127/11306025/abalos-abre-guerra-sanchez-posibilidad-acabar-hoy-prision.html",
-      "scraped_at": "2025-11-27T06:47:05Z"
+      "title": "La prisión de Ábalos y Koldo García ahonda la inquietud en el PSOE",
+      "subtitle": "El juez del Supremo encierra a ambos exmilitantes porque serán juzgados y teme que se fuguen",
+      "url": "https://www.lavanguardia.com/politica/20251128/11310282/prision-abalos-koldo-garcia-ahonda-inquietud-psoe.html",
+      "scraped_at": "2025-11-28T06:46:19Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "En el caserío Txillarre nadie vio a Pedro Sánchez",
-      "subtitle": "La supuesta reunión con Arnaldo Otegi genera muchas dudas en el País Vasco",
-      "url": "https://www.lavanguardia.com/politica/20251127/11305984/caserio-txillarre-nadie-vio-pedro-sanchez.html",
-      "scraped_at": "2025-11-27T06:47:05Z"
+      "title": "Presión extrema a Sánchez",
+      "subtitle": "El Gobierno perdió ayer en el Congreso la votación sobre sus objetivos de estabilidad porque el bloque de la investidura aparece hoy totalmente fragmentado. Junts votó",
+      "url": "https://www.lavanguardia.com/opinion/20251128/11310454/presion-extrema-sanchez.html",
+      "scraped_at": "2025-11-28T06:46:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Mazón es tóxico para el PP",
-      "subtitle": "La instrucción de la jueza de Catarroja que investiga la dana, Nuria Ruiz Tobarra, está siendo un calvario para Carlos Mazón porque cada día que pasa se descubre una",
-      "url": "https://www.lavanguardia.com/opinion/20251127/11306197/mazon-toxico-pp.html",
-      "scraped_at": "2025-11-27T06:47:06Z"
+      "title": "Así son las primeras horas de Ábalos y Koldo en Soto del Real",
+      "subtitle": "Cuenta con 1.100 celdas y es considerada uno de los centros con mejores instalaciones",
+      "url": "https://www.lavanguardia.com/politica/20251127/11310240/asi-son-primeras-horas-abalos-koldo-soto-real.html",
+      "scraped_at": "2025-11-28T06:46:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Del 'català emprenyat' al 'on anirem a parar!'",
-      "subtitle": "Un nuevo vector irrumpe en Catalunya más del eje ideológico o independentista",
-      "url": "https://www.lavanguardia.com/politica/20251127/11305947/catala-emprenyat-on-anirem-parar.html",
-      "scraped_at": "2025-11-27T06:47:06Z"
+      "title": "Quiero que caigas",
+      "subtitle": "No es justicia sino ensañamiento. Argumentamos grandes ideales, pero, en el fondo, todo se reduce a la frustración de que nuestra vida es mediocre y fallida, una",
+      "url": "https://www.lavanguardia.com/opinion/20251128/11309665/quiero-caigas.html",
+      "scraped_at": "2025-11-28T06:46:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Atlético tumba al Inter sobre la bocina con un soberbio gol de Giménez",
-      "subtitle": "Los rojiblancos se aferran al fortín del Metropolitano y a la fe para superar al subcampeón en el último minuto",
-      "url": "https://www.lavanguardia.com/deportes/20251126/11306179/champions-liga-campeones-atletico-madrid-tumba-funde-inter-milan-gol-gimenez.html",
-      "scraped_at": "2025-11-27T06:47:06Z"
+      "title": "Diez consejos para evitar ser estafados en el Black Friday",
+      "subtitle": "La Policía Nacional ha alertado de posibles fraudes que podrían acabar teniendo consecuencias peligrosas",
+      "url": "https://www.lavanguardia.com/economia/20251128/11310392/diez-consejos-evitar-estafados-black-friday.html",
+      "scraped_at": "2025-11-28T06:46:20Z"
     }
   ]
 }
