@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El círculo íntimo que aupó a Sánchez, entre rejas: El juez envía a ambos a prisión, sin fianza, al considerar que existe «riesgo extremo» de fuga; ¿Por qué Ábalos y Koldo ingresan en prisión ahora y no antes?: La instrucción contra ellos ha concluido y el fiscal pide 24 y 19 años y medio de cárcel; La estancia en la prisión de Soto del Real que dejó «tocado» a Santos Cerdán: El exministro y su antiguo asesor pasan la noche juntos en su primera jornada en la prisión de Soto del Real. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-28T06:46:18Z",
+  "summary": "Resumen del día en ABC.es: Dirigentes del PP piden a Feijóo la moción de censura aunque la pierda: Entienden que la prisión de Ábalos, sumada al resto de casos, requiere ya una «respuesta política»; Sánchez cumple las exigencias de Otegi: reduce un 54% los etarras presos: El pacto de investidura del PSOE con EH Bildu contemplaba el acercamiento y la excarcelación de los etarras que estaban dispersos en las diferentes cárceles de España; Socios de la corrupción: Con el PSOE convertido 'de facto' en una minoría de bloqueo, el compromiso de regeneración recae de manera automática en los socios que sostienen a Sánchez contra viento y marea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-29T06:41:45Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El círculo íntimo que aupó a Sánchez, entre rejas",
-      "subtitle": "El juez envía a ambos a prisión, sin fianza, al considerar que existe «riesgo extremo» de fuga",
-      "url": "https://www.abc.es/espana/abalos-koldo-soto-intimos-sanchez-carcel-20251128220756-nt.html",
-      "scraped_at": "2025-11-28T06:46:18Z"
+      "title": "Dirigentes del PP piden a Feijóo la moción de censura aunque la pierda",
+      "subtitle": "Entienden que la prisión de Ábalos, sumada al resto de casos, requiere ya una «respuesta política»",
+      "url": "https://www.abc.es/espana/sectores-pp-piden-mocion-censura-pierda-20251129190107-nt.html",
+      "scraped_at": "2025-11-29T06:41:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Por qué Ábalos y Koldo ingresan en prisión ahora y no antes?",
-      "subtitle": "La instrucción contra ellos ha concluido y el fiscal pide 24 y 19 años y medio de cárcel",
-      "url": "https://www.abc.es/espana/abalos-koldo-ingresan-prision-20251128203256-nt.html",
-      "scraped_at": "2025-11-28T06:46:18Z"
+      "title": "Sánchez cumple las exigencias de Otegi: reduce un 54% los etarras presos",
+      "subtitle": "El pacto de investidura del PSOE con EH Bildu contemplaba el acercamiento y la excarcelación de los etarras que estaban dispersos en las diferentes cárceles de España",
+      "url": "https://www.abc.es/espana/sanchez-cumple-exigencias-otegi-reduce-etarras-presos-20251129202308-nt.html",
+      "scraped_at": "2025-11-29T06:41:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "La estancia en la prisión de Soto del Real que dejó «tocado» a Santos Cerdán",
-      "subtitle": "El exministro y su antiguo asesor pasan la noche juntos en su primera jornada en la prisión de Soto del Real",
-      "url": "https://www.abc.es/espana/koldo-abalos-heredan-carcel-dejo-tocado-santos-20251128172217-nt.html",
-      "scraped_at": "2025-11-28T06:46:18Z"
+      "title": "Socios de la corrupción",
+      "subtitle": "Con el PSOE convertido 'de facto' en una minoría de bloqueo, el compromiso de regeneración recae de manera automática en los socios que sostienen a Sánchez contra viento y marea",
+      "url": "https://www.abc.es/opinion/editorial-socios-corrupcion-20251128200329-nt.html",
+      "scraped_at": "2025-11-29T06:41:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "El discurso de Ábalos en la moción de censura que hizo a Sánchez presidente: «Los españoles no podemos tolerar la corrupción»",
-      "subtitle": "El 31 de mayo de 2018 pronunció hasta 14 veces la palabra «corrupción» o «corruptos» mientras cargaba con fiereza contra el Gobierno de Mariano Rajoy",
-      "url": "https://www.abc.es/espana/discurso-abalos-mocion-censura-hizo-sanchez-presidente-20251127204308-nt.html",
-      "scraped_at": "2025-11-28T06:46:18Z"
+      "title": "El independentismo toca suelo entre los jóvenes catalanes",
+      "subtitle": "Cuando se pregunta por el modelo de relación preferido, solo un 25% aboga por un estado independiente",
+      "url": "https://www.abc.es/espana/cataluna/independentismo-jovenes-cae-puntos-2017-20251129224745-nt.html",
+      "scraped_at": "2025-11-29T06:41:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ábalos diputado",
-      "subtitle": "El exministro no podrá votar ni cobrar. Su ingreso en la cárcel suspende su escaño",
-      "url": "https://www.abc.es/espana/ocurre-diputado-entra-prision-abalos-20251127085053-nt.html",
-      "scraped_at": "2025-11-28T06:46:18Z"
+      "title": "Pensiones",
+      "subtitle": "El alza supondrá unos 600 euros al año para una prestación media de jubilación y 500 para la media del sistema",
+      "url": "https://www.abc.es/economia/pensiones-subiran-alrededor-proximo-enero-20251128083937-nt.html",
+      "scraped_at": "2025-11-29T06:41:45Z"
     }
   ]
 }

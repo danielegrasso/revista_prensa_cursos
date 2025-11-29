@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Bruselas minimiza los beneficios económicos del rearme militar en Europa: ¿Qué impacto tendrá el rearme europeo en el crecimiento económico? Los servicios técnicos de la Comisión Europea tienen una respuesta. Serán moderados, apenas un 0,8% del PIB en 2035 si se alcanza el 5% del PIB; Coches a 100 €: los desguaces hacen caja con los vehículos que no se podrán usar en 2026: Los dueños de los vehículos vetados se debaten entre venderlos, aparcarlos o desguazarlos, pero esta última opción parece ir ganando la partida mientras se acerca el &quot;día D&quot;; El baile de borradores de paz para Ucrania tiene un responsable (y no es Trump): Desde que está en la Casa Blanca junto a Trump, Vance ha sido el principal crítico de la ayuda militar estadounidense a Ucrania y se ha opuesto a posibles medidas como el despliegue de una fuerza de paz en el país. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-11-28T06:46:24Z",
+  "summary": "Resumen del día en El Confidencial: Los socios dejan solo al PSOE con Ábalos y hasta el PNV duda ya de la legislatura: Moncloa no hace por ahora ronda con los grupos de su órbita para dar tranquilidad, como sucedió con el golpe de Cerdán. El pesimismo sobre la legislatura se instala entre los partidos afines al Gobierno; Primer día de Ábalos en prisión: noche con Koldo, \"horario inglés\", patio y módulo \"light\": Ha recibido las visitas del Equipo Técnico de la cárcel y de su abogado, su familia le llevó un paquete con ropa y ya ha pisado el patio. Koldo ha hecho llegar a su entorno que están agradecidos por el trato; Dua Lipa, unos franceses y Pedralbes: la petanca vuelve a ser cool en Barcelona: En los últimos años, la petanca se ha vuelto a popularizar entre las clases altas catalanas. Todo comenzó en agosto de 2023, cuando Dua Lipa publicó una fotografía jugando. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-11-29T06:41:51Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Bruselas minimiza los beneficios económicos del rearme militar en Europa",
-      "subtitle": "¿Qué impacto tendrá el rearme europeo en el crecimiento económico? Los servicios técnicos de la Comisión Europea tienen una respuesta. Serán moderados, apenas un 0,8% del PIB en 2035 si se alcanza el 5% del PIB",
-      "url": "https://www.elconfidencial.com/economia/2025-11-28/armamento-gasto-militar-union-europea-minimiza-crecimiento_4255808/",
-      "scraped_at": "2025-11-28T06:46:23Z"
+      "title": "Los socios dejan solo al PSOE con Ábalos y hasta el PNV duda ya de la legislatura",
+      "subtitle": "Moncloa no hace por ahora ronda con los grupos de su órbita para dar tranquilidad, como sucedió con el golpe de Cerdán. El pesimismo sobre la legislatura se instala entre los partidos afines al Gobierno",
+      "url": "https://www.elconfidencial.com/espana/2025-11-29/socios-dejan-solo-psoe-abalos-mantienen-cordon-umbilical-sanchez_4256900/",
+      "scraped_at": "2025-11-29T06:41:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Coches a 100 €: los desguaces hacen caja con los vehículos que no se podrán usar en 2026",
-      "subtitle": "Los dueños de los vehículos vetados se debaten entre venderlos, aparcarlos o desguazarlos, pero esta última opción parece ir ganando la partida mientras se acerca el &quot;día D&quot;",
-      "url": "https://www.elconfidencial.com/espana/madrid/2025-11-28/dgt-coches-madrid-desguaces-etiqueta-medioambiental_4255493/",
-      "scraped_at": "2025-11-28T06:46:23Z"
+      "title": "Primer día de Ábalos en prisión: noche con Koldo, \"horario inglés\", patio y módulo \"light\"",
+      "subtitle": "Ha recibido las visitas del Equipo Técnico de la cárcel y de su abogado, su familia le llevó un paquete con ropa y ya ha pisado el patio. Koldo ha hecho llegar a su entorno que están agradecidos por el trato",
+      "url": "https://www.elconfidencial.com/espana/2025-11-29/abalos-primeras-24-horas-soto-real-espera-modulo-light_4256934/",
+      "scraped_at": "2025-11-29T06:41:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El baile de borradores de paz para Ucrania tiene un responsable (y no es Trump)",
-      "subtitle": "Desde que está en la Casa Blanca junto a Trump, Vance ha sido el principal crítico de la ayuda militar estadounidense a Ucrania y se ha opuesto a posibles medidas como el despliegue de una fuerza de paz en el país",
-      "url": "https://www.elconfidencial.com/mundo/2025-11-28/vance-ucrania-plan-paz-trump-1hms_4255307/",
-      "scraped_at": "2025-11-28T06:46:24Z"
+      "title": "Dua Lipa, unos franceses y Pedralbes: la petanca vuelve a ser cool en Barcelona",
+      "subtitle": "En los últimos años, la petanca se ha vuelto a popularizar entre las clases altas catalanas. Todo comenzó en agosto de 2023, cuando Dua Lipa publicó una fotografía jugando",
+      "url": "https://www.elconfidencial.com/deportes/2025-11-29/dua-lipa-pedralbes-petanca-cool-barcelona_4256643/",
+      "scraped_at": "2025-11-29T06:41:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Netflix retira en dos días la película más cañera de la última década",
-      "subtitle": "Está dirigida por el creador de otras películas como&#039;La La Land&#039; o &#039;Babylon&#039;, y fue inspirada en sus experiencias en una competitiva banda de jazz",
-      "url": "https://www.elconfidencial.com/cultura/cine/2025-11-28/netflix-retira-pelicula-musical-disciplina-2014-1qrt_4255696/",
-      "scraped_at": "2025-11-28T06:46:24Z"
+      "title": "\"¡Nadie derrota a Superbigote!\": lo que este dibujo cuenta sobre las inseguridades de Maduro",
+      "subtitle": "&#039;Superbigotes&#039; lleva años salvando a Venezuela del peligro. El personaje animado se ha vestido ahora de militar ante la escalada de tensiones entre Venezuela y Estados Unidos",
+      "url": "https://www.elconfidencial.com/mundo/2025-11-29/nadie-derrota-a-superbigote-lo-que-este-dibujo-animado-te-cuenta-sobre-las-inseguridades-de-maduro_4256794/",
+      "scraped_at": "2025-11-29T06:41:51Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "País Vasco",
+      "subtitle": "El presidente alemán es el primer jefe de Estado germano en visitar Gernika, que fue bombardeada durante la Guerra Civil por la Legión Cóndor alemana y la Aviación Legionaria italiana",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/",
+      "scraped_at": "2025-11-29T06:41:51Z"
     }
   ]
 }
