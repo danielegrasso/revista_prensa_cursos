@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Dirigentes del PP piden a Feijóo la moción de censura aunque la pierda: Entienden que la prisión de Ábalos, sumada al resto de casos, requiere ya una «respuesta política»; Sánchez cumple las exigencias de Otegi: reduce un 54% los etarras presos: El pacto de investidura del PSOE con EH Bildu contemplaba el acercamiento y la excarcelación de los etarras que estaban dispersos en las diferentes cárceles de España; Socios de la corrupción: Con el PSOE convertido 'de facto' en una minoría de bloqueo, el compromiso de regeneración recae de manera automática en los socios que sostienen a Sánchez contra viento y marea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-11-29T06:41:45Z",
+  "summary": "Resumen del día en ABC.es: Interior silencia el último ataque yihadista de Madrid: El caso del herido en Vallecas cuando atacaba a agentes al grito de «¡Alá es grande!» se investiga como terrorismo; Radiografía de los diez días más dramáticos de la 'era Sánchez': El Gobierno ha acusado el golpe de la condena al fiscal general, la entrada en prisión de Ábalos y el recordatorio de su precariedad parlamentaria; Sílvia Orriols, la 'condesa de Ripoll' que amenaza a Puigdemont: Propone medidas antiinmigración y, como secesionista radical, acusa a España de «colonizar» Cataluña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-11-30T06:43:54Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Dirigentes del PP piden a Feijóo la moción de censura aunque la pierda",
-      "subtitle": "Entienden que la prisión de Ábalos, sumada al resto de casos, requiere ya una «respuesta política»",
-      "url": "https://www.abc.es/espana/sectores-pp-piden-mocion-censura-pierda-20251129190107-nt.html",
-      "scraped_at": "2025-11-29T06:41:45Z"
+      "title": "Interior silencia el último ataque yihadista de Madrid",
+      "subtitle": "El caso del herido en Vallecas cuando atacaba a agentes al grito de «¡Alá es grande!» se investiga como terrorismo",
+      "url": "https://www.abc.es/espana/interior-silencia-incidente-yihadista-madrid-20251130142145-nt.html",
+      "scraped_at": "2025-11-30T06:43:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez cumple las exigencias de Otegi: reduce un 54% los etarras presos",
-      "subtitle": "El pacto de investidura del PSOE con EH Bildu contemplaba el acercamiento y la excarcelación de los etarras que estaban dispersos en las diferentes cárceles de España",
-      "url": "https://www.abc.es/espana/sanchez-cumple-exigencias-otegi-reduce-etarras-presos-20251129202308-nt.html",
-      "scraped_at": "2025-11-29T06:41:45Z"
+      "title": "Radiografía de los diez días más dramáticos de la 'era Sánchez'",
+      "subtitle": "El Gobierno ha acusado el golpe de la condena al fiscal general, la entrada en prisión de Ábalos y el recordatorio de su precariedad parlamentaria",
+      "url": "https://www.abc.es/espana/radiografia-diez-dias-dramaticos-era-sanchez-20251130195519-nt.html",
+      "scraped_at": "2025-11-30T06:43:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Socios de la corrupción",
-      "subtitle": "Con el PSOE convertido 'de facto' en una minoría de bloqueo, el compromiso de regeneración recae de manera automática en los socios que sostienen a Sánchez contra viento y marea",
-      "url": "https://www.abc.es/opinion/editorial-socios-corrupcion-20251128200329-nt.html",
-      "scraped_at": "2025-11-29T06:41:45Z"
+      "title": "Sílvia Orriols, la 'condesa de Ripoll' que amenaza a Puigdemont",
+      "subtitle": "Propone medidas antiinmigración y, como secesionista radical, acusa a España de «colonizar» Cataluña",
+      "url": "https://www.abc.es/espana/cataluna/silvia-orriols-condesa-ripoll-quiere-conquistar-cataluna-20251130123114-nt.html",
+      "scraped_at": "2025-11-30T06:43:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "El independentismo toca suelo entre los jóvenes catalanes",
-      "subtitle": "Cuando se pregunta por el modelo de relación preferido, solo un 25% aboga por un estado independiente",
-      "url": "https://www.abc.es/espana/cataluna/independentismo-jovenes-cae-puntos-2017-20251129224745-nt.html",
-      "scraped_at": "2025-11-29T06:41:45Z"
+      "title": "«Veremos a votantes que eligen Aliança en las autonómicas y Vox en las generales»",
+      "subtitle": "El profesor Xavier Torrens se ha sumergido en el fenómeno Orriols para escribir 'Salvar Catalunya. La gestació del nacionalpopulisme català'",
+      "url": "https://www.abc.es/espana/cataluna/veremos-votantes-eligen-alianza-autonomicas-vox-generales-20251130122119-nt.html",
+      "scraped_at": "2025-11-30T06:43:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pensiones",
-      "subtitle": "El alza supondrá unos 600 euros al año para una prestación media de jubilación y 500 para la media del sistema",
-      "url": "https://www.abc.es/economia/pensiones-subiran-alrededor-proximo-enero-20251128083937-nt.html",
-      "scraped_at": "2025-11-29T06:41:45Z"
+      "title": "Edad jubilación",
+      "subtitle": "Consulta aquí cómo queda la jubilación ordinaria para los nacidos durante el baby boom que se incorporarán paulatinamente al sistema de pensiones de España",
+      "url": "https://www.abc.es/economia/vas-jubilar-espana-segun-ano-nacimiento-tabla-20251129112520-nt.html",
+      "scraped_at": "2025-11-30T06:43:54Z"
     }
   ]
 }
