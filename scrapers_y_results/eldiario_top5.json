@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El PSOE cortocircuita la investigación a Francisco Salazar tras la desaparición de dos denuncias por acoso sexual: Dos militantes denunciaron hace cinco meses en el canal interno que el socialista \"sobrepasaba las líneas\" con \"comportamientos misóginos\". Ferraz admite \"falta de diligencia\", atribuye a un error informático que se hayan volatilizado del sistema y alega que no puede continuar el procedimiento porque el exasesor de Moncloa ha pedido la baja como militante; “Reconciliación” con impunidad: todas las pruebas contra Juan Carlos I que no sirven para que se arrepienta: El rey emérito ignora en la biografía publicada en Francia y en una reciente entrevista cómo las fiscalías española y suiza acumularon pruebas de sus desfalcos a Hacienda de las que solo se libró por la inviolabilidad y la prescripción; Un mes para Verifactu: claves del sistema de facturación para pymes y autónomos que llega el 1 de enero: Las pequeñas compañías que no facturen a mano, o con programas como Word o Excel, tendrán que emplear este nuevo software conectado con la Agencia Tributaria. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-01T06:48:56Z",
+  "summary": "Resumen del día en elDiario.es: Las denuncias contra Paco Salazar: “Se subía la bragueta en tu cara, escenificaba felaciones y pedía vernos el escote”: elDiario.es ha accedido a dos de los escritos presentados por mujeres que trabajaron a las órdenes del ex asesor de Moncloa y desaparecieron del canal antiacoso habilitado por Ferraz. Ambas describen con detalles el comportamiento del que también fue presidente del Hipódromo de la Zarzuela y hoy hace de consultor externo para el PSC; El PSOE cambia su versión sobre las denuncias por acoso a Paco Salazar y las reactiva en 72 horas: La dirección socialista pasó de decir que no tenía \"sentido seguir con el procedimiento\" después de que Salazar pidiera la baja de militancia el jueves a asegurar que seguirá adelante con él. En Ferraz niegan un cambio de versión: \"En lo orgánico no hay mucho que hacer\"; El Gobierno supera el millón de gasto en asesores por la demanda de la empresa de uranio que fichó a ex cargos del PP: Adjudica el mayor contrato hasta ahora del caso Berkeley, por 984.800 euros; la minera australiana que contrató a Lamela y García-Legaz pide 1.000 millones de dólares por su frustrado proyecto en Salamanca. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-02T06:47:53Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El PSOE cortocircuita la investigación a Francisco Salazar tras la desaparición de dos denuncias por acoso sexual",
+      "title": "Las denuncias contra Paco Salazar: “Se subía la bragueta en tu cara, escenificaba felaciones y pedía vernos el escote”",
+      "subtitle": "elDiario.es ha accedido a dos de los escritos presentados por mujeres que trabajaron a las órdenes del ex asesor de Moncloa y desaparecieron del canal antiacoso habilitado por Ferraz. Ambas describen con detalles el comportamiento del que también fue presidente del Hipódromo de la Zarzuela y hoy hace de consultor externo para el PSC",
+      "url": "https://www.eldiario.es/politica/denuncias-paco-salazar-subia-bragueta-cara-escenificaba-felaciones-pedia-vernos-escote_1_12807016.html",
+      "scraped_at": "2025-12-02T06:47:50Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PSOE cambia su versión sobre las denuncias por acoso a Paco Salazar y las reactiva en 72 horas",
+      "subtitle": "La dirección socialista pasó de decir que no tenía \"sentido seguir con el procedimiento\" después de que Salazar pidiera la baja de militancia el jueves a asegurar que seguirá adelante con él. En Ferraz niegan un cambio de versión: \"En lo orgánico no hay mucho que hacer\"",
+      "url": "https://www.eldiario.es/politica/psoe-cambia-version-investigacion-denuncias-acoso-paco-salazar-reactiva-72-horas_1_12812403.html",
+      "scraped_at": "2025-12-02T06:47:51Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno supera el millón de gasto en asesores por la demanda de la empresa de uranio que fichó a ex cargos del PP",
+      "subtitle": "Adjudica el mayor contrato hasta ahora del caso Berkeley, por 984.800 euros; la minera australiana que contrató a Lamela y García-Legaz pide 1.000 millones de dólares por su frustrado proyecto en Salamanca",
+      "url": "https://www.eldiario.es/economia/gobierno-supera-millon-gasto-asesores-demanda-empresa-uranio-ficho-ex-cargos-pp_1_12811367.html",
+      "scraped_at": "2025-12-02T06:47:51Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué es 'The Base', la organización terrorista neonazi que planea atentados en EEUU, España y Ucrania",
+      "subtitle": "Liderado por un estadounidense con entrenamiento militar y que vive en San Petersburgo, el grupo neonazi se mueve principalmente en redes sociales, donde además de difundir su propaganda busca reclutar nuevos miembros entre los más jóvenes con el objetivo de crear nuevas células terroristas",
+      "url": "https://www.eldiario.es/politica/the-base-organizacion-terrorista-neonazi-planea-atentados-eeuu-espana-ucrania_1_12810299.html",
+      "scraped_at": "2025-12-02T06:47:52Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Francisco Salazar",
       "subtitle": "Dos militantes denunciaron hace cinco meses en el canal interno que el socialista \"sobrepasaba las líneas\" con \"comportamientos misóginos\". Ferraz admite \"falta de diligencia\", atribuye a un error informático que se hayan volatilizado del sistema y alega que no puede continuar el procedimiento porque el exasesor de Moncloa ha pedido la baja como militante",
       "url": "https://www.eldiario.es/politica/psoe-cortocircuita-investigacion-francisco-salazar-desaparicion-denuncias-acoso-sexual_1_12804317.html",
-      "scraped_at": "2025-12-01T06:48:54Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "“Reconciliación” con impunidad: todas las pruebas contra Juan Carlos I que no sirven para que se arrepienta",
-      "subtitle": "El rey emérito ignora en la biografía publicada en Francia y en una reciente entrevista cómo las fiscalías española y suiza acumularon pruebas de sus desfalcos a Hacienda de las que solo se libró por la inviolabilidad y la prescripción",
-      "url": "https://www.eldiario.es/politica/reconciliacion-impunidad-pruebas-juan-carlos-i-no-sirven-arrepienta_1_12806321.html",
-      "scraped_at": "2025-12-01T06:48:54Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un mes para Verifactu: claves del sistema de facturación para pymes y autónomos que llega el 1 de enero",
-      "subtitle": "Las pequeñas compañías que no facturen a mano, o con programas como Word o Excel, tendrán que emplear este nuevo software conectado con la Agencia Tributaria",
-      "url": "https://www.eldiario.es/economia/mes-verifactu-claves-nuevo-sistema-facturacion-pymes-autonomos-llega-1-enero_1_12804148.html",
-      "scraped_at": "2025-12-01T06:48:55Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un tribunal suspende un mes al guardia civil que pidió el voto para Vox: “El Gobierno es cómplice de pederastas”",
-      "subtitle": "Los jueces confirman la sanción por falta muy grave para un agente del cuerpo en Ávila que apoyó a la extrema derecha en una entrevista tras un acto de la campaña electoral de 2022 en Castilla y León y que, además, hizo diversas publicaciones en Twitter a favor del partido de Abascal",
-      "url": "https://www.eldiario.es/politica/tribunal-suspende-mes-guardia-civil-pidio-voto-vox-gobierno-complice-pederastas_1_12804123.html",
-      "scraped_at": "2025-12-01T06:48:55Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Manifestación PP",
-      "subtitle": "El líder del PP obvia su petición de apoyo a Junts para una moción de censura y pide elecciones ante miles de personas en Madrid, con críticas de Ayuso a la subida de las pensiones y del sueldo de los funcionarios como una \"compra de voluntades\"",
-      "url": "https://www.eldiario.es/politica/feijoo-ayuso-apuntan-pedro-sanchez-koldo-cerdan-abalos-tres-conocen-carcel-falta_1_12808800.html",
-      "scraped_at": "2025-12-01T06:48:56Z"
+      "scraped_at": "2025-12-02T06:47:53Z"
     }
   ]
 }

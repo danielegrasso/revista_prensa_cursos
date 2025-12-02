@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Santos Cerdán cobró 100.000 € por la demolición de una universidad pública: La mercantil de la mano derecha de Pedro Sánchez en el PSOE, Servinabar 2000 SL, recibió fondos por un proyecto de Acciona para transformar la Universidad Laboral de Zaragoza en una gigante plataforma logística; El PP muestra músculo en la calle, pero aparca la moción de censura: \"En este momento, no\": Génova deja la puerta abierta a utilizar en el futuro este mecanismo para &quot;retratar&quot; a los socios, cuenten o no con los apoyos, y sitúa como punto de inflexión la posible imputación del PSOE por financiación irregular; 45 incidencias al día: el mapa de los puntos negros del Cercanías en España: Retrasos, trenes suspendidos, atropellos o problemas de accesibilidad. El Confidencial ha analizado los avisos de Renfe durante 50 días para conocer el estado de la red ferroviaria más utilizada. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-01T06:49:04Z",
+  "summary": "Resumen del día en El Confidencial: Cerdán cobró a empresas por mediar en compras de suelo fallidas y elaborar informes inservibles: La empresa del exsecretario de Organización del PSOE, Servinabar 2000 SL, facturó grandes sumas de dinero a compañías que recibieron préstamos, avales y contratos de administraciones controladas por el PSOE; El Gobierno afronta otra crisis de vivienda ante el fin de 300.000 alquileres del covid-19: Sumar intensifica su presión al PSOE para que imponga la prórroga obligatoria a todos los alquileres ante el inminente vencimiento de 300.000 contratos que se firmaron tras el covid; Queremos matcha, matcha: viaje a Japón para conocer el lado oscuro de la bebida de moda: Desde que esta forma de preparar el té verde saltara a la fama como superalimento, no ha parado de ganar adeptos, pero el interés ha crecido tanto que su pequeño mercado está en riesgo de morir de éxito. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-02T06:47:59Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Santos Cerdán cobró 100.000 € por la demolición de una universidad pública",
-      "subtitle": "La mercantil de la mano derecha de Pedro Sánchez en el PSOE, Servinabar 2000 SL, recibió fondos por un proyecto de Acciona para transformar la Universidad Laboral de Zaragoza en una gigante plataforma logística",
-      "url": "https://www.elconfidencial.com/espana/2025-12-01/psoe-cerdan-comision-universidad-publica-demolicion_4257456/",
-      "scraped_at": "2025-12-01T06:49:03Z"
+      "title": "Cerdán cobró a empresas por mediar en compras de suelo fallidas y elaborar informes inservibles",
+      "subtitle": "La empresa del exsecretario de Organización del PSOE, Servinabar 2000 SL, facturó grandes sumas de dinero a compañías que recibieron préstamos, avales y contratos de administraciones controladas por el PSOE",
+      "url": "https://www.elconfidencial.com/espana/2025-12-02/cerdan-cobros-empresas-informes-inservibles-compras-suelo-fallidas_4258374/",
+      "scraped_at": "2025-12-02T06:47:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El PP muestra músculo en la calle, pero aparca la moción de censura: \"En este momento, no\"",
-      "subtitle": "Génova deja la puerta abierta a utilizar en el futuro este mecanismo para &quot;retratar&quot; a los socios, cuenten o no con los apoyos, y sitúa como punto de inflexión la posible imputación del PSOE por financiación irregular",
-      "url": "https://www.elconfidencial.com/espana/2025-12-01/pp-mantiene-musculo-calle-aparca-mocion-censura_4257561/",
-      "scraped_at": "2025-12-01T06:49:03Z"
+      "title": "El Gobierno afronta otra crisis de vivienda ante el fin de 300.000 alquileres del covid-19",
+      "subtitle": "Sumar intensifica su presión al PSOE para que imponga la prórroga obligatoria a todos los alquileres ante el inminente vencimiento de 300.000 contratos que se firmaron tras el covid",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2025-12-02/crisis-vivienda-prorroga-alquileres-pandemia_4258334/",
+      "scraped_at": "2025-12-02T06:47:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "45 incidencias al día: el mapa de los puntos negros del Cercanías en España",
-      "subtitle": "Retrasos, trenes suspendidos, atropellos o problemas de accesibilidad. El Confidencial ha analizado los avisos de Renfe durante 50 días para conocer el estado de la red ferroviaria más utilizada",
-      "url": "https://www.elconfidencial.com/espana/2025-12-01/45-incidencias-dia-mapa-puntos-negros-cercanias-espana_4256852/",
-      "scraped_at": "2025-12-01T06:49:04Z"
+      "title": "Queremos matcha, matcha: viaje a Japón para conocer el lado oscuro de la bebida de moda",
+      "subtitle": "Desde que esta forma de preparar el té verde saltara a la fama como superalimento, no ha parado de ganar adeptos, pero el interés ha crecido tanto que su pequeño mercado está en riesgo de morir de éxito",
+      "url": "https://www.elconfidencial.com/economia/2025-12-02/te-matcha-japon-fiebre-sin-stock-problemas-falso_4255042/",
+      "scraped_at": "2025-12-02T06:47:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pelayo Cortina Koplowitz compra el hotel Es Molí y entra en la liga de los activos trofeo",
-      "subtitle": "Ilanca Capital, firma de inversión de Pelayo Cortina Koplowitz, se estrena en el segmento de hoteles de lujo con la compra de Es Molì en Deià, el municipio más exclusivo de Mallorca",
-      "url": "https://www.elconfidencial.com/inmobiliario/hoteles/2025-12-01/hotel-lujo-mallorca-pelayo-cortina-koplowitz-es-moli_4256736/",
-      "scraped_at": "2025-12-01T06:49:04Z"
+      "title": "La UME, a perseguir jabalíes en Cataluña tras laminar Marlaska el Seprona como exigía ERC",
+      "subtitle": "En una reunión en diciembre del pasado año con los separatistas se incorporó la expulsión silenciosa y “paulatina” de la Guardia civil de la naturaleza de Cataluña, pese a la oposición de  alcaldes independentistas",
+      "url": "https://www.elconfidencial.com/espana/2025-12-02/ume-jabalies-cataluna-marlaska-desmantelar-seprona-exigencia-erc_4258237/",
+      "scraped_at": "2025-12-02T06:47:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Carlos Alsina estalla contra la polarización política que sufre La Sexta: \"Denunciaré\"",
-      "subtitle": "José Yélamo señaló que a Onda Cero acuden políticos de &quot;todos los espectros&quot;, pero que a &#039;La Sexta Xplica&#039; &quot;vienen pocos&quot;. Es por ello que Alsina no dudó en pronunciarse",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-11-30/la-sexta-xplica-carlos-alsina-estalla-denunciare-polarizacion-politica_4257461/",
-      "scraped_at": "2025-12-01T06:49:04Z"
+      "title": "Vuelve la derecha a Honduras: pulso entre el candidato trumpista y el liberal Nasralla",
+      "subtitle": "La jornada electoral ha estado marcada por un fuerte retraso en el recuento",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-01/elecciones-honduras_4257809/",
+      "scraped_at": "2025-12-02T06:47:59Z"
     }
   ]
 }
