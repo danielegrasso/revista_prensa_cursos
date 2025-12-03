@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Koldo instó a Ábalos a fugarse a Colombia o Perú: El exasesor ha marcado la estrategia de defensa del exministro, que «nunca quiso huir», según fuentes próximas; Sánchez da orden a sus ministros de gobernar sin el Parlamento: Les insta a impulsar cuestiones que generen rédito electoral y que permitan esquivar al Congreso; El Senado reprobará al Gobierno por sus injerencias en la justicia: El choque institucional sigue escalando ya que será la séptima vez que la Cámara Alta censure al Ejecutivo en lo que va de legislatura. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-02T06:47:54Z",
+  "summary": "Resumen del día en ABC.es: Los relevos en la UCO coincidirán con el tramo judicial decisivo de Pedro Sánchez: Interior saca de la Unidad a los tres hombres clave en las investigaciones sobre la corrupción. El último, Balas, saldrá en marzo, momento crucial de los procesos judiciales; Despedidos del CNIO siguen trabajando al no tener notificación de su cese: El Patronato acordó el pasado martes su salida tras las irregularidades detectadas; La UME, en la zona cero de la peste porcina: trajes EPI y bolsas mortuorias para frenar el brote: Son ya nueve los jabalíes infectados con el virus en el radio del primer foco, detectado en la sierra de Collserola (Barcelona). Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-03T06:47:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Koldo instó a Ábalos a fugarse a Colombia o Perú",
-      "subtitle": "El exasesor ha marcado la estrategia de defensa del exministro, que «nunca quiso huir», según fuentes próximas",
-      "url": "https://www.abc.es/espana/koldo-insto-abalos-fugarse-colombia-peru-20251202150357-nt.html",
-      "scraped_at": "2025-12-02T06:47:54Z"
+      "title": "Los relevos en la UCO coincidirán con el tramo judicial decisivo de Pedro Sánchez",
+      "subtitle": "Interior saca de la Unidad a los tres hombres clave en las investigaciones sobre la corrupción. El último, Balas, saldrá en marzo, momento crucial de los procesos judiciales",
+      "url": "https://www.abc.es/espana/desmantelamiento-uco-coincidira-tramo-judicial-decisivo-pedro-20251203042819-nt.html",
+      "scraped_at": "2025-12-03T06:47:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez da orden a sus ministros de gobernar sin el Parlamento",
-      "subtitle": "Les insta a impulsar cuestiones que generen rédito electoral y que permitan esquivar al Congreso",
-      "url": "https://www.abc.es/espana/sanchez-orden-ministros-gobernar-parlamento-20251201150218-nt.html",
-      "scraped_at": "2025-12-02T06:47:54Z"
+      "title": "Despedidos del CNIO siguen trabajando al no tener notificación de su cese",
+      "subtitle": "El Patronato acordó el pasado martes su salida tras las irregularidades detectadas",
+      "url": "https://www.abc.es/espana/despedidos-cnio-sigue-utilizando-firma-correo-corporativo-20251203211409-nt.html",
+      "scraped_at": "2025-12-03T06:47:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Senado reprobará al Gobierno por sus injerencias en la justicia",
-      "subtitle": "El choque institucional sigue escalando ya que será la séptima vez que la Cámara Alta censure al Ejecutivo en lo que va de legislatura",
-      "url": "https://www.abc.es/espana/senado-reprobara-gobierno-injerencias-justicia-20251202161257-nt.html",
-      "scraped_at": "2025-12-02T06:47:54Z"
+      "title": "La UME, en la zona cero de la peste porcina: trajes EPI y bolsas mortuorias para frenar el brote",
+      "subtitle": "Son ya nueve los jabalíes infectados con el virus en el radio del primer foco, detectado en la sierra de Collserola (Barcelona)",
+      "url": "https://www.abc.es/sociedad/ume-zona-cero-peste-porcina-20251203042944-nt.html",
+      "scraped_at": "2025-12-03T06:47:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Policía investiga si una de las niñas de Jaén indujo a la otra al suicidio",
-      "subtitle": "Una de las dos presentaba desde hace meses un perfil problemático y tenía abierto desde hace un año el protocolo por autolesiones. Los padres de las menores las hallaron colgadas de un árbol en el Parque de la Concordia",
-      "url": "https://www.abc.es/espana/andalucia/jaen/policia-investiga-ninas-jaen-indujo-suicidio-20251202185658-nts.html",
-      "scraped_at": "2025-12-02T06:47:54Z"
+      "title": "Una casa rural, un cumpleaños, mensajes... Cuatro episodios que demuestran que el «amigo» Ábalos no era un «desconocido» para Sánchez",
+      "subtitle": "El presidente aseguró que el exministro tenía una vida «desconocida» para él en una entrevista televisiva a pesar del pasado que los une",
+      "url": "https://www.abc.es/espana/cuatro-episodios-demuestran-amigo-abalos-era-desconocido-20251202043213-nt.html",
+      "scraped_at": "2025-12-03T06:47:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Elecciones Extremadura",
-      "subtitle": "Las encuestas de los comicios autonómicos ya dejan un claro favorito de cara a convertirse en el gran ganador el próximo 21 de diciembre",
-      "url": "https://www.abc.es/espana/extremadura/encuestas-elecciones-extremadura-resultados-ganador-segun-ultimos-20251201050000-nt.html",
-      "scraped_at": "2025-12-02T06:47:54Z"
+      "title": "Verifactu",
+      "subtitle": "El Consejo de Ministros ha aplazado este martes la aplicación de este software de facturación electrónica de Hacienda ideado para desactivar el prácticas de fraude",
+      "url": "https://www.abc.es/economia/gobierno-confirma-nueva-fecha-entrada-vigor-sistema-20251202200000-nt.html",
+      "scraped_at": "2025-12-03T06:47:22Z"
     }
   ]
 }

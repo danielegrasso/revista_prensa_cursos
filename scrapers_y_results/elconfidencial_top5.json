@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Cerdán cobró a empresas por mediar en compras de suelo fallidas y elaborar informes inservibles: La empresa del exsecretario de Organización del PSOE, Servinabar 2000 SL, facturó grandes sumas de dinero a compañías que recibieron préstamos, avales y contratos de administraciones controladas por el PSOE; El Gobierno afronta otra crisis de vivienda ante el fin de 300.000 alquileres del covid-19: Sumar intensifica su presión al PSOE para que imponga la prórroga obligatoria a todos los alquileres ante el inminente vencimiento de 300.000 contratos que se firmaron tras el covid; Queremos matcha, matcha: viaje a Japón para conocer el lado oscuro de la bebida de moda: Desde que esta forma de preparar el té verde saltara a la fama como superalimento, no ha parado de ganar adeptos, pero el interés ha crecido tanto que su pequeño mercado está en riesgo de morir de éxito. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-02T06:47:59Z",
+  "summary": "Resumen del día en El Confidencial: Sánchez promete a Puigdemont que podrá volver en abril para tener sus PGE, pero Junts no se fía: El partido del &#039;expresident&#039; desconfía de la Moncloa, pero prefiere abrir la puerta a retomar las conversaciones con el PSOE a quedarse sin margen de actuación en el Congreso; El juez rechaza devolver a Koldo cuatro de sus 23 móviles con todas las claves de la trama: El asesor de Ábalos alega que necesita acceder a sus teléfonos para poder defenderse, pero el magistrado de la Audiencia Nacional contesta que todavía &quot;no se ha efectuado el volcado&quot;; ¿Quieres un palacio andaluz por 550.000 €? Este irlandés lo consigue sin salir de Dublín: Timur Negru nos cuenta cómo ha creado un fuerte nicho de mercado con propiedades históricas en países como España, Italia, Francia o Portugal. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-03T06:47:29Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Cerdán cobró a empresas por mediar en compras de suelo fallidas y elaborar informes inservibles",
-      "subtitle": "La empresa del exsecretario de Organización del PSOE, Servinabar 2000 SL, facturó grandes sumas de dinero a compañías que recibieron préstamos, avales y contratos de administraciones controladas por el PSOE",
-      "url": "https://www.elconfidencial.com/espana/2025-12-02/cerdan-cobros-empresas-informes-inservibles-compras-suelo-fallidas_4258374/",
-      "scraped_at": "2025-12-02T06:47:57Z"
+      "title": "Sánchez promete a Puigdemont que podrá volver en abril para tener sus PGE, pero Junts no se fía",
+      "subtitle": "El partido del &#039;expresident&#039; desconfía de la Moncloa, pero prefiere abrir la puerta a retomar las conversaciones con el PSOE a quedarse sin margen de actuación en el Congreso",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-12-03/sanchez-promete-puigdemont-volver-abril-pge_4259113/",
+      "scraped_at": "2025-12-03T06:47:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Gobierno afronta otra crisis de vivienda ante el fin de 300.000 alquileres del covid-19",
-      "subtitle": "Sumar intensifica su presión al PSOE para que imponga la prórroga obligatoria a todos los alquileres ante el inminente vencimiento de 300.000 contratos que se firmaron tras el covid",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2025-12-02/crisis-vivienda-prorroga-alquileres-pandemia_4258334/",
-      "scraped_at": "2025-12-02T06:47:57Z"
+      "title": "El juez rechaza devolver a Koldo cuatro de sus 23 móviles con todas las claves de la trama",
+      "subtitle": "El asesor de Ábalos alega que necesita acceder a sus teléfonos para poder defenderse, pero el magistrado de la Audiencia Nacional contesta que todavía &quot;no se ha efectuado el volcado&quot;",
+      "url": "https://www.elconfidencial.com/espana/2025-12-03/juez-rechaza-devolver-koldo-moviles-claves-trama_4258991/",
+      "scraped_at": "2025-12-03T06:47:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Queremos matcha, matcha: viaje a Japón para conocer el lado oscuro de la bebida de moda",
-      "subtitle": "Desde que esta forma de preparar el té verde saltara a la fama como superalimento, no ha parado de ganar adeptos, pero el interés ha crecido tanto que su pequeño mercado está en riesgo de morir de éxito",
-      "url": "https://www.elconfidencial.com/economia/2025-12-02/te-matcha-japon-fiebre-sin-stock-problemas-falso_4255042/",
-      "scraped_at": "2025-12-02T06:47:57Z"
+      "title": "¿Quieres un palacio andaluz por 550.000 €? Este irlandés lo consigue sin salir de Dublín",
+      "subtitle": "Timur Negru nos cuenta cómo ha creado un fuerte nicho de mercado con propiedades históricas en países como España, Italia, Francia o Portugal",
+      "url": "https://www.elconfidencial.com/inmobiliario/2025-12-03/mercado-inmobiliario-palacios-mansiones-sur-espana_4258114/",
+      "scraped_at": "2025-12-03T06:47:28Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La UME, a perseguir jabalíes en Cataluña tras laminar Marlaska el Seprona como exigía ERC",
+      "title": "Sánchez se fotografió en Malta con el jefe del \"grupo pantalla\" del servicio secreto marroquí",
+      "subtitle": "El presidente del Gobierno se prestó así a intentar socavar la representatividad del Polisario en vísperas de la cumbre con Marruecos que se celebrará este jueves en Madrid",
+      "url": "https://www.elconfidencial.com/espana/2025-12-03/sanchez-fotografia-malta-jefe-grupo-pantalla-servicio-secreto-marroqui_4259012/",
+      "scraped_at": "2025-12-03T06:47:28Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Peste porcina",
       "subtitle": "En una reunión en diciembre del pasado año con los separatistas se incorporó la expulsión silenciosa y “paulatina” de la Guardia civil de la naturaleza de Cataluña, pese a la oposición de  alcaldes independentistas",
       "url": "https://www.elconfidencial.com/espana/2025-12-02/ume-jabalies-cataluna-marlaska-desmantelar-seprona-exigencia-erc_4258237/",
-      "scraped_at": "2025-12-02T06:47:58Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Vuelve la derecha a Honduras: pulso entre el candidato trumpista y el liberal Nasralla",
-      "subtitle": "La jornada electoral ha estado marcada por un fuerte retraso en el recuento",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-01/elecciones-honduras_4257809/",
-      "scraped_at": "2025-12-02T06:47:59Z"
+      "scraped_at": "2025-12-03T06:47:29Z"
     }
   ]
 }
