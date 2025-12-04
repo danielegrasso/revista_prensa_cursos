@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Sánchez acelera para recomponer la relación con Junts, que opta por la prudencia: La Moncloa trata de garantizar el curso de una segunda parte de la legislatura; España somete a Alemania con una estelar Claudia Pina y vuelve a conquistar la Nations League: Un doblete de la delantera blaugrana y un golazo de Vicky López permiten a ‘la roja’ revalidar el título; El Barça se crece, gana al Atlético y refuerza su liderato: Los de Hansi Flick remontan el gol inicial de Baena y derrotan al equipo de Simeone con las dianas de Raphinha, Olmo y Ferran Torres. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-03T06:47:24Z",
+  "summary": "Resumen del día en La Vanguardia: La Fiscalía frente a la UCO en el 'caso Montoro': Anticorrupción advierte que los agentes solo han analizado diez cuentas de las 200 localizadas en la causa; Cornudos y apaleados: El apagón del pasado 28 de abril sigue siendo un misterio. No se sabe ni las causas, ni de quién fue la culpa de la caída del sistema que provocó un caos en toda; Un ramo para Puigdemont: El gesto de Sánchez tenía el riesgo de ser recibido con un portazo por Junts. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-04T06:47:10Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Sánchez acelera para recomponer la relación con Junts, que opta por la prudencia",
-      "subtitle": "La Moncloa trata de garantizar el curso de una segunda parte de la legislatura",
-      "url": "https://www.lavanguardia.com/politica/20251203/11325399/sanchez-asume-incumplimientos-junts-acelera-corregirlos.html",
-      "scraped_at": "2025-12-03T06:47:23Z"
+      "title": "La Fiscalía frente a la UCO en el 'caso Montoro'",
+      "subtitle": "Anticorrupción advierte que los agentes solo han analizado diez cuentas de las 200 localizadas en la causa",
+      "url": "https://www.lavanguardia.com/politica/20251204/11327638/fiscalia-frente-uco-caso-montoro.html",
+      "scraped_at": "2025-12-04T06:47:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España somete a Alemania con una estelar Claudia Pina y vuelve a conquistar la Nations League",
-      "subtitle": "Un doblete de la delantera blaugrana y un golazo de Vicky López permiten a ‘la roja’ revalidar el título",
-      "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20251202/11325549/espana-somete-alemania-estelar-claudia-pina-vuelve-conquistar-nations.html",
-      "scraped_at": "2025-12-03T06:47:23Z"
+      "title": "Cornudos y apaleados",
+      "subtitle": "El apagón del pasado 28 de abril sigue siendo un misterio. No se sabe ni las causas, ni de quién fue la culpa de la caída del sistema que provocó un caos en toda",
+      "url": "https://www.lavanguardia.com/opinion/20251204/11329989/cornudos-apaleados.html",
+      "scraped_at": "2025-12-04T06:47:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Barça se crece, gana al Atlético y refuerza su liderato",
-      "subtitle": "Los de Hansi Flick remontan el gol inicial de Baena y derrotan al equipo de Simeone con las dianas de Raphinha, Olmo y Ferran Torres",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20251202/11325809/barca-crece-gana-atletico-refuerza-liderato-liga.html",
-      "scraped_at": "2025-12-03T06:47:23Z"
+      "title": "Un ramo para Puigdemont",
+      "subtitle": "El gesto de Sánchez tenía el riesgo de ser recibido con un portazo por Junts",
+      "url": "https://www.lavanguardia.com/politica/20251204/11329934/ramo-puigdemont.html",
+      "scraped_at": "2025-12-04T06:47:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Putin: “Si Europa quiere una guerra con Rusia y la inicia, estamos listos”",
-      "subtitle": "El líder ruso desafía a Europa el mismo día que discute en el Kremlin el plan de paz para Ucrania con la delegación de Estados Unidos, formada por Steve Witkoff y",
-      "url": "https://www.lavanguardia.com/internacional/20251202/11324712/putin-amenaza-con-cortar-a-ucrania-el-acceso-al-mar-y-atacar-barcos-de-quienes-ayudan-a-kyiv.html",
-      "scraped_at": "2025-12-03T06:47:24Z"
+      "title": "¿Bailas de nuevo, Puigdemont?",
+      "subtitle": "El Gobierno ha cumplido y cumple. Esta fue la letanía gubernamental que Pedro Sánchez y su ejecutivo al completo entonaron convencidísimos cuando Junts anunció que ya",
+      "url": "https://www.lavanguardia.com/politica/20251204/11329848/bailas-nuevo-puigdemont.html",
+      "scraped_at": "2025-12-04T06:47:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "5 guarniciones con patata para triunfar en tus comidas de Navidad",
-      "subtitle": "Te proponemos recetas que van de aperitivos sencillos a platos más contundentes, perfectos para cualquier mesa festiva",
-      "url": "https://www.lavanguardia.com/comer/recetas/20251203/11323139/5-guarniciones-patata-triunfar-tus-comidas-navidad.html",
-      "scraped_at": "2025-12-03T06:47:24Z"
+      "title": "“La batalla de los vinos”: el texto que divulgó los mejores vinos blancos",
+      "subtitle": "Un poema medieval donde los vinos pelean en la mesa frente al rey de Francia",
+      "url": "https://www.lavanguardia.com/comer/beber/20251203/11322472/batalla-vinos-texto-divulgo-mejores-vinos-blancos-mundo.html",
+      "scraped_at": "2025-12-04T06:47:10Z"
     }
   ]
 }
