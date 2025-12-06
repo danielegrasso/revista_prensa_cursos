@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El caso Salazar rompe el PSOE: «¿De esto tampoco se enteró el presidente?»: Indignación en el PSOE porque les genera un coste electoral mayor que la corrupción: «Nos da donde más duele»; El Consejo de Productividad pedirá reducir la burocracia para mejorar la débil eficiencia laboral de España: El organismo elude plantear medidas en el mercado de trabajo en su primer informe con recomendaciones al Gobierno; Los alquileres que promete la nueva empresa estatal de vivienda: contratos de 75 años y precios hasta un 50% por debajo de mercado: Sepes pasa a llamarse Casa 47 y promete que sus arrendamientos serán accesibles para 6 de cada 10 españoles. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-05T06:47:35Z",
+  "summary": "Resumen del día en ABC.es: Clavijo amenaza al Gobierno por vetar a Canarias en la cumbre con Marruecos: Los nacionalistas, que hace meses que avisan al PSOE por la corrupción, están muy molestos por su exclusión en la reunión entre los dos Estados; Ferraz pide a las víctimas de Salazar que no hablen con la prensa: Miembros de la Ejecutiva Federal han contactado con las denunciantes para disuadirles de dar su versión en los medios de comunicación; El PP da orden de exprimir el caso Salazar y lo lleva a la campaña extremeña: Génova da por hecho que el escándalo hace más daño que la trama de corrupción en sí, y llena los mítines de discursos contra la «hipocresía» del PSOE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-06T06:41:48Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El caso Salazar rompe el PSOE: «¿De esto tampoco se enteró el presidente?»",
-      "subtitle": "Indignación en el PSOE porque les genera un coste electoral mayor que la corrupción: «Nos da donde más duele»",
-      "url": "https://www.abc.es/espana/salazar-rompe-cortafuegos-sanchez-peor-abalos-cerdan-20251205041018-nt.html",
-      "scraped_at": "2025-12-05T06:47:34Z"
+      "title": "Clavijo amenaza al Gobierno por vetar a Canarias en la cumbre con Marruecos",
+      "subtitle": "Los nacionalistas, que hace meses que avisan al PSOE por la corrupción, están muy molestos por su exclusión en la reunión entre los dos Estados",
+      "url": "https://www.abc.es/espana/canarias/coalicion-canaria-plantea-retirar-apoyo-sanchez-excluir-20251206044212-nt.html",
+      "scraped_at": "2025-12-06T06:41:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Consejo de Productividad pedirá reducir la burocracia para mejorar la débil eficiencia laboral de España",
-      "subtitle": "El organismo elude plantear medidas en el mercado de trabajo en su primer informe con recomendaciones al Gobierno",
-      "url": "https://www.abc.es/economia/consejo-productividad-pedira-medidas-gobierno-mejorar-debil-20251205041120-nt.html",
-      "scraped_at": "2025-12-05T06:47:34Z"
+      "title": "Ferraz pide a las víctimas de Salazar que no hablen con la prensa",
+      "subtitle": "Miembros de la Ejecutiva Federal han contactado con las denunciantes para disuadirles de dar su versión en los medios de comunicación",
+      "url": "https://www.abc.es/espana/ferraz-pide-victimas-salazar-hablen-prensa-20251206044346-nt.html",
+      "scraped_at": "2025-12-06T06:41:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los alquileres que promete la nueva empresa estatal de vivienda: contratos de 75 años y precios hasta un 50% por debajo de mercado",
-      "subtitle": "Sepes pasa a llamarse Casa 47 y promete que sus arrendamientos serán accesibles para 6 de cada 10 españoles",
-      "url": "https://www.abc.es/economia/alquileres-promete-nueva-empresa-estatal-vivienda-contratos-20251205041158-nt.html",
-      "scraped_at": "2025-12-05T06:47:35Z"
+      "title": "El PP da orden de exprimir el caso Salazar y lo lleva a la campaña extremeña",
+      "subtitle": "Génova da por hecho que el escándalo hace más daño que la trama de corrupción en sí, y llena los mítines de discursos contra la «hipocresía» del PSOE",
+      "url": "https://www.abc.es/espana/pp-orden-exprimir-salazar-lleva-campana-extremena-20251206044409-nt.html",
+      "scraped_at": "2025-12-06T06:41:48Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 'Pollo' Carvajal revela un sistema digital chavista para manipular elecciones en todo el mundo",
-      "subtitle": "El exjefe de la Inteligencia Militar de Venezuela describe en su carta a Trump que la empresa de recuento electrónico de votos Smartmatic es una herramienta para asegurar el control político",
-      "url": "https://www.abc.es/internacional/carvajal-destapa-origen-control-chavista-sobre-sistema-20251204041259-nt.html",
-      "scraped_at": "2025-12-05T06:47:35Z"
+      "title": "Poderosos jefes de mafias exsoviéticas se alían con Putin en la guerra de Ucrania",
+      "subtitle": "El crimen organizado ruso es una herramienta más para el presidente,Vladímir Putin, que permite que gane fortunas a cambio de apoyo cuando lo necesita... Por ejemplo, ahora en la invasión de Ucrania y en la guerra híbrida que el Kremlin mantiene contra Europa",
+      "url": "https://www.abc.es/espana/poderosos-vor-mafias-exsovieticas-alian-putin-guerra-20251206182401-nt.html",
+      "scraped_at": "2025-12-06T06:41:48Z"
     },
     {
       "source": "ABC.es",
-      "title": "Teresa Peramato",
-      "subtitle": "Sigue en directo la comparacencia de Teresa Peramato, futura fiscal general del Estado, con sus declaraciones y la última hora desde el Congreso de los Diputados hoy",
-      "url": "https://www.abc.es/espana/comparecencia-teresa-peramato-futura-fiscal-general-estado-20251204121236-di.html",
-      "scraped_at": "2025-12-05T06:47:35Z"
+      "title": "España Mundial",
+      "subtitle": "La Selección ya conoce su camino en la fase de grupos de la Copa del Mundo de 2026",
+      "url": "https://www.abc.es/deportes/futbol/mundial/grupo-espana-mundial-2026-rivales-cruces-partidos-20251205022443-nt.html",
+      "scraped_at": "2025-12-06T06:41:48Z"
     }
   ]
 }

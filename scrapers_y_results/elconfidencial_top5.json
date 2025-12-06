@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El juez abrirá una pieza secreta con todos los pagos del PSOE para que los investigue la UCO: Moreno prevé atender la solicitud formulada por la Fiscalía para que la respuesta del partido a su requerimiento, que debe llegar en unos días, se declare reservada y se remita a la Guardia Civil para que elabore un informe; Extremadura: tras Ábalos, el PP exprime el 'caso Salazar' para captar voto femenino del PSOE: Feijóo y Guardiola empuñan la bandera del &quot;feminismo&quot; frente a la &quot;hipocresía&quot; socialista y Génova sitúa a las mujeres como vector clave en las elecciones del 21 de diciembre, un terreno que se le escapa a Vox; Andalucía: Las hermanas del joven asesinado indagarán en las actas de la investigación, a las que han tenido acceso 48 años después, para saber quién disparó. Moreno reivindica la figura del joven sindicalista. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-05T06:47:40Z",
+  "summary": "Resumen del día en El Confidencial: El consumo crecerá más que la renta en 2026 y las familias reducirán su ahorro: El descenso de la tasa de paro y la mayor certidumbre económica animarán a los hogares a gastar, pero seguirán siendo más ahorradores que antes de la pandemia; España tiene una enfermedad: la nostalgia (no solo la del franquismo): El 41% de los españoles habría preferido nacer en 1975, pero no solo hay una nostalgia de la dictadura. Frente a ella, la nostalgia de la Transición es cada vez más fuerte; Los agricultores españoles se pasan al cultivo tropical: \"Cambié las naranjas por guayabas\": El sur peninsular acoge plantaciones de frutas tropicales que apenas se conocen en España. Los agricultores se ven tentados por la demanda que supone la llegada de latinoamericanos y la rentabilidad que ofrecen estos cultivos sobre otros tradicionales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-06T06:41:53Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El juez abrirá una pieza secreta con todos los pagos del PSOE para que los investigue la UCO",
-      "subtitle": "Moreno prevé atender la solicitud formulada por la Fiscalía para que la respuesta del partido a su requerimiento, que debe llegar en unos días, se declare reservada y se remita a la Guardia Civil para que elabore un informe",
-      "url": "https://www.elconfidencial.com/espana/2025-12-05/pieza-secreta-pagos-sobres-psoe-uco-audiencia-nacional_4260623/",
-      "scraped_at": "2025-12-05T06:47:40Z"
+      "title": "El consumo crecerá más que la renta en 2026 y las familias reducirán su ahorro",
+      "subtitle": "El descenso de la tasa de paro y la mayor certidumbre económica animarán a los hogares a gastar, pero seguirán siendo más ahorradores que antes de la pandemia",
+      "url": "https://www.elconfidencial.com/economia/2025-12-06/consumo-hogares-renta-familias-reduciran-ahorro_4261682/",
+      "scraped_at": "2025-12-06T06:41:51Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Extremadura: tras Ábalos, el PP exprime el 'caso Salazar' para captar voto femenino del PSOE",
-      "subtitle": "Feijóo y Guardiola empuñan la bandera del &quot;feminismo&quot; frente a la &quot;hipocresía&quot; socialista y Génova sitúa a las mujeres como vector clave en las elecciones del 21 de diciembre, un terreno que se le escapa a Vox",
-      "url": "https://www.elconfidencial.com/espana/2025-12-05/amigas-abalos-pp-exprime-caso-salazar-voto-femenino-psoe_4260600/",
-      "scraped_at": "2025-12-05T06:47:40Z"
+      "title": "España tiene una enfermedad: la nostalgia (no solo la del franquismo)",
+      "subtitle": "El 41% de los españoles habría preferido nacer en 1975, pero no solo hay una nostalgia de la dictadura. Frente a ella, la nostalgia de la Transición es cada vez más fuerte",
+      "url": "https://www.elconfidencial.com/cultura/2025-12-06/espana-problema-nostalgia-no-solo-franquismo_4260630/",
+      "scraped_at": "2025-12-06T06:41:51Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Andalucía",
-      "subtitle": "Las hermanas del joven asesinado indagarán en las actas de la investigación, a las que han tenido acceso 48 años después, para saber quién disparó. Moreno reivindica la figura del joven sindicalista",
-      "url": "https://www.elconfidencial.com/espana/andalucia/",
-      "scraped_at": "2025-12-05T06:47:40Z"
+      "title": "Los agricultores españoles se pasan al cultivo tropical: \"Cambié las naranjas por guayabas\"",
+      "subtitle": "El sur peninsular acoge plantaciones de frutas tropicales que apenas se conocen en España. Los agricultores se ven tentados por la demanda que supone la llegada de latinoamericanos y la rentabilidad que ofrecen estos cultivos sobre otros tradicionales",
+      "url": "https://www.elconfidencial.com/espana/2025-12-06/agricultura-campesinos-frutas-tropicales_4260701/",
+      "scraped_at": "2025-12-06T06:41:52Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Fuga silenciosa en UK: miles de millonarios hacen las maletas por la presión fiscal laborista",
+      "subtitle": "Datos oficiales revelan un éxodo inédito: casi un millón de británicos y miles de grandes patrimonios se marchan por fiscalidad más dura, salarios estancados, vivienda cara y servicios degradados mientras Westminster mira a la inmigración",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-06/fuga-millonarios-reino-unido-emigracion-1hms_4259644/",
+      "scraped_at": "2025-12-06T06:41:52Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Día de la Constitución",
+      "subtitle": "Las celebraciones por el Día de la Constitución traerán consigo cortes de tráfico y desvíos puntuales en varios puntos de la ciudad. El Ayuntamiento ha detallado las calles afectadas por eventos deportivos y musicales",
+      "url": "https://www.elconfidencial.com/espana/madrid/2025-12-05/calles-cortadas-sabado-6-de-diciembre-1tna-1qrt_4260875/",
+      "scraped_at": "2025-12-06T06:41:53Z"
     }
   ]
 }
