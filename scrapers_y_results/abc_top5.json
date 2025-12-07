@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Clavijo amenaza al Gobierno por vetar a Canarias en la cumbre con Marruecos: Los nacionalistas, que hace meses que avisan al PSOE por la corrupción, están muy molestos por su exclusión en la reunión entre los dos Estados; Ferraz pide a las víctimas de Salazar que no hablen con la prensa: Miembros de la Ejecutiva Federal han contactado con las denunciantes para disuadirles de dar su versión en los medios de comunicación; El PP da orden de exprimir el caso Salazar y lo lleva a la campaña extremeña: Génova da por hecho que el escándalo hace más daño que la trama de corrupción en sí, y llena los mítines de discursos contra la «hipocresía» del PSOE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-06T06:41:48Z",
+  "summary": "Resumen del día en ABC.es: El 'caso Salazar' trunca las candidaturas de Montero y Alegría: La relación de complicidad con el asesor áulico de Sánchez impacta en sus candidaturas en Andalucía y Aragón; Los casos de machismo que marcan al PSOE: ¿«Soy feminista porque soy socialista»?: Las conversaciones entre Ábalos y Koldo, el caso Salazar, el secretario general de Torremolinos y el propio Sánchez agrandan la lista de polémicas machistas en el PSOE; Sánchez se abre ahora a que el fracaso de los Presupuestos tenga consecuencias: El presidente, que dijo que la derrota no conllevaría elecciones, cambia de estrategia: «Veremos los efectos». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-07T06:41:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Clavijo amenaza al Gobierno por vetar a Canarias en la cumbre con Marruecos",
-      "subtitle": "Los nacionalistas, que hace meses que avisan al PSOE por la corrupción, están muy molestos por su exclusión en la reunión entre los dos Estados",
-      "url": "https://www.abc.es/espana/canarias/coalicion-canaria-plantea-retirar-apoyo-sanchez-excluir-20251206044212-nt.html",
-      "scraped_at": "2025-12-06T06:41:47Z"
+      "title": "El 'caso Salazar' trunca las candidaturas de Montero y Alegría",
+      "subtitle": "La relación de complicidad con el asesor áulico de Sánchez impacta en sus candidaturas en Andalucía y Aragón",
+      "url": "https://www.abc.es/espana/salazar-trunca-candidaturas-montero-alegria-20251207040132-nt.html",
+      "scraped_at": "2025-12-07T06:41:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ferraz pide a las víctimas de Salazar que no hablen con la prensa",
+      "title": "Los casos de machismo que marcan al PSOE: ¿«Soy feminista porque soy socialista»?",
+      "subtitle": "Las conversaciones entre Ábalos y Koldo, el caso Salazar, el secretario general de Torremolinos y el propio Sánchez agrandan la lista de polémicas machistas en el PSOE",
+      "url": "https://www.abc.es/espana/episodios-machistas-cercan-psoe-20251206040144-nt.html",
+      "scraped_at": "2025-12-07T06:41:06Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Sánchez se abre ahora a que el fracaso de los Presupuestos tenga consecuencias",
+      "subtitle": "El presidente, que dijo que la derrota no conllevaría elecciones, cambia de estrategia: «Veremos los efectos»",
+      "url": "https://www.abc.es/espana/sanchez-abre-fracaso-presupuestos-consecuencias-20251207040155-nt.html",
+      "scraped_at": "2025-12-07T06:41:07Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "'Los Domingos' entra en un convento de monjas contemplativas: «El guion lo podríamos firmar cualquiera de nosotras»",
+      "subtitle": "Treinta monjas contemplativas descubren, de la mano de ABC, la película que ha reabierto el debate sobre la vocación",
+      "url": "https://www.abc.es/sociedad/abc-lleva-domingos-monasterio-clausura-guion-podriamos-20251207040212-nt.html",
+      "scraped_at": "2025-12-07T06:41:07Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Caso Salazar",
       "subtitle": "Miembros de la Ejecutiva Federal han contactado con las denunciantes para disuadirles de dar su versión en los medios de comunicación",
       "url": "https://www.abc.es/espana/ferraz-pide-victimas-salazar-hablen-prensa-20251206044346-nt.html",
-      "scraped_at": "2025-12-06T06:41:47Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El PP da orden de exprimir el caso Salazar y lo lleva a la campaña extremeña",
-      "subtitle": "Génova da por hecho que el escándalo hace más daño que la trama de corrupción en sí, y llena los mítines de discursos contra la «hipocresía» del PSOE",
-      "url": "https://www.abc.es/espana/pp-orden-exprimir-salazar-lleva-campana-extremena-20251206044409-nt.html",
-      "scraped_at": "2025-12-06T06:41:48Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Poderosos jefes de mafias exsoviéticas se alían con Putin en la guerra de Ucrania",
-      "subtitle": "El crimen organizado ruso es una herramienta más para el presidente,Vladímir Putin, que permite que gane fortunas a cambio de apoyo cuando lo necesita... Por ejemplo, ahora en la invasión de Ucrania y en la guerra híbrida que el Kremlin mantiene contra Europa",
-      "url": "https://www.abc.es/espana/poderosos-vor-mafias-exsovieticas-alian-putin-guerra-20251206182401-nt.html",
-      "scraped_at": "2025-12-06T06:41:48Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "España Mundial",
-      "subtitle": "La Selección ya conoce su camino en la fase de grupos de la Copa del Mundo de 2026",
-      "url": "https://www.abc.es/deportes/futbol/mundial/grupo-espana-mundial-2026-rivales-cruces-partidos-20251205022443-nt.html",
-      "scraped_at": "2025-12-06T06:41:48Z"
+      "scraped_at": "2025-12-07T06:41:07Z"
     }
   ]
 }
