@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los gruistas de la Sagrada Família, precisión a 151 metros de altura: Tres profesionales llevan más de 18 años colocando piezas desde lo alto de la grúa; La proa de Estados Unidos en una brumosa fiesta de la Constitución: Silencio del cuerpo político español ante la nueva doctrina estratégica de EE.UU.; El perdón no lo tapa todo: Pedro Sánchez empezó la semana reconociendo incumplimientos de su Gobierno con Junts per Catalunya y la termina pidiendo perdón por no actuar con celeridad en el caso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-07T06:41:09Z",
+  "summary": "Resumen del día en La Vanguardia: Feijóo intensificará su presencia en Catalunya para recuperar votos: El Partido Popular arma un plan de presencia intensa de su líder ante la preocupación por los sondeos; Sánchez cesa a Antonio Hernández, mano derecha de Paco Salazar, por encubrirlo: El ya exdirector del departamento de Coordinación Política de Presidencia fue mencionado por las denunciantes como cómplice de los supuestos casos de acoso sexual; Miriam Nogueras: “Ante los incumplimientos de Sánchez, lo más útil es plantarse”: La portavoz de Junts en el Congreso atiende a 'La Vanguardia' después de que Pedro Sánchez reconociera los retrasos e incumplimientos con los posconvergentes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-08T06:50:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los gruistas de la Sagrada Família, precisión a 151 metros de altura",
-      "subtitle": "Tres profesionales llevan más de 18 años colocando piezas desde lo alto de la grúa",
-      "url": "https://www.lavanguardia.com/local/barcelona/20251207/11339334/gruistas-sagrada-familia-precision-151-metros-altura.html",
-      "scraped_at": "2025-12-07T06:41:08Z"
+      "title": "Feijóo intensificará su presencia en Catalunya para recuperar votos",
+      "subtitle": "El Partido Popular arma un plan de presencia intensa de su líder ante la preocupación por los sondeos",
+      "url": "https://www.lavanguardia.com/politica/20251208/11329636/feijoo-recorrera-catalunya-pie-calle-reducir-distancias-sanchez.html",
+      "scraped_at": "2025-12-08T06:50:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La proa de Estados Unidos en una brumosa fiesta de la Constitución",
-      "subtitle": "Silencio del cuerpo político español ante la nueva doctrina estratégica de EE.UU.",
-      "url": "https://www.lavanguardia.com/politica/20251207/11339632/proa-estados-unidos-brumosa-fiesta-constitucion.html",
-      "scraped_at": "2025-12-07T06:41:08Z"
+      "title": "Sánchez cesa a Antonio Hernández, mano derecha de Paco Salazar, por encubrirlo",
+      "subtitle": "El ya exdirector del departamento de Coordinación Política de Presidencia fue mencionado por las denunciantes como cómplice de los supuestos casos de acoso sexual",
+      "url": "https://www.lavanguardia.com/politica/20251207/11341032/sanchez-cesa-antonio-hernandez-mano-derecha-paco-salazar-psoe-acoso.html",
+      "scraped_at": "2025-12-08T06:50:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El perdón no lo tapa todo",
-      "subtitle": "Pedro Sánchez empezó la semana reconociendo incumplimientos de su Gobierno con Junts per Catalunya y la termina pidiendo perdón por no actuar con celeridad en el caso",
-      "url": "https://www.lavanguardia.com/opinion/20251207/11339624/perdon-tapa.html",
-      "scraped_at": "2025-12-07T06:41:08Z"
+      "title": "Miriam Nogueras: “Ante los incumplimientos de Sánchez, lo más útil es plantarse”",
+      "subtitle": "La portavoz de Junts en el Congreso atiende a 'La Vanguardia' después de que Pedro Sánchez reconociera los retrasos e incumplimientos con los posconvergentes",
+      "url": "https://www.lavanguardia.com/politica/20251208/11337583/incumplimientos-sanchez-mas-util-plantarse-ley-multirreincidencia-junts.html",
+      "scraped_at": "2025-12-08T06:50:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Isabel Rodríguez: “Invertiremos 13.000 millones en la empresa estatal de vivienda”",
-      "subtitle": "La ministra de Vivienda y Agenda Urbana explica los detalles de la nueva empresa estatal de vivienda y defiende la política de su ministerio",
-      "url": "https://www.lavanguardia.com/economia/20251207/11339325/isabel-rodriguez-invertiremos-13-000-millones-empresa-estatal-vivienda.html",
-      "scraped_at": "2025-12-07T06:41:08Z"
+      "title": "La amnistía como motor plurinacional",
+      "subtitle": "En un día de la Constitución atípico casi nadie recordó curiosamente la amnistía, el eje que desbloqueó esta legislatura. Y eso que la amnistía es, si se",
+      "url": "https://www.lavanguardia.com/politica/20251208/11340745/amnistia-motor-plurinacional.html",
+      "scraped_at": "2025-12-08T06:50:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El fin de los combustibles fósiles llegará, el problema es que sea demasiado tarde",
-      "subtitle": "Los derechos humanos y la transición justa han estado presentes en la cumbre de Belém y se han alcanzado resultados, sostiene laFederación Internacional por los",
-      "url": "https://www.lavanguardia.com/natural/20251127/11299706/combustibles-fosiles-llegara-problema-sea-demasiado-tarde.html",
-      "scraped_at": "2025-12-07T06:41:09Z"
+      "title": "Mueren los cuatro ocupantes de un avioneta tras estrellarse en los Pirineos franceses",
+      "subtitle": "La aeronave había partido del aeroclub de Saint-Girons, en el departamento de Ariège",
+      "url": "https://www.lavanguardia.com/internacional/20251208/11341255/mueren-cuatro-ocupantes-avioneta-estrellarse-pirineos-franceses.html",
+      "scraped_at": "2025-12-08T06:50:08Z"
     }
   ]
 }

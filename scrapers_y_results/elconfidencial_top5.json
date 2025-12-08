@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Llega la era del gasto público: secuelas de un mundo con unos presupuestos públicos históricos: El gasto público se disparó con la pandemia y casi todos los países han consolidado una parte de forma estructural. Las sociedades reclaman más bienes y servicios públicos a medida que se desarrollan; Gan Pampols: \"Tuve enfrente la negación por defecto. Morant ni me cogió el teléfono\": El exvicepresidente valenciano denuncia falta de coordinación estatal tras la dana, critica a Morant por ignorarle y reclama una Agencia Estatal de Emergencias para unificar medios y respuestas; \"Es una fe de bricolaje\". De qué hablamos cuando decimos que la religión ha vuelto: Los jóvenes han vuelto a interesarse por la espiritualidad, pero su vuelta al rezo está lejos de una vida religiosa clásica. Mezclar tradiciones está a la orden del día y se confunde constantemente con el crecimiento personal. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-07T06:41:12Z",
+  "summary": "Resumen del día en El Confidencial: La UCO ya apunta a la subvención de 40M de Óscar Puente a los túneles de Belate: Esta concesión financiera del ministro de Transportes se menciona hasta en tres ocasiones a lo largo del último informe de la Guardia Civil sobre los negocios de Cerdán; España, el país de la UE en el que las familias con hijos son más pobres respecto a los jubilados: A pesar del auge del empleo, una parte de la sociedad no mejora en sus condiciones de vida, haciendo que los indicadores de carencia material se desliguen del ciclo económico; Ramos pierde con Hacienda: el palco VIP en el Bernabéu que usó Pilar Rubio no es deducible: El Tribunal Superior de Justicia de Madrid rechaza que la mercantil del exjugador del Real Madrid, Sermos 32 SL, pueda computar como gasto la contratación de un palco en el Bernabéu durante los años 2018 y 2019. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-08T06:50:10Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Llega la era del gasto público: secuelas de un mundo con unos presupuestos públicos históricos",
-      "subtitle": "El gasto público se disparó con la pandemia y casi todos los países han consolidado una parte de forma estructural. Las sociedades reclaman más bienes y servicios públicos a medida que se desarrollan",
-      "url": "https://www.elconfidencial.com/economia/2025-12-07/era-gasto-publico-implicaciones-mundo-presupuestos-nunca-vistos_4261761/",
-      "scraped_at": "2025-12-07T06:41:11Z"
+      "title": "La UCO ya apunta a la subvención de 40M de Óscar Puente a los túneles de Belate",
+      "subtitle": "Esta concesión financiera del ministro de Transportes se menciona hasta en tres ocasiones a lo largo del último informe de la Guardia Civil sobre los negocios de Cerdán",
+      "url": "https://www.elconfidencial.com/espana/2025-12-08/uco-apunta-subvencion-oscar-puente-belate_4252288/",
+      "scraped_at": "2025-12-08T06:50:09Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Gan Pampols: \"Tuve enfrente la negación por defecto. Morant ni me cogió el teléfono\"",
-      "subtitle": "El exvicepresidente valenciano denuncia falta de coordinación estatal tras la dana, critica a Morant por ignorarle y reclama una Agencia Estatal de Emergencias para unificar medios y respuestas",
-      "url": "https://www.elconfidencial.com/espana/aragon/2025-12-07/agencia-emergencias-valenciana-coordinacion-1hms_4261333/",
-      "scraped_at": "2025-12-07T06:41:11Z"
+      "title": "España, el país de la UE en el que las familias con hijos son más pobres respecto a los jubilados",
+      "subtitle": "A pesar del auge del empleo, una parte de la sociedad no mejora en sus condiciones de vida, haciendo que los indicadores de carencia material se desliguen del ciclo económico",
+      "url": "https://www.elconfidencial.com/economia/2025-12-08/espana-familias-con-hijos-mas-pobres-jubilados_4261703/",
+      "scraped_at": "2025-12-08T06:50:09Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Es una fe de bricolaje\". De qué hablamos cuando decimos que la religión ha vuelto",
-      "subtitle": "Los jóvenes han vuelto a interesarse por la espiritualidad, pero su vuelta al rezo está lejos de una vida religiosa clásica. Mezclar tradiciones está a la orden del día y se confunde constantemente con el crecimiento personal",
-      "url": "https://www.elconfidencial.com/espana/2025-12-07/religion-espiritualidad-moda-manifestar-cruz_4261076/",
-      "scraped_at": "2025-12-07T06:41:11Z"
+      "title": "Ramos pierde con Hacienda: el palco VIP en el Bernabéu que usó Pilar Rubio no es deducible",
+      "subtitle": "El Tribunal Superior de Justicia de Madrid rechaza que la mercantil del exjugador del Real Madrid, Sermos 32 SL, pueda computar como gasto la contratación de un palco en el Bernabéu durante los años 2018 y 2019",
+      "url": "https://www.elconfidencial.com/espana/2025-12-08/real-madrid-pilar-rubio-ramos-hacienda-bernabeu_4259621/",
+      "scraped_at": "2025-12-08T06:50:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Crees que los ataques de EEUU a Venezuela tienen que ver con las drogas? Aún no lo entiendes",
-      "subtitle": "Si miramos a los hechos, nada de esto se sostiene. El fentanilo, un opioide sintético más potente que la heroína y muchas veces letal, no se produce en Venezuela ni procede de allí",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-07/eeuu-venezuela-drogas-fentanilo-cocaina-1hms_4261675/",
-      "scraped_at": "2025-12-07T06:41:12Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Andalucía",
-      "subtitle": "En paralelo, se reforzará la gestión del uso público mediante la instalación de talanqueras e hincos de madera que impedirán el acceso a zonas sensibles",
-      "url": "https://www.elconfidencial.com/espana/andalucia/",
-      "scraped_at": "2025-12-07T06:41:12Z"
+      "title": "Kiko Hernández ataca al punto débil de 'GH' (y T5) en 'La casa de los gemelos 2'",
+      "subtitle": "El exrostro de &#039;Sálvame&#039; se ha incorporado al proyecto de Zona Gemelos como maestro de ceremonias de la casa",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-08/la-casa-de-los-gemelos-2-kiko-hernandez-gh-violacion_4262235/",
+      "scraped_at": "2025-12-08T06:50:10Z"
     }
   ]
 }
