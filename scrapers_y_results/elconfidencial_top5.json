@@ -1,35 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: La UCO ya apunta a la subvención de 40M de Óscar Puente a los túneles de Belate: Esta concesión financiera del ministro de Transportes se menciona hasta en tres ocasiones a lo largo del último informe de la Guardia Civil sobre los negocios de Cerdán; España, el país de la UE en el que las familias con hijos son más pobres respecto a los jubilados: A pesar del auge del empleo, una parte de la sociedad no mejora en sus condiciones de vida, haciendo que los indicadores de carencia material se desliguen del ciclo económico; Ramos pierde con Hacienda: el palco VIP en el Bernabéu que usó Pilar Rubio no es deducible: El Tribunal Superior de Justicia de Madrid rechaza que la mercantil del exjugador del Real Madrid, Sermos 32 SL, pueda computar como gasto la contratación de un palco en el Bernabéu durante los años 2018 y 2019. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-08T06:50:10Z",
+  "summary": "Resumen del día en El Confidencial: Nogueras gana puntos en Junts para frenar a Orriols en las elecciones a la Generalitat: &quot;Ella es quien ha sido capaz de doblarle el pulso al presidente del Gobierno español&quot;, dicen en Junts los que apuestan por ella para relanzar una formación a la baja: mujer, 45 años, empresaria, valiente... y popular; La Casa Blanca se tiñe de oro: Trump ha ganado 3.000 M de dólares desde su regreso: En los nueve meses que lleva en el cargo, el presidente estadounidense ha aumentado su fortuna personal alrededor del 70%. Algunos dudan de cómo ha aumentado su fortuna. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-09T06:47:53Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La UCO ya apunta a la subvención de 40M de Óscar Puente a los túneles de Belate",
-      "subtitle": "Esta concesión financiera del ministro de Transportes se menciona hasta en tres ocasiones a lo largo del último informe de la Guardia Civil sobre los negocios de Cerdán",
-      "url": "https://www.elconfidencial.com/espana/2025-12-08/uco-apunta-subvencion-oscar-puente-belate_4252288/",
-      "scraped_at": "2025-12-08T06:50:09Z"
+      "title": "Nogueras gana puntos en Junts para frenar a Orriols en las elecciones a la Generalitat",
+      "subtitle": "&quot;Ella es quien ha sido capaz de doblarle el pulso al presidente del Gobierno español&quot;, dicen en Junts los que apuestan por ella para relanzar una formación a la baja: mujer, 45 años, empresaria, valiente... y popular",
+      "url": "https://www.elconfidencial.com/espana/2025-12-09/nogueras-junts-frenar-orriols-elecciones-generalitat_4262433/",
+      "scraped_at": "2025-12-09T06:47:53Z"
     },
     {
       "source": "El Confidencial",
-      "title": "España, el país de la UE en el que las familias con hijos son más pobres respecto a los jubilados",
-      "subtitle": "A pesar del auge del empleo, una parte de la sociedad no mejora en sus condiciones de vida, haciendo que los indicadores de carencia material se desliguen del ciclo económico",
-      "url": "https://www.elconfidencial.com/economia/2025-12-08/espana-familias-con-hijos-mas-pobres-jubilados_4261703/",
-      "scraped_at": "2025-12-08T06:50:09Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Ramos pierde con Hacienda: el palco VIP en el Bernabéu que usó Pilar Rubio no es deducible",
-      "subtitle": "El Tribunal Superior de Justicia de Madrid rechaza que la mercantil del exjugador del Real Madrid, Sermos 32 SL, pueda computar como gasto la contratación de un palco en el Bernabéu durante los años 2018 y 2019",
-      "url": "https://www.elconfidencial.com/espana/2025-12-08/real-madrid-pilar-rubio-ramos-hacienda-bernabeu_4259621/",
-      "scraped_at": "2025-12-08T06:50:10Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Kiko Hernández ataca al punto débil de 'GH' (y T5) en 'La casa de los gemelos 2'",
-      "subtitle": "El exrostro de &#039;Sálvame&#039; se ha incorporado al proyecto de Zona Gemelos como maestro de ceremonias de la casa",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-08/la-casa-de-los-gemelos-2-kiko-hernandez-gh-violacion_4262235/",
-      "scraped_at": "2025-12-08T06:50:10Z"
+      "title": "La Casa Blanca se tiñe de oro: Trump ha ganado 3.000 M de dólares desde su regreso",
+      "subtitle": "En los nueve meses que lleva en el cargo, el presidente estadounidense ha aumentado su fortuna personal alrededor del 70%. Algunos dudan de cómo ha aumentado su fortuna",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-09/trump-fortuna-criptomonedas-etica-1hms_4258931/",
+      "scraped_at": "2025-12-09T06:47:53Z"
     }
   ]
 }

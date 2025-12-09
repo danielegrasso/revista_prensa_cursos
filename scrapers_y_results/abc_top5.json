@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Tribunal de Cuentas rastrea desde hace meses decenas de contratos en el CNIO: Entre tres y cinco empleados del órgano fiscalizador analizan contratación de personas, bienes y servicios; Sánchez cesa a la mano derecha de Paco Salazar en Moncloa, Antonio Hernández: El presidente busca cauterizar la crisis expulsando al entorno que consintió las actitudes denunciadas; El camino hacia la gloria de las MMA: ¿Qué lleva a un camarero, una bióloga, un informático y un aspirante a atleta profesional a meterse en una jaula a luchar? Esta es la historia de cuatro guerreros anónimos que el próximo 13 de diciembre pueden dejar de serlo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-08T06:50:06Z",
+  "summary": "Resumen del día en ABC.es: La UCO obtuvo información relevante de Cerdán en su registro de Ferraz: Los agentes ultiman el dosier patrimonial sobre el ex número tres del PSOE donde incluirá los movimientos de su familia con una tarjeta de Servinabar; Sumar, ERC, Junts, Bildu, Podemos y PNV tapan a Sánchez y bloquean que el Congreso investigue la corrupción: Desde que estalló el caso Begoña han tumbado 36 puntos propuestos por el PP que exigían datos, explicaciones y asunción de responsabilidades; La Moncloa recoloca en Telefónica a una de las colaboradoras de Salazar durante las denuncias: Macarena Álvarez entró en Presidencia del Gobierno con el asesor andaluz y cesó para ir al Ministerio de Justicia cuando fue destituido. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-09T06:47:50Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Tribunal de Cuentas rastrea desde hace meses decenas de contratos en el CNIO",
-      "subtitle": "Entre tres y cinco empleados del órgano fiscalizador analizan contratación de personas, bienes y servicios",
-      "url": "https://www.abc.es/espana/tribunal-cuentas-rastrea-meses-decenas-contratos-cnio-20251208040849-nt.html",
-      "scraped_at": "2025-12-08T06:50:05Z"
+      "title": "La UCO obtuvo información relevante de Cerdán en su registro de Ferraz",
+      "subtitle": "Los agentes ultiman el dosier patrimonial sobre el ex número tres del PSOE donde incluirá los movimientos de su familia con una tarjeta de Servinabar",
+      "url": "https://www.abc.es/espana/uco-obtuvo-informacion-esencial-acciona-cerdan-registro-20251209040715-nt.html",
+      "scraped_at": "2025-12-09T06:47:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez cesa a la mano derecha de Paco Salazar en Moncloa, Antonio Hernández",
-      "subtitle": "El presidente busca cauterizar la crisis expulsando al entorno que consintió las actitudes denunciadas",
-      "url": "https://www.abc.es/espana/sanchez-cesa-mano-derecha-paco-salazar-moncloa-20251207221130-nt.html",
-      "scraped_at": "2025-12-08T06:50:05Z"
+      "title": "Sumar, ERC, Junts, Bildu, Podemos y PNV tapan a Sánchez y bloquean que el Congreso investigue la corrupción",
+      "subtitle": "Desde que estalló el caso Begoña han tumbado 36 puntos propuestos por el PP que exigían datos, explicaciones y asunción de responsabilidades",
+      "url": "https://www.abc.es/espana/sumar-erc-junts-bildu-podemos-pnv-cubren-20251209040742-nt.html",
+      "scraped_at": "2025-12-09T06:47:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "El camino hacia la gloria de las MMA",
-      "subtitle": "¿Qué lleva a un camarero, una bióloga, un informático y un aspirante a atleta profesional a meterse en una jaula a luchar? Esta es la historia de cuatro guerreros anónimos que el próximo 13 de diciembre pueden dejar de serlo",
-      "url": "https://www.abc.es/deportes/mma/mma-aspirantes-gloria-octagono-20251208040943-nt.html",
-      "scraped_at": "2025-12-08T06:50:06Z"
+      "title": "La Moncloa recoloca en Telefónica a una de las colaboradoras de Salazar durante las denuncias",
+      "subtitle": "Macarena Álvarez entró en Presidencia del Gobierno con el asesor andaluz y cesó para ir al Ministerio de Justicia cuando fue destituido",
+      "url": "https://www.abc.es/espana/moncloa-recoloca-telefonica-pleno-ere-compania-colaboradoras-20251209040820-nt.html",
+      "scraped_at": "2025-12-09T06:47:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Una agresión cada 14 horas a funcionarios en cárceles españolas",
-      "subtitle": "Amenazas, coacciones o lesiones son algunos de los problemas de los trabajadores de las cárceles españolas que lidian con los presos más peligrosos",
-      "url": "https://www.abc.es/espana/funcionarios-prisiones-limite-agresion-catorce-horas-20251209041036-nt.html",
-      "scraped_at": "2025-12-08T06:50:06Z"
+      "title": "La UE pacta endurecer la política migratoria con el rechazo de España",
+      "subtitle": "La nueva iniciativa, que permite la creación de «centros de retorno» fuera del bloque, tendrá que ser ratificada por el Parlamento comunitario",
+      "url": "https://www.abc.es/internacional/ue-allana-camino-endurecer-politica-migratoria-20251208152041-nt.html",
+      "scraped_at": "2025-12-09T06:47:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Caso Salazar",
-      "subtitle": "La relación de complicidad con el asesor áulico de Sánchez impacta en sus candidaturas en Andalucía y Aragón",
-      "url": "https://www.abc.es/espana/salazar-trunca-candidaturas-montero-alegria-20251207040132-nt.html",
-      "scraped_at": "2025-12-08T06:50:06Z"
+      "title": "Unión Europea",
+      "subtitle": "El presidente del Consejo Europeo señala que «EE.UU. no puede reemplazar a los europeos a la hora de decidir cuáles son los partidos correctos y los incorrectos»",
+      "url": "https://www.abc.es/internacional/ue-rechaza-plano-amenaza-interferencia-eeuu-vida-20251208132018-nt.html",
+      "scraped_at": "2025-12-09T06:47:50Z"
     }
   ]
 }
