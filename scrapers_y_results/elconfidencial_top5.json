@@ -1,21 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Nogueras gana puntos en Junts para frenar a Orriols en las elecciones a la Generalitat: &quot;Ella es quien ha sido capaz de doblarle el pulso al presidente del Gobierno español&quot;, dicen en Junts los que apuestan por ella para relanzar una formación a la baja: mujer, 45 años, empresaria, valiente... y popular; La Casa Blanca se tiñe de oro: Trump ha ganado 3.000 M de dólares desde su regreso: En los nueve meses que lleva en el cargo, el presidente estadounidense ha aumentado su fortuna personal alrededor del 70%. Algunos dudan de cómo ha aumentado su fortuna. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-09T06:47:53Z",
+  "summary": "Resumen del día en El Confidencial: El Supremo 'blinda' su sentencia sobre el fiscal de la futura intervención del TC: El delito doble y la autoría abierta complican el recurso de amparo que García Ortiz presentará contra una resolución que dedica 119 de sus 180 páginas a desactivar la vulneración de sus derechos fundamentales; El mundo se ahoga en deuda: suma 346 billones de dólares (y lo peor aún está por venir): La deuda global sigue creciendo, y lo hace a un ritmo cada vez más acelerado. Ya supone el 310% del PIB del planeta. Lo significativo es que EEUU y China tiran del carro, aunque lo peor es que el mundo está muy lejos de revertir la situación; Muere Robe Iniesta, el líder de Extremoduro, a los 63 años: &quot;Hoy día 10 de diciembre de 2025, nos toca escribir la nota de prensa más triste de nuestra vida&quot;, dicen desde su oficina El Dromedario, donde confirman que su fallecimiento se ha debido a un tromboembolismo pulmonar. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-10T06:48:34Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Nogueras gana puntos en Junts para frenar a Orriols en las elecciones a la Generalitat",
-      "subtitle": "&quot;Ella es quien ha sido capaz de doblarle el pulso al presidente del Gobierno español&quot;, dicen en Junts los que apuestan por ella para relanzar una formación a la baja: mujer, 45 años, empresaria, valiente... y popular",
-      "url": "https://www.elconfidencial.com/espana/2025-12-09/nogueras-junts-frenar-orriols-elecciones-generalitat_4262433/",
-      "scraped_at": "2025-12-09T06:47:53Z"
+      "title": "El Supremo 'blinda' su sentencia sobre el fiscal de la futura intervención del TC",
+      "subtitle": "El delito doble y la autoría abierta complican el recurso de amparo que García Ortiz presentará contra una resolución que dedica 119 de sus 180 páginas a desactivar la vulneración de sus derechos fundamentales",
+      "url": "https://www.elconfidencial.com/espana/2025-12-10/fiscal-general-garcia-ortiz-supremo-constitucional-sentencia_4263046/",
+      "scraped_at": "2025-12-10T06:48:32Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La Casa Blanca se tiñe de oro: Trump ha ganado 3.000 M de dólares desde su regreso",
-      "subtitle": "En los nueve meses que lleva en el cargo, el presidente estadounidense ha aumentado su fortuna personal alrededor del 70%. Algunos dudan de cómo ha aumentado su fortuna",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-09/trump-fortuna-criptomonedas-etica-1hms_4258931/",
-      "scraped_at": "2025-12-09T06:47:53Z"
+      "title": "El mundo se ahoga en deuda: suma 346 billones de dólares (y lo peor aún está por venir)",
+      "subtitle": "La deuda global sigue creciendo, y lo hace a un ritmo cada vez más acelerado. Ya supone el 310% del PIB del planeta. Lo significativo es que EEUU y China tiran del carro, aunque lo peor es que el mundo está muy lejos de revertir la situación",
+      "url": "https://www.elconfidencial.com/economia/2025-12-10/deuda-global-iif-china-eeuu-deficits-evolucion-crecimiento_4263053/",
+      "scraped_at": "2025-12-10T06:48:32Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Muere Robe Iniesta, el líder de Extremoduro, a los 63 años",
+      "subtitle": "&quot;Hoy día 10 de diciembre de 2025, nos toca escribir la nota de prensa más triste de nuestra vida&quot;, dicen desde su oficina El Dromedario, donde confirman que su fallecimiento se ha debido a un tromboembolismo pulmonar",
+      "url": "https://www.elconfidencial.com/cultura/2025-12-10/muere-robe-iniesta-63-anos_4263261/",
+      "scraped_at": "2025-12-10T06:48:33Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Pedro Sánchez incorporó con honores al gibraltareño Picardo en la Internacional Socialista",
+      "subtitle": "Pedro Sánchez levantó el veto de Felipe González al ingreso de los socialistas de Gibraltar en la Internacional Socialista. Recibió a Fabian Picardo, su líder, por todo lo alto pese a que la negociación para suprimir La Verja apenas avanza",
+      "url": "https://www.elconfidencial.com/espana/2025-12-10/sanchez-honores-gibraltareno-picardo-internacional-socialista_4263063/",
+      "scraped_at": "2025-12-10T06:48:34Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Televisión",
+      "subtitle": "Revelando que tienen cuentas separadas, la pareja no se cortó ante Broncano y el dinero que han amasado en la industria musical: \"Me ha adelantado totalmente\"",
+      "url": "https://www.elconfidencial.com/television/",
+      "scraped_at": "2025-12-10T06:48:34Z"
     }
   ]
 }

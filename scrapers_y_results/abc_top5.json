@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La UCO obtuvo información relevante de Cerdán en su registro de Ferraz: Los agentes ultiman el dosier patrimonial sobre el ex número tres del PSOE donde incluirá los movimientos de su familia con una tarjeta de Servinabar; Sumar, ERC, Junts, Bildu, Podemos y PNV tapan a Sánchez y bloquean que el Congreso investigue la corrupción: Desde que estalló el caso Begoña han tumbado 36 puntos propuestos por el PP que exigían datos, explicaciones y asunción de responsabilidades; La Moncloa recoloca en Telefónica a una de las colaboradoras de Salazar durante las denuncias: Macarena Álvarez entró en Presidencia del Gobierno con el asesor andaluz y cesó para ir al Ministerio de Justicia cuando fue destituido. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-09T06:47:50Z",
+  "summary": "Resumen del día en ABC.es: Cerdán y Salazar impulsaron la purga de feministas en el PSOE: Carmen Calvo, Adriana Lastra, Andrea Fernández, Laura Berja y Maritcha Ruíz Mateos fueron las principales damnificadas; La militante acosada por el líder del PSOE en Torremolinos: «Desde el 15 de julio no sé qué han hecho»: La concejal asegura a ABC que en el congreso de Málaga, en marzo, ya había «runrún» sobre su caso y lamenta la «dilación» del órgano de protección a mujeres creado por su partido; Denuncian al presidente de la Diputación de Lugo por presunto acoso sexual a compañeras del PSOE: Habría hasta seis testimonios en el canal interno del partido por comentarios, tocamientos e incluso ofrecimientos de empleo público a cambio de sexo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-10T06:48:28Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La UCO obtuvo información relevante de Cerdán en su registro de Ferraz",
-      "subtitle": "Los agentes ultiman el dosier patrimonial sobre el ex número tres del PSOE donde incluirá los movimientos de su familia con una tarjeta de Servinabar",
-      "url": "https://www.abc.es/espana/uco-obtuvo-informacion-esencial-acciona-cerdan-registro-20251209040715-nt.html",
-      "scraped_at": "2025-12-09T06:47:49Z"
+      "title": "Cerdán y Salazar impulsaron la purga de feministas en el PSOE",
+      "subtitle": "Carmen Calvo, Adriana Lastra, Andrea Fernández, Laura Berja y Maritcha Ruíz Mateos fueron las principales damnificadas",
+      "url": "https://www.abc.es/espana/cerdan-salazar-impulsaron-purga-feminista-nucleo-duro-20251210041043-nt.html",
+      "scraped_at": "2025-12-10T06:48:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sumar, ERC, Junts, Bildu, Podemos y PNV tapan a Sánchez y bloquean que el Congreso investigue la corrupción",
-      "subtitle": "Desde que estalló el caso Begoña han tumbado 36 puntos propuestos por el PP que exigían datos, explicaciones y asunción de responsabilidades",
-      "url": "https://www.abc.es/espana/sumar-erc-junts-bildu-podemos-pnv-cubren-20251209040742-nt.html",
-      "scraped_at": "2025-12-09T06:47:49Z"
+      "title": "La militante acosada por el líder del PSOE en Torremolinos: «Desde el 15 de julio no sé qué han hecho»",
+      "subtitle": "La concejal asegura a ABC que en el congreso de Málaga, en marzo, ya había «runrún» sobre su caso y lamenta la «dilación» del órgano de protección a mujeres creado por su partido",
+      "url": "https://www.abc.es/espana/andalucia/malaga/militante-acosada-lider-psoe-torremolinos-julio-denuncia-20251210041201-nts.html",
+      "scraped_at": "2025-12-10T06:48:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Moncloa recoloca en Telefónica a una de las colaboradoras de Salazar durante las denuncias",
-      "subtitle": "Macarena Álvarez entró en Presidencia del Gobierno con el asesor andaluz y cesó para ir al Ministerio de Justicia cuando fue destituido",
-      "url": "https://www.abc.es/espana/moncloa-recoloca-telefonica-pleno-ere-compania-colaboradoras-20251209040820-nt.html",
-      "scraped_at": "2025-12-09T06:47:49Z"
+      "title": "Denuncian al presidente de la Diputación de Lugo por presunto acoso sexual a compañeras del PSOE",
+      "subtitle": "Habría hasta seis testimonios en el canal interno del partido por comentarios, tocamientos e incluso ofrecimientos de empleo público a cambio de sexo",
+      "url": "https://www.abc.es/espana/galicia/varias-mujeres-denuncian-acoso-sexual-presidente-diputacion-20251209210137-nt.html",
+      "scraped_at": "2025-12-10T06:48:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UE pacta endurecer la política migratoria con el rechazo de España",
-      "subtitle": "La nueva iniciativa, que permite la creación de «centros de retorno» fuera del bloque, tendrá que ser ratificada por el Parlamento comunitario",
-      "url": "https://www.abc.es/internacional/ue-allana-camino-endurecer-politica-migratoria-20251208152041-nt.html",
-      "scraped_at": "2025-12-09T06:47:49Z"
+      "title": "María Corina Machado no acudirá a recibir el Nobel de la Paz",
+      "subtitle": "Sigue en directo la última hora de María Corina Machado en Oslo, donde recibirá el Premio Nobel de la Paz, con sus declaraciones en la rueda de prensa y las reacciones desde Venezuela a su presencia en la capital noruega hoy",
+      "url": "https://www.abc.es/internacional/maria-corina-machado-oslo-premio-nobel-paz-20251209101336-di.html",
+      "scraped_at": "2025-12-10T06:48:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "Unión Europea",
-      "subtitle": "El presidente del Consejo Europeo señala que «EE.UU. no puede reemplazar a los europeos a la hora de decidir cuáles son los partidos correctos y los incorrectos»",
-      "url": "https://www.abc.es/internacional/ue-rechaza-plano-amenaza-interferencia-eeuu-vida-20251208132018-nt.html",
-      "scraped_at": "2025-12-09T06:47:50Z"
+      "title": "Robe Iniesta Extremoduro",
+      "subtitle": "Su equipo y familiares han sido los encargados de comunicar la «nota más triste»",
+      "url": "https://www.abc.es/cultura/musica/muere-anos-robe-iniesta-lider-extremoduro-20251210062431-nt.html",
+      "scraped_at": "2025-12-10T06:48:28Z"
     }
   ]
 }
