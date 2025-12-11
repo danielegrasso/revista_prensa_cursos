@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Supremo 'blinda' su sentencia sobre el fiscal de la futura intervención del TC: El delito doble y la autoría abierta complican el recurso de amparo que García Ortiz presentará contra una resolución que dedica 119 de sus 180 páginas a desactivar la vulneración de sus derechos fundamentales; El mundo se ahoga en deuda: suma 346 billones de dólares (y lo peor aún está por venir): La deuda global sigue creciendo, y lo hace a un ritmo cada vez más acelerado. Ya supone el 310% del PIB del planeta. Lo significativo es que EEUU y China tiran del carro, aunque lo peor es que el mundo está muy lejos de revertir la situación; Muere Robe Iniesta, el líder de Extremoduro, a los 63 años: &quot;Hoy día 10 de diciembre de 2025, nos toca escribir la nota de prensa más triste de nuestra vida&quot;, dicen desde su oficina El Dromedario, donde confirman que su fallecimiento se ha debido a un tromboembolismo pulmonar. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-10T06:48:34Z",
+  "summary": "Resumen del día en El Confidencial: María Corina logra huir de Venezuela, pero abre otra pregunta: ¿ahora, qué?: Machado salió desde Venezuela en un bote con destino a la isla de Curazao, situada a unos 65 kilómetros de las costas venezolanas y formalmente parte del Reino de Países Bajos; La gente que necesita doparse para trabajar: \"Alterno porros y orfidales para dormir\": El 10% de las mujeres trabajadoras han consumido psicofármacos en los últimos 30 días. Los hombres solteros y menores de 25 años son otro perfil vulnerable al alcohol. ¿Qué está ocurriendo?; El City ahoga el rugido del Madrid y el Bernabéu sentencia el proyecto de Xabi Alonso (1-2): El Real Madrid exhibió energía e intensidad, pero se dejó remontar en cinco minutos. Otra derrota más en la grave crisis de resultados que deja a Xabi Alonso al borde del despido. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-11T06:49:47Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Supremo 'blinda' su sentencia sobre el fiscal de la futura intervención del TC",
-      "subtitle": "El delito doble y la autoría abierta complican el recurso de amparo que García Ortiz presentará contra una resolución que dedica 119 de sus 180 páginas a desactivar la vulneración de sus derechos fundamentales",
-      "url": "https://www.elconfidencial.com/espana/2025-12-10/fiscal-general-garcia-ortiz-supremo-constitucional-sentencia_4263046/",
-      "scraped_at": "2025-12-10T06:48:32Z"
+      "title": "María Corina logra huir de Venezuela, pero abre otra pregunta: ¿ahora, qué?",
+      "subtitle": "Machado salió desde Venezuela en un bote con destino a la isla de Curazao, situada a unos 65 kilómetros de las costas venezolanas y formalmente parte del Reino de Países Bajos",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-11/maria-corina-machado-exilio-venezuela_4263810/",
+      "scraped_at": "2025-12-11T06:49:46Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El mundo se ahoga en deuda: suma 346 billones de dólares (y lo peor aún está por venir)",
-      "subtitle": "La deuda global sigue creciendo, y lo hace a un ritmo cada vez más acelerado. Ya supone el 310% del PIB del planeta. Lo significativo es que EEUU y China tiran del carro, aunque lo peor es que el mundo está muy lejos de revertir la situación",
-      "url": "https://www.elconfidencial.com/economia/2025-12-10/deuda-global-iif-china-eeuu-deficits-evolucion-crecimiento_4263053/",
-      "scraped_at": "2025-12-10T06:48:32Z"
+      "title": "La gente que necesita doparse para trabajar: \"Alterno porros y orfidales para dormir\"",
+      "subtitle": "El 10% de las mujeres trabajadoras han consumido psicofármacos en los últimos 30 días. Los hombres solteros y menores de 25 años son otro perfil vulnerable al alcohol. ¿Qué está ocurriendo?",
+      "url": "https://www.elconfidencial.com/espana/2025-12-11/gente-necesita-doparse-trabajar-porros-orfidales_4263715/",
+      "scraped_at": "2025-12-11T06:49:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Muere Robe Iniesta, el líder de Extremoduro, a los 63 años",
-      "subtitle": "&quot;Hoy día 10 de diciembre de 2025, nos toca escribir la nota de prensa más triste de nuestra vida&quot;, dicen desde su oficina El Dromedario, donde confirman que su fallecimiento se ha debido a un tromboembolismo pulmonar",
-      "url": "https://www.elconfidencial.com/cultura/2025-12-10/muere-robe-iniesta-63-anos_4263261/",
-      "scraped_at": "2025-12-10T06:48:33Z"
+      "title": "El City ahoga el rugido del Madrid y el Bernabéu sentencia el proyecto de Xabi Alonso (1-2)",
+      "subtitle": "El Real Madrid exhibió energía e intensidad, pero se dejó remontar en cinco minutos. Otra derrota más en la grave crisis de resultados que deja a Xabi Alonso al borde del despido",
+      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2025-12-10/real-madrid-manchester-city-champions-xabi-alonso_4263974/",
+      "scraped_at": "2025-12-11T06:49:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pedro Sánchez incorporó con honores al gibraltareño Picardo en la Internacional Socialista",
-      "subtitle": "Pedro Sánchez levantó el veto de Felipe González al ingreso de los socialistas de Gibraltar en la Internacional Socialista. Recibió a Fabian Picardo, su líder, por todo lo alto pese a que la negociación para suprimir La Verja apenas avanza",
-      "url": "https://www.elconfidencial.com/espana/2025-12-10/sanchez-honores-gibraltareno-picardo-internacional-socialista_4263063/",
-      "scraped_at": "2025-12-10T06:48:34Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Televisión",
-      "subtitle": "Revelando que tienen cuentas separadas, la pareja no se cortó ante Broncano y el dinero que han amasado en la industria musical: \"Me ha adelantado totalmente\"",
-      "url": "https://www.elconfidencial.com/television/",
-      "scraped_at": "2025-12-10T06:48:34Z"
+      "title": "Muere atropellado al bajar de un vehículo en la AP-7 a la altura de Denia",
+      "subtitle": "Ha intervenido una unidad del Servicio de Ayuda Médica Urgente (SAMU), cuyo equipo médico ha confirmado el fallecimiento de este joven",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-12-10/muere-atropellado-bajar-coche-ap7-denia_4263734/",
+      "scraped_at": "2025-12-11T06:49:47Z"
     }
   ]
 }
