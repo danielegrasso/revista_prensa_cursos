@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: EE.UU. quiere ver las redes sociales de los turistas antes de permitirles entrar: De aplicarse la medida, se pondría en peligro la asistencia al Mundial de Fútbol del próximo año; Machado reaparece en Oslo tras un año en la clandestinidad: La opositora venezolana al régimen chavista logró salir de su país en barca hacia la isla caribeña de Curaçao, según el 'Wall Street Journal'; Quién es quién en la nueva trama corrupta que ha llevado a Leire Díez al calabozo: Junto a Vicente Fernández fueron detenidos ayer y están investigados por los presuntos delitos de fraude, falsedad documental, malversación, tráfico de. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-11T06:49:45Z",
+  "summary": "Resumen del día en La Vanguardia: Ábalos, Koldo y Aldama cobraron un millón de la trama de hidrocarburos, según la UCO: Un informe de UCO concluye que “la organización criminal liderada por Claudio Rivas penetró en los Ministerios de Transportes, Industria y Transición Ecológica”; Plus Ultra, investigada por blanquear un préstamo de oro venezolano: Anticorrupción dirige una operación contra la aerolínea y detiene a su presidente y al CEO de la compañía; Así es Antxon Alonso, el tercer vértice de la trama de Leire Díez, socio y amigo de Cerdán: El propietario de la empresa Servinabar está en el foco de dos casos de corrupción por poner la empresa al servicio de tramas para el desvío de dinero público y. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-12T06:48:44Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. quiere ver las redes sociales de los turistas antes de permitirles entrar",
-      "subtitle": "De aplicarse la medida, se pondría en peligro la asistencia al Mundial de Fútbol del próximo año",
-      "url": "https://www.lavanguardia.com/internacional/20251211/11351047/eeuu-quiere-ver-redes-sociales-turistas-permitirles-entrar.html",
-      "scraped_at": "2025-12-11T06:49:44Z"
+      "title": "Ábalos, Koldo y Aldama cobraron un millón de la trama de hidrocarburos, según la UCO",
+      "subtitle": "Un informe de UCO concluye que “la organización criminal liderada por Claudio Rivas penetró en los Ministerios de Transportes, Industria y Transición Ecológica”",
+      "url": "https://www.lavanguardia.com/politica/20251211/11354692/caso-hidrocarburos-liado-consejo-ministro-enfrentado-putero-guapo.html",
+      "scraped_at": "2025-12-12T06:48:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Machado reaparece en Oslo tras un año en la clandestinidad",
-      "subtitle": "La opositora venezolana al régimen chavista logró salir de su país en barca hacia la isla caribeña de Curaçao, según el 'Wall Street Journal'",
-      "url": "https://www.lavanguardia.com/internacional/20251211/11351331/maria-corina-machado-llega-oslo-horas-otorgarle-nobel-paz.html",
-      "scraped_at": "2025-12-11T06:49:45Z"
+      "title": "Plus Ultra, investigada por blanquear un préstamo de oro venezolano",
+      "subtitle": "Anticorrupción dirige una operación contra la aerolínea y detiene a su presidente y al CEO de la compañía",
+      "url": "https://www.lavanguardia.com/politica/20251212/11354937/plus-ultra-investigada-blanquear-prestamo-oro-venezolano.html",
+      "scraped_at": "2025-12-12T06:48:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Quién es quién en la nueva trama corrupta que ha llevado a Leire Díez al calabozo",
-      "subtitle": "Junto a Vicente Fernández fueron detenidos ayer y están investigados por los presuntos delitos de fraude, falsedad documental, malversación, tráfico de",
-      "url": "https://www.lavanguardia.com/politica/20251211/11350551/nueva-trama-corrupta-llevado-leire-diez-calabozo.html",
-      "scraped_at": "2025-12-11T06:49:45Z"
+      "title": "Así es Antxon Alonso, el tercer vértice de la trama de Leire Díez, socio y amigo de Cerdán",
+      "subtitle": "El propietario de la empresa Servinabar está en el foco de dos casos de corrupción por poner la empresa al servicio de tramas para el desvío de dinero público y",
+      "url": "https://www.lavanguardia.com/politica/20251212/11352493/asi-antxon-alonso-tercer-vertice-trama-leire-diez-socio-amigo-cerdan.html",
+      "scraped_at": "2025-12-12T06:48:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Qué le pasa al PSOE?",
-      "subtitle": "Sánchez sigue controlando el partido y se prepara para seguir haciéndolo en el futuro, pero la organización emite señales de descomposición",
-      "url": "https://www.lavanguardia.com/politica/20251211/11350046/que-le-pasa-psoe.html",
-      "scraped_at": "2025-12-11T06:49:45Z"
+      "title": "Dimite otro dirigente de la ejecutiva del PSOE en plena escalada de denuncias por acoso",
+      "subtitle": "Javier Izquierdo presenta este jueves su renuncia como secretario de estrategia y acción electoral del PSOE y también como senador",
+      "url": "https://www.lavanguardia.com/politica/20251211/11355161/dimite-dirigente-ejecutiva-psoe-plena-escalada-denuncias-acoso-sexual.html",
+      "scraped_at": "2025-12-12T06:48:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La librería Sant Jordi, un milagro de Navidad",
-      "subtitle": "El espacio resiste a la gentrificación y reabre un año después del fallecimiento de Josep Morales",
-      "url": "https://www.lavanguardia.com/cultura/20251210/11350732/libreria-sant-jordi-milagro-navidad.html",
-      "scraped_at": "2025-12-11T06:49:45Z"
+      "title": "Escaparates gastronómicos y festivos en los colmados de toda Catalunya",
+      "subtitle": "Las tiendas de comestibles se convierten estos días en una postal navideña y ofrecen desde provisiones para las comidas de las fiestas hasta regalos para los más",
+      "url": "https://www.lavanguardia.com/comer/sitios/20251212/11348270/escaparates-gastronomicos-festivos.html",
+      "scraped_at": "2025-12-12T06:48:44Z"
     }
   ]
 }
