@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez receta «aguantar hasta que escampe» mientras crecen los escándalos sexuales: El PSOE entra en estado de pánico y en Moncloa esperan que el descanso navideño sirva para «resetear»; Las mujeres del PSOE exigen que el presidente del Gobierno asuma responsabilidades del caso: La falta de contundencia de Ferraz, que rechaza llevar a Salazar a la Fiscalía, marca la reunión de las responsables de Igualdad; La UCO encontró en Servinabar los datos que iniciaron la operación: El registro en la empresa de Joseba Antxon Alonso abrió una nueva vía de investigación que propició la detención de Leire Díez y Vicente Fernández. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-13T06:44:50Z",
+  "summary": "Resumen del día en ABC.es: Tres de cada cuatro votantes socialistas en Extremadura no creen en Gallardo como candidato: Un 74% de los extremeños cree que estaba al corriente de la creación de la plaza para David Sánchez y permitió su contratación; Abascal se implica al máximo en Extremadura para asegurar el despegue de Vox: El líder de Vox se echa a las espaldas la campaña, consciente de que estas elecciones medirán el verdadero auge de su partido; Putin sume a Ucrania en su invierno más frío y oscuro: A pocos meses de cumplirse cuatro años de la invasión rusa, los ucranianos soportan apagones de hasta 12 horas en la capital mientras se recrudecen los bombardeos contra la infraestructura energética y estallan casos de corrupción en dicho sector. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-14T06:44:27Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez receta «aguantar hasta que escampe» mientras crecen los escándalos sexuales",
-      "subtitle": "El PSOE entra en estado de pánico y en Moncloa esperan que el descanso navideño sirva para «resetear»",
-      "url": "https://www.abc.es/espana/psoe-entra-estado-panico-sensacion-colapso-20251214042428-nt.html",
-      "scraped_at": "2025-12-13T06:44:49Z"
+      "title": "Tres de cada cuatro votantes socialistas en Extremadura no creen en Gallardo como candidato",
+      "subtitle": "Un 74% de los extremeños cree que estaba al corriente de la creación de la plaza para David Sánchez y permitió su contratación",
+      "url": "https://www.abc.es/espana/extremadura/votantes-socialistas-creen-gallardo-deberia-candidato-extremadura-20251214043301-nt.html",
+      "scraped_at": "2025-12-14T06:44:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las mujeres del PSOE exigen que el presidente del Gobierno asuma responsabilidades del caso",
-      "subtitle": "La falta de contundencia de Ferraz, que rechaza llevar a Salazar a la Fiscalía, marca la reunión de las responsables de Igualdad",
-      "url": "https://www.abc.es/espana/mujeres-psoe-exigen-sanchez-asuma-responsabilidades-20251213042605-nt.html",
-      "scraped_at": "2025-12-13T06:44:49Z"
+      "title": "Abascal se implica al máximo en Extremadura para asegurar el despegue de Vox",
+      "subtitle": "El líder de Vox se echa a las espaldas la campaña, consciente de que estas elecciones medirán el verdadero auge de su partido",
+      "url": "https://www.abc.es/espana/abascal-implica-maximo-extremadura-asegurarse-estallido-vox-20251214043359-nt.html",
+      "scraped_at": "2025-12-14T06:44:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO encontró en Servinabar los datos que iniciaron la operación",
-      "subtitle": "El registro en la empresa de Joseba Antxon Alonso abrió una nueva vía de investigación que propició la detención de Leire Díez y Vicente Fernández",
-      "url": "https://www.abc.es/espana/uco-encontro-servinabar-datos-iniciaron-operacion-20251213042615-nt.html",
-      "scraped_at": "2025-12-13T06:44:50Z"
+      "title": "Putin sume a Ucrania en su invierno más frío y oscuro",
+      "subtitle": "A pocos meses de cumplirse cuatro años de la invasión rusa, los ucranianos soportan apagones de hasta 12 horas en la capital mientras se recrudecen los bombardeos contra la infraestructura energética y estallan casos de corrupción en dicho sector",
+      "url": "https://www.abc.es/internacional/ucrania-enfrenta-invierno-oscuro-20251214043415-nt.html",
+      "scraped_at": "2025-12-14T06:44:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "Una junta de ladrones",
-      "subtitle": "El doctor Sánchez y sus mariachis no son políticos que, en el ejercicio del poder, se hayan corrompido o dejado corromper; el doctor Sánchez y sus mariachis son constitutivamente delincuentes que se dedicaron a la política para poder perpetrar más desahogadamente sus latrocinios",
-      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-junta-ladrones-20251212173111-nt.html",
-      "scraped_at": "2025-12-13T06:44:50Z"
+      "title": "Venezuela tras el Nobel de la Paz a María Corina: ¿y ahora qué?",
+      "subtitle": "La entrega del galardón a la líder opositora y su viaje a Oslo devuelven el foco internacional a la causa contra el chavismo",
+      "url": "https://www.abc.es/internacional/venezuela-tras-nobel-paz-maria-corina-20251213043523-nt.html",
+      "scraped_at": "2025-12-14T06:44:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "Paco Salazar",
-      "subtitle": "El partido se limita a vetarle como militante y niega que se haya «tratado de encubrir o tapar el caso»",
-      "url": "https://www.abc.es/espana/psoe-verosimilitud-denuncias-salazar-llevara-fiscalia-20251212120423-nt.html",
-      "scraped_at": "2025-12-13T06:44:50Z"
+      "title": "Aval Gobierno alquiler",
+      "subtitle": "Se trata de una medida de protección para los caseros, aunque con algunas limitaciones tanto en la fecha de los contratos como al precio",
+      "url": "https://www.abc.es/economia/consite-nuevo-aval-gobierno-proteger-impagos-alquiler-20251213050000-nt.html",
+      "scraped_at": "2025-12-14T06:44:27Z"
     }
   ]
 }
