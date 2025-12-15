@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Sánchez intenta recuperar el control cercado por los casos de acoso y corrupción: La Moncloa se autoimpone “templanza” y “estajanovismo” para afrontar un tsunami que cree “orquestado” para trasladar una “falsa sensación de caos” y “corrupción estructural que no existe”. Malestar con Yolanda Díaz por pedir una remodelación profunda del Gobierno y una auditoría de las empresas de la SEPI; El juez investiga si Leire Díez y el expresidente de la SEPI utilizaron su “influencia” para lograr cinco contratos a cambio de mordidas: La exmilitante socialista y los otros dos detenidos quedaron en libertad tras comparecer en la Audiencia Nacional pero no podrán salir al extranjero; Chile vota su futuro presidente y la ultraderecha de Kast es la gran favorita: La candidata progresista y ganadora de la primera vuelta, Jeannette Jara, tiene escasas posibilidades de suceder a Gabriel Boric, que dejará La Moneda el próximo 11 de marzo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-14T06:44:25Z",
+  "summary": "Resumen del día en elDiario.es: José Antonio Kast gana las elecciones en Chile y se convierte en el primer ultraderechista en llegar al poder desde el fin de la dictadura: Tal y como pronosticaban todas las encuestas, gracias al apoyo de la derecha tradicional y de la extrema derecha más radical, Kast ha superado con comodidad a Jeannette Jara, que encabezaba la mayor coalición de fuerzas de centroizquierda e izquierda; Las elecciones autonómicas azuzan la guerra pública entre PP y Vox: La trampa electoral de Feijóo a Sánchez en forma de comicios autonómicos consecutivos puede confirmar el mal momento del PSOE, pero a la vez catapulta en las encuestas a los de Santiago Abascal, quien protagoniza las campañas y arremete contra su teórico aliado; El PSOE afronta el ciclo electoral con sus candidatos quemados: Extremadura abre la carrera con el socialista Gallardo a la espera de juicio por el 'enchufe' al hermano de Sánchez y Alegría se enfrentará a las urnas el 8 de febrero tras su polémica cita con Paco Salazar. Montero aguarda sin presencia en Andalucía y salpicada por la detención del expresidente de SEPI, a quien ella colocó. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-15T06:50:48Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Sánchez intenta recuperar el control cercado por los casos de acoso y corrupción",
-      "subtitle": "La Moncloa se autoimpone “templanza” y “estajanovismo” para afrontar un tsunami que cree “orquestado” para trasladar una “falsa sensación de caos” y “corrupción estructural que no existe”. Malestar con Yolanda Díaz por pedir una remodelación profunda del Gobierno y una auditoría de las empresas de la SEPI",
-      "url": "https://www.eldiario.es/politica/sanchez-recuperar-control-cercado-casos-acoso-sexual-corrupcion_129_12841726.html",
-      "scraped_at": "2025-12-14T06:44:22Z"
+      "title": "José Antonio Kast gana las elecciones en Chile y se convierte en el primer ultraderechista en llegar al poder desde el fin de la dictadura",
+      "subtitle": "Tal y como pronosticaban todas las encuestas, gracias al apoyo de la derecha tradicional y de la extrema derecha más radical, Kast ha superado con comodidad a Jeannette Jara, que encabezaba la mayor coalición de fuerzas de centroizquierda e izquierda",
+      "url": "https://www.eldiario.es/internacional/kast-lidera-recuento-chile-convertira-primer-ultraderechista-llegar-dictadura_1_12841797.html",
+      "scraped_at": "2025-12-15T06:50:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juez investiga si Leire Díez y el expresidente de la SEPI utilizaron su “influencia” para lograr cinco contratos a cambio de mordidas",
-      "subtitle": "La exmilitante socialista y los otros dos detenidos quedaron en libertad tras comparecer en la Audiencia Nacional pero no podrán salir al extranjero",
-      "url": "https://www.eldiario.es/politica/leire-diez-detenidos-trama-sepi-quedaran-libertad-comparecer-audiencia-nacional_1_12842731.html",
-      "scraped_at": "2025-12-14T06:44:23Z"
+      "title": "Las elecciones autonómicas azuzan la guerra pública entre PP y Vox",
+      "subtitle": "La trampa electoral de Feijóo a Sánchez en forma de comicios autonómicos consecutivos puede confirmar el mal momento del PSOE, pero a la vez catapulta en las encuestas a los de Santiago Abascal, quien protagoniza las campañas y arremete contra su teórico aliado",
+      "url": "https://www.eldiario.es/politica/elecciones-autonomicas-azuzan-guerra-publica-pp-vox_1_12842139.html",
+      "scraped_at": "2025-12-15T06:50:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Chile vota su futuro presidente y la ultraderecha de Kast es la gran favorita",
-      "subtitle": "La candidata progresista y ganadora de la primera vuelta, Jeannette Jara, tiene escasas posibilidades de suceder a Gabriel Boric, que dejará La Moneda el próximo 11 de marzo",
-      "url": "https://www.eldiario.es/internacional/chile-vota-futuro-presidente-ultraderecha-kast-gran-favorita_1_12840439.html",
-      "scraped_at": "2025-12-14T06:44:23Z"
+      "title": "El PSOE afronta el ciclo electoral con sus candidatos quemados",
+      "subtitle": "Extremadura abre la carrera con el socialista Gallardo a la espera de juicio por el 'enchufe' al hermano de Sánchez y Alegría se enfrentará a las urnas el 8 de febrero tras su polémica cita con Paco Salazar. Montero aguarda sin presencia en Andalucía y salpicada por la detención del expresidente de SEPI, a quien ella colocó",
+      "url": "https://www.eldiario.es/politica/psoe-afronta-ciclo-electoral-candidatos-quemados_1_12840903.html",
+      "scraped_at": "2025-12-15T06:50:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Avi Loeb y los científicos que se pasan al ‘lado oscuro’: cuando el enemigo de la razón duerme en casa",
-      "subtitle": "Figuras como el físico de Harvard, que defiende que los cometas interestelares podrían ser naves alienígenas, erosionan la credibilidad de la ciencia desde dentro. Sus perfiles prosperan en un ecosistema mediático que favorece el espectáculo por encima del rigor",
-      "url": "https://www.eldiario.es/sociedad/avi-loeb-cientificos-pasan-lado-oscuro-enemigo-razon-duerme-casa_1_12824254.html",
-      "scraped_at": "2025-12-14T06:44:24Z"
+      "title": "El Supremo rebaja los lamentos de la pareja de Ayuso sobre la publicación de su confesión",
+      "subtitle": "La sentencia entiende que la filtración de su correo admitiendo un fraude fiscal le afectó negativamente pero no hasta el punto de pedir una \"exagerada\" indemnización de 300.000 euros y denunciar, como hizo en el juicio, que solo le queda quitarse la vida o abandonar el país",
+      "url": "https://www.eldiario.es/politica/no-secreto-supremo-rebaja-lamentos-pareja-ayuso-publicacion-confesion_1_12837895.html",
+      "scraped_at": "2025-12-15T06:50:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Expresidente SEPI",
-      "subtitle": "Vicente Fernández y los otros dos detenidos quedan en libertad con medidas cautelares tras pasar casi tres días retenidos en los calabozos de la Guardia Civil",
-      "url": "https://www.eldiario.es/politica/expresidente-sepi-niega-supuestos-amanos-contratos-juez-audiencia-nacional_1_12843287.html",
-      "scraped_at": "2025-12-14T06:44:25Z"
+      "title": "Sara Simón",
+      "subtitle": "\"Me arrepiento profundamente de haber hecho esa referencia\", asegura Sara Simón en un mensaje publicado en las redes sociales dos días después, y trata de justificar el contexto: \"Se han desvirtuado mis declaraciones, que creía necesarias en este momento\", y que aludían a los casos de abusos sexuales y corrupción en el seno del PSOE",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/consejera-igualdad-castilla-mancha-pide-disculpas-poner-duda-primarias-ganadas-pedro-sanchez_1_12844895.html",
+      "scraped_at": "2025-12-15T06:50:48Z"
     }
   ]
 }
