@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Guardiola se acerca a la mayoría absoluta y el PSOE se hunde en Extremadura: La popular alcanzaría el próximo domingo una gran victoria con un 43% de los sufragios; Casi la mitad de los votantes creen que Vox debería apoyar a la representante del PP aunque ella no lo quisiera: Un 65% de los que se dicen votantes de Vox preferirían forzar repetir elecciones si la popular no quisiera ir con ellos; Gallardo no aprueba ni entre los votantes socialistas: Guardiola, en cambio, aprueba para la mayoría de encuestados y los socialistas solo la valoran dos décimas por debajo de el del PSOE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-15T06:50:49Z",
+  "summary": "Resumen del día en ABC.es: La UCO localiza mensajes sobre citas de Zapatero con la Sepi durante el rescate de Plus Ultra: Las conversaciones estaban en el móvil de Koldo García, que ha pedido de forma reiterada que le devuelvan sus dispositivos; Vicente Fernández aumentó en 424.000 euros sus propiedades en los 15 meses que presidió la SEPI: Declaró bienes inmuebles por 240.000 euros cuando llegó y por valor de 675.000 euros tras su cese; Un audio revela que Claudio Rivas, socio de Aldama, escondió dinero en una finca de Toledo: Preguntó a uno de sus hombres de confianza si estaba en el coto de Mora para recoger una cantidad que debía pagar «a un tío». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-16T06:49:50Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Guardiola se acerca a la mayoría absoluta y el PSOE se hunde en Extremadura",
+      "title": "La UCO localiza mensajes sobre citas de Zapatero con la Sepi durante el rescate de Plus Ultra",
+      "subtitle": "Las conversaciones estaban en el móvil de Koldo García, que ha pedido de forma reiterada que le devuelvan sus dispositivos",
+      "url": "https://www.abc.es/espana/moviles-koldo-abalos-amenazan-zapatero-reuniones-ministros-20251212034743-nt.html",
+      "scraped_at": "2025-12-16T06:49:49Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Vicente Fernández aumentó en 424.000 euros sus propiedades en los 15 meses que presidió la SEPI",
+      "subtitle": "Declaró bienes inmuebles por 240.000 euros cuando llegó y por valor de 675.000 euros tras su cese",
+      "url": "https://www.abc.es/espana/andalucia/vicente-fernandez-aumento-424000-euros-propiedades-meses-20251216143558-nts.html",
+      "scraped_at": "2025-12-16T06:49:49Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Un audio revela que Claudio Rivas, socio de Aldama, escondió dinero en una finca de Toledo",
+      "subtitle": "Preguntó a uno de sus hombres de confianza si estaba en el coto de Mora para recoger una cantidad que debía pagar «a un tío»",
+      "url": "https://www.abc.es/espana/audio-revela-claudio-rivas-socio-aldama-escondio-20251216035210-nt.html",
+      "scraped_at": "2025-12-16T06:49:50Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Arrecia la crisis en el PSOE gallego por los casos de acoso: señalan a Besteiro",
+      "subtitle": "La alcaldesa de La Coruña, Inés Rey, lidera el descontento por la gestión de la crisis ante las denuncias contra José Tomé",
+      "url": "https://www.abc.es/espana/galicia/criticos-psoe-gallego-cuestionan-continuidad-besteiro-20251216035347-nt.html",
+      "scraped_at": "2025-12-16T06:49:50Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Elecciones Extremadura",
       "subtitle": "La popular alcanzaría el próximo domingo una gran victoria con un 43% de los sufragios",
       "url": "https://www.abc.es/espana/extremadura/guardiola-roza-mayoria-absoluta-psoe-hunde-extremadura-20251215193534-nt.html",
-      "scraped_at": "2025-12-15T06:50:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Casi la mitad de los votantes creen que Vox debería apoyar a la representante del PP aunque ella no lo quisiera",
-      "subtitle": "Un 65% de los que se dicen votantes de Vox preferirían forzar repetir elecciones si la popular no quisiera ir con ellos",
-      "url": "https://www.abc.es/espana/extremadura/mitad-votantes-creen-vox-deberia-apoyar-guardiola-20251215042540-nt.html",
-      "scraped_at": "2025-12-15T06:50:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Gallardo no aprueba ni entre los votantes socialistas",
-      "subtitle": "Guardiola, en cambio, aprueba para la mayoría de encuestados y los socialistas solo la valoran dos décimas por debajo de el del PSOE",
-      "url": "https://www.abc.es/espana/extremadura/gallardo-aprueba-votantes-socialistas-20251215042554-nt.html",
-      "scraped_at": "2025-12-15T06:50:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El republicano José Antonio Kast gana de forma contundente las elecciones presidenciales en Chile",
-      "subtitle": "El presidente Gabriel Boric felicitó en una llamada telefónica al vencedor de la segunda vuelta. La exministra comunista Jeannette Jara reconoció su derrota",
-      "url": "https://www.abc.es/internacional/republicano-jose-antonio-kast-gana-forma-contundente-20251214235941-nt.html",
-      "scraped_at": "2025-12-15T06:50:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Revisiones alquiler",
-      "subtitle": "Sumar maniobra para que el Gobierno congele 'in extremis' los contratos pendientes de renovar",
-      "url": "https://www.abc.es/economia/cientos-miles-inquilinos-enfrentan-gran-revision-alquileres-20251214043110-nt.html",
-      "scraped_at": "2025-12-15T06:50:49Z"
+      "scraped_at": "2025-12-16T06:49:50Z"
     }
   ]
 }
