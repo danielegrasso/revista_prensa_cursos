@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Culminar la amnistía y los fondos europeos: los dos grandes “hitos” de Sánchez para el 2026: El presidente nombrará a otra mujer como portavoz del Gobierno tras la próxima salida de Alegría; La sustancia de las cosas según Sánchez: Lo dijo ayer Pedro Sánchez en su frenética huida hacia adelante: “Hay que saber dónde está la sustancia de las cosas”. Y, para él, no está ni en los casos de; Carta de ajuste: La política española debe ser hoy observada desde el ángulo de la nueva doctrina de seguridad de Estados Unidos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-16T06:49:52Z",
+  "summary": "Resumen del día en La Vanguardia: El PSOE insta a preservar la legislatura mientras Sumar mengua sus exigencias: El socio minoritario del Gobierno pide ahora una “reunión urgente” a los socialistas; En Valencia no se vota: España va a vivir una situación inédita con una concatenación de cuatro elecciones autonómicas en apenas seis meses. Las elecciones de Castilla y León, previstas; Incertidumbre en los partidos catalanes ante la zozobra del Gobierno: Junts no contempla recomponer ahora su relación con el PSOE y ERC pide un revulsivo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-17T06:48:38Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Culminar la amnistía y los fondos europeos: los dos grandes “hitos” de Sánchez para el 2026",
-      "subtitle": "El presidente nombrará a otra mujer como portavoz del Gobierno tras la próxima salida de Alegría",
-      "url": "https://www.lavanguardia.com/politica/20251215/11366143/culminar-amnistia-fondos-europeos-dos-grandes-hitos-sanchez-2026.html",
-      "scraped_at": "2025-12-16T06:49:51Z"
+      "title": "El PSOE insta a preservar la legislatura mientras Sumar mengua sus exigencias",
+      "subtitle": "El socio minoritario del Gobierno pide ahora una “reunión urgente” a los socialistas",
+      "url": "https://www.lavanguardia.com/politica/20251217/11370179/psoe-insta-preservar-legislatura-sumar-mengua-exigencias.html",
+      "scraped_at": "2025-12-17T06:48:37Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La sustancia de las cosas según Sánchez",
-      "subtitle": "Lo dijo ayer Pedro Sánchez en su frenética huida hacia adelante: “Hay que saber dónde está la sustancia de las cosas”. Y, para él, no está ni en los casos de",
-      "url": "https://www.lavanguardia.com/opinion/20251216/11366175/sustancia-cosas-sanchez.html",
-      "scraped_at": "2025-12-16T06:49:52Z"
+      "title": "En Valencia no se vota",
+      "subtitle": "España va a vivir una situación inédita con una concatenación de cuatro elecciones autonómicas en apenas seis meses. Las elecciones de Castilla y León, previstas",
+      "url": "https://www.lavanguardia.com/opinion/20251217/11370497/valencia-vota.html",
+      "scraped_at": "2025-12-17T06:48:37Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Carta de ajuste",
-      "subtitle": "La política española debe ser hoy observada desde el ángulo de la nueva doctrina de seguridad de Estados Unidos",
-      "url": "https://www.lavanguardia.com/politica/20251216/11366567/carta-ajuste.html",
-      "scraped_at": "2025-12-16T06:49:52Z"
+      "title": "Incertidumbre en los partidos catalanes ante la zozobra del Gobierno",
+      "subtitle": "Junts no contempla recomponer ahora su relación con el PSOE y ERC pide un revulsivo",
+      "url": "https://www.lavanguardia.com/politica/20251217/11370078/incertidumbre-partidos-catalanes-zozobra-gobierno.html",
+      "scraped_at": "2025-12-17T06:48:37Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La fuerte demanda de vivienda lleva compras e hipotecas a nuevos récords",
-      "subtitle": "Las transacciones superan las 600.000 unidades hasta octubre, mejor dato desde 2007",
-      "url": "https://www.lavanguardia.com/economia/20251216/11365835/fuerte-demanda-vivienda-lleva-compras-e-hipotecas-nuevos-records.html",
-      "scraped_at": "2025-12-16T06:49:52Z"
+      "title": "ERC supera el síndrome Junts",
+      "subtitle": "La idea de un frente catalán en Madrid vuelve a escena. A ella hizo referencia hace unos días la portavoz de Junts, Miriam Nogueras, después de que los posconvergentes",
+      "url": "https://www.lavanguardia.com/politica/20251217/11369438/erc-supera-sindrome-junts.html",
+      "scraped_at": "2025-12-17T06:48:37Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump pasa del recelo a la hostilidad con Europa",
-      "subtitle": "Estados Unidos ve al continente como un enemigo en su guerra cultural global, un estorbo geopolítico y un gorrón comercial",
-      "url": "https://www.lavanguardia.com/internacional/20251215/11361271/trump-pasa-recelo-hostilidad-europa.html",
-      "scraped_at": "2025-12-16T06:49:52Z"
+      "title": "Una exposición invita a reflexionar sobre el espacio humano en la Serrería Belga",
+      "subtitle": "El centro cultural exhibe la obra de 58 artistas que se han fijado en los contrastes urbanos y naturales",
+      "url": "https://www.lavanguardia.com/cultura/20251217/11369502/exposicion-fotografica-invita-reflexionar-sobre-espacio-humano-serreria-belga.html",
+      "scraped_at": "2025-12-17T06:48:38Z"
     }
   ]
 }

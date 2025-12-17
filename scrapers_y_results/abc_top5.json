@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La UCO localiza mensajes sobre citas de Zapatero con la Sepi durante el rescate de Plus Ultra: Las conversaciones estaban en el móvil de Koldo García, que ha pedido de forma reiterada que le devuelvan sus dispositivos; Vicente Fernández aumentó en 424.000 euros sus propiedades en los 15 meses que presidió la SEPI: Declaró bienes inmuebles por 240.000 euros cuando llegó y por valor de 675.000 euros tras su cese; Un audio revela que Claudio Rivas, socio de Aldama, escondió dinero en una finca de Toledo: Preguntó a uno de sus hombres de confianza si estaba en el coto de Mora para recoger una cantidad que debía pagar «a un tío». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-16T06:49:50Z",
+  "summary": "Resumen del día en ABC.es: Correos extendió la contratación a dedo con la llegada de Leire Díez y el exjefe de gabinete de Sánchez: Aprobó un cambio de su regulación interna en julio de 2022 que habilitó hasta ocho situaciones en que la empresa podría contratar de forma directa y sin publicidad con un único proveedor; La 'fontanera' del PSOE dio un contrato «especial» de 180.000 euros en Correos a un bufete de la trama de la SEPI: La entonces directora de Filatelia del grupo estatal encargó a finales de 2022 el asesoramiento jurídico al despacho sevillano SDEP & Carrillo Abogados SLP, investigado por la UCO; El Partido Socialista Obrero Español de las Leires Díez: Una red de militantes colocados, negaciones calculadas y responsabilidades ausentes retratan un partido donde el poder se ejerce desde la opacidad y ignorancia como coartadas política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-17T06:48:36Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La UCO localiza mensajes sobre citas de Zapatero con la Sepi durante el rescate de Plus Ultra",
+      "title": "Correos extendió la contratación a dedo con la llegada de Leire Díez y el exjefe de gabinete de Sánchez",
+      "subtitle": "Aprobó un cambio de su regulación interna en julio de 2022 que habilitó hasta ocho situaciones en que la empresa podría contratar de forma directa y sin publicidad con un único proveedor",
+      "url": "https://www.abc.es/espana/correos-flexibiliza-sistema-contratacion-concurso-llegar-leire-20251216033213-nt.html",
+      "scraped_at": "2025-12-17T06:48:35Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "La 'fontanera' del PSOE dio un contrato «especial» de 180.000 euros en Correos a un bufete de la trama de la SEPI",
+      "subtitle": "La entonces directora de Filatelia del grupo estatal encargó a finales de 2022 el asesoramiento jurídico al despacho sevillano SDEP & Carrillo Abogados SLP, investigado por la UCO",
+      "url": "https://www.abc.es/espana/andalucia/leire-diez-dio-contrato-especial-180000-euros-20251217033304-nts.html",
+      "scraped_at": "2025-12-17T06:48:35Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "El Partido Socialista Obrero Español de las Leires Díez",
+      "subtitle": "Una red de militantes colocados, negaciones calculadas y responsabilidades ausentes retratan un partido donde el poder se ejerce desde la opacidad y ignorancia como coartadas política",
+      "url": "https://www.abc.es/opinion/editorial-psoe-leires-diez-20251217192309-nt.html",
+      "scraped_at": "2025-12-17T06:48:36Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "María Guardiola: «Abascal ha pedido mi cabeza. Vox está en la polarización»",
+      "subtitle": "La presidenta de la Junta esperará a los resultados del domingo para hablar de gobernabilidad, pero pide al resto de partidos que \"escuchen\" lo que expresarán las urnas",
+      "url": "https://www.abc.es/espana/maria-guardiola-criterio-negociar-negue-vox-entrara-20251217220129-nt.html",
+      "scraped_at": "2025-12-17T06:48:36Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Zapatero",
       "subtitle": "Las conversaciones estaban en el móvil de Koldo García, que ha pedido de forma reiterada que le devuelvan sus dispositivos",
       "url": "https://www.abc.es/espana/moviles-koldo-abalos-amenazan-zapatero-reuniones-ministros-20251212034743-nt.html",
-      "scraped_at": "2025-12-16T06:49:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Vicente Fernández aumentó en 424.000 euros sus propiedades en los 15 meses que presidió la SEPI",
-      "subtitle": "Declaró bienes inmuebles por 240.000 euros cuando llegó y por valor de 675.000 euros tras su cese",
-      "url": "https://www.abc.es/espana/andalucia/vicente-fernandez-aumento-424000-euros-propiedades-meses-20251216143558-nts.html",
-      "scraped_at": "2025-12-16T06:49:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Un audio revela que Claudio Rivas, socio de Aldama, escondió dinero en una finca de Toledo",
-      "subtitle": "Preguntó a uno de sus hombres de confianza si estaba en el coto de Mora para recoger una cantidad que debía pagar «a un tío»",
-      "url": "https://www.abc.es/espana/audio-revela-claudio-rivas-socio-aldama-escondio-20251216035210-nt.html",
-      "scraped_at": "2025-12-16T06:49:50Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Arrecia la crisis en el PSOE gallego por los casos de acoso: señalan a Besteiro",
-      "subtitle": "La alcaldesa de La Coruña, Inés Rey, lidera el descontento por la gestión de la crisis ante las denuncias contra José Tomé",
-      "url": "https://www.abc.es/espana/galicia/criticos-psoe-gallego-cuestionan-continuidad-besteiro-20251216035347-nt.html",
-      "scraped_at": "2025-12-16T06:49:50Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Elecciones Extremadura",
-      "subtitle": "La popular alcanzaría el próximo domingo una gran victoria con un 43% de los sufragios",
-      "url": "https://www.abc.es/espana/extremadura/guardiola-roza-mayoria-absoluta-psoe-hunde-extremadura-20251215193534-nt.html",
-      "scraped_at": "2025-12-16T06:49:50Z"
+      "scraped_at": "2025-12-17T06:48:36Z"
     }
   ]
 }
