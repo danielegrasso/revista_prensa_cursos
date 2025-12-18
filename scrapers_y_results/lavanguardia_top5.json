@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El PSOE insta a preservar la legislatura mientras Sumar mengua sus exigencias: El socio minoritario del Gobierno pide ahora una “reunión urgente” a los socialistas; En Valencia no se vota: España va a vivir una situación inédita con una concatenación de cuatro elecciones autonómicas en apenas seis meses. Las elecciones de Castilla y León, previstas; Incertidumbre en los partidos catalanes ante la zozobra del Gobierno: Junts no contempla recomponer ahora su relación con el PSOE y ERC pide un revulsivo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-17T06:48:38Z",
+  "summary": "Resumen del día en La Vanguardia: Europa busca la fórmula para usar los activos rusos inmovilizados en beneficio  de Ucrania: Los líderes de la UE se encierran para definir un salvavidas financiero para Ucrania; Trump exagera sus logros en un discurso a la nación con ataques a Biden y los inmigrantes: Los sondeos sitúan la popularidad del presidente en su nivel más bajo desde enero, principalmente debido al alto coste de la vida en el país; Máxima tensión en Venezuela después del bloqueo total de Trump: México y Brasil, los dos grandes de la región piden una desescalada de la situación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-18T06:48:36Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El PSOE insta a preservar la legislatura mientras Sumar mengua sus exigencias",
-      "subtitle": "El socio minoritario del Gobierno pide ahora una “reunión urgente” a los socialistas",
-      "url": "https://www.lavanguardia.com/politica/20251217/11370179/psoe-insta-preservar-legislatura-sumar-mengua-exigencias.html",
-      "scraped_at": "2025-12-17T06:48:37Z"
+      "title": "Europa busca la fórmula para usar los activos rusos inmovilizados en beneficio  de Ucrania",
+      "subtitle": "Los líderes de la UE se encierran para definir un salvavidas financiero para Ucrania",
+      "url": "https://www.lavanguardia.com/internacional/20251218/11374270/hora-verdad-europa.html",
+      "scraped_at": "2025-12-18T06:48:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "En Valencia no se vota",
-      "subtitle": "España va a vivir una situación inédita con una concatenación de cuatro elecciones autonómicas en apenas seis meses. Las elecciones de Castilla y León, previstas",
-      "url": "https://www.lavanguardia.com/opinion/20251217/11370497/valencia-vota.html",
-      "scraped_at": "2025-12-17T06:48:37Z"
+      "title": "Trump exagera sus logros en un discurso a la nación con ataques a Biden y los inmigrantes",
+      "subtitle": "Los sondeos sitúan la popularidad del presidente en su nivel más bajo desde enero, principalmente debido al alto coste de la vida en el país",
+      "url": "https://www.lavanguardia.com/internacional/20251218/11374733/trump-exagera-logros-discurso-nacion-inmigrantes-biden.html",
+      "scraped_at": "2025-12-18T06:48:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Incertidumbre en los partidos catalanes ante la zozobra del Gobierno",
-      "subtitle": "Junts no contempla recomponer ahora su relación con el PSOE y ERC pide un revulsivo",
-      "url": "https://www.lavanguardia.com/politica/20251217/11370078/incertidumbre-partidos-catalanes-zozobra-gobierno.html",
-      "scraped_at": "2025-12-17T06:48:37Z"
+      "title": "Máxima tensión en Venezuela después del bloqueo total de Trump",
+      "subtitle": "México y Brasil, los dos grandes de la región piden una desescalada de la situación",
+      "url": "https://www.lavanguardia.com/internacional/20251217/11374312/maxima-tension-venezuela-bloqueo-total-trump.html",
+      "scraped_at": "2025-12-18T06:48:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "ERC supera el síndrome Junts",
-      "subtitle": "La idea de un frente catalán en Madrid vuelve a escena. A ella hizo referencia hace unos días la portavoz de Junts, Miriam Nogueras, después de que los posconvergentes",
-      "url": "https://www.lavanguardia.com/politica/20251217/11369438/erc-supera-sindrome-junts.html",
-      "scraped_at": "2025-12-17T06:48:37Z"
+      "title": "'Keep calm' en la Moncloa",
+      "subtitle": "El sosiego que receta Sánchez ante la adversidad no convence a algunos de sus aliados, que creen que no calibra la gravedad del momento y su efecto en la calle",
+      "url": "https://www.lavanguardia.com/politica/20251218/11373295/keep-calm-moncloa-acoso-leire.html",
+      "scraped_at": "2025-12-18T06:48:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una exposición invita a reflexionar sobre el espacio humano en la Serrería Belga",
-      "subtitle": "El centro cultural exhibe la obra de 58 artistas que se han fijado en los contrastes urbanos y naturales",
-      "url": "https://www.lavanguardia.com/cultura/20251217/11369502/exposicion-fotografica-invita-reflexionar-sobre-espacio-humano-serreria-belga.html",
-      "scraped_at": "2025-12-17T06:48:38Z"
+      "title": "¿Conseguirá resistir Pedro Sánchez en el Gobierno en 2026?",
+      "subtitle": "Culminar la amnistía y los fondos europeos son los dos grandes “hitos” que se ha marcado el presidente",
+      "url": "https://www.lavanguardia.com/participacion/debates/20251218/11366657/encuesta-conseguira-resistir-pedro-sanchez-gobierno-2026.html",
+      "scraped_at": "2025-12-18T06:48:36Z"
     }
   ]
 }

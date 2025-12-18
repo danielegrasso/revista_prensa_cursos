@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Correos extendió la contratación a dedo con la llegada de Leire Díez y el exjefe de gabinete de Sánchez: Aprobó un cambio de su regulación interna en julio de 2022 que habilitó hasta ocho situaciones en que la empresa podría contratar de forma directa y sin publicidad con un único proveedor; La 'fontanera' del PSOE dio un contrato «especial» de 180.000 euros en Correos a un bufete de la trama de la SEPI: La entonces directora de Filatelia del grupo estatal encargó a finales de 2022 el asesoramiento jurídico al despacho sevillano SDEP & Carrillo Abogados SLP, investigado por la UCO; El Partido Socialista Obrero Español de las Leires Díez: Una red de militantes colocados, negaciones calculadas y responsabilidades ausentes retratan un partido donde el poder se ejerce desde la opacidad y ignorancia como coartadas política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-17T06:48:36Z",
+  "summary": "Resumen del día en ABC.es: El PSOE mantiene como alcaldes a todos los cargos acusados de acoso sexual: Una semana después de la dimisión de los ediles señalados, Ferraz no ha planteado candidatos alternativos y sus concejales gobernarán con ellos; Marlaska tendrá que aclarar qué ocurrió en la cárcel de Soto del Real con el USB de Ábalos: El Partido Popular presenta una batería de preguntas parlamentarias para que el Gobierno investigue la exclusiva de ABC; La pasada cumbre del Frente Amplio en Bogotá abre un nuevo caso a Zapatero: El PP pregunta al Gobierno por la cena celebrada en la residencia del embajador de España con Petro y otros candidatos de la izquierda colombiana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-18T06:48:35Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Correos extendió la contratación a dedo con la llegada de Leire Díez y el exjefe de gabinete de Sánchez",
-      "subtitle": "Aprobó un cambio de su regulación interna en julio de 2022 que habilitó hasta ocho situaciones en que la empresa podría contratar de forma directa y sin publicidad con un único proveedor",
-      "url": "https://www.abc.es/espana/correos-flexibiliza-sistema-contratacion-concurso-llegar-leire-20251216033213-nt.html",
-      "scraped_at": "2025-12-17T06:48:35Z"
+      "title": "El PSOE mantiene como alcaldes a todos los cargos acusados de acoso sexual",
+      "subtitle": "Una semana después de la dimisión de los ediles señalados, Ferraz no ha planteado candidatos alternativos y sus concejales gobernarán con ellos",
+      "url": "https://www.abc.es/espana/psoe-mantiene-alcaldes-cargos-acusados-acoso-20251217044101-nt.html",
+      "scraped_at": "2025-12-18T06:48:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "La 'fontanera' del PSOE dio un contrato «especial» de 180.000 euros en Correos a un bufete de la trama de la SEPI",
-      "subtitle": "La entonces directora de Filatelia del grupo estatal encargó a finales de 2022 el asesoramiento jurídico al despacho sevillano SDEP & Carrillo Abogados SLP, investigado por la UCO",
-      "url": "https://www.abc.es/espana/andalucia/leire-diez-dio-contrato-especial-180000-euros-20251217033304-nts.html",
-      "scraped_at": "2025-12-17T06:48:35Z"
+      "title": "Marlaska tendrá que aclarar qué ocurrió en la cárcel de Soto del Real con el USB de Ábalos",
+      "subtitle": "El Partido Popular presenta una batería de preguntas parlamentarias para que el Gobierno investigue la exclusiva de ABC",
+      "url": "https://www.abc.es/espana/marlaska-aclarar-ocurrio-carcel-soto-real-usb-20251218044128-nt.html",
+      "scraped_at": "2025-12-18T06:48:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Partido Socialista Obrero Español de las Leires Díez",
-      "subtitle": "Una red de militantes colocados, negaciones calculadas y responsabilidades ausentes retratan un partido donde el poder se ejerce desde la opacidad y ignorancia como coartadas política",
-      "url": "https://www.abc.es/opinion/editorial-psoe-leires-diez-20251217192309-nt.html",
-      "scraped_at": "2025-12-17T06:48:36Z"
+      "title": "La pasada cumbre del Frente Amplio en Bogotá abre un nuevo caso a Zapatero",
+      "subtitle": "El PP pregunta al Gobierno por la cena celebrada en la residencia del embajador de España con Petro y otros candidatos de la izquierda colombiana",
+      "url": "https://www.abc.es/espana/pasada-cumbre-frente-amplio-bogota-abre-nuevo-20251218044116-nt.html",
+      "scraped_at": "2025-12-18T06:48:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "María Guardiola: «Abascal ha pedido mi cabeza. Vox está en la polarización»",
+      "title": "Explotación en el Camp Nou: «Trabajamos 12 horas al día, 6 días a la semana, sin vacaciones, sin seguridad social...»",
+      "subtitle": "Los obreros subcontratados por la constructora turca que remodela el estadio del Barcelona denuncian jornadas abusivas, despidos improcedentes y sueldos indignos",
+      "url": "https://www.abc.es/deportes/futbol/explotacion-camp-nou-trabajamos-horas-dia-dias-20251216044225-nt.html",
+      "scraped_at": "2025-12-18T06:48:35Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "María Guardiola",
       "subtitle": "La presidenta de la Junta esperará a los resultados del domingo para hablar de gobernabilidad, pero pide al resto de partidos que \"escuchen\" lo que expresarán las urnas",
       "url": "https://www.abc.es/espana/maria-guardiola-criterio-negociar-negue-vox-entrara-20251217220129-nt.html",
-      "scraped_at": "2025-12-17T06:48:36Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Zapatero",
-      "subtitle": "Las conversaciones estaban en el móvil de Koldo García, que ha pedido de forma reiterada que le devuelvan sus dispositivos",
-      "url": "https://www.abc.es/espana/moviles-koldo-abalos-amenazan-zapatero-reuniones-ministros-20251212034743-nt.html",
-      "scraped_at": "2025-12-17T06:48:36Z"
+      "scraped_at": "2025-12-18T06:48:35Z"
     }
   ]
 }
