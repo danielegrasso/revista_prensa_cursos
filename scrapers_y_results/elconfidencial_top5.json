@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Koldo medió ante Sanidad para dar una licencia a una empresa de cannabis ligada a un narco: Koldo comunicó al exjefe de gabinete de Illa la voluntad de un laboratorio de cannabis de operar en España. Una compañía representada por un investigado por diseñar una red de laboratorios tapadera para el cártel de Sinaloa; La agencia estatal creada por Bolaños expedienta al PSOE por frenar las denuncias de acoso: La Autoridad Independiente de Protección del Informante, un organismo público creado por imperativo de la UE y que está bajo el paraguas del todopoderoso ministro de Justicia, ha expedientado al PSOE; Hay un rincón de internet donde ocurren cosas que ya no se podrían ver en la tele: Unos jóvenes con un canal de YouTube han puesto a toda la industria mediática a debatir sobre los límites del entretenimiento. En su programa hay peleas, comentarios de odio, drogas o vejaciones, pero tiene audiencia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-18T06:48:39Z",
+  "summary": "Resumen del día en El Confidencial: Caso Leire: la fiscal quiere interrogar a los asistentes a la cita para \"matar\" a Balas: El Ministerio Público también propone citar como testigo al exvicepresidente andaluz del PSOE Gaspar Zarrías y pide cerrar la puerta a que Koldo y Ábalos se personen en el caso; El PP se lanza a por el \"empujón\" final el 21-D entre votos robados y denuncias de acoso y violencia: Los sobresaltos de última hora por la reacción al hurto de papeletas en un municipio, ya subsanado, y las polémicas en torno a Guardiola provocan revuelo en el PP, que busca impulsar la movilización para acariciar la absoluta; Nuevo frente en Urbas: Roundshield ultima una querella en España: El fondo británico ha encargado un &#039;forensic&#039; a EY que pruebe unos presuntos delitos vinculados a irregularidades en la gestión de la compañía y con el mercado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-19T06:47:31Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Koldo medió ante Sanidad para dar una licencia a una empresa de cannabis ligada a un narco",
-      "subtitle": "Koldo comunicó al exjefe de gabinete de Illa la voluntad de un laboratorio de cannabis de operar en España. Una compañía representada por un investigado por diseñar una red de laboratorios tapadera para el cártel de Sinaloa",
-      "url": "https://www.elconfidencial.com/espana/2025-12-18/trama-koldo-medio-sanidad-licencia-farmaceutica-cannabis-narco_4268773/",
-      "scraped_at": "2025-12-18T06:48:37Z"
+      "title": "Caso Leire: la fiscal quiere interrogar a los asistentes a la cita para \"matar\" a Balas",
+      "subtitle": "El Ministerio Público también propone citar como testigo al exvicepresidente andaluz del PSOE Gaspar Zarrías y pide cerrar la puerta a que Koldo y Ábalos se personen en el caso",
+      "url": "https://www.elconfidencial.com/espana/2025-12-19/fiscal-caso-leire-interrogar-presentes-cita-matar-balas_4269626/",
+      "scraped_at": "2025-12-19T06:47:31Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La agencia estatal creada por Bolaños expedienta al PSOE por frenar las denuncias de acoso",
-      "subtitle": "La Autoridad Independiente de Protección del Informante, un organismo público creado por imperativo de la UE y que está bajo el paraguas del todopoderoso ministro de Justicia, ha expedientado al PSOE",
-      "url": "https://www.elconfidencial.com/espana/2025-12-18/agencia-estatal-bolanos-sancionar-psoe-frenar-denuncias-acoso_4268728/",
-      "scraped_at": "2025-12-18T06:48:38Z"
+      "title": "El PP se lanza a por el \"empujón\" final el 21-D entre votos robados y denuncias de acoso y violencia",
+      "subtitle": "Los sobresaltos de última hora por la reacción al hurto de papeletas en un municipio, ya subsanado, y las polémicas en torno a Guardiola provocan revuelo en el PP, que busca impulsar la movilización para acariciar la absoluta",
+      "url": "https://www.elconfidencial.com/espana/2025-12-19/pp-empujon-final-extremadura-votos-robados-acoso_4269518/",
+      "scraped_at": "2025-12-19T06:47:31Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hay un rincón de internet donde ocurren cosas que ya no se podrían ver en la tele",
-      "subtitle": "Unos jóvenes con un canal de YouTube han puesto a toda la industria mediática a debatir sobre los límites del entretenimiento. En su programa hay peleas, comentarios de odio, drogas o vejaciones, pero tiene audiencia",
-      "url": "https://www.elconfidencial.com/television/2025-12-18/casa-gemelos-getafe-youtube-mediaset_4266949/",
-      "scraped_at": "2025-12-18T06:48:38Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "21-D: Génova confía en superar los 30 escaños por el \"derrumbe sin precedentes\" del PSOE",
-      "subtitle": "El PP detecta un gran trasvase procedente de los socialistas que permitiría a Guardiola acariciar la absoluta e intentar rebajar las exigencias de Vox. Sectores del partido recelan de la estrategia de confrontación directa con Abascal",
-      "url": "https://www.elconfidencial.com/espana/2025-12-18/genova-superar-30-escanos-elecciones-extremadura-21d-derrumbe-psoe_4268689/",
-      "scraped_at": "2025-12-18T06:48:38Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El país experto en 'hundir la flota': el 'bebé del mar' contra un submarino de 4.000 toneladas",
-      "subtitle": "Ucrania habría neutralizado un submarino ruso clase Kilo amarrado en puerto con un dron submarino del tipo Sub Sea Baby. No está claro el alcance de los daños, pero podrían ser importantes. Una acción histórica que merece un análisis detallado",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-18/dron-submarino-ataque-novorossiysk-1hms_4268420/",
-      "scraped_at": "2025-12-18T06:48:39Z"
+      "title": "Nuevo frente en Urbas: Roundshield ultima una querella en España",
+      "subtitle": "El fondo británico ha encargado un &#039;forensic&#039; a EY que pruebe unos presuntos delitos vinculados a irregularidades en la gestión de la compañía y con el mercado",
+      "url": "https://www.elconfidencial.com/juridico/2025-12-19/urbas-roundshield-querella-espana-frente-judicial_4269177/",
+      "scraped_at": "2025-12-19T06:47:31Z"
     }
   ]
 }
