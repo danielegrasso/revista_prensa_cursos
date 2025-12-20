@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Caso Leire: la fiscal quiere interrogar a los asistentes a la cita para \"matar\" a Balas: El Ministerio Público también propone citar como testigo al exvicepresidente andaluz del PSOE Gaspar Zarrías y pide cerrar la puerta a que Koldo y Ábalos se personen en el caso; El PP se lanza a por el \"empujón\" final el 21-D entre votos robados y denuncias de acoso y violencia: Los sobresaltos de última hora por la reacción al hurto de papeletas en un municipio, ya subsanado, y las polémicas en torno a Guardiola provocan revuelo en el PP, que busca impulsar la movilización para acariciar la absoluta; Nuevo frente en Urbas: Roundshield ultima una querella en España: El fondo británico ha encargado un &#039;forensic&#039; a EY que pruebe unos presuntos delitos vinculados a irregularidades en la gestión de la compañía y con el mercado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-19T06:47:31Z",
+  "summary": "Resumen del día en El Confidencial: El PSOE se mueve para la sucesión de Sánchez: tres caras y tres estrategias del postsanchismo: Dos movimientos distintos se preparan para &quot;canalizar el descontento&quot; y conformar una alternativa que permita competir contra Sánchez en unas primarias tras las generales. Discrepan en los tiempos pero coinciden en el objetivo; Cinco gráficos que explican la crisis del automóvil español y el giro con el motor de combustión: La transformación de la industria por los objetivos de descarbonización, las nuevas barreras arancelarias de EEUU y la competencia China ponen contra las cuerdas al sector, que pierde cuota de mercado global; El soldado del futuro no será un G.I. Joe, y Europa lo está entendiendo antes que EEUU: En el nuevo plan de defensa de Dinamarca, el servicio militar se ha extendido y se ha vuelto paritario para adaptarse al nuevo campo de batalla. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-20T06:44:54Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Caso Leire: la fiscal quiere interrogar a los asistentes a la cita para \"matar\" a Balas",
-      "subtitle": "El Ministerio Público también propone citar como testigo al exvicepresidente andaluz del PSOE Gaspar Zarrías y pide cerrar la puerta a que Koldo y Ábalos se personen en el caso",
-      "url": "https://www.elconfidencial.com/espana/2025-12-19/fiscal-caso-leire-interrogar-presentes-cita-matar-balas_4269626/",
-      "scraped_at": "2025-12-19T06:47:31Z"
+      "title": "El PSOE se mueve para la sucesión de Sánchez: tres caras y tres estrategias del postsanchismo",
+      "subtitle": "Dos movimientos distintos se preparan para &quot;canalizar el descontento&quot; y conformar una alternativa que permita competir contra Sánchez en unas primarias tras las generales. Discrepan en los tiempos pero coinciden en el objetivo",
+      "url": "https://www.elconfidencial.com/espana/2025-12-20/psoe-sanchez-sucesion-postsanchismo-estrategia_4270308/",
+      "scraped_at": "2025-12-20T06:44:52Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El PP se lanza a por el \"empujón\" final el 21-D entre votos robados y denuncias de acoso y violencia",
-      "subtitle": "Los sobresaltos de última hora por la reacción al hurto de papeletas en un municipio, ya subsanado, y las polémicas en torno a Guardiola provocan revuelo en el PP, que busca impulsar la movilización para acariciar la absoluta",
-      "url": "https://www.elconfidencial.com/espana/2025-12-19/pp-empujon-final-extremadura-votos-robados-acoso_4269518/",
-      "scraped_at": "2025-12-19T06:47:31Z"
+      "title": "Cinco gráficos que explican la crisis del automóvil español y el giro con el motor de combustión",
+      "subtitle": "La transformación de la industria por los objetivos de descarbonización, las nuevas barreras arancelarias de EEUU y la competencia China ponen contra las cuerdas al sector, que pierde cuota de mercado global",
+      "url": "https://www.elconfidencial.com/economia/2025-12-20/crisis-automovil-cinco-graficos-exportaciones-empleo_4270364/",
+      "scraped_at": "2025-12-20T06:44:53Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Nuevo frente en Urbas: Roundshield ultima una querella en España",
-      "subtitle": "El fondo británico ha encargado un &#039;forensic&#039; a EY que pruebe unos presuntos delitos vinculados a irregularidades en la gestión de la compañía y con el mercado",
-      "url": "https://www.elconfidencial.com/juridico/2025-12-19/urbas-roundshield-querella-espana-frente-judicial_4269177/",
-      "scraped_at": "2025-12-19T06:47:31Z"
+      "title": "El soldado del futuro no será un G.I. Joe, y Europa lo está entendiendo antes que EEUU",
+      "subtitle": "En el nuevo plan de defensa de Dinamarca, el servicio militar se ha extendido y se ha vuelto paritario para adaptarse al nuevo campo de batalla",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-20/servicio-militar-mujeres-dinamarca-reclutamiento-1hms_4245290/",
+      "scraped_at": "2025-12-20T06:44:54Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "RTVE renegocia un contrato de 960.000 € con Amazon un mes después de firmarlo",
+      "subtitle": "La Corporación pública cerró a finales de noviembre un acuerdo para compartir contenidos con la plataforma privada, pero después cayó en la cuenta de que afectaba a sus audiencias. Amazon se resiste",
+      "url": "https://www.elconfidencial.com/espana/2025-12-20/rtve-busca-renegociar-contrato-960-000-euros-amazon-solo-mes-despues-firmarlo_4268472/",
+      "scraped_at": "2025-12-20T06:44:54Z"
     }
   ]
 }

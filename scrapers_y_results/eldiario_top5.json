@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Un poco de juego sucio en el PP para arañar unos votos en Extremadura: El PP se inventa una conspiración en el voto por correo a cuenta de un robo en una oficina de Correos en un pueblo de Badajoz. \"Están robando nuestra democracia\", clama María Guardiola poco antes de que la Guardia Civil confirme que el único robo real fue el de 14.000 euros; La UCO señaló por error a un alto cargo de Transición Ecológica en su informe de la trama de hidrocarburos de Aldama: La Guardia Civil aludió a una “conversación” inexistente para afirmar que Víctor de Aldama “contactó” e “intermedió” con el director general de Minas y apuntar a la “posible penetración” de la red corrupta en el Ministerio; El Gobierno de Rajoy despidió en 2018 a un empleado público en Zaragoza por no agilizar trámites para Forestalia: El Tribuna Superior de Aragón declaró nulo el cese del trabajador, que denunció \"acoso\" por parte del entonces subdelegado del Gobierno y actual director del Instituto Aragonés de Servicios Sociales, Ángel Val. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-19T06:47:25Z",
+  "summary": "Resumen del día en elDiario.es: El coche de combustión contraataca: victorias en Bruselas, Madrid y con las zonas de bajas emisiones: A la estela de la ola antiecológica creada por la ultraderecha, las medidas hacia una movilidad que emita menos CO2 para porteger la salud y mitigar el cambio climático se resquebrajan; La Audiencia Provincial emula al juez Peinado para mantener viva la causa abierta contra Begoña Gómez: Tres magistrados sostienen que el hecho de que la asistente de la mujer del presidente sea amiga e inexperta en protocolo es “el primer indicio que sustenta el delito de malversación”; Los socios del PSOE elevan el tono contra Sánchez sin dejarlo caer: Sánchez descarta la remodelación de Gobierno que exigió Yolanda Díaz y anuncia reuniones con socios como ERC. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-20T06:44:46Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Un poco de juego sucio en el PP para arañar unos votos en Extremadura",
+      "title": "El coche de combustión contraataca: victorias en Bruselas, Madrid y con las zonas de bajas emisiones",
+      "subtitle": "A la estela de la ola antiecológica creada por la ultraderecha, las medidas hacia una movilidad que emita menos CO2 para porteger la salud y mitigar el cambio climático se resquebrajan",
+      "url": "https://www.eldiario.es/sociedad/coche-combustion-contraataca-victorias-bruselas-madrid-zonas-bajas-emisiones_1_12857070.html",
+      "scraped_at": "2025-12-20T06:44:42Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia Provincial emula al juez Peinado para mantener viva la causa abierta contra Begoña Gómez",
+      "subtitle": "Tres magistrados sostienen que el hecho de que la asistente de la mujer del presidente sea amiga e inexperta en protocolo es “el primer indicio que sustenta el delito de malversación”",
+      "url": "https://www.eldiario.es/politica/audiencia-provincial-emula-juez-peinado-mantener-viva-causa-abierta-begona-gomez_129_12860314.html",
+      "scraped_at": "2025-12-20T06:44:43Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los socios del PSOE elevan el tono contra Sánchez sin dejarlo caer",
+      "subtitle": "Sánchez descarta la remodelación de Gobierno que exigió Yolanda Díaz y anuncia reuniones con socios como ERC",
+      "url": "https://www.eldiario.es/politica/socios-psoe-elevan-tono-sanchez-dejarlo-caer_1_12858716.html",
+      "scraped_at": "2025-12-20T06:44:44Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Una sentencia que declara falsas autónomas a seis ginecólogas pone contra las cuerdas a la sanidad privada",
+      "subtitle": "La condena afecta al hospital de Pozuelo de Quirón, aunque varias fuentes señalan un aumento de las inspecciones de trabajo en el sector, donde es muy frecuente contratar a médicos como autónomos",
+      "url": "https://www.eldiario.es/economia/sentencia-declara-falsas-autonomas-seis-ginecologas-pone-cuerdas-sanidad-privada_1_12857105.html",
+      "scraped_at": "2025-12-20T06:44:45Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Voto por correo",
       "subtitle": "El PP se inventa una conspiración en el voto por correo a cuenta de un robo en una oficina de Correos en un pueblo de Badajoz. \"Están robando nuestra democracia\", clama María Guardiola poco antes de que la Guardia Civil confirme que el único robo real fue el de 14.000 euros",
       "url": "https://www.eldiario.es/politica/juego-sucio-pp-aranar-votos-extremadura_129_12856777.html",
-      "scraped_at": "2025-12-19T06:47:23Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La UCO señaló por error a un alto cargo de Transición Ecológica en su informe de la trama de hidrocarburos de Aldama",
-      "subtitle": "La Guardia Civil aludió a una “conversación” inexistente para afirmar que Víctor de Aldama “contactó” e “intermedió” con el director general de Minas y apuntar a la “posible penetración” de la red corrupta en el Ministerio",
-      "url": "https://www.eldiario.es/politica/uco-senalo-error-alto-cargo-transicion-ecologica-informe-trama-hidrocarburos-aldama_1_12857549.html",
-      "scraped_at": "2025-12-19T06:47:24Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno de Rajoy despidió en 2018 a un empleado público en Zaragoza por no agilizar trámites para Forestalia",
-      "subtitle": "El Tribuna Superior de Aragón declaró nulo el cese del trabajador, que denunció \"acoso\" por parte del entonces subdelegado del Gobierno y actual director del Instituto Aragonés de Servicios Sociales, Ángel Val",
-      "url": "https://www.eldiario.es/aragon/politica/gobierno-rajoy-despidio-empleado-publico-zaragoza-no-agilizar-tramites-forestalia_1_12852242.html",
-      "scraped_at": "2025-12-19T06:47:24Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El comisario del caso de acoso a la doctora Pinto denuncia que López Madrid ha intentado sobornarle",
-      "subtitle": "Jaime Barrado acude a la Guardia Civil con mensajes de WhatsApp y audios en los que Fernando Moré, ex jefe de la unidad Anticorrupción de la Policía, le ofrece 20.000 euros de parte de López Madrid para que cumpla un encargo: “Dile a la doctora y su abogada que lleguen a un acuerdo, que tú no vas a ir al juicio”",
-      "url": "https://www.eldiario.es/politica/comisario-caso-acoso-doctora-pinto-denuncia-lopez-madrid-intentado-sobornarle_1_12856959.html",
-      "scraped_at": "2025-12-19T06:47:25Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Juez Peinado",
-      "subtitle": "Hace dos semanas la Audiencia Provincial emplazó a archivar la causa para Francisco Martín, investigado tras admitir a trámite una querella de Vox, al entender que su imputación se basó en \"meras suposiciones\"",
-      "url": "https://www.eldiario.es/politica/juez-peinado-acata-orden-audiencia-madrid-desimputa-delegado-gobierno-caso-begona-gomez_1_12855164.html",
-      "scraped_at": "2025-12-19T06:47:25Z"
+      "scraped_at": "2025-12-20T06:44:46Z"
     }
   ]
 }
