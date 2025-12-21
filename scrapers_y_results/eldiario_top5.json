@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El coche de combustión contraataca: victorias en Bruselas, Madrid y con las zonas de bajas emisiones: A la estela de la ola antiecológica creada por la ultraderecha, las medidas hacia una movilidad que emita menos CO2 para porteger la salud y mitigar el cambio climático se resquebrajan; La Audiencia Provincial emula al juez Peinado para mantener viva la causa abierta contra Begoña Gómez: Tres magistrados sostienen que el hecho de que la asistente de la mujer del presidente sea amiga e inexperta en protocolo es “el primer indicio que sustenta el delito de malversación”; Los socios del PSOE elevan el tono contra Sánchez sin dejarlo caer: Sánchez descarta la remodelación de Gobierno que exigió Yolanda Díaz y anuncia reuniones con socios como ERC. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-20T06:44:46Z",
+  "summary": "Resumen del día en elDiario.es: Feijóo aspira a acelerar el ocaso de Sánchez y el presidente, a que el PP siga atado a Vox: Ambos líderes se miden este domingo en Extremadura pendientes de saber por quién doblarán antes las campanas: si por la muerte gradual del Gobierno de España o por la de una derecha autónoma como alternativa fiable y de Estado. Pero, al final, el PP despertará y Abascal seguirá ahí; Me hice socia de Revuelta hace un año y esto es lo que pasó con mi dinero: Una redactora de elDiario.es pagó una \"membresía\" mensual para comprobar las acusaciones informales de opacidad contra la rama de joven de Vox. Revuelta está hoy bajo la lupa por una posible estafa con las donaciones de la dana y en una guerra a cara de perro con el partido. La organización nunca fue otra cosa que una fachada, una marca sin sostén jurídico, para atraer a jóvenes ultra; Caso López Madrid contra la doctora Pinto: diez años de corrupción policial al servicio del empresario: El ex jefe de la UDEF tratando de comprar a un testigo clave del caso es el último episodio de la historia del servilismo de relevantes comisarios de la Policía postrados ante la fortuna del yerno de Villar Mir. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-21T06:45:02Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El coche de combustión contraataca: victorias en Bruselas, Madrid y con las zonas de bajas emisiones",
-      "subtitle": "A la estela de la ola antiecológica creada por la ultraderecha, las medidas hacia una movilidad que emita menos CO2 para porteger la salud y mitigar el cambio climático se resquebrajan",
+      "title": "Feijóo aspira a acelerar el ocaso de Sánchez y el presidente, a que el PP siga atado a Vox",
+      "subtitle": "Ambos líderes se miden este domingo en Extremadura pendientes de saber por quién doblarán antes las campanas: si por la muerte gradual del Gobierno de España o por la de una derecha autónoma como alternativa fiable y de Estado. Pero, al final, el PP despertará y Abascal seguirá ahí",
+      "url": "https://www.eldiario.es/politica/feijoo-aspira-acelerar-ocaso-sanchez-presidente-pp-siga-atado-vox_129_12859760.html",
+      "scraped_at": "2025-12-21T06:44:59Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Me hice socia de Revuelta hace un año y esto es lo que pasó con mi dinero",
+      "subtitle": "Una redactora de elDiario.es pagó una \"membresía\" mensual para comprobar las acusaciones informales de opacidad contra la rama de joven de Vox. Revuelta está hoy bajo la lupa por una posible estafa con las donaciones de la dana y en una guerra a cara de perro con el partido. La organización nunca fue otra cosa que una fachada, una marca sin sostén jurídico, para atraer a jóvenes ultra",
+      "url": "https://www.eldiario.es/politica/hice-socia-revuelta-ano-paso-dinero_1_12853793.html",
+      "scraped_at": "2025-12-21T06:45:00Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Caso López Madrid contra la doctora Pinto: diez años de corrupción policial al servicio del empresario",
+      "subtitle": "El ex jefe de la UDEF tratando de comprar a un testigo clave del caso es el último episodio de la historia del servilismo de relevantes comisarios de la Policía postrados ante la fortuna del yerno de Villar Mir",
+      "url": "https://www.eldiario.es/politica/caso-lopez-madrid-doctora-pinto-diez-anos-corrupcion-policial-servicio-poderoso-empresario_1_12859959.html",
+      "scraped_at": "2025-12-21T06:45:01Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Estados Unidos apresa un petrolero con crudo venezolano en aguas del Caribe",
+      "subtitle": "La intercepción del buque se produce días después de que Trump ordenase impedir la entrada y salida del país de “petroleros sancionados” por EEUU",
+      "url": "https://www.eldiario.es/internacional/guardia-costera-eeuu-intercepta-segundo-petrolero-venezuela-aguas-caribe_1_12861601.html",
+      "scraped_at": "2025-12-21T06:45:01Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Coche combustión",
+      "subtitle": "A la estela de la ola antiecológica creada por la ultraderecha, las medidas hacia una movilidad que emita menos CO2 para proteger la salud y mitigar el cambio climático se resquebrajan",
       "url": "https://www.eldiario.es/sociedad/coche-combustion-contraataca-victorias-bruselas-madrid-zonas-bajas-emisiones_1_12857070.html",
-      "scraped_at": "2025-12-20T06:44:42Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia Provincial emula al juez Peinado para mantener viva la causa abierta contra Begoña Gómez",
-      "subtitle": "Tres magistrados sostienen que el hecho de que la asistente de la mujer del presidente sea amiga e inexperta en protocolo es “el primer indicio que sustenta el delito de malversación”",
-      "url": "https://www.eldiario.es/politica/audiencia-provincial-emula-juez-peinado-mantener-viva-causa-abierta-begona-gomez_129_12860314.html",
-      "scraped_at": "2025-12-20T06:44:43Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los socios del PSOE elevan el tono contra Sánchez sin dejarlo caer",
-      "subtitle": "Sánchez descarta la remodelación de Gobierno que exigió Yolanda Díaz y anuncia reuniones con socios como ERC",
-      "url": "https://www.eldiario.es/politica/socios-psoe-elevan-tono-sanchez-dejarlo-caer_1_12858716.html",
-      "scraped_at": "2025-12-20T06:44:44Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una sentencia que declara falsas autónomas a seis ginecólogas pone contra las cuerdas a la sanidad privada",
-      "subtitle": "La condena afecta al hospital de Pozuelo de Quirón, aunque varias fuentes señalan un aumento de las inspecciones de trabajo en el sector, donde es muy frecuente contratar a médicos como autónomos",
-      "url": "https://www.eldiario.es/economia/sentencia-declara-falsas-autonomas-seis-ginecologas-pone-cuerdas-sanidad-privada_1_12857105.html",
-      "scraped_at": "2025-12-20T06:44:45Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Voto por correo",
-      "subtitle": "El PP se inventa una conspiración en el voto por correo a cuenta de un robo en una oficina de Correos en un pueblo de Badajoz. \"Están robando nuestra democracia\", clama María Guardiola poco antes de que la Guardia Civil confirme que el único robo real fue el de 14.000 euros",
-      "url": "https://www.eldiario.es/politica/juego-sucio-pp-aranar-votos-extremadura_129_12856777.html",
-      "scraped_at": "2025-12-20T06:44:46Z"
+      "scraped_at": "2025-12-21T06:45:02Z"
     }
   ]
 }
