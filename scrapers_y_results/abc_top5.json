@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: España se queda fuera del debate europeo sobre la vuelta de la mili: La nueva dinámica de guerra y la «realidad geográfica» del país son algunas de las razones por las que la clase política y las Fuerzas Armadas rechazan su reimplantación; La 'smart people' reniega del sanchismo y se acerca a PP y Vox: Los 'cachorros' llamados a controlar el mundo empresarial a imagen y semejanza de Sánchez ya ven las orejas al lobo y coinciden en que este Gobierno es un gran desconocido para ellos. Cada uno a su manera, pero todos por igual, han empezado a hacer arrumacos a Feijóo y a Abascal alegando que ellos son grandes profesionales y que ha sido el sanchismo quien se ha aprovechado de su imagen; Guardiola busca la mayoría absoluta ante un previsible hundimiento del PSOE: Cerca de 900.000 extremeños están llamados a las urnas este domingo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-21T06:45:03Z",
+  "summary": "Resumen del día en ABC.es: HISTÓRICA VICTORIA DE LA DERECHA EN EXTREMADURA: María Guardiola mejora su resultado un escaño, pero se queda a cuatro de la mayoría absoluta; los de Santiago Abascal se disparan a once diputados; Feijóo no se libra de Vox: El PP no consigue reducir su dependencia del partido de Abascal, que además no da síntomas de tener techo a las puertas de un ciclo autonómico que aún debe continuar; Lejos de la puerta grande: La presidenta extremeña se vio capaz de cortar las dos orejas de Vox pero saltar al ruedo sin calibrar bien las embestidas del toro no asegura salir de la plaza a hombros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-22T06:50:04Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "España se queda fuera del debate europeo sobre la vuelta de la mili",
-      "subtitle": "La nueva dinámica de guerra y la «realidad geográfica» del país son algunas de las razones por las que la clase política y las Fuerzas Armadas rechazan su reimplantación",
-      "url": "https://www.abc.es/espana/obligatoria-voluntaria-espana-descarta-recuperar-mili-europa-20251221035314-nt.html",
-      "scraped_at": "2025-12-21T06:45:03Z"
+      "title": "HISTÓRICA VICTORIA DE LA DERECHA EN EXTREMADURA",
+      "subtitle": "María Guardiola mejora su resultado un escaño, pero se queda a cuatro de la mayoría absoluta; los de Santiago Abascal se disparan a once diputados",
+      "url": "https://www.abc.es/espana/extremadura/resultados-elecciones-extremadura-20251221140119-nt.html",
+      "scraped_at": "2025-12-22T06:50:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "La 'smart people' reniega del sanchismo y se acerca a PP y Vox",
-      "subtitle": "Los 'cachorros' llamados a controlar el mundo empresarial a imagen y semejanza de Sánchez ya ven las orejas al lobo y coinciden en que este Gobierno es un gran desconocido para ellos. Cada uno a su manera, pero todos por igual, han empezado a hacer arrumacos a Feijóo y a Abascal alegando que ellos son grandes profesionales y que ha sido el sanchismo quien se ha aprovechado de su imagen",
-      "url": "https://www.abc.es/economia/maria-jesus-perez-smart-people-reniega-sanchismo-acerca-pp-vox-20251221035649-nt.html",
-      "scraped_at": "2025-12-21T06:45:03Z"
+      "title": "Feijóo no se libra de Vox",
+      "subtitle": "El PP no consigue reducir su dependencia del partido de Abascal, que además no da síntomas de tener techo a las puertas de un ciclo autonómico que aún debe continuar",
+      "url": "https://www.abc.es/espana/extremadura/feijoopp-analisis-extremadura-20251221231035-nt.html",
+      "scraped_at": "2025-12-22T06:50:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Guardiola busca la mayoría absoluta ante un previsible hundimiento del PSOE",
-      "subtitle": "Cerca de 900.000 extremeños están llamados a las urnas este domingo",
-      "url": "https://www.abc.es/espana/extremadura/guia-basica-perderse-21d-extremadura-decide-futuro-20251220035909-nt.html",
-      "scraped_at": "2025-12-21T06:45:03Z"
+      "title": "Lejos de la puerta grande",
+      "subtitle": "La presidenta extremeña se vio capaz de cortar las dos orejas de Vox pero saltar al ruedo sin calibrar bien las embestidas del toro no asegura salir de la plaza a hombros",
+      "url": "https://www.abc.es/espana/extremadura/esperaba-puerta-grande-enfermeria-20251221232130-nt.html",
+      "scraped_at": "2025-12-22T06:50:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo afronta en Extremadura el arranque de un nuevo ciclo para vencer a Sánchez",
-      "subtitle": "Guardiola pelea por el escaño 33, el que le daría una mayoría absoluta que impulsaría definitivamente al líder del PP",
-      "url": "https://www.abc.es/espana/extremadura/feijoo-afronta-extremadura-arranque-nuevo-ciclo-vencer-20251221040018-nt.html",
-      "scraped_at": "2025-12-21T06:45:03Z"
+      "title": "Debacle del PSOE: Sánchez entrega otro bastión histórico",
+      "subtitle": "Gallardo hunde al partido a su suelo histórico con 18 escaños y menos del 26% de los votos",
+      "url": "https://www.abc.es/espana/extremadura/psoe-20251221224657-nt.html",
+      "scraped_at": "2025-12-22T06:50:04Z"
     },
     {
       "source": "ABC.es",
       "title": "Ganador Elecciones Extremadura",
-      "subtitle": "Este municipio extremeño suele servir de ejemplo para conocer el resultado general de la región",
-      "url": "https://www.abc.es/espana/extremadura/municipio-anticipa-ganador-elecciones-extremadura-pueblo-ohio-20251220225500-nt.html",
-      "scraped_at": "2025-12-21T06:45:03Z"
+      "subtitle": "Los sondeos para los comicios de este domingo 21 de diciembre en la región ya dejan un claro favorito",
+      "url": "https://www.abc.es/espana/extremadura/ganador-elecciones-extremadura-resultados-segun-encuestas-20251221050000-nt.html",
+      "scraped_at": "2025-12-22T06:50:04Z"
     }
   ]
 }
