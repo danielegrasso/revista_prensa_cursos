@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Castilla y León ha gastado más de 200.000 € en rampas para anfibios, y tiene sentido: La polémica por el arreglo de un abrevadero en León ha puesto bajo el foco un problema acuciante en el campo español: miles de animales mueren ahogados cada año al caer en construcciones humanas; Algo se mueve en Más Madrid: una corriente interna pide una candidatura sin Mónica García: Todos los focos apuntan al diputado Emilio Delgado, que ya se postuló hace meses para concurrir a las elecciones autonómicas. El sector crítico también reclama un cambio de rumbo en la dirección del partido; Alba Carrillo, contra sus 'haters' en TVE: \"Ya soy tan maleducada como ellos\": La colaboradora de Televisión Española alzó la voz en &#039;D Corazón&#039;, tras la reciente denuncia de Lolita: &quot;Conmigo se callan, porque soy más bruta que un arado&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-22T06:50:10Z",
+  "summary": "Resumen del día en El Confidencial: El exministro Sevilla lanza un manifiesto para construir una alternativa a Sánchez: El exministro de Zapatero reúne a una decena de caras conocidas que &quot;tire del carro&quot;,  canalice el descontento en el PSOE y sirva de base para ganar las primarias cuando el presidente del Gobierno salga de Moncloa; Horizontes 2026 | La corrupción progresista: El progresismo ha generado, precisamente por su adustez moralista, por su superioridad ética, una suerte de corrupción erosionante: la hipocresía, el desdoblamiento, la simulación; El anillo de hierro de Maduro: prebendas, espías y fieles para protegerse de un golpe interno: Analistas explican cómo un entramado institucional, seguridad fragmentada, redes clientelares y control económico e informativo sostienen al líder venezolano pese a sanciones, presión externa y ausencia de fracturas internas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-23T06:49:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Castilla y León ha gastado más de 200.000 € en rampas para anfibios, y tiene sentido",
-      "subtitle": "La polémica por el arreglo de un abrevadero en León ha puesto bajo el foco un problema acuciante en el campo español: miles de animales mueren ahogados cada año al caer en construcciones humanas",
-      "url": "https://www.elconfidencial.com/espana/2025-12-22/trampas-animales-campo-efectos-abrevadero_4268723/",
-      "scraped_at": "2025-12-22T06:50:08Z"
+      "title": "El exministro Sevilla lanza un manifiesto para construir una alternativa a Sánchez",
+      "subtitle": "El exministro de Zapatero reúne a una decena de caras conocidas que &quot;tire del carro&quot;,  canalice el descontento en el PSOE y sirva de base para ganar las primarias cuando el presidente del Gobierno salga de Moncloa",
+      "url": "https://www.elconfidencial.com/espana/2025-12-23/sucesion-sanchez-jordi-sevilla-manifiesto-alternativa_4273605/",
+      "scraped_at": "2025-12-23T06:49:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Algo se mueve en Más Madrid: una corriente interna pide una candidatura sin Mónica García",
-      "subtitle": "Todos los focos apuntan al diputado Emilio Delgado, que ya se postuló hace meses para concurrir a las elecciones autonómicas. El sector crítico también reclama un cambio de rumbo en la dirección del partido",
-      "url": "https://www.elconfidencial.com/espana/madrid/2025-12-22/algo-se-mueve-en-mas-madrid-una-corriente-interna-pide-una-candidatura-al-margen-de-monica-garcia_4269520/",
-      "scraped_at": "2025-12-22T06:50:09Z"
+      "title": "Horizontes 2026 | La corrupción progresista",
+      "subtitle": "El progresismo ha generado, precisamente por su adustez moralista, por su superioridad ética, una suerte de corrupción erosionante: la hipocresía, el desdoblamiento, la simulación",
+      "url": "https://www.elconfidencial.com/espana/2025-12-23/horizontes-2026-corrupcion-progresista-1hms_4266988/",
+      "scraped_at": "2025-12-23T06:49:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Alba Carrillo, contra sus 'haters' en TVE: \"Ya soy tan maleducada como ellos\"",
-      "subtitle": "La colaboradora de Televisión Española alzó la voz en &#039;D Corazón&#039;, tras la reciente denuncia de Lolita: &quot;Conmigo se callan, porque soy más bruta que un arado&quot;",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-20/alba-carrillo-tve-detractores-no-meten-conmigo-maleducada-ellos_4270660/",
-      "scraped_at": "2025-12-22T06:50:10Z"
+      "title": "El anillo de hierro de Maduro: prebendas, espías y fieles para protegerse de un golpe interno",
+      "subtitle": "Analistas explican cómo un entramado institucional, seguridad fragmentada, redes clientelares y control económico e informativo sostienen al líder venezolano pese a sanciones, presión externa y ausencia de fracturas internas",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-23/maduro-poder-seguridad-venezuela-corrupcion-1hms_4273464/",
+      "scraped_at": "2025-12-23T06:49:37Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Viaje interactivo a la mayor barrera antiinmigrantes de todo el mundo",
+      "subtitle": "La misma Unión Europea que abrió sus puertas durante la crisis de refugiados de 2015 se encuentra actualmente rodeada y atravesada por más de 2.000 kilómetros de vallas fronterizas. Estos son los costos y las dinámicas ocultas en las nuevas ‘borderlands’ europeas",
+      "url": "https://www.elconfidencial.com/mundo/2023-11-29/europa-muros-migratorios_3783210/",
+      "scraped_at": "2025-12-23T06:49:37Z"
     }
   ]
 }

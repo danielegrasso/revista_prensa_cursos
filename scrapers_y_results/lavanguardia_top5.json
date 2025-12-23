@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Guardiola no tendrá mayoría absoluta y dependerá de Vox mientras el PSOE se despeña: Extremadura consolida el giro a la derecha mientras la izquierda apenas supera el 40% de los votos; El PP ante la encrucijada de qué hacer con Vox: No le voy a quitar méritos a María Guardiola, al PP o a Alberto Núñez Feijóo, porque el resultado de las elecciones extremeñas de este domingo, no por esperado, es; Primer ‘caucus’: Vox captura al PP: En el luminoso pabellón del PP extremeño sigue una camiseta en lo más alto en la que se lee: año 2011, 307.975 votos, 32 escaños, casi el 47%, a 5.000 votos de la. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-22T06:50:07Z",
+  "summary": "Resumen del día en La Vanguardia: Feijóo y Abascal se lanzan avisos mutuos sobre el alcance de su alianza: Miguel Ángel Gallardo, el líder de los socialistas extremeños deja la secretaría general pero no su escaño en la Asamblea; ¿El miedo a Vox será clave?: La estrategia socialista para intentar revalidar la mayoría en España en el momento en que se convoquen las elecciones se sustenta en dos pilares fundamentales: el; Las sanguijuelas del Guadiana: El voto rural ha evitado una mayor derrota de los socialistas en Extremadura. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-23T06:49:33Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Guardiola no tendrá mayoría absoluta y dependerá de Vox mientras el PSOE se despeña",
-      "subtitle": "Extremadura consolida el giro a la derecha mientras la izquierda apenas supera el 40% de los votos",
-      "url": "https://www.lavanguardia.com/politica/20251222/11385247/guardiola-tendra-mayoria-absoluta-dependera-vox-psoe-despena.html",
-      "scraped_at": "2025-12-22T06:50:05Z"
+      "title": "Feijóo y Abascal se lanzan avisos mutuos sobre el alcance de su alianza",
+      "subtitle": "Miguel Ángel Gallardo, el líder de los socialistas extremeños deja la secretaría general pero no su escaño en la Asamblea",
+      "url": "https://www.lavanguardia.com/politica/20251223/11388641/abascal-fija-reglas-juego-bloque-conservador-encarece-condiciones-feijoo.html",
+      "scraped_at": "2025-12-23T06:49:32Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El PP ante la encrucijada de qué hacer con Vox",
-      "subtitle": "No le voy a quitar méritos a María Guardiola, al PP o a Alberto Núñez Feijóo, porque el resultado de las elecciones extremeñas de este domingo, no por esperado, es",
-      "url": "https://www.lavanguardia.com/politica/20251221/11385140/pp-encrucijada-que-vox.html",
-      "scraped_at": "2025-12-22T06:50:06Z"
+      "title": "¿El miedo a Vox será clave?",
+      "subtitle": "La estrategia socialista para intentar revalidar la mayoría en España en el momento en que se convoquen las elecciones se sustenta en dos pilares fundamentales: el",
+      "url": "https://www.lavanguardia.com/opinion/20251223/11388768/miedo-vox-sera-clave.html",
+      "scraped_at": "2025-12-23T06:49:32Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Primer ‘caucus’: Vox captura al PP",
-      "subtitle": "En el luminoso pabellón del PP extremeño sigue una camiseta en lo más alto en la que se lee: año 2011, 307.975 votos, 32 escaños, casi el 47%, a 5.000 votos de la",
-      "url": "https://www.lavanguardia.com/politica/20251222/11385154/primer-caucus-vox-captura-pp.html",
-      "scraped_at": "2025-12-22T06:50:06Z"
+      "title": "Las sanguijuelas del Guadiana",
+      "subtitle": "El voto rural ha evitado una mayor derrota de los socialistas en Extremadura",
+      "url": "https://www.lavanguardia.com/politica/20251223/11389105/sanguijuelas-guadiana.html",
+      "scraped_at": "2025-12-23T06:49:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Guardiola arrolla al PSOE en Extremadura, pero seguirá a expensas de Vox",
-      "subtitle": "La presidenta de la Junta suma un escaño más y queda a cuatro de la mayoría absoluta, por lo que su investidura está en manos de Abascal",
-      "url": "https://www.lavanguardia.com/politica/20251221/11385080/guardiola-arrolla-psoe-extremadura-seguira-expensas-vox.html",
-      "scraped_at": "2025-12-22T06:50:06Z"
+      "title": "Extremadura aviva las tensiones en la izquierda alternativa",
+      "subtitle": "IU y Podemos responsabilizan al PSOE del auge de las derechas, mientras crecen las dudas sobre Sumar como socio viable por su debilidad territorial",
+      "url": "https://www.lavanguardia.com/politica/20251222/11387384/izquierda-alternativa-celebra-resultado-extremadura-vuelve-fracturarse.html",
+      "scraped_at": "2025-12-23T06:49:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cultura|S",
-      "subtitle": "Últimas noticias, actualidad, participación, servicios, entretenimiento y última hora en Catalunya, España y el mundo - SEC LaVanguardia.com",
-      "url": "https://www.lavanguardia.com/cultura/culturas",
-      "scraped_at": "2025-12-22T06:50:07Z"
+      "title": "Trump choca de nuevo con Dinamarca por Groenlandia",
+      "subtitle": "El Gobierno de Dinamarca expresa su indignación y convoca al embajador de EE.UU.",
+      "url": "https://www.lavanguardia.com/internacional/20251222/11386573/trump-nombra-enviado-especial-groenlandia-promover-anexion-isla.html",
+      "scraped_at": "2025-12-23T06:49:33Z"
     }
   ]
 }

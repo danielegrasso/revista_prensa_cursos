@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: HISTÓRICA VICTORIA DE LA DERECHA EN EXTREMADURA: María Guardiola mejora su resultado un escaño, pero se queda a cuatro de la mayoría absoluta; los de Santiago Abascal se disparan a once diputados; Feijóo no se libra de Vox: El PP no consigue reducir su dependencia del partido de Abascal, que además no da síntomas de tener techo a las puertas de un ciclo autonómico que aún debe continuar; Lejos de la puerta grande: La presidenta extremeña se vio capaz de cortar las dos orejas de Vox pero saltar al ruedo sin calibrar bien las embestidas del toro no asegura salir de la plaza a hombros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-22T06:50:04Z",
+  "summary": "Resumen del día en ABC.es: El ascenso de Vox preocupa a los barones del PP que van a las urnas: El partido asume que las mayorías absolutas se complican tras el auge confirmado de Abascal y se ponen en guardia ante las próximas citas; Abascal prepara un 'via crucis' para volver a hacer presidenta a Guardiola: El líder de Vox advierte de que espera la llamada de la presidenta y planea condiciones muy duras; Génova advirtió a Guardiola del excesivo tono contra Abascal: Presidentes autonómicos y otros dirigentes tampoco vieron con buenos ojos que faltara al debate. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-23T06:49:31Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "HISTÓRICA VICTORIA DE LA DERECHA EN EXTREMADURA",
-      "subtitle": "María Guardiola mejora su resultado un escaño, pero se queda a cuatro de la mayoría absoluta; los de Santiago Abascal se disparan a once diputados",
-      "url": "https://www.abc.es/espana/extremadura/resultados-elecciones-extremadura-20251221140119-nt.html",
-      "scraped_at": "2025-12-22T06:50:03Z"
+      "title": "El ascenso de Vox preocupa a los barones del PP que van a las urnas",
+      "subtitle": "El partido asume que las mayorías absolutas se complican tras el auge confirmado de Abascal y se ponen en guardia ante las próximas citas",
+      "url": "https://www.abc.es/espana/barones-pp-encienden-alarmas-ante-crecimiento-vox-20251223041036-nt.html",
+      "scraped_at": "2025-12-23T06:49:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo no se libra de Vox",
-      "subtitle": "El PP no consigue reducir su dependencia del partido de Abascal, que además no da síntomas de tener techo a las puertas de un ciclo autonómico que aún debe continuar",
-      "url": "https://www.abc.es/espana/extremadura/feijoopp-analisis-extremadura-20251221231035-nt.html",
-      "scraped_at": "2025-12-22T06:50:03Z"
+      "title": "Abascal prepara un 'via crucis' para volver a hacer presidenta a Guardiola",
+      "subtitle": "El líder de Vox advierte de que espera la llamada de la presidenta y planea condiciones muy duras",
+      "url": "https://www.abc.es/espana/extremadura/abascal-prepara-via-crucis-volver-presidenta-guardiola-20251223041829-nt.html",
+      "scraped_at": "2025-12-23T06:49:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Lejos de la puerta grande",
-      "subtitle": "La presidenta extremeña se vio capaz de cortar las dos orejas de Vox pero saltar al ruedo sin calibrar bien las embestidas del toro no asegura salir de la plaza a hombros",
-      "url": "https://www.abc.es/espana/extremadura/esperaba-puerta-grande-enfermeria-20251221232130-nt.html",
-      "scraped_at": "2025-12-22T06:50:04Z"
+      "title": "Génova advirtió a Guardiola del excesivo tono contra Abascal",
+      "subtitle": "Presidentes autonómicos y otros dirigentes tampoco vieron con buenos ojos que faltara al debate",
+      "url": "https://www.abc.es/espana/extremadura/genova-advirtio-guardiola-excesivo-tono-abascal-20251223041211-nt.html",
+      "scraped_at": "2025-12-23T06:49:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Debacle del PSOE: Sánchez entrega otro bastión histórico",
-      "subtitle": "Gallardo hunde al partido a su suelo histórico con 18 escaños y menos del 26% de los votos",
-      "url": "https://www.abc.es/espana/extremadura/psoe-20251221224657-nt.html",
-      "scraped_at": "2025-12-22T06:50:04Z"
+      "title": "Crecen las voces en el PSOE que piden a Sánchez una reflexión para no arrastrar al partido",
+      "subtitle": "Preocupación en los territorios por el riesgo de entrar en una «espiral infernal» que sepulte sus expectativas: «No somos alternativa»",
+      "url": "https://www.abc.es/espana/crecen-voces-psoe-piden-sanchez-reflexion-arrastrar-20251222041333-nt.html",
+      "scraped_at": "2025-12-23T06:49:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ganador Elecciones Extremadura",
-      "subtitle": "Los sondeos para los comicios de este domingo 21 de diciembre en la región ya dejan un claro favorito",
-      "url": "https://www.abc.es/espana/extremadura/ganador-elecciones-extremadura-resultados-segun-encuestas-20251221050000-nt.html",
-      "scraped_at": "2025-12-22T06:50:04Z"
+      "title": "Miguel Ángel Gallardo",
+      "subtitle": "El hasta ahora líder de los socialistas en Extremadura dice adiós tras el batacazo electoral y deja el partido en manos de una gestora",
+      "url": "https://www.abc.es/espana/extremadura/gallardo-dimite-20251222174426-nt.html",
+      "scraped_at": "2025-12-23T06:49:31Z"
     }
   ]
 }
