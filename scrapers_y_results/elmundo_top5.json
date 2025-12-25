@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Los críticos del PSOE se mueven tras la debacle extremeña: \"Los avisperos empiezan a agitarse en todas partes\": Jordi Sevilla busca referentes territoriales para arropar a los jóvenes que quieren otra vía. Las listas en Aragón, Castilla y León y Andalucía agitarán las aguas; Guardiola chocó con Génova en la campaña por su deseo de ser una \"marca autónoma\": La dirección del PP y la baronesa extremeña nunca han terminado de encajar: ella no ocultó en privado su malestar y la cúpula le afea errores no forzados; Moncloa se anticipa ya a otra posible caída en más CCAA: \"No se pueden usar unas autonómicas para desgastar al Gobierno\": El Gobierno busca inflar una burbuja que los mantenga aislados de los posibles malos resultados y tira de agenda social. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-12-24T06:49:17Z",
+  "summary": "Resumen del día en El Mundo: Felipe VI apela a la \"confianza\", la \"convivencia\" y a la \"voluntad de país\" como solución para que España progrese: \"Somos un gran país\": El Rey recuerda el modelo de la Transición en un contundente mensaje de Navidad grabado en el salón de Columnas del Palacio Real; Un misterio del siglo XVIII, 5 fotografías y 8 frases clave: secretos del mensaje de Navidad: El Salón de Columnas del Palacio Real, referente de diversos acontecimientos históricos, fue el lugar elegido para grabar un mensaje de Navidad con nuevos efectos que aportaron...; Quién tendrá el coraje para empujar a la convivencia a la que apela el Rey; no sobran los audaces en nuestra clase política actual: Felipe VI alerta rotundo contra la desafección por la «tensión en el debate público», pero extraña que orillara la corrupción y evitara un sutil mensajito a su padre, tan esperado por tantos ciudadanos. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2025-12-25T06:48:02Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Los críticos del PSOE se mueven tras la debacle extremeña: \"Los avisperos empiezan a agitarse en todas partes\"",
+      "title": "Felipe VI apela a la \"confianza\", la \"convivencia\" y a la \"voluntad de país\" como solución para que España progrese: \"Somos un gran país\"",
+      "subtitle": "El Rey recuerda el modelo de la Transición en un contundente mensaje de Navidad grabado en el salón de Columnas del Palacio Real",
+      "url": "https://www.elmundo.es/espana/2025/12/24/694c0463e4d4d8eb568b45b5.html",
+      "scraped_at": "2025-12-25T06:48:01Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Un misterio del siglo XVIII, 5 fotografías y 8 frases clave: secretos del mensaje de Navidad",
+      "subtitle": "El Salón de Columnas del Palacio Real, referente de diversos acontecimientos históricos, fue el lugar elegido para grabar un mensaje de Navidad con nuevos efectos que aportaron...",
+      "url": "https://www.elmundo.es/espana/2025/12/24/694bf1e021efa09e368b4575.html",
+      "scraped_at": "2025-12-25T06:48:01Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Quién tendrá el coraje para empujar a la convivencia a la que apela el Rey; no sobran los audaces en nuestra clase política actual",
+      "subtitle": "Felipe VI alerta rotundo contra la desafección por la «tensión en el debate público», pero extraña que orillara la corrupción y evitara un sutil mensajito a su padre, tan esperado por tantos ciudadanos",
+      "url": "https://www.elmundo.es/espana/2025/12/24/694c149efc6c83041d8b457b.html",
+      "scraped_at": "2025-12-25T06:48:02Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Ferraz coloca al delegado del Gobierno, íntimo amigo de Pedro Sánchez, al frente de la gestora en Extremadura",
+      "subtitle": "Liderará las conversaciones de investidura con Guardiola y coordinará el proceso de Primarias para reemplazar a Gallardo",
+      "url": "https://www.elmundo.es/espana/extremadura/2025/12/24/694c342ffdddff2b5c8b45af.html",
+      "scraped_at": "2025-12-25T06:48:02Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Críticos del PSOE",
       "subtitle": "Jordi Sevilla busca referentes territoriales para arropar a los jóvenes que quieren otra vía. Las listas en Aragón, Castilla y León y Andalucía agitarán las aguas",
       "url": "https://www.elmundo.es/espana/2025/12/23/694ad90be9cf4ac16f8b4576.html",
-      "scraped_at": "2025-12-24T06:49:16Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Guardiola chocó con Génova en la campaña por su deseo de ser una \"marca autónoma\"",
-      "subtitle": "La dirección del PP y la baronesa extremeña nunca han terminado de encajar: ella no ocultó en privado su malestar y la cúpula le afea errores no forzados",
-      "url": "https://www.elmundo.es/espana/2025/12/23/694ad8bfe9cf4ac3278b4598.html",
-      "scraped_at": "2025-12-24T06:49:16Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Moncloa se anticipa ya a otra posible caída en más CCAA: \"No se pueden usar unas autonómicas para desgastar al Gobierno\"",
-      "subtitle": "El Gobierno busca inflar una burbuja que los mantenga aislados de los posibles malos resultados y tira de agenda social",
-      "url": "https://www.elmundo.es/espana/2025/12/23/694ad94efc6c8318568b4580.html",
-      "scraped_at": "2025-12-24T06:49:17Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "PP y Vox se entienden en los ayuntamientos y salvan pactos en Sevilla y Valencia mientras sigue la pugna autonómica",
-      "subtitle": "La alcaldesa de Valencia y el de Sevilla aceptan las exigencias del partido de Abascal sobre la ZBE",
-      "url": "https://www.elmundo.es/andalucia/2025/12/23/694ae526fc6c83c7058b458c.html",
-      "scraped_at": "2025-12-24T06:49:17Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Milagros Tolón",
-      "subtitle": "Las escuelas católicas de Toledo donde Milagros Tolón y sus hijos fueron alumnos piden que cuide a este modelo educativo",
-      "url": "https://www.elmundo.es/espana/2025/12/23/694af051fc6c83717c8b4589.html",
-      "scraped_at": "2025-12-24T06:49:17Z"
+      "scraped_at": "2025-12-25T06:48:02Z"
     }
   ]
 }
