@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Rey avisa del auge de los extremismos y el hastío ciudadano: Felipe VI reconoce que el debate público provoca hastío en la ciudadanía; Kyiv, sin cuento de Navidad: En la Nochebuena de 1914, en la guerra de trincheras de la Primera Guerra Mundial que se libraba en los frentes de Bélgica y Francia, ocurrió un pequeño milagro.; El Ibex encara el final del año como el índice más alcista entre los grandes: El selectivo duplica el repunte de EE.UU., asentado por encima de los 17.000 puntos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-25T06:48:12Z",
+  "summary": "Resumen del día en La Vanguardia: Trump anuncia un ataque “poderoso y mortal” de EE.UU. contra el Estado Islámico en Nigeria: Los bombardeos fueron en el noroeste del país africano contra los que “masacran cristianos inocentes”; Excarcelados 71 detenidos en Venezuela tras las elecciones del 2024: Las detenciones tuvieron lugar durante las protestas por las elecciones presidenciales; Madrid redibuja sus lealtades de clase en busca del voto obrero: PP y Vox libran una pugna cada vez más agria en la Asamblea por el voto obrero del cinturón rojo de la capital. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-26T06:47:53Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Rey avisa del auge de los extremismos y el hastío ciudadano",
-      "subtitle": "Felipe VI reconoce que el debate público provoca hastío en la ciudadanía",
-      "url": "https://www.lavanguardia.com/politica/20251224/11393197/rey-mensaje-navidad-2025transicion-alertar-riesgos-extremismos.html",
-      "scraped_at": "2025-12-25T06:48:11Z"
+      "title": "Trump anuncia un ataque “poderoso y mortal” de EE.UU. contra el Estado Islámico en Nigeria",
+      "subtitle": "Los bombardeos fueron en el noroeste del país africano contra los que “masacran cristianos inocentes”",
+      "url": "https://www.lavanguardia.com/internacional/20251226/11394525/trump-anuncia-ataque-ee-uu-poderoso-mortal-islamico-nigeria.html",
+      "scraped_at": "2025-12-26T06:47:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Kyiv, sin cuento de Navidad",
-      "subtitle": "En la Nochebuena de 1914, en la guerra de trincheras de la Primera Guerra Mundial que se libraba en los frentes de Bélgica y Francia, ocurrió un pequeño milagro.",
-      "url": "https://www.lavanguardia.com/opinion/20251225/11393405/kyiv-cuento-navidad.html",
-      "scraped_at": "2025-12-25T06:48:11Z"
+      "title": "Excarcelados 71 detenidos en Venezuela tras las elecciones del 2024",
+      "subtitle": "Las detenciones tuvieron lugar durante las protestas por las elecciones presidenciales",
+      "url": "https://www.lavanguardia.com/internacional/20251225/11394416/confirman-excarcelacion-71-detenidos-venezuela-elecciones-2024.html",
+      "scraped_at": "2025-12-26T06:47:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Ibex encara el final del año como el índice más alcista entre los grandes",
-      "subtitle": "El selectivo duplica el repunte de EE.UU., asentado por encima de los 17.000 puntos",
-      "url": "https://www.lavanguardia.com/economia/20251225/11393039/ibex-35-bolsa-espana-rendimiento-rentabilidad.html",
-      "scraped_at": "2025-12-25T06:48:11Z"
+      "title": "Madrid redibuja sus lealtades de clase en busca del voto obrero",
+      "subtitle": "PP y Vox libran una pugna cada vez más agria en la Asamblea por el voto obrero del cinturón rojo de la capital",
+      "url": "https://www.lavanguardia.com/politica/20251226/11392807/madrid-redibuja-lealtades-clase.html",
+      "scraped_at": "2025-12-26T06:47:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cómo abrir vías de salida a la crisis de Badalona",
-      "subtitle": "Presidència y Drets Socials, el arzobispo, la Sindicatura de Greuges, los grupos de apoyo a los inmigrantes y entidades sociales y humanitarias, actores de la",
-      "url": "https://www.lavanguardia.com/local/barcelona/20251225/11393234/como-abrir-salidas-crisis.html",
-      "scraped_at": "2025-12-25T06:48:12Z"
+      "title": "El oro marca otro récord histórico ante la incertidumbre geopolítica",
+      "subtitle": "La plata apunta a cerrar el año 2025 con un alza del 150%",
+      "url": "https://www.lavanguardia.com/economia/20251226/11393207/oro-marca-record-historico-incertidumbre-geopolitica.html",
+      "scraped_at": "2025-12-26T06:47:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Matt Goulding: “Los superchefs querían más protagonismo, olvidando a sus equipos”",
-      "subtitle": "El exitoso escritor, periodista y productor californiano afincado en Barcelona protagoniza el nuevo episodio del podcast 'Quédate a comer'",
-      "url": "https://www.lavanguardia.com/comer/al-dia/20251216/11358693/matt-goulding-superchefs-querian-mas-protagonismo-dimos-olvidando-equipos-podcast-quedate-a-comer.html",
-      "scraped_at": "2025-12-25T06:48:12Z"
+      "title": "Maravillas de los incas en Perú, más allá de Machu Picchu",
+      "subtitle": "Cuzco y el Valle Sagrado ofrecen tesoros todavía desconocidos por al turismo masivo",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20251226/11386500/maravillas-incas-peru-mas-alla-machu-picchu.html",
+      "scraped_at": "2025-12-26T06:47:53Z"
     }
   ]
 }

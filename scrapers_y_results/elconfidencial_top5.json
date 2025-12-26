@@ -1,21 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Génova confía en lograr un pacto con Vox y supervisará la negociación de Guardiola: Dirigentes nacionales y territoriales piden llegar a un entendimiento con los de Abascal y no tender la mano al PSOE porque &quot;Extremadura ha votado un Gobierno de derechas&quot;. El desenlace repercutirá en el resto del ciclo electoral; Desmontando el Benidorm Fest sin Eurovisión: así queda el programa de TVE: El Confi TV ha podido hablar con el director del Benidorm Fest, César Vallejo, para descubrir cómo el histórico abandono de Eurovisión ha podido afectar al concurso alicantino. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-25T06:48:14Z",
+  "summary": "Resumen del día en El Confidencial: IU, Más Madrid, los comunes y Sumar cierran el acuerdo madre para construir una nueva izquierda: Desde hace semanas un &quot;grupo de trabajo&quot; desarrolla este nuevo proyecto electoral. Se presentará en &quot;enero o febrero&quot;. Dan el primer paso para reorganizar el espacio progresista; La construcción vuelve a ver la luz y se acerca a niveles de hace 15 años: La construcción acelera y ya es el componente que más crece de la demanda nacional, por encima de los servicios. Ahora bien, la actividad con mayor dinamismo es la obra civil, por encima de la construcción de viviendas; Hacienda persigue a los 'youtubers' Vegetta y Willyrex y les exige casi tres millones: Su nuevo equipo de abogados lleva el caso ante la Audiencia Nacional al entender que se les penaliza de forma injusta por utilizar una agencia española aunque su residencia fiscal esté en el Principado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-26T06:47:56Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Génova confía en lograr un pacto con Vox y supervisará la negociación de Guardiola",
-      "subtitle": "Dirigentes nacionales y territoriales piden llegar a un entendimiento con los de Abascal y no tender la mano al PSOE porque &quot;Extremadura ha votado un Gobierno de derechas&quot;. El desenlace repercutirá en el resto del ciclo electoral",
-      "url": "https://www.elconfidencial.com/espana/2025-12-25/genova-supervisara-negociacion-guardiola-vox-acuerdo_4274238/",
-      "scraped_at": "2025-12-25T06:48:13Z"
+      "title": "IU, Más Madrid, los comunes y Sumar cierran el acuerdo madre para construir una nueva izquierda",
+      "subtitle": "Desde hace semanas un &quot;grupo de trabajo&quot; desarrolla este nuevo proyecto electoral. Se presentará en &quot;enero o febrero&quot;. Dan el primer paso para reorganizar el espacio progresista",
+      "url": "https://www.elconfidencial.com/espana/2025-12-26/iu-mas-madrid-comunes-sumar-acuerdo-nueva-izquierda_4274720/",
+      "scraped_at": "2025-12-26T06:47:55Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Desmontando el Benidorm Fest sin Eurovisión: así queda el programa de TVE",
-      "subtitle": "El Confi TV ha podido hablar con el director del Benidorm Fest, César Vallejo, para descubrir cómo el histórico abandono de Eurovisión ha podido afectar al concurso alicantino",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-24/eurovision-benidorm-fest-tve-concurso-desmontando_4273428/",
-      "scraped_at": "2025-12-25T06:48:14Z"
+      "title": "La construcción vuelve a ver la luz y se acerca a niveles de hace 15 años",
+      "subtitle": "La construcción acelera y ya es el componente que más crece de la demanda nacional, por encima de los servicios. Ahora bien, la actividad con mayor dinamismo es la obra civil, por encima de la construcción de viviendas",
+      "url": "https://www.elconfidencial.com/economia/2025-12-26/construccion-vivienda-empleo-crecimiento_4274690/",
+      "scraped_at": "2025-12-26T06:47:55Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Hacienda persigue a los 'youtubers' Vegetta y Willyrex y les exige casi tres millones",
+      "subtitle": "Su nuevo equipo de abogados lleva el caso ante la Audiencia Nacional al entender que se les penaliza de forma injusta por utilizar una agencia española aunque su residencia fiscal esté en el Principado",
+      "url": "https://www.elconfidencial.com/espana/2025-12-26/hacienda-vegetta-willyrex-deuda-millonaria-andorra_4262657/",
+      "scraped_at": "2025-12-26T06:47:55Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El portal más curioso: ¿Cómo ha llegado un fotomatón hasta aquí?",
+      "subtitle": "Desde hace años, esa entrada no da a ninguna vivienda, sino que en ella yace un fotomatón.&quot;Al menos así no está sucio o lleno de basura, que es lo que suele pasar en los lugares abandonados&quot;, reflexiona una vecina",
+      "url": "https://www.elconfidencial.com/espana/madrid/2025-12-26/este-es-el-portal-mas-curioso-de-madrid-como-ha-llegado-un-fotomaton-hasta-aqui_4269909/",
+      "scraped_at": "2025-12-26T06:47:56Z"
     }
   ]
 }
