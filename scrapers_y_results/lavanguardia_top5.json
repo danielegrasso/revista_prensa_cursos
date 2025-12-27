@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump anuncia un ataque “poderoso y mortal” de EE.UU. contra el Estado Islámico en Nigeria: Los bombardeos fueron en el noroeste del país africano contra los que “masacran cristianos inocentes”; Excarcelados 71 detenidos en Venezuela tras las elecciones del 2024: Las detenciones tuvieron lugar durante las protestas por las elecciones presidenciales; Madrid redibuja sus lealtades de clase en busca del voto obrero: PP y Vox libran una pugna cada vez más agria en la Asamblea por el voto obrero del cinturón rojo de la capital. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-26T06:47:53Z",
+  "summary": "Resumen del día en La Vanguardia: El Tribunal Supremo fuerza al Gobierno a acoger a todos los menores que soliciten asilo: Las comunidades del PP, en contra del reparto, podrán seguir los pasos de Madrid; El calentamiento desinfla la burbuja inmobiliaria en parte de España: En Andalucía, Extremadura o Murcia, la casa pierde valor o el seguro se dispara; Trump lanza su cruzada: El presidente recurre al argumento de impedir masacres de cristianos en Nigeria para justificar el ataque “poderoso y mortal” contra Estado Islámico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-27T06:46:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump anuncia un ataque “poderoso y mortal” de EE.UU. contra el Estado Islámico en Nigeria",
-      "subtitle": "Los bombardeos fueron en el noroeste del país africano contra los que “masacran cristianos inocentes”",
-      "url": "https://www.lavanguardia.com/internacional/20251226/11394525/trump-anuncia-ataque-ee-uu-poderoso-mortal-islamico-nigeria.html",
-      "scraped_at": "2025-12-26T06:47:52Z"
+      "title": "El Tribunal Supremo fuerza al Gobierno a acoger a todos los menores que soliciten asilo",
+      "subtitle": "Las comunidades del PP, en contra del reparto, podrán seguir los pasos de Madrid",
+      "url": "https://www.lavanguardia.com/politica/20251227/11396074/ts-forzara-gobierno-acoger-todos-menores-soliciten-asilo.html",
+      "scraped_at": "2025-12-27T06:46:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Excarcelados 71 detenidos en Venezuela tras las elecciones del 2024",
-      "subtitle": "Las detenciones tuvieron lugar durante las protestas por las elecciones presidenciales",
-      "url": "https://www.lavanguardia.com/internacional/20251225/11394416/confirman-excarcelacion-71-detenidos-venezuela-elecciones-2024.html",
-      "scraped_at": "2025-12-26T06:47:52Z"
+      "title": "El calentamiento desinfla la burbuja inmobiliaria en parte de España",
+      "subtitle": "En Andalucía, Extremadura o Murcia, la casa pierde valor o el seguro se dispara",
+      "url": "https://www.lavanguardia.com/natural/20251227/11395939/calentamiento-desinfla-burbuja-inmobiliaria-parte-espana.html",
+      "scraped_at": "2025-12-27T06:46:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Madrid redibuja sus lealtades de clase en busca del voto obrero",
-      "subtitle": "PP y Vox libran una pugna cada vez más agria en la Asamblea por el voto obrero del cinturón rojo de la capital",
-      "url": "https://www.lavanguardia.com/politica/20251226/11392807/madrid-redibuja-lealtades-clase.html",
-      "scraped_at": "2025-12-26T06:47:53Z"
+      "title": "Trump lanza su cruzada",
+      "subtitle": "El presidente recurre al argumento de impedir masacres de cristianos en Nigeria para justificar el ataque “poderoso y mortal” contra Estado Islámico",
+      "url": "https://www.lavanguardia.com/internacional/20251227/11396006/trump-lanza-cruzada-africa.html",
+      "scraped_at": "2025-12-27T06:46:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El oro marca otro récord histórico ante la incertidumbre geopolítica",
-      "subtitle": "La plata apunta a cerrar el año 2025 con un alza del 150%",
-      "url": "https://www.lavanguardia.com/economia/20251226/11393207/oro-marca-record-historico-incertidumbre-geopolitica.html",
-      "scraped_at": "2025-12-26T06:47:53Z"
+      "title": "Cristianos, Trump y Epstein",
+      "subtitle": "Donald Trump no necesita inventarse una guerra inexistente para desviar la atención, como hizo un presidente norteamericano de ficción en la popular película La",
+      "url": "https://www.lavanguardia.com/opinion/20251227/11396152/cristianos-trump-epstein.html",
+      "scraped_at": "2025-12-27T06:46:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Maravillas de los incas en Perú, más allá de Machu Picchu",
-      "subtitle": "Cuzco y el Valle Sagrado ofrecen tesoros todavía desconocidos por al turismo masivo",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20251226/11386500/maravillas-incas-peru-mas-alla-machu-picchu.html",
-      "scraped_at": "2025-12-26T06:47:53Z"
+      "title": "Cuarenta años en Europa",
+      "subtitle": "El próximo 1 de enero se cumplirán 40 años desde que España se adhirió a la Comunidad Económica Europea (CEE); uno de los acontecimientos más relevantes de nuestra",
+      "url": "https://www.lavanguardia.com/economia/20251227/11396141/cuarenta-anos-europa.html",
+      "scraped_at": "2025-12-27T06:46:08Z"
     }
   ]
 }

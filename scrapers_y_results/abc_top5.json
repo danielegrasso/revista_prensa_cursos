@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez activa la 'acción exterior' de Cataluña y País Vasco para contentar a los socios: Moncloa promueve que estas regiones se 'independicen' de la representación estatal en organismos como la Unesco y la OMT; Alegría incendia el PSOE de Aragón con un blindaje en las listas ante la posible debacle: La candidata socialista sitúa a la líder en Zaragoza de número tres para responsabilizarla del resultado en un territorio difícil y descartarla ante una eventual sucesión; La caza del jabalí libre de enfermedad: «Es el cuidado del campo, no el exterminio»: La sociedad de cazadores de Valdemaqueda realiza una montería a las puertas de Navidad: 75 tiradores se dan cita para continuar con esta tradición. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-26T06:47:50Z",
+  "summary": "Resumen del día en ABC.es: Sánchez se prepara para llevar a Bruselas su estrategia de confrontación: Quiere trasladar a Europa el debate político español para poner al Partido Popular en una situación lo más incómoda posible; El presidente del Gobierno cree que sus socios no le dejarán caer: «Nadie quiere ser el responsable de que gobierne Feijóo»: Moncloa trata de aplacar el malestar de sus aliados con medidas de corte social y cumpliendo compromisos pendientes; La canción del verano ha muerto, larga vida a la canción de Navidad: Los hits de la temporada de invierno cada vez le roban más viralidad y cuota de mercado a los temas chiringuiteros, ¿qué hay detrás de este cambio de tendencia?. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-27T06:46:05Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez activa la 'acción exterior' de Cataluña y País Vasco para contentar a los socios",
+      "title": "Sánchez se prepara para llevar a Bruselas su estrategia de confrontación",
+      "subtitle": "Quiere trasladar a Europa el debate político español para poner al Partido Popular en una situación lo más incómoda posible",
+      "url": "https://www.abc.es/espana/sanchez-prepara-llevar-bruselas-estrategia-confrontacion-20251227040118-nt.html",
+      "scraped_at": "2025-12-27T06:46:04Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "El presidente del Gobierno cree que sus socios no le dejarán caer: «Nadie quiere ser el responsable de que gobierne Feijóo»",
+      "subtitle": "Moncloa trata de aplacar el malestar de sus aliados con medidas de corte social y cumpliendo compromisos pendientes",
+      "url": "https://www.abc.es/espana/sanchez-cree-socios-dejaran-caer-quiere-responsable-20251227040221-nt.html",
+      "scraped_at": "2025-12-27T06:46:05Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "La canción del verano ha muerto, larga vida a la canción de Navidad",
+      "subtitle": "Los hits de la temporada de invierno cada vez le roban más viralidad y cuota de mercado a los temas chiringuiteros, ¿qué hay detrás de este cambio de tendencia?",
+      "url": "https://www.abc.es/cultura/musica/cancion-verano-muerto-larga-vida-cancion-navidad-20251227040430-nt.html",
+      "scraped_at": "2025-12-27T06:46:05Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Carlos Cuerpo, encargado de frenar la ofensiva de Yolanda Díaz en este fin de legislatura",
+      "subtitle": "El ministro de Economía matiza las iniciativas de Trabajo o las controla antes de que pasen por el Consejo de Ministros",
+      "url": "https://www.abc.es/economia/carlos-cuerpo-encargado-frenar-ofensiva-yolanda-diaz-20251221040449-nt.html",
+      "scraped_at": "2025-12-27T06:46:05Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Cataluña y País Vasco",
       "subtitle": "Moncloa promueve que estas regiones se 'independicen' de la representación estatal en organismos como la Unesco y la OMT",
       "url": "https://www.abc.es/espana/reconocimiento-pais-vasco-cataluna-unesco-desvela-estrategia-20251226040438-nt.html",
-      "scraped_at": "2025-12-26T06:47:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Alegría incendia el PSOE de Aragón con un blindaje en las listas ante la posible debacle",
-      "subtitle": "La candidata socialista sitúa a la líder en Zaragoza de número tres para responsabilizarla del resultado en un territorio difícil y descartarla ante una eventual sucesión",
-      "url": "https://www.abc.es/espana/aragon/pilar-alegria-incendia-psoe-aragon-cierre-organico-20251226040451-nt.html",
-      "scraped_at": "2025-12-26T06:47:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "La caza del jabalí libre de enfermedad: «Es el cuidado del campo, no el exterminio»",
-      "subtitle": "La sociedad de cazadores de Valdemaqueda realiza una montería a las puertas de Navidad: 75 tiradores se dan cita para continuar con esta tradición",
-      "url": "https://www.abc.es/sociedad/caza-jabali-libre-enfermedad-cuidado-campo-exterminio-20251226033828-nt.html",
-      "scraped_at": "2025-12-26T06:47:49Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Reinar en tiempos de discordia",
-      "subtitle": "Hilvanado por el sentido común y la sensibilidad hacia las brechas que se abren en la nación, el mensaje de Felipe VI cobra sentido en un escenario reactivo a toda llamada al consenso",
-      "url": "https://www.abc.es/opinion/editorial-reinar-tiempos-discordia-20251225205223-nt.html",
-      "scraped_at": "2025-12-26T06:47:50Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Almudena Cid hospital",
-      "subtitle": "La exgimnasta española explica que se ha tenido que someter a una operación quirúrgica para poner fin a una lesión de cadera que arrastra desde 2023",
-      "url": "https://www.abc.es/gente/mensaje-almudena-cid-hospital-vida-obligado-parar-20251225140227-nt.html",
-      "scraped_at": "2025-12-26T06:47:50Z"
+      "scraped_at": "2025-12-27T06:46:05Z"
     }
   ]
 }
