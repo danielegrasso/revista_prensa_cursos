@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Gobierno aprueba 19.000 M de gasto para 2026 sin pasar por el Congreso: El Ejecutivo se encuentra cómodo sin presupuestos: consigue aprobar gastos que el Parlamento rechazaría (como los de Defensa) con la opacidad discrecional que permiten las referencias del Consejo de Ministros; El regreso de la religión: jóvenes, clases altas y mujeres que votan a Pedro Sánchez: Hay tres elementos que señalan que la religión está de vuelta: su crecimiento internacional, la pujanza cultural católica y la implantación creciente de los evangélicos; Boicotean al teatro que criticó el catalán: obligado a cerrar y a devolver las subvenciones: La compañía anuncia su final tras meses de persecución y ahogada por las deudas. El sketch, representado el pasado verano, desencadenó una oleada de críticas, incluidos dirigentes de la Generalitat. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-27T06:46:10Z",
+  "summary": "Resumen del día en El Confidencial: Seísmo en el voto de las mujeres: dejan a Sánchez y Díaz y se hacen de derechas: El PSOE y Sumar bajan y el PP ya es primera fuerza, pero el único partido que sube es Vox. Una de cada tres mujeres que dieron su apoyo a los socialistas en 2023 se declaran indecisas, según varios estudios demoscópicos; Horizontes 2026 | Mambo electoral: de lo fijo a lo probable: La ruptura del empate entre la derecha y la izquierda a favor de la primera es el factor más determinante de nuestra realidad electoral en este período (como en toda Europa), y no se atisba nada capaz de invertir esa tendencia; El retorno de la fe, desde dentro de la Iglesia: qué opinan obispos, sacerdotes y religiosas: Católicos de toda la vida que han visto el fenómeno en sus parroquias lo analizan desde la cautela y advierten ante la posibilidad de que se reduzca a una moda pasajera. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-28T06:46:19Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Gobierno aprueba 19.000 M de gasto para 2026 sin pasar por el Congreso",
-      "subtitle": "El Ejecutivo se encuentra cómodo sin presupuestos: consigue aprobar gastos que el Parlamento rechazaría (como los de Defensa) con la opacidad discrecional que permiten las referencias del Consejo de Ministros",
-      "url": "https://www.elconfidencial.com/economia/2025-12-27/gobierno-comprometido-mas-de-18-000-millones-gasto_4265509/",
-      "scraped_at": "2025-12-27T06:46:09Z"
+      "title": "Seísmo en el voto de las mujeres: dejan a Sánchez y Díaz y se hacen de derechas",
+      "subtitle": "El PSOE y Sumar bajan y el PP ya es primera fuerza, pero el único partido que sube es Vox. Una de cada tres mujeres que dieron su apoyo a los socialistas en 2023 se declaran indecisas, según varios estudios demoscópicos",
+      "url": "https://www.elconfidencial.com/espana/2025-12-28/voto-femenino-psoe-sanchez-mujeres-derechas_4275143/",
+      "scraped_at": "2025-12-28T06:46:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El regreso de la religión: jóvenes, clases altas y mujeres que votan a Pedro Sánchez",
-      "subtitle": "Hay tres elementos que señalan que la religión está de vuelta: su crecimiento internacional, la pujanza cultural católica y la implantación creciente de los evangélicos",
-      "url": "https://www.elconfidencial.com/espana/2025-12-27/regreso-religion-jovenes-mujeres-clases-medias_4270702/",
-      "scraped_at": "2025-12-27T06:46:09Z"
+      "title": "Horizontes 2026 | Mambo electoral: de lo fijo a lo probable",
+      "subtitle": "La ruptura del empate entre la derecha y la izquierda a favor de la primera es el factor más determinante de nuestra realidad electoral en este período (como en toda Europa), y no se atisba nada capaz de invertir esa tendencia",
+      "url": "https://www.elconfidencial.com/espana/2025-12-28/mambo-electoral-ano-nuevo-espana-comunidades_4273925/",
+      "scraped_at": "2025-12-28T06:46:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Boicotean al teatro que criticó el catalán: obligado a cerrar y a devolver las subvenciones",
-      "subtitle": "La compañía anuncia su final tras meses de persecución y ahogada por las deudas. El sketch, representado el pasado verano, desencadenó una oleada de críticas, incluidos dirigentes de la Generalitat",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-12-27/boicot-al-teatro-que-critico-el-catalan-obligado-a-cerrar-y-devolver-subvenciones_4275092/",
-      "scraped_at": "2025-12-27T06:46:10Z"
+      "title": "El retorno de la fe, desde dentro de la Iglesia: qué opinan obispos, sacerdotes y religiosas",
+      "subtitle": "Católicos de toda la vida que han visto el fenómeno en sus parroquias lo analizan desde la cautela y advierten ante la posibilidad de que se reduzca a una moda pasajera",
+      "url": "https://www.elconfidencial.com/espana/2025-12-28/que-piensan-catolicos-siempre-retorno-religion_4269110/",
+      "scraped_at": "2025-12-28T06:46:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Golpe a los medios anti-Meloni: \"Nuestra historia no se vende\"",
-      "subtitle": "La posible venta de &#039;La Repubblica&#039; y &#039;La Stampa&#039;, los dos principales periódicos de oposición al Gobierno, ha provocado un terremoto político y social en Italia",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-27/agnelli-elkann-gedi-venta-italia-1hms_4274943/",
-      "scraped_at": "2025-12-27T06:46:10Z"
+      "title": "Los \"agentes del caos\" de Moscú intentan desestabilizar Kosovo a través de Telegram",
+      "subtitle": "Las campañas de desinformación orquestadas desde el extranjero sacuden a las instituciones y a la sociedad civil kosovar en medio de la mayor crisis política del país desde su independencia",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-28/desinformacion-kosovo-serbia-rusia-elecciones-1hms_4275039/",
+      "scraped_at": "2025-12-28T06:46:19Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Fernando Martín",
+      "subtitle": "Los desaparecidos son Fernando Martín, entrenador del Valencia CF Femenino, y tres de sus hijos. Su mujer y otra de sus hijas pudieron ser rescatadas",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-12-27/indonesia-naufragio-espanoles-padar-1tps_4275496/",
+      "scraped_at": "2025-12-28T06:46:19Z"
     }
   ]
 }

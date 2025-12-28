@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Tribunal Supremo fuerza al Gobierno a acoger a todos los menores que soliciten asilo: Las comunidades del PP, en contra del reparto, podrán seguir los pasos de Madrid; El calentamiento desinfla la burbuja inmobiliaria en parte de España: En Andalucía, Extremadura o Murcia, la casa pierde valor o el seguro se dispara; Trump lanza su cruzada: El presidente recurre al argumento de impedir masacres de cristianos en Nigeria para justificar el ataque “poderoso y mortal” contra Estado Islámico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-27T06:46:08Z",
+  "summary": "Resumen del día en La Vanguardia: Catalunya ingresará más por el IVA de pymes con la nueva financiación: La participación de las comunidades en el IVA de las pymes pasará del 50% al 56,5%; “Este Gobierno es el garante de los derechos que Vox quiere dañar”: La nueva portavoz del Gobierno considera que el Partido Popular “ha traicionado a los autónomos”; La pregunta del millón: Pedro Sánchez ha pasado de puntillas por el resultado electoral de Extremadura, pero a sus compañeros de la ejecutiva socialista les aseguró que el voto desencantado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-28T06:46:16Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Tribunal Supremo fuerza al Gobierno a acoger a todos los menores que soliciten asilo",
-      "subtitle": "Las comunidades del PP, en contra del reparto, podrán seguir los pasos de Madrid",
-      "url": "https://www.lavanguardia.com/politica/20251227/11396074/ts-forzara-gobierno-acoger-todos-menores-soliciten-asilo.html",
-      "scraped_at": "2025-12-27T06:46:07Z"
+      "title": "Catalunya ingresará más por el IVA de pymes con la nueva financiación",
+      "subtitle": "La participación de las comunidades en el IVA de las pymes pasará del 50% al 56,5%",
+      "url": "https://www.lavanguardia.com/politica/20251228/11397135/modelo-financiacion-comun-catalunya.html",
+      "scraped_at": "2025-12-28T06:46:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El calentamiento desinfla la burbuja inmobiliaria en parte de España",
-      "subtitle": "En Andalucía, Extremadura o Murcia, la casa pierde valor o el seguro se dispara",
-      "url": "https://www.lavanguardia.com/natural/20251227/11395939/calentamiento-desinfla-burbuja-inmobiliaria-parte-espana.html",
-      "scraped_at": "2025-12-27T06:46:07Z"
+      "title": "“Este Gobierno es el garante de los derechos que Vox quiere dañar”",
+      "subtitle": "La nueva portavoz del Gobierno considera que el Partido Popular “ha traicionado a los autónomos”",
+      "url": "https://www.lavanguardia.com/politica/20251228/11397111/gobierno-garante-derechos-vox-quiere-danar-partido-popular-traicionado-autonomos.html",
+      "scraped_at": "2025-12-28T06:46:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump lanza su cruzada",
-      "subtitle": "El presidente recurre al argumento de impedir masacres de cristianos en Nigeria para justificar el ataque “poderoso y mortal” contra Estado Islámico",
-      "url": "https://www.lavanguardia.com/internacional/20251227/11396006/trump-lanza-cruzada-africa.html",
-      "scraped_at": "2025-12-27T06:46:07Z"
+      "title": "La pregunta del millón",
+      "subtitle": "Pedro Sánchez ha pasado de puntillas por el resultado electoral de Extremadura, pero a sus compañeros de la ejecutiva socialista les aseguró que el voto desencantado",
+      "url": "https://www.lavanguardia.com/politica/20251228/11397264/pregunta-millon.html",
+      "scraped_at": "2025-12-28T06:46:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cristianos, Trump y Epstein",
-      "subtitle": "Donald Trump no necesita inventarse una guerra inexistente para desviar la atención, como hizo un presidente norteamericano de ficción en la popular película La",
-      "url": "https://www.lavanguardia.com/opinion/20251227/11396152/cristianos-trump-epstein.html",
-      "scraped_at": "2025-12-27T06:46:07Z"
+      "title": "Una revolución silenciosa",
+      "subtitle": "Adiós al 2025. El año ha tenido un protagonista evidente, que no es otro que Donald Trump. El presidente norteamericano ha marcado la agenda internacional y ha",
+      "url": "https://www.lavanguardia.com/opinion/20251228/11397428/revolucion-silenciosa.html",
+      "scraped_at": "2025-12-28T06:46:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuarenta años en Europa",
-      "subtitle": "El próximo 1 de enero se cumplirán 40 años desde que España se adhirió a la Comunidad Económica Europea (CEE); uno de los acontecimientos más relevantes de nuestra",
-      "url": "https://www.lavanguardia.com/economia/20251227/11396141/cuarenta-anos-europa.html",
-      "scraped_at": "2025-12-27T06:46:08Z"
+      "title": "La Navidad de siempre con algunos matices",
+      "subtitle": "Algunos elementos de las fiestas desaparecen y cambian, mientras otros persisten al paso del tiempo",
+      "url": "https://www.lavanguardia.com/participacion/red-lectores/20251224/11386003/navidad-siempre-matices.html",
+      "scraped_at": "2025-12-28T06:46:16Z"
     }
   ]
 }
