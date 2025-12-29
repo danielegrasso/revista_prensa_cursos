@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Catalunya ingresará más por el IVA de pymes con la nueva financiación: La participación de las comunidades en el IVA de las pymes pasará del 50% al 56,5%; “Este Gobierno es el garante de los derechos que Vox quiere dañar”: La nueva portavoz del Gobierno considera que el Partido Popular “ha traicionado a los autónomos”; La pregunta del millón: Pedro Sánchez ha pasado de puntillas por el resultado electoral de Extremadura, pero a sus compañeros de la ejecutiva socialista les aseguró que el voto desencantado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2025-12-28T06:46:16Z",
+  "summary": "Resumen del día en La Vanguardia: Trump y Zelenski acercan posturas, pero sin cerrar ningún acuerdo: Trump y Zelenski juegan la carta del optimismo, pero no muestran avances; Si la guerra acabara en el 2026: Hace casi cuatro años nos sorprendimos al ver cómo la guerra volvía a Europa. Miles de ucranianos se refugiaban en nuestros países huyendo de la invasión rusa. De; Bardot, la rebeldía hedonista: Muere a los 91 años la actriz ‘sex symbol’ que se consagró a la causa animal. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2025-12-29T06:52:04Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Catalunya ingresará más por el IVA de pymes con la nueva financiación",
-      "subtitle": "La participación de las comunidades en el IVA de las pymes pasará del 50% al 56,5%",
-      "url": "https://www.lavanguardia.com/politica/20251228/11397135/modelo-financiacion-comun-catalunya.html",
-      "scraped_at": "2025-12-28T06:46:15Z"
+      "title": "Trump y Zelenski acercan posturas, pero sin cerrar ningún acuerdo",
+      "subtitle": "Trump y Zelenski juegan la carta del optimismo, pero no muestran avances",
+      "url": "https://www.lavanguardia.com/internacional/20251228/11398803/paz-resiste-ucrania.html",
+      "scraped_at": "2025-12-29T06:52:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "“Este Gobierno es el garante de los derechos que Vox quiere dañar”",
-      "subtitle": "La nueva portavoz del Gobierno considera que el Partido Popular “ha traicionado a los autónomos”",
-      "url": "https://www.lavanguardia.com/politica/20251228/11397111/gobierno-garante-derechos-vox-quiere-danar-partido-popular-traicionado-autonomos.html",
-      "scraped_at": "2025-12-28T06:46:15Z"
+      "title": "Si la guerra acabara en el 2026",
+      "subtitle": "Hace casi cuatro años nos sorprendimos al ver cómo la guerra volvía a Europa. Miles de ucranianos se refugiaban en nuestros países huyendo de la invasión rusa. De",
+      "url": "https://www.lavanguardia.com/opinion/20251229/11398804/guerra-acabara-2026.html",
+      "scraped_at": "2025-12-29T06:52:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La pregunta del millón",
-      "subtitle": "Pedro Sánchez ha pasado de puntillas por el resultado electoral de Extremadura, pero a sus compañeros de la ejecutiva socialista les aseguró que el voto desencantado",
-      "url": "https://www.lavanguardia.com/politica/20251228/11397264/pregunta-millon.html",
-      "scraped_at": "2025-12-28T06:46:15Z"
+      "title": "Bardot, la rebeldía hedonista",
+      "subtitle": "Muere a los 91 años la actriz ‘sex symbol’ que se consagró a la causa animal",
+      "url": "https://www.lavanguardia.com/cultura/20251229/11398777/bardot-rebeldia-hedonista.html",
+      "scraped_at": "2025-12-29T06:52:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una revolución silenciosa",
-      "subtitle": "Adiós al 2025. El año ha tenido un protagonista evidente, que no es otro que Donald Trump. El presidente norteamericano ha marcado la agenda internacional y ha",
-      "url": "https://www.lavanguardia.com/opinion/20251228/11397428/revolucion-silenciosa.html",
-      "scraped_at": "2025-12-28T06:46:15Z"
+      "title": "El paro entre mayores de 55 años ya supera el del grupo de 25 a 54 años",
+      "subtitle": "La velocidad del cambio tecnológico agrava la precariedad laboral de este colectivo",
+      "url": "https://www.lavanguardia.com/economia/20251229/11398513/paro-mayores-55-anos-supera-grupo-25-54-anos.html",
+      "scraped_at": "2025-12-29T06:52:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La Navidad de siempre con algunos matices",
-      "subtitle": "Algunos elementos de las fiestas desaparecen y cambian, mientras otros persisten al paso del tiempo",
-      "url": "https://www.lavanguardia.com/participacion/red-lectores/20251224/11386003/navidad-siempre-matices.html",
-      "scraped_at": "2025-12-28T06:46:16Z"
+      "title": "El temporal de lluvias en Andalucía deja al menos una víctima mortal",
+      "subtitle": "El alcalde de Alhaurín confirma que han encontrado el cadáver de uno de los dos desaparecidos en Alhaurín el Grande",
+      "url": "https://www.lavanguardia.com/local/andalucia/20251228/11398358/buscan-dos-personas-desaparecidas-alhaurin-grande-temporal.html",
+      "scraped_at": "2025-12-29T06:52:04Z"
     }
   ]
 }

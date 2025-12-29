@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Seísmo en el voto de las mujeres: dejan a Sánchez y Díaz y se hacen de derechas: El PSOE y Sumar bajan y el PP ya es primera fuerza, pero el único partido que sube es Vox. Una de cada tres mujeres que dieron su apoyo a los socialistas en 2023 se declaran indecisas, según varios estudios demoscópicos; Horizontes 2026 | Mambo electoral: de lo fijo a lo probable: La ruptura del empate entre la derecha y la izquierda a favor de la primera es el factor más determinante de nuestra realidad electoral en este período (como en toda Europa), y no se atisba nada capaz de invertir esa tendencia; El retorno de la fe, desde dentro de la Iglesia: qué opinan obispos, sacerdotes y religiosas: Católicos de toda la vida que han visto el fenómeno en sus parroquias lo analizan desde la cautela y advierten ante la posibilidad de que se reduzca a una moda pasajera. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-28T06:46:19Z",
+  "summary": "Resumen del día en El Confidencial: La ayuda de Sánchez a Plus Ultra permitió al régimen cubano disfrutar de vuelos VIP y comerciales: La inyección de 53 millones de euros de fondos españoles en Plus Ultra ha insuflado oxígeno al régimen castrista, que ha convertido la aerolínea en su compañía de cabecera ante el declive de Cubana de Aviación y la venezolana Conviasa; Trump y Zelenski, \"mucho más cerca\" de la paz, pero el escollo sigue siendo Rusia: Trump recibe a Zelenski en Mar-a-Lago tras hablar con Putin, y asegura estar &quot;más cerca, muy muy cerca&quot;, pero en la esencia no ha cambiado: hasta el momento, Rusia no ha hecho ninguna cesión; Sumar propone incluir en la EBAU una prueba sobre Memoria Democrática: Propone la elaboración de material didáctico &quot;oficial&quot; y la creación de una Unidad de Coordinación para la Memoria Democrática que supervise el cumplimiento de la ley. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-29T06:52:06Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Seísmo en el voto de las mujeres: dejan a Sánchez y Díaz y se hacen de derechas",
-      "subtitle": "El PSOE y Sumar bajan y el PP ya es primera fuerza, pero el único partido que sube es Vox. Una de cada tres mujeres que dieron su apoyo a los socialistas en 2023 se declaran indecisas, según varios estudios demoscópicos",
-      "url": "https://www.elconfidencial.com/espana/2025-12-28/voto-femenino-psoe-sanchez-mujeres-derechas_4275143/",
-      "scraped_at": "2025-12-28T06:46:17Z"
+      "title": "La ayuda de Sánchez a Plus Ultra permitió al régimen cubano disfrutar de vuelos VIP y comerciales",
+      "subtitle": "La inyección de 53 millones de euros de fondos españoles en Plus Ultra ha insuflado oxígeno al régimen castrista, que ha convertido la aerolínea en su compañía de cabecera ante el declive de Cubana de Aviación y la venezolana Conviasa",
+      "url": "https://www.elconfidencial.com/espana/2025-12-29/zapatero-plus-ultra-venezuela-cuba-vuelos-udef_4275777/",
+      "scraped_at": "2025-12-29T06:52:05Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Horizontes 2026 | Mambo electoral: de lo fijo a lo probable",
-      "subtitle": "La ruptura del empate entre la derecha y la izquierda a favor de la primera es el factor más determinante de nuestra realidad electoral en este período (como en toda Europa), y no se atisba nada capaz de invertir esa tendencia",
-      "url": "https://www.elconfidencial.com/espana/2025-12-28/mambo-electoral-ano-nuevo-espana-comunidades_4273925/",
-      "scraped_at": "2025-12-28T06:46:17Z"
+      "title": "Trump y Zelenski, \"mucho más cerca\" de la paz, pero el escollo sigue siendo Rusia",
+      "subtitle": "Trump recibe a Zelenski en Mar-a-Lago tras hablar con Putin, y asegura estar &quot;más cerca, muy muy cerca&quot;, pero en la esencia no ha cambiado: hasta el momento, Rusia no ha hecho ninguna cesión",
+      "url": "https://www.elconfidencial.com/mundo/2025-12-28/trump-zelenski-ucrania-paz-rusia-1hms_4275878/",
+      "scraped_at": "2025-12-29T06:52:06Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El retorno de la fe, desde dentro de la Iglesia: qué opinan obispos, sacerdotes y religiosas",
-      "subtitle": "Católicos de toda la vida que han visto el fenómeno en sus parroquias lo analizan desde la cautela y advierten ante la posibilidad de que se reduzca a una moda pasajera",
-      "url": "https://www.elconfidencial.com/espana/2025-12-28/que-piensan-catolicos-siempre-retorno-religion_4269110/",
-      "scraped_at": "2025-12-28T06:46:18Z"
+      "title": "Sumar propone incluir en la EBAU una prueba sobre Memoria Democrática",
+      "subtitle": "Propone la elaboración de material didáctico &quot;oficial&quot; y la creación de una Unidad de Coordinación para la Memoria Democrática que supervise el cumplimiento de la ley",
+      "url": "https://www.elconfidencial.com/espana/2025-12-29/sumar-incluir-ebau-prueba-memoria-democratica_4275119/",
+      "scraped_at": "2025-12-29T06:52:06Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los \"agentes del caos\" de Moscú intentan desestabilizar Kosovo a través de Telegram",
-      "subtitle": "Las campañas de desinformación orquestadas desde el extranjero sacuden a las instituciones y a la sociedad civil kosovar en medio de la mayor crisis política del país desde su independencia",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-28/desinformacion-kosovo-serbia-rusia-elecciones-1hms_4275039/",
-      "scraped_at": "2025-12-28T06:46:19Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Fernando Martín",
-      "subtitle": "Los desaparecidos son Fernando Martín, entrenador del Valencia CF Femenino, y tres de sus hijos. Su mujer y otra de sus hijas pudieron ser rescatadas",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-12-27/indonesia-naufragio-espanoles-padar-1tps_4275496/",
-      "scraped_at": "2025-12-28T06:46:19Z"
+      "title": "El 'expresident' de la Generalitat manda mensajes ocultos a través de los libros a Sánchez",
+      "subtitle": "Junts difunde una foto de su líder con la presidenta parlamentaria, Mónica Sales, en la que aparecen en primer plano significativos libros llenos de intención",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2025-12-29/los-mensajes-ocultos-de-puigdemont-a-sanchez-y-sus-socios-independentistas_4275125/",
+      "scraped_at": "2025-12-29T06:52:06Z"
     }
   ]
 }
