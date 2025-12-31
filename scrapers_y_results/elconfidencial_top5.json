@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sánchez y Junqueras planean una cumbre después de Reyes para cumplir los pactos pendientes: El presidente del Gobierno y el líder de ERC buscan evidenciar que la legislatura todavía está viva y que temas como la nueva financiación autonómica pueden justificar el seguir adelante; Europa reabre el debate sobre si hay que subir el IVA del turismo del 10% al 21%: En un debate antiguo, pero ahora diversas iniciativas, tanto en España como en Europa, han vuelto a reabrirlo. Lo que se propone es que España revise el tratamiento fiscal que favorece al turismo frente a otras actividades económicas; Trump avisó, pero no todos le creyeron: el Gobierno de EEUU, en sus propias palabras: Donald Trump ha cumplido muchas de sus promesas de campaña que parecían impensables hace dos años. Quizá es el momento de escucharle a él, y a su equipo, qué más planean hacer.. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-30T06:48:32Z",
+  "summary": "Resumen del día en El Confidencial: La auditoría al PSOE detecta pagos sin destinatario y firmas que son \"difícilmente identificables\": El documento no despeja las dudas que mostró el Tribunal Supremo tras la ausencia de explicaciones del gerente y la secretaria que daba los sobres en Ferraz; Fantasmas de 2008: los expertos niegan la burbuja, pero algo pasa con la vivienda: España despedirá 2025 con las ventas de viviendas más elevada desde que estalló la burbuja en 2008. También lo hará con incrementos de precios de dos dígitos en gran parte de la geografía española, como también sucedió entonces; José Almansa: \"Es una gran mentira decir que el orden es bueno y el caos malo\": El mundo cambia, y lo que propone en esta entrevista José Almansa es romper con los clichés del pasado. En particular, con los que capan la capacidad de la condición humana para reinventar el futuro. Las sociedades se aburguesan, sugiere. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2025-12-31T06:49:19Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sánchez y Junqueras planean una cumbre después de Reyes para cumplir los pactos pendientes",
-      "subtitle": "El presidente del Gobierno y el líder de ERC buscan evidenciar que la legislatura todavía está viva y que temas como la nueva financiación autonómica pueden justificar el seguir adelante",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2025-12-30/pedro-sanchez-oriol-junqueras-cumbre-reyes_4276195/",
-      "scraped_at": "2025-12-30T06:48:30Z"
+      "title": "La auditoría al PSOE detecta pagos sin destinatario y firmas que son \"difícilmente identificables\"",
+      "subtitle": "El documento no despeja las dudas que mostró el Tribunal Supremo tras la ausencia de explicaciones del gerente y la secretaria que daba los sobres en Ferraz",
+      "url": "https://www.elconfidencial.com/espana/2025-12-31/auditoria-psoe-admite-pagos-sin-destinatario-firmas_4276851/",
+      "scraped_at": "2025-12-31T06:49:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Europa reabre el debate sobre si hay que subir el IVA del turismo del 10% al 21%",
-      "subtitle": "En un debate antiguo, pero ahora diversas iniciativas, tanto en España como en Europa, han vuelto a reabrirlo. Lo que se propone es que España revise el tratamiento fiscal que favorece al turismo frente a otras actividades económicas",
-      "url": "https://www.elconfidencial.com/economia/2025-12-30/comision-europea-debate-subir-iva-turismo_4275744/",
-      "scraped_at": "2025-12-30T06:48:30Z"
+      "title": "Fantasmas de 2008: los expertos niegan la burbuja, pero algo pasa con la vivienda",
+      "subtitle": "España despedirá 2025 con las ventas de viviendas más elevada desde que estalló la burbuja en 2008. También lo hará con incrementos de precios de dos dígitos en gran parte de la geografía española, como también sucedió entonces",
+      "url": "https://www.elconfidencial.com/inmobiliario/2025-12-31/burbuja-inmobiliaria-precios-vivienda-alquiler-venta-banco-espana_4263520/",
+      "scraped_at": "2025-12-31T06:49:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump avisó, pero no todos le creyeron: el Gobierno de EEUU, en sus propias palabras",
-      "subtitle": "Donald Trump ha cumplido muchas de sus promesas de campaña que parecían impensables hace dos años. Quizá es el momento de escucharle a él, y a su equipo, qué más planean hacer.",
-      "url": "https://www.elconfidencial.com/mundo/2025-12-30/administracion-trump_4273470/",
-      "scraped_at": "2025-12-30T06:48:31Z"
+      "title": "José Almansa: \"Es una gran mentira decir que el orden es bueno y el caos malo\"",
+      "subtitle": "El mundo cambia, y lo que propone en esta entrevista José Almansa es romper con los clichés del pasado. En particular, con los que capan la capacidad de la condición humana para reinventar el futuro. Las sociedades se aburguesan, sugiere",
+      "url": "https://www.elconfidencial.com/economia/2025-12-31/entrevista-jose-almansa-caos-orden-mentalidad-fisica-cuantica-ideologias_4276265/",
+      "scraped_at": "2025-12-31T06:49:19Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La fábrica de la vajilla de tu abuela podría quebrar, pero hay esperanza",
-      "subtitle": "La factoría de la Cartuja vuelve a estar en riesgo tras años en los laberintos de los juzgados de lo mercantil. Hay dos compañías pujando por mantener la actividad, el empleo y la esencia de estos platos repartidos por España",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2025-12-29/la-fabrica-de-la-vajilla-de-tu-abuela-esta-al-borde-de-la-quiebra-pero-hay-esperanza_4274467/",
-      "scraped_at": "2025-12-30T06:48:32Z"
+      "title": "Mota se sincera: \"Jamás he recibido un solo comentario para quitar algo en TVE\"",
+      "subtitle": "Este año, el cómico manchego celebra su 25º aniversario al frente del especial de Nochevieja de TVE",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-31/nochevieja-especial-jose-mota-tve-gobierno-entrevista_4275333/",
+      "scraped_at": "2025-12-31T06:49:19Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Trump admite discrepancias con Netanyahu sobre Cisjordania mientras se atasca la segunda fase de la tregua de Gaza: El presidente de Estados Unidos minimiza las diferencias con Israel, endurece su discurso sobre Irán y provoca un desmentido oficial por aludir a un posible indulto al primer ministro israelí; Feijóo evita despejar los pactos con Vox en las autonomías: El líder del PP deja claro que él peleará por un gobierno en solitario cuando haya generales, pero deja en el aire la situación de las comunidades; Ayuso declara la guerra a los «tibios» del PP en la batalla cultural para cortar el crecimiento de Vox: El enfrentamiento del PP de Madrid y el partido de Abascal se ha endurecido en el último año. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-30T06:48:26Z",
+  "summary": "Resumen del día en ABC.es: Adif aprovecha Nochebuena para publicar una compra exprés de equipamiento a Huawei: El importe será de 484.000 euros por dos años y el gestor lo justifica en que son materiales «necesarios e imprescindibles»; La parálisis del Congreso afecta ya a 145 leyes: El Gobierno vende que se han aprobado 52 iniciativas legislativas esta legislatura, pero tiene 56 proyectos encallados en la Cámara Baja; Los 25 decretos tramitados como proyectos de ley están bloqueados: Ninguna de estas normas ha seguido su recorrido después de su convalidación: ni el embargo de armas a Israel ni el control de RTVE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2025-12-31T06:49:15Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Trump admite discrepancias con Netanyahu sobre Cisjordania mientras se atasca la segunda fase de la tregua de Gaza",
-      "subtitle": "El presidente de Estados Unidos minimiza las diferencias con Israel, endurece su discurso sobre Irán y provoca un desmentido oficial por aludir a un posible indulto al primer ministro israelí",
-      "url": "https://www.abc.es/internacional/trump-admite-discrepancias-netanyahu-sobre-cisjordania-atasca-20251229223645-nt.html",
-      "scraped_at": "2025-12-30T06:48:25Z"
+      "title": "Adif aprovecha Nochebuena para publicar una compra exprés de equipamiento a Huawei",
+      "subtitle": "El importe será de 484.000 euros por dos años y el gestor lo justifica en que son materiales «necesarios e imprescindibles»",
+      "url": "https://www.abc.es/espana/adif-anuncia-licitacion-nochebuena-equipamiento-huawei-red-20251231031301-nt.html",
+      "scraped_at": "2025-12-31T06:49:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo evita despejar los pactos con Vox en las autonomías",
-      "subtitle": "El líder del PP deja claro que él peleará por un gobierno en solitario cuando haya generales, pero deja en el aire la situación de las comunidades",
-      "url": "https://www.abc.es/espana/feijoo-evita-despejar-pactos-vox-autonomias-20251230042950-nt.html",
-      "scraped_at": "2025-12-30T06:48:26Z"
+      "title": "La parálisis del Congreso afecta ya a 145 leyes",
+      "subtitle": "El Gobierno vende que se han aprobado 52 iniciativas legislativas esta legislatura, pero tiene 56 proyectos encallados en la Cámara Baja",
+      "url": "https://www.abc.es/espana/paralisis-congreso-afecta-145-leyes-20251231031530-nt.html",
+      "scraped_at": "2025-12-31T06:49:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ayuso declara la guerra a los «tibios» del PP en la batalla cultural para cortar el crecimiento de Vox",
-      "subtitle": "El enfrentamiento del PP de Madrid y el partido de Abascal se ha endurecido en el último año",
-      "url": "https://www.abc.es/espana/madrid/ayuso-declara-guerra-tibios-batalla-cultural-cortar-20251229042902-nt.html",
-      "scraped_at": "2025-12-30T06:48:26Z"
+      "title": "Los 25 decretos tramitados como proyectos de ley están bloqueados",
+      "subtitle": "Ninguna de estas normas ha seguido su recorrido después de su convalidación: ni el embargo de armas a Israel ni el control de RTVE",
+      "url": "https://www.abc.es/espana/decretos-tramitados-proyectos-ley-bloqueados-20251231031608-nt.html",
+      "scraped_at": "2025-12-31T06:49:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UE empuja al Gobierno a incentivar fiscalmente el ahorro con una cuenta de inversión",
-      "subtitle": "El proyecto, ahora en consulta pública e impulsado por la Comisión Europea, busca movilizar el ahorro hacia los mercados para financiar a las empresas comunitarias",
-      "url": "https://www.abc.es/economia/economia-prepara-cuenta-espanoles-inviertan-mercados-20251230043132-nt.html",
-      "scraped_at": "2025-12-30T06:48:26Z"
+      "title": "El escándalo en Villamanín preocupa a los loteros: «Se repetirá si no prohibimos las participaciones»",
+      "subtitle": "No hay unidad de opiniones. El presidente de los loteros es reacio a esta limitación, que traería una fuerte caída de las ventas: «Sería peor el remedio que la enfermedad»",
+      "url": "https://www.abc.es/sociedad/escandalo-loteria-leon-abre-debate-sobre-papeletas-20251230031628-nt.html",
+      "scraped_at": "2025-12-31T06:49:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Leire Díez",
-      "subtitle": "Un dispositivo incautado tenía en su interior el acceso a una nube, que estaba administrada por Javier Pérez Dolset, con el material que había reunido la exmilitante socialista",
-      "url": "https://www.abc.es/espana/leire-diez-custodiaba-archivo-central-informacion-confidencial-20251229042505-nt.html",
-      "scraped_at": "2025-12-30T06:48:26Z"
+      "title": "Mercadona",
+      "subtitle": "La cadena de distribución mantendrá sus tiendas cerradas este próximo jueves 1 de enero, Año Nuevo",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-cambia-hora-cierre-supermercados-nochevieja-miercoles-20251230104723-nt.html",
+      "scraped_at": "2025-12-31T06:49:15Z"
     }
   ]
 }
