@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La auditoría al PSOE detecta pagos sin destinatario y firmas que son \"difícilmente identificables\": El documento no despeja las dudas que mostró el Tribunal Supremo tras la ausencia de explicaciones del gerente y la secretaria que daba los sobres en Ferraz; Fantasmas de 2008: los expertos niegan la burbuja, pero algo pasa con la vivienda: España despedirá 2025 con las ventas de viviendas más elevada desde que estalló la burbuja en 2008. También lo hará con incrementos de precios de dos dígitos en gran parte de la geografía española, como también sucedió entonces; José Almansa: \"Es una gran mentira decir que el orden es bueno y el caos malo\": El mundo cambia, y lo que propone en esta entrevista José Almansa es romper con los clichés del pasado. En particular, con los que capan la capacidad de la condición humana para reinventar el futuro. Las sociedades se aburguesan, sugiere. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-31T06:49:19Z",
+  "summary": "Resumen del día en El Confidencial: La guerra energética se traslada al bolsillo: encarece el precio de casas y el fijo de luz: Los requisitos de descarbonización que afectan a la vivienda no solo amenazan con encarecer el precio de las casas, sino también con disparar la factura de la luz en su coste fijo; Horizontes 2026 | El año del pendulazo en España: El rotundo desplazamiento del péndulo ideológico en las democracias occidentales no es una moda pasajera, es un fenómeno histórico de largo recorrido que tiene sus raíces hundidas en tensiones acumuladas durante décadas; Retos, ultrafondos y buscar la razón de este sufrir. ¿Por qué pedalear 55 horas seguidas?: Este reto, de más de dos días sin dormir, es un trayecto por los 27 puertos de Cantabria. Preguntado por el insomnio, antes de la respuesta esboza una imborrable sonrisa. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-01T06:49:24Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La auditoría al PSOE detecta pagos sin destinatario y firmas que son \"difícilmente identificables\"",
-      "subtitle": "El documento no despeja las dudas que mostró el Tribunal Supremo tras la ausencia de explicaciones del gerente y la secretaria que daba los sobres en Ferraz",
-      "url": "https://www.elconfidencial.com/espana/2025-12-31/auditoria-psoe-admite-pagos-sin-destinatario-firmas_4276851/",
-      "scraped_at": "2025-12-31T06:49:18Z"
+      "title": "La guerra energética se traslada al bolsillo: encarece el precio de casas y el fijo de luz",
+      "subtitle": "Los requisitos de descarbonización que afectan a la vivienda no solo amenazan con encarecer el precio de las casas, sino también con disparar la factura de la luz en su coste fijo",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-01-01/aumento-factura-luz-casa-electrica_4275474/",
+      "scraped_at": "2026-01-01T06:49:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Fantasmas de 2008: los expertos niegan la burbuja, pero algo pasa con la vivienda",
-      "subtitle": "España despedirá 2025 con las ventas de viviendas más elevada desde que estalló la burbuja en 2008. También lo hará con incrementos de precios de dos dígitos en gran parte de la geografía española, como también sucedió entonces",
-      "url": "https://www.elconfidencial.com/inmobiliario/2025-12-31/burbuja-inmobiliaria-precios-vivienda-alquiler-venta-banco-espana_4263520/",
-      "scraped_at": "2025-12-31T06:49:18Z"
+      "title": "Horizontes 2026 | El año del pendulazo en España",
+      "subtitle": "El rotundo desplazamiento del péndulo ideológico en las democracias occidentales no es una moda pasajera, es un fenómeno histórico de largo recorrido que tiene sus raíces hundidas en tensiones acumuladas durante décadas",
+      "url": "https://www.elconfidencial.com/espana/2026-01-01/elecciones-occidente-espana-auge-vox-psoe-pp_4274958/",
+      "scraped_at": "2026-01-01T06:49:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "José Almansa: \"Es una gran mentira decir que el orden es bueno y el caos malo\"",
-      "subtitle": "El mundo cambia, y lo que propone en esta entrevista José Almansa es romper con los clichés del pasado. En particular, con los que capan la capacidad de la condición humana para reinventar el futuro. Las sociedades se aburguesan, sugiere",
-      "url": "https://www.elconfidencial.com/economia/2025-12-31/entrevista-jose-almansa-caos-orden-mentalidad-fisica-cuantica-ideologias_4276265/",
-      "scraped_at": "2025-12-31T06:49:19Z"
+      "title": "Retos, ultrafondos y buscar la razón de este sufrir. ¿Por qué pedalear 55 horas seguidas?",
+      "subtitle": "Este reto, de más de dos días sin dormir, es un trayecto por los 27 puertos de Cantabria. Preguntado por el insomnio, antes de la respuesta esboza una imborrable sonrisa",
+      "url": "https://www.elconfidencial.com/deportes/ciclismo/2026-01-01/angliru-reto-borja-ciclismo-retos-deportivos_4250610/",
+      "scraped_at": "2026-01-01T06:49:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Mota se sincera: \"Jamás he recibido un solo comentario para quitar algo en TVE\"",
-      "subtitle": "Este año, el cómico manchego celebra su 25º aniversario al frente del especial de Nochevieja de TVE",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2025-12-31/nochevieja-especial-jose-mota-tve-gobierno-entrevista_4275333/",
-      "scraped_at": "2025-12-31T06:49:19Z"
+      "title": "Qué ver en televisión en Año Nuevo 2026: cine y especial de 'Cifras y letras'",
+      "subtitle": "Esta es la oferta de las principales cadenas de televisión para el primer día de 2026",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-01/que-ver-television-ano-nuevo-2026-cine-especial-cifras-y-letras-el-cazador_4277048/",
+      "scraped_at": "2026-01-01T06:49:24Z"
     }
   ]
 }

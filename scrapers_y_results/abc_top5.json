@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Adif aprovecha Nochebuena para publicar una compra exprés de equipamiento a Huawei: El importe será de 484.000 euros por dos años y el gestor lo justifica en que son materiales «necesarios e imprescindibles»; La parálisis del Congreso afecta ya a 145 leyes: El Gobierno vende que se han aprobado 52 iniciativas legislativas esta legislatura, pero tiene 56 proyectos encallados en la Cámara Baja; Los 25 decretos tramitados como proyectos de ley están bloqueados: Ninguna de estas normas ha seguido su recorrido después de su convalidación: ni el embargo de armas a Israel ni el control de RTVE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2025-12-31T06:49:15Z",
+  "summary": "Resumen del día en ABC.es: Las doce 'campanadas' que marcaron un 2025 crítico para el PSOE y el Gobierno: Ábalos, García Ortíz, Leire...: Terminó un año convulso, donde el partido y el Ejecutivo de Pedro Sánchez se vieron cercados, política y judicialmente, por distintos flancos; Los juicios contra Ábalos y contra el hermano de Sánchez marcan un horizonte negro para el PSOE en este 2026: El caso Begoña, los pagos en metálico y las comisiones ilegales en obra pública: los otros frentes abiertos; Marlaska, el ministro más cuestionado en Transparencia: El Ministerio del Interior es el que más preguntas tiene que responder en el Portal de Transparencia seguido del área de Félix Bolaños. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-01T06:49:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Adif aprovecha Nochebuena para publicar una compra exprés de equipamiento a Huawei",
-      "subtitle": "El importe será de 484.000 euros por dos años y el gestor lo justifica en que son materiales «necesarios e imprescindibles»",
-      "url": "https://www.abc.es/espana/adif-anuncia-licitacion-nochebuena-equipamiento-huawei-red-20251231031301-nt.html",
-      "scraped_at": "2025-12-31T06:49:14Z"
+      "title": "Las doce 'campanadas' que marcaron un 2025 crítico para el PSOE y el Gobierno: Ábalos, García Ortíz, Leire...",
+      "subtitle": "Terminó un año convulso, donde el partido y el Ejecutivo de Pedro Sánchez se vieron cercados, política y judicialmente, por distintos flancos",
+      "url": "https://www.abc.es/espana/abalos-garcia-ortiz-leire-diez-mazon-cnio-20260101030915-nt.html",
+      "scraped_at": "2026-01-01T06:49:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "La parálisis del Congreso afecta ya a 145 leyes",
-      "subtitle": "El Gobierno vende que se han aprobado 52 iniciativas legislativas esta legislatura, pero tiene 56 proyectos encallados en la Cámara Baja",
-      "url": "https://www.abc.es/espana/paralisis-congreso-afecta-145-leyes-20251231031530-nt.html",
-      "scraped_at": "2025-12-31T06:49:14Z"
+      "title": "Los juicios contra Ábalos y contra el hermano de Sánchez marcan un horizonte negro para el PSOE en este 2026",
+      "subtitle": "El caso Begoña, los pagos en metálico y las comisiones ilegales en obra pública: los otros frentes abiertos",
+      "url": "https://www.abc.es/espana/juicios-abalos-hermano-sanchez-marcan-horizonte-negro-20260101031036-nt.html",
+      "scraped_at": "2026-01-01T06:49:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los 25 decretos tramitados como proyectos de ley están bloqueados",
-      "subtitle": "Ninguna de estas normas ha seguido su recorrido después de su convalidación: ni el embargo de armas a Israel ni el control de RTVE",
-      "url": "https://www.abc.es/espana/decretos-tramitados-proyectos-ley-bloqueados-20251231031608-nt.html",
-      "scraped_at": "2025-12-31T06:49:14Z"
+      "title": "Marlaska, el ministro más cuestionado en Transparencia",
+      "subtitle": "El Ministerio del Interior es el que más preguntas tiene que responder en el Portal de Transparencia seguido del área de Félix Bolaños",
+      "url": "https://www.abc.es/espana/marlaska-ministro-cuestionado-transparencia-20260101031107-nt.html",
+      "scraped_at": "2026-01-01T06:49:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "El escándalo en Villamanín preocupa a los loteros: «Se repetirá si no prohibimos las participaciones»",
+      "title": "'Todos estamos bailando la misma canción', el regreso espiritual de La Oreja de Van Gogh",
+      "subtitle": "El primer single del grupo tras la vuelta de Amaia Montero se ha estrenado en el especial de RTVE antes de las campanadas de fin de año",
+      "url": "https://www.abc.es/cultura/musica/bailando-cancion-regreso-xxx-oreja-van-gogh-20251231133746-nt.html",
+      "scraped_at": "2026-01-01T06:49:18Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Villamanín",
       "subtitle": "No hay unidad de opiniones. El presidente de los loteros es reacio a esta limitación, que traería una fuerte caída de las ventas: «Sería peor el remedio que la enfermedad»",
       "url": "https://www.abc.es/sociedad/escandalo-loteria-leon-abre-debate-sobre-papeletas-20251230031628-nt.html",
-      "scraped_at": "2025-12-31T06:49:15Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Mercadona",
-      "subtitle": "La cadena de distribución mantendrá sus tiendas cerradas este próximo jueves 1 de enero, Año Nuevo",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-cambia-hora-cierre-supermercados-nochevieja-miercoles-20251230104723-nt.html",
-      "scraped_at": "2025-12-31T06:49:15Z"
+      "scraped_at": "2026-01-01T06:49:19Z"
     }
   ]
 }

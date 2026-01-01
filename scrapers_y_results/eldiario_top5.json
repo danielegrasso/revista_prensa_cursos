@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El PSOE investigará una posible estafa de miles de euros por parte de Ábalos y Koldo García al cobrar gastos privados: El informe encargado a dos profesores universitarios confirma que el partido pagó liquidaciones \"notoriamente improcedentes\", como una mariscada en La Chalana, menús infantiles o un hotel para la exsuegra del que fuera ministro de Transportes; De los mensajes a Pradas y la chulería en el Congreso a buscar refugio laboral: la nueva finta del jefe de gabinete de Mazón: José Manuel Cuenca, mano derecha del expresident, ha saltado a primera línea de la actualidad a raíz de sus comparecencias como testigo ante la jueza de la dana y en la comisión de investigación del Congreso de los Diputados y de hacerse públicos los mensajes cruzados con Salomé Pradas el día de la tragedia; Las guerras culturales y la Navidad como arma para excomulgar al rival: El PP ha reciclado en España la polémica falsa del \"Feliz Navidad\" que se inventaron en Fox News hace 20 años. Es curioso que coincida con la forma nada cristiana en que el alcalde de Badalona se ha deshecho de los pobres que ocupaban un edificio abandonado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2025-12-31T06:49:13Z",
+  "summary": "Resumen del día en elDiario.es: El Constitucional afronta un año clave con la renovación de su presidencia atascada por un nuevo bloqueo del PP: El tribunal de garantías afronta un ejercicio en el que decidirá el futuro de Carles Puigdemont y recibirá el recurso del ex fiscal general contra la sentencia que le inhabilita con la incertidumbre sobre el recambio de cuatro de sus magistrados, entre ellos el presidente Cándido Conde-Pumpido, y ante la negativa del PP a negociar los nuevos nombramientos; Luz y gas a la baja, telecos, agua y peajes al alza o el nuevo abono transporte: los precios de 2026: El nuevo año va a deparar subidas en varios servicios o las tasas municipales de basuras, y se espera un abaratamiento de la factura eléctrica por las renovables y la caída del gas; Las novedades fiscales y en impuestos que llegan con el nuevo año: recargo para las pensiones, Verifactu, SMI, Bizum…: La ausencia de Presupuestos Generales del Estado hace que 2026 llegue con pocos cambios, pero hay hitos importantes: las personas que cobraron el paro en 2025 tendrán que presentar obligatoriamente la Declaración de la Renta. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-01T06:49:16Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El PSOE investigará una posible estafa de miles de euros por parte de Ábalos y Koldo García al cobrar gastos privados",
-      "subtitle": "El informe encargado a dos profesores universitarios confirma que el partido pagó liquidaciones \"notoriamente improcedentes\", como una mariscada en La Chalana, menús infantiles o un hotel para la exsuegra del que fuera ministro de Transportes",
-      "url": "https://www.eldiario.es/politica/psoe-investigara-posible-estafa-miles-euros-parte-abalos-koldo-garcia-cobrar-gastos-privados_1_12877795.html",
-      "scraped_at": "2025-12-31T06:49:11Z"
+      "title": "El Constitucional afronta un año clave con la renovación de su presidencia atascada por un nuevo bloqueo del PP",
+      "subtitle": "El tribunal de garantías afronta un ejercicio en el que decidirá el futuro de Carles Puigdemont y recibirá el recurso del ex fiscal general contra la sentencia que le inhabilita con la incertidumbre sobre el recambio de cuatro de sus magistrados, entre ellos el presidente Cándido Conde-Pumpido, y ante la negativa del PP a negociar los nuevos nombramientos",
+      "url": "https://www.eldiario.es/politica/constitucional-afronta-ano-clave-renovacion-presidencia-atascada-nuevo-bloqueo-pp_1_12866567.html",
+      "scraped_at": "2026-01-01T06:49:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De los mensajes a Pradas y la chulería en el Congreso a buscar refugio laboral: la nueva finta del jefe de gabinete de Mazón",
-      "subtitle": "José Manuel Cuenca, mano derecha del expresident, ha saltado a primera línea de la actualidad a raíz de sus comparecencias como testigo ante la jueza de la dana y en la comisión de investigación del Congreso de los Diputados y de hacerse públicos los mensajes cruzados con Salomé Pradas el día de la tragedia",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/mensajes-pradas-chuleria-congreso-buscar-refugio-laboral-nueva-finta-jefe-gabinete-mazon_1_12876667.html",
-      "scraped_at": "2025-12-31T06:49:11Z"
+      "title": "Luz y gas a la baja, telecos, agua y peajes al alza o el nuevo abono transporte: los precios de 2026",
+      "subtitle": "El nuevo año va a deparar subidas en varios servicios o las tasas municipales de basuras, y se espera un abaratamiento de la factura eléctrica por las renovables y la caída del gas",
+      "url": "https://www.eldiario.es/economia/luz-gas-baja-telecos-agua-peajes-alza-nuevo-abono-transporte-precios-2026_1_12853950.html",
+      "scraped_at": "2026-01-01T06:49:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las guerras culturales y la Navidad como arma para excomulgar al rival",
-      "subtitle": "El PP ha reciclado en España la polémica falsa del \"Feliz Navidad\" que se inventaron en Fox News hace 20 años. Es curioso que coincida con la forma nada cristiana en que el alcalde de Badalona se ha deshecho de los pobres que ocupaban un edificio abandonado",
-      "url": "https://www.eldiario.es/politica/guerras-culturales-navidad-arma-excomulgar-rival_129_12877228.html",
-      "scraped_at": "2025-12-31T06:49:12Z"
+      "title": "Las novedades fiscales y en impuestos que llegan con el nuevo año: recargo para las pensiones, Verifactu, SMI, Bizum…",
+      "subtitle": "La ausencia de Presupuestos Generales del Estado hace que 2026 llegue con pocos cambios, pero hay hitos importantes: las personas que cobraron el paro en 2025 tendrán que presentar obligatoriamente la Declaración de la Renta",
+      "url": "https://www.eldiario.es/economia/novedades-fiscales-impuestos-llegan-nuevo-ano-recargo-pensiones-verifactu-smi-bizum_1_12860100.html",
+      "scraped_at": "2026-01-01T06:49:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La ciencia en 2025: un año bajo la sombra del fraude, la inteligencia artificial y los asteroides alienígenas",
-      "subtitle": "A pesar de las perturbaciones producidas por la política anticientífica de la administración Trump, hubo algunos hitos brillantes para la salud y nuestra mejor comprensión del universo",
-      "url": "https://www.eldiario.es/sociedad/ciencia-2025-ano-sombra-fraude-inteligencia-artificial-asteroides-alienigenas_1_12859421.html",
-      "scraped_at": "2025-12-31T06:49:12Z"
+      "title": "¿Cómo quedan las pensiones en 2026? Las cuantías mínimas, máximas y el nuevo periodo de cómputo",
+      "subtitle": "Las pensiones subirán en general un 2,7%, aunque las más bajas aumentarán más, y la edad ordinaria para jubilarse alcanzará los 66 años y diez meses, entre las novedades más importantes del arranque de año",
+      "url": "https://www.eldiario.es/economia/quedan-pensiones-2026-cuantias-minimas-maximas-nuevo-periodo-computo_1_12874660.html",
+      "scraped_at": "2026-01-01T06:49:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Extrema derecha",
-      "subtitle": "Mensajes extremistas se camuflan en vídeos de estética musical y contenidos de YouTube y facilitan procesos de radicalización silenciosa desde casa",
-      "url": "https://www.eldiario.es/internacional/theguardian/extrema-derecha-infiltrando-cultura-dia-dia-aterrador_1_12877896.html",
-      "scraped_at": "2025-12-31T06:49:13Z"
+      "title": "García Ortiz",
+      "subtitle": "La teniente fiscal María Ángeles Sánchez Conde sostiene que los jueces de la Sala de lo Penal realizaron una \"incompleta selección de los hechos\" y que su resolución vulnera derechos fundamentales del que fuera fiscal general del Estado",
+      "url": "https://www.eldiario.es/politica/fiscalia-acusa-supremo-ignorar-pruebas-exoneraban-garcia-ortiz-pide-anular-sentencia_1_12878705.html",
+      "scraped_at": "2026-01-01T06:49:16Z"
     }
   ]
 }

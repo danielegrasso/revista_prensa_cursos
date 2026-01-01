@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Cargos y alcaldes del PSOE presionan para adelantar las generales a 2026 en coincidencia con las elecciones en Andalucía: \"La situación no es sostenible\": Quieren que sean antes que las autonómicas y municipales para evitar el \"voto de castigo\" de 2023; Los precios desgastan el poder adquisitivo: España acumula una inflación del 22,1% desde 2020, mientras los salarios han subido un 17%: Nuestro países, con Alemania, el que más desvía la media europea del objetivo del BCE; El absentismo laboral se dispara en España: más de 300.000 trabajadores faltan a diario sin justificarlo: En el último año ha crecido un 7% y ya afecta a casi 1,5 millones de empleados. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2025-12-31T06:49:08Z",
+  "summary": "Resumen del día en El Mundo: El viacrucis judicial de Sánchez en 2026: una decena de causas penales acosan al presidente en todos los frentes: El presidente del Gobierno afronta este año un calvario en los tribunales que puede arrastrar a su familia, su partido y su Gobierno; Las elecciones conjuntas generales y andaluzas aumentarían la participación y \"nacionalizarían\" el debate: El PSOE andaluz cree que una convocatoria única les ayudaría a romper el 'efecto Juanma Moreno'. Los populares no se arredran: votar contra Sánchez es un estímulo añadido para sus electores; La banca pulveriza récords en un año virtuoso para el Ibex 35 pese a la incertidumbre global: Los bancos protagonizan un ejercicio estelar y llegan a duplicar su capitalización desde el pasado enero. La incertidumbre generada en primavera por la Administración Trump favoreció el retorno de inversiones hacia Europa... con España entre los mayores favorecidos.. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-01T06:49:12Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Cargos y alcaldes del PSOE presionan para adelantar las generales a 2026 en coincidencia con las elecciones en Andalucía: \"La situación no es sostenible\"",
+      "title": "El viacrucis judicial de Sánchez en 2026: una decena de causas penales acosan al presidente en todos los frentes",
+      "subtitle": "El presidente del Gobierno afronta este año un calvario en los tribunales que puede arrastrar a su familia, su partido y su Gobierno",
+      "url": "https://www.elmundo.es/espana/2025/12/31/695512f0e4d4d8d2448b4593.html",
+      "scraped_at": "2026-01-01T06:49:10Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Las elecciones conjuntas generales y andaluzas aumentarían la participación y \"nacionalizarían\" el debate",
+      "subtitle": "El PSOE andaluz cree que una convocatoria única les ayudaría a romper el 'efecto Juanma Moreno'. Los populares no se arredran: votar contra Sánchez es un estímulo añadido para sus electores",
+      "url": "https://www.elmundo.es/andalucia/2025/12/31/69541830fdddffb6598b4591.html",
+      "scraped_at": "2026-01-01T06:49:11Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "La banca pulveriza récords en un año virtuoso para el Ibex 35 pese a la incertidumbre global",
+      "subtitle": "Los bancos protagonizan un ejercicio estelar y llegan a duplicar su capitalización desde el pasado enero. La incertidumbre generada en primavera por la Administración Trump favoreció el retorno de inversiones hacia Europa... con España entre los mayores favorecidos.",
+      "url": "https://www.elmundo.es/economia/dinero-inversion/2025/12/31/6953aba0e9cf4a797c8b457f.html",
+      "scraped_at": "2026-01-01T06:49:11Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "La Oreja de Van Gogh se sube a la ola religiosa en la primera canción con Amaia Montero en 18 años: \"Allí donde muere el orgullo, nace la fe. Yo creo en Dios a mi manera\"",
+      "subtitle": "La primera canción de La Oreja de Van Gogh con Amaia explora el tema de la religiosidad, que nunca habían tocado hasta ahora",
+      "url": "https://www.elmundo.es/cultura/musica/2026/01/01/694fc99de85ece7b2a8b4573.html",
+      "scraped_at": "2026-01-01T06:49:11Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Elecciones Generales",
       "subtitle": "Quieren que sean antes que las autonómicas y municipales para evitar el \"voto de castigo\" de 2023",
       "url": "https://www.elmundo.es/espana/2025/12/30/695400fefc6c8388228b45ad.html",
-      "scraped_at": "2025-12-31T06:49:07Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Los precios desgastan el poder adquisitivo: España acumula una inflación del 22,1% desde 2020, mientras los salarios han subido un 17%",
-      "subtitle": "Nuestro países, con Alemania, el que más desvía la media europea del objetivo del BCE",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2025/12/30/6953ceb6e85ece0b1a8b4596.html",
-      "scraped_at": "2025-12-31T06:49:07Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El absentismo laboral se dispara en España: más de 300.000 trabajadores faltan a diario sin justificarlo",
-      "subtitle": "En el último año ha crecido un 7% y ya afecta a casi 1,5 millones de empleados",
-      "url": "https://www.elmundo.es/economia/2025/12/30/695410b4e9cf4a822a8b4591.html",
-      "scraped_at": "2025-12-31T06:49:08Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Donald Trump, un dominante líder para un planeta que baila a su ritmo",
-      "subtitle": "El siglo XXI aún es joven, pero si ya hay una figura determinante es la del presidente de EEUU, con su nuevo estilo y personalidad explosiva. La persona más comentada de la política internacional reparte tanta intensidad e inconsistencia a la vez que el mundo entero se ve arrastrado por él a remolque",
-      "url": "https://www.elmundo.es/internacional/2025/12/30/694ea59fe85eceb47f8b4575.html",
-      "scraped_at": "2025-12-31T06:49:08Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Xi Jinping",
-      "subtitle": "Lejos de plegarse y en contraste con el perfil dócil adoptado por otros mandatarios internacionales, el presidente chino ha contraatacado a cada golpe propiciado por EEUU",
-      "url": "https://www.elmundo.es/internacional/2025/12/30/6943051ffc6c8386158b4598.html",
-      "scraped_at": "2025-12-31T06:49:08Z"
+      "scraped_at": "2026-01-01T06:49:12Z"
     }
   ]
 }
