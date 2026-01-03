@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El 62% de los españoles cree que dentro del PSOE hay \"corrupción estructural\", incluido un tercio de los votantes de Sánchez: La mayoría piensa que el presidente del Gobierno agotará la legislatura y no irá a las urnas en 2026; Una edil socialista denuncia por acoso laboral al delegado del Gobierno, presidente de la Gestora del PSOE y amigo personal de Sánchez: José Luis Quintana acaba de tomar las riendas del partido en esa comunidad tras la dimisión de Miguel Ángel Gallardo por los malos resultados en las elecciones del 21-D; Tragedia en la estación de esquí: 40 muertos, 100 heridos y la \"espera insoportable\" de padres desesperados: Los primeros en llegar hablan de \"un campo de batalla\", con un espeso humo negro saliendo del bar y personas en llamas que corrían desesperadas chillando. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-02T06:49:27Z",
+  "summary": "Resumen del día en El Mundo: Sánchez fue alertado personalmente contra la designación de Quintana: \"Sufrí acoso. Pedro, no puede ser presidente de la gestora\": Mar Costa, la concejal que denunció por acoso laboral al delegado del Gobierno en Extremadura, nuevo líder del PSOE en la región, fue la referente sanchista en las primarias de 2017; El Senado pide permiso para interrogar a Ábalos este jueves en su primera salida 42 días después: La Cámara Alta informa al Supremo de la cita del día 8 por el 'caso Koldo'. El ex ministro ya ha recibido la citación en Soto del Real; El día después del infierno de Crans-Montana: \"Regalaban bengalas con cada botella... no sabemos dónde está mi amigo Taylón\": Supervivientes, familiares y amigos siguen sin conocer el destino de sus seres queridos tras el incendio del bar Le Constellation en Nochevieja. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-03T06:46:08Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El 62% de los españoles cree que dentro del PSOE hay \"corrupción estructural\", incluido un tercio de los votantes de Sánchez",
-      "subtitle": "La mayoría piensa que el presidente del Gobierno agotará la legislatura y no irá a las urnas en 2026",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/01/01/69566f13e9cf4a996d8b458d.html",
-      "scraped_at": "2026-01-02T06:49:26Z"
+      "title": "Sánchez fue alertado personalmente contra la designación de Quintana: \"Sufrí acoso. Pedro, no puede ser presidente de la gestora\"",
+      "subtitle": "Mar Costa, la concejal que denunció por acoso laboral al delegado del Gobierno en Extremadura, nuevo líder del PSOE en la región, fue la referente sanchista en las primarias de 2017",
+      "url": "https://www.elmundo.es/espana/2026/01/02/69580534fc6c8343628b45a7.html",
+      "scraped_at": "2026-01-03T06:46:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Una edil socialista denuncia por acoso laboral al delegado del Gobierno, presidente de la Gestora del PSOE y amigo personal de Sánchez",
-      "subtitle": "José Luis Quintana acaba de tomar las riendas del partido en esa comunidad tras la dimisión de Miguel Ángel Gallardo por los malos resultados en las elecciones del 21-D",
-      "url": "https://www.elmundo.es/espana/extremadura/2026/01/01/6956b9eae4d4d8fd7e8b458f.html",
-      "scraped_at": "2026-01-02T06:49:26Z"
+      "title": "El Senado pide permiso para interrogar a Ábalos este jueves en su primera salida 42 días después",
+      "subtitle": "La Cámara Alta informa al Supremo de la cita del día 8 por el 'caso Koldo'. El ex ministro ya ha recibido la citación en Soto del Real",
+      "url": "https://www.elmundo.es/espana/2026/01/02/6957e22421efa0bd398b4598.html",
+      "scraped_at": "2026-01-03T06:46:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "Tragedia en la estación de esquí: 40 muertos, 100 heridos y la \"espera insoportable\" de padres desesperados",
-      "subtitle": "Los primeros en llegar hablan de \"un campo de batalla\", con un espeso humo negro saliendo del bar y personas en llamas que corrían desesperadas chillando",
-      "url": "https://www.elmundo.es/internacional/2026/01/01/6956bc4bfc6c833c548b4592.html",
-      "scraped_at": "2026-01-02T06:49:26Z"
+      "title": "El día después del infierno de Crans-Montana: \"Regalaban bengalas con cada botella... no sabemos dónde está mi amigo Taylón\"",
+      "subtitle": "Supervivientes, familiares y amigos siguen sin conocer el destino de sus seres queridos tras el incendio del bar Le Constellation en Nochevieja",
+      "url": "https://www.elmundo.es/internacional/2026/01/02/6958262ffc6c83be068b4585.html",
+      "scraped_at": "2026-01-03T06:46:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "¿Qué pudo desencadenar la tragedia en la estación de esquí suiza de Crans-Montana?",
-      "subtitle": "Las autoridades que investigan el incendio en el local en el que cientos de personas celebraban el Año Nuevo se centra en determinar si el establecimiento cumplía o no con todas las normas y exigencias de seguridad vigentes",
-      "url": "https://www.elmundo.es/internacional/2026/01/01/6956c402e9cf4aac168b459a.html",
-      "scraped_at": "2026-01-02T06:49:27Z"
+      "title": "Crisis de natalidad: sólo uno de cada tres jóvenes se plantea tener hijos en los próximos cinco años",
+      "subtitle": "La caída sostenida en el número de nacimientos y el envejecimiento de la población no tiene visos de variar a medio plazo, ni tan siquiera con los nuevos permisos de paternidad",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/01/03/6957eb1ce9cf4a782b8b4596.html",
+      "scraped_at": "2026-01-03T06:46:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "Elecciones Generales",
-      "subtitle": "Quieren que sean antes que las autonómicas y municipales para evitar el \"voto de castigo\" de 2023",
-      "url": "https://www.elmundo.es/espana/2025/12/30/695400fefc6c8388228b45ad.html",
-      "scraped_at": "2026-01-02T06:49:27Z"
+      "title": "Pensiones",
+      "subtitle": "La generación Z y los 'millennials' se autoperciben agraviados por sus antecesores",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/01/02/6957eac5e9cf4a8b7b8b45ab.html",
+      "scraped_at": "2026-01-03T06:46:08Z"
     }
   ]
 }

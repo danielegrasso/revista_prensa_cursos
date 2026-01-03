@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Moncloa mueve ficha para elegir al juez que revisará el caso del fiscal en Europa: La nueva embajadora ante el Consejo de Europa es cercana a Albares y el exsecretario de Estado con Zapatero, Luis López Guerra, preside un panel de elección de jueces. El nuevo magistrado verá el recurso de García Ortiz; Cuando fomentar la natalidad acaba reduciendo los ingresos de las mujeres trabajadoras: La política de ayudas a las mujeres, si están mal diseñadas, pueden provocar efectos adversos a lo que se pretende. Esto es lo que plantea el Banco de España en un reciente trabajo sobre la eficacia de los incentivos; ¿Gentrificar la pelota hasta morir de éxito? Bienvenidos al fútbol XXL (con extra de todo): El &#039;soccer&#039; volverá a ser fútbol este verano. Gianni Infantino cumple su gran obra con el Mundial más grande de todos los tiempos. La saturación del calendario roza lo absurdo y el aficionado ve cómo el negocio se impone al producto. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-02T06:49:39Z",
+  "summary": "Resumen del día en El Confidencial: La crisis de vivienda expulsa población de las grandes ciudades cada vez más lejos: Lo que hace unos años eran emigraciones a las ciudades de la periferia, se ha convertido en población que emigra hacia el Mediterráneo o el norte de España buscando mejor calidad de vida; Otegi acaricia su meta de 200 presos de ETA en la calle: 163 ya están libres o en semilibertad: Los descuentos de condena en Francia y los terceros grados desde la transferencia de Prisiones aceleran las excarcelaciones. &quot;Esos 200 tienen que salir. Si hay que votar los Presupuestos, los votaremos&quot;, dijo el líder abertzale; Joan García vivirá el derbi más caliente en años: la afición del Espanyol no olvida su 'traición': El club blanquiazul instaló redes para evitar el lanzamiento de objetos como ratas de peluche. El estadio del Espanyol está apercibido de cierre y contará con mucha seguridad. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-03T06:46:21Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Moncloa mueve ficha para elegir al juez que revisará el caso del fiscal en Europa",
-      "subtitle": "La nueva embajadora ante el Consejo de Europa es cercana a Albares y el exsecretario de Estado con Zapatero, Luis López Guerra, preside un panel de elección de jueces. El nuevo magistrado verá el recurso de García Ortiz",
-      "url": "https://www.elconfidencial.com/espana/2026-01-02/gobierno-influencia-estrasburgo-eleccion-juez-caso-fiscal-europa_4276583/",
-      "scraped_at": "2026-01-02T06:49:37Z"
+      "title": "La crisis de vivienda expulsa población de las grandes ciudades cada vez más lejos",
+      "subtitle": "Lo que hace unos años eran emigraciones a las ciudades de la periferia, se ha convertido en población que emigra hacia el Mediterráneo o el norte de España buscando mejor calidad de vida",
+      "url": "https://www.elconfidencial.com/economia/2026-01-03/crisis-vivienda-expulsa-poblacion-lejos-grandes-ciudades_4276236/",
+      "scraped_at": "2026-01-03T06:46:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cuando fomentar la natalidad acaba reduciendo los ingresos de las mujeres trabajadoras",
-      "subtitle": "La política de ayudas a las mujeres, si están mal diseñadas, pueden provocar efectos adversos a lo que se pretende. Esto es lo que plantea el Banco de España en un reciente trabajo sobre la eficacia de los incentivos",
-      "url": "https://www.elconfidencial.com/economia/2026-01-02/mujeres-salarios-brecha-salarial-empleo-ocupacion-subvenciones-subsidios-fecundidad-fertilidad-banco-de-espana-estudio_4276972/",
-      "scraped_at": "2026-01-02T06:49:38Z"
+      "title": "Otegi acaricia su meta de 200 presos de ETA en la calle: 163 ya están libres o en semilibertad",
+      "subtitle": "Los descuentos de condena en Francia y los terceros grados desde la transferencia de Prisiones aceleran las excarcelaciones. &quot;Esos 200 tienen que salir. Si hay que votar los Presupuestos, los votaremos&quot;, dijo el líder abertzale",
+      "url": "https://www.elconfidencial.com/espana/2026-01-03/otegi-meta-200-presos-eta-calle-163-libres-semilibertad_4277567/",
+      "scraped_at": "2026-01-03T06:46:19Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Gentrificar la pelota hasta morir de éxito? Bienvenidos al fútbol XXL (con extra de todo)",
-      "subtitle": "El &#039;soccer&#039; volverá a ser fútbol este verano. Gianni Infantino cumple su gran obra con el Mundial más grande de todos los tiempos. La saturación del calendario roza lo absurdo y el aficionado ve cómo el negocio se impone al producto",
-      "url": "https://www.elconfidencial.com/deportes/futbol/2026-01-02/horizontes-2026-futbol-negocio-problema_4266782/",
-      "scraped_at": "2026-01-02T06:49:38Z"
+      "title": "Joan García vivirá el derbi más caliente en años: la afición del Espanyol no olvida su 'traición'",
+      "subtitle": "El club blanquiazul instaló redes para evitar el lanzamiento de objetos como ratas de peluche. El estadio del Espanyol está apercibido de cierre y contará con mucha seguridad",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-01-03/espanyol-barca-derbi-joan-garcia-ratas-seguridad_4277480/",
+      "scraped_at": "2026-01-03T06:46:20Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Reconstrucción de la tragedia de Nochevieja en Suiza: unas velas, combustión y madera",
-      "subtitle": "Forenses desplazados a Crans-Montana intentarán identificar a las víctimas, un proceso que podría &quot;tomar tiempo&quot;, según ha adelantado la Fiscalía del país",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-02/unas-velas-combustion-generalizada-y-madera-reconstruccion-de-la-tragedia-de-nochevieja-en-suiza_4277223/",
-      "scraped_at": "2026-01-02T06:49:39Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "'Verdades ocultas': Ethan Hawke lo hace todo bien, menos actuar",
-      "subtitle": "El actor protagoniza una entretenida serie ambientada en su Texas natal",
-      "url": "https://www.elconfidencial.com/cultura/2026-01-02/ethan-hawke-verdades-ocultas-texas-1hms_4276419/",
-      "scraped_at": "2026-01-02T06:49:39Z"
+      "title": "Nevadas España",
+      "subtitle": "La llegada de la borrasca Francis y su interacción con una masa de aire polar continental podrían desencadenar un episodio de nevadas generalizadas en cotas bajas en varias regiones de España durante los primeros días del año",
+      "url": "https://www.elconfidencial.com/espana/2026-01-02/borrasca-francis-espana-riesgo-nevadas-1qrt_4277429/",
+      "scraped_at": "2026-01-03T06:46:21Z"
     }
   ]
 }

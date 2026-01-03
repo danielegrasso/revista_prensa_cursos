@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Nochevieja trágica en los Alpes: El fuego devora cuarenta vidas en un bar de la estación de esquí de Crans-Montana; 2026: el año del eclipse: Ni la derecha tiene garantizada la victoria ni el Gobierno la supervivencia en el nuevo calendario que acabamos de estrenar; Un gran salto en tres etapas: El salto que ha dado España en términos económicos en sus cuatro décadas de pertenencia a la Unión Europea es de mérito. El incremento del PIB per cápita. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-02T06:49:35Z",
+  "summary": "Resumen del día en La Vanguardia: La lentitud en la identificación de las víctimas en Suiza desespera a  las familias: “Busco a mi hijo”: Desesperación en la estación de esquí la lentitud en el proceso de identificación de muertos y heridos; La policía interroga a la pareja de propietarios del bar Le Constellation en Crans-Montana: La fiscal al frente de la investigación admite la hipótesis de la pirotecnia en las botellas que prendió la espuma de amortiguación aústica como origen del incendio; Se registran fuertes explosiones en Caracas y la zona sur se queda sin electricidad: Las redes sociales se llenan de vídeos que muestran varias detonaciones durante esta madrugada. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-03T06:46:17Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Nochevieja trágica en los Alpes",
-      "subtitle": "El fuego devora cuarenta vidas en un bar de la estación de esquí de Crans-Montana",
-      "url": "https://www.lavanguardia.com/internacional/20260102/11406806/nochevieja-tragica-alpes.html",
-      "scraped_at": "2026-01-02T06:49:34Z"
+      "title": "La lentitud en la identificación de las víctimas en Suiza desespera a  las familias: “Busco a mi hijo”",
+      "subtitle": "Desesperación en la estación de esquí la lentitud en el proceso de identificación de muertos y heridos",
+      "url": "https://www.lavanguardia.com/internacional/20260103/11409087/busco-mi-hijo-crans-montana.html",
+      "scraped_at": "2026-01-03T06:46:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "2026: el año del eclipse",
-      "subtitle": "Ni la derecha tiene garantizada la victoria ni el Gobierno la supervivencia en el nuevo calendario que acabamos de estrenar",
-      "url": "https://www.lavanguardia.com/politica/20260102/11406664/ano-eclipse-2026.html",
-      "scraped_at": "2026-01-02T06:49:35Z"
+      "title": "La policía interroga a la pareja de propietarios del bar Le Constellation en Crans-Montana",
+      "subtitle": "La fiscal al frente de la investigación admite la hipótesis de la pirotecnia en las botellas que prendió la espuma de amortiguación aústica como origen del incendio",
+      "url": "https://www.lavanguardia.com/internacional/20260103/11409088/policia-interroga-pareja-propietarios-bar-le-constellation-crans-montana.html",
+      "scraped_at": "2026-01-03T06:46:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un gran salto en tres etapas",
-      "subtitle": "El salto que ha dado España en términos económicos en sus cuatro décadas de pertenencia a la Unión Europea es de mérito. El incremento del PIB per cápita",
-      "url": "https://www.lavanguardia.com/politica/20260102/11405035/gran-salto-tres-etapas.html",
-      "scraped_at": "2026-01-02T06:49:35Z"
+      "title": "Se registran fuertes explosiones en Caracas y la zona sur se queda sin electricidad",
+      "subtitle": "Las redes sociales se llenan de vídeos que muestran varias detonaciones durante esta madrugada",
+      "url": "https://www.lavanguardia.com/internacional/20260103/11409527/registran-fuertes-explosiones-caracas-zona-sur-queda-electricidad.html",
+      "scraped_at": "2026-01-03T06:46:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Mamdani abre una “nueva era para la clase trabajadora” de Nueva York en su primer día como alcalde",
-      "subtitle": "El socialista jura el Corán y se convierte en el primer musulmán en asumir la alcaldía de la capital financiera",
-      "url": "https://www.lavanguardia.com/internacional/20260101/11406764/mamdani-abre-nueva-clase-trabajadora-primer-dia-alcalde-nueva-york.html",
-      "scraped_at": "2026-01-02T06:49:35Z"
+      "title": "Europa o Miami, no hay tercera vía",
+      "subtitle": "El enfrentamiento de Estados Unidos y la Unión Europea afecta de lleno a España",
+      "url": "https://www.lavanguardia.com/politica/20260103/11409452/europa-miami-hay-tercera.html",
+      "scraped_at": "2026-01-03T06:46:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Dos jóvenes que escaparon del incendio en Suiza relatan el pánico: “Todo el mundo gritaba”",
-      "subtitle": "Según su testimonio, el origen de la tragedia fueron unas bengalas o artificios pirotécnicos que se confeccionaron en unas botellas de champán",
-      "url": "https://www.lavanguardia.com/internacional/20260101/11406465/dos-jovenes-escaparon-incendio-suiza-relatan-panico-mundo-gritaba.html",
-      "scraped_at": "2026-01-02T06:49:35Z"
+      "title": "La costa ilustrada",
+      "subtitle": "Los paisajes geográficos, literarios y cinematográficos de una vida en Mallorca; los lugares en que numerosos artistas, desde Chopin y George Sand a Robert Graves,",
+      "url": "https://www.lavanguardia.com/cultura/culturas/20260103/11389984/costa-ilustrada.html",
+      "scraped_at": "2026-01-03T06:46:17Z"
     }
   ]
 }
