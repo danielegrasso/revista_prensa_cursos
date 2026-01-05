@@ -1,21 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Unamuno y la exhumación de sus restos: ¿una muerte extraña o un asesinato encubierto?: Nuevos documentos, ensayos y novelas abonan la hipótesis del crimen. La Universidad de Salamanca ha creado un grupo de investigación y la familia podría autorizar la exhumación del cadáver 90 años después; Las 29 veces que Trump se refirió al petróleo en su rueda de prensa sobre Venezuela: En sus últimas semanas, Nicolás Maduro ya intentó ofrecer las bondades de su industria petrolera a EEUU. Sin embargo, desde Washington no se tomó en serio, entendiendo que era una estrategia para &quot;ganar tiempo&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-04T06:47:25Z",
+  "summary": "Resumen del día en El Confidencial: El manifiesto de Jordi Sevilla agita una ola  antisanchista dentro del PSOE inédita en el partido desde 2017: Se hará público el lunes 12 con la vocación de influir ya en los pactos del PSOE y en sus políticas para atraerlo hacia posiciones socialdemócratas. &quot;¿Por qué esperar a perderlo todo para cambiar?&quot;, se preguntan los críticos; Reconversión en Moncloa para atar a los socios: \"O estás con los tigres o estás con los leones\": El gabinete del presidente recopila y busca ideas para recuperar la iniciativa política del Gobierno. Creer que ninguno de sus socios quiere propiciar la llegada de PP y Vox les da garantías; El triple (y nefasto) mensaje que manda Donald Trump al atacar Venezuela y capturar a Maduro: El golpe de EEUU en el país caribeño es una amenaza para otros gobiernos de América Latina e Irán, al tiempo puede inspirar a Rusia y China iniciativas similares en sus respectivas áreas de influencia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-05T06:55:12Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Unamuno y la exhumación de sus restos: ¿una muerte extraña o un asesinato encubierto?",
-      "subtitle": "Nuevos documentos, ensayos y novelas abonan la hipótesis del crimen. La Universidad de Salamanca ha creado un grupo de investigación y la familia podría autorizar la exhumación del cadáver 90 años después",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-01-04/muerte-unamuno-franco-asesinato-1hms_4276905/",
-      "scraped_at": "2026-01-04T06:47:25Z"
+      "title": "El manifiesto de Jordi Sevilla agita una ola  antisanchista dentro del PSOE inédita en el partido desde 2017",
+      "subtitle": "Se hará público el lunes 12 con la vocación de influir ya en los pactos del PSOE y en sus políticas para atraerlo hacia posiciones socialdemócratas. &quot;¿Por qué esperar a perderlo todo para cambiar?&quot;, se preguntan los críticos",
+      "url": "https://www.elconfidencial.com/espana/2026-01-05/manifiesto-jordi-sevilla-desata-movimientos-todas-federaciones-socialistas_4277231/",
+      "scraped_at": "2026-01-05T06:55:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las 29 veces que Trump se refirió al petróleo en su rueda de prensa sobre Venezuela",
-      "subtitle": "En sus últimas semanas, Nicolás Maduro ya intentó ofrecer las bondades de su industria petrolera a EEUU. Sin embargo, desde Washington no se tomó en serio, entendiendo que era una estrategia para &quot;ganar tiempo&quot;",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-03/29-veces-trump-venezuela-petroleo-maduro_4278060/",
-      "scraped_at": "2026-01-04T06:47:25Z"
+      "title": "Reconversión en Moncloa para atar a los socios: \"O estás con los tigres o estás con los leones\"",
+      "subtitle": "El gabinete del presidente recopila y busca ideas para recuperar la iniciativa política del Gobierno. Creer que ninguno de sus socios quiere propiciar la llegada de PP y Vox les da garantías",
+      "url": "https://www.elconfidencial.com/espana/2026-01-05/reconversion-moncloa-superar-crisis-atar-socios_4277649/",
+      "scraped_at": "2026-01-05T06:55:12Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El triple (y nefasto) mensaje que manda Donald Trump al atacar Venezuela y capturar a Maduro",
+      "subtitle": "El golpe de EEUU en el país caribeño es una amenaza para otros gobiernos de América Latina e Irán, al tiempo puede inspirar a Rusia y China iniciativas similares en sus respectivas áreas de influencia",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-04/trump-venezuela-maduro-petroleo-1hms_4278160/",
+      "scraped_at": "2026-01-05T06:55:12Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: CAYÓ MADURO: Los Delta Force ejecutan un ataque coordinado contra objetivos militares en el país y extraen al presidente y a su esposa rumbo a Nueva York para ser juzgados por narcotráfico y armas; Espías y cuerpos de élite: así se logró la formidable captura de Maduro: Los Delta Force, la unidad militar de operaciones especiales, ejecutó una misión nocturna planificada al milímetro para extraer a Maduro y su esposa; Trump desinfla las esperanzas de la oposición de liderar la transición en Venezuela tras descartar a Machado: La líder opositora aseguró este sábado que estaban preparados para asumir el poder, pero el presidente de EE.UU. parece no contar con ella, y sí con la permanencia de la vicepresidenta Delcy Rodríguez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-04T06:47:20Z",
+  "summary": "Resumen del día en ABC.es: Ultimátum de Trump a Delcy: «Nos tiene que dar todo, o acabará peor que Maduro»: El presidente dice que no descarta atacar Colombia y que Cuba está a punto de caer; Edmundo González hace un llamamiento al Ejército: «Su deber es cumplir y hacer cumplir el mandato soberano»: En un mensaje en vídeo, el presidente electo de Venezuela ha asegurado que solo entonces «podrá iniciarse de manera seria y responsable un vedadero proceso de transición democrática»; El plan en Venezuela: mantener a Delcy bajo el control de Marco Rubio hasta garantizar elecciones democráticas: Bloqueo de la venta de crudo, transición democrática sin plazos dilatorios, expulsión de grupos armados, fin del narcotráfico y ruptura de alianzas con Rusia, Irán y China, las exigencias de la Casa Blanca. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-05T06:55:08Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "CAYÓ MADURO",
-      "subtitle": "Los Delta Force ejecutan un ataque coordinado contra objetivos militares en el país y extraen al presidente y a su esposa rumbo a Nueva York para ser juzgados por narcotráfico y armas",
-      "url": "https://www.abc.es/internacional/eeuu-dirigira-venezuela-transicion-controlara-petroleo-20260104035912-nt.html",
-      "scraped_at": "2026-01-04T06:47:19Z"
+      "title": "Ultimátum de Trump a Delcy: «Nos tiene que dar todo, o acabará peor que Maduro»",
+      "subtitle": "El presidente dice que no descarta atacar Colombia y que Cuba está a punto de caer",
+      "url": "https://www.abc.es/internacional/ultimatum-trump-delcy-dar-acabara-peor-maduro-20260105023447-nt.html",
+      "scraped_at": "2026-01-05T06:55:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Espías y cuerpos de élite: así se logró la formidable captura de Maduro",
-      "subtitle": "Los Delta Force, la unidad militar de operaciones especiales, ejecutó una misión nocturna planificada al milímetro para extraer a Maduro y su esposa",
-      "url": "https://www.abc.es/internacional/madrugada-delta-force-operacion-captura-maduro-20260103181407-nt.html",
-      "scraped_at": "2026-01-04T06:47:20Z"
+      "title": "Edmundo González hace un llamamiento al Ejército: «Su deber es cumplir y hacer cumplir el mandato soberano»",
+      "subtitle": "En un mensaje en vídeo, el presidente electo de Venezuela ha asegurado que solo entonces «podrá iniciarse de manera seria y responsable un vedadero proceso de transición democrática»",
+      "url": "https://www.abc.es/internacional/edmundo-gonzalez-llamamiento-ejercito-deber-cumplir-cumplir-20260104005133-nt.html",
+      "scraped_at": "2026-01-05T06:55:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump desinfla las esperanzas de la oposición de liderar la transición en Venezuela tras descartar a Machado",
-      "subtitle": "La líder opositora aseguró este sábado que estaban preparados para asumir el poder, pero el presidente de EE.UU. parece no contar con ella, y sí con la permanencia de la vicepresidenta Delcy Rodríguez",
-      "url": "https://www.abc.es/internacional/trump-desinfla-esperanzas-oposicion-liderar-transicion-venezuela-20260103034727-nt.html",
-      "scraped_at": "2026-01-04T06:47:20Z"
+      "title": "El plan en Venezuela: mantener a Delcy bajo el control de Marco Rubio hasta garantizar elecciones democráticas",
+      "subtitle": "Bloqueo de la venta de crudo, transición democrática sin plazos dilatorios, expulsión de grupos armados, fin del narcotráfico y ruptura de alianzas con Rusia, Irán y China, las exigencias de la Casa Blanca",
+      "url": "https://www.abc.es/internacional/plan-trump-venezuela-transicion-teledirigida-20260104195252-nt.html",
+      "scraped_at": "2026-01-05T06:55:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "El retorno de la 'doctrina Monroe': el nuevo orden de EE.UU.",
-      "subtitle": "El ataque a Venezuela y la captura de Maduro marcan el retorno a la 'doctrina Monroe' que estableció el derecho a intervenir en el continente americano para defender los intereses de Estados Unidos",
-      "url": "https://www.abc.es/opinion/pedro-garcia-cuartango-nuevo-orden-donald-trump-20260103034806-nt.html",
-      "scraped_at": "2026-01-04T06:47:20Z"
+      "title": "Diosdado: el último objetivo pendiente de la justicia de EE.UU.",
+      "subtitle": "Diosdado Cabello reapareció el sábado en público, horas después de la captura de Nicolás Maduro, para lanzar un mensaje de desafío y asegurar que estaba dispuesto a plantar cara",
+      "url": "https://www.abc.es/internacional/diosdado-ultimo-objetivo-pendiente-justicia-eeuu-20260105041710-nt.html",
+      "scraped_at": "2026-01-05T06:55:08Z"
     },
     {
       "source": "ABC.es",
       "title": "Venezuela",
       "subtitle": "Sigue en directo la última hora sobre las explosiones en Caracas y algunas bases militares",
       "url": "https://www.abc.es/internacional/registran-varias-explosiones-caracas-incluidas-instalaciones-militares-20260103085206-di.html",
-      "scraped_at": "2026-01-04T06:47:20Z"
+      "scraped_at": "2026-01-05T06:55:08Z"
     }
   ]
 }
