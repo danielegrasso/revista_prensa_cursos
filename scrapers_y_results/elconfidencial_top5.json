@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El manifiesto de Jordi Sevilla agita una ola  antisanchista dentro del PSOE inédita en el partido desde 2017: Se hará público el lunes 12 con la vocación de influir ya en los pactos del PSOE y en sus políticas para atraerlo hacia posiciones socialdemócratas. &quot;¿Por qué esperar a perderlo todo para cambiar?&quot;, se preguntan los críticos; Reconversión en Moncloa para atar a los socios: \"O estás con los tigres o estás con los leones\": El gabinete del presidente recopila y busca ideas para recuperar la iniciativa política del Gobierno. Creer que ninguno de sus socios quiere propiciar la llegada de PP y Vox les da garantías; El triple (y nefasto) mensaje que manda Donald Trump al atacar Venezuela y capturar a Maduro: El golpe de EEUU en el país caribeño es una amenaza para otros gobiernos de América Latina e Irán, al tiempo puede inspirar a Rusia y China iniciativas similares en sus respectivas áreas de influencia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-05T06:55:12Z",
+  "summary": "Resumen del día en El Confidencial: Zapatero coloca en su 'lobby' prochino a la expareja del gurú empresarial del presidente Sánchez: El expresidente del Gobierno incorpora al Consejo Asesor de Gate Center a Érika Rodríguez Pinzón, exmujer de Manuel de la Rocha, ejecutor de la política empresarial de Moncloa; La venganza de los PIGS: cómo España, Portugal, Grecia e Italia pasaron a 'liderar' la economía: Los países &#039;apestados&#039; de la crisis financiera han sido coronados como las mejores economías de los últimos cinco años, según &#039;The Economist&#039;. ¿Cómo lo han hecho?; Diario de una ultramaratón en el Himalaya: el murciano que hizo podio desde el infierno: Manuel Vela pasó por una situación complicada hace unos años y se refugió en el &#039;running&#039;. Algo que empezó como una manera de desahogarse y se ha convertido en su guía. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-06T06:51:16Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El manifiesto de Jordi Sevilla agita una ola  antisanchista dentro del PSOE inédita en el partido desde 2017",
-      "subtitle": "Se hará público el lunes 12 con la vocación de influir ya en los pactos del PSOE y en sus políticas para atraerlo hacia posiciones socialdemócratas. &quot;¿Por qué esperar a perderlo todo para cambiar?&quot;, se preguntan los críticos",
-      "url": "https://www.elconfidencial.com/espana/2026-01-05/manifiesto-jordi-sevilla-desata-movimientos-todas-federaciones-socialistas_4277231/",
-      "scraped_at": "2026-01-05T06:55:12Z"
+      "title": "Zapatero coloca en su 'lobby' prochino a la expareja del gurú empresarial del presidente Sánchez",
+      "subtitle": "El expresidente del Gobierno incorpora al Consejo Asesor de Gate Center a Érika Rodríguez Pinzón, exmujer de Manuel de la Rocha, ejecutor de la política empresarial de Moncloa",
+      "url": "https://www.elconfidencial.com/espana/2026-01-06/zapatero-sanchez-lobby-prochino-rocha-erika-gate-center_4278792/",
+      "scraped_at": "2026-01-06T06:51:14Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Reconversión en Moncloa para atar a los socios: \"O estás con los tigres o estás con los leones\"",
-      "subtitle": "El gabinete del presidente recopila y busca ideas para recuperar la iniciativa política del Gobierno. Creer que ninguno de sus socios quiere propiciar la llegada de PP y Vox les da garantías",
-      "url": "https://www.elconfidencial.com/espana/2026-01-05/reconversion-moncloa-superar-crisis-atar-socios_4277649/",
-      "scraped_at": "2026-01-05T06:55:12Z"
+      "title": "La venganza de los PIGS: cómo España, Portugal, Grecia e Italia pasaron a 'liderar' la economía",
+      "subtitle": "Los países &#039;apestados&#039; de la crisis financiera han sido coronados como las mejores economías de los últimos cinco años, según &#039;The Economist&#039;. ¿Cómo lo han hecho?",
+      "url": "https://www.elconfidencial.com/economia/2026-01-06/espana-portugal-grecia-venganza-pigs_4276280/",
+      "scraped_at": "2026-01-06T06:51:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El triple (y nefasto) mensaje que manda Donald Trump al atacar Venezuela y capturar a Maduro",
-      "subtitle": "El golpe de EEUU en el país caribeño es una amenaza para otros gobiernos de América Latina e Irán, al tiempo puede inspirar a Rusia y China iniciativas similares en sus respectivas áreas de influencia",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-04/trump-venezuela-maduro-petroleo-1hms_4278160/",
-      "scraped_at": "2026-01-05T06:55:12Z"
+      "title": "Diario de una ultramaratón en el Himalaya: el murciano que hizo podio desde el infierno",
+      "subtitle": "Manuel Vela pasó por una situación complicada hace unos años y se refugió en el &#039;running&#039;. Algo que empezó como una manera de desahogarse y se ha convertido en su guía",
+      "url": "https://www.elconfidencial.com/deportes/atletismo/2026-01-06/ultramaraton-everest-trail-reto-himalaya_4273446/",
+      "scraped_at": "2026-01-06T06:51:16Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Uría, Pérez-Llorca y A&O Shearman se coronan en 2025 como los reyes del M&A",
+      "subtitle": "Los tres despachos de abogados son los únicos que logran cerrar 2025 con asesoramientos por valor de más de 20.000 millones de euros",
+      "url": "https://www.elconfidencial.com/juridico/2026-01-06/uria-perez-llorca-a-o-shearman-fusiones-adquisiciones_4278551/",
+      "scraped_at": "2026-01-06T06:51:16Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Televisión",
+      "subtitle": "Durante el nuevo episodio de la serie de La 1 de TVE, Lorenzo exigirá una intervención de Alonso, y Martina se sincerará finalmente sobre su beso con Adriano",
+      "url": "https://www.elconfidencial.com/television/",
+      "scraped_at": "2026-01-06T06:51:16Z"
     }
   ]
 }

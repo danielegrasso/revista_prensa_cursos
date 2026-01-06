@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump amenaza con nuevos ataques a Venezuela si Delcy Rodríguez no colabora y cede con el petróleo: La Administración de EEUU exhibe el secuestro de Nicolás Maduro mientras mantiene la amenaza de sucesivos ataques si el nuevo gobierno venezolano no se pliega a sus exigencias políticas y económicas; Sin el Congreso y en plena crisis interna: qué dice el secuestro de Maduro sobre la acumulación de poder de Trump: La incursión militar coincide con uno de los momentos de popularidad más bajos para el presidente estadounidense; El ataque de EEUU a Venezuela aumenta los temores de una invasión a Groenlandia: “Detengan las amenazas”: El embajador de Dinamarca en EEUU ha publicado un \"recordatorio amistoso\" de las alianzas defensivas entre ambos tras las declaraciones provocadoras del entorno MAGA. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-05T06:55:06Z",
+  "summary": "Resumen del día en elDiario.es: Trump utiliza la agresión a Venezuela para amenazar a los gobiernos de América que no se someten a EEUU: Donald Trump y su secretario de Estado, Marco Rubio, han amenazado directamente a Cuba, Colombia y México después de atacar ilegalmente Venezuela y derrocar a su presidente; Por qué Trump necesita más a Delcy Rodríguez que a María Corina Machado: El poder y el miedo que provoca son los factores que suelen mover las decisiones de Trump, no la democracia. Al presidente de EEUU le sirve Delcy Rodríguez para sus planes, mientras que María Corina Machado es ahora prescindible por su falta de poder real en Venezuela; China, el petróleo y el precio del golpe al derecho internacional: las claves económicas del ataque de EEUU en Venezuela: La agresión militar por parte de EEUU está marcada por varios intereses internacionales, especialmente por el petróleo, pero también por las ascendencia de China en la región. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-06T06:51:09Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump amenaza con nuevos ataques a Venezuela si Delcy Rodríguez no colabora y cede con el petróleo",
+      "title": "Trump utiliza la agresión a Venezuela para amenazar a los gobiernos de América que no se someten a EEUU",
+      "subtitle": "Donald Trump y su secretario de Estado, Marco Rubio, han amenazado directamente a Cuba, Colombia y México después de atacar ilegalmente Venezuela y derrocar a su presidente",
+      "url": "https://www.eldiario.es/internacional/trump-utiliza-agresion-venezuela-amenazar-gobiernos-america-no-someten-eeuu_1_12886299.html",
+      "scraped_at": "2026-01-06T06:51:07Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Por qué Trump necesita más a Delcy Rodríguez que a María Corina Machado",
+      "subtitle": "El poder y el miedo que provoca son los factores que suelen mover las decisiones de Trump, no la democracia. Al presidente de EEUU le sirve Delcy Rodríguez para sus planes, mientras que María Corina Machado es ahora prescindible por su falta de poder real en Venezuela",
+      "url": "https://www.eldiario.es/internacional/trump-necesita-delcy-rodriguez-corina-machado_1_12887148.html",
+      "scraped_at": "2026-01-06T06:51:07Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "China, el petróleo y el precio del golpe al derecho internacional: las claves económicas del ataque de EEUU en Venezuela",
+      "subtitle": "La agresión militar por parte de EEUU está marcada por varios intereses internacionales, especialmente por el petróleo, pero también por las ascendencia de China en la región",
+      "url": "https://www.eldiario.es/economia/china-petroleo-precio-golpe-derecho-internacional-claves-economicas-ataque-eeuu-venezuela_1_12887591.html",
+      "scraped_at": "2026-01-06T06:51:08Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El ataque contra Venezuela lleva a España a un nuevo choque con Trump frente a la tibieza de la UE",
+      "subtitle": "Sánchez condena la violación del derecho internacional de EEUU en Venezuela mientras los socios europeos no se atreven a dar ese paso. PP y Vox aplauden la operación pese a las \"dudas\" respecto a la legalidad, pero se revuelven contra Delcy Rodríguez, y la izquierda reclama más contundencia al Gobierno",
+      "url": "https://www.eldiario.es/politica/agresion-venezuela-lleva-espana-nuevo-choque-trump-frente-tibieza-ue_1_12886238.html",
+      "scraped_at": "2026-01-06T06:51:09Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Venezuela",
       "subtitle": "La Administración de EEUU exhibe el secuestro de Nicolás Maduro mientras mantiene la amenaza de sucesivos ataques si el nuevo gobierno venezolano no se pliega a sus exigencias políticas y económicas",
       "url": "https://www.eldiario.es/internacional/trump-amenaza-nuevos-ataques-venezuela-si-delcy-rodriguez-no-colabora-cede-petroleo_1_12885333.html",
-      "scraped_at": "2026-01-05T06:55:03Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sin el Congreso y en plena crisis interna: qué dice el secuestro de Maduro sobre la acumulación de poder de Trump",
-      "subtitle": "La incursión militar coincide con uno de los momentos de popularidad más bajos para el presidente estadounidense",
-      "url": "https://www.eldiario.es/internacional/congreso-plena-crisis-interna-dice-secuestro-maduro-acumulacion-trump_1_12885583.html",
-      "scraped_at": "2026-01-05T06:55:04Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El ataque de EEUU a Venezuela aumenta los temores de una invasión a Groenlandia: “Detengan las amenazas”",
-      "subtitle": "El embajador de Dinamarca en EEUU ha publicado un \"recordatorio amistoso\" de las alianzas defensivas entre ambos tras las declaraciones provocadoras del entorno MAGA",
-      "url": "https://www.eldiario.es/internacional/theguardian/ataque-eeuu-venezuela-aumenta-temores-invasion-groenlandia-detengan-amenazas_1_12885561.html",
-      "scraped_at": "2026-01-05T06:55:05Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "España rechaza junto a Brasil, Chile, Colombia, México y Uruguay las “acciones militares” de EEUU en Venezuela y llama a negociar sin injerencias externas",
-      "subtitle": "Los seis gobiernos firman un comunicado conjunto de rechazo a la incursión militar estadounidense en Caracas y la detención de Nicolás Maduro, además de pedir que la situación en Venezuela se resuelva \"exclusivamente por vías pacíficas\"",
-      "url": "https://www.eldiario.es/internacional/espana-rechaza-brasil-chile-colombia-mexico-uruguay-acciones-militares-eeuu-venezuela-llama-dialogo-injerencias-externas_1_12885383.html",
-      "scraped_at": "2026-01-05T06:55:05Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Petroleras",
-      "subtitle": "El presidente de EEUU asegura que los gigantes del petróleo están preparados para invertir miles de millones para explotar la industria venezolana tras expulsar ilegalmente a Maduro del poder; las compañías optan, por ahora, por el silencio",
-      "url": "https://www.eldiario.es/internacional/theguardian/grandes-petroleras-eeuu-negocio-millonario-venezuela-patrocinado-trump_1_12884604.html",
-      "scraped_at": "2026-01-05T06:55:06Z"
+      "scraped_at": "2026-01-06T06:51:09Z"
     }
   ]
 }

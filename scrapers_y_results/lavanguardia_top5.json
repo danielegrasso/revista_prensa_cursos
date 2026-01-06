@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: EE.UU. presiona al régimen chavista para que se someta: Si la presidenta interina “no hace lo correcto, pagará un mayor precio que Maduro”; Trump sugiere una intervención en Colombia y reitera sus amenazas a Cuba y Groenlandia: Envalentonado tras la incursión en Venezuela en la que secuestró a Maduro, el presidente advierte a los países de su alrededor; El rechazo a Corina Machado: El desdén de Trump por la premio Nobel ocurre tras la caída de popularidad de la opositora en la propia Venezuela. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-05T06:55:10Z",
+  "summary": "Resumen del día en La Vanguardia: Maduro había perdido el apoyo de la cúpula civil y militar del régimen: El mandatario venezolano había dilapidado el capital político y social del chavismo; Lo difícil empieza ahora: En menos de tres días, Nicolás Maduro ha pasado de estar en una cómoda estancia en Caracas a sentarse ante un tribunal federal en Nueva York acusado de narcotráfico.; Trump alarma a Dinamarca y Europa al decir que se ocupará de la isla ártica “en dos meses”: El presidente de Estados Unidos deja en el aire qué acción prepara y la primera ministra danesa, Mette Frederiksen, cree que Trump habla en serio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-06T06:51:13Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. presiona al régimen chavista para que se someta",
-      "subtitle": "Si la presidenta interina “no hace lo correcto, pagará un mayor precio que Maduro”",
-      "url": "https://www.lavanguardia.com/internacional/20260105/11412615/trump-advierte-rodriguez.html",
-      "scraped_at": "2026-01-05T06:55:09Z"
+      "title": "Maduro había perdido el apoyo de la cúpula civil y militar del régimen",
+      "subtitle": "El mandatario venezolano había dilapidado el capital político y social del chavismo",
+      "url": "https://www.lavanguardia.com/internacional/20260106/11415153/maduro-habia-perdido-apoyo-cupula-civil-militar-regimen.html",
+      "scraped_at": "2026-01-06T06:51:12Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump sugiere una intervención en Colombia y reitera sus amenazas a Cuba y Groenlandia",
+      "title": "Lo difícil empieza ahora",
+      "subtitle": "En menos de tres días, Nicolás Maduro ha pasado de estar en una cómoda estancia en Caracas a sentarse ante un tribunal federal en Nueva York acusado de narcotráfico.",
+      "url": "https://www.lavanguardia.com/opinion/20260106/11415038/dificil-empieza.html",
+      "scraped_at": "2026-01-06T06:51:12Z"
+    },
+    {
+      "source": "La Vanguardia",
+      "title": "Trump alarma a Dinamarca y Europa al decir que se ocupará de la isla ártica “en dos meses”",
+      "subtitle": "El presidente de Estados Unidos deja en el aire qué acción prepara y la primera ministra danesa, Mette Frederiksen, cree que Trump habla en serio",
+      "url": "https://www.lavanguardia.com/internacional/20260106/11414759/groenlandia-trump-dinamarca-escalofrios-venezuela-otan-acoso-estados-unidos.html",
+      "scraped_at": "2026-01-06T06:51:13Z"
+    },
+    {
+      "source": "La Vanguardia",
+      "title": "Mañana, en la batalla",
+      "subtitle": "Algunas cosas parecen regresar al pasado, pero estamos ante algo nuevo",
+      "url": "https://www.lavanguardia.com/internacional/20260106/11414893/manana-batalla-newsletter-peninsulas-enric-juliana.html",
+      "scraped_at": "2026-01-06T06:51:13Z"
+    },
+    {
+      "source": "La Vanguardia",
+      "title": "Trump sugiere una intervención militar en Colombia",
       "subtitle": "Envalentonado tras la incursión en Venezuela en la que secuestró a Maduro, el presidente advierte a los países de su alrededor",
       "url": "https://www.lavanguardia.com/internacional/20260105/11412807/trump-sugiere-nuevas-intervenciones-militares-colombia-cuba-groenlandia.html",
-      "scraped_at": "2026-01-05T06:55:09Z"
-    },
-    {
-      "source": "La Vanguardia",
-      "title": "El rechazo a Corina Machado",
-      "subtitle": "El desdén de Trump por la premio Nobel ocurre tras la caída de popularidad de la opositora en la propia Venezuela",
-      "url": "https://www.lavanguardia.com/internacional/20260105/11412499/rechazo-corina-machado.html",
-      "scraped_at": "2026-01-05T06:55:10Z"
-    },
-    {
-      "source": "La Vanguardia",
-      "title": "La declinante Europa",
-      "subtitle": "Pedro Sánchez se quedó el sábado bastante solo en su condena firme de la captura de Nicolás Maduro, que definió como una violación del derecho internacional. A lo",
-      "url": "https://www.lavanguardia.com/opinion/20260105/11412338/declinante-europa.html",
-      "scraped_at": "2026-01-05T06:55:10Z"
-    },
-    {
-      "source": "La Vanguardia",
-      "title": "Música para una nueva era",
-      "subtitle": "La marcha Radetzky culminaba el concierto vienés de Año Nuevo. Los valses, polcas y marchas resonaban en la dorada sala del Musikverein con un acento si cabe más",
-      "url": "https://www.lavanguardia.com/opinion/20260105/11412221/musica-nueva.html",
-      "scraped_at": "2026-01-05T06:55:10Z"
+      "scraped_at": "2026-01-06T06:51:13Z"
     }
   ]
 }
