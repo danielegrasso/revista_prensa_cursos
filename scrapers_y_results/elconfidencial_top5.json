@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sánchez deja de publicar el informe de cumplimiento que prometió tras sus 5 días de reflexión: Moncloa deja de publicar los datos que sí facilitaba en la anterior legislatura y vulnera el Plan de Acción por la Democracia de 2024 y el anteproyecto de Administración Abierta de 2025; Pelayo Cortina Koplowitz: \"Si Madrid es el nuevo Miami, Marbella es el nuevo Dubái\": Odia salir en los medios, y esta entrevista no es una excepción. Pelayo Cortina Koplowitz rompe con su discreción tradicional para explicar en primera persona el proyecto en el que lleva inmerso más de ocho años: Ilanga Capital; Así moldea la universidad tu ideología: \"La carrera me ha hecho menos de izquierdas\": La universidad en EEUU desplaza a la izquierda a los estudiantes en todas las carreras salvo Finanzas. En España, los universitarios están cada vez más cerca del centro ideológico. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-07T06:50:27Z",
+  "summary": "Resumen del día en El Confidencial: Moncloa afianza su plan: otra pinza con Trump que impulse a Vox y haga bajar al PP: El nuevo escenario internacional, con hiperprotagonismo del presidente norteamericano y Sánchez enfrentado a él desde hace meses, le anima a pensar en que el PSOE lo rentabilice en la izquierda y Vox en la derecha; El presidente norteamericano, el petróleo venezolano y el cuento de la lechera: El mundo ha cambiado y la doctrina Monroe ya no es posible. EEUU está obligado a respetar los intereses de China en el subcontinente americano. El petróleo venezolano es una mera cortina de humo. El petróleo no es lo que era; Ucrania, ¿temporada final? La guerra entra en un punto de extenuación y no retorno: El actual parece un escenario sin incentivos reales para un acuerdo de paz. Las regiones de Donetsk y Zaporiyia podrían sufrir un nuevo recrudecimiento del conflicto. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-08T06:50:40Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sánchez deja de publicar el informe de cumplimiento que prometió tras sus 5 días de reflexión",
-      "subtitle": "Moncloa deja de publicar los datos que sí facilitaba en la anterior legislatura y vulnera el Plan de Acción por la Democracia de 2024 y el anteproyecto de Administración Abierta de 2025",
-      "url": "https://www.elconfidencial.com/espana/2026-01-07/sanchez-oculta-informe-cumplimiento-legislativo_4278693/",
-      "scraped_at": "2026-01-07T06:50:25Z"
+      "title": "Moncloa afianza su plan: otra pinza con Trump que impulse a Vox y haga bajar al PP",
+      "subtitle": "El nuevo escenario internacional, con hiperprotagonismo del presidente norteamericano y Sánchez enfrentado a él desde hace meses, le anima a pensar en que el PSOE lo rentabilice en la izquierda y Vox en la derecha",
+      "url": "https://www.elconfidencial.com/espana/2026-01-08/moncloa-plan-elecciones-pinza-trump-vox-pp_4279601/",
+      "scraped_at": "2026-01-08T06:50:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pelayo Cortina Koplowitz: \"Si Madrid es el nuevo Miami, Marbella es el nuevo Dubái\"",
-      "subtitle": "Odia salir en los medios, y esta entrevista no es una excepción. Pelayo Cortina Koplowitz rompe con su discreción tradicional para explicar en primera persona el proyecto en el que lleva inmerso más de ocho años: Ilanga Capital",
-      "url": "https://www.elconfidencial.com/inmobiliario/hoteles/2026-01-07/entrevista-pelayo-cortina-koplowitz_4278015/",
-      "scraped_at": "2026-01-07T06:50:26Z"
+      "title": "El presidente norteamericano, el petróleo venezolano y el cuento de la lechera",
+      "subtitle": "El mundo ha cambiado y la doctrina Monroe ya no es posible. EEUU está obligado a respetar los intereses de China en el subcontinente americano. El petróleo venezolano es una mera cortina de humo. El petróleo no es lo que era",
+      "url": "https://www.elconfidencial.com/economia/2026-01-08/trump-petroleo-venezuela_4279462/",
+      "scraped_at": "2026-01-08T06:50:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Así moldea la universidad tu ideología: \"La carrera me ha hecho menos de izquierdas\"",
-      "subtitle": "La universidad en EEUU desplaza a la izquierda a los estudiantes en todas las carreras salvo Finanzas. En España, los universitarios están cada vez más cerca del centro ideológico",
-      "url": "https://www.elconfidencial.com/espana/2026-01-07/como-universidad-moldea-ideologia_4276584/",
-      "scraped_at": "2026-01-07T06:50:26Z"
+      "title": "Ucrania, ¿temporada final? La guerra entra en un punto de extenuación y no retorno",
+      "subtitle": "El actual parece un escenario sin incentivos reales para un acuerdo de paz. Las regiones de Donetsk y Zaporiyia podrían sufrir un nuevo recrudecimiento del conflicto",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-08/guerra-ucrania-rusia-kiev-trump-1hms_4279647/",
+      "scraped_at": "2026-01-08T06:50:40Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La pensión mínima supera las previsiones del Gobierno y algunas alcanzan el SMI",
-      "subtitle": "La reforma de 2023 fija un crecimiento de los complementos a mínimos que evite la pobreza de los pensionistas, lo que ha llevado el gasto a máximos históricos a pesar de la reducción en el número de perceptores",
-      "url": "https://www.elconfidencial.com/economia/2026-01-07/pensiones-minimas-suben-mas-igualan-smi_4277783/",
-      "scraped_at": "2026-01-07T06:50:27Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "\"Cobraba mucho menos\": Melani Olivares expone su sueldo tras el fin de 'Aída'",
-      "subtitle": "La actriz catalana ha acudido a &#039;Fiesta&#039; y ha demostrado la libertad y sinceridad que la caracteriza",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-06/sueldo-telecinco-melani-olivares-aida-cobraba-menos_4279080/",
-      "scraped_at": "2026-01-07T06:50:27Z"
+      "title": "Naufragio casi total: así han terminado todas las parejas de 'La isla de las tentaciones'",
+      "subtitle": "Las hogueras finales han subido el pulso del formato de Telecinco hasta romper en un final devastador para casi todos sus protagonistas",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-08/asi-han-terminado-parejas-la-isla-de-las-tentaciones_4279870/",
+      "scraped_at": "2026-01-08T06:50:40Z"
     }
   ]
 }
