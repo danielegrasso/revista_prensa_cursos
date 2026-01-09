@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: EE.UU. corta el suministro de petróleo que mantenía vivo al castrismo: Washington deja a La Habana sin su principal respaldo estructural; El chavismo toma las calles para impedir movilizaciones de la oposición: Aumenta la represión bajo el Estado de Conmoción Exterior: los ciudadanos borran de sus móviles las fotos de las protestas, los periodistas desaparecen y los comerciantes son extorsionados; 140 pasos encapuchados para una desorientación forzada: la humillación a los familiares de presos políticos en Venezuela: Sometidos a un cacheo exhaustivo, mostrando hasta la ropa interior, los parientes son obligados a caminar a ciegas antes de ver a los reclusos a través de un cristal. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-08T06:50:35Z",
+  "summary": "Resumen del día en ABC.es: El régimen chavista exhibe la liberación de presos políticos como «gesto unilateral de paz»: Lo ha anunciado el presidente de la Asamblea Nacional, que ha dado las gracias al expresidente José Luis Rodríguez Zapatero; El 'lobby' del petróleo presionó a Trump para intervenir en Venezuela y hacer negocio con los Rodríguez: Presiones empresariales y canales paralelos marcaron la pugna por las licencias petroleras y dividieron a la Administración sobre Venezuela; «Puto Trump»: la conversación de Delcy con Aldama que compromete a la elegida por EE.UU.: La nueva presidenta de Venezuela protagonizó una polémica conversación con el empresario español que figura en uno de los informes de la Guardia Civil. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-09T06:50:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "EE.UU. corta el suministro de petróleo que mantenía vivo al castrismo",
-      "subtitle": "Washington deja a La Habana sin su principal respaldo estructural",
-      "url": "https://www.abc.es/internacional/trump-corta-suministro-petroleo-mantenia-vivo-castrismo-20260108041647-nt.html",
-      "scraped_at": "2026-01-08T06:50:34Z"
+      "title": "El régimen chavista exhibe la liberación de presos políticos como «gesto unilateral de paz»",
+      "subtitle": "Lo ha anunciado el presidente de la Asamblea Nacional, que ha dado las gracias al expresidente José Luis Rodríguez Zapatero",
+      "url": "https://www.abc.es/internacional/venezuela-anuncia-liberacion-numero-importante-presos-politicos-20260108185819-nt.html",
+      "scraped_at": "2026-01-09T06:50:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "El chavismo toma las calles para impedir movilizaciones de la oposición",
-      "subtitle": "Aumenta la represión bajo el Estado de Conmoción Exterior: los ciudadanos borran de sus móviles las fotos de las protestas, los periodistas desaparecen y los comerciantes son extorsionados",
-      "url": "https://www.abc.es/internacional/chavismo-toma-calles-impedir-movilizaciones-oposicion-20260107204417-nt.html",
-      "scraped_at": "2026-01-08T06:50:34Z"
+      "title": "El 'lobby' del petróleo presionó a Trump para intervenir en Venezuela y hacer negocio con los Rodríguez",
+      "subtitle": "Presiones empresariales y canales paralelos marcaron la pugna por las licencias petroleras y dividieron a la Administración sobre Venezuela",
+      "url": "https://www.abc.es/internacional/lobby-crudo-defendio-delcy-rodriguez-ante-trump-20260108041714-nt.html",
+      "scraped_at": "2026-01-09T06:50:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "140 pasos encapuchados para una desorientación forzada: la humillación a los familiares de presos políticos en Venezuela",
-      "subtitle": "Sometidos a un cacheo exhaustivo, mostrando hasta la ropa interior, los parientes son obligados a caminar a ciegas antes de ver a los reclusos a través de un cristal",
-      "url": "https://www.abc.es/internacional/ciento-cuarenta-pasos-desorientacion-forzada-humillacion-familiares-20260107041758-nt.html",
-      "scraped_at": "2026-01-08T06:50:34Z"
+      "title": "«Puto Trump»: la conversación de Delcy con Aldama que compromete a la elegida por EE.UU.",
+      "subtitle": "La nueva presidenta de Venezuela protagonizó una polémica conversación con el empresario español que figura en uno de los informes de la Guardia Civil",
+      "url": "https://www.abc.es/espana/puto-trump-conversacion-delcy-aldama-compromete-elegida-20260109041731-nt.html",
+      "scraped_at": "2026-01-09T06:50:43Z"
     },
     {
       "source": "ABC.es",
-      "title": "Voces desde Groenlandia: «Somos pocos, no pondríamos resistencia»",
+      "title": "EE.UU. asegura que «muy pronto» comenzarán los ataques terrestres contra el narco en México",
+      "subtitle": "El presidente confirma sus intenciones en una entrevista en Fox News y crece la tensión con el gobierno de Sheinbaum",
+      "url": "https://www.abc.es/internacional/trump-asegura-pronto-comenzaran-ataques-terrestres-narco-20260109054432-nt.html",
+      "scraped_at": "2026-01-09T06:50:43Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Groenlandia",
       "subtitle": "El interés de Donald Trump por la isla no ha pillado desprevenidos a sus habitantes: «Ha estado todo un año haciendo comentarios así»",
       "url": "https://www.abc.es/internacional/voces-groenlandia-descartado-20260107041834-nt.html",
-      "scraped_at": "2026-01-08T06:50:34Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Sorteo Copa del Rey",
-      "subtitle": "Consulta los enfrentamientos para los encuentros de octavos de la Copa del Rey y rivales de Real Madrid, Barcelona, Atleti, Athletic y el resto de clasificados tras el sorteo",
-      "url": "https://www.abc.es/deportes/futbol/cruces-sorteo-copa-rey-partidos-emparejamientos-horarios-20260107100904-nt.html",
-      "scraped_at": "2026-01-08T06:50:35Z"
+      "scraped_at": "2026-01-09T06:50:43Z"
     }
   ]
 }
