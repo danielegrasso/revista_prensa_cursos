@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Venezuela libera a un “importante número” de presos para “consolidar la convivencia”, cinco de ellos españoles: El presidente del Parlamento venezolano ha agradecido la mediación a Zapatero, Lula y Qatar; Calderero, sastre, soldado, espía y Zapatero: Con el mundo pendiente de lo que haga Trump con Venezuela, el PP prefiere sostener que los hilos más siniestros los mueve Zapatero. La operación política y mediática es tan confusa que el expresidente ha pasado de ser cómplice de Maduro a colaborador de Trump; Cómo Trump ha convertido la agencia antinmigración en su milicia particular: Trump ha triplicado el presupuesto y duplicado el personal de ICE, en el punto de mira por el asesinato de una ciudadana estadounidense en Minneapolis. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-09T06:50:41Z",
+  "summary": "Resumen del día en elDiario.es: El PP anticipa una nueva guerra contra el Gobierno por la financiación autonómica pese a recibir el 70% de los nuevos fondos: Gobiernos autonómicos del PP han anunciado que recurrirán a la vía judicial contra el nuevo modelo, si se aprueba, al considerar que rompe la igualdad y beneficia a Catalunya por encima del resto, aunque se reducen las disparidades; ¿De dónde sale el dinero?, ¿quién gana más? Preguntas y respuestas sobre el nuevo modelo de financiación: Montero defiende la mayor solidaridad frente al sistema actual sin privilegiar ni perjudicar a nadie. \"No puede existir un modelo a medida para una comunidad concreta, sino dar respuesta a las realidades del conjunto, que son muy diversas\"; La carrera por suceder a Maduro: cómo es la batalla interna del chavismo por el poder en Venezuela: Las principales piezas del chavismo sostienen la fuerte implantación que el líder secuestrado forjó entre los distintos poderes del Estado, una de las claves de su solidez. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-10T06:45:52Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Venezuela libera a un “importante número” de presos para “consolidar la convivencia”, cinco de ellos españoles",
-      "subtitle": "El presidente del Parlamento venezolano ha agradecido la mediación a Zapatero, Lula y Qatar",
-      "url": "https://www.eldiario.es/internacional/venezuela-anuncia-liberacion-numero-importante-presos-consolidar-paz-convivencia_1_12894134.html",
-      "scraped_at": "2026-01-09T06:50:38Z"
+      "title": "El PP anticipa una nueva guerra contra el Gobierno por la financiación autonómica pese a recibir el 70% de los nuevos fondos",
+      "subtitle": "Gobiernos autonómicos del PP han anunciado que recurrirán a la vía judicial contra el nuevo modelo, si se aprueba, al considerar que rompe la igualdad y beneficia a Catalunya por encima del resto, aunque se reducen las disparidades",
+      "url": "https://www.eldiario.es/politica/pp-anticipa-nueva-guerra-gobierno-financiacion-autonomica-pese-recibir-70-nuevos-fondos_1_12896695.html",
+      "scraped_at": "2026-01-10T06:45:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Calderero, sastre, soldado, espía y Zapatero",
-      "subtitle": "Con el mundo pendiente de lo que haga Trump con Venezuela, el PP prefiere sostener que los hilos más siniestros los mueve Zapatero. La operación política y mediática es tan confusa que el expresidente ha pasado de ser cómplice de Maduro a colaborador de Trump",
-      "url": "https://www.eldiario.es/politica/calderero-sastre-soldado-espia-zapatero_129_12893283.html",
-      "scraped_at": "2026-01-09T06:50:39Z"
+      "title": "¿De dónde sale el dinero?, ¿quién gana más? Preguntas y respuestas sobre el nuevo modelo de financiación",
+      "subtitle": "Montero defiende la mayor solidaridad frente al sistema actual sin privilegiar ni perjudicar a nadie. \"No puede existir un modelo a medida para una comunidad concreta, sino dar respuesta a las realidades del conjunto, que son muy diversas\"",
+      "url": "https://www.eldiario.es/economia/hacienda-cuadrar-circulo-claves-nuevo-modelo-financiacion_1_12895815.html",
+      "scraped_at": "2026-01-10T06:45:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cómo Trump ha convertido la agencia antinmigración en su milicia particular",
-      "subtitle": "Trump ha triplicado el presupuesto y duplicado el personal de ICE, en el punto de mira por el asesinato de una ciudadana estadounidense en Minneapolis",
-      "url": "https://www.eldiario.es/internacional/trump-convertido-agencia-antinmigracion-milicia-particular_1_12894548.html",
-      "scraped_at": "2026-01-09T06:50:40Z"
+      "title": "La carrera por suceder a Maduro: cómo es la batalla interna del chavismo por el poder en Venezuela",
+      "subtitle": "Las principales piezas del chavismo sostienen la fuerte implantación que el líder secuestrado forjó entre los distintos poderes del Estado, una de las claves de su solidez",
+      "url": "https://www.eldiario.es/internacional/carrera-suceder-maduro-batalla-interna-chavismo-venezuela_129_12895749.html",
+      "scraped_at": "2026-01-10T06:45:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Qué opciones tiene Trump para hacerse con el control de Groenlandia",
-      "subtitle": "La Casa Blanca mantiene que usar el ejército siempre es una opción, pero la mayoría de los analistas no lo ven probable",
-      "url": "https://www.eldiario.es/internacional/theguardian/opciones-trump-hacerse-control-groenlandia_1_12892442.html",
-      "scraped_at": "2026-01-09T06:50:40Z"
+      "title": "Sánchez habla con Delcy Rodríguez y Edmundo González para “contribuir a acercar posiciones”",
+      "subtitle": "El presidente del Gobierno ha mantenido una conversación con la presidenta encargada de Venezuela tras la intervención de Trump para capturar a Maduro",
+      "url": "https://www.eldiario.es/internacional/sanchez-habla-delcy-rodriguez-lider-oposicion-queremos-contribuir-acercar-posiciones_1_12897126.html",
+      "scraped_at": "2026-01-10T06:45:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Groenlandia",
-      "subtitle": "A pesar de que la Administración de EEUU mantiene la presión para anexionarse el territorio de Dinamarca, sin descartar la opción militar, las instituciones de la Unión Europea rehuyen su papel geopolítico y rechazan la confrontación con el presidente estadounidense",
-      "url": "https://www.eldiario.es/internacional/ue-responde-paralisis-amenazas-groenlandia-trump-sigue-escalando_1_12891385.html",
-      "scraped_at": "2026-01-09T06:50:41Z"
+      "title": "Venezuela",
+      "subtitle": "Andrés Martínez Adasme, José María Basoa, Miguel Moreno Dapena, Ernesto Gorbe Cardona y Rocío San Miguel han llegado cerca de las 14.00 al Aeropuerto de Barajas",
+      "url": "https://www.eldiario.es/politica/cinco-presos-espanoles-liberados-venezuela-espana-camino-casas_1_12895084.html",
+      "scraped_at": "2026-01-10T06:45:52Z"
     }
   ]
 }

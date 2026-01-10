@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El régimen chavista exhibe la liberación de presos políticos como «gesto unilateral de paz»: Lo ha anunciado el presidente de la Asamblea Nacional, que ha dado las gracias al expresidente José Luis Rodríguez Zapatero; El 'lobby' del petróleo presionó a Trump para intervenir en Venezuela y hacer negocio con los Rodríguez: Presiones empresariales y canales paralelos marcaron la pugna por las licencias petroleras y dividieron a la Administración sobre Venezuela; «Puto Trump»: la conversación de Delcy con Aldama que compromete a la elegida por EE.UU.: La nueva presidenta de Venezuela protagonizó una polémica conversación con el empresario español que figura en uno de los informes de la Guardia Civil. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-09T06:50:43Z",
+  "summary": "Resumen del día en ABC.es: Aldama informaba a Delcy sobre los movimientos de la oposición venezolana: Ambos se intercambiaron numerosos mensajes sobre Leopoldo López al que la entonces número dos del Gobierno de Nicolás Maduro calificaba al líder opositor de «terrorista» o de psicópata; Nueve presos políticos liberados, cientos en la sombra: el teatro de los Rodríguez: Venezuela anuncia excarcelaciones mientras mantiene a entre 800 y 1.000 presos políticos. La estrategia es clara: liberar a cuentagotas, sin reconocer el autoritarismo silencioso. Una crónica desde Caracas sobre quiénes salen y quiénes permanecen en el cautiverio; Una quincena de españoles siguen presos en las cárceles venezolanas: El país caribeño ha liberado por el momento a nueve personas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-10T06:45:56Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El régimen chavista exhibe la liberación de presos políticos como «gesto unilateral de paz»",
-      "subtitle": "Lo ha anunciado el presidente de la Asamblea Nacional, que ha dado las gracias al expresidente José Luis Rodríguez Zapatero",
-      "url": "https://www.abc.es/internacional/venezuela-anuncia-liberacion-numero-importante-presos-politicos-20260108185819-nt.html",
-      "scraped_at": "2026-01-09T06:50:42Z"
+      "title": "Aldama informaba a Delcy sobre los movimientos de la oposición venezolana",
+      "subtitle": "Ambos se intercambiaron numerosos mensajes sobre Leopoldo López al que la entonces número dos del Gobierno de Nicolás Maduro calificaba al líder opositor de «terrorista» o de psicópata",
+      "url": "https://www.abc.es/espana/aldama-informaba-delcy-sobre-movimientos-oposicion-venezolana-20260110041637-nt.html",
+      "scraped_at": "2026-01-10T06:45:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 'lobby' del petróleo presionó a Trump para intervenir en Venezuela y hacer negocio con los Rodríguez",
-      "subtitle": "Presiones empresariales y canales paralelos marcaron la pugna por las licencias petroleras y dividieron a la Administración sobre Venezuela",
-      "url": "https://www.abc.es/internacional/lobby-crudo-defendio-delcy-rodriguez-ante-trump-20260108041714-nt.html",
-      "scraped_at": "2026-01-09T06:50:42Z"
+      "title": "Nueve presos políticos liberados, cientos en la sombra: el teatro de los Rodríguez",
+      "subtitle": "Venezuela anuncia excarcelaciones mientras mantiene a entre 800 y 1.000 presos políticos. La estrategia es clara: liberar a cuentagotas, sin reconocer el autoritarismo silencioso. Una crónica desde Caracas sobre quiénes salen y quiénes permanecen en el cautiverio",
+      "url": "https://www.abc.es/internacional/nueve-liberados-cientos-sombra-teatro-rodriguez-20260109053154-nt.html",
+      "scraped_at": "2026-01-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Puto Trump»: la conversación de Delcy con Aldama que compromete a la elegida por EE.UU.",
-      "subtitle": "La nueva presidenta de Venezuela protagonizó una polémica conversación con el empresario español que figura en uno de los informes de la Guardia Civil",
-      "url": "https://www.abc.es/espana/puto-trump-conversacion-delcy-aldama-compromete-elegida-20260109041731-nt.html",
-      "scraped_at": "2026-01-09T06:50:43Z"
+      "title": "Una quincena de españoles siguen presos en las cárceles venezolanas",
+      "subtitle": "El país caribeño ha liberado por el momento a nueve personas",
+      "url": "https://www.abc.es/internacional/quincena-presos-espanoles-permanecen-carceles-venezolanas-20260109042224-nt.html",
+      "scraped_at": "2026-01-10T06:45:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "EE.UU. asegura que «muy pronto» comenzarán los ataques terrestres contra el narco en México",
-      "subtitle": "El presidente confirma sus intenciones en una entrevista en Fox News y crece la tensión con el gobierno de Sheinbaum",
-      "url": "https://www.abc.es/internacional/trump-asegura-pronto-comenzaran-ataques-terrestres-narco-20260109054432-nt.html",
-      "scraped_at": "2026-01-09T06:50:43Z"
+      "title": "Libertad bajo chantaje",
+      "subtitle": "El régimen de Maduro no transita hacia la democracia: maniobra para ganar tiempo, destruir pruebas y perpetuar la impunidad",
+      "url": "https://www.abc.es/opinion/editorial-libertad-bajo-chantaje-20260110163839-nt.html",
+      "scraped_at": "2026-01-10T06:45:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Groenlandia",
-      "subtitle": "El interés de Donald Trump por la isla no ha pillado desprevenidos a sus habitantes: «Ha estado todo un año haciendo comentarios así»",
-      "url": "https://www.abc.es/internacional/voces-groenlandia-descartado-20260107041834-nt.html",
-      "scraped_at": "2026-01-09T06:50:43Z"
+      "title": "Camerún - Marruecos",
+      "subtitle": "Consulta dónde ver y seguir el partido de cuartos de final de la selección anfitriona, Marruecos, ante Camerún de la Copa África 2026",
+      "url": "https://www.abc.es/deportes/futbol/ver-online-television-marruecos-hoy-copa-africa-20260109183515-nt.html",
+      "scraped_at": "2026-01-10T06:45:56Z"
     }
   ]
 }

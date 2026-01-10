@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Zapatero, de enemigo público a liberador: \"El régimen le está lavando la cara\": Sus partidarios especulan con que &quot;le veremos en la Casa Blanca en nombre de Delcy&quot;, pero en la oposición venezolana le quitan toda responsabilidad y recuerdan que está en manos del Pollo Carvajal; Miedo y sangre en Mineápolis: \"ICE está deteniendo a ciudadanos americanos\": Semanas de redadas aleatorias y violentas contra ciudadanos estadounidenses en Mineápolis acaban de dar su primera víctima. Pero lo que está pasando es una señal de algo más grave; Trump tiene una idea para bajar los alquileres (pero no le va a gustar a Wall Street): La crisis de la vivienda es global. Y Trump ha entrado como elefante en cacharrería en el debate. Ha propuesto prohibir que los fondos de inversión acaparen propiedades unifamiliares destinadas al alquiler. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-09T06:50:49Z",
+  "summary": "Resumen del día en El Confidencial: Montero asume que la financiación dejaría sin margen de gasto a su sucesor: La recaudación generada por el ciclo económico se destinará &quot;casi en su totalidad&quot; a las comunidades autónomas. No solo eso, el Estado también soporta el déficit creciente de las pensiones y tiene el mandato de subir un 4,5% los salarios públicos; Alegría coloca a su jefa de campaña en el Hipódromo de Madrid para que cobre dietas: La exministra de Educación y candidata del PSOE a la presidencia del Gobierno de Aragón en las elecciones del próximo 8 de febrero premia con un sueldo en la empresa pública a su directora de comunicación, la periodista Rebeca Muñoz; Praxis, el misterioso grupo detrás del plan de Trump de anexionarse Groenlandia: Trump volvió a dejar al planeta en shock al afirmar que EEUU debía anexionarse Groenlandia, una retórica que subrayó con un gesto enormemente significativo: nombró como nuevo embajador en Dinamarca a su aliado Ken Howery. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-10T06:46:03Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Zapatero, de enemigo público a liberador: \"El régimen le está lavando la cara\"",
-      "subtitle": "Sus partidarios especulan con que &quot;le veremos en la Casa Blanca en nombre de Delcy&quot;, pero en la oposición venezolana le quitan toda responsabilidad y recuerdan que está en manos del Pollo Carvajal",
-      "url": "https://www.elconfidencial.com/espana/2026-01-08/hermano-delcy-agradece-zapatero-mediacion-liberar-espanoles-presos_4280438/",
-      "scraped_at": "2026-01-09T06:50:47Z"
+      "title": "Montero asume que la financiación dejaría sin margen de gasto a su sucesor",
+      "subtitle": "La recaudación generada por el ciclo económico se destinará &quot;casi en su totalidad&quot; a las comunidades autónomas. No solo eso, el Estado también soporta el déficit creciente de las pensiones y tiene el mandato de subir un 4,5% los salarios públicos",
+      "url": "https://www.elconfidencial.com/economia/2026-01-10/montero-nueva-financiacion-sucesor-hacienda_4281309/",
+      "scraped_at": "2026-01-10T06:45:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Miedo y sangre en Mineápolis: \"ICE está deteniendo a ciudadanos americanos\"",
-      "subtitle": "Semanas de redadas aleatorias y violentas contra ciudadanos estadounidenses en Mineápolis acaban de dar su primera víctima. Pero lo que está pasando es una señal de algo más grave",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-09/mineapolis-ice-inmigrantes-miedo_4280301/",
-      "scraped_at": "2026-01-09T06:50:48Z"
+      "title": "Alegría coloca a su jefa de campaña en el Hipódromo de Madrid para que cobre dietas",
+      "subtitle": "La exministra de Educación y candidata del PSOE a la presidencia del Gobierno de Aragón en las elecciones del próximo 8 de febrero premia con un sueldo en la empresa pública a su directora de comunicación, la periodista Rebeca Muñoz",
+      "url": "https://www.elconfidencial.com/espana/2026-01-10/psoe-elecciones-aragon-alegria-dietas-munoz-hipodromo_4280643/",
+      "scraped_at": "2026-01-10T06:46:00Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump tiene una idea para bajar los alquileres (pero no le va a gustar a Wall Street)",
-      "subtitle": "La crisis de la vivienda es global. Y Trump ha entrado como elefante en cacharrería en el debate. Ha propuesto prohibir que los fondos de inversión acaparen propiedades unifamiliares destinadas al alquiler",
-      "url": "https://www.elconfidencial.com/economia/2026-01-09/trump-idea-bajar-alquileres_4280379/",
-      "scraped_at": "2026-01-09T06:50:48Z"
+      "title": "Praxis, el misterioso grupo detrás del plan de Trump de anexionarse Groenlandia",
+      "subtitle": "Trump volvió a dejar al planeta en shock al afirmar que EEUU debía anexionarse Groenlandia, una retórica que subrayó con un gesto enormemente significativo: nombró como nuevo embajador en Dinamarca a su aliado Ken Howery",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-10/praxis-misterioso-grupo-detras-plan-trump-anexionarse-groenlandia_4281289/",
+      "scraped_at": "2026-01-10T06:46:02Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El periodismo de agroalimentación gana peso en el sur de Europa",
-      "subtitle": "EIT Food consolida la internacionalización de sus premios de periodismo en cuatro países europeos, con el objetivo de fomentar un relato riguroso sobre la innovación alimentaria y conectar los avances del sector con el consumidor final",
-      "url": "https://www.elconfidencial.com/comunicacion/2026-01-08/periodismo-agroalimentario-premios-eit-food-bra_4278567/",
-      "scraped_at": "2026-01-09T06:50:49Z"
+      "title": "Macron no se da por vencido: por qué el 'vía crucis' de Mercosur no ha terminado",
+      "subtitle": "París maniobra para intentar tumbar el mayor acuerdo comercial de la UE en la Eurocámara: &quot;Este no es el final de la historia&quot;",
+      "url": "https://www.elconfidencial.com/economia/2026-01-09/el-via-crucis-de-mercosur-no-ha-terminado_4281428/",
+      "scraped_at": "2026-01-10T06:46:02Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Muere un hombre \"de avanzada edad\" tras caer al mar en San Sebastián",
+      "subtitle": "Los servicios de rescate han hallado el cuerpo en la zona del Paseo de Salamanca, aunque en un principio habían iniciado la búsqueda en el espigón de la Zurriola, en la otra orilla del río",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/2026-01-09/busqueda-persona-mar-san-sebastian-1tna-1tps_4280938/",
+      "scraped_at": "2026-01-10T06:46:03Z"
     }
   ]
 }
