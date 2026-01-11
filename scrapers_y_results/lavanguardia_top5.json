@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno presiona al PP y prevé que la financiación se vote antes del verano: El acuerdo en Catalunya afianza el compromiso de Esquerra con Sánchez e Illa; ¿Quién gana más con la nueva financiación? Preguntas y respuestas sobre el nuevo modelo: Catalunya podría llegar a recaudar más del 77% del IVA entre la cesión general y las competencias no homogéneas; La correlación de fuerzas: Los heraldos del apocalipsis fiscal del Estado a cuenta de las concesiones del sanchismo al independentismo en el nuevo sistema de financiación autonómica deberían. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-10T06:45:59Z",
+  "summary": "Resumen del día en La Vanguardia: Dinamarca, un país en 'shock' ante la resolución de Trump por apoderarse de Groenlandia: Copenhague intenta atajar los planes de Donald Trump de hacerse con Groenlandia; Estados Unidos lleva el gen anexionista: El apetito de EE.UU. por Groenlandia entra en la lógica de una historia expansionista; Cómo cambiará el mundo el nuevo imperialismo de Trump: tres posibles escenarios: Doce meses después de llegar a la Casa Blanca, Donald Trump ya es el principal factor de inestabilidad global. El golpe de mano en Caracas, la apropiación del petróleo ve.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-11T06:47:51Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno presiona al PP y prevé que la financiación se vote antes del verano",
-      "subtitle": "El acuerdo en Catalunya afianza el compromiso de Esquerra con Sánchez e Illa",
-      "url": "https://www.lavanguardia.com/politica/20260110/11426383/gobierno-presiona-pp-preve-financiacion-vote-verano.html",
-      "scraped_at": "2026-01-10T06:45:58Z"
+      "title": "Dinamarca, un país en 'shock' ante la resolución de Trump por apoderarse de Groenlandia",
+      "subtitle": "Copenhague intenta atajar los planes de Donald Trump de hacerse con Groenlandia",
+      "url": "https://www.lavanguardia.com/internacional/20260111/11427984/dinamarca-groenlandia-trump-estados-unidos-isla-artica-anexion.html",
+      "scraped_at": "2026-01-11T06:47:50Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Quién gana más con la nueva financiación? Preguntas y respuestas sobre el nuevo modelo",
-      "subtitle": "Catalunya podría llegar a recaudar más del 77% del IVA entre la cesión general y las competencias no homogéneas",
-      "url": "https://www.lavanguardia.com/politica/20260110/11426299/hacienda-aporta-21-000-millones-mas-modelo-mas-equilibrado.html",
-      "scraped_at": "2026-01-10T06:45:58Z"
+      "title": "Estados Unidos lleva el gen anexionista",
+      "subtitle": "El apetito de EE.UU. por Groenlandia entra en la lógica de una historia expansionista",
+      "url": "https://www.lavanguardia.com/internacional/20260111/11427771/estados-unidos-lleva-gen-anexionista-groenlandia.html",
+      "scraped_at": "2026-01-11T06:47:50Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La correlación de fuerzas",
-      "subtitle": "Los heraldos del apocalipsis fiscal del Estado a cuenta de las concesiones del sanchismo al independentismo en el nuevo sistema de financiación autonómica deberían",
-      "url": "https://www.lavanguardia.com/politica/20260110/11426305/correlacion-fuerzas.html",
-      "scraped_at": "2026-01-10T06:45:58Z"
+      "title": "Cómo cambiará el mundo el nuevo imperialismo de Trump: tres posibles escenarios",
+      "subtitle": "Doce meses después de llegar a la Casa Blanca, Donald Trump ya es el principal factor de inestabilidad global. El golpe de mano en Caracas, la apropiación del petróleo ve...",
+      "url": "https://www.lavanguardia.com/internacional/20260111/11425758/imperialismo-era-donald-trump.html",
+      "scraped_at": "2026-01-11T06:47:51Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El café sin azúcar de Junqueras",
-      "subtitle": "Entre el pacto para la investidura de Salvador Illa firmado por Marta Rovira y el modelo de financiación anunciado por Oriol Junqueras, ERC ha implosionado, y la nueva",
-      "url": "https://www.lavanguardia.com/politica/20260110/11426349/cafe-azucar-junqueras-financiacion.html",
-      "scraped_at": "2026-01-10T06:45:58Z"
+      "title": "El teatro del absurdo",
+      "subtitle": "El niño Trump tiene un nuevo juguete, el poderío militar de Estados Unidos. La eficacia combinada que le ofrecen la CIA, las fuerzas especiales, los marines, los",
+      "url": "https://www.lavanguardia.com/opinion/20260111/11427810/teatro-absurdo.html",
+      "scraped_at": "2026-01-11T06:47:51Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Esta vez, ¿distinto?",
-      "subtitle": "Decíamos hace poco que la UE afrontaba una muy compleja situación en este recién estrenado 2026. Pero los retos del ejercicio, y sus efectos, no se limitan al",
-      "url": "https://www.lavanguardia.com/economia/20260109/11422418/vez-distinto.html",
-      "scraped_at": "2026-01-10T06:45:59Z"
+      "title": "Cargas policiales en Sentmenat por la apertura de una sede de Núcleo Nacional",
+      "subtitle": "Los Mossos intervienen para contener a los manifestantes que protestaban contra la llegada a Catalunya del grupo de extrema derecha",
+      "url": "https://www.lavanguardia.com/politica/20260110/11428040/cargas-policiales-sentmenat-apertura-sede-nucleo-nacional.html",
+      "scraped_at": "2026-01-11T06:47:51Z"
     }
   ]
 }
