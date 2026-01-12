@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El candidato de Zapatero para Venezuela, investigado en EE.UU. por torturas y narcotráfico: Sectores del propio chavismo presentan a Rodríguez Torres como una opción de continuidad a futuro tras Maduro, pero Washington lo considera inasumible; Delcy Rodríguez se reunió en Doha con agentes de la CIA y el ministro de Exteriores ruso: Los encuentros oficiales se llevaron a cabo en edificios del Gobierno de Qatar entre sepiembre y Navidad; El sueño de libertad que continúa: Venezuela, en suspenso político: El presidente Maduro desapareció, pero todo sigue igual. Una semana después es como si el poder se hubiera retirado de escena, dejando un sistema intacto que ahora funciona bajo nuevas reglas. Crónica sobre cómo un país puede cambiar todo para seguir siendo exactamente el mismo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-11T06:47:49Z",
+  "summary": "Resumen del día en ABC.es: La DEA maneja un informe sobre los negocios millonarios de Delcy Rodríguez y su pareja: El documento, en manos de la DEA, señala que el empresario libanés Yussef Abou Nassif consolidó, junto a sus hermanos, una fortuna de al menos 500 millones de dólares en contratos estatales cuando el país atravesaba su peor crisis humanitaria; Chris Wright: «Trump ya controla toda la venta de petróleo de Venezuela»: Según el secretario de Energía de EE.UU., el país suramericano «puede tardar hasta 12 años en volver a producir crudo al máximo»; El Tren de Aragua intentará captar a venezolanos en España para sus operaciones: La Policía Nacional ha conseguido evitar por el momento los intentos de estos narcoterroristas de estrechar sus vínculos en nuestro país con el hermano del líder. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-12T06:54:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El candidato de Zapatero para Venezuela, investigado en EE.UU. por torturas y narcotráfico",
-      "subtitle": "Sectores del propio chavismo presentan a Rodríguez Torres como una opción de continuidad a futuro tras Maduro, pero Washington lo considera inasumible",
-      "url": "https://www.abc.es/internacional/candidato-zapatero-futuro-venezuela-investigado-eeuu-torturador-20260110042757-nt.html",
-      "scraped_at": "2026-01-11T06:47:48Z"
+      "title": "La DEA maneja un informe sobre los negocios millonarios de Delcy Rodríguez y su pareja",
+      "subtitle": "El documento, en manos de la DEA, señala que el empresario libanés Yussef Abou Nassif consolidó, junto a sus hermanos, una fortuna de al menos 500 millones de dólares en contratos estatales cuando el país atravesaba su peor crisis humanitaria",
+      "url": "https://www.abc.es/internacional/informe-alerta-eeuu-negocios-millonarios-delcy-rodriguez-20260111041233-nt.html",
+      "scraped_at": "2026-01-12T06:54:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Delcy Rodríguez se reunió en Doha con agentes de la CIA y el ministro de Exteriores ruso",
-      "subtitle": "Los encuentros oficiales se llevaron a cabo en edificios del Gobierno de Qatar entre sepiembre y Navidad",
-      "url": "https://www.abc.es/internacional/delcy-rodriguez-reunio-doha-agentes-cia-ministro-20260110043008-nt.html",
-      "scraped_at": "2026-01-11T06:47:48Z"
+      "title": "Chris Wright: «Trump ya controla toda la venta de petróleo de Venezuela»",
+      "subtitle": "Según el secretario de Energía de EE.UU., el país suramericano «puede tardar hasta 12 años en volver a producir crudo al máximo»",
+      "url": "https://www.abc.es/internacional/chris-wright-trump-controla-venta-petroleo-venezuela-20260111041304-nt.html",
+      "scraped_at": "2026-01-12T06:54:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "El sueño de libertad que continúa: Venezuela, en suspenso político",
-      "subtitle": "El presidente Maduro desapareció, pero todo sigue igual. Una semana después es como si el poder se hubiera retirado de escena, dejando un sistema intacto que ahora funciona bajo nuevas reglas. Crónica sobre cómo un país puede cambiar todo para seguir siendo exactamente el mismo",
-      "url": "https://www.abc.es/internacional/sueno-libertad-continua-venezuela-suspenso-politico-20260110043020-nt.html",
-      "scraped_at": "2026-01-11T06:47:49Z"
+      "title": "El Tren de Aragua intentará captar a venezolanos en España para sus operaciones",
+      "subtitle": "La Policía Nacional ha conseguido evitar por el momento los intentos de estos narcoterroristas de estrechar sus vínculos en nuestro país con el hermano del líder",
+      "url": "https://www.abc.es/espana/tren-aragua-intentara-captar-venezolanos-espana-operaciones-20260112041352-nt.html",
+      "scraped_at": "2026-01-12T06:54:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "El mayor regalo que Venezuela ha hecho a nuestra izquierda radical",
-      "subtitle": "Se supone que ocho millones de venezolanos de la diáspora son ricos, fascistas y compran pisos. Normal que Venezuela esté en la ruina si se han ido del país ocho millones de ricos, pero no entiendo que no se haya recuperado el país habiendo expulsado a ocho millones de fachas",
-      "url": "https://www.abc.es/opinion/juan-soto-ivars-mayor-regalo-venezuela-izquierda-radical-20260110195356-nt.html",
-      "scraped_at": "2026-01-11T06:47:49Z"
+      "title": "La Guardia Civil tuvo que custodiar armas en una furgoneta ante la dejadez de Interior en Paiporta",
+      "subtitle": "Tras la Dana, los efectivos de la Unidad de Intervención de Armas de la localidad valenciana tuvieron que manipular armamento en plena calle",
+      "url": "https://www.abc.es/espana/guardia-civil-custodiar-armas-furgoneta-ante-ruina-20260112041411-nt.html",
+      "scraped_at": "2026-01-12T06:54:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junqueras",
-      "subtitle": "El líder de ERC, ante los suyos: «Estamos construyendo un modelo de financiación que va mucho más allá de lo acordado este jueves»",
-      "url": "https://www.abc.es/espana/cataluna/junqueras-confirma-cataluna-gestionara-iva-exige-100-20260110104104-nt.html",
-      "scraped_at": "2026-01-11T06:47:49Z"
+      "title": "Palmarés Supercopa",
+      "subtitle": "El primer título de la temporada del fútbol español se ha decidido en Arabia Saudí",
+      "url": "https://www.abc.es/deportes/futbol/palmares-supercopa-espana-ganado-titulos-20260111073000-nt.html",
+      "scraped_at": "2026-01-12T06:54:19Z"
     }
   ]
 }
