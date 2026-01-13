@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump sopesa atacar  Irán en apoyo del movimiento de protesta: Trump ha sido informado de las opciones que tiene para doblegar a Teherán; Reza Pahlevi, el heredero del sha que reclama el control de Irán: La última figura de la monarquía persa, hasta ahora impopular, aparece como símbolo de las protestas; Dinamarca replica a Trump que no hay barcos rusos y chinos en aguas de Groenlandia: Diplomáticos nórdicos señalan que la presencia se da en la zona rusa del Ártico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-12T06:54:22Z",
+  "summary": "Resumen del día en La Vanguardia: Trump amenaza con aranceles del 25% a los países que hagan negocios con Irán: “Se está organizando una reunión, pero puede que tengamos que actuar por lo que está ocurriendo antes de la reunión”, advierte Trump; Trump envía a centenares de agentes a Minneapolis y no rebaja la tensión: La secretaria de Seguridad Nacional, Kristi Noem, insiste en condenar como terrorista doméstica a Renee Nicole Good, la mujer tiroteada mortalmente en la ciudad de; Venezuela libera a los presos políticos poco a poco para utilizarlos como moneda de cambio: La lentitud en hacer realidad el anuncio de la puesta en libertad de un “número significativo” de opositores y activistas está generando frustración y levanta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-13T06:50:24Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump sopesa atacar  Irán en apoyo del movimiento de protesta",
-      "subtitle": "Trump ha sido informado de las opciones que tiene para doblegar a Teherán",
-      "url": "https://www.lavanguardia.com/internacional/20260112/11429650/ee-uu-estudia-atacar-iran.html",
-      "scraped_at": "2026-01-12T06:54:21Z"
+      "title": "Trump amenaza con aranceles del 25% a los países que hagan negocios con Irán",
+      "subtitle": "“Se está organizando una reunión, pero puede que tengamos que actuar por lo que está ocurriendo antes de la reunión”, advierte Trump",
+      "url": "https://www.lavanguardia.com/internacional/20260112/11432867/estados-unidos-e-iran-dialogo-guerra.html",
+      "scraped_at": "2026-01-13T06:50:22Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Reza Pahlevi, el heredero del sha que reclama el control de Irán",
-      "subtitle": "La última figura de la monarquía persa, hasta ahora impopular, aparece como símbolo de las protestas",
-      "url": "https://www.lavanguardia.com/internacional/20260112/11429381/reza-pahlevi-heredero-sha-reclama-control-iran.html",
-      "scraped_at": "2026-01-12T06:54:21Z"
+      "title": "Trump envía a centenares de agentes a Minneapolis y no rebaja la tensión",
+      "subtitle": "La secretaria de Seguridad Nacional, Kristi Noem, insiste en condenar como terrorista doméstica a Renee Nicole Good, la mujer tiroteada mortalmente en la ciudad de",
+      "url": "https://www.lavanguardia.com/internacional/20260112/11432715/trump-envia-centenares-mas-agentes-minneapolis-pese-peticiones-rebajar-tension.html",
+      "scraped_at": "2026-01-13T06:50:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Dinamarca replica a Trump que no hay barcos rusos y chinos en aguas de Groenlandia",
-      "subtitle": "Diplomáticos nórdicos señalan que la presencia se da en la zona rusa del Ártico",
-      "url": "https://www.lavanguardia.com/internacional/20260112/11429544/dinamarca-groenlandia-trump-barcos-rusos-y-chinos-artico.html",
-      "scraped_at": "2026-01-12T06:54:21Z"
+      "title": "Venezuela libera a los presos políticos poco a poco para utilizarlos como moneda de cambio",
+      "subtitle": "La lentitud en hacer realidad el anuncio de la puesta en libertad de un “número significativo” de opositores y activistas está generando frustración y levanta",
+      "url": "https://www.lavanguardia.com/internacional/20260113/11432914/venezuela-libera-presos-politicos-poco-poco-utilizarlos-moneda-cambio.html",
+      "scraped_at": "2026-01-13T06:50:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Barça sigue instalado en las nubes en la Supercopa",
-      "subtitle": "Un gol de rebote de Raphinha hace justicia en la final ante un Madrid empequeñecido",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260111/11429632/barca-sigue-instalado-nubes-supercopa.html",
-      "scraped_at": "2026-01-12T06:54:21Z"
+      "title": "El tesoro de las islas Svalbard",
+      "subtitle": "Unas islas situadas entre Groenlandia y Noruega pueden convertirse en el fusible del Ártico",
+      "url": "https://www.lavanguardia.com/internacional/20260113/11433082/tesoro-islas-svalbard.html",
+      "scraped_at": "2026-01-13T06:50:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los pubs vetan la entrada a los laboristas por subirles los impuestos",
-      "subtitle": "Entre los damnificados se encuentra también el primer ministro Keir Starmer",
-      "url": "https://www.lavanguardia.com/internacional/20260112/11429333/reino-unido-pubs-britanicos-vetan-entrada-laboristas-impuestos.html",
-      "scraped_at": "2026-01-12T06:54:22Z"
+      "title": "Los vinos submarinos, una tendencia al alza",
+      "subtitle": "Se crían bajo el mar en bodegas arrecife, expuestos a las mareas, al oleaje y a la presión marina; el resultado es un vino que ha pasado de ser una curiosidad",
+      "url": "https://www.lavanguardia.com/comer/beber/20260113/11430096/vinos-fondo-marino-encomendarnos-benevolencia-mar-vinos-submarinos-tendencia-alza.html",
+      "scraped_at": "2026-01-13T06:50:24Z"
     }
   ]
 }
