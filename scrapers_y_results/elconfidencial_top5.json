@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La crisis de la vivienda rompe los diques ideológicos y fuerza nuevos equilibrios políticos: La crisis de la vivienda vueve a poner en jaque al Gobierno de coalición, por la propuesta del PSOE de bonificar a los caseros. Pero las réplicas del anuncio alcanzan a todos los partidos; Trump y el síndrome Hoover: por qué la Casa Blanca quiere liquidar a Powell: Las presiones de Trump sobre la Reserva Federal se intensifican. La Casa Blanca necesita bajar los tipos de interés desesperadamente para equilibrar el presupuesto y el chivo expiatorio es el presidente de la Fed; Relojes de lujo y pelea por locales en la Milla de Oro: \"Cada dos meses abrimos una tienda\": En 300 metros de la calle Ortega y Gasset de Madrid se amontonan decenas de las más grandes firmas de lujo del mundo. La demanda es tan grande que los establecimientos cambian rápidamente de manos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-13T06:50:26Z",
+  "summary": "Resumen del día en El Confidencial: Trump excluye a España de todas las citas preparatorias de la cumbre del G20: El Gobierno explica que EEUU ha apartado a todos los &quot;invitados&quot; -menos Polonia-, pero sí hay bilaterales porque España irá a la cumbre de diciembre en Miami. El PP denuncia que &quot;Sánchez tendrá su foto, pero no influencia&quot;; Informe interno: TVE propagó el bulo de Ayuso y la bomba de la UCO sabiendo que era falso: El informe sobre &#039;Mañaneros 360&#039; y &#039;Malas Lenguas&#039; critica la cobertura del supuesto plan para atentar contra Sánchez: &quot;Nos encontramos ante uno de los casos más graves de malas prácticas y manipulación informativa&quot;; Jueces españoles podrán investigar a Julio Iglesias aunque se abra caso en Dominicana: Según especifica la ley, aunque se abra una investigación propia en el lugar de los hechos, la competencia permanecería en España en aplicación del principio de personalidad, aseguran fuentes fiscales consultadas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-14T06:50:16Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La crisis de la vivienda rompe los diques ideológicos y fuerza nuevos equilibrios políticos",
-      "subtitle": "La crisis de la vivienda vueve a poner en jaque al Gobierno de coalición, por la propuesta del PSOE de bonificar a los caseros. Pero las réplicas del anuncio alcanzan a todos los partidos",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-01-13/crisis-vivienda-ayudas-fiscales_4282395/",
-      "scraped_at": "2026-01-13T06:50:24Z"
+      "title": "Trump excluye a España de todas las citas preparatorias de la cumbre del G20",
+      "subtitle": "El Gobierno explica que EEUU ha apartado a todos los &quot;invitados&quot; -menos Polonia-, pero sí hay bilaterales porque España irá a la cumbre de diciembre en Miami. El PP denuncia que &quot;Sánchez tendrá su foto, pero no influencia&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-01-14/trump-excluye-espana-reuniones-preparatorias-cumbre-g20_4283023/",
+      "scraped_at": "2026-01-14T06:50:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump y el síndrome Hoover: por qué la Casa Blanca quiere liquidar a Powell",
-      "subtitle": "Las presiones de Trump sobre la Reserva Federal se intensifican. La Casa Blanca necesita bajar los tipos de interés desesperadamente para equilibrar el presupuesto y el chivo expiatorio es el presidente de la Fed",
-      "url": "https://www.elconfidencial.com/economia/2026-01-13/reserva-federal-powell-tipos-de-interes-trump-hassett-fed-casa-blanca-deficit-eeuu-deuda-arancles_4282489/",
-      "scraped_at": "2026-01-13T06:50:24Z"
+      "title": "Informe interno: TVE propagó el bulo de Ayuso y la bomba de la UCO sabiendo que era falso",
+      "subtitle": "El informe sobre &#039;Mañaneros 360&#039; y &#039;Malas Lenguas&#039; critica la cobertura del supuesto plan para atentar contra Sánchez: &quot;Nos encontramos ante uno de los casos más graves de malas prácticas y manipulación informativa&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-01-14/consejo-informativos-investigacion-tve-bulo-bomba-lapa-uco_4283047/",
+      "scraped_at": "2026-01-14T06:50:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Relojes de lujo y pelea por locales en la Milla de Oro: \"Cada dos meses abrimos una tienda\"",
-      "subtitle": "En 300 metros de la calle Ortega y Gasset de Madrid se amontonan decenas de las más grandes firmas de lujo del mundo. La demanda es tan grande que los establecimientos cambian rápidamente de manos",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-01-13/madrid-lujo-relojes-joyas-moda_4281330/",
-      "scraped_at": "2026-01-13T06:50:25Z"
+      "title": "Jueces españoles podrán investigar a Julio Iglesias aunque se abra caso en Dominicana",
+      "subtitle": "Según especifica la ley, aunque se abra una investigación propia en el lugar de los hechos, la competencia permanecería en España en aplicación del principio de personalidad, aseguran fuentes fiscales consultadas",
+      "url": "https://www.elconfidencial.com/espana/2026-01-14/julio-iglesias-espana-republica-dominicana-agresion-sexual_4283156/",
+      "scraped_at": "2026-01-14T06:50:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Odiado por muchos y ahora, ¿querido?: Pahlavi, el príncipe iraní exiliado que quiere reinar",
-      "subtitle": "La ausencia de figuras capaces de articular un liderazgo alternativo dentro y fuera del país ha contribuido a que Pahlavi emerja como una de las pocas opciones visibles para encabezar una eventual transición",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-13/reza-pahlavi-iran-nacionalismo-protestas_4281984/",
-      "scraped_at": "2026-01-13T06:50:26Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "España plantea una coalición de voluntarios como germen del Ejército de la UE",
-      "subtitle": "Albares ha tanteado ya la propuesta con algunos de sus homólogos europeos, como fórmula para avanzar hacia unas Fuerzas Armadas Europeas y una mayor coordinación de las industrias de defensa",
-      "url": "https://www.elconfidencial.com/espana/2026-01-13/espana-coalicion-voluntarios-germen-ejercito-europa_4282509/",
-      "scraped_at": "2026-01-13T06:50:26Z"
+      "title": "La Fiscalía verá la muerte de dos pacientes por un error en el medicamento",
+      "subtitle": "UGT alerta de que desde hace meses la plantilla del hospital sufre &quot;sobrecarga de trabajo, falta de personal y de formación y acumulación de tareas&quot;. La gerencia niega que esto sea el origen del &quot;error humano&quot; que ha dejado dos fallecidos",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-01-14/pacientes-cancer-muerte-negligencia-burgos-tratamiento_4283062/",
+      "scraped_at": "2026-01-14T06:50:16Z"
     }
   ]
 }
