@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Montero y Puente cobran 29.000 euros al año para vivienda aunque residen en casas oficiales: La vicepresidenta y el ministro no renunciaron a su condición de diputados, por lo que perciben una indemnización libre de impuestos al haber sido electos fuera de Madrid; Albares presume de feminista mientras reduce las áreas de igualdad y familia de Exteriores: Defendió su presunto compromiso con las mujeres ayer en la presentación de la Estrategia de Cooperación Feminista. Sin embargo, en su Ministerio, antes había dos responsables y ahora hay una sola funcionaria para las dos unidades; La ministra Redondo arropa a la denunciante de Adolfo Suárez mientras ignora a las víctimas del partido: La titular de Igualdad citó a la supuesta víctima para escuchar su testimonio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-14T06:50:12Z",
+  "summary": "Resumen del día en ABC.es: Las víctimas de acoso sexual en el PSOE de Galicia acudirán a la Fiscalía por la inacción del partido: En el escrito que preparan informarán al Ministerio Público de qué dirigentes del PSdeG lo sabían; Alarma en el PSOE por el daño electoral de la financiación pactada con ERC: Con tres autonomías al borde de las urnas, la preocupación aumenta por el impacto en sus campañas; El régimen iraní cobra a las familias las balas que mataron a sus seres queridos en las protestas: Las autoridades de Irán obligan a las familias a pagar hasta 6.000 dólares para poder recuperar los cuerpos de sus seres queridos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-15T06:50:21Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Montero y Puente cobran 29.000 euros al año para vivienda aunque residen en casas oficiales",
-      "subtitle": "La vicepresidenta y el ministro no renunciaron a su condición de diputados, por lo que perciben una indemnización libre de impuestos al haber sido electos fuera de Madrid",
-      "url": "https://www.abc.es/espana/montero-puente-cobran-2000-euros-mes-congreso-20260114041050-nt.html",
-      "scraped_at": "2026-01-14T06:50:11Z"
+      "title": "Las víctimas de acoso sexual en el PSOE de Galicia acudirán a la Fiscalía por la inacción del partido",
+      "subtitle": "En el escrito que preparan informarán al Ministerio Público de qué dirigentes del PSdeG lo sabían",
+      "url": "https://www.abc.es/espana/galicia/denunciantes-tome-acudiran-fiscalia-casos-acoso-20260115041400-nt.html",
+      "scraped_at": "2026-01-15T06:50:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Albares presume de feminista mientras reduce las áreas de igualdad y familia de Exteriores",
-      "subtitle": "Defendió su presunto compromiso con las mujeres ayer en la presentación de la Estrategia de Cooperación Feminista. Sin embargo, en su Ministerio, antes había dos responsables y ahora hay una sola funcionaria para las dos unidades",
-      "url": "https://www.abc.es/espana/albares-presume-feminista-reduce-areas-igualdad-familia-20260113041120-nt.html",
-      "scraped_at": "2026-01-14T06:50:11Z"
+      "title": "Alarma en el PSOE por el daño electoral de la financiación pactada con ERC",
+      "subtitle": "Con tres autonomías al borde de las urnas, la preocupación aumenta por el impacto en sus campañas",
+      "url": "https://www.abc.es/espana/alarma-psoe-perjuicio-electoral-financiacion-pactada-erc-20260115041703-nt.html",
+      "scraped_at": "2026-01-15T06:50:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "La ministra Redondo arropa a la denunciante de Adolfo Suárez mientras ignora a las víctimas del partido",
-      "subtitle": "La titular de Igualdad citó a la supuesta víctima para escuchar su testimonio",
-      "url": "https://www.abc.es/espana/ministra-redondo-arropa-denunciante-suarez-ignora-victimas-20260114041148-nt.html",
-      "scraped_at": "2026-01-14T06:50:11Z"
+      "title": "El régimen iraní cobra a las familias las balas que mataron a sus seres queridos en las protestas",
+      "subtitle": "Las autoridades de Irán obligan a las familias a pagar hasta 6.000 dólares para poder recuperar los cuerpos de sus seres queridos",
+      "url": "https://www.abc.es/internacional/regimen-irani-cobra-familias-balas-mataron-seres-20260114041727-nt.html",
+      "scraped_at": "2026-01-15T06:50:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "El sector crítico del PSOE cree que el manifiesto de Jordi Sevilla llega en mal momento",
-      "subtitle": "Las fuentes consultadas lo tachan de «inoportuno» en pleno ciclo electoral: «Es señalar a la gente»",
-      "url": "https://www.abc.es/espana/sector-critico-psoe-cree-manifiesto-jordi-sevilla-20260114041226-nt.html",
-      "scraped_at": "2026-01-14T06:50:12Z"
+      "title": "María Corina Machado se encomienda a Trump para desalojar al chavismo",
+      "subtitle": "El entorno de Delcy Rodríguez mueve ficha el mismo día para no perder peso político en la transición pos-Maduro",
+      "url": "https://www.abc.es/internacional/maria-corina-machado-encomienda-trump-desalojar-chavismo-20260115041945-nt.html",
+      "scraped_at": "2026-01-15T06:50:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Embajador Irán",
-      "subtitle": "El ministro exigió ayer al gobierno iraní «respeto al derecho de manifestación y la libertad de expresión de todos los iraníes y de todas las iraníes»",
-      "url": "https://www.abc.es/espana/espana-convoca-embajador-irani-madrid-20260113083120-nt.html",
-      "scraped_at": "2026-01-14T06:50:12Z"
+      "title": "Albacete - Real Madrid",
+      "subtitle": "Conoce a qué hora es el partido del Real Madrid el día del debut de Arbeloa frente al Albacete y dónde seguir la eliminatoria de Copa del Rey hoy",
+      "url": "https://www.abc.es/deportes/real-madrid/ver-online-television-gratis-real-madrid-hoy-20260114102102-nt.html",
+      "scraped_at": "2026-01-15T06:50:21Z"
     }
   ]
 }
