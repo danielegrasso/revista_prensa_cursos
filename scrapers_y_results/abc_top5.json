@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las víctimas de acoso sexual en el PSOE de Galicia acudirán a la Fiscalía por la inacción del partido: En el escrito que preparan informarán al Ministerio Público de qué dirigentes del PSdeG lo sabían; Alarma en el PSOE por el daño electoral de la financiación pactada con ERC: Con tres autonomías al borde de las urnas, la preocupación aumenta por el impacto en sus campañas; El régimen iraní cobra a las familias las balas que mataron a sus seres queridos en las protestas: Las autoridades de Irán obligan a las familias a pagar hasta 6.000 dólares para poder recuperar los cuerpos de sus seres queridos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-15T06:50:21Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno esconde documentos clave sobre el rescate de Air Europa: La SEPI recurrirá el fallo para intentar seguir dilatando el secreto del expediente mediante pleitos judiciales; Vox traslada al Capitolio y a la Administración Trump el papel de Zapatero en Venezuela: Jorge Martín Frías mantiene contactos en la Administración republicana y en el Capitolio para abrir un canal propio de interlocución y subrayar el papel de España en la región frente a la influencia del chavismo y de China; María Corina entrega a Trump su Nobel de la Paz: «Contamos con él para la liberación de Venezuela»: El encuentro, cara a cara y en un entorno muy reducido, supone un refuerzo para la líder opositora al chavismo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-16T06:50:01Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las víctimas de acoso sexual en el PSOE de Galicia acudirán a la Fiscalía por la inacción del partido",
-      "subtitle": "En el escrito que preparan informarán al Ministerio Público de qué dirigentes del PSdeG lo sabían",
-      "url": "https://www.abc.es/espana/galicia/denunciantes-tome-acudiran-fiscalia-casos-acoso-20260115041400-nt.html",
-      "scraped_at": "2026-01-15T06:50:19Z"
+      "title": "El Gobierno esconde documentos clave sobre el rescate de Air Europa",
+      "subtitle": "La SEPI recurrirá el fallo para intentar seguir dilatando el secreto del expediente mediante pleitos judiciales",
+      "url": "https://www.abc.es/espana/gobierno-recurre-supremo-ocultar-papeles-rescate-air-20260116041120-nt.html",
+      "scraped_at": "2026-01-16T06:50:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alarma en el PSOE por el daño electoral de la financiación pactada con ERC",
-      "subtitle": "Con tres autonomías al borde de las urnas, la preocupación aumenta por el impacto en sus campañas",
-      "url": "https://www.abc.es/espana/alarma-psoe-perjuicio-electoral-financiacion-pactada-erc-20260115041703-nt.html",
-      "scraped_at": "2026-01-15T06:50:20Z"
+      "title": "Vox traslada al Capitolio y a la Administración Trump el papel de Zapatero en Venezuela",
+      "subtitle": "Jorge Martín Frías mantiene contactos en la Administración republicana y en el Capitolio para abrir un canal propio de interlocución y subrayar el papel de España en la región frente a la influencia del chavismo y de China",
+      "url": "https://www.abc.es/espana/vox-traslada-capitolio-administracion-trump-papel-zapatero-20260115041538-nt.html",
+      "scraped_at": "2026-01-16T06:50:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "El régimen iraní cobra a las familias las balas que mataron a sus seres queridos en las protestas",
-      "subtitle": "Las autoridades de Irán obligan a las familias a pagar hasta 6.000 dólares para poder recuperar los cuerpos de sus seres queridos",
-      "url": "https://www.abc.es/internacional/regimen-irani-cobra-familias-balas-mataron-seres-20260114041727-nt.html",
-      "scraped_at": "2026-01-15T06:50:20Z"
+      "title": "María Corina entrega a Trump su Nobel de la Paz: «Contamos con él para la liberación de Venezuela»",
+      "subtitle": "El encuentro, cara a cara y en un entorno muy reducido, supone un refuerzo para la líder opositora al chavismo",
+      "url": "https://www.abc.es/internacional/machado-visita-trump-casa-blanca-entrega-nobel-20260115173147-nt.html",
+      "scraped_at": "2026-01-16T06:50:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "María Corina Machado se encomienda a Trump para desalojar al chavismo",
-      "subtitle": "El entorno de Delcy Rodríguez mueve ficha el mismo día para no perder peso político en la transición pos-Maduro",
-      "url": "https://www.abc.es/internacional/maria-corina-machado-encomienda-trump-desalojar-chavismo-20260115041945-nt.html",
-      "scraped_at": "2026-01-15T06:50:21Z"
+      "title": "División en la Casa Blanca ante la visita de María Corina Machado: unos quieren petróleo y otros democracia",
+      "subtitle": "Mientras el secretario de Estado, Marco Rubio, aboga por el cambio, el enviado especial Richard Grenell es partidario de hacer negocios",
+      "url": "https://www.abc.es/internacional/division-casa-blanca-ante-visita-maria-corina-20260115004646-nt.html",
+      "scraped_at": "2026-01-16T06:50:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Albacete - Real Madrid",
-      "subtitle": "Conoce a qué hora es el partido del Real Madrid el día del debut de Arbeloa frente al Albacete y dónde seguir la eliminatoria de Copa del Rey hoy",
-      "url": "https://www.abc.es/deportes/real-madrid/ver-online-television-gratis-real-madrid-hoy-20260114102102-nt.html",
-      "scraped_at": "2026-01-15T06:50:21Z"
+      "title": "Racing - Barcelona",
+      "subtitle": "Conoce a qué hora empieza el partido entre el Racing de Santander y el Barcelona, y dónde ver en televisión y online el encuentro de hoy, 15 de enero",
+      "url": "https://www.abc.es/deportes/futbol/ver-online-television-barcelona-hoy-octavos-copa-20260115145228-nt.html",
+      "scraped_at": "2026-01-16T06:50:01Z"
     }
   ]
 }
