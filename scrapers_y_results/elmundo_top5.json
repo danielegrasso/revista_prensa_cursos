@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Corina reclama ante Trump \"libertad y Estado de Derecho\": El mandatario estadounidense recibe discretamente a la líder opositora en Washington, mientras su equipo elogia a Delcy Rodríguez: \"Ha cumplido todas nuestra demandas\"; Trump presume de 'su' Nobel: \"Es un gesto maravilloso de respeto\": María Corina Machado le entrega la medalla de su galardón y agradece en \"nombre del pueblo venezolano\" \"las acciones decisivas: el valor de América, y de su presidente nunca será olvidado\"; Machado arrasa a Delcy en las encuestas de una Venezuela bajo terrorismo de Estado: Las detenciones no han cesado mientras los agentes chavistas persiguen a los ciudadanos para espiar sus teléfonos. Los testimonios se multiplican en las redes sociales, pese al miedo existente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-16T06:49:54Z",
+  "summary": "Resumen del día en El Mundo: El socio clave de Díaz le enseña la puerta para poder pactar con Podemos: Antonio Maíllo sentencia que Sumar \"tal y como lo conocemos ahora, no es un instrumento capaz de aglutinar\" a partidos y personas. Impugna así el elemento fundacional del proyecto y de su liderazgo; Bloqueo entre PP y Vox a tres días de la fecha clave en Extremadura: \"Esto no avanza, con esta mujer es imposible\": Se producen contactos discretos mientras se acerca la constitución de Asamblea, que será el próximo martes; Testimonios de terror de la represión en Irán: \"La Guardia Revolucionaria entró en la UCI y mató a manifestantes inyectándoles aire\": Un abogado en el exilio relata a EL MUNDO los relatos desesperados de las familias: \"Todos hemos perdido a alguien\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-17T06:45:54Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Corina reclama ante Trump \"libertad y Estado de Derecho\"",
-      "subtitle": "El mandatario estadounidense recibe discretamente a la líder opositora en Washington, mientras su equipo elogia a Delcy Rodríguez: \"Ha cumplido todas nuestra demandas\"",
-      "url": "https://www.elmundo.es/internacional/2026/01/15/696938e421efa078718b4581.html",
-      "scraped_at": "2026-01-16T06:49:53Z"
+      "title": "El socio clave de Díaz le enseña la puerta para poder pactar con Podemos",
+      "subtitle": "Antonio Maíllo sentencia que Sumar \"tal y como lo conocemos ahora, no es un instrumento capaz de aglutinar\" a partidos y personas. Impugna así el elemento fundacional del proyecto y de su liderazgo",
+      "url": "https://www.elmundo.es/espana/2026/01/17/696a86dffdddff9e368b45a9.html",
+      "scraped_at": "2026-01-17T06:45:53Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump presume de 'su' Nobel: \"Es un gesto maravilloso de respeto\"",
-      "subtitle": "María Corina Machado le entrega la medalla de su galardón y agradece en \"nombre del pueblo venezolano\" \"las acciones decisivas: el valor de América, y de su presidente nunca será olvidado\"",
-      "url": "https://www.elmundo.es/internacional/2026/01/16/696999e0e4d4d8ba068b456e.html",
-      "scraped_at": "2026-01-16T06:49:53Z"
+      "title": "Bloqueo entre PP y Vox a tres días de la fecha clave en Extremadura: \"Esto no avanza, con esta mujer es imposible\"",
+      "subtitle": "Se producen contactos discretos mientras se acerca la constitución de Asamblea, que será el próximo martes",
+      "url": "https://www.elmundo.es/espana/2026/01/16/696a83fde85ece6e668b4594.html",
+      "scraped_at": "2026-01-17T06:45:53Z"
     },
     {
       "source": "El Mundo",
-      "title": "Machado arrasa a Delcy en las encuestas de una Venezuela bajo terrorismo de Estado",
-      "subtitle": "Las detenciones no han cesado mientras los agentes chavistas persiguen a los ciudadanos para espiar sus teléfonos. Los testimonios se multiplican en las redes sociales, pese al miedo existente",
-      "url": "https://www.elmundo.es/internacional/2026/01/16/696930b7fdddfff7728b4594.html",
-      "scraped_at": "2026-01-16T06:49:53Z"
+      "title": "Testimonios de terror de la represión en Irán: \"La Guardia Revolucionaria entró en la UCI y mató a manifestantes inyectándoles aire\"",
+      "subtitle": "Un abogado en el exilio relata a EL MUNDO los relatos desesperados de las familias: \"Todos hemos perdido a alguien\"",
+      "url": "https://www.elmundo.es/internacional/2026/01/16/696a56bde85ece1c048b457e.html",
+      "scraped_at": "2026-01-17T06:45:53Z"
     },
     {
       "source": "El Mundo",
-      "title": "La independencia de Groenlandia en suspenso: \"Desde que Trump llegó a la Casa Blanca la actividad económica se ha frenado\"",
-      "subtitle": "El expansionismo de EEUU ha puesto de manera cruda sobre el tapete las dificultades que tendría Groenlandia para jugar un papel en el mundo",
-      "url": "https://www.elmundo.es/internacional/2026/01/15/69694ae821efa01d2b8b459c.html",
-      "scraped_at": "2026-01-16T06:49:53Z"
+      "title": "Yasaman Ranjbaran: \"No se puede sacar a un tirano sólo con protestas. Es necesario que EEUU intervenga en Irán\"",
+      "subtitle": "Investigadora científica en la Universidad de Padua y activista por los derechos humanos en Irán, advierte de que «es preferible un mundo dominado por Estados Unidos que otro controlado por China y Rusia»",
+      "url": "https://www.elmundo.es/opinion/luces-para-la-constitucion/2026/01/16/69669b2be9cf4a2d778b45a5.html",
+      "scraped_at": "2026-01-17T06:45:53Z"
     },
     {
       "source": "El Mundo",
-      "title": "Financiación autonómica",
-      "subtitle": "El Gobierno ha hecho una propuesta que trasvasará miles de millones del Estado a las comunidades para reducir las diferencias de financiación entre ellas y premiar a Cataluña",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/01/16/6968dbed21efa0ea3f8b4576.html",
-      "scraped_at": "2026-01-16T06:49:54Z"
+      "title": "María Corina Machado",
+      "subtitle": "La líder democrática se alinea con el plan puesto en marcha por Washington para el país caribeño: estabilidad, recuperación y transición",
+      "url": "https://www.elmundo.es/internacional/2026/01/16/696aa01e21efa02a7d8b458a.html",
+      "scraped_at": "2026-01-17T06:45:54Z"
     }
   ]
 }
