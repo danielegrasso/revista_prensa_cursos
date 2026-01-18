@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: O más pisos o una nueva Casa de Campo: la laguna olvidada que divide a Madrid: Una masa de agua pegada al distrito de Vicálvaro pone en jaque uno de los proyectos punteros de la capital, la Nueva Centralidad del Este. El debate está en si se necesitan 18.000 casas más o una ciudad más verde; Ecarri: \"Hay que conseguir que María Corina y Delcy hagan vida normal en Venezuela\": Defensor de un camino entre el chavismo y María Corina Machado, el régimen le calificó de &quot;golpista&quot; por impugnar las elecciones y la oposición en el exilio le considera un &quot;protegido&quot; del régimen. Defiende abiertamente a Zapatero; La trampa de Trump a la ultraderecha: ¿cree toda Europa en el secuestro?: Quizás el mundo sería un lugar mejor si existiera una fuerza internacional que por todas partes apareciera desde el cielo para llevarse esposados a los dictadores. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-17T06:46:06Z",
+  "summary": "Resumen del día en El Confidencial: Begoña Gómez frenó el desarrollo del software al saltar las primeras noticias sobre sus negocios: Una empresa que participó en el desarrollo de la aplicación informática de la mujer de Sánchez, Making Science SL, revela que el proyecto entró en vía muerta cuando estalló el escándalo de sus reuniones con Hidalgo y Aldama; La vía Venecia: la ofensiva de Trump por Groenlandia pone a la UE en la búsqueda de camino: Contra todo pronóstico, un pequeño grupo de islotes en el noreste de la península itálica retuvo su independencia durante un milenio. Europa puede aprender mucho de su experiencia; La tarde en que el Bernabéu recuperó el nombre de Santiago y señaló a Florentino Pérez: El público del Santiago Bernabéu demostró su máxima exigencia y cargó contra todos los estamentos del club. Arbeloa defendió a Florentino, pero su gestión está bajo el foco. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-18T06:47:01Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "O más pisos o una nueva Casa de Campo: la laguna olvidada que divide a Madrid",
-      "subtitle": "Una masa de agua pegada al distrito de Vicálvaro pone en jaque uno de los proyectos punteros de la capital, la Nueva Centralidad del Este. El debate está en si se necesitan 18.000 casas más o una ciudad más verde",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-01-17/laguna-ambroz-debate-madrid-nueva-centralidad-este_4283892/",
-      "scraped_at": "2026-01-17T06:46:05Z"
+      "title": "Begoña Gómez frenó el desarrollo del software al saltar las primeras noticias sobre sus negocios",
+      "subtitle": "Una empresa que participó en el desarrollo de la aplicación informática de la mujer de Sánchez, Making Science SL, revela que el proyecto entró en vía muerta cuando estalló el escándalo de sus reuniones con Hidalgo y Aldama",
+      "url": "https://www.elconfidencial.com/espana/2026-01-18/begona-gomez-freno-desarrollo-software-primeras-noticias-sobre-negocios-privados_4285522/",
+      "scraped_at": "2026-01-18T06:46:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ecarri: \"Hay que conseguir que María Corina y Delcy hagan vida normal en Venezuela\"",
-      "subtitle": "Defensor de un camino entre el chavismo y María Corina Machado, el régimen le calificó de &quot;golpista&quot; por impugnar las elecciones y la oposición en el exilio le considera un &quot;protegido&quot; del régimen. Defiende abiertamente a Zapatero",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-17/antonio-ecarri-tercera-via-venezolana-maria-corina-delcy-vida-normal_4283740/",
-      "scraped_at": "2026-01-17T06:46:06Z"
+      "title": "La vía Venecia: la ofensiva de Trump por Groenlandia pone a la UE en la búsqueda de camino",
+      "subtitle": "Contra todo pronóstico, un pequeño grupo de islotes en el noreste de la península itálica retuvo su independencia durante un milenio. Europa puede aprender mucho de su experiencia",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-18/europa-venecia-independencia-estrategia-comercio-1hms_4285566/",
+      "scraped_at": "2026-01-18T06:47:00Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La trampa de Trump a la ultraderecha: ¿cree toda Europa en el secuestro?",
-      "subtitle": "Quizás el mundo sería un lugar mejor si existiera una fuerza internacional que por todas partes apareciera desde el cielo para llevarse esposados a los dictadores",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-17/venezuela-maduro-trump-ultraderecha-democracia-1hms_4278699/",
-      "scraped_at": "2026-01-17T06:46:06Z"
+      "title": "La tarde en que el Bernabéu recuperó el nombre de Santiago y señaló a Florentino Pérez",
+      "subtitle": "El público del Santiago Bernabéu demostró su máxima exigencia y cargó contra todos los estamentos del club. Arbeloa defendió a Florentino, pero su gestión está bajo el foco",
+      "url": "https://www.elconfidencial.com/deportes/futbol/2026-01-18/real-madrid-florentino-grada-fans-vinicius-arbeloa_4285855/",
+      "scraped_at": "2026-01-18T06:47:00Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Esta película nominada a los Goya está a punto de llegar a Movistar+",
+      "subtitle": "Con la gala cada vez más cerca y el calendario de estrenos marcado, una de las producciones españolas más reconocidas del año afronta su desembarco en plataformas tras un recorrido avalado por la crítica",
+      "url": "https://www.elconfidencial.com/cultura/cine/2026-01-18/1qrt-9-nominaciones-goya-2026-llegar-movistar-pelicula-favoritas-ver_4284317/",
+      "scraped_at": "2026-01-18T06:47:01Z"
     }
   ]
 }

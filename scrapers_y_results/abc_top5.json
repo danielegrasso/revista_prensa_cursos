@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La negociación PP-Vox en Extremadura, atascada por la Agricultura y los recortes sociales: Las conversaciones no avanzan ante la negativa de Guardiola de ceder competencias en Agricultura y adelgazar el gasto público; El PSOE mantiene en el partido a concejales y cargos que anunciaron su marcha por los casos de acoso: En Monforte, Tomé gobierna siendo no adscrito con el apoyo de nueve ediles aún en la formación socialista; en Almussafes, González continúa aún en el grupo del PSOE; La batalla cultural de Meloni: memoria, valores y relato patriótico: Desde la reivindicación de Tolkien hasta el control de la Bienal de Venecia, la derecha italiana despliega una ofensiva cultural para cuestionar la hegemonía progresista. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-17T06:46:01Z",
+  "summary": "Resumen del día en ABC.es: Forestalia intentó colar un proyecto eléctrico milmillonario utilizando al hombre del PNV: La compañía usó a Antxon Alonso para establecer «vías» con municipios y Gobiernos autonómicos del norte en un proyecto que contó con numerosas autorizaciones del Ministerio de Transición Ecológica; El PP ya asume el fenómeno de Vox y piensa en bloque para echar a Sánchez: La inquietud se mantiene entre dirigentes del PP, a los que les cuesta entender por qué nada le pasa factura a Abascal; Azcón convertirá la financiación en su gran baza electoral contra el PSOE: Primer gran acto electoral este domingo en Zaragoza con todas las comunidades rechazando los privilegios para Cataluña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-18T06:46:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La negociación PP-Vox en Extremadura, atascada por la Agricultura y los recortes sociales",
-      "subtitle": "Las conversaciones no avanzan ante la negativa de Guardiola de ceder competencias en Agricultura y adelgazar el gasto público",
-      "url": "https://www.abc.es/espana/negociacion-pp-vox-extremadura-atasca-dos-escollos-20260117041052-nt.html",
-      "scraped_at": "2026-01-17T06:46:00Z"
+      "title": "Forestalia intentó colar un proyecto eléctrico milmillonario utilizando al hombre del PNV",
+      "subtitle": "La compañía usó a Antxon Alonso para establecer «vías» con municipios y Gobiernos autonómicos del norte en un proyecto que contó con numerosas autorizaciones del Ministerio de Transición Ecológica",
+      "url": "https://www.abc.es/espana/pais-vasco/forestalia-intento-colar-proyecto-electrico-milmillonario-utilizando-20260118031901-nt.html",
+      "scraped_at": "2026-01-18T06:46:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE mantiene en el partido a concejales y cargos que anunciaron su marcha por los casos de acoso",
-      "subtitle": "En Monforte, Tomé gobierna siendo no adscrito con el apoyo de nueve ediles aún en la formación socialista; en Almussafes, González continúa aún en el grupo del PSOE",
-      "url": "https://www.abc.es/espana/psoe-mantiene-partido-concejales-cargos-vinculados-casos-20260117041145-nt.html",
-      "scraped_at": "2026-01-17T06:46:00Z"
+      "title": "El PP ya asume el fenómeno de Vox y piensa en bloque para echar a Sánchez",
+      "subtitle": "La inquietud se mantiene entre dirigentes del PP, a los que les cuesta entender por qué nada le pasa factura a Abascal",
+      "url": "https://www.abc.es/espana/pp-asume-fenomeno-vox-piensa-bloque-echar-20260118032050-nt.html",
+      "scraped_at": "2026-01-18T06:46:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "La batalla cultural de Meloni: memoria, valores y relato patriótico",
-      "subtitle": "Desde la reivindicación de Tolkien hasta el control de la Bienal de Venecia, la derecha italiana despliega una ofensiva cultural para cuestionar la hegemonía progresista",
-      "url": "https://www.abc.es/cultura/cultural/batalla-cultural-meloni-memoria-poder-relato-patriotico-20260115041225-nt.html",
-      "scraped_at": "2026-01-17T06:46:00Z"
+      "title": "Azcón convertirá la financiación en su gran baza electoral contra el PSOE",
+      "subtitle": "Primer gran acto electoral este domingo en Zaragoza con todas las comunidades rechazando los privilegios para Cataluña",
+      "url": "https://www.abc.es/espana/azcon-convierte-financiacion-gran-baza-electoral-psoe-20260118032215-nt.html",
+      "scraped_at": "2026-01-18T06:46:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Marco Rubio, el 'halcón' de Trump: David Alandete examina su ascenso desde la operación en Venezuela",
-      "subtitle": "El corresponsal de ABC en Washington detalla por qué el político gusta a republicanos y demócratas y cómo se ha convertido, contra todo pronóstico, en el funcionario con más poder en la Casa Blanca",
-      "url": "https://www.abc.es/internacional/marco-rubio-halcon-donald-trump-david-alandete-20260118041323-nt.html",
-      "scraped_at": "2026-01-17T06:46:00Z"
+      "title": "Voces desde Irán: «Esto se ha convertido en una carnicería»",
+      "subtitle": "Tras diez días sin casi contacto con el exterior, los iraníes comienzan a poder contar lo que están viviendo en las que parecen ser las mayores protestas contra el régimen de los ayatolás",
+      "url": "https://www.abc.es/internacional/voces-iran-convertido-carniceria-20260118032531-nt.html",
+      "scraped_at": "2026-01-18T06:46:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Juan José Hidalgo",
-      "subtitle": "El dueño de Globalia asegura que liderará la aerolínea «mientras esté sano»",
-      "url": "https://www.abc.es/economia/juan-jose-hidalgo-gobierno-cerro-obligacion-salvarnos-20260116111351-nt.html",
-      "scraped_at": "2026-01-17T06:46:01Z"
+      "title": "Delcy Rodríguez",
+      "subtitle": "El empresario colombiano, que actuaba como un conseguidor internacional del régimen chavista, estuvo detenido en EE.UU. y fue indultado en 2023 bajo la promesa, incumplida, de que habría elecciones libres en Venezuela",
+      "url": "https://www.abc.es/internacional/delcy-rodriguez-saca-gabinete-empresario-colombiano-alex-20260117152415-nt.html",
+      "scraped_at": "2026-01-18T06:46:55Z"
     }
   ]
 }
