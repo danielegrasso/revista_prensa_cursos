@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Forestalia intentó colar un proyecto eléctrico milmillonario utilizando al hombre del PNV: La compañía usó a Antxon Alonso para establecer «vías» con municipios y Gobiernos autonómicos del norte en un proyecto que contó con numerosas autorizaciones del Ministerio de Transición Ecológica; El PP ya asume el fenómeno de Vox y piensa en bloque para echar a Sánchez: La inquietud se mantiene entre dirigentes del PP, a los que les cuesta entender por qué nada le pasa factura a Abascal; Azcón convertirá la financiación en su gran baza electoral contra el PSOE: Primer gran acto electoral este domingo en Zaragoza con todas las comunidades rechazando los privilegios para Cataluña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-18T06:46:55Z",
+  "summary": "Resumen del día en ABC.es: Tragedia ferroviaria en Córdoba: ascienden a 39 los muertos por el accidente: Sigue la última hora del descarrilamiento de dos trenes en Córdoba; «Cogí el martillo y rompí ventanillas vagón por vagón entre el caos»: Los testimonios en la caseta municipal son estremecedores: «Apenas a tres metros de mí creo que había personas muertas»; El tráfico ferroviario entre Madrid y Andalucía queda hoy interrumpido: El Iryo de Alta Velocidad se salió del carril e impactó con el Alvia de la vía contigua, provocando el accidente y que sus dos primeros vagones cayeron por un terraplén de cuatro metros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-19T06:56:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Forestalia intentó colar un proyecto eléctrico milmillonario utilizando al hombre del PNV",
-      "subtitle": "La compañía usó a Antxon Alonso para establecer «vías» con municipios y Gobiernos autonómicos del norte en un proyecto que contó con numerosas autorizaciones del Ministerio de Transición Ecológica",
-      "url": "https://www.abc.es/espana/pais-vasco/forestalia-intento-colar-proyecto-electrico-milmillonario-utilizando-20260118031901-nt.html",
-      "scraped_at": "2026-01-18T06:46:55Z"
+      "title": "Tragedia ferroviaria en Córdoba: ascienden a 39 los muertos por el accidente",
+      "subtitle": "Sigue la última hora del descarrilamiento de dos trenes en Córdoba",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/dos-muertos-veintena-heridos-accidente-tren-andalucia-20260118210913-nts.html",
+      "scraped_at": "2026-01-19T06:56:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP ya asume el fenómeno de Vox y piensa en bloque para echar a Sánchez",
-      "subtitle": "La inquietud se mantiene entre dirigentes del PP, a los que les cuesta entender por qué nada le pasa factura a Abascal",
-      "url": "https://www.abc.es/espana/pp-asume-fenomeno-vox-piensa-bloque-echar-20260118032050-nt.html",
-      "scraped_at": "2026-01-18T06:46:55Z"
+      "title": "«Cogí el martillo y rompí ventanillas vagón por vagón entre el caos»",
+      "subtitle": "Los testimonios en la caseta municipal son estremecedores: «Apenas a tres metros de mí creo que había personas muertas»",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/voces-tragico-accidente-ave-adamuz-notabamos-tren-20260118000810-nts.html",
+      "scraped_at": "2026-01-19T06:56:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Azcón convertirá la financiación en su gran baza electoral contra el PSOE",
-      "subtitle": "Primer gran acto electoral este domingo en Zaragoza con todas las comunidades rechazando los privilegios para Cataluña",
-      "url": "https://www.abc.es/espana/azcon-convierte-financiacion-gran-baza-electoral-psoe-20260118032215-nt.html",
-      "scraped_at": "2026-01-18T06:46:55Z"
+      "title": "El tráfico ferroviario entre Madrid y Andalucía queda hoy interrumpido",
+      "subtitle": "El Iryo de Alta Velocidad se salió del carril e impactó con el Alvia de la vía contigua, provocando el accidente y que sus dos primeros vagones cayeron por un terraplén de cuatro metros",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/descarrila-tren-malaga-madrid-altura-adamuz-cordoba-20260118202953-nts.html",
+      "scraped_at": "2026-01-19T06:56:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Voces desde Irán: «Esto se ha convertido en una carnicería»",
-      "subtitle": "Tras diez días sin casi contacto con el exterior, los iraníes comienzan a poder contar lo que están viviendo en las que parecen ser las mayores protestas contra el régimen de los ayatolás",
-      "url": "https://www.abc.es/internacional/voces-iran-convertido-carniceria-20260118032531-nt.html",
-      "scraped_at": "2026-01-18T06:46:55Z"
+      "title": "Óscar Puente tacha de «tremedamente extraño» el descarrilamiento de los dos trenes en Adamuz",
+      "subtitle": "El ministro de Transportes se ha mostrado cauteloso en sus declaraciones y ha pedido precaución a la hora de extraer conclusiones",
+      "url": "https://www.abc.es/espana/puente-tacha-extrano-accidente-adamuz-20260119012438-nt.html",
+      "scraped_at": "2026-01-19T06:56:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Delcy Rodríguez",
-      "subtitle": "El empresario colombiano, que actuaba como un conseguidor internacional del régimen chavista, estuvo detenido en EE.UU. y fue indultado en 2023 bajo la promesa, incumplida, de que habría elecciones libres en Venezuela",
-      "url": "https://www.abc.es/internacional/delcy-rodriguez-saca-gabinete-empresario-colombiano-alex-20260117152415-nt.html",
-      "scraped_at": "2026-01-18T06:46:55Z"
+      "title": "Dónde ver Marruecos - Senegal",
+      "subtitle": "Conoce a qué hora es la final entre Marruecos y Senegal en la Copa África y dónde se puede ver en televisión y online en España",
+      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-television-espana-marruecos-senegal-hoy-final-copa-africa-20260118183432-nt.html",
+      "scraped_at": "2026-01-19T06:56:19Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Los jóvenes abandonan la izquierda y se van en masa a PP y Vox: Feijóo y Abascal se han disparado el último año entre los menores de 45 años, un electorado que el PSOE dominaba. Afectados por la precarización y la vivienda, Sánchez intenta recuperarlos con nuevas medias; Todos los datos de la nueva financiación benefician a Cataluña: recibe más que las tres más pobres juntas: Los gráficos confirman el triunfo de la Generalitat en el nuevo modelo; Trump seguirá siendo Trump (y Sánchez también): La reunión en Moncloa servirá para instalar a Trump como el gran asunto de polarización interna hasta las elecciones. La incoherencia que pone en evidencia a Sánchez es la coincidencia con Trump en respaldar a Delcy. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-18T06:46:49Z",
+  "summary": "Resumen del día en El Mundo: Al menos 39 muertos y una veintena de heridos graves al descarrilar dos trenes de alta velocidad en Córdoba: En los desvíos de entrada de la vía 1 de Adamuz, uno de los trenes ha invadido la vía contigua por la que circulaba otro; Óscar Puente comparece de urgencia: \"Es un accidente muy extraño\": \"Todos los heridos, unos 30 de gravedad, han sido evacuados ya a centros hospitalarios\"; Los supervivientes del choque de Córdoba, en shock: \"El tren ha empezado a dar frenazos y algunos asientos han salido despedidos. Pensaba que me moría\": Francina Martínez, como todos los que llegan al cuartel general instalado en el pueblo de Adamuz, lo hace con su equipaje y lo primero que ha hecho, al igual que Inmaculada, ha sido llamar a sus familiares para tranquilizarles. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-19T06:56:13Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Los jóvenes abandonan la izquierda y se van en masa a PP y Vox",
-      "subtitle": "Feijóo y Abascal se han disparado el último año entre los menores de 45 años, un electorado que el PSOE dominaba. Afectados por la precarización y la vivienda, Sánchez intenta recuperarlos con nuevas medias",
-      "url": "https://www.elmundo.es/espana/2026/01/17/696bb089e85ece97358b45a1.html",
-      "scraped_at": "2026-01-18T06:46:48Z"
+      "title": "Al menos 39 muertos y una veintena de heridos graves al descarrilar dos trenes de alta velocidad en Córdoba",
+      "subtitle": "En los desvíos de entrada de la vía 1 de Adamuz, uno de los trenes ha invadido la vía contigua por la que circulaba otro",
+      "url": "https://www.elmundo.es/andalucia/2026/01/18/696d375c21efa040308b4572.html",
+      "scraped_at": "2026-01-19T06:56:12Z"
     },
     {
       "source": "El Mundo",
-      "title": "Todos los datos de la nueva financiación benefician a Cataluña: recibe más que las tres más pobres juntas",
-      "subtitle": "Los gráficos confirman el triunfo de la Generalitat en el nuevo modelo",
-      "url": "https://www.elmundo.es/espana/2026/01/18/696bdc7521efa0d1288b45ae.html",
-      "scraped_at": "2026-01-18T06:46:48Z"
+      "title": "Óscar Puente comparece de urgencia: \"Es un accidente muy extraño\"",
+      "subtitle": "\"Todos los heridos, unos 30 de gravedad, han sido evacuados ya a centros hospitalarios\"",
+      "url": "https://www.elmundo.es/espana/2026/01/19/696d75e6e85ece496a8b456d.html",
+      "scraped_at": "2026-01-19T06:56:12Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump seguirá siendo Trump (y Sánchez también)",
-      "subtitle": "La reunión en Moncloa servirá para instalar a Trump como el gran asunto de polarización interna hasta las elecciones. La incoherencia que pone en evidencia a Sánchez es la coincidencia con Trump en respaldar a Delcy",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/01/17/696bc08afc6c83c6708b4572.html",
-      "scraped_at": "2026-01-18T06:46:49Z"
+      "title": "Los supervivientes del choque de Córdoba, en shock: \"El tren ha empezado a dar frenazos y algunos asientos han salido despedidos. Pensaba que me moría\"",
+      "subtitle": "Francina Martínez, como todos los que llegan al cuartel general instalado en el pueblo de Adamuz, lo hace con su equipaje y lo primero que ha hecho, al igual que Inmaculada, ha sido llamar a sus familiares para tranquilizarles",
+      "url": "https://www.elmundo.es/andalucia/2026/01/19/696d7d24fc6c8331048b4578.html",
+      "scraped_at": "2026-01-19T06:56:13Z"
     },
     {
       "source": "El Mundo",
-      "title": "Un año de Donald Trump: revolución, caos y un nuevo orden mundial",
-      "subtitle": "El presidente de Estados Unidos rompe con el sistema internacional basado en reglas, las alianzas que han marcado los últimos 80 años. Nunca nadie había hecho tanto, tan rápido, tan polémico, tan profundo y con tantas consecuencias en tan poco tiempo",
-      "url": "https://www.elmundo.es/internacional/2026/01/17/696b4404e85ece7c6b8b4597.html",
-      "scraped_at": "2026-01-18T06:46:49Z"
+      "title": "El lento deterioro de la red: histórico déficit de inversión para un tráfico récord desde la liberalización",
+      "subtitle": "Faltan trenes para atender una demanda disparada desde la entrada de operadores alternativos a Renfe y la red exige un mantenimiento cada vez mayor",
+      "url": "https://www.elmundo.es/economia/2026/01/19/696d414fe9cf4aa4208b4584.html",
+      "scraped_at": "2026-01-19T06:56:13Z"
     },
     {
       "source": "El Mundo",
-      "title": "Presidente Mercosur",
-      "subtitle": "Ha sido el anfitrión de la firma del acuerdo entre la UE y Mercosur; un acuerdo que se ha hecho esperar 26 años. Cree que la UE se lo empezó a tomar en serio cuando Trump abrió la guerra de aranceles",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/01/18/696c058afc6c83fd1d8b458c.html",
-      "scraped_at": "2026-01-18T06:46:49Z"
+      "title": "Zapatero-Plus Ultra",
+      "subtitle": "Julio Martínez le pagó varios años mientras trabajaba para la aerolínea venezolana rescatada por el Gobierno / El ex presidente confirma la información a EL MUNDO y afirma que recibió el dinero por \"asesorías retribuidas de consultoría global\"",
+      "url": "https://www.elmundo.es/espana/2026/01/19/696d2147e85ece22678b457d.html",
+      "scraped_at": "2026-01-19T06:56:13Z"
     }
   ]
 }
