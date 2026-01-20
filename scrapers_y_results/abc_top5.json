@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Tragedia ferroviaria en Córdoba: ascienden a 39 los muertos por el accidente: Sigue la última hora del descarrilamiento de dos trenes en Córdoba; «Cogí el martillo y rompí ventanillas vagón por vagón entre el caos»: Los testimonios en la caseta municipal son estremecedores: «Apenas a tres metros de mí creo que había personas muertas»; El tráfico ferroviario entre Madrid y Andalucía queda hoy interrumpido: El Iryo de Alta Velocidad se salió del carril e impactó con el Alvia de la vía contigua, provocando el accidente y que sus dos primeros vagones cayeron por un terraplén de cuatro metros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-19T06:56:19Z",
+  "summary": "Resumen del día en ABC.es: Investigan si la vía reventó por una pieza que arrastraba el tren Iryo e hizo palanca: La Guardia Civil detecta daños en los raíles en un tramo que coincide justo con el punto de la primera salida de vía; El Gobierno debía haber aplicado hace 15 meses una directiva que refuerza la seguridad en las infraestructuras ferroviarias: La nueva norma europea de Resiliencia de las Entidades Críticas obliga a aumentar la protección frente a sabotajes, amenazas internas, tecnológicas, fenómenos naturales o ataques terroristas; Los héroes improvisados: «Nunca creí que vería un muerto, pero ahí estaban»: Los vecinos de Adamuz vivieron el domingo su noche más larga. Al día siguiente se hizo la luz pero no el día. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-20T06:54:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Tragedia ferroviaria en Córdoba: ascienden a 39 los muertos por el accidente",
-      "subtitle": "Sigue la última hora del descarrilamiento de dos trenes en Córdoba",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/dos-muertos-veintena-heridos-accidente-tren-andalucia-20260118210913-nts.html",
-      "scraped_at": "2026-01-19T06:56:19Z"
+      "title": "Investigan si la vía reventó por una pieza que arrastraba el tren Iryo e hizo palanca",
+      "subtitle": "La Guardia Civil detecta daños en los raíles en un tramo que coincide justo con el punto de la primera salida de vía",
+      "url": "https://www.abc.es/espana/roturas-vias-fisuras-soldaduras-hipotesis-accidente-ferroviario-20260120212616-nt.html",
+      "scraped_at": "2026-01-20T06:54:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Cogí el martillo y rompí ventanillas vagón por vagón entre el caos»",
-      "subtitle": "Los testimonios en la caseta municipal son estremecedores: «Apenas a tres metros de mí creo que había personas muertas»",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/voces-tragico-accidente-ave-adamuz-notabamos-tren-20260118000810-nts.html",
-      "scraped_at": "2026-01-19T06:56:19Z"
+      "title": "El Gobierno debía haber aplicado hace 15 meses una directiva que refuerza la seguridad en las infraestructuras ferroviarias",
+      "subtitle": "La nueva norma europea de Resiliencia de las Entidades Críticas obliga a aumentar la protección frente a sabotajes, amenazas internas, tecnológicas, fenómenos naturales o ataques terroristas",
+      "url": "https://www.abc.es/espana/gobierno-debia-haber-aplicado-meses-directiva-refuerza-20260120041927-nt.html",
+      "scraped_at": "2026-01-20T06:54:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "El tráfico ferroviario entre Madrid y Andalucía queda hoy interrumpido",
-      "subtitle": "El Iryo de Alta Velocidad se salió del carril e impactó con el Alvia de la vía contigua, provocando el accidente y que sus dos primeros vagones cayeron por un terraplén de cuatro metros",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/descarrila-tren-malaga-madrid-altura-adamuz-cordoba-20260118202953-nts.html",
-      "scraped_at": "2026-01-19T06:56:19Z"
+      "title": "Los héroes improvisados: «Nunca creí que vería un muerto, pero ahí estaban»",
+      "subtitle": "Los vecinos de Adamuz vivieron el domingo su noche más larga. Al día siguiente se hizo la luz pero no el día",
+      "url": "https://www.abc.es/sociedad/heroes-improvisados-adamuz-nunca-creia-veria-muerto-20260119220535-nt.html",
+      "scraped_at": "2026-01-20T06:54:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Óscar Puente tacha de «tremedamente extraño» el descarrilamiento de los dos trenes en Adamuz",
-      "subtitle": "El ministro de Transportes se ha mostrado cauteloso en sus declaraciones y ha pedido precaución a la hora de extraer conclusiones",
-      "url": "https://www.abc.es/espana/puente-tacha-extrano-accidente-adamuz-20260119012438-nt.html",
-      "scraped_at": "2026-01-19T06:56:19Z"
+      "title": "El dolor paraliza Huelva a la espera de la llegada de los féretros",
+      "subtitle": "La provincia vive una jornada de luto sin precedentes tras confirmarse que la mayoría de las víctimas del accidente ferroviario son vecinos que regresaban a casa tras un fin de semana en Madrid",
+      "url": "https://www.abc.es/espana/andalucia/huelva/dolor-paraliza-huelva-espera-llegada-feretros-adamuz-20260119214913-nts.html",
+      "scraped_at": "2026-01-20T06:54:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Dónde ver Marruecos - Senegal",
-      "subtitle": "Conoce a qué hora es la final entre Marruecos y Senegal en la Copa África y dónde se puede ver en televisión y online en España",
-      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-television-espana-marruecos-senegal-hoy-final-copa-africa-20260118183432-nt.html",
-      "scraped_at": "2026-01-19T06:56:19Z"
+      "title": "Cruces Copa del Rey",
+      "subtitle": "Restan ocho equipos en liza, tan solo uno, el Albacete, que no pertenece a Primera. Conoce todos los encuentros de los cuartos de final",
+      "url": "https://www.abc.es/deportes/futbol/cruces-sorteo-copa-rey-emparejamientos-horarios-cuartos-20260119120932-nt.html",
+      "scraped_at": "2026-01-20T06:54:07Z"
     }
   ]
 }

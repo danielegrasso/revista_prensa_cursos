@@ -1,35 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Acciona admite a Hacienda que pagó 677.000 € a Cerdán por  trabajos que no puede demostrar: La empresa reconoce hasta 48 facturas con Servinabar de &quot;servicios cuya materialización no ha podido ser constatada y sobre los que existen dudas fundadas de la autenticidad de su soporte documental (contratos)&quot;; Los negocios rentables que nadie quiere: la gran paradoja del comercio español: Aunque sus establecimientos dan dinero, muchos comerciantes de la generación del &quot;baby boom&quot; a punto de jubilarse se encuentran con que nadie quiere coger el relevo; Europa no puede cruzarse de brazos: diez cartas que la UE puede jugar en Groenlandia: Los europeos tienen una influencia frente a las amenazas de Donald Trump contra Groenlandia y deben usarla para aumentar los posibles costes de la anexión. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-19T06:56:25Z",
+  "summary": "Resumen del día en El Confidencial: Todo el poder para Donald Trump: primer año de la presidencia imperial: Si hubiera que resumir lo que llevamos de este segundo mandato en cinco palabras, podrían ser estas: &quot;Trump quiere el poder absoluto&quot;. Y cabe la posibilidad de que lo consiga en 2026; El Eurogrupo elige al croata Boris Vujčić para suceder a De Guindos en el BCE: El Eurogrupo escoge al croata Vujcic como próximo vicepresidente del BCE, imponiéndose al finlandés Rehn y a otros cuatro candidatos, tres de ellos bálticos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-20T06:54:12Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Acciona admite a Hacienda que pagó 677.000 € a Cerdán por  trabajos que no puede demostrar",
-      "subtitle": "La empresa reconoce hasta 48 facturas con Servinabar de &quot;servicios cuya materialización no ha podido ser constatada y sobre los que existen dudas fundadas de la autenticidad de su soporte documental (contratos)&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-01-19/acciona-admite-hacienda-pago-677-000-cerdan-trabajos-no-puede-demostrar_4285454/",
-      "scraped_at": "2026-01-19T06:56:23Z"
+      "title": "Todo el poder para Donald Trump: primer año de la presidencia imperial",
+      "subtitle": "Si hubiera que resumir lo que llevamos de este segundo mandato en cinco palabras, podrían ser estas: &quot;Trump quiere el poder absoluto&quot;. Y cabe la posibilidad de que lo consiga en 2026",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-20/primer-ano-presidencia-imperial-trump_4286971/",
+      "scraped_at": "2026-01-20T06:54:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los negocios rentables que nadie quiere: la gran paradoja del comercio español",
-      "subtitle": "Aunque sus establecimientos dan dinero, muchos comerciantes de la generación del &quot;baby boom&quot; a punto de jubilarse se encuentran con que nadie quiere coger el relevo",
-      "url": "https://www.elconfidencial.com/espana/2026-01-19/empleo-autonomos-jubilados-comercio-barrio_4284717/",
-      "scraped_at": "2026-01-19T06:56:24Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Europa no puede cruzarse de brazos: diez cartas que la UE puede jugar en Groenlandia",
-      "subtitle": "Los europeos tienen una influencia frente a las amenazas de Donald Trump contra Groenlandia y deben usarla para aumentar los posibles costes de la anexión",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-19/europa-no-puede-quedarse-de-brazos-cruzados-10-cartas-que-puede-jugar-bruselas-en-groenlandia_4285304/",
-      "scraped_at": "2026-01-19T06:56:25Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Castilla y León",
-      "subtitle": "La compañía prevé una inversión de 40 millones de euros y un incremento del 50% de la plantilla, hasta llegar a 1.350 trabajadores en 2027. También una plataforma contra el fuego",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/",
-      "scraped_at": "2026-01-19T06:56:25Z"
+      "title": "El Eurogrupo elige al croata Boris Vujčić para suceder a De Guindos en el BCE",
+      "subtitle": "El Eurogrupo escoge al croata Vujcic como próximo vicepresidente del BCE, imponiéndose al finlandés Rehn y a otros cuatro candidatos, tres de ellos bálticos",
+      "url": "https://www.elconfidencial.com/economia/2026-01-19/boris-vujcic-banco-central-europeo-1hms_4286923/",
+      "scraped_at": "2026-01-20T06:54:12Z"
     }
   ]
 }
