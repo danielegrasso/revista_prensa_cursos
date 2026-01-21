@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Quiénes son las víctimas: Según pasan las horas desde que se produjo el accidente de tren en Adamuz, a cuentagotas se van conociendo la identidad de algunos de los fallecidos; Así fue el accidente, paso a paso: El trágico accidente se cobra la vida de al menos 40 personas y más de un centenar de pasajeros acabaron heridos tras colisionar ambos trenes a la altura de Adamuz por el descarrilamiento de uno de ellos; Una brecha en la vía de más de 30 centímetros concentra las sospechas sobre el origen del accidente de Adamuz: La investigación del mayor accidente ferroviario desde la liberalización de la alta velocidad enfrenta a Adif con el operador Iryo. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-20T06:54:02Z",
+  "summary": "Resumen del día en El Mundo: Quiénes son las víctimas: Hay 43 fallecidos y varias familias denunciando la desaparición de sus seres queridos; Así fue el accidente, paso a paso: El trágico accidente se cobra la vida de al menos 40 personas y más de un centenar de pasajeros acabaron heridos tras colisionar ambos trenes a la altura de Adamuz por el descarrilamiento de uno de ellos; La brecha en la vía dejó muescas en todos los coches del Iryo hasta que colapsó: Todas las ruedas del Iryo accidentado presentan marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6, que descarriló. La investigación analiza trenes previos y cree que el paso del 6128 rompió la vía.. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-21T06:54:49Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
       "title": "Quiénes son las víctimas",
-      "subtitle": "Según pasan las horas desde que se produjo el accidente de tren en Adamuz, a cuentagotas se van conociendo la identidad de algunos de los fallecidos",
+      "subtitle": "Hay 43 fallecidos y varias familias denunciando la desaparición de sus seres queridos",
       "url": "https://www.elmundo.es/espana/2026/01/19/696e506ee4d4d857608b4599.html",
-      "scraped_at": "2026-01-20T06:54:01Z"
+      "scraped_at": "2026-01-21T06:54:48Z"
     },
     {
       "source": "El Mundo",
       "title": "Así fue el accidente, paso a paso",
       "subtitle": "El trágico accidente se cobra la vida de al menos 40 personas y más de un centenar de pasajeros acabaron heridos tras colisionar ambos trenes a la altura de Adamuz por el descarrilamiento de uno de ellos",
       "url": "https://www.elmundo.es/espana/2026/01/19/696e07a721efa099768b4572.html",
-      "scraped_at": "2026-01-20T06:54:01Z"
+      "scraped_at": "2026-01-21T06:54:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "Una brecha en la vía de más de 30 centímetros concentra las sospechas sobre el origen del accidente de Adamuz",
-      "subtitle": "La investigación del mayor accidente ferroviario desde la liberalización de la alta velocidad enfrenta a Adif con el operador Iryo",
-      "url": "https://www.elmundo.es/economia/2026/01/20/696e858ffdddffcd378b45a7.html",
-      "scraped_at": "2026-01-20T06:54:01Z"
+      "title": "La brecha en la vía dejó muescas en todos los coches del Iryo hasta que colapsó",
+      "subtitle": "Todas las ruedas del Iryo accidentado presentan marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6, que descarriló. La investigación analiza trenes previos y cree que el paso del 6128 rompió la vía.",
+      "url": "https://www.elmundo.es/economia/2026/01/20/696fd4d221efa0437f8b4581.html",
+      "scraped_at": "2026-01-21T06:54:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "El terreno y la caída de los vagones dificultan el acceso de maquinaria para completar el rescate con 40 muertos ya",
-      "subtitle": "Un total de 43 familias denunciaron ante la Guardia Civil la desaparición de sus allegados pero las autoridades advierten de que muchos podrían estar entre los heridos o fallecidos no identificados aún. 13 de los 39 heridos hospitalizados están en la UCI",
-      "url": "https://www.elmundo.es/andalucia/2026/01/19/696e8f16fc6c83dd2d8b4599.html",
-      "scraped_at": "2026-01-20T06:54:02Z"
+      "title": "Los vagones retorcidos escondían otros cinco cadáveres y sigue sin descartarse que aparezcan nuevos cuerpos",
+      "subtitle": "Los forenses han conseguido identificar ya a 25 de los fallecidos y han completado la totalidad de las autopsias",
+      "url": "https://www.elmundo.es/espana/2026/01/20/696fc099fdddff16658b45a3.html",
+      "scraped_at": "2026-01-21T06:54:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "Alta Velocidad",
-      "subtitle": "La red de alta velocidad muestra una importante fatiga desde la liberalización del servicio",
-      "url": "https://www.elmundo.es/economia/2026/01/19/696e316efc6c837d708b4597.html",
-      "scraped_at": "2026-01-20T06:54:02Z"
+      "title": "Límite de velocidad",
+      "subtitle": "La discreción con que el Gobierno limita las velocidades en tramos con problemas para garantizar la seguridad desata más desonfianza entre los usuarios, lejos de tranquilizarlos",
+      "url": "https://www.elmundo.es/economia/2026/01/21/697008e321efa063508b45b0.html",
+      "scraped_at": "2026-01-21T06:54:49Z"
     }
   ]
 }

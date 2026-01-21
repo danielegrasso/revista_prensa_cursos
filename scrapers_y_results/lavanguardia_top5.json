@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Que dure la concordia: La tragedia ferroviaria de Adamuz ha conmocionado al país. A la hora de escribir este artículo aún no se puede asegurar el definitivo número de víctimas mortales,; La tragedia de Adamuz abre un atisbo de tregua entre el Gobierno y el PP: Sánchez escenifica unidad con Moreno al tiempo que Feijóo también modera el tono; El instrumento anticoerción de la UE, un 'bazuca' para golpear a los servicios digitales de EE.UU.: Europa analiza si estrenar esta herramienta para defender sus intereses tras el anuncio de Trump de nuevos aranceles contra los ocho países que participaron en maniobras. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-20T06:54:10Z",
+  "summary": "Resumen del día en La Vanguardia: Muere un maquinista del Rodalies descarrilado al chocar contra un muro desprendido en Gelida: Un tren de la línea R4 ha descarrilado y deja 37 pasajeros heridos, cinco de ellos de gravedad; Los maquinistas se plantan y llaman a un parón total como protesta: Los trenes no circularán a primera hora de este miércoles, hasta que Adif haya hecho un reconocimiento de toda la red ferroviaria catalana; Sílvia Paneque: “Que nadie vaya a buscar el tren a Rodalies”: La consellera de Territori indica que en una reunión a las 9.30h se decidirá si se restablece el servicio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-21T06:54:58Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Que dure la concordia",
-      "subtitle": "La tragedia ferroviaria de Adamuz ha conmocionado al país. A la hora de escribir este artículo aún no se puede asegurar el definitivo número de víctimas mortales,",
-      "url": "https://www.lavanguardia.com/opinion/20260120/11443793/dure-concordia.html",
-      "scraped_at": "2026-01-20T06:54:08Z"
+      "title": "Muere un maquinista del Rodalies descarrilado al chocar contra un muro desprendido en Gelida",
+      "subtitle": "Un tren de la línea R4 ha descarrilado y deja 37 pasajeros heridos, cinco de ellos de gravedad",
+      "url": "https://www.lavanguardia.com/sucesos/20260120/11444655/20-heridos-cinco-graves-descarrilamiento-tren-rodalies-gelida.html",
+      "scraped_at": "2026-01-21T06:54:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La tragedia de Adamuz abre un atisbo de tregua entre el Gobierno y el PP",
-      "subtitle": "Sánchez escenifica unidad con Moreno al tiempo que Feijóo también modera el tono",
-      "url": "https://www.lavanguardia.com/politica/20260120/11443766/tragedia-adamuz-abre-atisbo-tregua-gobierno-pp.html",
-      "scraped_at": "2026-01-20T06:54:09Z"
+      "title": "Los maquinistas se plantan y llaman a un parón total como protesta",
+      "subtitle": "Los trenes no circularán a primera hora de este miércoles, hasta que Adif haya hecho un reconocimiento de toda la red ferroviaria catalana",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260121/11444680/suspendida-circulacion-ferroviaria-red-rodalies-descarrilamientos.html",
+      "scraped_at": "2026-01-21T06:54:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El instrumento anticoerción de la UE, un 'bazuca' para golpear a los servicios digitales de EE.UU.",
-      "subtitle": "Europa analiza si estrenar esta herramienta para defender sus intereses tras el anuncio de Trump de nuevos aranceles contra los ocho países que participaron en maniobras",
-      "url": "https://www.lavanguardia.com/internacional/20260120/11443608/instrumento-anticoercion-ue-bazuca-golpear-servicios-digitales-ee-uu.html",
-      "scraped_at": "2026-01-20T06:54:09Z"
+      "title": "Sílvia Paneque: “Que nadie vaya a buscar el tren a Rodalies”",
+      "subtitle": "La consellera de Territori indica que en una reunión a las 9.30h se decidirá si se restablece el servicio",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260121/11444911/rodalies-restablecera-servicio-garantice-seguridad.html",
+      "scraped_at": "2026-01-21T06:54:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Patriotas en el hielo",
-      "subtitle": "Diversos líderes de la ultraderecha europea toman distancias de Trump, Abascal no se mueve y tiene sus razones",
-      "url": "https://www.lavanguardia.com/internacional/20260120/11443781/patriotas-hielo.html",
-      "scraped_at": "2026-01-20T06:54:10Z"
+      "title": "Exigencia sí, psicosis no",
+      "subtitle": "Segundo accidente mortal en 48 horas con el tren como protagonista. La caída de un muro de contención, a causa de la lluvia, sobre la línea de Rodalies en Gelida dejó",
+      "url": "https://www.lavanguardia.com/opinion/20260121/11444673/exigencia-psicosis.html",
+      "scraped_at": "2026-01-21T06:54:58Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las otras elecciones",
-      "subtitle": "Hay otras elecciones en el 2026, solo que tendrán lugar fuera de España. Pero hasta las alejadas de nuestra fronteras pueden repercutir más que nuestras autonómicas",
-      "url": "https://www.lavanguardia.com/politica/20260120/11443664/elecciones.html",
-      "scraped_at": "2026-01-20T06:54:10Z"
+      "title": "Barcelona se compromete a instalar detectores de humo en pisos de mayores vulnerables",
+      "subtitle": "El gobierno del PSC hace suya la demanda del PP de colocar este dispositivo en hogares en los que un incendio fortuito puede terminar en tragedia",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260120/11444350/barcelona-compromete-instalar-detectores-humo-pisos-personas-mayores-vulnerables.html",
+      "scraped_at": "2026-01-21T06:54:58Z"
     }
   ]
 }

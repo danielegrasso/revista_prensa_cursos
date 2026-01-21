@@ -1,21 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Todo el poder para Donald Trump: primer año de la presidencia imperial: Si hubiera que resumir lo que llevamos de este segundo mandato en cinco palabras, podrían ser estas: &quot;Trump quiere el poder absoluto&quot;. Y cabe la posibilidad de que lo consiga en 2026; El Eurogrupo elige al croata Boris Vujčić para suceder a De Guindos en el BCE: El Eurogrupo escoge al croata Vujcic como próximo vicepresidente del BCE, imponiéndose al finlandés Rehn y a otros cuatro candidatos, tres de ellos bálticos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-20T06:54:12Z",
+  "summary": "Resumen del día en El Confidencial: Los líderes sacan los cuchillos contra Trump en Davos y entierran las antiguas alianzas: El foro de Davos se convirtió este martes en un altavoz para líderes como Macron y Carney, que han elevado el tono frente a las ambiciones territoriales de Trump en Groenlandia; El déficit comercial de España con EEUU se dispara un 35% y 1.400 empresas ya no exportan: El impacto está siendo muy desigual en todo el territorio nacional, pero afecta especialmente a Castellón, Vizcaya, Cádiz y Huelva. Aceite, automóvil y manufacturas de consumo se llevan la peor parte; Quiénes somos: El confidencial es un medio con la misión de crear una sociedad más libre y mejor informada, que se ha propuesto ser el mejor medio digital, con información independiente y veraz.. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-21T06:55:00Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Todo el poder para Donald Trump: primer año de la presidencia imperial",
-      "subtitle": "Si hubiera que resumir lo que llevamos de este segundo mandato en cinco palabras, podrían ser estas: &quot;Trump quiere el poder absoluto&quot;. Y cabe la posibilidad de que lo consiga en 2026",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-20/primer-ano-presidencia-imperial-trump_4286971/",
-      "scraped_at": "2026-01-20T06:54:12Z"
+      "title": "Los líderes sacan los cuchillos contra Trump en Davos y entierran las antiguas alianzas",
+      "subtitle": "El foro de Davos se convirtió este martes en un altavoz para líderes como Macron y Carney, que han elevado el tono frente a las ambiciones territoriales de Trump en Groenlandia",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-21/shock-dinamarca-davos-historia-espionaje-crisis-eeuu-europa_4287614/",
+      "scraped_at": "2026-01-21T06:54:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Eurogrupo elige al croata Boris Vujčić para suceder a De Guindos en el BCE",
-      "subtitle": "El Eurogrupo escoge al croata Vujcic como próximo vicepresidente del BCE, imponiéndose al finlandés Rehn y a otros cuatro candidatos, tres de ellos bálticos",
-      "url": "https://www.elconfidencial.com/economia/2026-01-19/boris-vujcic-banco-central-europeo-1hms_4286923/",
-      "scraped_at": "2026-01-20T06:54:12Z"
+      "title": "El déficit comercial de España con EEUU se dispara un 35% y 1.400 empresas ya no exportan",
+      "subtitle": "El impacto está siendo muy desigual en todo el territorio nacional, pero afecta especialmente a Castellón, Vizcaya, Cádiz y Huelva. Aceite, automóvil y manufacturas de consumo se llevan la peor parte",
+      "url": "https://www.elconfidencial.com/economia/2026-01-21/deficit-comercial-espana-estados-unidos-empresas-dejan-exportar_4287671/",
+      "scraped_at": "2026-01-21T06:55:00Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Quiénes somos",
+      "subtitle": "El confidencial es un medio con la misión de crear una sociedad más libre y mejor informada, que se ha propuesto ser el mejor medio digital, con información independiente y veraz.",
+      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
+      "scraped_at": "2026-01-21T06:55:00Z"
     }
   ]
 }
