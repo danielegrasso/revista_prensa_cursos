@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Muere un maquinista del Rodalies descarrilado al chocar contra un muro desprendido en Gelida: Un tren de la línea R4 ha descarrilado y deja 37 pasajeros heridos, cinco de ellos de gravedad; Los maquinistas se plantan y llaman a un parón total como protesta: Los trenes no circularán a primera hora de este miércoles, hasta que Adif haya hecho un reconocimiento de toda la red ferroviaria catalana; Sílvia Paneque: “Que nadie vaya a buscar el tren a Rodalies”: La consellera de Territori indica que en una reunión a las 9.30h se decidirá si se restablece el servicio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-21T06:54:58Z",
+  "summary": "Resumen del día en La Vanguardia: Los maquinistas se oponen a la recuperación del servicio por falta de seguridad: Los maquinistas se oponen a la recuperación del servicio por falta de seguridad; Dudas bien razonables: Podemos concluir que hubo fatalidad en Adamuz al descarrilar un tren en el mismo momento que pasaba otro en dirección contraria, y podemos también aceptar el infortunio; Por qué la tregua política no va a durar: La oposición tiene toda la legitimidad para criticar la gestión del Gobierno sobre la infraestructura ferroviaria: la cuestión es qué tono elige. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-22T06:52:52Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Muere un maquinista del Rodalies descarrilado al chocar contra un muro desprendido en Gelida",
-      "subtitle": "Un tren de la línea R4 ha descarrilado y deja 37 pasajeros heridos, cinco de ellos de gravedad",
-      "url": "https://www.lavanguardia.com/sucesos/20260120/11444655/20-heridos-cinco-graves-descarrilamiento-tren-rodalies-gelida.html",
-      "scraped_at": "2026-01-21T06:54:57Z"
+      "title": "Los maquinistas se oponen a la recuperación del servicio por falta de seguridad",
+      "subtitle": "Los maquinistas se oponen a la recuperación del servicio por falta de seguridad",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260121/11445670/adif-reapertura-rodalies-jornada-caos-accidente-gelida-oposicion-maquinistas.html",
+      "scraped_at": "2026-01-22T06:52:51Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los maquinistas se plantan y llaman a un parón total como protesta",
-      "subtitle": "Los trenes no circularán a primera hora de este miércoles, hasta que Adif haya hecho un reconocimiento de toda la red ferroviaria catalana",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260121/11444680/suspendida-circulacion-ferroviaria-red-rodalies-descarrilamientos.html",
-      "scraped_at": "2026-01-21T06:54:57Z"
+      "title": "Dudas bien razonables",
+      "subtitle": "Podemos concluir que hubo fatalidad en Adamuz al descarrilar un tren en el mismo momento que pasaba otro en dirección contraria, y podemos también aceptar el infortunio",
+      "url": "https://www.lavanguardia.com/opinion/20260122/11445667/dudas-razonables.html",
+      "scraped_at": "2026-01-22T06:52:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sílvia Paneque: “Que nadie vaya a buscar el tren a Rodalies”",
-      "subtitle": "La consellera de Territori indica que en una reunión a las 9.30h se decidirá si se restablece el servicio",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260121/11444911/rodalies-restablecera-servicio-garantice-seguridad.html",
-      "scraped_at": "2026-01-21T06:54:57Z"
+      "title": "Por qué la tregua política no va a durar",
+      "subtitle": "La oposición tiene toda la legitimidad para criticar la gestión del Gobierno sobre la infraestructura ferroviaria: la cuestión es qué tono elige",
+      "url": "https://www.lavanguardia.com/politica/20260122/11445583/tregua-politica-durar.html",
+      "scraped_at": "2026-01-22T06:52:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Exigencia sí, psicosis no",
-      "subtitle": "Segundo accidente mortal en 48 horas con el tren como protagonista. La caída de un muro de contención, a causa de la lluvia, sobre la línea de Rodalies en Gelida dejó",
-      "url": "https://www.lavanguardia.com/opinion/20260121/11444673/exigencia-psicosis.html",
-      "scraped_at": "2026-01-21T06:54:58Z"
+      "title": "La oposición en Catalunya presiona al Govern por las inversiones en Rodalies",
+      "subtitle": "Junts pide cesar a la consellera Paneque y los aliados critican la desatención al usuario",
+      "url": "https://www.lavanguardia.com/politica/20260122/11445655/oposicion-catalunya-presiona-govern-inversiones-rodalies.html",
+      "scraped_at": "2026-01-22T06:52:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Barcelona se compromete a instalar detectores de humo en pisos de mayores vulnerables",
-      "subtitle": "El gobierno del PSC hace suya la demanda del PP de colocar este dispositivo en hogares en los que un incendio fortuito puede terminar en tragedia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260120/11444350/barcelona-compromete-instalar-detectores-humo-pisos-personas-mayores-vulnerables.html",
-      "scraped_at": "2026-01-21T06:54:58Z"
+      "title": "Bilbainada de Champions en Bérgamo",
+      "subtitle": "Tres chispazos dejan al Atalanta, que aspiraba a la tercera posición, con cara de tonto y le dan vida al Athletic para pasar entre los 24 mejores",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260121/11445674/athletic-atalanta-champions-bergamo.html",
+      "scraped_at": "2026-01-22T06:52:52Z"
     }
   ]
 }

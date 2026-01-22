@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los líderes sacan los cuchillos contra Trump en Davos y entierran las antiguas alianzas: El foro de Davos se convirtió este martes en un altavoz para líderes como Macron y Carney, que han elevado el tono frente a las ambiciones territoriales de Trump en Groenlandia; El déficit comercial de España con EEUU se dispara un 35% y 1.400 empresas ya no exportan: El impacto está siendo muy desigual en todo el territorio nacional, pero afecta especialmente a Castellón, Vizcaya, Cádiz y Huelva. Aceite, automóvil y manufacturas de consumo se llevan la peor parte; Quiénes somos: El confidencial es un medio con la misión de crear una sociedad más libre y mejor informada, que se ha propuesto ser el mejor medio digital, con información independiente y veraz.. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-21T06:55:00Z",
+  "summary": "Resumen del día en El Confidencial: Los abundantistas desembarcan en España: más casas, energía y más parejas para todos: Se acabaron la escasez y el decrecimiento. Para un creciente número de ensayistas, pensadores y politólogos, el futuro pasa por construir e inventar lo que la sociedad necesita; Fin de la instrucción: la jueza envía al banquillo al Madrid por los conciertos del Bernabéu: La magistrada ve indicios de delito penal y abre la puerta a ir a juicio. Esta decisión deja al borde del banquillo a José Ángel Sánchez, director general del club y mano derecha de Florentino; C. Valenciana: Las últimas borrascas evidencian la concurrencia de episodios de crecida del nivel del mar en un tramo de más de 100 kilómetros del Golfo de Valencia. Los vecinos denuncian \"abandono institucional\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-22T06:52:54Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los líderes sacan los cuchillos contra Trump en Davos y entierran las antiguas alianzas",
-      "subtitle": "El foro de Davos se convirtió este martes en un altavoz para líderes como Macron y Carney, que han elevado el tono frente a las ambiciones territoriales de Trump en Groenlandia",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-21/shock-dinamarca-davos-historia-espionaje-crisis-eeuu-europa_4287614/",
-      "scraped_at": "2026-01-21T06:54:59Z"
+      "title": "Los abundantistas desembarcan en España: más casas, energía y más parejas para todos",
+      "subtitle": "Se acabaron la escasez y el decrecimiento. Para un creciente número de ensayistas, pensadores y politólogos, el futuro pasa por construir e inventar lo que la sociedad necesita",
+      "url": "https://www.elconfidencial.com/cultura/2026-01-22/abundantistas-espanas-mas-casas-energia-parejas_4286642/",
+      "scraped_at": "2026-01-22T06:52:54Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El déficit comercial de España con EEUU se dispara un 35% y 1.400 empresas ya no exportan",
-      "subtitle": "El impacto está siendo muy desigual en todo el territorio nacional, pero afecta especialmente a Castellón, Vizcaya, Cádiz y Huelva. Aceite, automóvil y manufacturas de consumo se llevan la peor parte",
-      "url": "https://www.elconfidencial.com/economia/2026-01-21/deficit-comercial-espana-estados-unidos-empresas-dejan-exportar_4287671/",
-      "scraped_at": "2026-01-21T06:55:00Z"
+      "title": "Fin de la instrucción: la jueza envía al banquillo al Madrid por los conciertos del Bernabéu",
+      "subtitle": "La magistrada ve indicios de delito penal y abre la puerta a ir a juicio. Esta decisión deja al borde del banquillo a José Ángel Sánchez, director general del club y mano derecha de Florentino",
+      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-01-22/juicio-conciertos-bernabeu_4288239/",
+      "scraped_at": "2026-01-22T06:52:54Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "El confidencial es un medio con la misión de crear una sociedad más libre y mejor informada, que se ha propuesto ser el mejor medio digital, con información independiente y veraz.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2026-01-21T06:55:00Z"
+      "title": "C. Valenciana",
+      "subtitle": "Las últimas borrascas evidencian la concurrencia de episodios de crecida del nivel del mar en un tramo de más de 100 kilómetros del Golfo de Valencia. Los vecinos denuncian \"abandono institucional\"",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/",
+      "scraped_at": "2026-01-22T06:52:54Z"
     }
   ]
 }
