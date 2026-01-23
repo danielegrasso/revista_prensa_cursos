@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los maquinistas se oponen a la recuperación del servicio por falta de seguridad: Los maquinistas se oponen a la recuperación del servicio por falta de seguridad; Dudas bien razonables: Podemos concluir que hubo fatalidad en Adamuz al descarrilar un tren en el mismo momento que pasaba otro en dirección contraria, y podemos también aceptar el infortunio; Por qué la tregua política no va a durar: La oposición tiene toda la legitimidad para criticar la gestión del Gobierno sobre la infraestructura ferroviaria: la cuestión es qué tono elige. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-22T06:52:52Z",
+  "summary": "Resumen del día en La Vanguardia: Rodalies se restablece poco a poco tras aprobar los maquinistas y Adif el estado de la red: Técnicos del Administrador de Infraestructuras Ferroviarias, Renfe y el sindicato SEMAF recorren las vías para analizarlas; El Govern trata de superar la crisis de Rodalies sin minar su relación con Puente: Junqueras avisa de que si no se aportan soluciones inmediatas empezará a pedir dimisiones; Groenlandia: ¿el espacio vital de Trump?: Imperialismo, dinero y ambición en el Ártico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-23T06:52:11Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los maquinistas se oponen a la recuperación del servicio por falta de seguridad",
-      "subtitle": "Los maquinistas se oponen a la recuperación del servicio por falta de seguridad",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260121/11445670/adif-reapertura-rodalies-jornada-caos-accidente-gelida-oposicion-maquinistas.html",
-      "scraped_at": "2026-01-22T06:52:51Z"
+      "title": "Rodalies se restablece poco a poco tras aprobar los maquinistas y Adif el estado de la red",
+      "subtitle": "Técnicos del Administrador de Infraestructuras Ferroviarias, Renfe y el sindicato SEMAF recorren las vías para analizarlas",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260122/11446828/rodalies-seguira-interrumpida-inspecciones-conjuntas-adif-maquinistas-den-visto-bueno.html",
+      "scraped_at": "2026-01-23T06:52:09Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Dudas bien razonables",
-      "subtitle": "Podemos concluir que hubo fatalidad en Adamuz al descarrilar un tren en el mismo momento que pasaba otro en dirección contraria, y podemos también aceptar el infortunio",
-      "url": "https://www.lavanguardia.com/opinion/20260122/11445667/dudas-razonables.html",
-      "scraped_at": "2026-01-22T06:52:52Z"
+      "title": "El Govern trata de superar la crisis de Rodalies sin minar su relación con Puente",
+      "subtitle": "Junqueras avisa de que si no se aportan soluciones inmediatas empezará a pedir dimisiones",
+      "url": "https://www.lavanguardia.com/politica/20260123/11447043/govern-trata-superar-crisis-rodalies-minar-relacion-puente.html",
+      "scraped_at": "2026-01-23T06:52:09Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Por qué la tregua política no va a durar",
-      "subtitle": "La oposición tiene toda la legitimidad para criticar la gestión del Gobierno sobre la infraestructura ferroviaria: la cuestión es qué tono elige",
-      "url": "https://www.lavanguardia.com/politica/20260122/11445583/tregua-politica-durar.html",
-      "scraped_at": "2026-01-22T06:52:52Z"
+      "title": "Groenlandia: ¿el espacio vital de Trump?",
+      "subtitle": "Imperialismo, dinero y ambición en el Ártico",
+      "url": "https://www.lavanguardia.com/internacional/20260123/11446682/groenlandia-espacio-vital-trump.html",
+      "scraped_at": "2026-01-23T06:52:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La oposición en Catalunya presiona al Govern por las inversiones en Rodalies",
-      "subtitle": "Junts pide cesar a la consellera Paneque y los aliados critican la desatención al usuario",
-      "url": "https://www.lavanguardia.com/politica/20260122/11445655/oposicion-catalunya-presiona-govern-inversiones-rodalies.html",
-      "scraped_at": "2026-01-22T06:52:52Z"
+      "title": "Europa para el golpe",
+      "subtitle": "Los líderes comunitarios, aliviados pero “vigilantes” ante la volatilidad de EE.UU.",
+      "url": "https://www.lavanguardia.com/internacional/20260122/11447033/europa-golpe.html",
+      "scraped_at": "2026-01-23T06:52:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Bilbainada de Champions en Bérgamo",
-      "subtitle": "Tres chispazos dejan al Atalanta, que aspiraba a la tercera posición, con cara de tonto y le dan vida al Athletic para pasar entre los 24 mejores",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260121/11445674/athletic-atalanta-champions-bergamo.html",
-      "scraped_at": "2026-01-22T06:52:52Z"
+      "title": "Las concesiones de la OTAN que apaciguaron las amenazas de Trump a Groenlandia",
+      "subtitle": "Las negociaciones con Mark Rutte resultaron en un preacuerdo que compromete a los aliados a reforzar la seguridad en el Ártico, mientras que el republicano ya habla de",
+      "url": "https://www.lavanguardia.com/internacional/20260122/11446072/dinamarca-asegura-acuerdo-ee-uu-sobre-groenlandia-cuestiona-soberania.html",
+      "scraped_at": "2026-01-23T06:52:11Z"
     }
   ]
 }

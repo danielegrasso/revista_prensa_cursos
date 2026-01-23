@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Quiénes son las víctimas: Hay 43 fallecidos y varias familias denunciando la desaparición de sus seres queridos; ¿Qué causó el accidente?: Una rotura de 30 centímetros en la vía, una posible soldadura defectuosa, marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6 del Iryo que descarriló.... todas las posibles causas del accidente ferroviario de Adamuz que ha acabado con 43 vidas y más de un centenar de heridos; Fabricantes y empresas de mantenimiento elevan su inquietud por el estado de las vías tras hallar nuevas pruebas en un Talgo previo al Iryo: El hallazgo de muescas del fallo de soldadura en trenes previos al Iryo 6189 desata la preocupación entre los especialistas ferroviarios. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-22T06:52:44Z",
+  "summary": "Resumen del día en El Mundo: Quiénes son las víctimas: Ascienden a 45 fallecidos los fallecidos en el siniestro tras recuperarse todos los cuerpos; ¿Qué causó el accidente?: Una rotura de 30 centímetros en la vía, una posible soldadura defectuosa, marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6 del Iryo que descarriló.... todas las posibles causas del accidente ferroviario de Adamuz que ha acabado con 45 vidas y más de un centenar de heridos; Habla el primer guardia civil que llegó a la 'zona cero' del accidente: \"Cuando llegamos al Alvia allí no había nadie\": El agente Arturo Carmona fue quien advirtió que había otro tren accidentado tras ayudar en el Iryo, y cuando llegó al \"infierno\" del Alvia, una hora después del choque, informó a la central de Adif de que había muertos: \"No sabían el alcance\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-23T06:52:03Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
       "title": "Quiénes son las víctimas",
-      "subtitle": "Hay 43 fallecidos y varias familias denunciando la desaparición de sus seres queridos",
+      "subtitle": "Ascienden a 45 fallecidos los fallecidos en el siniestro tras recuperarse todos los cuerpos",
       "url": "https://www.elmundo.es/espana/2026/01/20/696fee32fdddffa16d8b4576.html",
-      "scraped_at": "2026-01-22T06:52:43Z"
+      "scraped_at": "2026-01-23T06:52:02Z"
     },
     {
       "source": "El Mundo",
       "title": "¿Qué causó el accidente?",
-      "subtitle": "Una rotura de 30 centímetros en la vía, una posible soldadura defectuosa, marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6 del Iryo que descarriló.... todas las posibles causas del accidente ferroviario de Adamuz que ha acabado con 43 vidas y más de un centenar de heridos",
+      "subtitle": "Una rotura de 30 centímetros en la vía, una posible soldadura defectuosa, marcas del tamaño de una moneda de 50 céntimos entre la cabeza tractora y el coche 6 del Iryo que descarriló.... todas las posibles causas del accidente ferroviario de Adamuz que ha acabado con 45 vidas y más de un centenar de heridos",
       "url": "https://www.elmundo.es/espana/2026/01/21/6970c278e4d4d8381c8b4597.html",
-      "scraped_at": "2026-01-22T06:52:43Z"
+      "scraped_at": "2026-01-23T06:52:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "Fabricantes y empresas de mantenimiento elevan su inquietud por el estado de las vías tras hallar nuevas pruebas en un Talgo previo al Iryo",
-      "subtitle": "El hallazgo de muescas del fallo de soldadura en trenes previos al Iryo 6189 desata la preocupación entre los especialistas ferroviarios",
-      "url": "https://www.elmundo.es/economia/2026/01/21/697145d5fc6c83105c8b45c5.html",
-      "scraped_at": "2026-01-22T06:52:43Z"
+      "title": "Habla el primer guardia civil que llegó a la 'zona cero' del accidente: \"Cuando llegamos al Alvia allí no había nadie\"",
+      "subtitle": "El agente Arturo Carmona fue quien advirtió que había otro tren accidentado tras ayudar en el Iryo, y cuando llegó al \"infierno\" del Alvia, una hora después del choque, informó a la central de Adif de que había muertos: \"No sabían el alcance\"",
+      "url": "https://www.elmundo.es/espana/2026/01/22/69728360e4d4d8b56b8b4581.html",
+      "scraped_at": "2026-01-23T06:52:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "El sector ferroviario estalla contra Puente por el caos: \"Es un punto de inflexión\"",
-      "subtitle": "El reclamo de una mayor seguridad en las vías ferroviarias por parte de los maquinistas se refuerza tras los trágicos accidentes de Adamuz y Gelida",
-      "url": "https://www.elmundo.es/economia/empresas/2026/01/21/69708d47fdddff96548b45bb.html",
-      "scraped_at": "2026-01-22T06:52:44Z"
+      "title": "Todas las quejas ignoradas que han reventado las costuras del sector: de las vibraciones a las \"graves deficiencias\"",
+      "subtitle": "Los sindicatos ferroviarios y de maquinistas llevan años denunciando incidencias y problemas en la infraestructura y el mantenimiento tras la liberalización del sector",
+      "url": "https://www.elmundo.es/economia/2026/01/22/6972702ffc6c837e298b457f.html",
+      "scraped_at": "2026-01-23T06:52:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "Búsqueda víctimas",
-      "subtitle": "Las familias denuncian la lentitud de la búsqueda: \"Renfe se ha portado asquerosamente\"",
-      "url": "https://www.elmundo.es/espana/2026/01/21/69710f76e9cf4a00648b4574.html",
-      "scraped_at": "2026-01-22T06:52:44Z"
+      "title": "Accidente tren",
+      "subtitle": "Los registros de los trenes que precedieron al Iryo 6189 captaron datos de movimientos anómalos en el punto de su descarrilamiento en Adamuz",
+      "url": "https://www.elmundo.es/economia/2026/01/22/69728051e9cf4a9a248b45c3.html",
+      "scraped_at": "2026-01-23T06:52:03Z"
     }
   ]
 }

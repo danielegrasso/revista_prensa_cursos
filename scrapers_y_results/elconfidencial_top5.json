@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los abundantistas desembarcan en España: más casas, energía y más parejas para todos: Se acabaron la escasez y el decrecimiento. Para un creciente número de ensayistas, pensadores y politólogos, el futuro pasa por construir e inventar lo que la sociedad necesita; Fin de la instrucción: la jueza envía al banquillo al Madrid por los conciertos del Bernabéu: La magistrada ve indicios de delito penal y abre la puerta a ir a juicio. Esta decisión deja al borde del banquillo a José Ángel Sánchez, director general del club y mano derecha de Florentino; C. Valenciana: Las últimas borrascas evidencian la concurrencia de episodios de crecida del nivel del mar en un tramo de más de 100 kilómetros del Golfo de Valencia. Los vecinos denuncian \"abandono institucional\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-22T06:52:54Z",
+  "summary": "Resumen del día en El Confidencial: La UE rehúye del \"optimismo excesivo\" ante el último giro de Trump, pero celebra su unidad en la crisis: Los Veintisiete han celebrado este jueves una cumbre extraordinaria centrada en la relación transatlántica y en cómo gestionar al presidente de Estados Unidos; La guerra de todas las guerras: ¿y si Europa deja de comprar bonos de Estados Unidos?: Trump ha hecho saltar por los aires el tablero geopolítico. Afecta a todos los ámbitos. También a los flujos financieros entre Europa y EEUU. Hay quien piensa que se debe presionar a Washington comprando menos bonos. ¿Es posible?; Bronca total por el \"empeño\" en aupar a una exasesora de Sánchez a la Sala clave del TS: El apoyo del sector más cercano a la izquierda a la catedrática de Derecho Penal en la Universidad Autónoma de Madrid Silvina Bacigalupo divide, de nuevo, al CGPJ. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-23T06:52:13Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los abundantistas desembarcan en España: más casas, energía y más parejas para todos",
-      "subtitle": "Se acabaron la escasez y el decrecimiento. Para un creciente número de ensayistas, pensadores y politólogos, el futuro pasa por construir e inventar lo que la sociedad necesita",
-      "url": "https://www.elconfidencial.com/cultura/2026-01-22/abundantistas-espanas-mas-casas-energia-parejas_4286642/",
-      "scraped_at": "2026-01-22T06:52:54Z"
+      "title": "La UE rehúye del \"optimismo excesivo\" ante el último giro de Trump, pero celebra su unidad en la crisis",
+      "subtitle": "Los Veintisiete han celebrado este jueves una cumbre extraordinaria centrada en la relación transatlántica y en cómo gestionar al presidente de Estados Unidos",
+      "url": "https://www.elconfidencial.com/mundo/2026-01-22/union-europea-optimismo-excesivo-giro-trump_4289413/",
+      "scraped_at": "2026-01-23T06:52:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Fin de la instrucción: la jueza envía al banquillo al Madrid por los conciertos del Bernabéu",
-      "subtitle": "La magistrada ve indicios de delito penal y abre la puerta a ir a juicio. Esta decisión deja al borde del banquillo a José Ángel Sánchez, director general del club y mano derecha de Florentino",
-      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-01-22/juicio-conciertos-bernabeu_4288239/",
-      "scraped_at": "2026-01-22T06:52:54Z"
+      "title": "La guerra de todas las guerras: ¿y si Europa deja de comprar bonos de Estados Unidos?",
+      "subtitle": "Trump ha hecho saltar por los aires el tablero geopolítico. Afecta a todos los ámbitos. También a los flujos financieros entre Europa y EEUU. Hay quien piensa que se debe presionar a Washington comprando menos bonos. ¿Es posible?",
+      "url": "https://www.elconfidencial.com/economia/2026-01-23/bonos-eeuu-reserva-federal-compra-macron-anti-coercion_4288063/",
+      "scraped_at": "2026-01-23T06:52:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "C. Valenciana",
-      "subtitle": "Las últimas borrascas evidencian la concurrencia de episodios de crecida del nivel del mar en un tramo de más de 100 kilómetros del Golfo de Valencia. Los vecinos denuncian \"abandono institucional\"",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/",
-      "scraped_at": "2026-01-22T06:52:54Z"
+      "title": "Bronca total por el \"empeño\" en aupar a una exasesora de Sánchez a la Sala clave del TS",
+      "subtitle": "El apoyo del sector más cercano a la izquierda a la catedrática de Derecho Penal en la Universidad Autónoma de Madrid Silvina Bacigalupo divide, de nuevo, al CGPJ",
+      "url": "https://www.elconfidencial.com/espana/2026-01-23/exasesora-pedro-sanchez-supremo-sala-segunda-bloqueo_4288977/",
+      "scraped_at": "2026-01-23T06:52:13Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "País Vasco",
+      "subtitle": "La exposición 'La socialización del sufrimiento (1995-2020)' arroja luz sobre uno de los periodos más oscuros del terrorismo de ETA. La muestra está comisariada por los historiadores Antonio Rivera y Eider Nafarrate",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/",
+      "scraped_at": "2026-01-23T06:52:13Z"
     }
   ]
 }
