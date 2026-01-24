@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Julio lglesias trasladó a España a varias empleadas con un visado de turista, sin contrato y con sueldos de 340 euros: Las condiciones de trabajo que confirman tres mujeres que fueron trasladadas desde República Dominicana a la casa del cantante en Marbella son contrarias a la norma española: sin contrato ni Seguridad Social, con jornadas de más de 12 horas y sin posibilidad apenas de libranza; Julio Iglesias intenta desacreditar las acusaciones contra él al señalar a dos mujeres como las supuestas denunciantes protegidas por la Fiscalía: El cantante difunde los nombres y apellidos de dos mujeres a las que identifica –según su versión– como responsables de la denuncia. Expertos consideran que esta estrategia muestra \"no tener escrúpulos morales, no respetar la ley ni los derechos y no querer colaborar con el procedimiento”; Sánchez reivindica el “orgullo” de la alta velocidad tras la tragedia de Adamuz: “Tenemos que restablecer la confianza ciudadana”: El presidente anuncia el rechazo de España a participar en la Junta de Paz para Gaza que pretende ser una 'ONU paralela' y avisa a Trump de que \"Europa no va a volver a un pasado en el que se juega el Monopoly de la soberanía territorial\" ante la amenaza sobre Groenlandia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-23T06:52:07Z",
+  "summary": "Resumen del día en elDiario.es: La Fiscalía archivó la investigación contra Julio Iglesias sin responder a tres peticiones clave de las denunciantes: Las abogadas de las exempleadas reclamaron que se tuvieran en cuenta nuevas informaciones y evidencias que vinculaban la causa con España para tratar de reforzar la competencia de sus tribunales, pero sus escritos no obtuvieron respuesta; El fin del luto oficial por Adamuz lanza a Feijóo a competir con Vox (y Ayuso) por ver quién ataca más al Gobierno: La extrema derecha comenzó sus críticas al Ejecutivo casi desde el momento del accidente, mientras el líder de la oposición esperó a cumplir los tres días de duelo para terminar en el mismo sitio que Abascal; Marlaska asegura que la Guardia Civil llegó al segundo tren accidentado a las 20:15 horas: El ministro del Interior niega que se tardara en acceder al Alvia y asegura que \"nadie ha puesto en duda la profesionalidad, la celeridad, la eficacia y la eficiencia de nuestros medios en el modo de responder a esta tragedia\". Arremete contra las críticas del PP: \"La cooperación y lealtad institucional le dura muy poco\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-24T06:47:14Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Julio lglesias trasladó a España a varias empleadas con un visado de turista, sin contrato y con sueldos de 340 euros",
+      "title": "La Fiscalía archivó la investigación contra Julio Iglesias sin responder a tres peticiones clave de las denunciantes",
+      "subtitle": "Las abogadas de las exempleadas reclamaron que se tuvieran en cuenta nuevas informaciones y evidencias que vinculaban la causa con España para tratar de reforzar la competencia de sus tribunales, pero sus escritos no obtuvieron respuesta",
+      "url": "https://www.eldiario.es/cultura/fiscalia-archivo-investigacion-julio-iglesias-responder-tres-peticiones-clave-denunciantes_1_12932155.html",
+      "scraped_at": "2026-01-24T06:47:12Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El fin del luto oficial por Adamuz lanza a Feijóo a competir con Vox (y Ayuso) por ver quién ataca más al Gobierno",
+      "subtitle": "La extrema derecha comenzó sus críticas al Ejecutivo casi desde el momento del accidente, mientras el líder de la oposición esperó a cumplir los tres días de duelo para terminar en el mismo sitio que Abascal",
+      "url": "https://www.eldiario.es/politica/luto-oficial-adamuz-lanza-feijoo-competir-vox-ayuso-ver-ataca-gobierno_1_12931780.html",
+      "scraped_at": "2026-01-24T06:47:13Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Marlaska asegura que la Guardia Civil llegó al segundo tren accidentado a las 20:15 horas",
+      "subtitle": "El ministro del Interior niega que se tardara en acceder al Alvia y asegura que \"nadie ha puesto en duda la profesionalidad, la celeridad, la eficacia y la eficiencia de nuestros medios en el modo de responder a esta tragedia\". Arremete contra las críticas del PP: \"La cooperación y lealtad institucional le dura muy poco\"",
+      "url": "https://www.eldiario.es/politica/marlaska-asegura-guardia-civil-llego-segundo-tren-accidentado-20-15-horas_1_12930753.html",
+      "scraped_at": "2026-01-24T06:47:13Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Así ha frenado la UE a Trump por Groenlandia: resistencia, amenaza arancelaria y tensión en los mercados",
+      "subtitle": "“La unidad y determinación” entre los europeos fueron fundamentales para doblegar al presidente de EEUU, que vio como las amenazas de una guerra comercial provocaban el nerviosismo en los mercados financieros y le obligaban a replantear sus posiciones por el territorio danés",
+      "url": "https://www.eldiario.es/internacional/frenado-ue-trump-groenlandia-resistencia-amenaza-arancelaria-tension-mercados_1_12930210.html",
+      "scraped_at": "2026-01-24T06:47:13Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Julio Iglesias",
       "subtitle": "Las condiciones de trabajo que confirman tres mujeres que fueron trasladadas desde República Dominicana a la casa del cantante en Marbella son contrarias a la norma española: sin contrato ni Seguridad Social, con jornadas de más de 12 horas y sin posibilidad apenas de libranza",
       "url": "https://www.eldiario.es/cultura/julio-lglesias-traslado-espana-empleadas-visado-turista-contrato-sueldos-340-euros_1_12916728.html",
-      "scraped_at": "2026-01-23T06:52:05Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Julio Iglesias intenta desacreditar las acusaciones contra él al señalar a dos mujeres como las supuestas denunciantes protegidas por la Fiscalía",
-      "subtitle": "El cantante difunde los nombres y apellidos de dos mujeres a las que identifica –según su versión– como responsables de la denuncia. Expertos consideran que esta estrategia muestra \"no tener escrúpulos morales, no respetar la ley ni los derechos y no querer colaborar con el procedimiento”",
-      "url": "https://www.eldiario.es/cultura/julio-iglesias-desacreditar-acusaciones-senalar-mujeres-supuestas-denunciantes-protegidas-fiscalia_1_12927403.html",
-      "scraped_at": "2026-01-23T06:52:05Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez reivindica el “orgullo” de la alta velocidad tras la tragedia de Adamuz: “Tenemos que restablecer la confianza ciudadana”",
-      "subtitle": "El presidente anuncia el rechazo de España a participar en la Junta de Paz para Gaza que pretende ser una 'ONU paralela' y avisa a Trump de que \"Europa no va a volver a un pasado en el que se juega el Monopoly de la soberanía territorial\" ante la amenaza sobre Groenlandia",
-      "url": "https://www.eldiario.es/politica/sanchez-reivindica-orgullo-alta-velocidad-tragedia-adamuz-restablecer-confianza-ciudadana_1_12929045.html",
-      "scraped_at": "2026-01-23T06:52:06Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Desinformación y antipolítica, un 'modus operandi' en las catástrofes que se repite en Adamuz",
-      "subtitle": "No habían pasado ni dos horas desde el accidente cuando la extrema derecha se precipitó a señalar al Gobierno como responsable de la tragedia y justo después, sin información sobre las causas, se desató la oleada de bulos para apuntalar esa tesis, el mismo patrón que en la pandemia, la dana o los incendios",
-      "url": "https://www.eldiario.es/politica/desinformacion-antipolitica-modus-operandi-catastrofes-repite-adamuz_1_12925106.html",
-      "scraped_at": "2026-01-23T06:52:06Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Oscars 2026",
-      "subtitle": "La Academia de Hollywood anuncia la lista completa de nominaciones a los próximos premios Oscar. La española 'Sirat' logra dos nominaciones y 'Los pecadores' hace historia al acumular 16 candidaturas",
-      "url": "https://www.eldiario.es/cultura/cine/premios-oscar-2026-lista-completa-nominados_1_12926379.html",
-      "scraped_at": "2026-01-23T06:52:07Z"
+      "scraped_at": "2026-01-24T06:47:14Z"
     }
   ]
 }

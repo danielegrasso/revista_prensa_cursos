@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Rodalies se restablece poco a poco tras aprobar los maquinistas y Adif el estado de la red: Técnicos del Administrador de Infraestructuras Ferroviarias, Renfe y el sindicato SEMAF recorren las vías para analizarlas; El Govern trata de superar la crisis de Rodalies sin minar su relación con Puente: Junqueras avisa de que si no se aportan soluciones inmediatas empezará a pedir dimisiones; Groenlandia: ¿el espacio vital de Trump?: Imperialismo, dinero y ambición en el Ártico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-23T06:52:11Z",
+  "summary": "Resumen del día en La Vanguardia: No solo descarrilan trenes: Los maquinistas de Renfe tenían razón. El desprendimiento de unas rocas que se precipitaron ayer sobre las vías en el tramo entre Tordera y Maçanet deja sin; Puente y la Loto Rodalies: Que un tren de Rodalies circule en el horario previsto es una lotería. Si durante el trayecto se cae un muro, es “mala suerte”. Y si el servicio se suspende por las; La fatiga del metal: Deterioro de uno de los símbolos de la modernidad española y súbito agravamiento de la carpeta catalana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-24T06:47:19Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Rodalies se restablece poco a poco tras aprobar los maquinistas y Adif el estado de la red",
-      "subtitle": "Técnicos del Administrador de Infraestructuras Ferroviarias, Renfe y el sindicato SEMAF recorren las vías para analizarlas",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260122/11446828/rodalies-seguira-interrumpida-inspecciones-conjuntas-adif-maquinistas-den-visto-bueno.html",
-      "scraped_at": "2026-01-23T06:52:09Z"
+      "title": "No solo descarrilan trenes",
+      "subtitle": "Los maquinistas de Renfe tenían razón. El desprendimiento de unas rocas que se precipitaron ayer sobre las vías en el tramo entre Tordera y Maçanet deja sin",
+      "url": "https://www.lavanguardia.com/opinion/20260124/11448068/descarrilan-trenes.html",
+      "scraped_at": "2026-01-24T06:47:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Govern trata de superar la crisis de Rodalies sin minar su relación con Puente",
-      "subtitle": "Junqueras avisa de que si no se aportan soluciones inmediatas empezará a pedir dimisiones",
-      "url": "https://www.lavanguardia.com/politica/20260123/11447043/govern-trata-superar-crisis-rodalies-minar-relacion-puente.html",
-      "scraped_at": "2026-01-23T06:52:09Z"
+      "title": "Puente y la Loto Rodalies",
+      "subtitle": "Que un tren de Rodalies circule en el horario previsto es una lotería. Si durante el trayecto se cae un muro, es “mala suerte”. Y si el servicio se suspende por las",
+      "url": "https://www.lavanguardia.com/politica/20260124/11448007/puente-loto-rodalies.html",
+      "scraped_at": "2026-01-24T06:47:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Groenlandia: ¿el espacio vital de Trump?",
-      "subtitle": "Imperialismo, dinero y ambición en el Ártico",
-      "url": "https://www.lavanguardia.com/internacional/20260123/11446682/groenlandia-espacio-vital-trump.html",
-      "scraped_at": "2026-01-23T06:52:10Z"
+      "title": "La fatiga del metal",
+      "subtitle": "Deterioro de uno de los símbolos de la modernidad española y súbito agravamiento de la carpeta catalana",
+      "url": "https://www.lavanguardia.com/politica/20260124/11448251/fatiga-metal.html",
+      "scraped_at": "2026-01-24T06:47:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Europa para el golpe",
-      "subtitle": "Los líderes comunitarios, aliviados pero “vigilantes” ante la volatilidad de EE.UU.",
-      "url": "https://www.lavanguardia.com/internacional/20260122/11447033/europa-golpe.html",
-      "scraped_at": "2026-01-23T06:52:10Z"
+      "title": "Rusia insiste en quedarse con todo el Donbass antes de las negociaciones en Emiratos",
+      "subtitle": "Las conversaciones en los Emiratosi son trilaterales (EE.UU., Ucrania y Rusia) y en ellas se sigue negociando la cuestión territorial, el principal obstáculo para la",
+      "url": "https://www.lavanguardia.com/internacional/20260123/11447808/rusia-insiste-en-quedarse-con-el-donbass-antes-de-las-negociaciones-en-emiratos.html",
+      "scraped_at": "2026-01-24T06:47:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las concesiones de la OTAN que apaciguaron las amenazas de Trump a Groenlandia",
-      "subtitle": "Las negociaciones con Mark Rutte resultaron en un preacuerdo que compromete a los aliados a reforzar la seguridad en el Ártico, mientras que el republicano ya habla de",
-      "url": "https://www.lavanguardia.com/internacional/20260122/11446072/dinamarca-asegura-acuerdo-ee-uu-sobre-groenlandia-cuestiona-soberania.html",
-      "scraped_at": "2026-01-23T06:52:11Z"
+      "title": "Japón paraliza la reactivación de la mayor central nuclear del mundo al cabo de un día",
+      "subtitle": "TEPCO, la misma empresa de Fukushima, da marcha atrás al saltar una alarma de seguridad",
+      "url": "https://www.lavanguardia.com/internacional/20260123/11447308/japon-paraliza-reactivacion-mayor-central-nuclear-mundo-cabo-dia.html",
+      "scraped_at": "2026-01-24T06:47:19Z"
     }
   ]
 }
