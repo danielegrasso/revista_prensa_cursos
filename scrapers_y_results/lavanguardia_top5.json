@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: No solo descarrilan trenes: Los maquinistas de Renfe tenían razón. El desprendimiento de unas rocas que se precipitaron ayer sobre las vías en el tramo entre Tordera y Maçanet deja sin; Puente y la Loto Rodalies: Que un tren de Rodalies circule en el horario previsto es una lotería. Si durante el trayecto se cae un muro, es “mala suerte”. Y si el servicio se suspende por las; La fatiga del metal: Deterioro de uno de los símbolos de la modernidad española y súbito agravamiento de la carpeta catalana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-24T06:47:19Z",
+  "summary": "Resumen del día en La Vanguardia: Rodalies se sume en el caos tras una nueva parada total del servicio: El mal estado de la infraestructura se evidencia con el tercer desprendimiento sobre las vías en menos de una semana, esta vez en Cerdanyola; El modelo actual de Rodalies descarrila: El Govern y Transportes buscan en la empresa mixta una salida al histórico atolladero; Si Sánchez quiere repetir...: Si Pedro Sánchez tiene alguna posibilidad de repetir como presidente del gobierno el día que decida convocar elecciones, será por el resultado que obtenga en. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-25T06:48:47Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "No solo descarrilan trenes",
-      "subtitle": "Los maquinistas de Renfe tenían razón. El desprendimiento de unas rocas que se precipitaron ayer sobre las vías en el tramo entre Tordera y Maçanet deja sin",
-      "url": "https://www.lavanguardia.com/opinion/20260124/11448068/descarrilan-trenes.html",
-      "scraped_at": "2026-01-24T06:47:17Z"
+      "title": "Rodalies se sume en el caos tras una nueva parada total del servicio",
+      "subtitle": "El mal estado de la infraestructura se evidencia con el tercer desprendimiento sobre las vías en menos de una semana, esta vez en Cerdanyola",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260125/11448607/rodalies-seguira-paralizado-hasta-resolver-21-puntos-riesgo.html",
+      "scraped_at": "2026-01-25T06:48:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Puente y la Loto Rodalies",
-      "subtitle": "Que un tren de Rodalies circule en el horario previsto es una lotería. Si durante el trayecto se cae un muro, es “mala suerte”. Y si el servicio se suspende por las",
-      "url": "https://www.lavanguardia.com/politica/20260124/11448007/puente-loto-rodalies.html",
-      "scraped_at": "2026-01-24T06:47:18Z"
+      "title": "El modelo actual de Rodalies descarrila",
+      "subtitle": "El Govern y Transportes buscan en la empresa mixta una salida al histórico atolladero",
+      "url": "https://www.lavanguardia.com/politica/20260125/11448539/ultima-crisis-rodalies-marca-punto-inflexion-gestion-servicio.html",
+      "scraped_at": "2026-01-25T06:48:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La fatiga del metal",
-      "subtitle": "Deterioro de uno de los símbolos de la modernidad española y súbito agravamiento de la carpeta catalana",
-      "url": "https://www.lavanguardia.com/politica/20260124/11448251/fatiga-metal.html",
-      "scraped_at": "2026-01-24T06:47:18Z"
+      "title": "Si Sánchez quiere repetir...",
+      "subtitle": "Si Pedro Sánchez tiene alguna posibilidad de repetir como presidente del gobierno el día que decida convocar elecciones, será por el resultado que obtenga en",
+      "url": "https://www.lavanguardia.com/opinion/20260125/11448616/sanchez-quiere-repetir.html",
+      "scraped_at": "2026-01-25T06:48:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Rusia insiste en quedarse con todo el Donbass antes de las negociaciones en Emiratos",
-      "subtitle": "Las conversaciones en los Emiratosi son trilaterales (EE.UU., Ucrania y Rusia) y en ellas se sigue negociando la cuestión territorial, el principal obstáculo para la",
-      "url": "https://www.lavanguardia.com/internacional/20260123/11447808/rusia-insiste-en-quedarse-con-el-donbass-antes-de-las-negociaciones-en-emiratos.html",
-      "scraped_at": "2026-01-24T06:47:18Z"
+      "title": "20 años: la impotencia viaja en Rodalies",
+      "subtitle": "La escena tuvo lugar en una sala del hotel colindante a la estación de Sants y resume por qué ésta ha sido una semana caótica para moverse en Catalunya. El presidente",
+      "url": "https://www.lavanguardia.com/politica/20260125/11448486/20-anos-impotencia-rodalies-illa-puente-renfe-maquinistas-seguridad-ferroviaria.html",
+      "scraped_at": "2026-01-25T06:48:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Japón paraliza la reactivación de la mayor central nuclear del mundo al cabo de un día",
-      "subtitle": "TEPCO, la misma empresa de Fukushima, da marcha atrás al saltar una alarma de seguridad",
-      "url": "https://www.lavanguardia.com/internacional/20260123/11447308/japon-paraliza-reactivacion-mayor-central-nuclear-mundo-cabo-dia.html",
-      "scraped_at": "2026-01-24T06:47:19Z"
+      "title": "“Se retrasan tratamientos a perros, gatos y otras mascotas por la nueva Ley de Medicamentos ”",
+      "subtitle": "El veterinario explica por qué la nueva normativa sobre medicamentos está generando retrasos, más burocracia y conflictos en el tratamiento de mascotas",
+      "url": "https://www.lavanguardia.com/mascotas/sociedad/20260124/11443466/andres-santiago-veterinario-nueva-ley-medicamentos-esta-retrasando-tratamientos-limitando-como-atendemos-perros-gatos-mascotas.html",
+      "scraped_at": "2026-01-25T06:48:47Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La Fiscalía archivó la investigación contra Julio Iglesias sin responder a tres peticiones clave de las denunciantes: Las abogadas de las exempleadas reclamaron que se tuvieran en cuenta nuevas informaciones y evidencias que vinculaban la causa con España para tratar de reforzar la competencia de sus tribunales, pero sus escritos no obtuvieron respuesta; El fin del luto oficial por Adamuz lanza a Feijóo a competir con Vox (y Ayuso) por ver quién ataca más al Gobierno: La extrema derecha comenzó sus críticas al Ejecutivo casi desde el momento del accidente, mientras el líder de la oposición esperó a cumplir los tres días de duelo para terminar en el mismo sitio que Abascal; Marlaska asegura que la Guardia Civil llegó al segundo tren accidentado a las 20:15 horas: El ministro del Interior niega que se tardara en acceder al Alvia y asegura que \"nadie ha puesto en duda la profesionalidad, la celeridad, la eficacia y la eficiencia de nuestros medios en el modo de responder a esta tragedia\". Arremete contra las críticas del PP: \"La cooperación y lealtad institucional le dura muy poco\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-24T06:47:14Z",
+  "summary": "Resumen del día en elDiario.es: Un agente federal asesina con disparos a bocajarro a otra persona en Minneapolis: Agentes federales tirotean a quemarropa a otra persona en Minneapolis al día siguiente de una gran movilización contra el autoritarismo de Donald Trump, los abusos del ICE y el asesinato de Renée Good. El hombre asesinado se llamaba Alex Pretti, tenía 37 años y trabajaba en la UCI del Sistema de Salud de Minneapolis; Los groenlandeses en Dinamarca no pueden respirar aliviados: “No es geopolítica, es nuestra lucha como pueblo”: Un tercio de la población de la isla ártica vive en el país nórdico y sigue con ansiedad y miedo las ansias expansionistas de EEUU en el ártico; El fuerte aumento del gasto para mantenimiento de la red de alta velocidad va por detrás del boom de viajeros: Los pasajeros han crecido un 70% desde 2019, año previo a la liberalización, mientras el gasto en mantenimiento ha crecido un 38%; Adif ha mantenido la inversión por kilómetro de alta velocidad para mantener las vías, pero destina menos por pasajero que hace 10 años. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-25T06:48:44Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía archivó la investigación contra Julio Iglesias sin responder a tres peticiones clave de las denunciantes",
-      "subtitle": "Las abogadas de las exempleadas reclamaron que se tuvieran en cuenta nuevas informaciones y evidencias que vinculaban la causa con España para tratar de reforzar la competencia de sus tribunales, pero sus escritos no obtuvieron respuesta",
-      "url": "https://www.eldiario.es/cultura/fiscalia-archivo-investigacion-julio-iglesias-responder-tres-peticiones-clave-denunciantes_1_12932155.html",
-      "scraped_at": "2026-01-24T06:47:12Z"
+      "title": "Un agente federal asesina con disparos a bocajarro a otra persona en Minneapolis",
+      "subtitle": "Agentes federales tirotean a quemarropa a otra persona en Minneapolis al día siguiente de una gran movilización contra el autoritarismo de Donald Trump, los abusos del ICE y el asesinato de Renée Good. El hombre asesinado se llamaba Alex Pretti, tenía 37 años y trabajaba en la UCI del Sistema de Salud de Minneapolis",
+      "url": "https://www.eldiario.es/internacional/agentes-federales-matan-disparos-bocajarro-persona-minneapolis_1_12933119.html",
+      "scraped_at": "2026-01-25T06:48:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El fin del luto oficial por Adamuz lanza a Feijóo a competir con Vox (y Ayuso) por ver quién ataca más al Gobierno",
-      "subtitle": "La extrema derecha comenzó sus críticas al Ejecutivo casi desde el momento del accidente, mientras el líder de la oposición esperó a cumplir los tres días de duelo para terminar en el mismo sitio que Abascal",
-      "url": "https://www.eldiario.es/politica/luto-oficial-adamuz-lanza-feijoo-competir-vox-ayuso-ver-ataca-gobierno_1_12931780.html",
-      "scraped_at": "2026-01-24T06:47:13Z"
+      "title": "Los groenlandeses en Dinamarca no pueden respirar aliviados: “No es geopolítica, es nuestra lucha como pueblo”",
+      "subtitle": "Un tercio de la población de la isla ártica vive en el país nórdico y sigue con ansiedad y miedo las ansias expansionistas de EEUU en el ártico",
+      "url": "https://www.eldiario.es/internacional/groenlandeses-dinamarca-no-respirar-aliviados-no-trata-geopolitica-lucha-pueblo_1_12933054.html",
+      "scraped_at": "2026-01-25T06:48:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Marlaska asegura que la Guardia Civil llegó al segundo tren accidentado a las 20:15 horas",
-      "subtitle": "El ministro del Interior niega que se tardara en acceder al Alvia y asegura que \"nadie ha puesto en duda la profesionalidad, la celeridad, la eficacia y la eficiencia de nuestros medios en el modo de responder a esta tragedia\". Arremete contra las críticas del PP: \"La cooperación y lealtad institucional le dura muy poco\"",
-      "url": "https://www.eldiario.es/politica/marlaska-asegura-guardia-civil-llego-segundo-tren-accidentado-20-15-horas_1_12930753.html",
-      "scraped_at": "2026-01-24T06:47:13Z"
+      "title": "El fuerte aumento del gasto para mantenimiento de la red de alta velocidad va por detrás del boom de viajeros",
+      "subtitle": "Los pasajeros han crecido un 70% desde 2019, año previo a la liberalización, mientras el gasto en mantenimiento ha crecido un 38%; Adif ha mantenido la inversión por kilómetro de alta velocidad para mantener las vías, pero destina menos por pasajero que hace 10 años",
+      "url": "https://www.eldiario.es/economia/fuerte-aumento-gasto-mantenimiento-red-alta-velocidad-detras-boom-viajeros_1_12930051.html",
+      "scraped_at": "2026-01-25T06:48:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Así ha frenado la UE a Trump por Groenlandia: resistencia, amenaza arancelaria y tensión en los mercados",
-      "subtitle": "“La unidad y determinación” entre los europeos fueron fundamentales para doblegar al presidente de EEUU, que vio como las amenazas de una guerra comercial provocaban el nerviosismo en los mercados financieros y le obligaban a replantear sus posiciones por el territorio danés",
-      "url": "https://www.eldiario.es/internacional/frenado-ue-trump-groenlandia-resistencia-amenaza-arancelaria-tension-mercados_1_12930210.html",
-      "scraped_at": "2026-01-24T06:47:13Z"
+      "title": "El accidente de Adamuz abona el terreno de la antipolítica y engorda a Vox en su ciclo ascendente de voto",
+      "subtitle": "El Gobierno trata de arrumbar con datos el relato que vincula la muerte de 45 personas con un Estado “corrupto y fallido” o la falacia de un expolio fiscal mientras las derechas política y mediática siembran la desconfianza en las instituciones a golpe de desinformación. “Dábamos por hecho que Ayuso daría la orden y Feijóo obedecería”, lamentan en La Moncloa en alusión a la ruptura de la unidad institucional del PP una vez acabado el luto oficial",
+      "url": "https://www.eldiario.es/politica/accidente-adamuz-abona-terreno-antipolitica-engorda-vox-ciclo-ascendente-voto_129_12931655.html",
+      "scraped_at": "2026-01-25T06:48:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Julio Iglesias",
-      "subtitle": "Las condiciones de trabajo que confirman tres mujeres que fueron trasladadas desde República Dominicana a la casa del cantante en Marbella son contrarias a la norma española: sin contrato ni Seguridad Social, con jornadas de más de 12 horas y sin posibilidad apenas de libranza",
-      "url": "https://www.eldiario.es/cultura/julio-lglesias-traslado-espana-empleadas-visado-turista-contrato-sueldos-340-euros_1_12916728.html",
-      "scraped_at": "2026-01-24T06:47:14Z"
+      "title": "Premios Feroz",
+      "subtitle": "La película sobre una joven que se plantea ser monja de clausura se impone a ‘Sirât’, de Oliver Laxe, y se alza con hasta cinco galardones",
+      "url": "https://www.eldiario.es/cultura/cine/domingos-alauda-ruiz-azua-arrasa-feroz-perfila-gran-favorita-goya_129_12933389.html",
+      "scraped_at": "2026-01-25T06:48:44Z"
     }
   ]
 }

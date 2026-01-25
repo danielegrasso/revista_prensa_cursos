@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Moncloa cree que la investigación «no señala» a Transportes, pese a la rotura de la vía: En el Gobierno descartan dimisiones, aunque el informe apunta a un fallo en la infraestructura; El centro de mando de Adif se blinda mientras se revisa el operativo de las horas clave del accidente de Adamuz: El personal encargado de la gestión del tráfico ferroviario no llega a cubrir los turnos, que hasta ahora completaban con empleados que acudían a trabajar en sus días de descanso; «Estaba rodeado de cadáveres en mitad de la noche»: Mario Samper viajaba en el vagón 4 del convoy Madrid-Huelva y fue quien caminó 800 metros por las vías a oscuras para avisar a los servicios de emergencia de que había un segundo tren descarrilado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-24T06:47:16Z",
+  "summary": "Resumen del día en ABC.es: María Corina Machado: «Tenemos un gran aliado en el presidente Trump, no tengo ninguna duda»: Según la premio Nobel de la Paz, «el Gobierno español ha optado por mantener una posición de segunda o tercera línea, en algunos casos incluso complaciente con algunos actores»; La opositora al chavismo: «La salida de Venezuela fue muy dura, pero lo volvería a hacer mil veces»: La Premio Nobel de la Paz dice que se imaginaba a Trump más distante, pero revela que fue muy cercano: «Muy chistoso, y a la vez informadísimo de todo»; Machado y la transición: La caída de Maduro abre una etapa que la Nobel de la Paz interpreta con prudencia y un mensaje central: el protagonismo debe volver al pueblo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-25T06:48:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Moncloa cree que la investigación «no señala» a Transportes, pese a la rotura de la vía",
-      "subtitle": "En el Gobierno descartan dimisiones, aunque el informe apunta a un fallo en la infraestructura",
-      "url": "https://www.abc.es/espana/moncloa-cree-investigacion-adamuz-senala-gobierno-transportes-20260124045131-nt.html",
-      "scraped_at": "2026-01-24T06:47:15Z"
+      "title": "María Corina Machado: «Tenemos un gran aliado en el presidente Trump, no tengo ninguna duda»",
+      "subtitle": "Según la premio Nobel de la Paz, «el Gobierno español ha optado por mantener una posición de segunda o tercera línea, en algunos casos incluso complaciente con algunos actores»",
+      "url": "https://www.abc.es/internacional/maria-corina-machado-unico-soporta-regimen-delcy-20260124041416-nt.html",
+      "scraped_at": "2026-01-25T06:48:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "El centro de mando de Adif se blinda mientras se revisa el operativo de las horas clave del accidente de Adamuz",
-      "subtitle": "El personal encargado de la gestión del tráfico ferroviario no llega a cubrir los turnos, que hasta ahora completaban con empleados que acudían a trabajar en sus días de descanso",
-      "url": "https://www.abc.es/economia/dudas-sobre-localizacion-alvia-trabajadores-centro-control-20260124045211-nt.html",
-      "scraped_at": "2026-01-24T06:47:15Z"
+      "title": "La opositora al chavismo: «La salida de Venezuela fue muy dura, pero lo volvería a hacer mil veces»",
+      "subtitle": "La Premio Nobel de la Paz dice que se imaginaba a Trump más distante, pero revela que fue muy cercano: «Muy chistoso, y a la vez informadísimo de todo»",
+      "url": "https://www.abc.es/internacional/maria-corina-machado-salida-venezuela-dura-volveria-20260124041427-nt.html",
+      "scraped_at": "2026-01-25T06:48:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Estaba rodeado de cadáveres en mitad de la noche»",
-      "subtitle": "Mario Samper viajaba en el vagón 4 del convoy Madrid-Huelva y fue quien caminó 800 metros por las vías a oscuras para avisar a los servicios de emergencia de que había un segundo tren descarrilado",
-      "url": "https://www.abc.es/espana/andalucia/huelva/primer-viajero-alvia-llego-iryo-agente-grito-20260124045506-nts.html",
-      "scraped_at": "2026-01-24T06:47:16Z"
+      "title": "Machado y la transición",
+      "subtitle": "La caída de Maduro abre una etapa que la Nobel de la Paz interpreta con prudencia y un mensaje central: el protagonismo debe volver al pueblo",
+      "url": "https://www.abc.es/opinion/editorial-machado-transicion-20260125160935-nt.html",
+      "scraped_at": "2026-01-25T06:48:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cronología hasta que el Alvia recibe asistencia médica una hora después",
-      "subtitle": "Pasados 20 minutos desde el accidente, Renfe aún desconocía lo sucedido en el tren con la mayoría de fallecidos",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/cronologia-cruces-llamadas-alvia-recibio-asistencia-medica-20260123051004-nts.html",
-      "scraped_at": "2026-01-24T06:47:16Z"
+      "title": "Huelva llora la muerte de sus 27 paisanos una semana después de la tragedia",
+      "subtitle": "La provincia andaluza, la más golpeada de la tragedia de los trenes de Adamuz, llora la muerte de sus veintisiete paisanos",
+      "url": "https://www.abc.es/espana/andalucia/huelva/huelva-vagon-silencio-20260125114035-nts.html",
+      "scraped_at": "2026-01-25T06:48:45Z"
     },
     {
       "source": "ABC.es",
       "title": "Temporal Galicia",
       "subtitle": "Sigue en directo el temporal de nieve, lluvia y viento que azota a Galicia, Castilla y León y resto de España hoy, con toda la información sobre los avisos de la Aemet, las carreteras cortadas y la última hora de los efectos de la borrasca Ingrid en el país",
       "url": "https://www.abc.es/sociedad/temporal-nieve-lluvia-viento-galicia-resto-espana-20260123092626-di.html",
-      "scraped_at": "2026-01-24T06:47:16Z"
+      "scraped_at": "2026-01-25T06:48:46Z"
     }
   ]
 }
