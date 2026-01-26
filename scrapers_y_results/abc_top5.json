@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: María Corina Machado: «Tenemos un gran aliado en el presidente Trump, no tengo ninguna duda»: Según la premio Nobel de la Paz, «el Gobierno español ha optado por mantener una posición de segunda o tercera línea, en algunos casos incluso complaciente con algunos actores»; La opositora al chavismo: «La salida de Venezuela fue muy dura, pero lo volvería a hacer mil veces»: La Premio Nobel de la Paz dice que se imaginaba a Trump más distante, pero revela que fue muy cercano: «Muy chistoso, y a la vez informadísimo de todo»; Machado y la transición: La caída de Maduro abre una etapa que la Nobel de la Paz interpreta con prudencia y un mensaje central: el protagonismo debe volver al pueblo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-25T06:48:46Z",
+  "summary": "Resumen del día en ABC.es: Anticorrupción revisa los trabajos de Zapatero para un asesor de Plus Ultra: La investigación de la Policía que dirige Anticorrupción abordará los servicios de consultoría prestados por el expresidente a Julio Martínez, asesor de la aerolínea; Trump sopesa un gobierno de tecnócratas para Venezuela si Delcy no se afianza en el poder: La Casa Blanca explora una fórmula de transición limitada, inspirada en el Consejo de la Paz para Gaza, ante el temor a un vacío de poder tras la captura de Maduro; El futuro de Puente depende de su éxito como cortafuegos del Gobierno: El ministro de Transportes asume la gestión de la crisis ferroviaria, pero se pone a salvo de la asunción de responsabilidades. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-26T06:54:51Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "María Corina Machado: «Tenemos un gran aliado en el presidente Trump, no tengo ninguna duda»",
-      "subtitle": "Según la premio Nobel de la Paz, «el Gobierno español ha optado por mantener una posición de segunda o tercera línea, en algunos casos incluso complaciente con algunos actores»",
-      "url": "https://www.abc.es/internacional/maria-corina-machado-unico-soporta-regimen-delcy-20260124041416-nt.html",
-      "scraped_at": "2026-01-25T06:48:45Z"
+      "title": "Anticorrupción revisa los trabajos de Zapatero para un asesor de Plus Ultra",
+      "subtitle": "La investigación de la Policía que dirige Anticorrupción abordará los servicios de consultoría prestados por el expresidente a Julio Martínez, asesor de la aerolínea",
+      "url": "https://www.abc.es/espana/fiscalia-analizara-trabajos-zapatero-amigo-detenido-plus-20260125025814-nt.html",
+      "scraped_at": "2026-01-26T06:54:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "La opositora al chavismo: «La salida de Venezuela fue muy dura, pero lo volvería a hacer mil veces»",
-      "subtitle": "La Premio Nobel de la Paz dice que se imaginaba a Trump más distante, pero revela que fue muy cercano: «Muy chistoso, y a la vez informadísimo de todo»",
-      "url": "https://www.abc.es/internacional/maria-corina-machado-salida-venezuela-dura-volveria-20260124041427-nt.html",
-      "scraped_at": "2026-01-25T06:48:45Z"
+      "title": "Trump sopesa un gobierno de tecnócratas para Venezuela si Delcy no se afianza en el poder",
+      "subtitle": "La Casa Blanca explora una fórmula de transición limitada, inspirada en el Consejo de la Paz para Gaza, ante el temor a un vacío de poder tras la captura de Maduro",
+      "url": "https://www.abc.es/internacional/trump-disena-plan-venezuela-consejo-tecnocratico-delcy-20260124025913-nt.html",
+      "scraped_at": "2026-01-26T06:54:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Machado y la transición",
-      "subtitle": "La caída de Maduro abre una etapa que la Nobel de la Paz interpreta con prudencia y un mensaje central: el protagonismo debe volver al pueblo",
-      "url": "https://www.abc.es/opinion/editorial-machado-transicion-20260125160935-nt.html",
-      "scraped_at": "2026-01-25T06:48:45Z"
+      "title": "El futuro de Puente depende de su éxito como cortafuegos del Gobierno",
+      "subtitle": "El ministro de Transportes asume la gestión de la crisis ferroviaria, pero se pone a salvo de la asunción de responsabilidades",
+      "url": "https://www.abc.es/espana/puente-juega-adamuz-futuro-politico-papel-postsanchismo-20260126030031-nt.html",
+      "scraped_at": "2026-01-26T06:54:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Huelva llora la muerte de sus 27 paisanos una semana después de la tragedia",
-      "subtitle": "La provincia andaluza, la más golpeada de la tragedia de los trenes de Adamuz, llora la muerte de sus veintisiete paisanos",
-      "url": "https://www.abc.es/espana/andalucia/huelva/huelva-vagon-silencio-20260125114035-nts.html",
-      "scraped_at": "2026-01-25T06:48:45Z"
+      "title": "Montoro, epicentro judicial del accidente de Adamuz: una juez de estreno y un juzgado saturado",
+      "subtitle": "La togada granadina Cristina Pastor Recover será responsable de la instruccíón de un caso de una enorme dificultad técnica en su primer destino",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/montoro-epicentro-judicial-causa-accidente-adamuz-jueza-20260126030039-nts.html",
+      "scraped_at": "2026-01-26T06:54:51Z"
     },
     {
       "source": "ABC.es",
       "title": "Temporal Galicia",
       "subtitle": "Sigue en directo el temporal de nieve, lluvia y viento que azota a Galicia, Castilla y León y resto de España hoy, con toda la información sobre los avisos de la Aemet, las carreteras cortadas y la última hora de los efectos de la borrasca Ingrid en el país",
       "url": "https://www.abc.es/sociedad/temporal-nieve-lluvia-viento-galicia-resto-espana-20260123092626-di.html",
-      "scraped_at": "2026-01-25T06:48:46Z"
+      "scraped_at": "2026-01-26T06:54:51Z"
     }
   ]
 }

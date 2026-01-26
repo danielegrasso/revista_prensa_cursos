@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Vox crece más entre las rentas bajas: la estrategia lepenista de Abascal, en datos: El análisis de las encuestas muestra que la extrema derecha avanza más rápido entre quienes se consideran de clase económica baja o pobre; Diez minutos para saber qué esperar de la carrera por Aragón: \"Sánchez es radioactivo\": Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, regresan al &quot;Comité de Estrategia&quot; para analizar los próximos comicios en Aragón; En este pueblo andaluz uno de cada tres vecinos es extranjero, y quieren más: Galera solo tiene 1.139 habitantes y el 33% de ellos son extranjeros, de 32 nacionalidades distintas. Las autoridades están haciendo de todo para atraer a más inmigrantes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-25T06:48:50Z",
+  "summary": "Resumen del día en El Confidencial: La CIAF avisó en 2019 a Fomento del descarrile de un AVE a 92 km de Adamuz por la \"antigüedad de los carriles\": El Ministerio de Transportes y ADIF admitieron el viernes que la investigación se centra en la unión de un carril nuevo instalado en mayo de 2025 con otro viejo que llevaba 34 años soportando el paso de trenes; Las alabanzas de Puente al 'modelo Juanma Moreno' lastran más la candidatura de Montero: El presidente de la Junta sale reforzado tras apostar por la serenidad y la coordinación con el Gobierno tras el accidente. En el PSOE admiten que la imagen de unidad mostrada beneficia al barón popular; Hace cuatro siglos, un holandés inventó la intimidad en el arte (que hoy hemos perdido): Johannes Vermeer llevó a cabo en el siglo XVII una revolución silenciosa: mientras sus contemporáneos pintaban tabernas abarrotadas o batallas navales, él giró la vista hacia el rincón vacío de una habitación. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-26T06:54:57Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Vox crece más entre las rentas bajas: la estrategia lepenista de Abascal, en datos",
-      "subtitle": "El análisis de las encuestas muestra que la extrema derecha avanza más rápido entre quienes se consideran de clase económica baja o pobre",
-      "url": "https://www.elconfidencial.com/espana/2026-01-25/vox-clase-baja-voto-obrero-1hms_4284288/",
-      "scraped_at": "2026-01-25T06:48:49Z"
+      "title": "La CIAF avisó en 2019 a Fomento del descarrile de un AVE a 92 km de Adamuz por la \"antigüedad de los carriles\"",
+      "subtitle": "El Ministerio de Transportes y ADIF admitieron el viernes que la investigación se centra en la unión de un carril nuevo instalado en mayo de 2025 con otro viejo que llevaba 34 años soportando el paso de trenes",
+      "url": "https://www.elconfidencial.com/espana/2026-01-26/adamuz-ave-puente-psoe-ciaf-2019-antiguedad-carriles_4290710/",
+      "scraped_at": "2026-01-26T06:54:56Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Diez minutos para saber qué esperar de la carrera por Aragón: \"Sánchez es radioactivo\"",
-      "subtitle": "Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, regresan al &quot;Comité de Estrategia&quot; para analizar los próximos comicios en Aragón",
-      "url": "https://www.elconfidencial.com/espana/aragon/2026-01-25/elecciones-aragon-azcon-sanchez-analisis-comite-estrategia_4290048/",
-      "scraped_at": "2026-01-25T06:48:50Z"
+      "title": "Las alabanzas de Puente al 'modelo Juanma Moreno' lastran más la candidatura de Montero",
+      "subtitle": "El presidente de la Junta sale reforzado tras apostar por la serenidad y la coordinación con el Gobierno tras el accidente. En el PSOE admiten que la imagen de unidad mostrada beneficia al barón popular",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-01-26/las-alabanzas-al-modelo-juanma-moreno-en-adamuz-lastran-la-candidatura-de-montero_4289819/",
+      "scraped_at": "2026-01-26T06:54:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "En este pueblo andaluz uno de cada tres vecinos es extranjero, y quieren más",
-      "subtitle": "Galera solo tiene 1.139 habitantes y el 33% de ellos son extranjeros, de 32 nacionalidades distintas. Las autoridades están haciendo de todo para atraer a más inmigrantes",
-      "url": "https://www.elconfidencial.com/espana/2026-01-25/extranjeros-poblacion-pueblo-granada_4288616/",
-      "scraped_at": "2026-01-25T06:48:50Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "La tensión política se dispara en EEUU tras otro muerto por disparos del ICE en Minnesotta",
-      "subtitle": "Trump acusa a las autoridades de Minnesota de &quot;incitar a la insurrección&quot; y defiende a los &quot;patriotas&quot; del ICE. El fallecido era un hombre blanco de 37 años y ciudadano estadounidense",
-      "url": "https://www.elconfidencial.com/mundo/2026-01-24/un-nuevo-tiroteo-en-minneapolis-se-salda-con-la-muerte-de-un-civil-a-manos-del-ice_4290356/",
-      "scraped_at": "2026-01-25T06:48:50Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Eva Soriano, contra Santiago Segura por mofarse de su \"injusta\" puntuación en 'ED'",
-      "subtitle": "Anoche, en la tercera gala del concurso, la cómica catalana protagonizó su primer enfrentamiento contra los jueces",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-24/santiago-segura-eva-soriano-explota-cabreada-injusta_4288238/",
-      "scraped_at": "2026-01-25T06:48:50Z"
+      "title": "Hace cuatro siglos, un holandés inventó la intimidad en el arte (que hoy hemos perdido)",
+      "subtitle": "Johannes Vermeer llevó a cabo en el siglo XVII una revolución silenciosa: mientras sus contemporáneos pintaban tabernas abarrotadas o batallas navales, él giró la vista hacia el rincón vacío de una habitación",
+      "url": "https://www.elconfidencial.com/cultura/2026-01-25/vermeer-intimidad-privacidad-silencio-1hms_4287979/",
+      "scraped_at": "2026-01-26T06:54:57Z"
     }
   ]
 }
