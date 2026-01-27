@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Anticorrupción revisa los trabajos de Zapatero para un asesor de Plus Ultra: La investigación de la Policía que dirige Anticorrupción abordará los servicios de consultoría prestados por el expresidente a Julio Martínez, asesor de la aerolínea; Trump sopesa un gobierno de tecnócratas para Venezuela si Delcy no se afianza en el poder: La Casa Blanca explora una fórmula de transición limitada, inspirada en el Consejo de la Paz para Gaza, ante el temor a un vacío de poder tras la captura de Maduro; El futuro de Puente depende de su éxito como cortafuegos del Gobierno: El ministro de Transportes asume la gestión de la crisis ferroviaria, pero se pone a salvo de la asunción de responsabilidades. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-26T06:54:51Z",
+  "summary": "Resumen del día en ABC.es: La falta de actuación de Adif con una vía defectuosa provocó otros dos descarrilamientos: Los técnicos de la CIAF se quejaron de la falta de colaboración de Adif, lo que demoró una investigación de otro siniestro ferroviario en Cáceres; Los investigadores tiran abajo el relato de Puente de que la vía estaba completamente renovada: El presidente de la Comisión encargada de las pesquisas del accidente apunta a una rotura de la soldadura y pide explicaciones a Adif por la reforma incompleta de la línea Madrid-Sevilla; El Gobierno ignora desde 2020 una recomendación de Airef para fijar un gasto mínimo en mantenimiento: Un informe realizado a petición del Ejecutivo por la Autoridad Fiscal ya advirtió de que sin un incremento fuerte de la inversión en conservación la prestación de los servicios de transporte se resentiría. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-27T06:53:26Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Anticorrupción revisa los trabajos de Zapatero para un asesor de Plus Ultra",
-      "subtitle": "La investigación de la Policía que dirige Anticorrupción abordará los servicios de consultoría prestados por el expresidente a Julio Martínez, asesor de la aerolínea",
-      "url": "https://www.abc.es/espana/fiscalia-analizara-trabajos-zapatero-amigo-detenido-plus-20260125025814-nt.html",
-      "scraped_at": "2026-01-26T06:54:51Z"
+      "title": "La falta de actuación de Adif con una vía defectuosa provocó otros dos descarrilamientos",
+      "subtitle": "Los técnicos de la CIAF se quejaron de la falta de colaboración de Adif, lo que demoró una investigación de otro siniestro ferroviario en Cáceres",
+      "url": "https://www.abc.es/espana/falta-actuacion-adif-via-defectuosa-provoco-dos-20260127040849-nt.html",
+      "scraped_at": "2026-01-27T06:53:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump sopesa un gobierno de tecnócratas para Venezuela si Delcy no se afianza en el poder",
-      "subtitle": "La Casa Blanca explora una fórmula de transición limitada, inspirada en el Consejo de la Paz para Gaza, ante el temor a un vacío de poder tras la captura de Maduro",
-      "url": "https://www.abc.es/internacional/trump-disena-plan-venezuela-consejo-tecnocratico-delcy-20260124025913-nt.html",
-      "scraped_at": "2026-01-26T06:54:51Z"
+      "title": "Los investigadores tiran abajo el relato de Puente de que la vía estaba completamente renovada",
+      "subtitle": "El presidente de la Comisión encargada de las pesquisas del accidente apunta a una rotura de la soldadura y pide explicaciones a Adif por la reforma incompleta de la línea Madrid-Sevilla",
+      "url": "https://www.abc.es/economia/investigadores-tiran-abajo-relato-puente-carril-defectuoso-20260126041010-nt.html",
+      "scraped_at": "2026-01-27T06:53:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "El futuro de Puente depende de su éxito como cortafuegos del Gobierno",
-      "subtitle": "El ministro de Transportes asume la gestión de la crisis ferroviaria, pero se pone a salvo de la asunción de responsabilidades",
-      "url": "https://www.abc.es/espana/puente-juega-adamuz-futuro-politico-papel-postsanchismo-20260126030031-nt.html",
-      "scraped_at": "2026-01-26T06:54:51Z"
+      "title": "El Gobierno ignora desde 2020 una recomendación de Airef para fijar un gasto mínimo en mantenimiento",
+      "subtitle": "Un informe realizado a petición del Ejecutivo por la Autoridad Fiscal ya advirtió de que sin un incremento fuerte de la inversión en conservación la prestación de los servicios de transporte se resentiría",
+      "url": "https://www.abc.es/economia/gobierno-ignora-2020-recomendacion-airef-blindar-inversion-20260126041021-nt.html",
+      "scraped_at": "2026-01-27T06:53:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Montoro, epicentro judicial del accidente de Adamuz: una juez de estreno y un juzgado saturado",
-      "subtitle": "La togada granadina Cristina Pastor Recover será responsable de la instruccíón de un caso de una enorme dificultad técnica en su primer destino",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/montoro-epicentro-judicial-causa-accidente-adamuz-jueza-20260126030039-nts.html",
-      "scraped_at": "2026-01-26T06:54:51Z"
+      "title": "El pulso silencioso en la trastienda del Real Madrid para suceder a Florentino",
+      "subtitle": "José Ángel Sánchez y Anas Laghrari, cuya relación no es buena, se disputan el favor del presidente blanco en un momento trascendental para el futuro de la entidad y se mueven para influir en los nombres que pueden llegar al cargo",
+      "url": "https://www.abc.es/deportes/real-madrid/pulso-silencioso-trastienda-real-madrid-20260126041037-nt.html",
+      "scraped_at": "2026-01-27T06:53:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Temporal Galicia",
-      "subtitle": "Sigue en directo el temporal de nieve, lluvia y viento que azota a Galicia, Castilla y León y resto de España hoy, con toda la información sobre los avisos de la Aemet, las carreteras cortadas y la última hora de los efectos de la borrasca Ingrid en el país",
-      "url": "https://www.abc.es/sociedad/temporal-nieve-lluvia-viento-galicia-resto-espana-20260123092626-di.html",
-      "scraped_at": "2026-01-26T06:54:51Z"
+      "title": "Ganador debate elecciones Aragón",
+      "subtitle": "Dos candidatos acuden al encuentro organizado por la televisión autonómica, Aragón TV, con motivo de los comicios del próximo domingo 8 de febrero. Vota quién crees que ha sido el ganador",
+      "url": "https://www.abc.es/espana/aragon/ganando-debate-elecciones-aragon-vota-encuesta-20260126224004-nt.html",
+      "scraped_at": "2026-01-27T06:53:26Z"
     }
   ]
 }
