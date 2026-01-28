@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El pagador de Zapatero era mediador con Venezuela y escondía 300.000€ en cash: Julio Martínez declaró a la Policía que el dinero procedía de la venta de un inmueble no declarada y de operaciones familiares; La investigación concentra ya toda la responsabilidad del accidente en Adif y Puente: La investigación ha cerrado en torno a la cartera de Óscar Puente y el gestor del sistema ferroviario todas las posibles responsabilidades sobre el siniestro. La CIAF, organismo que conduce las pesquisas, sorprendida por la no renovación del tramo del siniestro; La presencia de los Reyes obliga al Gobierno a asistir al funeral tras fracasar su convocatoria: El malestar de las familias de las víctimas del accidente de Adamuz con los políticos crece, con críticas directas y una amenaza de manifestación para el sábado. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-27T06:53:19Z",
+  "summary": "Resumen del día en El Mundo: El pagador de Zapatero cobraba del rescate de Plus Ultra: La aerolínea incluyó a Análisis Relevante SL entre los proveedores a los que debía abonar con los 53 millones de la Sepi; El 'shock' migratorio en el precio de la vivienda alcanza su nivel más alto de la última década por la falta de oferta disponible: Los promotores señalan que es necesario recuperar cerca de 250.000 viviendas al año para cubrir el déficit, además de duplicar la producción actual y elevar la inversión; Los antecedentes penales \"relevantes\" y otras incógnitas de la regulación de inmigrantes de Sánchez y Podemos: El Gobierno no desarrolla los matices que introducen los 'morados' a la espera del texto final. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-28T06:53:41Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El pagador de Zapatero era mediador con Venezuela y escondía 300.000€ en cash",
-      "subtitle": "Julio Martínez declaró a la Policía que el dinero procedía de la venta de un inmueble no declarada y de operaciones familiares",
-      "url": "https://www.elmundo.es/espana/2026/01/26/6977a652e9cf4aaa468b4584.html",
-      "scraped_at": "2026-01-27T06:53:19Z"
+      "title": "El pagador de Zapatero cobraba del rescate de Plus Ultra",
+      "subtitle": "La aerolínea incluyó a Análisis Relevante SL entre los proveedores a los que debía abonar con los 53 millones de la Sepi",
+      "url": "https://www.elmundo.es/espana/2026/01/27/6979059ee4d4d829448b458f.html",
+      "scraped_at": "2026-01-28T06:53:40Z"
     },
     {
       "source": "El Mundo",
-      "title": "La investigación concentra ya toda la responsabilidad del accidente en Adif y Puente",
-      "subtitle": "La investigación ha cerrado en torno a la cartera de Óscar Puente y el gestor del sistema ferroviario todas las posibles responsabilidades sobre el siniestro. La CIAF, organismo que conduce las pesquisas, sorprendida por la no renovación del tramo del siniestro",
-      "url": "https://www.elmundo.es/economia/2026/01/26/6977d524fdddff75388b4593.html",
-      "scraped_at": "2026-01-27T06:53:19Z"
+      "title": "El 'shock' migratorio en el precio de la vivienda alcanza su nivel más alto de la última década por la falta de oferta disponible",
+      "subtitle": "Los promotores señalan que es necesario recuperar cerca de 250.000 viviendas al año para cubrir el déficit, además de duplicar la producción actual y elevar la inversión",
+      "url": "https://www.elmundo.es/economia/2026/01/27/69789e09e4d4d8cb568b4574.html",
+      "scraped_at": "2026-01-28T06:53:40Z"
     },
     {
       "source": "El Mundo",
-      "title": "La presencia de los Reyes obliga al Gobierno a asistir al funeral tras fracasar su convocatoria",
-      "subtitle": "El malestar de las familias de las víctimas del accidente de Adamuz con los políticos crece, con críticas directas y una amenaza de manifestación para el sábado",
-      "url": "https://www.elmundo.es/andalucia/2026/01/27/69779091e9cf4a90538b4581.html",
-      "scraped_at": "2026-01-27T06:53:19Z"
+      "title": "Los antecedentes penales \"relevantes\" y otras incógnitas de la regulación de inmigrantes de Sánchez y Podemos",
+      "subtitle": "El Gobierno no desarrolla los matices que introducen los 'morados' a la espera del texto final",
+      "url": "https://www.elmundo.es/espana/2026/01/27/69791feafc6c83c0358b45a3.html",
+      "scraped_at": "2026-01-28T06:53:40Z"
     },
     {
       "source": "El Mundo",
-      "title": "Así son las soldaduras de las vías: un proceso medido al milímetro que realizan al menos dos operarios que firman el trabajo sobre el acero",
-      "subtitle": "Adif regula desde la temperatura a las condiciones meteorológicas o el estado de los materiales que intervienen en la soldadura aluminotérmica de carriles",
-      "url": "https://www.elmundo.es/economia/2026/01/26/6977ae8bfdddff07708b458e.html",
-      "scraped_at": "2026-01-27T06:53:19Z"
+      "title": "Habla el interventor 'viral' de la tragedia del Iryo en Adamuz: \"Tenemos miedo de subirnos a los trenes, esta es la verdad\"",
+      "subtitle": "La imagen de Carlos Castillo, venezolano de 32 años ataviado con un chaleco amarillo y tranquilizando al pasaje tras el choque con 45 muertos dio la vuelta al mundo. Aún no puede dormir y desvela que ese día \"debía estar de baja, pero me empeñé en trabajar\"",
+      "url": "https://www.elmundo.es/espana/2026/01/27/69791c3221efa0234e8b4595.html",
+      "scraped_at": "2026-01-28T06:53:41Z"
     },
     {
       "source": "El Mundo",
-      "title": "Inmigrantes irregulares",
-      "subtitle": "Sánchez pacta una regularización con Podemos que burla el aval del Congreso. Deberán acreditar una estancia anterior al 31 de diciembre. Funcas apunta a 840.000 personas en esta situación en 2025",
-      "url": "https://www.elmundo.es/espana/2026/01/27/6977c725fc6c83cb678b4592.html",
-      "scraped_at": "2026-01-27T06:53:19Z"
+      "title": "Víctimas accidente",
+      "subtitle": "Fidel Sáenz, el hijo de Nati, una de las 45 fallecidas, dice que las víctimas piden \"humanidad, un rostro que mire de frente, pero el Gobierno mira a otro lado\"",
+      "url": "https://www.elmundo.es/andalucia/2026/01/27/6979165421efa00d0c8b4576.html",
+      "scraped_at": "2026-01-28T06:53:41Z"
     }
   ]
 }

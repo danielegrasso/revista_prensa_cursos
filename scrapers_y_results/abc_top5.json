@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La falta de actuación de Adif con una vía defectuosa provocó otros dos descarrilamientos: Los técnicos de la CIAF se quejaron de la falta de colaboración de Adif, lo que demoró una investigación de otro siniestro ferroviario en Cáceres; Los investigadores tiran abajo el relato de Puente de que la vía estaba completamente renovada: El presidente de la Comisión encargada de las pesquisas del accidente apunta a una rotura de la soldadura y pide explicaciones a Adif por la reforma incompleta de la línea Madrid-Sevilla; El Gobierno ignora desde 2020 una recomendación de Airef para fijar un gasto mínimo en mantenimiento: Un informe realizado a petición del Ejecutivo por la Autoridad Fiscal ya advirtió de que sin un incremento fuerte de la inversión en conservación la prestación de los servicios de transporte se resentiría. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-27T06:53:26Z",
+  "summary": "Resumen del día en ABC.es: Los expertos alertan: «La regularización provocará efecto llamada y fomentará la trata»: Fuentes policiales advierten que «en las redes sociales ya se anima a viajar a España»; La mayoría de los regularizados podrá pedir en dos años la nacionalidad, lo que les facilitaría el voto: Dos de cada tres personas que se acogen al arraigo proceden de América Latina, cuyos países pueden acceder antes a la ciudadanía española; Feijóo se apoya en la ola restrictiva europea para rechazar la regularización de inmigrantes: El líder del PP aireará el acuerdo de Sánchez y Podemos ante sus socios europeos este viernes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-28T06:53:48Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La falta de actuación de Adif con una vía defectuosa provocó otros dos descarrilamientos",
-      "subtitle": "Los técnicos de la CIAF se quejaron de la falta de colaboración de Adif, lo que demoró una investigación de otro siniestro ferroviario en Cáceres",
-      "url": "https://www.abc.es/espana/falta-actuacion-adif-via-defectuosa-provoco-dos-20260127040849-nt.html",
-      "scraped_at": "2026-01-27T06:53:25Z"
+      "title": "Los expertos alertan: «La regularización provocará efecto llamada y fomentará la trata»",
+      "subtitle": "Fuentes policiales advierten que «en las redes sociales ya se anima a viajar a España»",
+      "url": "https://www.abc.es/espana/mandos-policiales-advierten-regularizacion-provocara-efecto-masivo-20260128040849-nt.html",
+      "scraped_at": "2026-01-28T06:53:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los investigadores tiran abajo el relato de Puente de que la vía estaba completamente renovada",
+      "title": "La mayoría de los regularizados podrá pedir en dos años la nacionalidad, lo que les facilitaría el voto",
+      "subtitle": "Dos de cada tres personas que se acogen al arraigo proceden de América Latina, cuyos países pueden acceder antes a la ciudadanía española",
+      "url": "https://www.abc.es/espana/mayoria-regularizados-podran-pedir-nacionalidad-dos-anos-20260128041038-nt.html",
+      "scraped_at": "2026-01-28T06:53:47Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Feijóo se apoya en la ola restrictiva europea para rechazar la regularización de inmigrantes",
+      "subtitle": "El líder del PP aireará el acuerdo de Sánchez y Podemos ante sus socios europeos este viernes",
+      "url": "https://www.abc.es/espana/feijoo-apoya-ola-restrictiva-europea-rechazar-regularizacion-20260128041127-nt.html",
+      "scraped_at": "2026-01-28T06:53:47Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Moncloa impone un perfil bajo en el funeral de Adamuz por temor al reproche de las víctimas",
+      "subtitle": "Oficializan la presencia de la vicepresidenta Montero tras confirmar los Reyes su asistencia: «No haremos nada que pueda molestar»",
+      "url": "https://www.abc.es/espana/moncloa-impone-perfil-bajo-funeral-adamuz-ante-20260127041143-nt.html",
+      "scraped_at": "2026-01-28T06:53:47Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Óscar Puente",
       "subtitle": "El presidente de la Comisión encargada de las pesquisas del accidente apunta a una rotura de la soldadura y pide explicaciones a Adif por la reforma incompleta de la línea Madrid-Sevilla",
       "url": "https://www.abc.es/economia/investigadores-tiran-abajo-relato-puente-carril-defectuoso-20260126041010-nt.html",
-      "scraped_at": "2026-01-27T06:53:26Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El Gobierno ignora desde 2020 una recomendación de Airef para fijar un gasto mínimo en mantenimiento",
-      "subtitle": "Un informe realizado a petición del Ejecutivo por la Autoridad Fiscal ya advirtió de que sin un incremento fuerte de la inversión en conservación la prestación de los servicios de transporte se resentiría",
-      "url": "https://www.abc.es/economia/gobierno-ignora-2020-recomendacion-airef-blindar-inversion-20260126041021-nt.html",
-      "scraped_at": "2026-01-27T06:53:26Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "El pulso silencioso en la trastienda del Real Madrid para suceder a Florentino",
-      "subtitle": "José Ángel Sánchez y Anas Laghrari, cuya relación no es buena, se disputan el favor del presidente blanco en un momento trascendental para el futuro de la entidad y se mueven para influir en los nombres que pueden llegar al cargo",
-      "url": "https://www.abc.es/deportes/real-madrid/pulso-silencioso-trastienda-real-madrid-20260126041037-nt.html",
-      "scraped_at": "2026-01-27T06:53:26Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Ganador debate elecciones Aragón",
-      "subtitle": "Dos candidatos acuden al encuentro organizado por la televisión autonómica, Aragón TV, con motivo de los comicios del próximo domingo 8 de febrero. Vota quién crees que ha sido el ganador",
-      "url": "https://www.abc.es/espana/aragon/ganando-debate-elecciones-aragon-vota-encuesta-20260126224004-nt.html",
-      "scraped_at": "2026-01-27T06:53:26Z"
+      "scraped_at": "2026-01-28T06:53:48Z"
     }
   ]
 }
