@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno lanza guiños a Junts para revertir su no al decreto de las pensiones: Los posconvergentes su unieron a PP y Vox para tumbar el decreto ómnibus; El Gobierno se queda sin un 'hat trick': El Gobierno de Pedro Sánchez no está para muchas alegrías­, pero hoy podría presentar tres avances significativos de política social con los que curarse las heridas; PSOE y Junts se buscan: Primer revés del año para el Gobierno en el Congreso tras ver tumbado el decreto que incluía la revalorización de las pensiones, la subida del salario mínimo, el. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-28T06:53:50Z",
+  "summary": "Resumen del día en La Vanguardia: El caos ferroviario multiplica el tiempo de viaje en Rodalies y AVE: El bloqueo de los trenes de mercancías por el mal estado de un túnel en Rubí deja aislado el puerto de Barcelona; El puente aéreo entre Barcelona y Madrid sale reforzado por los retrasos constantes en el AVE: La demanda para volar entre las dos ciudades aumenta ante los problemas del tren; El principal objetivo de Rusia contra Ucrania: congelar a su población: Congelar a la población civil es ahora el principal objetivo de la ofensiva aérea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-29T07:04:59Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno lanza guiños a Junts para revertir su no al decreto de las pensiones",
-      "subtitle": "Los posconvergentes su unieron a PP y Vox para tumbar el decreto ómnibus",
-      "url": "https://www.lavanguardia.com/politica/20260128/11451001/gobierno-tratara-persuadir-junts-segunda-votacion-pensiones.html",
-      "scraped_at": "2026-01-28T06:53:48Z"
+      "title": "El caos ferroviario multiplica el tiempo de viaje en Rodalies y AVE",
+      "subtitle": "El bloqueo de los trenes de mercancías por el mal estado de un túnel en Rubí deja aislado el puerto de Barcelona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260129/11451983/caos-ferroviario-multiplica-viaje-rodalies-ave.html",
+      "scraped_at": "2026-01-29T07:04:58Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno se queda sin un 'hat trick'",
-      "subtitle": "El Gobierno de Pedro Sánchez no está para muchas alegrías­, pero hoy podría presentar tres avances significativos de política social con los que curarse las heridas",
-      "url": "https://www.lavanguardia.com/opinion/20260128/11451029/gobierno-hat-trick.html",
-      "scraped_at": "2026-01-28T06:53:49Z"
+      "title": "El puente aéreo entre Barcelona y Madrid sale reforzado por los retrasos constantes en el AVE",
+      "subtitle": "La demanda para volar entre las dos ciudades aumenta ante los problemas del tren",
+      "url": "https://www.lavanguardia.com/economia/20260129/11451917/caos-ave-refuerza-puente-aereo-barcelona-madrid.html",
+      "scraped_at": "2026-01-29T07:04:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "PSOE y Junts se buscan",
-      "subtitle": "Primer revés del año para el Gobierno en el Congreso tras ver tumbado el decreto que incluía la revalorización de las pensiones, la subida del salario mínimo, el",
-      "url": "https://www.lavanguardia.com/politica/20260128/11451006/psoe-junts-buscan.html",
-      "scraped_at": "2026-01-28T06:53:49Z"
+      "title": "El principal objetivo de Rusia contra Ucrania: congelar a su población",
+      "subtitle": "Congelar a la población civil es ahora el principal objetivo de la ofensiva aérea",
+      "url": "https://www.lavanguardia.com/internacional/20260129/11451964/frio-alia-rusia-ucrania.html",
+      "scraped_at": "2026-01-29T07:04:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las 9 preguntas y respuestas sobre la nueva regularización de inmigrantes",
-      "subtitle": "Las solicitudes, que podrán presentarse desde principios de abril, permitirán empezar a trabajar legalmente desde el primer día",
-      "url": "https://www.lavanguardia.com/politica/20260128/11451215/papeles-salir-sombra.html",
-      "scraped_at": "2026-01-28T06:53:50Z"
+      "title": "Cuando la IA es muy buena",
+      "subtitle": "Existe una cierta propensión a destacar aspectos negativos de los avances de la inteligencia artificial (IA) generativa en nuestra sociedad. Que si es una mala",
+      "url": "https://www.lavanguardia.com/opinion/20260129/11452003/ia-buena.html",
+      "scraped_at": "2026-01-29T07:04:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El paro baja de la barrera del 10% por primera vez desde el 2008",
-      "subtitle": "Nuevo máximo de ocupados, que ya alcanzan los 22,46 millones en el 2025, según la EPA",
-      "url": "https://www.lavanguardia.com/economia/20260128/11451019/paro-baja-barrera-10-primera-vez-2008.html",
-      "scraped_at": "2026-01-28T06:53:50Z"
+      "title": "El evento que dispara el crecimiento del audiovisual catalán y transforma Barcelona",
+      "subtitle": "La influencia de la industria audiovisual trasciende la generación de contenido y entretenimiento. En Catalunya representa el 3% del PIB impulsado, entre otras",
+      "url": "https://www.lavanguardia.com/economia/20260128/11451764/evento-dispara-crecimiento-audiovisual-catalan-transforma-barcelona-brl.html",
+      "scraped_at": "2026-01-29T07:04:59Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Los expertos alertan: «La regularización provocará efecto llamada y fomentará la trata»: Fuentes policiales advierten que «en las redes sociales ya se anima a viajar a España»; La mayoría de los regularizados podrá pedir en dos años la nacionalidad, lo que les facilitaría el voto: Dos de cada tres personas que se acogen al arraigo proceden de América Latina, cuyos países pueden acceder antes a la ciudadanía española; Feijóo se apoya en la ola restrictiva europea para rechazar la regularización de inmigrantes: El líder del PP aireará el acuerdo de Sánchez y Podemos ante sus socios europeos este viernes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-28T06:53:48Z",
+  "summary": "Resumen del día en ABC.es: Adif detectó 123.723 traviesas defectuosas del modelo que mantuvo en el tramo de Adamuz: Las del lugar del accidente siguen siendo las construidas en 1989, como las señaladas por el propio Ministerio en su informe sobre el estado de la vía; El balasto, la piedra que soporta las vías, salió de la cantera no homologada que contrató a la mujer de Koldo: La mujer del exasesor de Ábalos trabajaba en la empresa adjudicataria del balasto Áridos Anfersa; Moncloa prepara un lavado de cara de Adif y sopesa un cambio de nombre o volver a unirla a Renfe: El equipo monclovita quiere reinventar la compañía pública tras el deterioro sufrido en su reputación por su vinculación a las tramas de corrupción de Koldo y Ábalos y los accidentes de Adamuz y Gelida. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-29T07:04:57Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Los expertos alertan: «La regularización provocará efecto llamada y fomentará la trata»",
-      "subtitle": "Fuentes policiales advierten que «en las redes sociales ya se anima a viajar a España»",
-      "url": "https://www.abc.es/espana/mandos-policiales-advierten-regularizacion-provocara-efecto-masivo-20260128040849-nt.html",
-      "scraped_at": "2026-01-28T06:53:46Z"
+      "title": "Adif detectó 123.723 traviesas defectuosas del modelo que mantuvo en el tramo de Adamuz",
+      "subtitle": "Las del lugar del accidente siguen siendo las construidas en 1989, como las señaladas por el propio Ministerio en su informe sobre el estado de la vía",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/adif-detecto-123000-traviesas-defectuosas-via-ave-20260129205517-nts.html",
+      "scraped_at": "2026-01-29T07:04:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "La mayoría de los regularizados podrá pedir en dos años la nacionalidad, lo que les facilitaría el voto",
-      "subtitle": "Dos de cada tres personas que se acogen al arraigo proceden de América Latina, cuyos países pueden acceder antes a la ciudadanía española",
-      "url": "https://www.abc.es/espana/mayoria-regularizados-podran-pedir-nacionalidad-dos-anos-20260128041038-nt.html",
-      "scraped_at": "2026-01-28T06:53:47Z"
+      "title": "El balasto, la piedra que soporta las vías, salió de la cantera no homologada que contrató a la mujer de Koldo",
+      "subtitle": "La mujer del exasesor de Ábalos trabajaba en la empresa adjudicataria del balasto Áridos Anfersa",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/piedra-homologada-ave-salio-cantera-trama-koldo-20260129041539-nts.html",
+      "scraped_at": "2026-01-29T07:04:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo se apoya en la ola restrictiva europea para rechazar la regularización de inmigrantes",
-      "subtitle": "El líder del PP aireará el acuerdo de Sánchez y Podemos ante sus socios europeos este viernes",
-      "url": "https://www.abc.es/espana/feijoo-apoya-ola-restrictiva-europea-rechazar-regularizacion-20260128041127-nt.html",
-      "scraped_at": "2026-01-28T06:53:47Z"
+      "title": "Moncloa prepara un lavado de cara de Adif y sopesa un cambio de nombre o volver a unirla a Renfe",
+      "subtitle": "El equipo monclovita quiere reinventar la compañía pública tras el deterioro sufrido en su reputación por su vinculación a las tramas de corrupción de Koldo y Ábalos y los accidentes de Adamuz y Gelida",
+      "url": "https://www.abc.es/economia/moncloa-prepara-lavado-cara-adif-sopesa-cambio-20260128041634-nt.html",
+      "scraped_at": "2026-01-29T07:04:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa impone un perfil bajo en el funeral de Adamuz por temor al reproche de las víctimas",
-      "subtitle": "Oficializan la presencia de la vicepresidenta Montero tras confirmar los Reyes su asistencia: «No haremos nada que pueda molestar»",
-      "url": "https://www.abc.es/espana/moncloa-impone-perfil-bajo-funeral-adamuz-ante-20260127041143-nt.html",
-      "scraped_at": "2026-01-28T06:53:47Z"
+      "title": "Dos operarios y acero a 2.000 grados: así se sueldan las vías como la que falló en Adamuz",
+      "subtitle": "El empalme por la técnica de termita se usa casi exclusivamente en el ferrocarril y la responsabilidad de la calidad recae en el soldador",
+      "url": "https://www.abc.es/economia/soldadura-railes-pudo-colapsar-accidente-adamuz-adif-20260127041652-nt.html",
+      "scraped_at": "2026-01-29T07:04:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Óscar Puente",
-      "subtitle": "El presidente de la Comisión encargada de las pesquisas del accidente apunta a una rotura de la soldadura y pide explicaciones a Adif por la reforma incompleta de la línea Madrid-Sevilla",
-      "url": "https://www.abc.es/economia/investigadores-tiran-abajo-relato-puente-carril-defectuoso-20260126041010-nt.html",
-      "scraped_at": "2026-01-28T06:53:48Z"
+      "title": "Benfica - Real Madrid",
+      "subtitle": "Conoce a qué hora empieza el partido entre el Real Madrid y el conjunto portugués, dónde ver en televisión y online el encuentro de hoy, 28 de enero",
+      "url": "https://www.abc.es/deportes/real-madrid/donde-ver-online-television-real-madrid-benfica-hoy-champions-20260128135629-nt.html",
+      "scraped_at": "2026-01-29T07:04:57Z"
     }
   ]
 }
