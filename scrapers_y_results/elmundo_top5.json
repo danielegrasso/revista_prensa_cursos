@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Adif no entrega el expediente de riesgos de la vía colapsada en Adamuz: No ha enviado toda la información sobre la seguridad de la obra y sobre las soldaduras a la Agencia Estatal de Seguridad Ferroviaria, que tampoco se lo ha exigido; Transportes confundió el punto kilométrico exacto del accidente,  a 12 metros del que se investiga: La comisión que investiga el siniestro afirma que el punto 318,693 es una \"aproximación geográfica\" y que incorporará al informe datos \"verificados\"; Un funeral (casi) de Estado para las víctimas de Adamuz organizado por la Iglesia y sin Pedro Sánchez: El Gobierno envía a Huelva, tras el varapalo del homenaje fallido, a la vicepresidenta Montero y a los ministros Luis Planas y Ángel Víctor Torres, que compartirán tribuna de autoridades con los Reyes, Núñez Feijóo o Juanma Moreno. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-01-29T07:04:51Z",
+  "summary": "Resumen del día en El Mundo: Aldama aportará a la causa por el uso de efectivo en Ferraz el sobre de Delcy vinculado a la \"financiación ilegal del PSOE\": Uno de los motivos por los que la UCO registró el domicilio de Luis Alberto Escolano, socio de Aldama, fue para incautarse, precisamente, de ese sobre; Las confianzas entre Aldama y Delcy Rodríguez: \"Ya estás en la familia\": Aldama y la actual presidenta de Venezuela se cruzaron mensajes que revelan tanto su familiaridad como los negocios conjuntos y gestiones políticas; Interior borró el informe favorable al comisario represaliado por Marlaska que apoyó la actuación policial tras la sentencia del 1-O: Asuntos Internos detectó la eliminación del documento que permitía su restitución. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-01-30T07:06:00Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Adif no entrega el expediente de riesgos de la vía colapsada en Adamuz",
-      "subtitle": "No ha enviado toda la información sobre la seguridad de la obra y sobre las soldaduras a la Agencia Estatal de Seguridad Ferroviaria, que tampoco se lo ha exigido",
-      "url": "https://www.elmundo.es/economia/2026/01/28/697a727fe4d4d8df5f8b4591.html",
-      "scraped_at": "2026-01-29T07:04:51Z"
+      "title": "Aldama aportará a la causa por el uso de efectivo en Ferraz el sobre de Delcy vinculado a la \"financiación ilegal del PSOE\"",
+      "subtitle": "Uno de los motivos por los que la UCO registró el domicilio de Luis Alberto Escolano, socio de Aldama, fue para incautarse, precisamente, de ese sobre",
+      "url": "https://www.elmundo.es/espana/2026/01/29/697bae92e85ece7a328b45b8.html",
+      "scraped_at": "2026-01-30T07:05:59Z"
     },
     {
       "source": "El Mundo",
-      "title": "Transportes confundió el punto kilométrico exacto del accidente,  a 12 metros del que se investiga",
-      "subtitle": "La comisión que investiga el siniestro afirma que el punto 318,693 es una \"aproximación geográfica\" y que incorporará al informe datos \"verificados\"",
-      "url": "https://www.elmundo.es/economia/2026/01/28/697a54b0e9cf4aac7c8b458a.html",
-      "scraped_at": "2026-01-29T07:04:51Z"
+      "title": "Las confianzas entre Aldama y Delcy Rodríguez: \"Ya estás en la familia\"",
+      "subtitle": "Aldama y la actual presidenta de Venezuela se cruzaron mensajes que revelan tanto su familiaridad como los negocios conjuntos y gestiones políticas",
+      "url": "https://www.elmundo.es/espana/2026/01/29/697baeb4e85ececf4f8b457f.html",
+      "scraped_at": "2026-01-30T07:05:59Z"
     },
     {
       "source": "El Mundo",
-      "title": "Un funeral (casi) de Estado para las víctimas de Adamuz organizado por la Iglesia y sin Pedro Sánchez",
-      "subtitle": "El Gobierno envía a Huelva, tras el varapalo del homenaje fallido, a la vicepresidenta Montero y a los ministros Luis Planas y Ángel Víctor Torres, que compartirán tribuna de autoridades con los Reyes, Núñez Feijóo o Juanma Moreno",
-      "url": "https://www.elmundo.es/andalucia/2026/01/28/697a3f7afc6c83965a8b4598.html",
-      "scraped_at": "2026-01-29T07:04:51Z"
+      "title": "Interior borró el informe favorable al comisario represaliado por Marlaska que apoyó la actuación policial tras la sentencia del 1-O",
+      "subtitle": "Asuntos Internos detectó la eliminación del documento que permitía su restitución",
+      "url": "https://www.elmundo.es/espana/2026/01/29/697baedbe85ece0a678b458a.html",
+      "scraped_at": "2026-01-30T07:06:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "La alta velocidad acumula más de 80 limitaciones 'estáticas'  a la velocidad  desde la tragedia de Adamuz y la red convencional supera las 900",
-      "subtitle": "A las denunciadas recientemente por los maquinistas se les unen las además las acumuladas por obras, mal estado de la vía o inundaciones",
-      "url": "https://www.elmundo.es/economia/empresas/2026/01/29/697a6cd7e4d4d8940d8b459e.html",
-      "scraped_at": "2026-01-29T07:04:51Z"
+      "title": "Huelva reza por las víctimas en una multitudinaria Misa Funeral: \"Lucharemos por la verdad\"",
+      "subtitle": "Unas cuatro mil personas acuden al oficio religioso celebrado en presencia de los Reyes y de una extensa representación del Gobierno y de la Junta de Andalucía y en ausencia de Pedro Sánchez",
+      "url": "https://www.elmundo.es/andalucia/2026/01/29/697b45efe4d4d813478b458b.html",
+      "scraped_at": "2026-01-30T07:06:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "Accidente Adamuz",
-      "subtitle": "Pide al Gobierno que no asista al funeral de este jueves \"si no es para compartir el dolor de nuestra familia\": \"Este gobierno no nos representa y no representa a las víctimas\"",
-      "url": "https://www.elmundo.es/andalucia/2026/01/28/697a41d8e85ece74598b457e.html",
-      "scraped_at": "2026-01-29T07:04:51Z"
+      "title": "Alta Velocidad",
+      "subtitle": "Los retrasos con el temporal llegaron a las cinco horas y se mantienen de media por encima de la hora en cada trayecto entre ambas ciudades",
+      "url": "https://www.elmundo.es/economia/2026/01/29/697ba7b6e4d4d87d438b45c3.html",
+      "scraped_at": "2026-01-30T07:06:00Z"
     }
   ]
 }

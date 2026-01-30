@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El caos ferroviario multiplica el tiempo de viaje en Rodalies y AVE: El bloqueo de los trenes de mercancías por el mal estado de un túnel en Rubí deja aislado el puerto de Barcelona; El puente aéreo entre Barcelona y Madrid sale reforzado por los retrasos constantes en el AVE: La demanda para volar entre las dos ciudades aumenta ante los problemas del tren; El principal objetivo de Rusia contra Ucrania: congelar a su población: Congelar a la población civil es ahora el principal objetivo de la ofensiva aérea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-01-29T07:04:59Z",
+  "summary": "Resumen del día en La Vanguardia: Las embestidas de Trump hacen buena a China, el antiguo “rival sistémico”: El británico Starmer sigue los pasos del canadiense Carney o el francés Macron y resetea la relación con Pekín; Trump anunciará hoy que Kevin Warsh es su candidato a presidente de la Reserva Federal: “He elegido a una persona muy válida”, dice el presidente de Estados Unidos; El ruido político que sobra: “Que dure la concordia”, titulamos este artículo el pasado 20 de enero. Era un día para felicitar a la clase política por su comportamiento en las horas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-01-30T07:06:11Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El caos ferroviario multiplica el tiempo de viaje en Rodalies y AVE",
-      "subtitle": "El bloqueo de los trenes de mercancías por el mal estado de un túnel en Rubí deja aislado el puerto de Barcelona",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260129/11451983/caos-ferroviario-multiplica-viaje-rodalies-ave.html",
-      "scraped_at": "2026-01-29T07:04:58Z"
+      "title": "Las embestidas de Trump hacen buena a China, el antiguo “rival sistémico”",
+      "subtitle": "El británico Starmer sigue los pasos del canadiense Carney o el francés Macron y resetea la relación con Pekín",
+      "url": "https://www.lavanguardia.com/internacional/20260129/11452341/xi-jinping-repudiado-cortejado-lideres-occidentales.html",
+      "scraped_at": "2026-01-30T07:06:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El puente aéreo entre Barcelona y Madrid sale reforzado por los retrasos constantes en el AVE",
-      "subtitle": "La demanda para volar entre las dos ciudades aumenta ante los problemas del tren",
-      "url": "https://www.lavanguardia.com/economia/20260129/11451917/caos-ave-refuerza-puente-aereo-barcelona-madrid.html",
-      "scraped_at": "2026-01-29T07:04:59Z"
+      "title": "Trump anunciará hoy que Kevin Warsh es su candidato a presidente de la Reserva Federal",
+      "subtitle": "“He elegido a una persona muy válida”, dice el presidente de Estados Unidos",
+      "url": "https://www.lavanguardia.com/economia/20260130/11453362/trump-kevin-warsh-reserva-federal.html",
+      "scraped_at": "2026-01-30T07:06:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El principal objetivo de Rusia contra Ucrania: congelar a su población",
-      "subtitle": "Congelar a la población civil es ahora el principal objetivo de la ofensiva aérea",
-      "url": "https://www.lavanguardia.com/internacional/20260129/11451964/frio-alia-rusia-ucrania.html",
-      "scraped_at": "2026-01-29T07:04:59Z"
+      "title": "El ruido político que sobra",
+      "subtitle": "“Que dure la concordia”, titulamos este artículo el pasado 20 de enero. Era un día para felicitar a la clase política por su comportamiento en las horas",
+      "url": "https://www.lavanguardia.com/opinion/20260130/11453133/ruido-politico-sobra.html",
+      "scraped_at": "2026-01-30T07:06:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuando la IA es muy buena",
-      "subtitle": "Existe una cierta propensión a destacar aspectos negativos de los avances de la inteligencia artificial (IA) generativa en nuestra sociedad. Que si es una mala",
-      "url": "https://www.lavanguardia.com/opinion/20260129/11452003/ia-buena.html",
-      "scraped_at": "2026-01-29T07:04:59Z"
+      "title": "Adif despliega a técnicos apostados las 24 horas del día frente a taludes de Rodalies en mal estado",
+      "subtitle": "Diversos puntos críticos por los que siguen pasando trenes se someten a un plan de observación permanente",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260130/11453082/adif-despliega-tecnicos-apostados-frente-taludes-rodalies-mal-estado.html",
+      "scraped_at": "2026-01-30T07:06:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El evento que dispara el crecimiento del audiovisual catalán y transforma Barcelona",
-      "subtitle": "La influencia de la industria audiovisual trasciende la generación de contenido y entretenimiento. En Catalunya representa el 3% del PIB impulsado, entre otras",
-      "url": "https://www.lavanguardia.com/economia/20260128/11451764/evento-dispara-crecimiento-audiovisual-catalan-transforma-barcelona-brl.html",
-      "scraped_at": "2026-01-29T07:04:59Z"
+      "title": "Quemar gasolina",
+      "subtitle": "Salir de casa es una actividad de riesgo moderado. No extremo, porque eso sería pedir cita en la administración, pero es alto. Altísimo. Hemos pasado de la era de la",
+      "url": "https://www.lavanguardia.com/opinion/20260130/11452597/quemar-gasolina.html",
+      "scraped_at": "2026-01-30T07:06:11Z"
     }
   ]
 }
