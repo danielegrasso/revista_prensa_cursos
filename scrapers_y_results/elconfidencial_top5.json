@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Anticorrupción insta a Aldama a desvelar en un juzgado el sobre de Delcy con la 'caja b' del PSOE: El partido le retó hace un año a que lo mostrase después de que la UCO lo buscara sin éxito; El Gobierno esquiva por otra puerta los abucheos en Huelva entre el reproche de las víctimas: Los ministros, con Montero a la cabeza, han accedido por una puerta distinta a los Reyes, que han sido vitoreados por unas 200 personas a la entrada del pabellón Carolina Marín en una misa marcada por el silencio; Cuatro encrudece la guerra de los miércoles con uno de los programas más queridos: El &#039;reality&#039; más emblemático de la cadena vuelve con nuevas historias. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-30T07:06:14Z",
+  "summary": "Resumen del día en El Confidencial: El peso del empleo en el sector público en la economía cae al nivel más bajo en 16 años: En contra de un discurso muy extendido en los últimos años, el peso del empleo público se está reduciendo por el empuje del empleo privado y el frenazo de la contratación pública; Estos alcaldes se están rebelando contra los parquímetros (y puede pasar en tu ciudad): Los gobiernos de municipios como Lugo, Ourense o San Fernando han decidido dar un paso adelante y acabar con el estacionamiento regulado en el centro. Aunque el motivo no es el que piensas; Recta final en Aragón: \"Máximo peligro\" para el PSOE y cambio \"contraintuitivo\" en la derecha: Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, en &quot;Comité de Estrategia&quot; analizan las elecciones autonómicas en Aragón el próximo domingo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-01-31T06:56:59Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Anticorrupción insta a Aldama a desvelar en un juzgado el sobre de Delcy con la 'caja b' del PSOE",
-      "subtitle": "El partido le retó hace un año a que lo mostrase después de que la UCO lo buscara sin éxito",
-      "url": "https://www.elconfidencial.com/espana/2026-01-30/anticorrupcion-aldama-desvelar-juzgado-sobre-delcy-financiacion-psoe_4293576/",
-      "scraped_at": "2026-01-30T07:06:13Z"
+      "title": "El peso del empleo en el sector público en la economía cae al nivel más bajo en 16 años",
+      "subtitle": "En contra de un discurso muy extendido en los últimos años, el peso del empleo público se está reduciendo por el empuje del empleo privado y el frenazo de la contratación pública",
+      "url": "https://www.elconfidencial.com/economia/2026-01-31/porcentaje-empleo-publico-espana-mas-bajo-16-anos_4294493/",
+      "scraped_at": "2026-01-31T06:56:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Gobierno esquiva por otra puerta los abucheos en Huelva entre el reproche de las víctimas",
-      "subtitle": "Los ministros, con Montero a la cabeza, han accedido por una puerta distinta a los Reyes, que han sido vitoreados por unas 200 personas a la entrada del pabellón Carolina Marín en una misa marcada por el silencio",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-01-29/gobierno-esquiva-abucheos-funeral-huelva_4293534/",
-      "scraped_at": "2026-01-30T07:06:13Z"
+      "title": "Estos alcaldes se están rebelando contra los parquímetros (y puede pasar en tu ciudad)",
+      "subtitle": "Los gobiernos de municipios como Lugo, Ourense o San Fernando han decidido dar un paso adelante y acabar con el estacionamiento regulado en el centro. Aunque el motivo no es el que piensas",
+      "url": "https://www.elconfidencial.com/espana/2026-01-31/aparcamiento-regulado-centro-ciudad-gratis_4293504/",
+      "scraped_at": "2026-01-31T06:56:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cuatro encrudece la guerra de los miércoles con uno de los programas más queridos",
-      "subtitle": "El &#039;reality&#039; más emblemático de la cadena vuelve con nuevas historias",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-29/mediaset-cuatro-estreno_4293489/",
-      "scraped_at": "2026-01-30T07:06:14Z"
+      "title": "Recta final en Aragón: \"Máximo peligro\" para el PSOE y cambio \"contraintuitivo\" en la derecha",
+      "subtitle": "Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, en &quot;Comité de Estrategia&quot; analizan las elecciones autonómicas en Aragón el próximo domingo",
+      "url": "https://www.elconfidencial.com/espana/aragon/2026-01-31/recta-final-aragon-encuestas-peligro-psoe-derecha-activa-movimiento_4294485/",
+      "scraped_at": "2026-01-31T06:56:59Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "'El robo': Por fin Sophie Turner parece actriz",
+      "subtitle": "Entretenidísima serie británica sobre el gran dinero y la impunidad de los fondos de inversión",
+      "url": "https://www.elconfidencial.com/cultura/2026-01-30/el-robo-sophie-turner-serie-1hms_4293123/",
+      "scraped_at": "2026-01-31T06:56:59Z"
     }
   ]
 }

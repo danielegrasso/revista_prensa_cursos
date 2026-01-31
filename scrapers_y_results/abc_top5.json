@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Adif ordenó con Pardo de Vera recortar en mantenimiento y conservación de vías: Los correos intervenidos por la Guardia Civil demuestran que se elaboró un plan de inversión en esta área que se encargaba de revisar las infraestructuras; María Jesús Montero se queja en el funeral de que Juanma Moreno acompañase a los Reyes: La principal representante socialista en el tributo a las víctimas se molestó de que el protocolo le restase protagonismo; Los familiares de las víctimas de Adamuz: «Solo la verdad nos ayudará a curar esta herida»: Liliana Sáenz, portavoz de los afectados en el funeral, aseguró que lucharán por saber «la verdad» y para que «no haya nunca otro tren». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-30T07:06:09Z",
+  "summary": "Resumen del día en ABC.es: Técnicos del ministerio advirtieron del riesgo de descarrilamiento en el tramo de Adamuz: Los expertos identificaron problemas en un informe antes de acometer la reforma de la línea donde ocurrió la tragedia ferroviaria en la que murieron 46 personas; Adif no sustituyó 34.000 traviesas defectuosas en el tramo del accidente: Durante 2021 activó un contrato para suplir donde se encuentra el trayecto del accidente 103.563 travesaños de los que solamente cambió 69.597; El club de los expatriados VIP: 70.000 miembros de más de 30 países y 105 citas 'a ciegas' en Madrid: Con 70.000 miembros inscritos en la capital en la principal plataforma, organizan 105 citas 'a ciegas' masivas al mes en los locales más selectos para conectar extranjeros que trabajan en la ciudad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-01-31T06:56:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Adif ordenó con Pardo de Vera recortar en mantenimiento y conservación de vías",
-      "subtitle": "Los correos intervenidos por la Guardia Civil demuestran que se elaboró un plan de inversión en esta área que se encargaba de revisar las infraestructuras",
-      "url": "https://www.abc.es/espana/adif-redujo-inversion-mantenimiento-anos-koldo-20260130042333-nt.html",
-      "scraped_at": "2026-01-30T07:06:07Z"
+      "title": "Técnicos del ministerio advirtieron del riesgo de descarrilamiento en el tramo de Adamuz",
+      "subtitle": "Los expertos identificaron problemas en un informe antes de acometer la reforma de la línea donde ocurrió la tragedia ferroviaria en la que murieron 46 personas",
+      "url": "https://www.abc.es/espana/adif-advirtio-posibles-deficiencias-soldaduras-provocar-descarrilamientos-20260131043152-nt.html",
+      "scraped_at": "2026-01-31T06:56:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "María Jesús Montero se queja en el funeral de que Juanma Moreno acompañase a los Reyes",
-      "subtitle": "La principal representante socialista en el tributo a las víctimas se molestó de que el protocolo le restase protagonismo",
-      "url": "https://www.abc.es/espana/andalucia/huelva/maria-jesus-montero-queja-funeral-moreno-acompanase-20260129214647-nts.html",
-      "scraped_at": "2026-01-30T07:06:08Z"
+      "title": "Adif no sustituyó 34.000 traviesas defectuosas en el tramo del accidente",
+      "subtitle": "Durante 2021 activó un contrato para suplir donde se encuentra el trayecto del accidente 103.563 travesaños de los que solamente cambió 69.597",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/adif-sustituyo-34000-traviesas-defectuosas-detectado-tramo-20260131043633-nts.html",
+      "scraped_at": "2026-01-31T06:56:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los familiares de las víctimas de Adamuz: «Solo la verdad nos ayudará a curar esta herida»",
-      "subtitle": "Liliana Sáenz, portavoz de los afectados en el funeral, aseguró que lucharán por saber «la verdad» y para que «no haya nunca otro tren»",
-      "url": "https://www.abc.es/espana/andalucia/familias-accidente-reconocen-pueblo-adamuz-pusieron-duro-20260129212502-nts.html",
-      "scraped_at": "2026-01-30T07:06:08Z"
+      "title": "El club de los expatriados VIP: 70.000 miembros de más de 30 países y 105 citas 'a ciegas' en Madrid",
+      "subtitle": "Con 70.000 miembros inscritos en la capital en la principal plataforma, organizan 105 citas 'a ciegas' masivas al mes en los locales más selectos para conectar extranjeros que trabajan en la ciudad",
+      "url": "https://www.abc.es/espana/madrid/madrid-destino-preferido-expatriados-atrae-vez-comunidad-20260126044037-nt.html",
+      "scraped_at": "2026-01-31T06:56:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Una treintena de brotes procedentes de cinco países disparó el sarampión por el que la OMS reprende a España",
-      "subtitle": "Los casos se importaron desde Marruecos, Rumanía, Rusia, Reino Unido e Italia",
-      "url": "https://www.abc.es/sociedad/treintena-brotes-procedentes-cinco-paises-causo-aumento-20260128042940-nt.html",
-      "scraped_at": "2026-01-30T07:06:08Z"
+      "title": "Delcy Rodríguez anuncia Ley de Amnistía para los presos políticos venezolanos",
+      "subtitle": "El proyecto de ley será presentado a la Asamblea Nacional en los próximos días",
+      "url": "https://www.abc.es/internacional/delcy-rodriguez-anuncia-ley-amnistia-presos-politicos-20260131004651-nt.html",
+      "scraped_at": "2026-01-31T06:56:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ganador elecciones Aragón",
-      "subtitle": "Los ocho candidatos con representación parlamentaria acuden al encuentro organizado por RTVE para exponer sus propuestas de cara a la próxima legislatura",
-      "url": "https://www.abc.es/espana/aragon/ganando-debate-elecciones-aragon-vota-encuesta-20260129222626-nt.html",
-      "scraped_at": "2026-01-30T07:06:09Z"
+      "title": "Accidente tren",
+      "subtitle": "Se trata de Patricia, una joven de La Palma del Condado (Huelva) de unos 40 años que estaba ingresada muy grave en el hospital Reina Sofía de Córdoba",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/muere-mujer-ingresada-uci-accidente-adamuz-victimas-20260130183918-nts.html",
+      "scraped_at": "2026-01-31T06:56:55Z"
     }
   ]
 }
