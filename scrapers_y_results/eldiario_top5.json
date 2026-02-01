@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Los excesos y los asesinatos de Minneapolis exhiben la debilidad de Trump: El presidente de EEUU cambia el tono ante la reacción por la represión migratoria y la culpabilización de las víctimas asesinadas por agentes federales en Minnesota; Una ola de protestas recorre EEUU contra los asesinatos de Minneapolis y la represión migratoria de Trump: Miles de personas salen a las calles con temperaturas gélidas para protestar contra el terror ejecutado por los agentes federales, al tiempo que Bruce Springsteen estrena su canción 'Streets of Minneapolis\" en directo en una sala de la ciudad; Trump empieza a tenerlo difícil: Nadie cree que las movilizaciones puedan tumbar al presidente de EEUU, pero empieza a extenderse la idea de que el rechazo cada vez más amplio a sus acciones pueden tener consecuencias políticas importantes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-01-31T06:56:52Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez multiplica los gestos para rearmar la mayoría de la investidura con vistas a los Presupuestos: Junts mantiene el pulso y el caos en Rodalies da un nuevo argumento a los de Puigdemont contra el Gobierno, aunque el traspaso de las competencias en materia de migración está cada vez más cerca gracias a una negociación a tres que incluye a Podemos. En Moncloa son conscientes de la dificultad para sacar los Presupuestos, pero creen que es la mejor opción también para los socios; Cinco años de lucha por la regularización: la intrahistoria del movimiento liderado por migrantes que lo consiguió: El colectivo que impulsó la ILP está formado exclusivamente por personas migrantes. Los activistas que conforman la primera línea conocen bien lo que pedían: vivieron años sin papeles y trabajaron como empleadas domésticas, manteros, jornaleros, cocineras o camareras.; La regularización de migrantes enfrenta a las derechas con la Iglesia: “Están más con el demonio que con los pobres”: Vox, Falange y los sectores más ultras del catolicismo patrio tildan de “traición” el apoyo de los obispos a la regularización de migrantes aprobada por el Gobierno, mientras que el PP se desmarca de una iniciativa que apoyó en su día. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-01T07:04:20Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Los excesos y los asesinatos de Minneapolis exhiben la debilidad de Trump",
-      "subtitle": "El presidente de EEUU cambia el tono ante la reacción por la represión migratoria y la culpabilización de las víctimas asesinadas por agentes federales en Minnesota",
-      "url": "https://www.eldiario.es/internacional/excesos-asesinatos-minneapolis-exhiben-debilidad-trump_129_12951356.html",
-      "scraped_at": "2026-01-31T06:56:49Z"
+      "title": "Sánchez multiplica los gestos para rearmar la mayoría de la investidura con vistas a los Presupuestos",
+      "subtitle": "Junts mantiene el pulso y el caos en Rodalies da un nuevo argumento a los de Puigdemont contra el Gobierno, aunque el traspaso de las competencias en materia de migración está cada vez más cerca gracias a una negociación a tres que incluye a Podemos. En Moncloa son conscientes de la dificultad para sacar los Presupuestos, pero creen que es la mejor opción también para los socios",
+      "url": "https://www.eldiario.es/politica/sanchez-multiplica-gestos-rearmar-mayoria-investidura-vistas-presupuestos_1_12949910.html",
+      "scraped_at": "2026-02-01T07:04:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Una ola de protestas recorre EEUU contra los asesinatos de Minneapolis y la represión migratoria de Trump",
+      "title": "Cinco años de lucha por la regularización: la intrahistoria del movimiento liderado por migrantes que lo consiguió",
+      "subtitle": "El colectivo que impulsó la ILP está formado exclusivamente por personas migrantes. Los activistas que conforman la primera línea conocen bien lo que pedían: vivieron años sin papeles y trabajaron como empleadas domésticas, manteros, jornaleros, cocineras o camareras.",
+      "url": "https://www.eldiario.es/desalambre/cinco-anos-lucha-regularizacion-intrahistoria-movimiento-liderado-migrantes-consiguio_1_12952539.html",
+      "scraped_at": "2026-02-01T07:04:18Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La regularización de migrantes enfrenta a las derechas con la Iglesia: “Están más con el demonio que con los pobres”",
+      "subtitle": "Vox, Falange y los sectores más ultras del catolicismo patrio tildan de “traición” el apoyo de los obispos a la regularización de migrantes aprobada por el Gobierno, mientras que el PP se desmarca de una iniciativa que apoyó en su día",
+      "url": "https://www.eldiario.es/sociedad/regularizacion-migrantes-enfrenta-derechas-iglesia-demonio-pobres_1_12949796.html",
+      "scraped_at": "2026-02-01T07:04:19Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Tumbar al Gobierno cubano: el nuevo objetivo de Trump después de haber derrocado a Maduro",
+      "subtitle": "El presidente de EEUU ha redoblado el bloqueo a Cuba cortando el suministro de petróleo venezolano y amenazando con aranceles a los países que proporcionen crudo a la isla, en una clara señal a México.",
+      "url": "https://www.eldiario.es/internacional/tumbar-gobierno-cubano-nuevo-objetivo-trump-despues-haber-derrocado-maduro_1_12953089.html",
+      "scraped_at": "2026-02-01T07:04:19Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Minneapolis",
       "subtitle": "Miles de personas salen a las calles con temperaturas gélidas para protestar contra el terror ejecutado por los agentes federales, al tiempo que Bruce Springsteen estrena su canción 'Streets of Minneapolis\" en directo en una sala de la ciudad",
       "url": "https://www.eldiario.es/internacional/ola-protestas-recorre-calles-eeuu-asesinatos-minneapolis-represion-migratoria-trump_1_12951545.html",
-      "scraped_at": "2026-01-31T06:56:50Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump empieza a tenerlo difícil",
-      "subtitle": "Nadie cree que las movilizaciones puedan tumbar al presidente de EEUU, pero empieza a extenderse la idea de que el rechazo cada vez más amplio a sus acciones pueden tener consecuencias políticas importantes",
-      "url": "https://www.eldiario.es/internacional/trump-empieza-tenerlo-dificil_129_12949621.html",
-      "scraped_at": "2026-01-31T06:56:50Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU publica tres millones de documentos de los archivos sobre Jeffrey Epstein",
-      "subtitle": "La Administración Trump reanuda la publicación de documentos sobre el depredador sexual en virtud de una ley aprobada por el Congreso, y firmada por Donald Trump después de meses resistiéndose, con el fin de revelar lo que el gobierno sabía sobre el abuso sexual de menores por parte del financiero",
-      "url": "https://www.eldiario.es/internacional/departamento-justicia-publica-tres-millones-documentos-archivos-jeffrey-epstein_1_12951062.html",
-      "scraped_at": "2026-01-31T06:56:51Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Regularización",
-      "subtitle": "Alma Ezcurra dice que \"si uno sabe leer y contar\" se da cuenta de que los plazos impedirán a las personas que logren el permiso de residencia votar en 2027",
-      "url": "https://www.eldiario.es/politica/pp-reconoce-ahora-regularizacion-no-engordara-censo-electoral-proximas-municipales-generales_1_12949208.html",
-      "scraped_at": "2026-01-31T06:56:52Z"
+      "scraped_at": "2026-02-01T07:04:20Z"
     }
   ]
 }

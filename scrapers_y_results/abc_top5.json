@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Técnicos del ministerio advirtieron del riesgo de descarrilamiento en el tramo de Adamuz: Los expertos identificaron problemas en un informe antes de acometer la reforma de la línea donde ocurrió la tragedia ferroviaria en la que murieron 46 personas; Adif no sustituyó 34.000 traviesas defectuosas en el tramo del accidente: Durante 2021 activó un contrato para suplir donde se encuentra el trayecto del accidente 103.563 travesaños de los que solamente cambió 69.597; El club de los expatriados VIP: 70.000 miembros de más de 30 países y 105 citas 'a ciegas' en Madrid: Con 70.000 miembros inscritos en la capital en la principal plataforma, organizan 105 citas 'a ciegas' masivas al mes en los locales más selectos para conectar extranjeros que trabajan en la ciudad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-01-31T06:56:55Z",
+  "summary": "Resumen del día en ABC.es: Jorge Azcón: «Vox no tiene ganas de volver al Gobierno. Se ven mejor los toros desde la barrera»: El presidente aragonés atiende a ABC a una semana de las elecciones. Sabe que tendrá que pactar y tiene dudas sobre que Vox quiera realmente entrar en el gobierno: «Significa arremangarse y tomar decisiones difíciles»; Abascal coloca el plan de regularización en el eje de su campaña en Aragón: Vox percibe un «cambio de percepción» en la población, aunque confiesa que no repetirán errores como en 2023 en Andalucía; Sánchez acumula cinco decretos derogados en dos años: los mismos que en el resto de la democracia: El Congreso ha tumbado siete del actual presidente desde que llegó al poder en 2018 por los tres que rechazó de todos sus antecesores juntos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-01T07:04:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Técnicos del ministerio advirtieron del riesgo de descarrilamiento en el tramo de Adamuz",
-      "subtitle": "Los expertos identificaron problemas en un informe antes de acometer la reforma de la línea donde ocurrió la tragedia ferroviaria en la que murieron 46 personas",
-      "url": "https://www.abc.es/espana/adif-advirtio-posibles-deficiencias-soldaduras-provocar-descarrilamientos-20260131043152-nt.html",
-      "scraped_at": "2026-01-31T06:56:53Z"
+      "title": "Jorge Azcón: «Vox no tiene ganas de volver al Gobierno. Se ven mejor los toros desde la barrera»",
+      "subtitle": "El presidente aragonés atiende a ABC a una semana de las elecciones. Sabe que tendrá que pactar y tiene dudas sobre que Vox quiera realmente entrar en el gobierno: «Significa arremangarse y tomar decisiones difíciles»",
+      "url": "https://www.abc.es/espana/jorge-azcon-drama-alegria-unica-victoria-vox-20260201150745-nt.html",
+      "scraped_at": "2026-02-01T07:04:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Adif no sustituyó 34.000 traviesas defectuosas en el tramo del accidente",
-      "subtitle": "Durante 2021 activó un contrato para suplir donde se encuentra el trayecto del accidente 103.563 travesaños de los que solamente cambió 69.597",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/adif-sustituyo-34000-traviesas-defectuosas-detectado-tramo-20260131043633-nts.html",
-      "scraped_at": "2026-01-31T06:56:53Z"
+      "title": "Abascal coloca el plan de regularización en el eje de su campaña en Aragón",
+      "subtitle": "Vox percibe un «cambio de percepción» en la población, aunque confiesa que no repetirán errores como en 2023 en Andalucía",
+      "url": "https://www.abc.es/espana/abascal-encuentra-inmigracion-eje-campana-aragon-20260131042727-nt.html",
+      "scraped_at": "2026-02-01T07:04:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "El club de los expatriados VIP: 70.000 miembros de más de 30 países y 105 citas 'a ciegas' en Madrid",
-      "subtitle": "Con 70.000 miembros inscritos en la capital en la principal plataforma, organizan 105 citas 'a ciegas' masivas al mes en los locales más selectos para conectar extranjeros que trabajan en la ciudad",
-      "url": "https://www.abc.es/espana/madrid/madrid-destino-preferido-expatriados-atrae-vez-comunidad-20260126044037-nt.html",
-      "scraped_at": "2026-01-31T06:56:54Z"
+      "title": "Sánchez acumula cinco decretos derogados en dos años: los mismos que en el resto de la democracia",
+      "subtitle": "El Congreso ha tumbado siete del actual presidente desde que llegó al poder en 2018 por los tres que rechazó de todos sus antecesores juntos",
+      "url": "https://www.abc.es/espana/sanchez-acumula-cinco-decretos-derogados-dos-anos-20260201042757-nt.html",
+      "scraped_at": "2026-02-01T07:04:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Delcy Rodríguez anuncia Ley de Amnistía para los presos políticos venezolanos",
-      "subtitle": "El proyecto de ley será presentado a la Asamblea Nacional en los próximos días",
-      "url": "https://www.abc.es/internacional/delcy-rodriguez-anuncia-ley-amnistia-presos-politicos-20260131004651-nt.html",
-      "scraped_at": "2026-01-31T06:56:54Z"
+      "title": "El Gobierno quiere un Adif con «careta» para tapar el caos ferroviario",
+      "subtitle": "La solución a la gravísima crisis del gestor de las infraestructuras pasa por cambiar la marca, el locuaz Puente y sus comparecencias cantinflescas, y buscar chivos expiatorios entre el personal más indefenso",
+      "url": "https://www.abc.es/economia/maria-jesus-perez-gobierno-quiere-adif-careta-tapar-caos-ferroviario-20260201040447-nt.html",
+      "scraped_at": "2026-02-01T07:04:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Accidente tren",
-      "subtitle": "Se trata de Patricia, una joven de La Palma del Condado (Huelva) de unos 40 años que estaba ingresada muy grave en el hospital Reina Sofía de Córdoba",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/muere-mujer-ingresada-uci-accidente-adamuz-victimas-20260130183918-nts.html",
-      "scraped_at": "2026-01-31T06:56:55Z"
+      "title": "Alcaraz - Djokovic",
+      "subtitle": "Conoce a qué hora juega Carlos Alcaraz la final en el Open de Australia y dónde ver el partido en televisión y online contra Novak Djokovic",
+      "url": "https://www.abc.es/deportes/tenis/ver-online-television-alcaraz-final-open-australia-20260131190846-nt.html",
+      "scraped_at": "2026-02-01T07:04:22Z"
     }
   ]
 }
