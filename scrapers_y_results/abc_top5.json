@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Jorge Azcón: «Vox no tiene ganas de volver al Gobierno. Se ven mejor los toros desde la barrera»: El presidente aragonés atiende a ABC a una semana de las elecciones. Sabe que tendrá que pactar y tiene dudas sobre que Vox quiera realmente entrar en el gobierno: «Significa arremangarse y tomar decisiones difíciles»; Abascal coloca el plan de regularización en el eje de su campaña en Aragón: Vox percibe un «cambio de percepción» en la población, aunque confiesa que no repetirán errores como en 2023 en Andalucía; Sánchez acumula cinco decretos derogados en dos años: los mismos que en el resto de la democracia: El Congreso ha tumbado siete del actual presidente desde que llegó al poder en 2018 por los tres que rechazó de todos sus antecesores juntos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-01T07:04:22Z",
+  "summary": "Resumen del día en ABC.es: Azcón necesitará a un Vox crecido y el PSOE de Alegría se desploma: El Partido Popular mantendría sus 28 escaños y los de Santiago Abascal subirían; Casi el 50% de los aragoneses apoyan el adelanto electoral: Estudiantes y parados respaldan masivamente la decisión tomada por Azcón; Pilar Alegría suspende y es la quinta líder en valoración: El popular Azcón es el único candidato que aprueba, el mejor puntuado y conocido por los electores. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-02T07:16:32Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Jorge Azcón: «Vox no tiene ganas de volver al Gobierno. Se ven mejor los toros desde la barrera»",
-      "subtitle": "El presidente aragonés atiende a ABC a una semana de las elecciones. Sabe que tendrá que pactar y tiene dudas sobre que Vox quiera realmente entrar en el gobierno: «Significa arremangarse y tomar decisiones difíciles»",
-      "url": "https://www.abc.es/espana/jorge-azcon-drama-alegria-unica-victoria-vox-20260201150745-nt.html",
-      "scraped_at": "2026-02-01T07:04:21Z"
+      "title": "Azcón necesitará a un Vox crecido y el PSOE de Alegría se desploma",
+      "subtitle": "El Partido Popular mantendría sus 28 escaños y los de Santiago Abascal subirían",
+      "url": "https://www.abc.es/espana/aragon/azcon-volvera-necesitar-vox-crecido-alegria-desploma-20260201215843-nt.html",
+      "scraped_at": "2026-02-02T07:16:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "Abascal coloca el plan de regularización en el eje de su campaña en Aragón",
-      "subtitle": "Vox percibe un «cambio de percepción» en la población, aunque confiesa que no repetirán errores como en 2023 en Andalucía",
-      "url": "https://www.abc.es/espana/abascal-encuentra-inmigracion-eje-campana-aragon-20260131042727-nt.html",
-      "scraped_at": "2026-02-01T07:04:21Z"
+      "title": "Casi el 50% de los aragoneses apoyan el adelanto electoral",
+      "subtitle": "Estudiantes y parados respaldan masivamente la decisión tomada por Azcón",
+      "url": "https://www.abc.es/espana/aragon/aragoneses-apoyan-adelanto-electoral-20260201215847-nt.html",
+      "scraped_at": "2026-02-02T07:16:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez acumula cinco decretos derogados en dos años: los mismos que en el resto de la democracia",
-      "subtitle": "El Congreso ha tumbado siete del actual presidente desde que llegó al poder en 2018 por los tres que rechazó de todos sus antecesores juntos",
-      "url": "https://www.abc.es/espana/sanchez-acumula-cinco-decretos-derogados-dos-anos-20260201042757-nt.html",
-      "scraped_at": "2026-02-01T07:04:21Z"
+      "title": "Pilar Alegría suspende y es la quinta líder en valoración",
+      "subtitle": "El popular Azcón es el único candidato que aprueba, el mejor puntuado y conocido por los electores",
+      "url": "https://www.abc.es/espana/aragon/pilar-alegria-suspende-quinta-valoracion-20260201215850-nt.html",
+      "scraped_at": "2026-02-02T07:16:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno quiere un Adif con «careta» para tapar el caos ferroviario",
-      "subtitle": "La solución a la gravísima crisis del gestor de las infraestructuras pasa por cambiar la marca, el locuaz Puente y sus comparecencias cantinflescas, y buscar chivos expiatorios entre el personal más indefenso",
-      "url": "https://www.abc.es/economia/maria-jesus-perez-gobierno-quiere-adif-careta-tapar-caos-ferroviario-20260201040447-nt.html",
-      "scraped_at": "2026-02-01T07:04:22Z"
+      "title": "Las horas más bajas del AVE tras más de 30 años de rotundo éxito",
+      "subtitle": "El siniestro pone en guardia al sector turístico y amenaza la expansión de los operadores, tras dos años de récord de pasajeros en la alta velocidad ferroviaria",
+      "url": "https://www.abc.es/economia/miedo-tren-viajes-lentos-trasvase-avion-carretera-20260201031123-nt.html",
+      "scraped_at": "2026-02-02T07:16:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alcaraz - Djokovic",
-      "subtitle": "Conoce a qué hora juega Carlos Alcaraz la final en el Open de Australia y dónde ver el partido en televisión y online contra Novak Djokovic",
-      "url": "https://www.abc.es/deportes/tenis/ver-online-television-alcaraz-final-open-australia-20260131190846-nt.html",
-      "scraped_at": "2026-02-01T07:04:22Z"
+      "title": "Premios Open Australia",
+      "subtitle": "Estos son los premios económicos que reparten el primer Grand Slam de la temporada",
+      "url": "https://www.abc.es/deportes/tenis/dinero-gana-campeon-open-australia-20260201070000-nt.html",
+      "scraped_at": "2026-02-02T07:16:32Z"
     }
   ]
 }

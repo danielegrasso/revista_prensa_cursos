@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Moncloa busca llegar a 2027 recosiendo la alianza Frankenstein, a lomos de Trump y preocupados por Illa: &quot;Empecemos a entendernos ya&quot;, dicen en Moncloa a sus socios: &quot;El mejor escenario es el que ya tenemos&quot;. Salvados los ultimátum de ERC y PNV y tras el acercamiento a Podemos, confían en aproximarse a Junts &quot;en el corto plazo&quot;; Pobres niñas ricas. Esas pijas que pasan los inviernos en un resort alicantino decadente: Esther García Llovet completa su trilogía levantina con &#039;Las jefas&#039;, sobre unas chavalas desahogadas que “cuando se aburren mucho, matan moscas con el rabo”. Otro libro de culto de una autora revoltosa; Aragón 8F: el PSOE ya no sabe hacer campañas y la última semana puede ser un calvario: No queda nadie que conozca los rudimentos del juego. Nadie que pueda decir que, al menos, empató una vez en un día de suerte. Los socialistas aragoneses se encuentran a expensas de los acontecimientos, de los adversarios y de sus propias cartas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-01T07:04:26Z",
+  "summary": "Resumen del día en El Confidencial: Se investigan los vínculos del PSOE de Aragón con el gigante de las renovables del caso Leire Díez: Dirigentes y cargos locales del PSOE están nómina de Forestalia, la empresa de renovables que recibió una ayuda de 17,3 millones de euros del Gobierno de Pedro Sánchez tras la mediación de la fontanera de Ferraz; \"Nadie sabe lo que hemos pasado\". Cómo Alcaraz silenció el ruido y entró en el Olimpo: La ruptura con Juan Carlos Ferrero empañó el final del 2025. La figura de Samu López generó dudas, pero el equipo ha llevado a Carlitos a hacer historia una vez más; Juan del Val acalla a los críticos literarios: \"Le puede sorprender a vuestro ego\": El colaborador, en un vídeo viral, manda un recado a los escritores y críticos que se han lanzado en tromba contra él tras su Premio Planeta. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-02T07:16:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Moncloa busca llegar a 2027 recosiendo la alianza Frankenstein, a lomos de Trump y preocupados por Illa",
-      "subtitle": "&quot;Empecemos a entendernos ya&quot;, dicen en Moncloa a sus socios: &quot;El mejor escenario es el que ya tenemos&quot;. Salvados los ultimátum de ERC y PNV y tras el acercamiento a Podemos, confían en aproximarse a Junts &quot;en el corto plazo&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-02-01/moncloa-busca-llegar-a-2027-recosiendo-frankenstein-y-a-lomos-de-trump-pero-preocupados-por-illa_4294736/",
-      "scraped_at": "2026-02-01T07:04:25Z"
+      "title": "Se investigan los vínculos del PSOE de Aragón con el gigante de las renovables del caso Leire Díez",
+      "subtitle": "Dirigentes y cargos locales del PSOE están nómina de Forestalia, la empresa de renovables que recibió una ayuda de 17,3 millones de euros del Gobierno de Pedro Sánchez tras la mediación de la fontanera de Ferraz",
+      "url": "https://www.elconfidencial.com/espana/2026-02-02/psoe-aragon-elecciones-uco-renovables-leire-forestalia_4294500/",
+      "scraped_at": "2026-02-02T07:16:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pobres niñas ricas. Esas pijas que pasan los inviernos en un resort alicantino decadente",
-      "subtitle": "Esther García Llovet completa su trilogía levantina con &#039;Las jefas&#039;, sobre unas chavalas desahogadas que “cuando se aburren mucho, matan moscas con el rabo”. Otro libro de culto de una autora revoltosa",
-      "url": "https://www.elconfidencial.com/cultura/2026-02-01/esther-garcia-llovet-las-jefas-novela_4294414/",
-      "scraped_at": "2026-02-01T07:04:25Z"
+      "title": "\"Nadie sabe lo que hemos pasado\". Cómo Alcaraz silenció el ruido y entró en el Olimpo",
+      "subtitle": "La ruptura con Juan Carlos Ferrero empañó el final del 2025. La figura de Samu López generó dudas, pero el equipo ha llevado a Carlitos a hacer historia una vez más",
+      "url": "https://www.elconfidencial.com/deportes/tenis/2026-02-01/alcaraz-djokovic-open-de-australia-samu-lopez_4295032/",
+      "scraped_at": "2026-02-02T07:16:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Aragón 8F: el PSOE ya no sabe hacer campañas y la última semana puede ser un calvario",
-      "subtitle": "No queda nadie que conozca los rudimentos del juego. Nadie que pueda decir que, al menos, empató una vez en un día de suerte. Los socialistas aragoneses se encuentran a expensas de los acontecimientos, de los adversarios y de sus propias cartas",
-      "url": "https://www.elconfidencial.com/espana/2026-02-01/estrategia-campana-psoe-aragon-elecciones-1hms_4294755/",
-      "scraped_at": "2026-02-01T07:04:25Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Inmobiliario",
-      "subtitle": "Históricamente, el precio de la vivienda y el crecimiento económico han avanzado de la mano, pero cuando estas métricas se divorcian, cuando la vivienda sube con más fuerza que la economía, el riesgo aumenta",
-      "url": "https://www.elconfidencial.com/inmobiliario/",
-      "scraped_at": "2026-02-01T07:04:26Z"
+      "title": "Juan del Val acalla a los críticos literarios: \"Le puede sorprender a vuestro ego\"",
+      "subtitle": "El colaborador, en un vídeo viral, manda un recado a los escritores y críticos que se han lanzado en tromba contra él tras su Premio Planeta",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-31/juan-del-val-criticos-literarios-monumental-ego-movidas-infantiles_4294780/",
+      "scraped_at": "2026-02-02T07:16:37Z"
     }
   ]
 }
