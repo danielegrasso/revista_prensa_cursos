@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La OTAN realiza unas  grandes maniobras sin la participación de Estados Unidos: Alemania es la anfitriona del ejercicio Steadfast Dart, en el que participan 10.000 soldados de once países, y España está al mando de la flota conjunta; 'La Vanguardia' cumple 145 años y 'Mundo Deportivo', 120: Siempre he admirado a Katharine Graham, sobre cuya vida Steven Spielberg realizó una película interpretada por Meryl Streep. Graham fue durante cuarenta años la; El peso de los salarios en la riqueza global cae a un mínimo histórico: La IA y los despidos aceleran el declive del trabajo frente a las rentas del capital. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-02T07:16:34Z",
+  "summary": "Resumen del día en La Vanguardia: El Gobierno acepta trocear el decreto para blindar la subida de las pensiones: Junts garantiza su apoyo si la regularización se aprueba en una norma en solitario; Cincuenta millones con las costuras tensas: Las crisis de crecimiento que pueden colapsar España; Venezuela cumple un mes sin Maduro con pocos avances hacia la restauración democrática: La transición inconclusa, pese a la liberación de presos políticos y las rendijas mostradas por la represión, sitúa a Caracas en el camino de una tecnocracia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-03T07:08:13Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La OTAN realiza unas  grandes maniobras sin la participación de Estados Unidos",
-      "subtitle": "Alemania es la anfitriona del ejercicio Steadfast Dart, en el que participan 10.000 soldados de once países, y España está al mando de la flota conjunta",
-      "url": "https://www.lavanguardia.com/internacional/20260202/11455106/otan-maniobras-alemania-espana-estados-unidos-baltico-militar.html",
-      "scraped_at": "2026-02-02T07:16:33Z"
+      "title": "El Gobierno acepta trocear el decreto para blindar la subida de las pensiones",
+      "subtitle": "Junts garantiza su apoyo si la regularización se aprueba en una norma en solitario",
+      "url": "https://www.lavanguardia.com/politica/20260203/11456110/gobierno-acepta-trocear-decreto-blindar-subida-pensiones.html",
+      "scraped_at": "2026-02-03T07:08:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "'La Vanguardia' cumple 145 años y 'Mundo Deportivo', 120",
-      "subtitle": "Siempre he admirado a Katharine Graham, sobre cuya vida Steven Spielberg realizó una película interpretada por Meryl Streep. Graham fue durante cuarenta años la",
-      "url": "https://www.lavanguardia.com/opinion/20260201/11454551/doble-aniversario.html",
-      "scraped_at": "2026-02-02T07:16:33Z"
+      "title": "Cincuenta millones con las costuras tensas",
+      "subtitle": "Las crisis de crecimiento que pueden colapsar España",
+      "url": "https://www.lavanguardia.com/politica/20260203/11456141/cincuenta-millones-costuras-tensas.html",
+      "scraped_at": "2026-02-03T07:08:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El peso de los salarios en la riqueza global cae a un mínimo histórico",
-      "subtitle": "La IA y los despidos aceleran el declive del trabajo frente a las rentas del capital",
-      "url": "https://www.lavanguardia.com/economia/20260202/11455090/peso-salarios-riqueza-global-cae-minimo-historico.html",
-      "scraped_at": "2026-02-02T07:16:33Z"
+      "title": "Venezuela cumple un mes sin Maduro con pocos avances hacia la restauración democrática",
+      "subtitle": "La transición inconclusa, pese a la liberación de presos políticos y las rendijas mostradas por la represión, sitúa a Caracas en el camino de una tecnocracia",
+      "url": "https://www.lavanguardia.com/internacional/20260203/11455963/venezuela-cumple-mes-maduro-pocos-avances-restauracion-democratica.html",
+      "scraped_at": "2026-02-03T07:08:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Liam, el niño de 5 años detenido en la escuela, y su padre ya están de regreso en Minneapolis",
-      "subtitle": "Un juez decretó el sábado que los dos fueran liberados del centro de detención de Texas en el que se hallaban y lamentó el trato inhumano que el gobierno (ya ha",
-      "url": "https://www.lavanguardia.com/internacional/20260201/11455061/liam-cuyo-arresto-creo-escandalo-global-padre-regresan-hogar-minneapolis.html",
-      "scraped_at": "2026-02-02T07:16:34Z"
+      "title": "Trump reaviva el fantasma del fraude en las presidenciales del 2020",
+      "subtitle": "Los demócratas denuncian la presencia de Tulsi Gabbard, directoria de los servicios de inteligencia, durante una redada en el centro electoral de Fulton",
+      "url": "https://www.lavanguardia.com/internacional/20260203/11455943/trump-reaviva-fantasma-fraude-electoral-incautacion-papeletas-georgia.html",
+      "scraped_at": "2026-02-03T07:08:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Aprende a preparar un crujiente wonton de pavo rustido en casa",
-      "subtitle": "Una receta fácil para aprovechar carne asada y convertirla en un bocado listo en pocos minutos",
-      "url": "https://www.lavanguardia.com/comer/recetas/20260202/11451540/aprende-preparar-crujiente-wonton-pavo-rustido-casa.html",
-      "scraped_at": "2026-02-02T07:16:34Z"
+      "title": "Herida muy grave una mujer con huesos rotos y el cuerpo quemado tras sufrir una agresión",
+      "subtitle": "Los hechos se han producido en torno a las 10 horas en una vivienda de la calle Constitución y los primeros indicios no apuntan a que se trate de un caso de",
+      "url": "https://www.lavanguardia.com/local/madrid/20260202/11455878/herida-grave-mujer-huesos-rotos-cuerpo-quemado-sufrir-agresion.html",
+      "scraped_at": "2026-02-03T07:08:13Z"
     }
   ]
 }

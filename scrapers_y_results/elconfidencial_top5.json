@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Se investigan los vínculos del PSOE de Aragón con el gigante de las renovables del caso Leire Díez: Dirigentes y cargos locales del PSOE están nómina de Forestalia, la empresa de renovables que recibió una ayuda de 17,3 millones de euros del Gobierno de Pedro Sánchez tras la mediación de la fontanera de Ferraz; \"Nadie sabe lo que hemos pasado\". Cómo Alcaraz silenció el ruido y entró en el Olimpo: La ruptura con Juan Carlos Ferrero empañó el final del 2025. La figura de Samu López generó dudas, pero el equipo ha llevado a Carlitos a hacer historia una vez más; Juan del Val acalla a los críticos literarios: \"Le puede sorprender a vuestro ego\": El colaborador, en un vídeo viral, manda un recado a los escritores y críticos que se han lanzado en tromba contra él tras su Premio Planeta. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-02T07:16:37Z",
+  "summary": "Resumen del día en El Confidencial: Pilar Alegría entra en pánico: Ferraz envía peones de Sánchez y monta un 'call center' para frenar la debacle: Ferraz ha desplazado a sus fontaneros a Zaragoza para supervisar la campaña de la exministra de Educación y exportavoz del Gobierno de Pedro Sánchez con el objetivo de evitar otra debacle en la estrategia electoral de Moncloa; Investigación visual: así fue la captura de Maduro contada a través de los caídos: Se cumple un mes de la operación Absolute Resolve, con la que EEUU logró la captura de Maduro. El Confidencial reconstruye el ataque a través de los fallecidos con ayuda de un equipo de analistas OSINT, medios y fuentes abiertas; La Moraleja: la investigación del campo de golf amenaza ya con ampliarse al delito urbanístico: Los denunciantes amplían su acusación y apuntan a que el espacio deportivo se construyó en una zona verde pública y se destinó a una actividad privada en contra de lo establecido en el Plan General de Ordenación Urbana de Alcobendas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-03T07:08:17Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Se investigan los vínculos del PSOE de Aragón con el gigante de las renovables del caso Leire Díez",
-      "subtitle": "Dirigentes y cargos locales del PSOE están nómina de Forestalia, la empresa de renovables que recibió una ayuda de 17,3 millones de euros del Gobierno de Pedro Sánchez tras la mediación de la fontanera de Ferraz",
-      "url": "https://www.elconfidencial.com/espana/2026-02-02/psoe-aragon-elecciones-uco-renovables-leire-forestalia_4294500/",
-      "scraped_at": "2026-02-02T07:16:36Z"
+      "title": "Pilar Alegría entra en pánico: Ferraz envía peones de Sánchez y monta un 'call center' para frenar la debacle",
+      "subtitle": "Ferraz ha desplazado a sus fontaneros a Zaragoza para supervisar la campaña de la exministra de Educación y exportavoz del Gobierno de Pedro Sánchez con el objetivo de evitar otra debacle en la estrategia electoral de Moncloa",
+      "url": "https://www.elconfidencial.com/espana/2026-02-03/psoe-aragon-elecciones-alegria-panico-ferraz-cabezon_4295613/",
+      "scraped_at": "2026-02-03T07:08:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Nadie sabe lo que hemos pasado\". Cómo Alcaraz silenció el ruido y entró en el Olimpo",
-      "subtitle": "La ruptura con Juan Carlos Ferrero empañó el final del 2025. La figura de Samu López generó dudas, pero el equipo ha llevado a Carlitos a hacer historia una vez más",
-      "url": "https://www.elconfidencial.com/deportes/tenis/2026-02-01/alcaraz-djokovic-open-de-australia-samu-lopez_4295032/",
-      "scraped_at": "2026-02-02T07:16:36Z"
+      "title": "Investigación visual: así fue la captura de Maduro contada a través de los caídos",
+      "subtitle": "Se cumple un mes de la operación Absolute Resolve, con la que EEUU logró la captura de Maduro. El Confidencial reconstruye el ataque a través de los fallecidos con ayuda de un equipo de analistas OSINT, medios y fuentes abiertas",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-03/investigacion-visual-reconstruccion-de-la-operacion-militar-en-venezuela-contada-a-traves-de-los-caidos_4295755/",
+      "scraped_at": "2026-02-03T07:08:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Juan del Val acalla a los críticos literarios: \"Le puede sorprender a vuestro ego\"",
-      "subtitle": "El colaborador, en un vídeo viral, manda un recado a los escritores y críticos que se han lanzado en tromba contra él tras su Premio Planeta",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-01-31/juan-del-val-criticos-literarios-monumental-ego-movidas-infantiles_4294780/",
-      "scraped_at": "2026-02-02T07:16:37Z"
+      "title": "La Moraleja: la investigación del campo de golf amenaza ya con ampliarse al delito urbanístico",
+      "subtitle": "Los denunciantes amplían su acusación y apuntan a que el espacio deportivo se construyó en una zona verde pública y se destinó a una actividad privada en contra de lo establecido en el Plan General de Ordenación Urbana de Alcobendas",
+      "url": "https://www.elconfidencial.com/espana/2026-02-03/investigacion-campo-golf-moraleja-delito-urbanistico_4294083/",
+      "scraped_at": "2026-02-03T07:08:16Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Manu o Rosa, ¿quién tiene más probabilidades de llevarse el bote en Antena 3?",
+      "subtitle": "Repasamos las estadísticas del histórico pulso entre los dos concursantes, así como sus diferentes estrategias en &#039;El rosco&#039;",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-02-02/pasapalabra-manu-rosa-duelo-estadisticas-estrategia-bote-antena3_4295683/",
+      "scraped_at": "2026-02-03T07:08:17Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Azcón necesitará a un Vox crecido y el PSOE de Alegría se desploma: El Partido Popular mantendría sus 28 escaños y los de Santiago Abascal subirían; Casi el 50% de los aragoneses apoyan el adelanto electoral: Estudiantes y parados respaldan masivamente la decisión tomada por Azcón; Pilar Alegría suspende y es la quinta líder en valoración: El popular Azcón es el único candidato que aprueba, el mejor puntuado y conocido por los electores. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-02T07:16:32Z",
+  "summary": "Resumen del día en ABC.es: El CNI retiró el dispositivo que vigilaba el avión de Delcy cuando apareció Ábalos en Barajas: ABC accede al chat que usó el grupo de agentes: «Cerramos cobertura, esto está achicharrado»; La ruptura con Caixa llevó a Sánchez a idear su falso fondo soberano: La idea de hacer de Criteria una SEPI privada para entrar en grandes compañías al estilo Telefónica, se desbarató con la negativa del presidente del conglomerado catalán a comprar Celsa; El presidente del Gobierno crea un comité de crisis por las pensiones y asume que tendrá que trocear el decreto: Ha ordenado a Félix Bolaños, María Jesús Montero e Isabel Rodríguez negociar con los grupos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-03T07:08:12Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Azcón necesitará a un Vox crecido y el PSOE de Alegría se desploma",
-      "subtitle": "El Partido Popular mantendría sus 28 escaños y los de Santiago Abascal subirían",
-      "url": "https://www.abc.es/espana/aragon/azcon-volvera-necesitar-vox-crecido-alegria-desploma-20260201215843-nt.html",
-      "scraped_at": "2026-02-02T07:16:31Z"
+      "title": "El CNI retiró el dispositivo que vigilaba el avión de Delcy cuando apareció Ábalos en Barajas",
+      "subtitle": "ABC accede al chat que usó el grupo de agentes: «Cerramos cobertura, esto está achicharrado»",
+      "url": "https://www.abc.es/espana/gobierno-ordeno-retirar-equipo-cni-vigilaba-avion-20260203040325-nt.html",
+      "scraped_at": "2026-02-03T07:08:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Casi el 50% de los aragoneses apoyan el adelanto electoral",
-      "subtitle": "Estudiantes y parados respaldan masivamente la decisión tomada por Azcón",
-      "url": "https://www.abc.es/espana/aragon/aragoneses-apoyan-adelanto-electoral-20260201215847-nt.html",
-      "scraped_at": "2026-02-02T07:16:31Z"
+      "title": "La ruptura con Caixa llevó a Sánchez a idear su falso fondo soberano",
+      "subtitle": "La idea de hacer de Criteria una SEPI privada para entrar en grandes compañías al estilo Telefónica, se desbarató con la negativa del presidente del conglomerado catalán a comprar Celsa",
+      "url": "https://www.abc.es/economia/nuevo-ico-sanchez-alternativa-vehiculo-inversor-empresas-20260202040346-nt.html",
+      "scraped_at": "2026-02-03T07:08:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pilar Alegría suspende y es la quinta líder en valoración",
-      "subtitle": "El popular Azcón es el único candidato que aprueba, el mejor puntuado y conocido por los electores",
-      "url": "https://www.abc.es/espana/aragon/pilar-alegria-suspende-quinta-valoracion-20260201215850-nt.html",
-      "scraped_at": "2026-02-02T07:16:31Z"
+      "title": "El presidente del Gobierno crea un comité de crisis por las pensiones y asume que tendrá que trocear el decreto",
+      "subtitle": "Ha ordenado a Félix Bolaños, María Jesús Montero e Isabel Rodríguez negociar con los grupos",
+      "url": "https://www.abc.es/espana/sanchez-crea-comite-crisis-moncloa-salvar-decreto-20260203230434-nt.html",
+      "scraped_at": "2026-02-03T07:08:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las horas más bajas del AVE tras más de 30 años de rotundo éxito",
-      "subtitle": "El siniestro pone en guardia al sector turístico y amenaza la expansión de los operadores, tras dos años de récord de pasajeros en la alta velocidad ferroviaria",
-      "url": "https://www.abc.es/economia/miedo-tren-viajes-lentos-trasvase-avion-carretera-20260201031123-nt.html",
-      "scraped_at": "2026-02-02T07:16:32Z"
+      "title": "El PSOE elimina a Zapatero de la campaña electoral tras ser el invitado estrella en las anteriores",
+      "subtitle": "En esta ocasión, a diferencia de Extremadura, ni tan siquiera acudió en la precampaña a arropar a una candidata muy cercana",
+      "url": "https://www.abc.es/espana/aragon/psoe-elimina-zapatero-segunda-vez-campana-electoral-20260203041337-nt.html",
+      "scraped_at": "2026-02-03T07:08:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Premios Open Australia",
-      "subtitle": "Estos son los premios económicos que reparten el primer Grand Slam de la temporada",
-      "url": "https://www.abc.es/deportes/tenis/dinero-gana-campeon-open-australia-20260201070000-nt.html",
-      "scraped_at": "2026-02-02T07:16:32Z"
+      "title": "Adif Madrid-Barcelona",
+      "subtitle": "Las nueve suspensiones de servicios de Renfe, Iryo y Ouigo, que afectan a trayectos de primera y última hora, darán más tiempo para hacer el mantenimiento nocturno",
+      "url": "https://www.abc.es/economia/adif-pide-suprimir-operadoras-ultimo-servicio-alta-20260202134421-nt.html",
+      "scraped_at": "2026-02-03T07:08:12Z"
     }
   ]
 }
