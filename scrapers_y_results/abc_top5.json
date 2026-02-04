@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El CNI retiró el dispositivo que vigilaba el avión de Delcy cuando apareció Ábalos en Barajas: ABC accede al chat que usó el grupo de agentes: «Cerramos cobertura, esto está achicharrado»; La ruptura con Caixa llevó a Sánchez a idear su falso fondo soberano: La idea de hacer de Criteria una SEPI privada para entrar en grandes compañías al estilo Telefónica, se desbarató con la negativa del presidente del conglomerado catalán a comprar Celsa; El presidente del Gobierno crea un comité de crisis por las pensiones y asume que tendrá que trocear el decreto: Ha ordenado a Félix Bolaños, María Jesús Montero e Isabel Rodríguez negociar con los grupos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-03T07:08:12Z",
+  "summary": "Resumen del día en ABC.es: Una simple declaración responsable de no tener antecedentes servirá para regularizar inmigrantes: Podrá hacerse si su país o en el que vivieron los últimos cinco años no les da el certificado; La Policía detecta la llegada de ilegales desde otros puntos de Europa por el efecto llamada: Una oleada de argelinos procedentes de Francia está intentando consolidar su situación en Europa; El chat del CNI, tras la llegada de Delcy: «Vaya tela con el ministro»: Los agentes que vigilaban el vuelo de la entonces vicepresidenta de Maduro detectaron el «avispero» de la embajada venezolana y cuestionaron la actuación del Ejecutivo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-04T07:08:23Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El CNI retiró el dispositivo que vigilaba el avión de Delcy cuando apareció Ábalos en Barajas",
-      "subtitle": "ABC accede al chat que usó el grupo de agentes: «Cerramos cobertura, esto está achicharrado»",
-      "url": "https://www.abc.es/espana/gobierno-ordeno-retirar-equipo-cni-vigilaba-avion-20260203040325-nt.html",
-      "scraped_at": "2026-02-03T07:08:10Z"
+      "title": "Una simple declaración responsable de no tener antecedentes servirá para regularizar inmigrantes",
+      "subtitle": "Podrá hacerse si su país o en el que vivieron los últimos cinco años no les da el certificado",
+      "url": "https://www.abc.es/espana/simple-declaracion-responsable-tener-antecedentes-servira-regularizar-20260204040938-nt.html",
+      "scraped_at": "2026-02-04T07:08:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "La ruptura con Caixa llevó a Sánchez a idear su falso fondo soberano",
-      "subtitle": "La idea de hacer de Criteria una SEPI privada para entrar en grandes compañías al estilo Telefónica, se desbarató con la negativa del presidente del conglomerado catalán a comprar Celsa",
-      "url": "https://www.abc.es/economia/nuevo-ico-sanchez-alternativa-vehiculo-inversor-empresas-20260202040346-nt.html",
-      "scraped_at": "2026-02-03T07:08:10Z"
+      "title": "La Policía detecta la llegada de ilegales desde otros puntos de Europa por el efecto llamada",
+      "subtitle": "Una oleada de argelinos procedentes de Francia está intentando consolidar su situación en Europa",
+      "url": "https://www.abc.es/espana/policia-detecta-llegada-inmigrantes-puntos-europa-nueva-20260204041021-nt.html",
+      "scraped_at": "2026-02-04T07:08:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "El presidente del Gobierno crea un comité de crisis por las pensiones y asume que tendrá que trocear el decreto",
-      "subtitle": "Ha ordenado a Félix Bolaños, María Jesús Montero e Isabel Rodríguez negociar con los grupos",
-      "url": "https://www.abc.es/espana/sanchez-crea-comite-crisis-moncloa-salvar-decreto-20260203230434-nt.html",
-      "scraped_at": "2026-02-03T07:08:11Z"
+      "title": "El chat del CNI, tras la llegada de Delcy: «Vaya tela con el ministro»",
+      "subtitle": "Los agentes que vigilaban el vuelo de la entonces vicepresidenta de Maduro detectaron el «avispero» de la embajada venezolana y cuestionaron la actuación del Ejecutivo",
+      "url": "https://www.abc.es/espana/chat-cni-tras-llegada-delcy-vaya-tela-20260204041055-nt.html",
+      "scraped_at": "2026-02-04T07:08:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE elimina a Zapatero de la campaña electoral tras ser el invitado estrella en las anteriores",
-      "subtitle": "En esta ocasión, a diferencia de Extremadura, ni tan siquiera acudió en la precampaña a arropar a una candidata muy cercana",
-      "url": "https://www.abc.es/espana/aragon/psoe-elimina-zapatero-segunda-vez-campana-electoral-20260203041337-nt.html",
-      "scraped_at": "2026-02-03T07:08:11Z"
+      "title": "La UE avisó en 2022 del «final de la vida útil» de las vías de la línea del accidente en Adamuz",
+      "subtitle": "El Banco Europeo de Inversiones concedió al Gobierno un préstamo de 90 millones para «mantener los estándares de seguridad» en la ruta Madrid-Sevilla",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/el-20260204041351-nts.html",
+      "scraped_at": "2026-02-04T07:08:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Adif Madrid-Barcelona",
-      "subtitle": "Las nueve suspensiones de servicios de Renfe, Iryo y Ouigo, que afectan a trayectos de primera y última hora, darán más tiempo para hacer el mantenimiento nocturno",
-      "url": "https://www.abc.es/economia/adif-pide-suprimir-operadoras-ultimo-servicio-alta-20260202134421-nt.html",
-      "scraped_at": "2026-02-03T07:08:12Z"
+      "title": "Óscar Puente",
+      "subtitle": "El ministro de Transportes acude al Congreso con tal de despejar dudas sobre la actuación en los accidentes de los trenes de Adamuz y Gelida",
+      "url": "https://www.abc.es/espana/oscar-puente-comparece-congreso-rendir-cuentas-accidentes-20260203142851-nt.html",
+      "scraped_at": "2026-02-04T07:08:23Z"
     }
   ]
 }

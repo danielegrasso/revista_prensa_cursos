@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Pilar Alegría entra en pánico: Ferraz envía peones de Sánchez y monta un 'call center' para frenar la debacle: Ferraz ha desplazado a sus fontaneros a Zaragoza para supervisar la campaña de la exministra de Educación y exportavoz del Gobierno de Pedro Sánchez con el objetivo de evitar otra debacle en la estrategia electoral de Moncloa; Investigación visual: así fue la captura de Maduro contada a través de los caídos: Se cumple un mes de la operación Absolute Resolve, con la que EEUU logró la captura de Maduro. El Confidencial reconstruye el ataque a través de los fallecidos con ayuda de un equipo de analistas OSINT, medios y fuentes abiertas; La Moraleja: la investigación del campo de golf amenaza ya con ampliarse al delito urbanístico: Los denunciantes amplían su acusación y apuntan a que el espacio deportivo se construyó en una zona verde pública y se destinó a una actividad privada en contra de lo establecido en el Plan General de Ordenación Urbana de Alcobendas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-03T07:08:17Z",
+  "summary": "Resumen del día en El Confidencial: Broncano renueva por dos temporadas con RTVE con una suculenta subida de sueldo: El ente público asegura dos cursos más de &#039;La revuelta&#039;, por cada uno de cuyos capítulos pagará 98.600 euros en lugar de los 87.975 euros actuales. El programa podría sobrevivir así al mandato de Pedro Sánchez; Las andanzas de Epstein por Barcelona: una web de citas de lujo y una marisquería de moda: Los correos del magnate desvelan que era asiduo de la capital catalana, donde comía en los templos gastronómicos frecuentados por jugadores del Barça y acudía a lugares sofisticados; Guardiola y Vox chocan y se asoman a una primera investidura fallida: La desconfianza entre PP y Vox en Extremadura aleja las opciones de un acuerdo antes del 3 de marzo y amenaza con salpicar la negociación en Aragón y Castilla y León. Los de Abascal no se conformarán sólo con el área de Agricultura. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-04T07:08:29Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Pilar Alegría entra en pánico: Ferraz envía peones de Sánchez y monta un 'call center' para frenar la debacle",
-      "subtitle": "Ferraz ha desplazado a sus fontaneros a Zaragoza para supervisar la campaña de la exministra de Educación y exportavoz del Gobierno de Pedro Sánchez con el objetivo de evitar otra debacle en la estrategia electoral de Moncloa",
-      "url": "https://www.elconfidencial.com/espana/2026-02-03/psoe-aragon-elecciones-alegria-panico-ferraz-cabezon_4295613/",
-      "scraped_at": "2026-02-03T07:08:15Z"
+      "title": "Broncano renueva por dos temporadas con RTVE con una suculenta subida de sueldo",
+      "subtitle": "El ente público asegura dos cursos más de &#039;La revuelta&#039;, por cada uno de cuyos capítulos pagará 98.600 euros en lugar de los 87.975 euros actuales. El programa podría sobrevivir así al mandato de Pedro Sánchez",
+      "url": "https://www.elconfidencial.com/cultura/2026-02-04/renovacion-la-revuelta-rtve-broncano-1hms_4296256/",
+      "scraped_at": "2026-02-04T07:08:28Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Investigación visual: así fue la captura de Maduro contada a través de los caídos",
-      "subtitle": "Se cumple un mes de la operación Absolute Resolve, con la que EEUU logró la captura de Maduro. El Confidencial reconstruye el ataque a través de los fallecidos con ayuda de un equipo de analistas OSINT, medios y fuentes abiertas",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-03/investigacion-visual-reconstruccion-de-la-operacion-militar-en-venezuela-contada-a-traves-de-los-caidos_4295755/",
-      "scraped_at": "2026-02-03T07:08:15Z"
+      "title": "Las andanzas de Epstein por Barcelona: una web de citas de lujo y una marisquería de moda",
+      "subtitle": "Los correos del magnate desvelan que era asiduo de la capital catalana, donde comía en los templos gastronómicos frecuentados por jugadores del Barça y acudía a lugares sofisticados",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-04/epstein-barcelona-web-citas-marisqueria_4296605/",
+      "scraped_at": "2026-02-04T07:08:28Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La Moraleja: la investigación del campo de golf amenaza ya con ampliarse al delito urbanístico",
-      "subtitle": "Los denunciantes amplían su acusación y apuntan a que el espacio deportivo se construyó en una zona verde pública y se destinó a una actividad privada en contra de lo establecido en el Plan General de Ordenación Urbana de Alcobendas",
-      "url": "https://www.elconfidencial.com/espana/2026-02-03/investigacion-campo-golf-moraleja-delito-urbanistico_4294083/",
-      "scraped_at": "2026-02-03T07:08:16Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Manu o Rosa, ¿quién tiene más probabilidades de llevarse el bote en Antena 3?",
-      "subtitle": "Repasamos las estadísticas del histórico pulso entre los dos concursantes, así como sus diferentes estrategias en &#039;El rosco&#039;",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-02-02/pasapalabra-manu-rosa-duelo-estadisticas-estrategia-bote-antena3_4295683/",
-      "scraped_at": "2026-02-03T07:08:17Z"
+      "title": "Guardiola y Vox chocan y se asoman a una primera investidura fallida",
+      "subtitle": "La desconfianza entre PP y Vox en Extremadura aleja las opciones de un acuerdo antes del 3 de marzo y amenaza con salpicar la negociación en Aragón y Castilla y León. Los de Abascal no se conformarán sólo con el área de Agricultura",
+      "url": "https://www.elconfidencial.com/espana/2026-02-04/guardiola-y-vox-cronifican-su-hostilidad-y-se-asoman-a-una-primera-investidura-fallida_4296472/",
+      "scraped_at": "2026-02-04T07:08:29Z"
     }
   ]
 }

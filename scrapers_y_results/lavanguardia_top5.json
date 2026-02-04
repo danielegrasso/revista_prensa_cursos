@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno acepta trocear el decreto para blindar la subida de las pensiones: Junts garantiza su apoyo si la regularización se aprueba en una norma en solitario; Cincuenta millones con las costuras tensas: Las crisis de crecimiento que pueden colapsar España; Venezuela cumple un mes sin Maduro con pocos avances hacia la restauración democrática: La transición inconclusa, pese a la liberación de presos políticos y las rendijas mostradas por la represión, sitúa a Caracas en el camino de una tecnocracia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-03T07:08:13Z",
+  "summary": "Resumen del día en La Vanguardia: Trump y Petro aparcan sus diferencias y acuerdan cooperar contra el narcotráfico: El presidente de Colombia califica la reunión a puerta cerrada en la Casa Blanca con un “nueve sobre diez” y confirma la buena sintonía con el estadounidense; La borrasca 'Leonardo' obliga a desalojar a más de 3.000 personas en Cádiz, Jaén y Málaga: Preocupa la posible crecida de ríos por las intensas lluvias que se esperan hoy; Junts apoyará la subida de las pensiones pero tumbará el resto del escudo social: El Gobierno hace equilibrios para ganarse al grupo vasco y encona a Podemos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-04T07:08:27Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno acepta trocear el decreto para blindar la subida de las pensiones",
-      "subtitle": "Junts garantiza su apoyo si la regularización se aprueba en una norma en solitario",
-      "url": "https://www.lavanguardia.com/politica/20260203/11456110/gobierno-acepta-trocear-decreto-blindar-subida-pensiones.html",
-      "scraped_at": "2026-02-03T07:08:13Z"
+      "title": "Trump y Petro aparcan sus diferencias y acuerdan cooperar contra el narcotráfico",
+      "subtitle": "El presidente de Colombia califica la reunión a puerta cerrada en la Casa Blanca con un “nueve sobre diez” y confirma la buena sintonía con el estadounidense",
+      "url": "https://www.lavanguardia.com/internacional/20260203/11457054/trump-petro-aparcan-diferencias-acuerdan-cooperar-narcotrafico.html",
+      "scraped_at": "2026-02-04T07:08:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cincuenta millones con las costuras tensas",
-      "subtitle": "Las crisis de crecimiento que pueden colapsar España",
-      "url": "https://www.lavanguardia.com/politica/20260203/11456141/cincuenta-millones-costuras-tensas.html",
-      "scraped_at": "2026-02-03T07:08:13Z"
+      "title": "La borrasca 'Leonardo' obliga a desalojar a más de 3.000 personas en Cádiz, Jaén y Málaga",
+      "subtitle": "Preocupa la posible crecida de ríos por las intensas lluvias que se esperan hoy",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260204/11457294/borrasca-leonardo-obliga-desalojar-mas-3-000-personas-zonas-inundables-cadiz-jaen-malaga.html",
+      "scraped_at": "2026-02-04T07:08:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Venezuela cumple un mes sin Maduro con pocos avances hacia la restauración democrática",
-      "subtitle": "La transición inconclusa, pese a la liberación de presos políticos y las rendijas mostradas por la represión, sitúa a Caracas en el camino de una tecnocracia",
-      "url": "https://www.lavanguardia.com/internacional/20260203/11455963/venezuela-cumple-mes-maduro-pocos-avances-restauracion-democratica.html",
-      "scraped_at": "2026-02-03T07:08:13Z"
+      "title": "Junts apoyará la subida de las pensiones pero tumbará el resto del escudo social",
+      "subtitle": "El Gobierno hace equilibrios para ganarse al grupo vasco y encona a Podemos",
+      "url": "https://www.lavanguardia.com/politica/20260204/11457007/junts-apoyara-subida-pensiones-tumbara-resto-escudo-social.html",
+      "scraped_at": "2026-02-04T07:08:26Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump reaviva el fantasma del fraude en las presidenciales del 2020",
-      "subtitle": "Los demócratas denuncian la presencia de Tulsi Gabbard, directoria de los servicios de inteligencia, durante una redada en el centro electoral de Fulton",
-      "url": "https://www.lavanguardia.com/internacional/20260203/11455943/trump-reaviva-fantasma-fraude-electoral-incautacion-papeletas-georgia.html",
-      "scraped_at": "2026-02-03T07:08:13Z"
+      "title": "Cuando prohibir es necesario",
+      "subtitle": "Siempre es mejor convencer que mandar. O concienciar que prohibir. Por eso es fácil que la primera reacción ante la decisión del Gobierno de impedir el uso de las",
+      "url": "https://www.lavanguardia.com/opinion/20260204/11457066/prohibir-necesario.html",
+      "scraped_at": "2026-02-04T07:08:26Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Herida muy grave una mujer con huesos rotos y el cuerpo quemado tras sufrir una agresión",
-      "subtitle": "Los hechos se han producido en torno a las 10 horas en una vivienda de la calle Constitución y los primeros indicios no apuntan a que se trate de un caso de",
-      "url": "https://www.lavanguardia.com/local/madrid/20260202/11455878/herida-grave-mujer-huesos-rotos-cuerpo-quemado-sufrir-agresion.html",
-      "scraped_at": "2026-02-03T07:08:13Z"
+      "title": "‘Com vaig aprendre a conduir’: (★★★★✩): confidente y acosador",
+      "subtitle": "“Hemos descubierto al fin un gran texto, con un elaborado mecanismo dramático de equilibrios entre el drama y el humor, y entre recursos clásicos, brechtianos y",
+      "url": "https://www.lavanguardia.com/cultura/20260203/11456721/com-vaig-aprendre-conduir-confidente-acosador.html",
+      "scraped_at": "2026-02-04T07:08:27Z"
     }
   ]
 }
