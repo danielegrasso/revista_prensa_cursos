@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump y Petro aparcan sus diferencias y acuerdan cooperar contra el narcotráfico: El presidente de Colombia califica la reunión a puerta cerrada en la Casa Blanca con un “nueve sobre diez” y confirma la buena sintonía con el estadounidense; La borrasca 'Leonardo' obliga a desalojar a más de 3.000 personas en Cádiz, Jaén y Málaga: Preocupa la posible crecida de ríos por las intensas lluvias que se esperan hoy; Junts apoyará la subida de las pensiones pero tumbará el resto del escudo social: El Gobierno hace equilibrios para ganarse al grupo vasco y encona a Podemos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-04T07:08:27Z",
+  "summary": "Resumen del día en La Vanguardia: Trump siembra dudas sobre la limpieza de las próximas legislativas: El presidente afirma que los demócratas quieren dejar votar a los indocumentados: “Si no los sacamos, los republicanos nunca volverán a ganar otra elección”; El clima es más amenaza: Goretti, Harri, Ingrid, Joseph, Kristin y, ahora, Leonardo. Estos nombres no corresponden a la lista de Jeffrey Epstein, sino que son los apelativos que han recibido las; Ministro, ¿cuándo volverá la normalidad?: Puente saca pecho por dar la cara, pero siguen sin vislumbrarse las soluciones al caos después de 17 días. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-05T07:14:23Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump y Petro aparcan sus diferencias y acuerdan cooperar contra el narcotráfico",
-      "subtitle": "El presidente de Colombia califica la reunión a puerta cerrada en la Casa Blanca con un “nueve sobre diez” y confirma la buena sintonía con el estadounidense",
-      "url": "https://www.lavanguardia.com/internacional/20260203/11457054/trump-petro-aparcan-diferencias-acuerdan-cooperar-narcotrafico.html",
-      "scraped_at": "2026-02-04T07:08:25Z"
+      "title": "Trump siembra dudas sobre la limpieza de las próximas legislativas",
+      "subtitle": "El presidente afirma que los demócratas quieren dejar votar a los indocumentados: “Si no los sacamos, los republicanos nunca volverán a ganar otra elección”",
+      "url": "https://www.lavanguardia.com/internacional/20260205/11457984/trump-impone-relato-fraude-electoral-llama-nacionalizar-comicios.html",
+      "scraped_at": "2026-02-05T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La borrasca 'Leonardo' obliga a desalojar a más de 3.000 personas en Cádiz, Jaén y Málaga",
-      "subtitle": "Preocupa la posible crecida de ríos por las intensas lluvias que se esperan hoy",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260204/11457294/borrasca-leonardo-obliga-desalojar-mas-3-000-personas-zonas-inundables-cadiz-jaen-malaga.html",
-      "scraped_at": "2026-02-04T07:08:25Z"
+      "title": "El clima es más amenaza",
+      "subtitle": "Goretti, Harri, Ingrid, Joseph, Kristin y, ahora, Leonardo. Estos nombres no corresponden a la lista de Jeffrey Epstein, sino que son los apelativos que han recibido las",
+      "url": "https://www.lavanguardia.com/opinion/20260205/11458023/clima-mas-amenaza.html",
+      "scraped_at": "2026-02-05T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Junts apoyará la subida de las pensiones pero tumbará el resto del escudo social",
-      "subtitle": "El Gobierno hace equilibrios para ganarse al grupo vasco y encona a Podemos",
-      "url": "https://www.lavanguardia.com/politica/20260204/11457007/junts-apoyara-subida-pensiones-tumbara-resto-escudo-social.html",
-      "scraped_at": "2026-02-04T07:08:26Z"
+      "title": "Ministro, ¿cuándo volverá la normalidad?",
+      "subtitle": "Puente saca pecho por dar la cara, pero siguen sin vislumbrarse las soluciones al caos después de 17 días",
+      "url": "https://www.lavanguardia.com/politica/20260205/11457952/ministro-cuando-volvera-normalidad.html",
+      "scraped_at": "2026-02-05T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuando prohibir es necesario",
-      "subtitle": "Siempre es mejor convencer que mandar. O concienciar que prohibir. Por eso es fácil que la primera reacción ante la decisión del Gobierno de impedir el uso de las",
-      "url": "https://www.lavanguardia.com/opinion/20260204/11457066/prohibir-necesario.html",
-      "scraped_at": "2026-02-04T07:08:26Z"
+      "title": "El colapso de Rodalies se dio después de que Adif ejecutara el 50% del presupuesto de 2025",
+      "subtitle": "El porcentaje en 2024 fue del 47% y en el 2023, del 29%",
+      "url": "https://www.lavanguardia.com/economia/20260205/11457989/colapso-rodalies-dio-adif-ejecutara-50-presupuesto-2025.html",
+      "scraped_at": "2026-02-05T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "‘Com vaig aprendre a conduir’: (★★★★✩): confidente y acosador",
-      "subtitle": "“Hemos descubierto al fin un gran texto, con un elaborado mecanismo dramático de equilibrios entre el drama y el humor, y entre recursos clásicos, brechtianos y",
-      "url": "https://www.lavanguardia.com/cultura/20260203/11456721/com-vaig-aprendre-conduir-confidente-acosador.html",
-      "scraped_at": "2026-02-04T07:08:27Z"
+      "title": "¿China ha ganado el futuro? Pekín supera a EE.UU. en la carrera por la energía nuclear",
+      "subtitle": "En un contexto de creciente demanda eléctrica y descarbonización, la energía atómica se postula como clave para el porvenir energético del planeta y el Gigante",
+      "url": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260205/11379563/china-gana-futuro-pekin-supera-ee-uu-carrera-energia-nuclear.html",
+      "scraped_at": "2026-02-05T07:14:23Z"
     }
   ]
 }

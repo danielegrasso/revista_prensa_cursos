@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Broncano renueva por dos temporadas con RTVE con una suculenta subida de sueldo: El ente público asegura dos cursos más de &#039;La revuelta&#039;, por cada uno de cuyos capítulos pagará 98.600 euros en lugar de los 87.975 euros actuales. El programa podría sobrevivir así al mandato de Pedro Sánchez; Las andanzas de Epstein por Barcelona: una web de citas de lujo y una marisquería de moda: Los correos del magnate desvelan que era asiduo de la capital catalana, donde comía en los templos gastronómicos frecuentados por jugadores del Barça y acudía a lugares sofisticados; Guardiola y Vox chocan y se asoman a una primera investidura fallida: La desconfianza entre PP y Vox en Extremadura aleja las opciones de un acuerdo antes del 3 de marzo y amenaza con salpicar la negociación en Aragón y Castilla y León. Los de Abascal no se conformarán sólo con el área de Agricultura. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-04T07:08:29Z",
+  "summary": "Resumen del día en El Confidencial: \"¡Hay que sacar a la gente a votar!\": el PSOE se asoma al peor resultado histórico en Aragón: La candidata socialista recurre a la desesperada a movilizar a su militancia enviándoles  wasaps que apelan a la épica, reniegan de las encuestas y arremeten contra el PP. En su partido creen que la estrategia es equivocada y culpan a Ferraz; Epstein hizo de Barcelona su centro de operaciones europeo: \"Esta es más guapa y dulce…\": El reclutador de menores del magnate, Daniel Siad, se instaló en la capital catalana en 2017, por donde pasaron mujeres europeas que luego fueron misses. La mayoría procedían de países de Europa del Este; Elisa Mouiláa: Así lo ha anunciado en un comunicado que ha publicado en su perfil de X, en el que asegura: &quot;No es porque no sea verdad, sino porque nadie debería cargar sola con algo así&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-05T07:14:26Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Broncano renueva por dos temporadas con RTVE con una suculenta subida de sueldo",
-      "subtitle": "El ente público asegura dos cursos más de &#039;La revuelta&#039;, por cada uno de cuyos capítulos pagará 98.600 euros en lugar de los 87.975 euros actuales. El programa podría sobrevivir así al mandato de Pedro Sánchez",
-      "url": "https://www.elconfidencial.com/cultura/2026-02-04/renovacion-la-revuelta-rtve-broncano-1hms_4296256/",
-      "scraped_at": "2026-02-04T07:08:28Z"
+      "title": "\"¡Hay que sacar a la gente a votar!\": el PSOE se asoma al peor resultado histórico en Aragón",
+      "subtitle": "La candidata socialista recurre a la desesperada a movilizar a su militancia enviándoles  wasaps que apelan a la épica, reniegan de las encuestas y arremeten contra el PP. En su partido creen que la estrategia es equivocada y culpan a Ferraz",
+      "url": "https://www.elconfidencial.com/espana/2026-02-05/elecciones-aragon-8f-psoe-peor-resultado-historico_4297089/",
+      "scraped_at": "2026-02-05T07:14:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las andanzas de Epstein por Barcelona: una web de citas de lujo y una marisquería de moda",
-      "subtitle": "Los correos del magnate desvelan que era asiduo de la capital catalana, donde comía en los templos gastronómicos frecuentados por jugadores del Barça y acudía a lugares sofisticados",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-04/epstein-barcelona-web-citas-marisqueria_4296605/",
-      "scraped_at": "2026-02-04T07:08:28Z"
+      "title": "Epstein hizo de Barcelona su centro de operaciones europeo: \"Esta es más guapa y dulce…\"",
+      "subtitle": "El reclutador de menores del magnate, Daniel Siad, se instaló en la capital catalana en 2017, por donde pasaron mujeres europeas que luego fueron misses. La mayoría procedían de países de Europa del Este",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-05/epstein-barcelona-centro-operaciones-europeo_4297348/",
+      "scraped_at": "2026-02-05T07:14:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Guardiola y Vox chocan y se asoman a una primera investidura fallida",
-      "subtitle": "La desconfianza entre PP y Vox en Extremadura aleja las opciones de un acuerdo antes del 3 de marzo y amenaza con salpicar la negociación en Aragón y Castilla y León. Los de Abascal no se conformarán sólo con el área de Agricultura",
-      "url": "https://www.elconfidencial.com/espana/2026-02-04/guardiola-y-vox-cronifican-su-hostilidad-y-se-asoman-a-una-primera-investidura-fallida_4296472/",
-      "scraped_at": "2026-02-04T07:08:29Z"
+      "title": "Elisa Mouiláa",
+      "subtitle": "Así lo ha anunciado en un comunicado que ha publicado en su perfil de X, en el que asegura: &quot;No es porque no sea verdad, sino porque nadie debería cargar sola con algo así&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-02-04/mouliaa-inigo-errejon-retira-acusacion_4297154/",
+      "scraped_at": "2026-02-05T07:14:26Z"
     }
   ]
 }

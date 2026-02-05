@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno no da por perdido el apoyo de Junts al escudo social pese a su 'no' a las medidas antidesahucios: El Ejecutivo allana el camino para revalorizar las pensiones tras desgajar el decreto del escudo social con la moratoria, que caerá casi con total seguridad tras el rechazo de los independentistas catalanes; Sobreestimulación, dopamina, miedo al rechazo: así es como las redes sociales usan la neurociencia contra los adolescentes: Años de evidencia sobre el daño cerebral en menores impulsan ahora una oleada regulatoria global que comenzó en Australia, seguirá en Europa y ha abierto \"el juicio del siglo\" en EEUU; La Justicia confirma 433 años de cárcel para un pederasta en serie que 'cazaba' menores en Fortnite: El Tribunal Superior de Madrid avala íntegramente la condena impuesta por contactar con 25 niños a través del videojuego y conseguir que le mandaran imágenes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-04T07:08:21Z",
+  "summary": "Resumen del día en elDiario.es: Qué tiene que ver la corriente en chorro y el cambio climático con el tren de borrascas que azota España: Aunque aún \"hay que estudiarlo\" más a fondo, según la AEMET, la 'jet stream', debilitada por la emisiones de CO2, está haciendo que las tormentas 'bajen' hasta la pensinsula ibérica en lugar de avanzar por el norte como es lo más habitual; Azcón embarra el final de campaña y agita el bulo de que la encuestadora contratada por Alegría tiene relación con Salazar: El PP acusa sin pruebas a la candidata socialista de contar con los servicios del exasesor de Sánchez denunciado por acoso a pesar de que el PSOE contrató para la campaña aragonesa a Global Europa Demoscopia S.L., una compañía especializada en estudios de mercado y de opinión pública cuyo administrador único, Juan Miguel Becerra, no mantiene ningún vínculo profesional ni personal con Salazar; La Muela y la transversalidad del voto en el 8F: “Aquí se vota a la persona”: El mismo vecino que apoya a un alcalde aragonesista en las municipales puede optar por el PP o Vox en las autonómicas sin conflicto aparente. La gestión municipal, el recuerdo del pasado corrupto y la llegada de grandes inversiones son claves de un resultado electoral que rompe con la lógica de bloques. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-05T07:14:18Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno no da por perdido el apoyo de Junts al escudo social pese a su 'no' a las medidas antidesahucios",
-      "subtitle": "El Ejecutivo allana el camino para revalorizar las pensiones tras desgajar el decreto del escudo social con la moratoria, que caerá casi con total seguridad tras el rechazo de los independentistas catalanes",
-      "url": "https://www.eldiario.es/politica/junts-anuncia-no-moratoria-antideshaucios-gobierno-logra-apoyos-pensiones_1_12960388.html",
-      "scraped_at": "2026-02-04T07:08:19Z"
+      "title": "Qué tiene que ver la corriente en chorro y el cambio climático con el tren de borrascas que azota España",
+      "subtitle": "Aunque aún \"hay que estudiarlo\" más a fondo, según la AEMET, la 'jet stream', debilitada por la emisiones de CO2, está haciendo que las tormentas 'bajen' hasta la pensinsula ibérica en lugar de avanzar por el norte como es lo más habitual",
+      "url": "https://www.eldiario.es/sociedad/ver-corriente-chorro-cambio-climatico-tren-borrascas-azota-espana_1_12962100.html",
+      "scraped_at": "2026-02-05T07:14:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sobreestimulación, dopamina, miedo al rechazo: así es como las redes sociales usan la neurociencia contra los adolescentes",
-      "subtitle": "Años de evidencia sobre el daño cerebral en menores impulsan ahora una oleada regulatoria global que comenzó en Australia, seguirá en Europa y ha abierto \"el juicio del siglo\" en EEUU",
-      "url": "https://www.eldiario.es/tecnologia/sobreestimulacion-dopamina-miedo-rechazo-redes-sociales-neurociencia-adolescentes_1_12958223.html",
-      "scraped_at": "2026-02-04T07:08:19Z"
+      "title": "Azcón embarra el final de campaña y agita el bulo de que la encuestadora contratada por Alegría tiene relación con Salazar",
+      "subtitle": "El PP acusa sin pruebas a la candidata socialista de contar con los servicios del exasesor de Sánchez denunciado por acoso a pesar de que el PSOE contrató para la campaña aragonesa a Global Europa Demoscopia S.L., una compañía especializada en estudios de mercado y de opinión pública cuyo administrador único, Juan Miguel Becerra, no mantiene ningún vínculo profesional ni personal con Salazar",
+      "url": "https://www.eldiario.es/aragon/politica/azcon-embarra-final-campana-agita-bulo-encuestadora-contratada-alegria-relacion-salazar_1_12963686.html",
+      "scraped_at": "2026-02-05T07:14:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La Justicia confirma 433 años de cárcel para un pederasta en serie que 'cazaba' menores en Fortnite",
-      "subtitle": "El Tribunal Superior de Madrid avala íntegramente la condena impuesta por contactar con 25 niños a través del videojuego y conseguir que le mandaran imágenes",
-      "url": "https://www.eldiario.es/politica/justicia-confirma-433-anos-carcel-pederasta-serie-cazaba-menores-fortnite_1_12940284.html",
-      "scraped_at": "2026-02-04T07:08:20Z"
+      "title": "La Muela y la transversalidad del voto en el 8F: “Aquí se vota a la persona”",
+      "subtitle": "El mismo vecino que apoya a un alcalde aragonesista en las municipales puede optar por el PP o Vox en las autonómicas sin conflicto aparente. La gestión municipal, el recuerdo del pasado corrupto y la llegada de grandes inversiones son claves de un resultado electoral que rompe con la lógica de bloques",
+      "url": "https://www.eldiario.es/aragon/politica/muela-transversalidad-voto-8f-vota-persona_1_12961703.html",
+      "scraped_at": "2026-02-05T07:14:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Carolina, exempleada de Julio Iglesias en Málaga: “Estaba totalmente convencida de que me estaban explotando”",
-      "subtitle": "Esta mujer dominicana fue trasladada en el verano de 2021 desde Punta Cana a la casa del cantante en España para seguir trabajando durante el verano, sin contrato y con visado de turista. Describe jornadas extenuantes y un solo día de libranza. Para dejar el trabajo y que no la intentaran retener, inventó que estaba embarazada",
-      "url": "https://www.eldiario.es/cultura/carolina-exempleada-julio-iglesias-malaga-totalmente-convencida-estaban-explotando_1_12905800.html",
-      "scraped_at": "2026-02-04T07:08:20Z"
+      "title": "Vox mantiene el pulso con el PP en Extremadura hasta después de las elecciones en Aragón",
+      "subtitle": "El partido de Abascal dilata la negociación hasta el límite para ocultar su estrategia a los votantes llamados a las urnas el 8 de febrero ante la impaciencia de María Guardiola",
+      "url": "https://www.eldiario.es/politica/vox-mantiene-pulso-pp-extremadura-despues-elecciones-aragon_1_12963785.html",
+      "scraped_at": "2026-02-05T07:14:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pensiones",
-      "subtitle": "El Gobierno ha aprobado dos Reales Decretos-Ley, y uno de ellos contiene únicamente la revalorización de cara a este año, para garantizar que la subida se abona también en febrero",
-      "url": "https://www.eldiario.es/economia/quedan-pensiones-2026-nuevo-decreto-gobierno-subirlas-2-7_1_12958323.html",
-      "scraped_at": "2026-02-04T07:08:21Z"
+      "title": "Telegram",
+      "subtitle": "Pável Dúrov se suma a los ataques de Elon Musk contra el presidente del Gobierno y pide a los españoles que \"luchen por sus derechos\"",
+      "url": "https://www.eldiario.es/tecnologia/dueno-telegram-envia-alerta-masiva-usuarios-espanoles-acusando-sanchez-imponer-vigilancia_1_12963723.html",
+      "scraped_at": "2026-02-05T07:14:18Z"
     }
   ]
 }
