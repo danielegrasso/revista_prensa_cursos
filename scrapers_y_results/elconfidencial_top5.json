@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: \"¡Hay que sacar a la gente a votar!\": el PSOE se asoma al peor resultado histórico en Aragón: La candidata socialista recurre a la desesperada a movilizar a su militancia enviándoles  wasaps que apelan a la épica, reniegan de las encuestas y arremeten contra el PP. En su partido creen que la estrategia es equivocada y culpan a Ferraz; Epstein hizo de Barcelona su centro de operaciones europeo: \"Esta es más guapa y dulce…\": El reclutador de menores del magnate, Daniel Siad, se instaló en la capital catalana en 2017, por donde pasaron mujeres europeas que luego fueron misses. La mayoría procedían de países de Europa del Este; Elisa Mouiláa: Así lo ha anunciado en un comunicado que ha publicado en su perfil de X, en el que asegura: &quot;No es porque no sea verdad, sino porque nadie debería cargar sola con algo así&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-05T07:14:26Z",
+  "summary": "Resumen del día en El Confidencial: \"Está saliendo la de Dios...\": la UCO revisa los móviles de Leire Díez y la fontanera denuncia espionaje: Tras dar varias versiones sobre el origen de las noticias que sacaron a la luz sus maniobras, ahora alega que la periodista con la que colaboraba –fallecida en diciembre- era confidente de un individuo que “al parecer” fue guardia civil; Andalucía vive horas críticas con ríos desbordados y Grazalema convertido en pueblo fantasma: La tregua de la lluvia coincide con crecidas inusuales en el Genil, el Guadalquivir y el Guadalete. Los desalojos superan los 5.500 y la situación se mantendrá, al menos, hasta el miércoles con una nueva borrasca a las puertas; El negocio de los \"migrainfluencers\" que animan a los latinos a venir a España: Algunos se dedican a monetizar en redes sociales el contenido que crean sobre su experiencia como inmigrantes, y otros venden servicios a sus miles de seguidores. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-06T07:11:18Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "\"¡Hay que sacar a la gente a votar!\": el PSOE se asoma al peor resultado histórico en Aragón",
-      "subtitle": "La candidata socialista recurre a la desesperada a movilizar a su militancia enviándoles  wasaps que apelan a la épica, reniegan de las encuestas y arremeten contra el PP. En su partido creen que la estrategia es equivocada y culpan a Ferraz",
-      "url": "https://www.elconfidencial.com/espana/2026-02-05/elecciones-aragon-8f-psoe-peor-resultado-historico_4297089/",
-      "scraped_at": "2026-02-05T07:14:26Z"
+      "title": "\"Está saliendo la de Dios...\": la UCO revisa los móviles de Leire Díez y la fontanera denuncia espionaje",
+      "subtitle": "Tras dar varias versiones sobre el origen de las noticias que sacaron a la luz sus maniobras, ahora alega que la periodista con la que colaboraba –fallecida en diciembre- era confidente de un individuo que “al parecer” fue guardia civil",
+      "url": "https://www.elconfidencial.com/espana/2026-02-06/guardia-civil-moviles-leire-espionaje_4298013/",
+      "scraped_at": "2026-02-06T07:11:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Epstein hizo de Barcelona su centro de operaciones europeo: \"Esta es más guapa y dulce…\"",
-      "subtitle": "El reclutador de menores del magnate, Daniel Siad, se instaló en la capital catalana en 2017, por donde pasaron mujeres europeas que luego fueron misses. La mayoría procedían de países de Europa del Este",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-05/epstein-barcelona-centro-operaciones-europeo_4297348/",
-      "scraped_at": "2026-02-05T07:14:26Z"
+      "title": "Andalucía vive horas críticas con ríos desbordados y Grazalema convertido en pueblo fantasma",
+      "subtitle": "La tregua de la lluvia coincide con crecidas inusuales en el Genil, el Guadalquivir y el Guadalete. Los desalojos superan los 5.500 y la situación se mantendrá, al menos, hasta el miércoles con una nueva borrasca a las puertas",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-02-06/andalucia-horas-criticas-leonardo-rios-grazalema_4298061/",
+      "scraped_at": "2026-02-06T07:11:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Elisa Mouiláa",
-      "subtitle": "Así lo ha anunciado en un comunicado que ha publicado en su perfil de X, en el que asegura: &quot;No es porque no sea verdad, sino porque nadie debería cargar sola con algo así&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-02-04/mouliaa-inigo-errejon-retira-acusacion_4297154/",
-      "scraped_at": "2026-02-05T07:14:26Z"
+      "title": "El negocio de los \"migrainfluencers\" que animan a los latinos a venir a España",
+      "subtitle": "Algunos se dedican a monetizar en redes sociales el contenido que crean sobre su experiencia como inmigrantes, y otros venden servicios a sus miles de seguidores",
+      "url": "https://www.elconfidencial.com/espana/2026-02-06/migrantes-influencer-redes-sociales_4297296/",
+      "scraped_at": "2026-02-06T07:11:17Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Todo lo que Europa hace para poder reducir su dependencia tecnológica de Estados Unidos",
+      "subtitle": "Europa acelera su autonomía digital tras sanciones y tensiones con Washington: impulsa alternativas locales, acuerdos estratégicos y proyectos soberanos en nube, satélites y pagos, mientras revisa normativas y reduce dependencias críticas en tecnolog",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-06/soberania-tecnologica-europa-eeuu-1hms_4298251/",
+      "scraped_at": "2026-02-06T07:11:17Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Cataluña",
+      "subtitle": "Barcelona se prepara para recibir el Año del Caballo de Fuego con un gran desfile, más de 40 actuaciones gratuitas y una feria cultural y gastronómica en el corazón del Eixample",
+      "url": "https://www.elconfidencial.com/espana/cataluna/",
+      "scraped_at": "2026-02-06T07:11:18Z"
     }
   ]
 }
