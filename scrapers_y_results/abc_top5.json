@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Salazar colabora en secreto para la campaña de Alegría: El exasesor de Sánchez, señalado por acoso sexual, ha sido uno de los estrategas que ha estado tras la campaña de la candidata socialista; La campaña socialista, a la desesperada: llamamientos a familiares, amigos y compañeros: El equipo de la candidata socialista manda varios mensajes masivos hablando de una supuesta remontada para insuflar ánimos a los suyos; El equipo de Vox preguntó sobre si Azcón los colocaría tras salir del Gobierno: ABC accede a más audios de la dirección de Vox en Aragón: «Si le digo a Azcón que os coloque donde yo quiera, él lo hará?». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-06T07:11:12Z",
+  "summary": "Resumen del día en ABC.es: Zapatero ensalza a Delcy Rodríguez y reconoce que habla con ella «casi a diario»: El expresidente del Gobierno participa en la comisión que redacta el proyecto de ley de amnistía; Las asociaciones de víctimas denuncian el trato de favor a «sanguinarios terroristas»: AVT, Covite o Dignidad y Justicia hablan de «varapalo» y tachan la aplicación del artículo 100.2 a los presos de ETA de «coladero» y «amnistía encubierta»; Txeroki se une a la treintena de etarras a los que PSE y PNV han concedido beneficios desde que Sánchez les cedió las competencias: Se les aplica el artículo 100.2, que permite al preso un régimen de semilibertad a pesar de no estar en tercer grado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-07T06:59:47Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Salazar colabora en secreto para la campaña de Alegría",
-      "subtitle": "El exasesor de Sánchez, señalado por acoso sexual, ha sido uno de los estrategas que ha estado tras la campaña de la candidata socialista",
-      "url": "https://www.abc.es/espana/aragon/alegria-contado-apoyo-fisico-salazar-zaragoza-campana-20260205040659-nt.html",
-      "scraped_at": "2026-02-06T07:11:11Z"
+      "title": "Zapatero ensalza a Delcy Rodríguez y reconoce que habla con ella «casi a diario»",
+      "subtitle": "El expresidente del Gobierno participa en la comisión que redacta el proyecto de ley de amnistía",
+      "url": "https://www.abc.es/internacional/zapatero-ensalza-delcy-rodriguez-reconoce-habla-diario-20260207013734-nt.html",
+      "scraped_at": "2026-02-07T06:59:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "La campaña socialista, a la desesperada: llamamientos a familiares, amigos y compañeros",
-      "subtitle": "El equipo de la candidata socialista manda varios mensajes masivos hablando de una supuesta remontada para insuflar ánimos a los suyos",
-      "url": "https://www.abc.es/espana/aragon/campana-alegria-desesperada-llamamientos-familiares-amigos-companeros-20260206040847-nt.html",
-      "scraped_at": "2026-02-06T07:11:11Z"
+      "title": "Las asociaciones de víctimas denuncian el trato de favor a «sanguinarios terroristas»",
+      "subtitle": "AVT, Covite o Dignidad y Justicia hablan de «varapalo» y tachan la aplicación del artículo 100.2 a los presos de ETA de «coladero» y «amnistía encubierta»",
+      "url": "https://www.abc.es/espana/pais-vasco/asociaciones-victimas-denuncian-trato-favor-sanguinarios-terroristas-20260207040829-nt.html",
+      "scraped_at": "2026-02-07T06:59:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "El equipo de Vox preguntó sobre si Azcón los colocaría tras salir del Gobierno",
-      "subtitle": "ABC accede a más audios de la dirección de Vox en Aragón: «Si le digo a Azcón que os coloque donde yo quiera, él lo hará?»",
-      "url": "https://www.abc.es/espana/aragon/criticos-vox-preguntaron-sobre-iba-colocar-azcon-20260206041024-nt.html",
-      "scraped_at": "2026-02-06T07:11:11Z"
+      "title": "Txeroki se une a la treintena de etarras a los que PSE y PNV han concedido beneficios desde que Sánchez les cedió las competencias",
+      "subtitle": "Se les aplica el artículo 100.2, que permite al preso un régimen de semilibertad a pesar de no estar en tercer grado",
+      "url": "https://www.abc.es/espana/pais-vasco/pse-pnv-benefician-etarras-sanchez-dio-competencia-20260207040816-nt.html",
+      "scraped_at": "2026-02-07T06:59:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "El poder como negocio",
-      "subtitle": "La compra de la empresa del presidente de Indra es demasiado conflictiva incluso para el inescrupuloso estilo sanchista",
-      "url": "https://www.abc.es/opinion/ignacio-camacho-poder-negocio-20260205165207-nt.html",
-      "scraped_at": "2026-02-06T07:11:12Z"
+      "title": "La guerra Vox-PP se recrudece en Extremadura: los de Abascal apuntan a votar en contra de la investidura de Guardiola",
+      "subtitle": "Vox votará «no» al menos en una primera votación que podría producirse, como muy tarde, el 3 de marzo",
+      "url": "https://www.abc.es/espana/extremadura/vox-apunta-votar-investidura-guardiola-pp-estalla-20260207040844-nt.html",
+      "scraped_at": "2026-02-07T06:59:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "Betis - Atlético",
-      "subtitle": "Conoce a qué hora empieza el partido entre el Betis y el Atlético de Madrid, y dónde ver en televisión y online el encuentro de hoy, 5 de febrero",
-      "url": "https://www.abc.es/deportes/atletico-madrid/ver-online-television-atletico-madrid-hoy-copa-20260203050005-nt.html",
-      "scraped_at": "2026-02-06T07:11:12Z"
+      "title": "Cruces Copa del Rey",
+      "subtitle": "Los vencedores en cuartos han conocido este mediodía su rival en semifinales",
+      "url": "https://www.abc.es/deportes/futbol/cruces-copa-rey-semifinales-cuadro-partidos-emparejamientos-20260206162119-nt.html",
+      "scraped_at": "2026-02-07T06:59:47Z"
     }
   ]
 }
