@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Marruecos, Argelia y el Polisario negocian en Madrid, bajo la batuta de EEUU, el futuro del Sáhara: Rabat ha elaborado una nueva oferta de autonomía, de 40 páginas, para la antigua colonia española. Pese a la presión estadounidense, Argel y los saharauis no renuncian, por ahora, a la autodeterminación pactada hace 35 años; Zapatero comió con directivos de Huawei en plena redacción de la ley que salvó a la compañía: Un vídeo desvela una reunión del expresidente del Gobierno con responsables de Huawei el 17 de enero de 2022, en mitad de la tramitación de la Ley de Ciberseguridad 5G que permitió a la compañía seguir operando en España; Las zonas donde sobran restaurantes en España: \"Piensan que les va bien, pero no\": La catarata de cierres de establecimientos señeros es solo el síntoma de un cambio de tendencia en la hostelería española, que ya no da para más en muchas regiones. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-07T06:59:53Z",
+  "summary": "Resumen del día en El Confidencial: Bruselas quiere examinar a Sánchez sobre el estado de derecho y RTVE: La Comisión de Libertades del Parlamento Europeo visita Madrid el 16 y 17 de febrero con el objetivo de reunirse en persona con Sánchez, Bolaños, Perelló, Peramato, académicos y  asociaciones judiciales y de periodistas; Obligar a las pymes a tener empleados accionistas: ¿genialidad o disparate?: En España ya existen fórmulas jurídicas que permiten el acceso de los trabajadores al capital de una empresa, pero su uso es minoritario. La imposición legal de unos umbrales mínimos podría perjudicar al crecimiento empresarial; No hay perdón que valga: por qué México necesita seguir atizando a España: Los gestos de acercamiento de España hacia México han destensado un poco las relaciones, pero desde el Gobierno de Claudia Sheinbaum la visión no ha cambiado, ni tampoco el tono de su discurso. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-08T07:05:17Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Marruecos, Argelia y el Polisario negocian en Madrid, bajo la batuta de EEUU, el futuro del Sáhara",
-      "subtitle": "Rabat ha elaborado una nueva oferta de autonomía, de 40 páginas, para la antigua colonia española. Pese a la presión estadounidense, Argel y los saharauis no renuncian, por ahora, a la autodeterminación pactada hace 35 años",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-07/marruecos-polisario-sahara-negociacion-madrid-1hms_4298925/",
-      "scraped_at": "2026-02-07T06:59:50Z"
+      "title": "Bruselas quiere examinar a Sánchez sobre el estado de derecho y RTVE",
+      "subtitle": "La Comisión de Libertades del Parlamento Europeo visita Madrid el 16 y 17 de febrero con el objetivo de reunirse en persona con Sánchez, Bolaños, Perelló, Peramato, académicos y  asociaciones judiciales y de periodistas",
+      "url": "https://www.elconfidencial.com/espana/2026-02-08/bruselas-quiere-examinar-a-sanchez-en-madrid-sobre-estado-de-derecho-y-rtve_4298965/",
+      "scraped_at": "2026-02-08T07:05:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Zapatero comió con directivos de Huawei en plena redacción de la ley que salvó a la compañía",
-      "subtitle": "Un vídeo desvela una reunión del expresidente del Gobierno con responsables de Huawei el 17 de enero de 2022, en mitad de la tramitación de la Ley de Ciberseguridad 5G que permitió a la compañía seguir operando en España",
-      "url": "https://www.elconfidencial.com/espana/2026-02-07/zapatero-psoe-huawei-comio-china-pekin-venezuela_4299117/",
-      "scraped_at": "2026-02-07T06:59:50Z"
+      "title": "Obligar a las pymes a tener empleados accionistas: ¿genialidad o disparate?",
+      "subtitle": "En España ya existen fórmulas jurídicas que permiten el acceso de los trabajadores al capital de una empresa, pero su uso es minoritario. La imposición legal de unos umbrales mínimos podría perjudicar al crecimiento empresarial",
+      "url": "https://www.elconfidencial.com/economia/2026-02-08/obligar-pymes-empleados-accionistas-genalidad-o-disparate_4297446/",
+      "scraped_at": "2026-02-08T07:05:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las zonas donde sobran restaurantes en España: \"Piensan que les va bien, pero no\"",
-      "subtitle": "La catarata de cierres de establecimientos señeros es solo el síntoma de un cambio de tendencia en la hostelería española, que ya no da para más en muchas regiones",
-      "url": "https://www.elconfidencial.com/espana/2026-02-07/lugares-espana-donde-sobran-restaurantes_4298839/",
-      "scraped_at": "2026-02-07T06:59:51Z"
+      "title": "No hay perdón que valga: por qué México necesita seguir atizando a España",
+      "subtitle": "Los gestos de acercamiento de España hacia México han destensado un poco las relaciones, pero desde el Gobierno de Claudia Sheinbaum la visión no ha cambiado, ni tampoco el tono de su discurso",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-08/no-hay-perdon-que-valga-por-que-mexico-necesita-seguir-atizando-espana_4295665/",
+      "scraped_at": "2026-02-08T07:05:17Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Tres incógnitas y tres certezas previas a las elecciones en Aragón: \"El baile continúa\"",
-      "subtitle": "Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, en &quot;Comité de Estrategia&quot; analizan las elecciones autonómicas en Aragón que se celebrarán este domingo, 8 de febrero",
-      "url": "https://www.elconfidencial.com/espana/2026-02-07/tres-incognitas-y-tres-certezas-antes-de-8-f-el-baile-continua_4298941/",
-      "scraped_at": "2026-02-07T06:59:52Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Qué resultado necesita obtener Jorge Azcón para ser presidente de Aragón",
-      "subtitle": "Las elecciones autonómicas en Aragón se presentan como una prueba clave, con un Parlamento fragmentado y múltiples combinaciones posibles para formar gobierno tras el recuento",
-      "url": "https://www.elconfidencial.com/espana/aragon/2026-02-07/1qrt-que-resultado-necesita-azcon-elecciones-aragon-8f_4297733/",
-      "scraped_at": "2026-02-07T06:59:53Z"
+      "title": "Vox lleva al PP al límite y amaga con un bloqueo en todas las CCAA: \"Que pacten con el PSOE\"",
+      "subtitle": "Génova asume la dificultad de contener a un Vox crecido, que utiliza el choque con Feijóo como motor electoral. Azcón aspira a una victoria holgada, pero la fuerza de Abascal y el precedente de Extremadura pone en jaque la gobernabilidad",
+      "url": "https://www.elconfidencial.com/espana/2026-02-08/vox-lleva-pp-limite-amaga-bloqueo-todas-ccaa-psoe_4298810/",
+      "scraped_at": "2026-02-08T07:05:17Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Zapatero ensalza a Delcy Rodríguez y reconoce que habla con ella «casi a diario»: El expresidente del Gobierno participa en la comisión que redacta el proyecto de ley de amnistía; Las asociaciones de víctimas denuncian el trato de favor a «sanguinarios terroristas»: AVT, Covite o Dignidad y Justicia hablan de «varapalo» y tachan la aplicación del artículo 100.2 a los presos de ETA de «coladero» y «amnistía encubierta»; Txeroki se une a la treintena de etarras a los que PSE y PNV han concedido beneficios desde que Sánchez les cedió las competencias: Se les aplica el artículo 100.2, que permite al preso un régimen de semilibertad a pesar de no estar en tercer grado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-07T06:59:47Z",
+  "summary": "Resumen del día en ABC.es: Zapatero maniobra en Caracas para colocar a su asesor como ministro de Defensa: El nombramiento reforzaría el apoyo militar a Delcy Rodríguez, pero no estaría bien visto por Washington por el pasado del exgeneral al frente del Sebin; Alex Saab, testaferro de Maduro: el derrumbe del 'empresario del hambre': Presuntamente detenido esta semana por el Gobierno de Delcy Rodríguez, fue acusado de blanquear 350 millones, sobornar en el programa CLAP y tejer una red internacional de empresas pantalla por las autoridades estadounidenses; «No hacemos nada malo. ¿Por qué quieren robarnos nuestro sueño?»: «En la escuela taurina se hacen hombres y mujeres de bien y mejores personas. Aquí hay un respeto y una educación que me cuesta trabajo ver fuera en el día a día», dice su maestro Fernando Robleño. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-08T07:05:13Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Zapatero ensalza a Delcy Rodríguez y reconoce que habla con ella «casi a diario»",
+      "title": "Zapatero maniobra en Caracas para colocar a su asesor como ministro de Defensa",
+      "subtitle": "El nombramiento reforzaría el apoyo militar a Delcy Rodríguez, pero no estaría bien visto por Washington por el pasado del exgeneral al frente del Sebin",
+      "url": "https://www.abc.es/internacional/zapatero-propone-asesor-rodriguez-torres-ministro-defensa-20260207040358-nt.html",
+      "scraped_at": "2026-02-08T07:05:12Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Alex Saab, testaferro de Maduro: el derrumbe del 'empresario del hambre'",
+      "subtitle": "Presuntamente detenido esta semana por el Gobierno de Delcy Rodríguez, fue acusado de blanquear 350 millones, sobornar en el programa CLAP y tejer una red internacional de empresas pantalla por las autoridades estadounidenses",
+      "url": "https://www.abc.es/internacional/alex-saab-testaferro-maduro-derrumbe-empresario-hambre-20260207040445-nt.html",
+      "scraped_at": "2026-02-08T07:05:13Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "«No hacemos nada malo. ¿Por qué quieren robarnos nuestro sueño?»",
+      "subtitle": "«En la escuela taurina se hacen hombres y mujeres de bien y mejores personas. Aquí hay un respeto y una educación que me cuesta trabajo ver fuera en el día a día», dice su maestro Fernando Robleño",
+      "url": "https://www.abc.es/cultura/toros/chicos-hablan-quieren-toreros-senores-politicos-dejennos-20260205040524-nt.html",
+      "scraped_at": "2026-02-08T07:05:13Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Las evidencias que acorralan a Puente en la tragedia de Adamuz",
+      "subtitle": "La investigación del accidente se retomará en los próximos días con el desembarco de la juez titular en la sede de Montoro (Córdoba)",
+      "url": "https://www.abc.es/espana/cinco-evidencias-acorralan-puente-tragedia-adamuz-20260208040704-nt.html",
+      "scraped_at": "2026-02-08T07:05:13Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Zapatero",
       "subtitle": "El expresidente del Gobierno participa en la comisión que redacta el proyecto de ley de amnistía",
       "url": "https://www.abc.es/internacional/zapatero-ensalza-delcy-rodriguez-reconoce-habla-diario-20260207013734-nt.html",
-      "scraped_at": "2026-02-07T06:59:46Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Las asociaciones de víctimas denuncian el trato de favor a «sanguinarios terroristas»",
-      "subtitle": "AVT, Covite o Dignidad y Justicia hablan de «varapalo» y tachan la aplicación del artículo 100.2 a los presos de ETA de «coladero» y «amnistía encubierta»",
-      "url": "https://www.abc.es/espana/pais-vasco/asociaciones-victimas-denuncian-trato-favor-sanguinarios-terroristas-20260207040829-nt.html",
-      "scraped_at": "2026-02-07T06:59:47Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Txeroki se une a la treintena de etarras a los que PSE y PNV han concedido beneficios desde que Sánchez les cedió las competencias",
-      "subtitle": "Se les aplica el artículo 100.2, que permite al preso un régimen de semilibertad a pesar de no estar en tercer grado",
-      "url": "https://www.abc.es/espana/pais-vasco/pse-pnv-benefician-etarras-sanchez-dio-competencia-20260207040816-nt.html",
-      "scraped_at": "2026-02-07T06:59:47Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "La guerra Vox-PP se recrudece en Extremadura: los de Abascal apuntan a votar en contra de la investidura de Guardiola",
-      "subtitle": "Vox votará «no» al menos en una primera votación que podría producirse, como muy tarde, el 3 de marzo",
-      "url": "https://www.abc.es/espana/extremadura/vox-apunta-votar-investidura-guardiola-pp-estalla-20260207040844-nt.html",
-      "scraped_at": "2026-02-07T06:59:47Z"
-    },
-    {
-      "source": "ABC.es",
-      "title": "Cruces Copa del Rey",
-      "subtitle": "Los vencedores en cuartos han conocido este mediodía su rival en semifinales",
-      "url": "https://www.abc.es/deportes/futbol/cruces-copa-rey-semifinales-cuadro-partidos-emparejamientos-20260206162119-nt.html",
-      "scraped_at": "2026-02-07T06:59:47Z"
+      "scraped_at": "2026-02-08T07:05:13Z"
     }
   ]
 }
