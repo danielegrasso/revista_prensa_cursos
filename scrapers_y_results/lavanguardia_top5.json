@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Aragón vota este domingo con la batalla por la Moncloa de fondo: Abascal, Feijóo y en menor medida Sánchez se han batido en esta comunidad en la segunda meta volante del ciclo electoral autonómico; ¿Es Aragón una pequeña España?: La comunidad aragonesa anticipa el ganador de las elecciones pero no quién presidirá el Gobierno español; Sánchez contra los gigantes: En ninguna de las dos partes de El Quijote aparece la famosa frase: “Ladran, querido Sancho, señal que cabalgamos”. Aunque hay debate y confusión al respecto,. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-08T07:05:14Z",
+  "summary": "Resumen del día en La Vanguardia: El PP no logra pararle los pies a Vox y el PSOE cae a su mínimo histórico: Azcón tendrá que contar con la extrema derecha para formar gobierno tras perder dos escaños en las Cortes; Abascal se frota las manos: Vox se frota las manos, mientras el PP toca techo y el PSOE sufre un desgaste que se pierde por su izquierda; Y Aragón sí fue nuestro Ohio: Las elecciones autonómicas de Aragón prometían ser el segundo caucus de la derecha en el que el PP sería capturado por Vox tras Extremadura. Pero ya saben: ten. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-09T07:20:28Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Aragón vota este domingo con la batalla por la Moncloa de fondo",
-      "subtitle": "Abascal, Feijóo y en menor medida Sánchez se han batido en esta comunidad en la segunda meta volante del ciclo electoral autonómico",
-      "url": "https://www.lavanguardia.com/politica/20260208/11460566/comunidad-aragon-vota-domingo-batalla-moncloa-fondo.html",
-      "scraped_at": "2026-02-08T07:05:14Z"
+      "title": "El PP no logra pararle los pies a Vox y el PSOE cae a su mínimo histórico",
+      "subtitle": "Azcón tendrá que contar con la extrema derecha para formar gobierno tras perder dos escaños en las Cortes",
+      "url": "https://www.lavanguardia.com/politica/20260209/11461181/pp-logra-pararle-pies-vox-psoe-cae-minimo-historico.html",
+      "scraped_at": "2026-02-09T07:20:26Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Es Aragón una pequeña España?",
-      "subtitle": "La comunidad aragonesa anticipa el ganador de las elecciones pero no quién presidirá el Gobierno español",
-      "url": "https://www.lavanguardia.com/politica/20260208/11446987/aragon-pequena-espana.html",
-      "scraped_at": "2026-02-08T07:05:14Z"
+      "title": "Abascal se frota las manos",
+      "subtitle": "Vox se frota las manos, mientras el PP toca techo y el PSOE sufre un desgaste que se pierde por su izquierda",
+      "url": "https://www.lavanguardia.com/politica/20260208/11461145/lecciones-ohio-espanol.html",
+      "scraped_at": "2026-02-09T07:20:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez contra los gigantes",
-      "subtitle": "En ninguna de las dos partes de El Quijote aparece la famosa frase: “Ladran, querido Sancho, señal que cabalgamos”. Aunque hay debate y confusión al respecto,",
-      "url": "https://www.lavanguardia.com/politica/20260208/11460553/sanchez-gigantes-musk.html",
-      "scraped_at": "2026-02-08T07:05:14Z"
+      "title": "Y Aragón sí fue nuestro Ohio",
+      "subtitle": "Las elecciones autonómicas de Aragón prometían ser el segundo caucus de la derecha en el que el PP sería capturado por Vox tras Extremadura. Pero ya saben: ten",
+      "url": "https://www.lavanguardia.com/politica/20260209/11461164/aragon-nuestro-ohio.html",
+      "scraped_at": "2026-02-09T07:20:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las lluvias persistentes saturan suelos y ponen en peligro zonas habitadas",
-      "subtitle": "Los efectos del rebose del acuífero de Grazalema, atípica ‘inundación de abajo arriba’, es el último capítulo del catálogo de sucesos extraordinarios causados",
-      "url": "https://www.lavanguardia.com/natural/20260208/11460467/lluvias-persistentes-saturan-suelos-ponen-peligro-zonas-habitadas.html",
-      "scraped_at": "2026-02-08T07:05:14Z"
+      "title": "Las urnas censuran a PSOE y PP",
+      "subtitle": "Los aragoneses ayer, como los extremeños en diciembre, han vuelto a decir a sus líderes que ellos ya han hablado y que son los partidos los que ahora deben entenderse.",
+      "url": "https://www.lavanguardia.com/politica/20260208/11461166/urnas-censuran-psoe-pp.html",
+      "scraped_at": "2026-02-09T07:20:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El socialista Seguro busca una victoria aplastante sobre los ultras",
-      "subtitle": "André Ventura intenta convertirse hoy en el gran líder de la derecha de Portugal",
-      "url": "https://www.lavanguardia.com/internacional/20260208/11460632/elecciones-portugal-socialista-seguro-busca-victoria-aplastante-sobre-ultras.html",
-      "scraped_at": "2026-02-08T07:05:14Z"
+      "title": "¿Qué quieren decir estos agujeros en las plantas?",
+      "subtitle": "Si los ves en el agave amarillo o pita mala suerte, porque quiere decir que hay una plaga de picudo negro",
+      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260209/11459783/que-quieren-decir-agujeros-plantas.html",
+      "scraped_at": "2026-02-09T07:20:28Z"
     }
   ]
 }

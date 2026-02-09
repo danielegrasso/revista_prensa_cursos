@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Bruselas quiere examinar a Sánchez sobre el estado de derecho y RTVE: La Comisión de Libertades del Parlamento Europeo visita Madrid el 16 y 17 de febrero con el objetivo de reunirse en persona con Sánchez, Bolaños, Perelló, Peramato, académicos y  asociaciones judiciales y de periodistas; Obligar a las pymes a tener empleados accionistas: ¿genialidad o disparate?: En España ya existen fórmulas jurídicas que permiten el acceso de los trabajadores al capital de una empresa, pero su uso es minoritario. La imposición legal de unos umbrales mínimos podría perjudicar al crecimiento empresarial; No hay perdón que valga: por qué México necesita seguir atizando a España: Los gestos de acercamiento de España hacia México han destensado un poco las relaciones, pero desde el Gobierno de Claudia Sheinbaum la visión no ha cambiado, ni tampoco el tono de su discurso. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-08T07:05:17Z",
+  "summary": "Resumen del día en El Confidencial: El mayor escándalo inmobiliario de la Iglesia española salta al mercado financiero mundial: El fondo que se ha quedado los pisos de Fusara ha salido al mercado a refinanciar y, en esas negociaciones, asegura que la cartera vale un 65% más de lo pactado con la Iglesia; España los forma, Europa los contrata: así es el mapa de la nueva fuga de cerebros: La falta de oportunidades y los bajos salarios impulsa la salida de talento español hacia Europa, sumiendo a sus regiones de origen en una trampa de difícil salida; El rey de la cocaína de Bolivia que hizo su negocio con los nazis que acabaron en el país: Los periodistas López Canales y Bergmann reconstruyen la historia sobre el boom de la cocaína y la complicidad de los nazis y la CIA con las dictaduras latinoamericanas en el libro &#039;El narco y el nazi&#039;. Este es un extracto. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-09T07:20:40Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Bruselas quiere examinar a Sánchez sobre el estado de derecho y RTVE",
-      "subtitle": "La Comisión de Libertades del Parlamento Europeo visita Madrid el 16 y 17 de febrero con el objetivo de reunirse en persona con Sánchez, Bolaños, Perelló, Peramato, académicos y  asociaciones judiciales y de periodistas",
-      "url": "https://www.elconfidencial.com/espana/2026-02-08/bruselas-quiere-examinar-a-sanchez-en-madrid-sobre-estado-de-derecho-y-rtve_4298965/",
-      "scraped_at": "2026-02-08T07:05:16Z"
+      "title": "El mayor escándalo inmobiliario de la Iglesia española salta al mercado financiero mundial",
+      "subtitle": "El fondo que se ha quedado los pisos de Fusara ha salido al mercado a refinanciar y, en esas negociaciones, asegura que la cartera vale un 65% más de lo pactado con la Iglesia",
+      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-02-09/caso-fusara-ares-obispado-financiacion_4299089/",
+      "scraped_at": "2026-02-09T07:20:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Obligar a las pymes a tener empleados accionistas: ¿genialidad o disparate?",
-      "subtitle": "En España ya existen fórmulas jurídicas que permiten el acceso de los trabajadores al capital de una empresa, pero su uso es minoritario. La imposición legal de unos umbrales mínimos podría perjudicar al crecimiento empresarial",
-      "url": "https://www.elconfidencial.com/economia/2026-02-08/obligar-pymes-empleados-accionistas-genalidad-o-disparate_4297446/",
-      "scraped_at": "2026-02-08T07:05:17Z"
+      "title": "España los forma, Europa los contrata: así es el mapa de la nueva fuga de cerebros",
+      "subtitle": "La falta de oportunidades y los bajos salarios impulsa la salida de talento español hacia Europa, sumiendo a sus regiones de origen en una trampa de difícil salida",
+      "url": "https://www.elconfidencial.com/mundo/europa/2026-02-09/fuga-cerebros-espana-talento_4293548/",
+      "scraped_at": "2026-02-09T07:20:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "No hay perdón que valga: por qué México necesita seguir atizando a España",
-      "subtitle": "Los gestos de acercamiento de España hacia México han destensado un poco las relaciones, pero desde el Gobierno de Claudia Sheinbaum la visión no ha cambiado, ni tampoco el tono de su discurso",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-08/no-hay-perdon-que-valga-por-que-mexico-necesita-seguir-atizando-espana_4295665/",
-      "scraped_at": "2026-02-08T07:05:17Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Vox lleva al PP al límite y amaga con un bloqueo en todas las CCAA: \"Que pacten con el PSOE\"",
-      "subtitle": "Génova asume la dificultad de contener a un Vox crecido, que utiliza el choque con Feijóo como motor electoral. Azcón aspira a una victoria holgada, pero la fuerza de Abascal y el precedente de Extremadura pone en jaque la gobernabilidad",
-      "url": "https://www.elconfidencial.com/espana/2026-02-08/vox-lleva-pp-limite-amaga-bloqueo-todas-ccaa-psoe_4298810/",
-      "scraped_at": "2026-02-08T07:05:17Z"
+      "title": "El rey de la cocaína de Bolivia que hizo su negocio con los nazis que acabaron en el país",
+      "subtitle": "Los periodistas López Canales y Bergmann reconstruyen la historia sobre el boom de la cocaína y la complicidad de los nazis y la CIA con las dictaduras latinoamericanas en el libro &#039;El narco y el nazi&#039;. Este es un extracto",
+      "url": "https://www.elconfidencial.com/cultura/2026-02-08/nazis-y-cocaina_4296930/",
+      "scraped_at": "2026-02-09T07:20:40Z"
     }
   ]
 }
