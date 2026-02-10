@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE se hunde, el PP retrocede y Vox se convierte en el gran vencedor en Aragón: El PSOE retrocede cinco escaños e iguala su peor resultado histórico, mientras Podemos desaparece de las Cortes; El adelanto de Azcón: para este viaje no hacían falta tantas alforjas: El presidente de Aragón asumía un techo, pero en ningún caso dejarse dos diputados y ver un crecimiento tan fuerte de su rival por la derecha; Aragón confirma a Vox como imprescindible para que el PP gobierne: Logran 14 escaños y se consolidan como fuerza política clave para las futuras elecciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-09T07:20:24Z",
+  "summary": "Resumen del día en ABC.es: El desánimo cunde en el PP: «Vox está en una ola que no se puede contener»: Los dirigentes reflexionan sobre la tecla para frenarlo -no valió la de Extremadura y menos aún la de Aragón- y ya asumen que «no existe»; Vox pedirá cargos de poder en el gobierno de Azcón: Adoptan una posición de fuerza gracias a sus 14 diputados y buscarán consejerías con «estructura y presupuesto»; La derecha debe entenderse: Los populares no pueden refugiarse en una idea abstracta de pureza ni en torres de marfil alejadas de la realidad electoral. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-10T07:20:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE se hunde, el PP retrocede y Vox se convierte en el gran vencedor en Aragón",
-      "subtitle": "El PSOE retrocede cinco escaños e iguala su peor resultado histórico, mientras Podemos desaparece de las Cortes",
-      "url": "https://www.abc.es/espana/aragon/cronica-evolutiva-20260208125851-nt.html",
-      "scraped_at": "2026-02-09T07:20:23Z"
+      "title": "El desánimo cunde en el PP: «Vox está en una ola que no se puede contener»",
+      "subtitle": "Los dirigentes reflexionan sobre la tecla para frenarlo -no valió la de Extremadura y menos aún la de Aragón- y ya asumen que «no existe»",
+      "url": "https://www.abc.es/espana/pp-vox-ola-puede-contenter-20260210040557-nt.html",
+      "scraped_at": "2026-02-10T07:20:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "El adelanto de Azcón: para este viaje no hacían falta tantas alforjas",
-      "subtitle": "El presidente de Aragón asumía un techo, pero en ningún caso dejarse dos diputados y ver un crecimiento tan fuerte de su rival por la derecha",
-      "url": "https://www.abc.es/espana/aragon/adelanto-azcon-viaje-falta-tantas-alforjas-20260208225721-nt.html",
-      "scraped_at": "2026-02-09T07:20:24Z"
+      "title": "Vox pedirá cargos de poder en el gobierno de Azcón",
+      "subtitle": "Adoptan una posición de fuerza gracias a sus 14 diputados y buscarán consejerías con «estructura y presupuesto»",
+      "url": "https://www.abc.es/espana/vox-pedira-cargos-poder-gobierno-azcon-20260210040752-nt.html",
+      "scraped_at": "2026-02-10T07:20:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Aragón confirma a Vox como imprescindible para que el PP gobierne",
-      "subtitle": "Logran 14 escaños y se consolidan como fuerza política clave para las futuras elecciones",
-      "url": "https://www.abc.es/espana/aragon/aragon-confirma-vox-imprescindible-pp-gobierne-20260208225243-nt.html",
-      "scraped_at": "2026-02-09T07:20:24Z"
+      "title": "La derecha debe entenderse",
+      "subtitle": "Los populares no pueden refugiarse en una idea abstracta de pureza ni en torres de marfil alejadas de la realidad electoral",
+      "url": "https://www.abc.es/opinion/editorial-derecha-debe-entenderse-20260210192112-nt.html",
+      "scraped_at": "2026-02-10T07:20:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Abascal y Feijóo, ellos sabrán",
-      "subtitle": "A Abascal le lleva la ola; en su momento habrá que pedirle que esté a la altura de la responsabilidad histórica que le va a tocar asumir",
-      "url": "https://www.abc.es/opinion/julian-quiros-abascal-feijoo-sabran-20260208222158-nt.html",
-      "scraped_at": "2026-02-09T07:20:24Z"
+      "title": "La extrapolación del 8-F al Congreso: el PP cedería 2 escaños a Vox y el PSOE solo perdería 1",
+      "subtitle": "El respaldo que logra el partido de Abascal en Huesca y Teruel gracias al campo le permite entrar en ambas provincias robando el tercer escaño a los populares, que resistirían en Zaragoza",
+      "url": "https://www.abc.es/espana/extrapolacion-congreso-pp-cederia-escanos-vox-psoe-20260210040840-nt.html",
+      "scraped_at": "2026-02-10T07:20:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Elecciones Aragón",
+      "title": "Resultado Elecciones Aragón",
       "subtitle": "Sigue en directo las últimas noticias tras elecciones en Aragón",
       "url": "https://www.abc.es/espana/aragon/resultados-elecciones-aragon-ganador-vox-pp-psoe-20260208201914-di.html",
-      "scraped_at": "2026-02-09T07:20:24Z"
+      "scraped_at": "2026-02-10T07:20:46Z"
     }
   ]
 }

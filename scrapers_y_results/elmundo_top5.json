@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Una victoria amarga de Azcón: Las elecciones en Aragón han dibujado un mapa en el que las tendencias electorales del país se muestran más agudizadas que nunca: desastre histórico del PSOE, en este caso de...; Joaquín Manso analiza el resultado electoral en Aragón: \"Génova ha leído mal el momento político\": El análisis del director de EL MUNDO, Joaquín Manso, sobre los recientes comicios en Aragón apunta a un fallo estratégico desde la dirección nacional del Partido Popular....; Se abre una puerta y Abascal se queda las llaves: El PP convocó para mejorar y ha salido escaldado. De todas las lecturas posibles del resultado electoral en Aragón, esta es la más importante y la que más consecuencias va a.... Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-02-09T07:20:18Z",
+  "summary": "Resumen del día en El Mundo: El techo al que aspira Vox con una entrada en el gobierno de Aragón: 2.300 millones de presupuesto a gestionar: Avanza su pretensión de volver al ejecutivo y, tras doblar sus escaños y con el 35% de la representación de una hipotética coalición, pide hacerlo con los cargos y el presupuesto correspondientes; Puente enmienda su gestión de mantenimiento de las vías y riega de millones el sector ferroviario para frenar la huelga: Transportes promete disparar el gasto en mantenimiento de las vías por encima de 1.800 millones anuales y contratar 3.650 trabajadores más en Renfe y Adif para acabar con la huelga; El Partido Socialista aceleró la semilibertad de 'Txeroki' mientras el juez pedía más informes: El Gobierno vasco concedió al jefe de ETA salidas diarias de prisión después de que el juzgado de Vigilancia y el fiscal mostraran reticencias. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-02-10T07:20:39Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Una victoria amarga de Azcón",
-      "subtitle": "Las elecciones en Aragón han dibujado un mapa en el que las tendencias electorales del país se muestran más agudizadas que nunca: desastre histórico del PSOE, en este caso de...",
-      "url": "https://www.elmundo.es/opinion/editorial/2026/02/09/698905b1fdddff212c8b4584.html",
-      "scraped_at": "2026-02-09T07:20:16Z"
+      "title": "El techo al que aspira Vox con una entrada en el gobierno de Aragón: 2.300 millones de presupuesto a gestionar",
+      "subtitle": "Avanza su pretensión de volver al ejecutivo y, tras doblar sus escaños y con el 35% de la representación de una hipotética coalición, pide hacerlo con los cargos y el presupuesto correspondientes",
+      "url": "https://www.elmundo.es/espana/2026/02/09/698a45f121efa0e6648b4579.html",
+      "scraped_at": "2026-02-10T07:20:39Z"
     },
     {
       "source": "El Mundo",
-      "title": "Joaquín Manso analiza el resultado electoral en Aragón: \"Génova ha leído mal el momento político\"",
-      "subtitle": "El análisis del director de EL MUNDO, Joaquín Manso, sobre los recientes comicios en Aragón apunta a un fallo estratégico desde la dirección nacional del Partido Popular....",
-      "url": "https://www.elmundo.es/opinion/2026/02/09/698923ece9cf4a6c108b457e-video.html",
-      "scraped_at": "2026-02-09T07:20:17Z"
+      "title": "Puente enmienda su gestión de mantenimiento de las vías y riega de millones el sector ferroviario para frenar la huelga",
+      "subtitle": "Transportes promete disparar el gasto en mantenimiento de las vías por encima de 1.800 millones anuales y contratar 3.650 trabajadores más en Renfe y Adif para acabar con la huelga",
+      "url": "https://www.elmundo.es/economia/2026/02/09/698a365a21efa0cb1f8b4594.html",
+      "scraped_at": "2026-02-10T07:20:39Z"
     },
     {
       "source": "El Mundo",
-      "title": "Se abre una puerta y Abascal se queda las llaves",
-      "subtitle": "El PP convocó para mejorar y ha salido escaldado. De todas las lecturas posibles del resultado electoral en Aragón, esta es la más importante y la que más consecuencias va a...",
-      "url": "https://www.elmundo.es/espana/2026/02/08/6988d060e85ecea6538b4598.html",
-      "scraped_at": "2026-02-09T07:20:17Z"
+      "title": "El Partido Socialista aceleró la semilibertad de 'Txeroki' mientras el juez pedía más informes",
+      "subtitle": "El Gobierno vasco concedió al jefe de ETA salidas diarias de prisión después de que el juzgado de Vigilancia y el fiscal mostraran reticencias",
+      "url": "https://www.elmundo.es/espana/2026/02/09/698a26c621efa0e6648b4571.html",
+      "scraped_at": "2026-02-10T07:20:39Z"
     },
     {
       "source": "El Mundo",
-      "title": "Una derecha perpleja y una izquierda en ruinas",
-      "subtitle": "El PP no acaba de entender que el electorado le ha quitado, a medias, pero quitado, su confianza como única alternativa al PSOE. Y Vox se siente cómodo dejando que el PP meta la pata",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/02/08/6989114ce4d4d86a1c8b4584.html",
-      "scraped_at": "2026-02-09T07:20:17Z"
+      "title": "Anna Bensi, influencer cubana: \"Mi mamá y yo comemos una vez al día, a las cinco de la tarde\"",
+      "subtitle": "Sus vídeos en TikTok, Youtube y Facebook reflejan las penurias de los cubanos, con una clara apuesta por la libertad. El último es un homenaje a los detenidos Kamil Zayas y Ernesto Ricardo Medina",
+      "url": "https://www.elmundo.es/internacional/2026/02/09/698a11eae9cf4a43458b458b.html",
+      "scraped_at": "2026-02-10T07:20:39Z"
     },
     {
       "source": "El Mundo",
-      "title": "Resultados municipios",
-      "subtitle": "Consulte en directo los resultados electorales por municipio y el partido más votado en cada localidad, donde casi la mitad del voto se concentra en Zaragoza capital",
-      "url": "https://www.elmundo.es/espana/2026/02/08/6988df74fc6c83414d8b4571.html",
-      "scraped_at": "2026-02-09T07:20:18Z"
+      "title": "Kimi Onoda",
+      "subtitle": "Japón endurece su política migratoria en plena crisis demográfica, mientras el turismo masivo alimenta el rechazo a los extranjeros",
+      "url": "https://www.elmundo.es/internacional/2026/02/09/6989e421e4d4d840388b4584.html",
+      "scraped_at": "2026-02-10T07:20:39Z"
     }
   ]
 }

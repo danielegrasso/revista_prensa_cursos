@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El mayor escándalo inmobiliario de la Iglesia española salta al mercado financiero mundial: El fondo que se ha quedado los pisos de Fusara ha salido al mercado a refinanciar y, en esas negociaciones, asegura que la cartera vale un 65% más de lo pactado con la Iglesia; España los forma, Europa los contrata: así es el mapa de la nueva fuga de cerebros: La falta de oportunidades y los bajos salarios impulsa la salida de talento español hacia Europa, sumiendo a sus regiones de origen en una trampa de difícil salida; El rey de la cocaína de Bolivia que hizo su negocio con los nazis que acabaron en el país: Los periodistas López Canales y Bergmann reconstruyen la historia sobre el boom de la cocaína y la complicidad de los nazis y la CIA con las dictaduras latinoamericanas en el libro &#039;El narco y el nazi&#039;. Este es un extracto. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-09T07:20:40Z",
+  "summary": "Resumen del día en El Confidencial: El PP se resigna a gobernar con Vox y encara en estado de alerta la cita en Castilla y León: Dirigentes y barones piden una reflexión interna para afrontar el ascenso de Abascal y confían en que retrocedan si asumen consejerías de peso en los Gobiernos autonómicos. Feijóo exige mayor movilización a los alcaldes; El juez pide los correos de Begoña Gómez y que Interior informe si viajó a Dominicana: Critica la falta de colaboración de la investigada y el propio Sánchez y defiende sus medidas como proporcionadas: “Ordenar el registro de su casa sí que sería desproporcionado”; El activista que quiere prohibir los teléfonos móviles hasta los 18: \"Sánchez se queda corto\": Daniel Hidalgo es emprendedor digital e impulsor del Movimiento OFF y cree que restringir los &#039;smartphones&#039; a los menores de edad limitaría mucho sus efectos negativos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-10T07:20:50Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El mayor escándalo inmobiliario de la Iglesia española salta al mercado financiero mundial",
-      "subtitle": "El fondo que se ha quedado los pisos de Fusara ha salido al mercado a refinanciar y, en esas negociaciones, asegura que la cartera vale un 65% más de lo pactado con la Iglesia",
-      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-02-09/caso-fusara-ares-obispado-financiacion_4299089/",
-      "scraped_at": "2026-02-09T07:20:30Z"
+      "title": "El PP se resigna a gobernar con Vox y encara en estado de alerta la cita en Castilla y León",
+      "subtitle": "Dirigentes y barones piden una reflexión interna para afrontar el ascenso de Abascal y confían en que retrocedan si asumen consejerías de peso en los Gobiernos autonómicos. Feijóo exige mayor movilización a los alcaldes",
+      "url": "https://www.elconfidencial.com/espana/2026-02-10/pp-resigna-gobernar-vox-estado-alerta-castilla-leon_4300244/",
+      "scraped_at": "2026-02-10T07:20:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "España los forma, Europa los contrata: así es el mapa de la nueva fuga de cerebros",
-      "subtitle": "La falta de oportunidades y los bajos salarios impulsa la salida de talento español hacia Europa, sumiendo a sus regiones de origen en una trampa de difícil salida",
-      "url": "https://www.elconfidencial.com/mundo/europa/2026-02-09/fuga-cerebros-espana-talento_4293548/",
-      "scraped_at": "2026-02-09T07:20:30Z"
+      "title": "El juez pide los correos de Begoña Gómez y que Interior informe si viajó a Dominicana",
+      "subtitle": "Critica la falta de colaboración de la investigada y el propio Sánchez y defiende sus medidas como proporcionadas: “Ordenar el registro de su casa sí que sería desproporcionado”",
+      "url": "https://www.elconfidencial.com/espana/2026-02-10/juez-pide-correos-begona-gomez-interior-informe-viaje-republica-dominicana_4300230/",
+      "scraped_at": "2026-02-10T07:20:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El rey de la cocaína de Bolivia que hizo su negocio con los nazis que acabaron en el país",
-      "subtitle": "Los periodistas López Canales y Bergmann reconstruyen la historia sobre el boom de la cocaína y la complicidad de los nazis y la CIA con las dictaduras latinoamericanas en el libro &#039;El narco y el nazi&#039;. Este es un extracto",
-      "url": "https://www.elconfidencial.com/cultura/2026-02-08/nazis-y-cocaina_4296930/",
-      "scraped_at": "2026-02-09T07:20:40Z"
+      "title": "El activista que quiere prohibir los teléfonos móviles hasta los 18: \"Sánchez se queda corto\"",
+      "subtitle": "Daniel Hidalgo es emprendedor digital e impulsor del Movimiento OFF y cree que restringir los &#039;smartphones&#039; a los menores de edad limitaría mucho sus efectos negativos",
+      "url": "https://www.elconfidencial.com/cultura/2026-02-09/movimiento-off-diego-hidalgo-entrevista_4298546/",
+      "scraped_at": "2026-02-10T07:20:50Z"
     }
   ]
 }

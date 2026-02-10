@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El PP de Azcón pierde escaños y es más rehén de Vox en Aragón, mientras el PSOE de Alegría se descalabra: El presidente aragonés no rentabiliza el adelanto electoral y da alas a Vox, que se dispara hasta los 14 escaños. Los socialistas igualan su suelo histórico. La gobernabilidad en Aragón será mucho más complicada con el nuevo hemiciclo; Feijóo encalla por segunda vez frente a Vox y Sánchez cae a los infiernos del mínimo histórico en Aragón: El 8F deja un panorama devastador para el PSOE, al tiempo que recrudece la guerra entre las derechas. La derrota socialista no cambiará los planes de Sánchez, que siempre pasaron por agotar la legislatura hasta 2027 para dejar que el PP chapotee en el barro junto a Abascal mientras negocia los gobiernos autonómicos donde suman mayoría.; El PP no deja de hacer regalos a Vox: Azcón y Feijóo buscaban acercarse a la mayoría absoluta en Aragón y solo consiguen perder dos escaños y que Vox doble los suyos con el 17%. El PSOE recibe un resultado horrible con la candidata elegida personalmente por Sánchez. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-09T07:20:22Z",
+  "summary": "Resumen del día en elDiario.es: La alianza que propone Rufián agita a la izquierda confederal: El portavoz de ERC en el Congreso defiende inventar \"algo\" para frenar el auge de la extrema derecha al que apuntan las recientes elecciones, pero a priori ni Sumar ni fuerzas como EH Bildu o el BNG comparten una alianza que incorpore a las izquierdas estatales y confederales; El peaje que Vox exigirá a Azcón para darle su apoyo: medidas xenófobas, acoso a las ONG o bajadas de impuestos: La extrema derecha, que ya ha dejado claro que quiere entrar en el Gobierno de Azcón, buscará impulsar medidas regresivas en el ámbito educativo o social, y ultraliberales en lo económico; Vito Quiles, el difusor de bulos contratado por Alvise al que recurre el PP para contrarrestar a Vox: El agitador ultra pide en un acto de los populares \"meter en la cárcel\" al presidente del Gobierno, al que calificó de \"autócrata\" y aseguró que los jóvenes de España quieren verlo \"colgado de un pino\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-10T07:20:44Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El PP de Azcón pierde escaños y es más rehén de Vox en Aragón, mientras el PSOE de Alegría se descalabra",
-      "subtitle": "El presidente aragonés no rentabiliza el adelanto electoral y da alas a Vox, que se dispara hasta los 14 escaños. Los socialistas igualan su suelo histórico. La gobernabilidad en Aragón será mucho más complicada con el nuevo hemiciclo",
-      "url": "https://www.eldiario.es/aragon/politica/pp-azcon-pierde-escanos-rehen-vox-psoe-alegria-descalabra_1_12972570.html",
-      "scraped_at": "2026-02-09T07:20:20Z"
+      "title": "La alianza que propone Rufián agita a la izquierda confederal",
+      "subtitle": "El portavoz de ERC en el Congreso defiende inventar \"algo\" para frenar el auge de la extrema derecha al que apuntan las recientes elecciones, pero a priori ni Sumar ni fuerzas como EH Bildu o el BNG comparten una alianza que incorpore a las izquierdas estatales y confederales",
+      "url": "https://www.eldiario.es/politica/alianza-propone-rufian-agita-izquierda-confederal_1_12976584.html",
+      "scraped_at": "2026-02-10T07:20:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo encalla por segunda vez frente a Vox y Sánchez cae a los infiernos del mínimo histórico en Aragón",
-      "subtitle": "El 8F deja un panorama devastador para el PSOE, al tiempo que recrudece la guerra entre las derechas. La derrota socialista no cambiará los planes de Sánchez, que siempre pasaron por agotar la legislatura hasta 2027 para dejar que el PP chapotee en el barro junto a Abascal mientras negocia los gobiernos autonómicos donde suman mayoría.",
-      "url": "https://www.eldiario.es/politica/feijoo-encalla-segunda-vez-frente-vox-sanchez-cae-infiernos-minimo-historico-aragon_129_12973493.html",
-      "scraped_at": "2026-02-09T07:20:20Z"
+      "title": "El peaje que Vox exigirá a Azcón para darle su apoyo: medidas xenófobas, acoso a las ONG o bajadas de impuestos",
+      "subtitle": "La extrema derecha, que ya ha dejado claro que quiere entrar en el Gobierno de Azcón, buscará impulsar medidas regresivas en el ámbito educativo o social, y ultraliberales en lo económico",
+      "url": "https://www.eldiario.es/aragon/politica/peaje-vox-exigira-azcon-darle-apoyo-medidas-xenofobas-acoso-ong-bajadas-impuestos_1_12975460.html",
+      "scraped_at": "2026-02-10T07:20:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP no deja de hacer regalos a Vox",
-      "subtitle": "Azcón y Feijóo buscaban acercarse a la mayoría absoluta en Aragón y solo consiguen perder dos escaños y que Vox doble los suyos con el 17%. El PSOE recibe un resultado horrible con la candidata elegida personalmente por Sánchez",
-      "url": "https://www.eldiario.es/politica/pp-no-deja-regalos-vox_129_12973568.html",
-      "scraped_at": "2026-02-09T07:20:21Z"
+      "title": "Vito Quiles, el difusor de bulos contratado por Alvise al que recurre el PP para contrarrestar a Vox",
+      "subtitle": "El agitador ultra pide en un acto de los populares \"meter en la cárcel\" al presidente del Gobierno, al que calificó de \"autócrata\" y aseguró que los jóvenes de España quieren verlo \"colgado de un pino\"",
+      "url": "https://www.eldiario.es/politica/vito-quiles-difusor-bulos-contratado-alvise-recurre-pp-contrarrestar-vox_1_12976358.html",
+      "scraped_at": "2026-02-10T07:20:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP confirma en Aragón su dependencia de Vox para gobernar",
-      "subtitle": "Con el acuerdo de Extremadura en el aire desde el mes de diciembre y un resultado este domingo muy alejado de la mayoría absoluta, el ciclo de elecciones autonómicas ideado por Feijóo contra Sánchez desvela la incapacidad de la derecha para deshacerse de una extrema derecha crecida",
-      "url": "https://www.eldiario.es/politica/pp-confirma-aragon-dependencia-vox-gobernar_1_12973745.html",
-      "scraped_at": "2026-02-09T07:20:22Z"
+      "title": "Preocupación, desconcierto e impotencia",
+      "subtitle": "Los principales partidos se debaten entre la negación de la realidad y la incapacidad para afrontar el auge de la extrema derecha sin autocrítica y sin una estrategia con la que rearmar argumentos o responder a la pregunta ¿hacia dónde vamos? Feijóo se recrea en la derrota del PSOE y no en los motivos de su retroceso mientras Sánchez se conforma con haber elegido candidatos con tiempo para madurar, convencido de que las autonomías transitan a ciclos cortos electorales",
+      "url": "https://www.eldiario.es/opinion/zona-critica/preocupacion-desconcierto-e-impotencia_129_12976342.html",
+      "scraped_at": "2026-02-10T07:20:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Elecciones Portugal",
-      "subtitle": "Seguro logra el mayor número de votos obtenidos por un único candidato presidencial en Portugal desde la Revolución de los Claveles y acaba con las esperanzas del líder de Chega, que insiste en colocarse como el \"nuevo líder\" de la derecha portuguesa",
-      "url": "https://www.eldiario.es/internacional/socialista-seguro-arrasa-ultra-ventura-presidenciales-portuguesas-sondeos_1_12972260.html",
-      "scraped_at": "2026-02-09T07:20:22Z"
+      "title": "Huelga trenes",
+      "subtitle": "Hoy se ha llevado a cabo la primera jornada de paros de las tres que habían sido convocadas tras los accidentes de alta velocidad en Adamuz (Córdoba) y de Rodalies en Gelida (Barcelona)",
+      "url": "https://www.eldiario.es/economia/sindicatos-mayoritarios-desconvocan-huelga-ferrocarril-manana-martes_1_12974546.html",
+      "scraped_at": "2026-02-10T07:20:44Z"
     }
   ]
 }
