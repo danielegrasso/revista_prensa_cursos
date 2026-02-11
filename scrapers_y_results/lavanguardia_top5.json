@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Feijóo tiende la mano a Abascal para investir a Azcón: El líder del PP señala que pondrá como límite la Constitución y la ley; La España hallada en Zaragoza: Aragón deja una España proeuropea que puede ser controlada por Vox; La estrategia del ‘Made in Europe’ para priorizar el producto local divide a la UE: Los países nórdicos y bálticos avisan de los riesgos de forzar la preferencia europea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-10T07:20:48Z",
+  "summary": "Resumen del día en La Vanguardia: El pulso entre PP y Vox tumba el primer intento de investidura en Extremadura: Garriga da un “no rotundo” a Guardiola tras anunciar que se presentará a la votación; Vox juega a desgastar al PP: Con los resultados de Aragón aún calientes, Vox le ha dado el primer portazo en las narices al PP. Lo ha hecho en Extremadura, donde ha anunciado un “no rotundo” a; Rufián agita la izquierda: ¿Hay vida a la izquierda del PSOE? ¿Cuándo se convoquen las próximas elecciones generales —aún sin fecha— quedará alguien situado a su izquierda en el tablero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-11T07:17:40Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Feijóo tiende la mano a Abascal para investir a Azcón",
-      "subtitle": "El líder del PP señala que pondrá como límite la Constitución y la ley",
-      "url": "https://www.lavanguardia.com/politica/20260210/11462117/feijoo-tiende-mano-abascal-investir-azcon.html",
-      "scraped_at": "2026-02-10T07:20:47Z"
+      "title": "El pulso entre PP y Vox tumba el primer intento de investidura en Extremadura",
+      "subtitle": "Garriga da un “no rotundo” a Guardiola tras anunciar que se presentará a la votación",
+      "url": "https://www.lavanguardia.com/politica/20260211/11463062/pulso-pp-vox-tumba-primer-intento-investidura-extremadura.html",
+      "scraped_at": "2026-02-11T07:17:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La España hallada en Zaragoza",
-      "subtitle": "Aragón deja una España proeuropea que puede ser controlada por Vox",
-      "url": "https://www.lavanguardia.com/politica/20260210/11462255/espana-hallada-zaragoza.html",
-      "scraped_at": "2026-02-10T07:20:47Z"
+      "title": "Vox juega a desgastar al PP",
+      "subtitle": "Con los resultados de Aragón aún calientes, Vox le ha dado el primer portazo en las narices al PP. Lo ha hecho en Extremadura, donde ha anunciado un “no rotundo” a",
+      "url": "https://www.lavanguardia.com/opinion/20260211/11463098/vox-juega-desgastar-pp.html",
+      "scraped_at": "2026-02-11T07:17:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La estrategia del ‘Made in Europe’ para priorizar el producto local divide a la UE",
-      "subtitle": "Los países nórdicos y bálticos avisan de los riesgos de forzar la preferencia europea",
-      "url": "https://www.lavanguardia.com/economia/20260210/11462046/estrategia-made-in-europe-priorizar-producto-local-divide-ue.html",
-      "scraped_at": "2026-02-10T07:20:48Z"
+      "title": "Rufián agita la izquierda",
+      "subtitle": "¿Hay vida a la izquierda del PSOE? ¿Cuándo se convoquen las próximas elecciones generales —aún sin fecha— quedará alguien situado a su izquierda en el tablero",
+      "url": "https://www.lavanguardia.com/politica/20260211/11463069/rufian-agita-izquierda.html",
+      "scraped_at": "2026-02-11T07:17:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Hay otra América posible",
-      "subtitle": "Donald Trump aún no ha podido terminar con el sueño americano, con la ilusión de miles de personas que pueden prosperar en su vida y alcanzar unas cotas de bienestar",
-      "url": "https://www.lavanguardia.com/opinion/20260210/11462133/hay-america-posible.html",
-      "scraped_at": "2026-02-10T07:20:48Z"
+      "title": "Bruselas avisa a España que un permiso de residencia no es “un cheque en blanco”",
+      "subtitle": "El comisario de Migración dice que los Estados miembros deben asegurarse de que sus decisiones no tengan “consecuencias negativas” en otros países de la UE",
+      "url": "https://www.lavanguardia.com/politica/20260210/11463037/bruselas-advierte-espana-permiso-residencia-cheque-blanco.html",
+      "scraped_at": "2026-02-11T07:17:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La Fiscalía pide 45 años de prisión al expresidente de Kosovo por crímenes de guerra",
-      "subtitle": "El veredicto podría cambiar la visión del conflicto ya que cada comunidad se aferra a su propia versión de los hechos",
-      "url": "https://www.lavanguardia.com/internacional/20260209/11461784/fiscalia-pide-45-anos-prision-expresidente-kosovo-hashim-thaci-crimenes-guerra.html",
-      "scraped_at": "2026-02-10T07:20:48Z"
+      "title": "Eliminación de una decena meganidos de cotorras en la Diagonal de Barcelona",
+      "subtitle": "Periódicamente es necesario efectuar este tipo de intervenciones en las palmeras para evitar la caída sobre las vías del tranvía",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260210/11462886/eliminacion-decena-meganidos-cotorras-diagonal-barcelona.html",
+      "scraped_at": "2026-02-11T07:17:40Z"
     }
   ]
 }
