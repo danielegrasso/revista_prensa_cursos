@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: ¿El final de Díaz? Comienza la lucha en Sumar para sustituir a la vicepresidenta: Encuestas internas desvelan que la ministra ya no gusta entre sus votantes, por lo que el plan de refundación lanzado por Más Madrid, IU, Comunes y Sumar parte sin candidato claro y sin marca electoral; Los vecinos de El Viso van a la guerra contra el 'Pentágono' que levanta Defensa en La Castellana: El barrio más exclusivo de Madrid está en pie de guerra. El motivo es el complejo de oficinas que prepara Defensa junto a sus viviendas, una suerte de Pentágono con rascacielos incluido; La gran guerra del siglo ha estallado y este historiador de Princeton lidera la rebelión: En 2018, el historiador D. Graham Burnett fundó con Peter Schmidt y Alyssa Loh una organización de activistas cuyo objetivo es recuperar nuestra capacidad de atención. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-11T07:17:44Z",
+  "summary": "Resumen del día en El Confidencial: El PSC ofrece a Junts en secreto pactar una ley electoral catalana para frenar a Orriols: Tras el subidón de Vox en Aragón, en Cataluña los partidos mayoritarios ponen las barbas a remojar y barajan aprovechar que Cataluña sea la única autonomía sin ley electoral propia; El español con más títulos de FP no tiene trabajo: \"Nadie me llama\": Antonio Miguel Moreno Hidalgo lleva 17 años sin firmar un contrato fijo y no ha parado de estudiar para ampliar su CV. Vive en una de las zonas con más paro de España y ha renunciado a moverse de ahí para encontrar trabajo; La asesoría jurídica de las grandes firmas se prepara para el nuevo marco regulatorio: Los expertos que han participado en el &#039;III Observatorio de la asesoría jurídica de la gran empresa&#039; de Deloitte y El Confidencial piden más claridad para adaptarse a la transformación digital. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-12T07:16:26Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "¿El final de Díaz? Comienza la lucha en Sumar para sustituir a la vicepresidenta",
-      "subtitle": "Encuestas internas desvelan que la ministra ya no gusta entre sus votantes, por lo que el plan de refundación lanzado por Más Madrid, IU, Comunes y Sumar parte sin candidato claro y sin marca electoral",
-      "url": "https://www.elconfidencial.com/espana/2026-02-11/final-yolanda-diaz-lucha-sumar-sustituir-vicepresidenta_4300958/",
-      "scraped_at": "2026-02-11T07:17:42Z"
+      "title": "El PSC ofrece a Junts en secreto pactar una ley electoral catalana para frenar a Orriols",
+      "subtitle": "Tras el subidón de Vox en Aragón, en Cataluña los partidos mayoritarios ponen las barbas a remojar y barajan aprovechar que Cataluña sea la única autonomía sin ley electoral propia",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-12/psc-ofrece-junts-pactar-ley-electoral-frene-orriols_4301583/",
+      "scraped_at": "2026-02-12T07:16:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los vecinos de El Viso van a la guerra contra el 'Pentágono' que levanta Defensa en La Castellana",
-      "subtitle": "El barrio más exclusivo de Madrid está en pie de guerra. El motivo es el complejo de oficinas que prepara Defensa junto a sus viviendas, una suerte de Pentágono con rascacielos incluido",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-02-11/vivienda-lujo-el-viso-ministerio-defensa-pentagono_4300826/",
-      "scraped_at": "2026-02-11T07:17:42Z"
+      "title": "El español con más títulos de FP no tiene trabajo: \"Nadie me llama\"",
+      "subtitle": "Antonio Miguel Moreno Hidalgo lleva 17 años sin firmar un contrato fijo y no ha parado de estudiar para ampliar su CV. Vive en una de las zonas con más paro de España y ha renunciado a moverse de ahí para encontrar trabajo",
+      "url": "https://www.elconfidencial.com/espana/2026-02-12/empleo-educacion-formacion-fp_4298956/",
+      "scraped_at": "2026-02-12T07:16:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La gran guerra del siglo ha estallado y este historiador de Princeton lidera la rebelión",
-      "subtitle": "En 2018, el historiador D. Graham Burnett fundó con Peter Schmidt y Alyssa Loh una organización de activistas cuyo objetivo es recuperar nuestra capacidad de atención",
-      "url": "https://www.elconfidencial.com/cultura/2026-02-11/friends-attention-graham-burnett-guerra-atencion_4296510/",
-      "scraped_at": "2026-02-11T07:17:43Z"
+      "title": "La asesoría jurídica de las grandes firmas se prepara para el nuevo marco regulatorio",
+      "subtitle": "Los expertos que han participado en el &#039;III Observatorio de la asesoría jurídica de la gran empresa&#039; de Deloitte y El Confidencial piden más claridad para adaptarse a la transformación digital",
+      "url": "https://www.elconfidencial.com/juridico/2026-02-12/asesorias-juridicas-empresas-ia-regulacion-bra_4301426/",
+      "scraped_at": "2026-02-12T07:16:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Por qué Noam Chomsky se dejó engatusar por Epstein (aunque sabía que eso podía pasar)",
-      "subtitle": "La última persona que te imaginabas en el  avión de Epstein: Noam Chomsky. Las grietas del penúltimo intelectual puro",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-11/chomsky-epstein-escandalo-poder-1hms_4300877/",
-      "scraped_at": "2026-02-11T07:17:43Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Televisión",
-      "subtitle": "Cuando el número musical estaba llegando a su fin, el equipo de realización no pudo emitir una de las imágenes clave de la banda",
-      "url": "https://www.elconfidencial.com/television/",
-      "scraped_at": "2026-02-11T07:17:44Z"
+      "title": "RoomOO acelera y se hace con cinco hoteles en España, Portugal e Italia",
+      "subtitle": "Room00 pisa el acelerador en su plan de crecimiento. La hotelera dirigida por Ignacio Requena se ha hecho con cinco activos en Barcelona, Madrid, Málaga, Oporto y Roma",
+      "url": "https://www.elconfidencial.com/inmobiliario/hoteles/2026-02-12/room00-compra-cinco-hoteles_4301742/",
+      "scraped_at": "2026-02-12T07:16:26Z"
     }
   ]
 }

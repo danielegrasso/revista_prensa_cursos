@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Una empresa fantasma registró el negocio de las hijas de Zapatero en Venezuela: El nombre del portal de videojuegos fue dado de alta por una sociedad que no figura en ningún registro ni en la red; Adif afronta la lluvia de millones pactada por Óscar Puente y sindicatos con sus cuentas al límite: La crisis ferroviaria mermará los ingresos del gestor por cánones de este año, mientras la deuda supera los 20.000 millones de euros; El fútbol toca fondos: de instrumentos financieros a propietarios de los clubes: La compra del Atlético por parte de Apollo evidencia un fenómeno que ya se extiende desde las antípodas hasta México y que mantiene con una sensación contradictoria a los aficionados. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-11T07:17:39Z",
+  "summary": "Resumen del día en ABC.es: Sánchez da por acabada la renovación del AVE a Andalucía y Transportes afirma lo contrario: Transportes admite que debe acabar aún el refuerzo de la infraestructura, renovar 47 desvíos y 124.000 traviesas y terminar nuevos sistemas de señalización, comunicaciones y hasta subestaciones; El negocio de las hijas de Zapatero se gestionó desde República Dominicana y está registrado en Panamá: ABC localiza a la persona que desarrolló, mantiene y protege el funcionamiento de la web de la sociedad aliada con la agencia de las hijas del expresidente; Las incógnitas alrededor de la actividad empresarial de las hijas del expresidente: Ni rastro de los propietarios de la sociedad ni del motivo por el que desapareció la empresa de la red tras la detención de Nicolás Maduro. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-12T07:16:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Una empresa fantasma registró el negocio de las hijas de Zapatero en Venezuela",
-      "subtitle": "El nombre del portal de videojuegos fue dado de alta por una sociedad que no figura en ningún registro ni en la red",
-      "url": "https://www.abc.es/espana/negocio-hijas-zapatero-venezuela-registrado-empresa-fantasma-20260204040430-nt.html",
-      "scraped_at": "2026-02-11T07:17:38Z"
+      "title": "Sánchez da por acabada la renovación del AVE a Andalucía y Transportes afirma lo contrario",
+      "subtitle": "Transportes admite que debe acabar aún el refuerzo de la infraestructura, renovar 47 desvíos y 124.000 traviesas y terminar nuevos sistemas de señalización, comunicaciones y hasta subestaciones",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/transportes-prolonga-2026-renovacion-integral-linea-alta-20260212040834-nts.html",
+      "scraped_at": "2026-02-12T07:16:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Adif afronta la lluvia de millones pactada por Óscar Puente y sindicatos con sus cuentas al límite",
-      "subtitle": "La crisis ferroviaria mermará los ingresos del gestor por cánones de este año, mientras la deuda supera los 20.000 millones de euros",
-      "url": "https://www.abc.es/economia/adif-enfrenta-lluvia-millones-pactada-puente-sindicatos-20260211040512-nt.html",
-      "scraped_at": "2026-02-11T07:17:38Z"
+      "title": "El negocio de las hijas de Zapatero se gestionó desde República Dominicana y está registrado en Panamá",
+      "subtitle": "ABC localiza a la persona que desarrolló, mantiene y protege el funcionamiento de la web de la sociedad aliada con la agencia de las hijas del expresidente",
+      "url": "https://www.abc.es/espana/negocio-hijas-zapatero-venezuela-gestiono-republica-dominicana-20260212041234-nt.html",
+      "scraped_at": "2026-02-12T07:16:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "El fútbol toca fondos: de instrumentos financieros a propietarios de los clubes",
-      "subtitle": "La compra del Atlético por parte de Apollo evidencia un fenómeno que ya se extiende desde las antípodas hasta México y que mantiene con una sensación contradictoria a los aficionados",
-      "url": "https://www.abc.es/deportes/atletico-madrid/futbol-mundial-pertenece-fondos-inversion-20260207040531-nt.html",
-      "scraped_at": "2026-02-11T07:17:39Z"
+      "title": "Las incógnitas alrededor de la actividad empresarial de las hijas del expresidente",
+      "subtitle": "Ni rastro de los propietarios de la sociedad ni del motivo por el que desapareció la empresa de la red tras la detención de Nicolás Maduro",
+      "url": "https://www.abc.es/espana/incognitas-alrededor-negocio-hijas-zapatero-20260211041245-nt.html",
+      "scraped_at": "2026-02-12T07:16:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Preguntas y respuestas sobre la prestación por crianza: ¿cuándo se va a aprobar?, ¿cuáles son los requisitos?",
-      "subtitle": "Será suficiente con que el solicitante tenga residencia legal en España para poder pedir esta ayuda",
-      "url": "https://www.abc.es/sociedad/aprobar-prestacion-universal-crianza-podre-pedir-sabe-20260210194343-nt.html",
-      "scraped_at": "2026-02-11T07:17:39Z"
+      "title": "El PSOE extremeño trata de explotar el pánico del PP a una repetición electoral",
+      "subtitle": "Pesos pesados de los socialistas de Extremadura se ofrecen a Guardiola para negociar pese al mandato de Ferraz de no hacerlo",
+      "url": "https://www.abc.es/espana/extremadura/genova-ferraz-frenan-seco-flirteo-guardiola-psoe-20260212041333-nt.html",
+      "scraped_at": "2026-02-12T07:16:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Armengol",
-      "subtitle": "Los dos socios unen fuerzas en la Mesa de la Cámara Baja para echar abajo la tramitación de la propuesta del PP",
-      "url": "https://www.abc.es/espana/psoe-sumar-vetan-congreso-pueda-condenar-armengol-20260210115814-nt.html",
-      "scraped_at": "2026-02-11T07:17:39Z"
+      "title": "Dónde ver Athletic - Real Sociedad",
+      "subtitle": "Conoce a qué hora es el partido del Athletic contra la Real Sociedad de Copa del Rey y dónde ver gratis en televisión y online hoy, 11 de febrero",
+      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-gratis-television-athletic-real-sociedad-copa-rey-horario-20260211200050-nt.html",
+      "scraped_at": "2026-02-12T07:16:22Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El pulso entre PP y Vox tumba el primer intento de investidura en Extremadura: Garriga da un “no rotundo” a Guardiola tras anunciar que se presentará a la votación; Vox juega a desgastar al PP: Con los resultados de Aragón aún calientes, Vox le ha dado el primer portazo en las narices al PP. Lo ha hecho en Extremadura, donde ha anunciado un “no rotundo” a; Rufián agita la izquierda: ¿Hay vida a la izquierda del PSOE? ¿Cuándo se convoquen las próximas elecciones generales —aún sin fecha— quedará alguien situado a su izquierda en el tablero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-11T07:17:40Z",
+  "summary": "Resumen del día en La Vanguardia: La alerta por viento vuelve a parar hoy la actividad en Catalunya: El Govern suspende clases, limita la velocidad de trenes y recomienda teletrabajar; No tenemos la culpa: La movilidad de los ciudadanos en las grandes urbes es cada vez más complicada como bien saben los barceloneses y los madrileños. La población ha crecido mucho y la; Las dos caras de la moneda de Ábalos: En pocos meses, el exministro podría estar condenado en firme y ya solo podría lograr algún beneficio penitenciario. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-12T07:16:24Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El pulso entre PP y Vox tumba el primer intento de investidura en Extremadura",
-      "subtitle": "Garriga da un “no rotundo” a Guardiola tras anunciar que se presentará a la votación",
-      "url": "https://www.lavanguardia.com/politica/20260211/11463062/pulso-pp-vox-tumba-primer-intento-investidura-extremadura.html",
-      "scraped_at": "2026-02-11T07:17:40Z"
+      "title": "La alerta por viento vuelve a parar hoy la actividad en Catalunya",
+      "subtitle": "El Govern suspende clases, limita la velocidad de trenes y recomienda teletrabajar",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260212/11464081/alerta-viento-vuelve-parar-hoy-actividad-catalunya.html",
+      "scraped_at": "2026-02-12T07:16:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Vox juega a desgastar al PP",
-      "subtitle": "Con los resultados de Aragón aún calientes, Vox le ha dado el primer portazo en las narices al PP. Lo ha hecho en Extremadura, donde ha anunciado un “no rotundo” a",
-      "url": "https://www.lavanguardia.com/opinion/20260211/11463098/vox-juega-desgastar-pp.html",
-      "scraped_at": "2026-02-11T07:17:40Z"
+      "title": "No tenemos la culpa",
+      "subtitle": "La movilidad de los ciudadanos en las grandes urbes es cada vez más complicada como bien saben los barceloneses y los madrileños. La población ha crecido mucho y la",
+      "url": "https://www.lavanguardia.com/opinion/20260212/11464079/culpa.html",
+      "scraped_at": "2026-02-12T07:16:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Rufián agita la izquierda",
-      "subtitle": "¿Hay vida a la izquierda del PSOE? ¿Cuándo se convoquen las próximas elecciones generales —aún sin fecha— quedará alguien situado a su izquierda en el tablero",
-      "url": "https://www.lavanguardia.com/politica/20260211/11463069/rufian-agita-izquierda.html",
-      "scraped_at": "2026-02-11T07:17:40Z"
+      "title": "Las dos caras de la moneda de Ábalos",
+      "subtitle": "En pocos meses, el exministro podría estar condenado en firme y ya solo podría lograr algún beneficio penitenciario",
+      "url": "https://www.lavanguardia.com/politica/20260212/11464016/dos-caras-moneda-abalos.html",
+      "scraped_at": "2026-02-12T07:16:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Bruselas avisa a España que un permiso de residencia no es “un cheque en blanco”",
-      "subtitle": "El comisario de Migración dice que los Estados miembros deben asegurarse de que sus decisiones no tengan “consecuencias negativas” en otros países de la UE",
-      "url": "https://www.lavanguardia.com/politica/20260210/11463037/bruselas-advierte-espana-permiso-residencia-cheque-blanco.html",
-      "scraped_at": "2026-02-11T07:17:40Z"
+      "title": "La izquierda se divide para tener razón",
+      "subtitle": "¿Qué posibilidades hay de lograr la unidad de la izquierda? De la propuesta de Rufián al futuro de Yolanda Díaz",
+      "url": "https://www.lavanguardia.com/politica/20260212/11464033/izquierda-divide-razon.html",
+      "scraped_at": "2026-02-12T07:16:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Eliminación de una decena meganidos de cotorras en la Diagonal de Barcelona",
-      "subtitle": "Periódicamente es necesario efectuar este tipo de intervenciones en las palmeras para evitar la caída sobre las vías del tranvía",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260210/11462886/eliminacion-decena-meganidos-cotorras-diagonal-barcelona.html",
-      "scraped_at": "2026-02-11T07:17:40Z"
+      "title": "El uso del español  podría estar llegando a su techo",
+      "subtitle": "A pesar del éxito de Bad Bunny, el inglés se impone entre los latinos de las nuevas generaciones",
+      "url": "https://www.lavanguardia.com/internacional/20260211/11461017/estados-unidos-espanol-ingles-latinos.html",
+      "scraped_at": "2026-02-12T07:16:24Z"
     }
   ]
 }
