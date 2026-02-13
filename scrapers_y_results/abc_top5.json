@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez da por acabada la renovación del AVE a Andalucía y Transportes afirma lo contrario: Transportes admite que debe acabar aún el refuerzo de la infraestructura, renovar 47 desvíos y 124.000 traviesas y terminar nuevos sistemas de señalización, comunicaciones y hasta subestaciones; El negocio de las hijas de Zapatero se gestionó desde República Dominicana y está registrado en Panamá: ABC localiza a la persona que desarrolló, mantiene y protege el funcionamiento de la web de la sociedad aliada con la agencia de las hijas del expresidente; Las incógnitas alrededor de la actividad empresarial de las hijas del expresidente: Ni rastro de los propietarios de la sociedad ni del motivo por el que desapareció la empresa de la red tras la detención de Nicolás Maduro. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-12T07:16:22Z",
+  "summary": "Resumen del día en ABC.es: Adif moviliza a medio centenar de empleados para vigilar día y noche los muros de Rodalies: Esa vigilancia seguirá mientras duren las incidencias en la red catalana; La demanda y los precios del AVE se hunden tras la tragedia de Adamuz mientras el puente aéreo agota los billetes: El sector achaca el desplome al accidente y a los límites temporales de velocidad, que dejan los tickets casi un 40% más baratos en la línea Madrid-Barcelona; La comisión pone el foco en la aguja de la vía de Adamuz y el circuito eléctrico que localizaba a los trenes: Observadores de la Agencia Ferroviaria de la UE supervisarán el trabajo de la comisión técnica. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-13T07:13:47Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez da por acabada la renovación del AVE a Andalucía y Transportes afirma lo contrario",
-      "subtitle": "Transportes admite que debe acabar aún el refuerzo de la infraestructura, renovar 47 desvíos y 124.000 traviesas y terminar nuevos sistemas de señalización, comunicaciones y hasta subestaciones",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/transportes-prolonga-2026-renovacion-integral-linea-alta-20260212040834-nts.html",
-      "scraped_at": "2026-02-12T07:16:22Z"
+      "title": "Adif moviliza a medio centenar de empleados para vigilar día y noche los muros de Rodalies",
+      "subtitle": "Esa vigilancia seguirá mientras duren las incidencias en la red catalana",
+      "url": "https://www.abc.es/espana/cataluna/adif-gasta-100000-euros-mes-apostar-personas-20260213041131-nt.html",
+      "scraped_at": "2026-02-13T07:13:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "El negocio de las hijas de Zapatero se gestionó desde República Dominicana y está registrado en Panamá",
-      "subtitle": "ABC localiza a la persona que desarrolló, mantiene y protege el funcionamiento de la web de la sociedad aliada con la agencia de las hijas del expresidente",
-      "url": "https://www.abc.es/espana/negocio-hijas-zapatero-venezuela-gestiono-republica-dominicana-20260212041234-nt.html",
-      "scraped_at": "2026-02-12T07:16:22Z"
+      "title": "La demanda y los precios del AVE se hunden tras la tragedia de Adamuz mientras el puente aéreo agota los billetes",
+      "subtitle": "El sector achaca el desplome al accidente y a los límites temporales de velocidad, que dejan los tickets casi un 40% más baratos en la línea Madrid-Barcelona",
+      "url": "https://www.abc.es/economia/demanda-ave-precios-hunden-tras-tragedia-adamuz-20260213041139-nt.html",
+      "scraped_at": "2026-02-13T07:13:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las incógnitas alrededor de la actividad empresarial de las hijas del expresidente",
-      "subtitle": "Ni rastro de los propietarios de la sociedad ni del motivo por el que desapareció la empresa de la red tras la detención de Nicolás Maduro",
-      "url": "https://www.abc.es/espana/incognitas-alrededor-negocio-hijas-zapatero-20260211041245-nt.html",
-      "scraped_at": "2026-02-12T07:16:22Z"
+      "title": "La comisión pone el foco en la aguja de la vía de Adamuz y el circuito eléctrico que localizaba a los trenes",
+      "subtitle": "Observadores de la Agencia Ferroviaria de la UE supervisarán el trabajo de la comisión técnica",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/ciaf-pone-foco-aguja-via-adamuz-circuito-20260212201549-nts.html",
+      "scraped_at": "2026-02-13T07:13:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE extremeño trata de explotar el pánico del PP a una repetición electoral",
-      "subtitle": "Pesos pesados de los socialistas de Extremadura se ofrecen a Guardiola para negociar pese al mandato de Ferraz de no hacerlo",
-      "url": "https://www.abc.es/espana/extremadura/genova-ferraz-frenan-seco-flirteo-guardiola-psoe-20260212041333-nt.html",
-      "scraped_at": "2026-02-12T07:16:22Z"
+      "title": "Diez millones de extranjeros en España: «El problema de la vivienda nunca desaparecerá»",
+      "subtitle": "Aunque se ha superado el 'hito' de los diez millones, el crecimiento anual de la población es menor, porcentualmente, que en años anteriores",
+      "url": "https://www.abc.es/sociedad/diez-millones-extranjeros-espana-problema-vivienda-nunca-20260213041359-nt.html",
+      "scraped_at": "2026-02-13T07:13:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "Dónde ver Athletic - Real Sociedad",
-      "subtitle": "Conoce a qué hora es el partido del Athletic contra la Real Sociedad de Copa del Rey y dónde ver gratis en televisión y online hoy, 11 de febrero",
-      "url": "https://www.abc.es/deportes/futbol/donde-ver-online-gratis-television-athletic-real-sociedad-copa-rey-horario-20260211200050-nt.html",
-      "scraped_at": "2026-02-12T07:16:22Z"
+      "title": "Incendio Jávea",
+      "subtitle": "Los Bomberos han desalojado la parte baja del inmueble y confinado en los pisos superiores al fuego hasta poder rescatar a todos los vecinos",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/dos-muertos-evacuados-incendio-domestico-varias-plantas-20260212184222-nt.html",
+      "scraped_at": "2026-02-13T07:13:47Z"
     }
   ]
 }
