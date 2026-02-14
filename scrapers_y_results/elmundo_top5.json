@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Batalla en el PSOE por Aragón tras \"la nada de los sanchistas\" y choque en el núcleo duro del presidente: Óscar López y Pilar Alegría, fieles de Moncloa, se enfrentan por la figura de Javier Lambán; ¿Hacemos autocrítica para que avance el PSOE?: Hoy existe un riesgo idéntico al de 2023. El PSOE debería plantearse ser más moderado en sus formas y más de izquierdas en sus políticas. Hablar menos de Vox y pensar más en la gente que les vota. Y fomentar el debate interno; La detención de cuatro argelinos con documentación falsa para regularizarse dispara la alarma de la Policía: La Policía activa la alarma por el aluvión de solicitudes que se espera en abril y alerta de que serán necesarios más recursos y aumentar plantillas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-02-13T07:13:41Z",
+  "summary": "Resumen del día en El Mundo: El 'núcleo duro' de Sánchez se agrieta tras la debacle electoral: Bolaños pone distancia con Óscar López y Saiz se alinea con Alegría: Cinco ministros se enfangan en cuestiones internas al censurar a Felipe González; El PSOE está \"convencido\" de que Montero exprima sus cargos en Madrid pese al desastre del precedente con Alegría: \"Las andaluzas de momento no se han adelantado\", dicen desde la dirección socialista para argumentar la continuidad de la vicepresidenta primera y ministra de Hacienda; El PSOE: cuando decir lo evidente es deslealtad: Cuando le reprochan sus pactos, sus fieles responden que Pedro Sánchez ha hecho lo mismo que sus predecesores: sacrificar parcialmente sus principios a cambio de poder. Según.... Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-02-14T07:02:15Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Batalla en el PSOE por Aragón tras \"la nada de los sanchistas\" y choque en el núcleo duro del presidente",
-      "subtitle": "Óscar López y Pilar Alegría, fieles de Moncloa, se enfrentan por la figura de Javier Lambán",
-      "url": "https://www.elmundo.es/espana/2026/02/12/698e2ff9fdddff563a8b457c.html",
-      "scraped_at": "2026-02-13T07:13:39Z"
+      "title": "El 'núcleo duro' de Sánchez se agrieta tras la debacle electoral: Bolaños pone distancia con Óscar López y Saiz se alinea con Alegría",
+      "subtitle": "Cinco ministros se enfangan en cuestiones internas al censurar a Felipe González",
+      "url": "https://www.elmundo.es/espana/2026/02/13/698f6833fc6c83c91e8b45ad.html",
+      "scraped_at": "2026-02-14T07:02:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "¿Hacemos autocrítica para que avance el PSOE?",
-      "subtitle": "Hoy existe un riesgo idéntico al de 2023. El PSOE debería plantearse ser más moderado en sus formas y más de izquierdas en sus políticas. Hablar menos de Vox y pensar más en la gente que les vota. Y fomentar el debate interno",
-      "url": "https://www.elmundo.es/opinion/2026/02/12/698dd1a0e9cf4afd468b458b.html",
-      "scraped_at": "2026-02-13T07:13:40Z"
+      "title": "El PSOE está \"convencido\" de que Montero exprima sus cargos en Madrid pese al desastre del precedente con Alegría",
+      "subtitle": "\"Las andaluzas de momento no se han adelantado\", dicen desde la dirección socialista para argumentar la continuidad de la vicepresidenta primera y ministra de Hacienda",
+      "url": "https://www.elmundo.es/espana/2026/02/13/698f69b421efa0c67f8b45c2.html",
+      "scraped_at": "2026-02-14T07:02:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "La detención de cuatro argelinos con documentación falsa para regularizarse dispara la alarma de la Policía",
-      "subtitle": "La Policía activa la alarma por el aluvión de solicitudes que se espera en abril y alerta de que serán necesarios más recursos y aumentar plantillas",
-      "url": "https://www.elmundo.es/espana/2026/02/12/698e2b43e4d4d8852a8b45b5.html",
-      "scraped_at": "2026-02-13T07:13:40Z"
+      "title": "El PSOE: cuando decir lo evidente es deslealtad",
+      "subtitle": "Cuando le reprochan sus pactos, sus fieles responden que Pedro Sánchez ha hecho lo mismo que sus predecesores: sacrificar parcialmente sus principios a cambio de poder. Según...",
+      "url": "https://www.elmundo.es/espana/2026/02/13/698f5ef0fc6c8373778b45ae.html",
+      "scraped_at": "2026-02-14T07:02:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Sánchez va al choque con Meloni tras su exclusión\ndel nuevo núcleo de decisión de la UE y en pleno auge de Vox",
-      "subtitle": "El presidente del Gobierno no fue invitado a una cumbre paralela a la oficial organizada por Alemania, Italia y Bélgica, pero sólo se quejó a la primera ministra italiana, referente de la ultraderecha",
-      "url": "https://www.elmundo.es/economia/2026/02/13/698e247c21efa0cf0e8b45b0.html",
-      "scraped_at": "2026-02-13T07:13:40Z"
+      "title": "Siete millones de viviendas en el limbo: el 73% de los proyectos urbanísticos anunciados están bloqueados",
+      "subtitle": "Los costes reales de obra han crecido al mismo ritmo o incluso más que los precios de venta. En 2005, el metro cuadrado costaba 635 euros mientras que en 2024 cuesta 1.323 euros",
+      "url": "https://www.elmundo.es/economia/2026/02/13/698dc434e85ece0f3a8b45d2.html",
+      "scraped_at": "2026-02-14T07:02:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Óscar López",
-      "subtitle": "El ministro había acusado al PSOE de Lambán de no haber hecho \"oposición\" al PP de Azcón desde la llegada de la ex ministra a Aragón",
-      "url": "https://www.elmundo.es/espana/2026/02/12/698de419e4d4d827588b4585.html",
-      "scraped_at": "2026-02-13T07:13:41Z"
+      "title": "La Grecia profunda",
+      "subtitle": "Es una de las regiones más aisladas de la Europa continental y sus habitantes presumen de descender directamente de los espartanos. Durante siglos, la población del Mani profundo ha intrigado a los historiadores. Ahora un estudio revela la huella genética que ha dejado este aislamiento: el 50% de los hombres desciende de un único ancestro masculino que vivió en el siglo VII",
+      "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/02/13/69823167e4d4d863018b45c0.html",
+      "scraped_at": "2026-02-14T07:02:15Z"
     }
   ]
 }
