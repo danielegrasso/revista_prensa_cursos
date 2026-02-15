@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los empresarios exigen que la Generalitat tome el control total de Rodalies: Foment del Treball crea una alianza por la movilidad con la Cambra y el RACC; El Gobierno prioriza la protección frente al mar de la línea R1 de Rodalies a corto plazo: El blindaje de la línea del Maresme será la primera misión de un nuevo grupo de trabajo creado por el Ministerio y la Generalitat para abordar los efectos del cambio; Illa recupera su agenda en un Govern acosado por múltiples crisis: El president, que sigue en tratamiento, regresará el lunes de forma progresiva a la actividad presencial. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-14T07:02:23Z",
+  "summary": "Resumen del día en La Vanguardia: EE.UU. suaviza el tono con Europa pero la quiere a su dictado: El discurso de Marco Rubio, amable en las formas, exige adhesión a los planes de Trump; Philippe Sands: “Si Europa no actúa unida ante EE.UU., está acabada”: El escritor y abogado británico, experto en crímenes de guerra, analiza los desafíos del nuevo escenario internacional; Ucrania, ante la oportunidad de una tregua: Zelensky tiene prisa por cerrar un alto el fuego ante el aumento del sufrimiento de la población civil. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-15T07:05:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los empresarios exigen que la Generalitat tome el control total de Rodalies",
-      "subtitle": "Foment del Treball crea una alianza por la movilidad con la Cambra y el RACC",
-      "url": "https://www.lavanguardia.com/economia/20260214/11466140/empresarios-exigen-generalitat-tome-control-total-rodalies.html",
-      "scraped_at": "2026-02-14T07:02:23Z"
+      "title": "EE.UU. suaviza el tono con Europa pero la quiere a su dictado",
+      "subtitle": "El discurso de Marco Rubio, amable en las formas, exige adhesión a los planes de Trump",
+      "url": "https://www.lavanguardia.com/internacional/20260215/11466602/estados-unidos-quiere-europa-son.html",
+      "scraped_at": "2026-02-15T07:05:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno prioriza la protección frente al mar de la línea R1 de Rodalies a corto plazo",
-      "subtitle": "El blindaje de la línea del Maresme será la primera misión de un nuevo grupo de trabajo creado por el Ministerio y la Generalitat para abordar los efectos del cambio",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260214/11466123/gobierno-prioriza-proteccion-frente-mar-linea-r1-rodalies-corto-plazo.html",
-      "scraped_at": "2026-02-14T07:02:23Z"
+      "title": "Philippe Sands: “Si Europa no actúa unida ante EE.UU., está acabada”",
+      "subtitle": "El escritor y abogado británico, experto en crímenes de guerra, analiza los desafíos del nuevo escenario internacional",
+      "url": "https://www.lavanguardia.com/internacional/20260215/11465860/philippe-sands-europa-actua-unida-ee-uu-esta-acabada.html",
+      "scraped_at": "2026-02-15T07:05:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Illa recupera su agenda en un Govern acosado por múltiples crisis",
-      "subtitle": "El president, que sigue en tratamiento, regresará el lunes de forma progresiva a la actividad presencial",
-      "url": "https://www.lavanguardia.com/politica/20260214/11466124/illa-recupera-agenda-govern-acosado-multiples-crisis.html",
-      "scraped_at": "2026-02-14T07:02:23Z"
+      "title": "Ucrania, ante la oportunidad de una tregua",
+      "subtitle": "Zelensky tiene prisa por cerrar un alto el fuego ante el aumento del sufrimiento de la población civil",
+      "url": "https://www.lavanguardia.com/internacional/20260215/11466511/ucrania-oportunidad-tregua.html",
+      "scraped_at": "2026-02-15T07:05:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La hora del Salvador",
-      "subtitle": "El servicio de Rodalies que no acaba de funcionar ni a la de tres, la peste porcina que se escapa fuera de la zona cero, las dificultades con Esquerra para empezar a",
-      "url": "https://www.lavanguardia.com/opinion/20260214/11466215/hora-salvador.html",
-      "scraped_at": "2026-02-14T07:02:23Z"
+      "title": "No será fácil saciar a Putin",
+      "subtitle": "Cuando se está a punto de cumplir el cuarto aniversario de la invasión rusa de Ucrania, la paz sigue siendo más un deseo del presidente Volodímir Zelenski que una",
+      "url": "https://www.lavanguardia.com/opinion/20260215/11466701/no-sera-facil-saciar-putin.html",
+      "scraped_at": "2026-02-15T07:05:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ser mala gente está de moda",
-      "subtitle": "En Buenos Aires alguien escribió en una valla hace unos meses: “Tiene que dejar de estar de moda ser un hijo de puta”. No parece que fuera una frase irónica, sino",
-      "url": "https://www.lavanguardia.com/opinion/20260214/11465668/mala-gente-esta-moda.html",
-      "scraped_at": "2026-02-14T07:02:23Z"
+      "title": "Eventos La Vanguardia",
+      "subtitle": "",
+      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
+      "scraped_at": "2026-02-15T07:05:08Z"
     }
   ]
 }
