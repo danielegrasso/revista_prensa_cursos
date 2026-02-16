@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La izquierda busca un plan en pleno auge de la extrema derecha: “Bienvenido quien quiera ayudar”: Gabriel Rufián agita el debate sobre estrategias y liderazgos para combatir el ascenso de Vox y presentar candidaturas competitivas en el próximo ciclo electoral; Sánchez despliega una ofensiva para desenmascarar a Vox y denunciar los métodos por los que crece: odio y desinformación: Los socialistas rechazan el mantra de la derecha política y mediática que les atribuye el auge de la ultraderecha y ponen en valor que los de Abascal están en una intención de voto inferior a la de sus partidos hermanos en Europa. Feijóo, por su parte, alcanza la convergencia total con los ultras con una estrategia que busca la absorción por mimetización; De pacientes a clientes: cómo Madrid y València han llevado al límite la privatización sanitaria: La ley de Aznar de 1997, que el Ministerio de Sanidad quiere acotar, amparó la subcontratación de servicios sanitarios. Eduardo Zaplana y Esperanza Aguirre fueron más allá y traspasaron la cobertura sanitaria, un modelo único en España que muestra grietas graves por inequidad y mercantilización. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-15T07:05:05Z",
+  "summary": "Resumen del día en elDiario.es: Ataques a Guardiola, discreción con Azcón: el PP, atrapado en una doble negociación con Vox: La extrema derecha ha elevado sus embestidas contra la presidenta de Extremadura, donde amenaza con la repetición electoral, mientras mantiene un tono bajo en Aragón con la mirada puesta en la próxima cita con las urnas: Castilla y León; Un comisario declaró que el soplo sobre Urbán vendiendo a voces 40 kilos de coca era “perfectamente creíble”: Otro mando implicado en el montaje relata en la Audiencia Nacional que asistió a una cita de varios policías con el confidente pero solo de \"observador\", desde una mesa próxima, y que habló un momento con él después sobre \"auriculares\"; Los retos del mercado laboral: paro de jóvenes y larga duración, bajos salarios y tiempo parcial indeseado: El empleo en España bate máximos de trabajadores, pero aún tiene importantes tareas pendientes, como un elevado desempleo e indicadores atascados de precariedad. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-16T07:19:05Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La izquierda busca un plan en pleno auge de la extrema derecha: “Bienvenido quien quiera ayudar”",
-      "subtitle": "Gabriel Rufián agita el debate sobre estrategias y liderazgos para combatir el ascenso de Vox y presentar candidaturas competitivas en el próximo ciclo electoral",
-      "url": "https://www.eldiario.es/politica/izquierda-busca-plan-pleno-auge-extrema-derecha-bienvenido-quiera-ayudar-no-nombres_1_12988078.html",
-      "scraped_at": "2026-02-15T07:05:02Z"
+      "title": "Ataques a Guardiola, discreción con Azcón: el PP, atrapado en una doble negociación con Vox",
+      "subtitle": "La extrema derecha ha elevado sus embestidas contra la presidenta de Extremadura, donde amenaza con la repetición electoral, mientras mantiene un tono bajo en Aragón con la mirada puesta en la próxima cita con las urnas: Castilla y León",
+      "url": "https://www.eldiario.es/politica/ataques-guardiola-discrecion-azcon-pp-atrapado-doble-negociacion-vox_1_12990228.html",
+      "scraped_at": "2026-02-16T07:19:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez despliega una ofensiva para desenmascarar a Vox y denunciar los métodos por los que crece: odio y desinformación",
-      "subtitle": "Los socialistas rechazan el mantra de la derecha política y mediática que les atribuye el auge de la ultraderecha y ponen en valor que los de Abascal están en una intención de voto inferior a la de sus partidos hermanos en Europa. Feijóo, por su parte, alcanza la convergencia total con los ultras con una estrategia que busca la absorción por mimetización",
-      "url": "https://www.eldiario.es/politica/sanchez-despliega-ofensiva-desenmascarar-vox-denunciar-metodos-crece-odio-desinformacion_129_12989742.html",
-      "scraped_at": "2026-02-15T07:05:03Z"
+      "title": "Un comisario declaró que el soplo sobre Urbán vendiendo a voces 40 kilos de coca era “perfectamente creíble”",
+      "subtitle": "Otro mando implicado en el montaje relata en la Audiencia Nacional que asistió a una cita de varios policías con el confidente pero solo de \"observador\", desde una mesa próxima, y que habló un momento con él después sobre \"auriculares\"",
+      "url": "https://www.eldiario.es/politica/comisario-declaro-soplo-miguel-urban-vendiendo-voces-40-kilos-cocaina-perfectamente-creible_1_12982542.html",
+      "scraped_at": "2026-02-16T07:19:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De pacientes a clientes: cómo Madrid y València han llevado al límite la privatización sanitaria",
-      "subtitle": "La ley de Aznar de 1997, que el Ministerio de Sanidad quiere acotar, amparó la subcontratación de servicios sanitarios. Eduardo Zaplana y Esperanza Aguirre fueron más allá y traspasaron la cobertura sanitaria, un modelo único en España que muestra grietas graves por inequidad y mercantilización",
-      "url": "https://www.eldiario.es/sociedad/pacientes-clientes-madrid-valencia-han-llevado-limite-privatizacion-sanitaria_1_12985553.html",
-      "scraped_at": "2026-02-15T07:05:04Z"
+      "title": "Los retos del mercado laboral: paro de jóvenes y larga duración, bajos salarios y tiempo parcial indeseado",
+      "subtitle": "El empleo en España bate máximos de trabajadores, pero aún tiene importantes tareas pendientes, como un elevado desempleo e indicadores atascados de precariedad",
+      "url": "https://www.eldiario.es/economia/retos-mercado-laboral-paro-jovenes-larga-duracion-bajos-salarios-tiempo-parcial-indeseado_1_12968026.html",
+      "scraped_at": "2026-02-16T07:19:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "“Tengo mucho miedo”: el pánico sembrado por el ICE con asesinatos, persecuciones a inocentes y rastreos en redes sociales",
-      "subtitle": "La Administración Trump ha anunciado un repliegue en Minnesota después de más de dos meses de represión migratoria que ha terminado con las muertes de Good y Pretti, pero también con otros casos de abusos denunciados en ese estado que se suman a los de otras ciudades del país",
-      "url": "https://www.eldiario.es/desalambre/miedo-panico-sembrado-ice-asesinatos-plena-calle-persecuciones-inocentes-rastreos-redes-sociales_1_12989335.html",
-      "scraped_at": "2026-02-15T07:05:04Z"
+      "title": "Hacia el sueño de detectar el cáncer en sangre: así se usan ya las biopsias líquidas en los hospitales españoles",
+      "subtitle": "Mientras avanza la carrera por detectar el cáncer de forma precoz con un simple análisis de sangre, la tecnología ya está ayudando a algunos pacientes: estas pruebas se usan para evitar biopsias agresivas, determinar la eficacia de ensayos clínicos o establecer tratamientos personalizados",
+      "url": "https://www.eldiario.es/sociedad/sueno-detectar-cancer-sangre-biopsias-liquidas-hospitales-espanoles_1_12969338.html",
+      "scraped_at": "2026-02-16T07:19:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez rearme",
-      "subtitle": "El presidente sostiene que aumentar el gasto militar al 5% supondría aumentar la dependencia de la industria de defensa estadounidense y se revuelve en el foro de seguridad por antonomasia contra el \"doble rasero\" respecto a la integridad territorial: \"Defendemos la integridad territorial en Ucrania, pero también en Gaza y en Cisjordania\"",
-      "url": "https://www.eldiario.es/politica/sanchez-dice-no-rearme-nuclear-empieza-debatirse-ue-ruptura-eeuu-trump_1_12991497.html",
-      "scraped_at": "2026-02-15T07:05:05Z"
+      "title": "Antidisturbios",
+      "subtitle": "Un juzgado de Melilla investiga un delito de odio contra Nabib, un agente muy conocido en la ciudad por ser campeón de Jiu Jitsu, que desayunaba en una cafetería con su mujer y sus hijos",
+      "url": "https://www.eldiario.es/politica/investigados-seis-antidisturbios-policia-nacional-llamar-chimpance-hombre-resulto-guardia-civil_1_12989354.html",
+      "scraped_at": "2026-02-16T07:19:05Z"
     }
   ]
 }

@@ -1,42 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los territorios presionan a Feijóo para que lidere la negociación con Vox: \"Debe arremangarse\": Dirigentes del partido reclaman una mayor implicación del presidente para evitar &quot;los errores del 23-J&quot;. Creen que ahora hace falta ayudar a Guardiola y que la dirección nacional no debe permitir que Vox &quot;utilice&quot; a sus barones; Los códigos postales con las casas más baratas: del récord cordobés al 'oasis' junto a Madrid: En un mercado residencial marcado por las fuertes subidas de precios en las grandes capitales, existe una España donde el metro cuadrado podría calificarse como barato; Esta mujer reúne a desconocidos en casas rurales: \"Son viudos, divorciados o atrevidos\": Silvia Cruz organiza los encuentros en diferentes puntos de España y tiene tanto éxito que va a duplicar las casas que renta cada mes. Sus clientes son cuarentones generalmente solteros que buscan “reconectar con gente nueva”. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-15T07:05:12Z",
+  "summary": "Resumen del día en El Confidencial: Un informe policial prevé que haya el doble de inmigrantes regularizados de los que calcula Moncloa: El análisis del Centro Nacional de Inmigración y Fronteras de la Policía anticipa además que entre 200.000 y 250.000 inmigrantes irregulares residentes en el espacio Schengen se trasladarán cada año a España; ¿Por qué desapareció el Neandertal? Por lo mismo que triunfan los totalitarismos: Hay que entender de qué manera el sapiens prevalece sobre todas las demás humanidades. Según el paleoantrólogo Ludovic Slimak tiene bastante que ver con cómo miramos el mundo. Lo cuenta en &#039;El último neandertal&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-16T07:19:09Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los territorios presionan a Feijóo para que lidere la negociación con Vox: \"Debe arremangarse\"",
-      "subtitle": "Dirigentes del partido reclaman una mayor implicación del presidente para evitar &quot;los errores del 23-J&quot;. Creen que ahora hace falta ayudar a Guardiola y que la dirección nacional no debe permitir que Vox &quot;utilice&quot; a sus barones",
-      "url": "https://www.elconfidencial.com/espana/2026-02-15/territorios-presionan-feijoo-lidere-negociacion-vox-evite-error-2023_4302767/",
-      "scraped_at": "2026-02-15T07:05:10Z"
+      "title": "Un informe policial prevé que haya el doble de inmigrantes regularizados de los que calcula Moncloa",
+      "subtitle": "El análisis del Centro Nacional de Inmigración y Fronteras de la Policía anticipa además que entre 200.000 y 250.000 inmigrantes irregulares residentes en el espacio Schengen se trasladarán cada año a España",
+      "url": "https://www.elconfidencial.com/espana/2026-02-16/regularizacion-inmigrantes-irregulares-espana-1hms_4303385/",
+      "scraped_at": "2026-02-16T07:19:09Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los códigos postales con las casas más baratas: del récord cordobés al 'oasis' junto a Madrid",
-      "subtitle": "En un mercado residencial marcado por las fuertes subidas de precios en las grandes capitales, existe una España donde el metro cuadrado podría calificarse como barato",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-02-15/vivienda-precios-portal-estadistico-notariado_4301228/",
-      "scraped_at": "2026-02-15T07:05:10Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Esta mujer reúne a desconocidos en casas rurales: \"Son viudos, divorciados o atrevidos\"",
-      "subtitle": "Silvia Cruz organiza los encuentros en diferentes puntos de España y tiene tanto éxito que va a duplicar las casas que renta cada mes. Sus clientes son cuarentones generalmente solteros que buscan “reconectar con gente nueva”",
-      "url": "https://www.elconfidencial.com/espana/2026-02-15/turismo-rural-desconocidos-soledad_4303088/",
-      "scraped_at": "2026-02-15T07:05:11Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Mouliaá patina y Errejón juega al Risk: nada es lo que parece en el pleito del año",
-      "subtitle": "Cómo dos estrategias mediáticas opuestas, ruido y mutismo, están marcando un proceso en el que todos creen tenerlo claro, pero la opinión pública está tan perdida como sus protagonistas",
-      "url": "https://www.elconfidencial.com/espana/2026-02-15/mouliaa-errejon-juicio_4303041/",
-      "scraped_at": "2026-02-15T07:05:12Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Cristina Araújo: \"En una historia de amor a lo bestia también hay crueldades y faltas de respeto\"",
-      "subtitle": "Cristina Araújo cuenta en &#039;Distancia de fuga&#039; lo que nos pasa (para bien y para mal) cuando nos enamoramos como si, literalmente, nos fuera la vida en ello",
-      "url": "https://www.elconfidencial.com/cultura/2026-02-14/por-que-no-vamos-a-escribir-del-amor-si-es_4286551/",
-      "scraped_at": "2026-02-15T07:05:12Z"
+      "title": "¿Por qué desapareció el Neandertal? Por lo mismo que triunfan los totalitarismos",
+      "subtitle": "Hay que entender de qué manera el sapiens prevalece sobre todas las demás humanidades. Según el paleoantrólogo Ludovic Slimak tiene bastante que ver con cómo miramos el mundo. Lo cuenta en &#039;El último neandertal&#039;",
+      "url": "https://www.elconfidencial.com/cultura/2026-02-14/el-ultimo-neandertal_4300063/",
+      "scraped_at": "2026-02-16T07:19:09Z"
     }
   ]
 }

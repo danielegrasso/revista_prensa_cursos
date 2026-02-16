@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: EE.UU. suaviza el tono con Europa pero la quiere a su dictado: El discurso de Marco Rubio, amable en las formas, exige adhesión a los planes de Trump; Philippe Sands: “Si Europa no actúa unida ante EE.UU., está acabada”: El escritor y abogado británico, experto en crímenes de guerra, analiza los desafíos del nuevo escenario internacional; Ucrania, ante la oportunidad de una tregua: Zelensky tiene prisa por cerrar un alto el fuego ante el aumento del sufrimiento de la población civil. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-15T07:05:08Z",
+  "summary": "Resumen del día en La Vanguardia: Salvador Illa regresa al Palau tras su ausencia por enfermedad: El president realiza esta mañana una declaración institucional en la que abordará las crisis desatadas en su ausencia; El Govern plantea un complemento salarial para evitar el éxodo de jueces de Catalunya: La conselleria de Justicia impulsa un plan para que los togados permanezcan en Catalunya y paliar el déficit de magistrados; El problema oculto de inseguridad en las calles: Cuando la mitad de la gente dice que se siente insegura al caminar por la calle. Cuando afirman que salen de casa con miedo a que un patinete, una bici eléctrica o un. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-16T07:19:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. suaviza el tono con Europa pero la quiere a su dictado",
-      "subtitle": "El discurso de Marco Rubio, amable en las formas, exige adhesión a los planes de Trump",
-      "url": "https://www.lavanguardia.com/internacional/20260215/11466602/estados-unidos-quiere-europa-son.html",
-      "scraped_at": "2026-02-15T07:05:08Z"
+      "title": "Salvador Illa regresa al Palau tras su ausencia por enfermedad",
+      "subtitle": "El president realiza esta mañana una declaración institucional en la que abordará las crisis desatadas en su ausencia",
+      "url": "https://www.lavanguardia.com/politica/20260216/11467142/salvador-illa-regresa-lunes-palau-cesion-inmuebles-iglesia-vivienda.html",
+      "scraped_at": "2026-02-16T07:19:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Philippe Sands: “Si Europa no actúa unida ante EE.UU., está acabada”",
-      "subtitle": "El escritor y abogado británico, experto en crímenes de guerra, analiza los desafíos del nuevo escenario internacional",
-      "url": "https://www.lavanguardia.com/internacional/20260215/11465860/philippe-sands-europa-actua-unida-ee-uu-esta-acabada.html",
-      "scraped_at": "2026-02-15T07:05:08Z"
+      "title": "El Govern plantea un complemento salarial para evitar el éxodo de jueces de Catalunya",
+      "subtitle": "La conselleria de Justicia impulsa un plan para que los togados permanezcan en Catalunya y paliar el déficit de magistrados",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260216/11467125/govern-plantea-complemento-salarial-evitar-exodo-jueces-catalunya.html",
+      "scraped_at": "2026-02-16T07:19:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ucrania, ante la oportunidad de una tregua",
-      "subtitle": "Zelensky tiene prisa por cerrar un alto el fuego ante el aumento del sufrimiento de la población civil",
-      "url": "https://www.lavanguardia.com/internacional/20260215/11466511/ucrania-oportunidad-tregua.html",
-      "scraped_at": "2026-02-15T07:05:08Z"
+      "title": "El problema oculto de inseguridad en las calles",
+      "subtitle": "Cuando la mitad de la gente dice que se siente insegura al caminar por la calle. Cuando afirman que salen de casa con miedo a que un patinete, una bici eléctrica o un",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260216/11466585/problema-oculto-inseguridad-calles.html",
+      "scraped_at": "2026-02-16T07:19:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "No será fácil saciar a Putin",
-      "subtitle": "Cuando se está a punto de cumplir el cuarto aniversario de la invasión rusa de Ucrania, la paz sigue siendo más un deseo del presidente Volodímir Zelenski que una",
-      "url": "https://www.lavanguardia.com/opinion/20260215/11466701/no-sera-facil-saciar-putin.html",
-      "scraped_at": "2026-02-15T07:05:08Z"
+      "title": "China seduce a América Latina pese a las amenazas de Trump",
+      "subtitle": "La presión de Estados Unidos de recuperar el control hegemónico de su 'patio trasero' ralentizan el avance de Pekín pero los vínculos económicos con la región son",
+      "url": "https://www.lavanguardia.com/internacional/20260216/11465885/china-seduce-america-latina-pese-amenazas-trump.html",
+      "scraped_at": "2026-02-16T07:19:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Eventos La Vanguardia",
-      "subtitle": "",
-      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
-      "scraped_at": "2026-02-15T07:05:08Z"
+      "title": "El videomarcador del Bernabéu 'emite' la opinión del Real Madrid sobre los penaltis a Vinícius",
+      "subtitle": "Durante el encuentro ante la Real Sociedad, el club repitió hasta seis veces el primer derribo de Aramburu pero en cambio no hizo lo mismo con el de Huijsen y con el",
+      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260215/11467082/videomarcador-bernabeu-emite-opinion-real-madrid-sobre-penaltis-vinicius.html",
+      "scraped_at": "2026-02-16T07:19:08Z"
     }
   ]
 }
