@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las bajas por trastornos mentales se disparan un 365% en siete años entre los más jóvenes: Estrés, depresión... el gasto desbocado en incapacidad temporal crece un 228% en una década y hace tambalear las cuentas de la Seguridad Social; TV3 blinda con contratos de alta dirección a una quinta parte de su plantilla: El Comité de Empresa denuncia el parentesco de algunos de los elegidos con altos cargos de la administración catalana; Ucrania se vacía: por cada nacimiento hay tres muertes: Además de la devastación causada por cuatro años de guerra, la invasión rusa ha agravado la crisis de población que ya sufría el país. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-16T07:19:06Z",
+  "summary": "Resumen del día en ABC.es: Los sindicatos ya no convencen: solo el 12,5% está afiliado: Solo el 12,5% de los asalariados pertenecen a un sindicato, cifra cuatro puntos inferior a la de 2012 y muy lejos de Italia (30%) o Suecia (60%); PP y Vox encuentran en el burka su primera vía de entendimiento: Los populares apoyarán la medida mientras continúan las negociaciones autonómicas; Dar la cara en libertad: Una mujer cubierta con el nicab o el burka que se pasee por las calles está lanzando a su alrededor un mensaje de automarginación social, de exclusión cultural y de sumisión al hombre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-17T07:13:56Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las bajas por trastornos mentales se disparan un 365% en siete años entre los más jóvenes",
-      "subtitle": "Estrés, depresión... el gasto desbocado en incapacidad temporal crece un 228% en una década y hace tambalear las cuentas de la Seguridad Social",
-      "url": "https://www.abc.es/economia/bajas-trastornos-mentales-disparan-365-siete-anos-20260216040726-nt.html",
-      "scraped_at": "2026-02-16T07:19:06Z"
+      "title": "Los sindicatos ya no convencen: solo el 12,5% está afiliado",
+      "subtitle": "Solo el 12,5% de los asalariados pertenecen a un sindicato, cifra cuatro puntos inferior a la de 2012 y muy lejos de Italia (30%) o Suecia (60%)",
+      "url": "https://www.abc.es/economia/afiliacion-sindical-toca-minimos-especialmente-jovenes-empleados-20260216042544-nt.html",
+      "scraped_at": "2026-02-17T07:13:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "TV3 blinda con contratos de alta dirección a una quinta parte de su plantilla",
-      "subtitle": "El Comité de Empresa denuncia el parentesco de algunos de los elegidos con altos cargos de la administración catalana",
-      "url": "https://www.abc.es/espana/cataluna/tv3-blinda-contratos-alta-direccion-quinta-parte-20260216040737-nt.html",
-      "scraped_at": "2026-02-16T07:19:06Z"
+      "title": "PP y Vox encuentran en el burka su primera vía de entendimiento",
+      "subtitle": "Los populares apoyarán la medida mientras continúan las negociaciones autonómicas",
+      "url": "https://www.abc.es/espana/pp-apoyara-propuesta-vox-prohibir-burka-espacios-20260216042600-nt.html",
+      "scraped_at": "2026-02-17T07:13:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ucrania se vacía: por cada nacimiento hay tres muertes",
-      "subtitle": "Además de la devastación causada por cuatro años de guerra, la invasión rusa ha agravado la crisis de población que ya sufría el país",
-      "url": "https://www.abc.es/internacional/demografia-guerra-silenciosa-ucrania-pierde-amenaza-futuro-20260211040855-nt.html",
-      "scraped_at": "2026-02-16T07:19:06Z"
+      "title": "Dar la cara en libertad",
+      "subtitle": "Una mujer cubierta con el nicab o el burka que se pasee por las calles está lanzando a su alrededor un mensaje de automarginación social, de exclusión cultural y de sumisión al hombre",
+      "url": "https://www.abc.es/opinion/editorial-dar-cara-libertad-20260217185836-nt.html",
+      "scraped_at": "2026-02-17T07:13:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "El fiscal apoya al etarra Goñi para reducir de 50 kilómetros a 50 metros la distancia de sus víctimas",
-      "subtitle": "Carlos García-Berro cree que las penas de alejamiento «deben permitir al penado conocer con razonable certeza el espacio prohibido»",
-      "url": "https://www.abc.es/espana/fiscal-apoya-etarra-goni-reducir-kilometros-metros-20260216040912-nt.html",
-      "scraped_at": "2026-02-16T07:19:06Z"
+      "title": "Vox irá a por su primer 20% en Castilla y León y el PP se centra en mantener el resultado",
+      "subtitle": "Abascal ya parte de muy arriba: en 2022 superó el 17%, que ahora ha logrado en Extremadura y Aragón",
+      "url": "https://www.abc.es/espana/castilla-leon/castilla-leon-laboratorio-vox-aspira-superar-barrera-20260217042650-nt.html",
+      "scraped_at": "2026-02-17T07:13:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Inmigración",
-      "subtitle": "Estos grupos utilizan portales de máxima difusión para estafar a los inmigrantes",
-      "url": "https://www.abc.es/espana/cara-oculta-regularizacion-inmigrantes-negocio-mafias-certificado-20260214034108-nt.html",
-      "scraped_at": "2026-02-16T07:19:06Z"
+      "title": "Girona - Barcelona",
+      "subtitle": "Conoce a qué hora empieza el partido entre el Girona y el Barcelona, y dónde ver en televisión y online el encuentro de hoy, 16 de febrero",
+      "url": "https://www.abc.es/deportes/futbol/ver-online-television-barcelona-hoy-laliga-hora-20260216205116-nt.html",
+      "scraped_at": "2026-02-17T07:13:56Z"
     }
   ]
 }
