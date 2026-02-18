@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Fin de una época: el capitalismo de Estado está de vuelta  (y lo hace con fuerza): Vuelve el capitalismo de Estado. Nunca se fue, pero después del covid, la participación de los Gobiernos en la actividad económica ha regresado con fuerza a través de diversas fórmulas. Unas más visibles y otras más opacas; Cómo el Brooklyn catalán se convirtió en una pesadilla para sus vecinos: Hace unos años era la ciudad de moda para inversores y nuevos proyectos inmobiliarios. Hoy sufre ante problemas de delincuencia y manifestaciones. ¿Qué ha pasado?; Un pueblo de Palencia da con la solución para la España vaciada (y ya le están copiando): De estar a punto de cerrar la escuela a ser uno de los pocos pueblos de Castilla y León que gana población. Esta es la historia de Paredes de Nava, localidad que ha logrado desafiar a su destino con una humanitaria manera de avanzar. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-17T07:14:03Z",
+  "summary": "Resumen del día en El Confidencial: La frontera que divide Madrid: italianos a Chamberí y colombianos a Carabanchel: Según de dónde vengan y de su nivel socioeconómico, los inmigrantes se instalan en unos barrios u otros. Este es el mapa de la capital según cada uno de los dos perfiles; Varios países africanos piden a Putin que deje de mandar a sus nacionales al frente ucraniano: Un informe realizado por la organización INPACT —en colaboración con el proyecto ucraniano &quot;Khochu Zhit&quot; (Quiero Vivir)— recopila al menos 1.471 casos de hombres africanos sirviendo en la primera línea de fuego del Ejército ruso; Abascal no descarta una repetición electoral en Extremadura ni pedir a Guardiola que se haga a un lado: \"Todo es posible\": El dirigente de Vox ha explicado que, en el caso de Extremadura, la formación tiene que integrarse en un Ejecutivo de coalición con los &#039;populares&#039; ante la &quot;ruptura de la confianza&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-18T07:15:36Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Fin de una época: el capitalismo de Estado está de vuelta  (y lo hace con fuerza)",
-      "subtitle": "Vuelve el capitalismo de Estado. Nunca se fue, pero después del covid, la participación de los Gobiernos en la actividad económica ha regresado con fuerza a través de diversas fórmulas. Unas más visibles y otras más opacas",
-      "url": "https://www.elconfidencial.com/economia/2026-02-17/capitalismo-de-estado-subvenciones-comercio-gasto-publico_4304280/",
-      "scraped_at": "2026-02-17T07:14:01Z"
+      "title": "La frontera que divide Madrid: italianos a Chamberí y colombianos a Carabanchel",
+      "subtitle": "Según de dónde vengan y de su nivel socioeconómico, los inmigrantes se instalan en unos barrios u otros. Este es el mapa de la capital según cada uno de los dos perfiles",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-02-18/frontera-madrid-italianos-chamberi-colombianos_4304716/",
+      "scraped_at": "2026-02-18T07:15:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cómo el Brooklyn catalán se convirtió en una pesadilla para sus vecinos",
-      "subtitle": "Hace unos años era la ciudad de moda para inversores y nuevos proyectos inmobiliarios. Hoy sufre ante problemas de delincuencia y manifestaciones. ¿Qué ha pasado?",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-17/hospitalet-catalan-brooklyn-delincuencia_4301564/",
-      "scraped_at": "2026-02-17T07:14:02Z"
+      "title": "Varios países africanos piden a Putin que deje de mandar a sus nacionales al frente ucraniano",
+      "subtitle": "Un informe realizado por la organización INPACT —en colaboración con el proyecto ucraniano &quot;Khochu Zhit&quot; (Quiero Vivir)— recopila al menos 1.471 casos de hombres africanos sirviendo en la primera línea de fuego del Ejército ruso",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-18/mercenarios-africanos-putin_4304855/",
+      "scraped_at": "2026-02-18T07:15:35Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un pueblo de Palencia da con la solución para la España vaciada (y ya le están copiando)",
-      "subtitle": "De estar a punto de cerrar la escuela a ser uno de los pocos pueblos de Castilla y León que gana población. Esta es la historia de Paredes de Nava, localidad que ha logrado desafiar a su destino con una humanitaria manera de avanzar",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-02-17/vivienda-barata-migracion-paredes-de-nava_4304255/",
-      "scraped_at": "2026-02-17T07:14:02Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Los discursos de la confusión: por qué es difícil hablar claro con \"la administración\" Trump",
-      "subtitle": "Marco Rubio se mostró conciliador con Europa este fin de semana en Múnich, pero detrás puede haber intereses electorales y una conclusión más allá del presunto acercamiento",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-17/marco-rubio-europa-discurso-munich-1hms_4304326/",
-      "scraped_at": "2026-02-17T07:14:03Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "'Cifras y letras' pierde a Ángel Díaz: cae eliminado por sorpresa en TVE",
-      "subtitle": "El nuevo &#039;recordman&#039; del mítico concurso salió derrotado después de cometer dos fatales errores, tras anotar 15 victorias consecutivas y rozar el bote en numerosas ocasiones",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-02-16/cifras-y-letras-tve-angel-diaz-eliminado-concurso-la-2_4304038/",
-      "scraped_at": "2026-02-17T07:14:03Z"
+      "title": "Abascal no descarta una repetición electoral en Extremadura ni pedir a Guardiola que se haga a un lado: \"Todo es posible\"",
+      "subtitle": "El dirigente de Vox ha explicado que, en el caso de Extremadura, la formación tiene que integrarse en un Ejecutivo de coalición con los &#039;populares&#039; ante la &quot;ruptura de la confianza&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-02-17/abascal-no-descarta-repetir-elecciones-en-extremadura_4305126/",
+      "scraped_at": "2026-02-18T07:15:36Z"
     }
   ]
 }

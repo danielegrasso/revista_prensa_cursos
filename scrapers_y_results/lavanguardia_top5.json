@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno topará el bono social eléctrico a las familias numerosas de rentas altas: Hay 337.000 familias que reciben la ayuda sin acreditar criterios económicos; ¿Prohibir el burka y el niqab? Un debate entre libertad religiosa y seguridad en el Congreso: La Cámara Baja aborda hoy una propuesta de Vox sobre la prohibición del velo integral en espacios públicos; La policía digital del mundo, ¿quién vela en Bruselas por la ley de Servicios Digitales?: Más de 120 personas trabajan para hacer cumplir la ley vital para la soberanía europea. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-17T07:14:00Z",
+  "summary": "Resumen del día en La Vanguardia: ¿Por qué cada vez más republicanos dan la espalda a Trump en el Capitolio?: Seis congresistas rompieron filas y se unieron a los demócratas en la votación para bloquear los aranceles de Trump a Canadá; La Cambra pide el regreso de los peajes ante el deterioro de las carreteras: La entidad recuerda que el déficit de inversiones alcanza los 13.500 millones; ¡Oh, que vuelvan los peajes!: ¡Quién lo iba a decir! Cuando en agosto del 2021 se liberaron la mayoría de los peajes en Catalunya y Aragón, hubo fiestas populares y unanimidad en la opinión. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-18T07:15:33Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno topará el bono social eléctrico a las familias numerosas de rentas altas",
-      "subtitle": "Hay 337.000 familias que reciben la ayuda sin acreditar criterios económicos",
-      "url": "https://www.lavanguardia.com/economia/20260217/11468034/gobierno-topara-bono-social-electrico-familias-numerosas-rentas-altas.html",
-      "scraped_at": "2026-02-17T07:13:57Z"
+      "title": "¿Por qué cada vez más republicanos dan la espalda a Trump en el Capitolio?",
+      "subtitle": "Seis congresistas rompieron filas y se unieron a los demócratas en la votación para bloquear los aranceles de Trump a Canadá",
+      "url": "https://www.lavanguardia.com/internacional/20260218/11468876/vez-mas-republicanos-dan-espalda-trump-capitolio.html",
+      "scraped_at": "2026-02-18T07:15:32Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Prohibir el burka y el niqab? Un debate entre libertad religiosa y seguridad en el Congreso",
-      "subtitle": "La Cámara Baja aborda hoy una propuesta de Vox sobre la prohibición del velo integral en espacios públicos",
-      "url": "https://www.lavanguardia.com/politica/20260217/11468054/libertad-llevar-burka.html",
-      "scraped_at": "2026-02-17T07:13:58Z"
+      "title": "La Cambra pide el regreso de los peajes ante el deterioro de las carreteras",
+      "subtitle": "La entidad recuerda que el déficit de inversiones alcanza los 13.500 millones",
+      "url": "https://www.lavanguardia.com/economia/20260218/11468956/cambra-pide-regreso-peajes-asegurar-mantenimiento-autopistas.html",
+      "scraped_at": "2026-02-18T07:15:32Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La policía digital del mundo, ¿quién vela en Bruselas por la ley de Servicios Digitales?",
-      "subtitle": "Más de 120 personas trabajan para hacer cumplir la ley vital para la soberanía europea",
-      "url": "https://www.lavanguardia.com/internacional/20260217/11465406/policia-digital-mundo-vela-bruselas-ley-servicios-digitales.html",
-      "scraped_at": "2026-02-17T07:13:58Z"
+      "title": "¡Oh, que vuelvan los peajes!",
+      "subtitle": "¡Quién lo iba a decir! Cuando en agosto del 2021 se liberaron la mayoría de los peajes en Catalunya y Aragón, hubo fiestas populares y unanimidad en la opinión",
+      "url": "https://www.lavanguardia.com/opinion/20260218/11468981/oh-vuelvan-peajes.html",
+      "scraped_at": "2026-02-18T07:15:32Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un héroe en estos tiempos",
-      "subtitle": "Cientos de moscovitas desafiaron ayer las bajas temperaturas que marcaba el termómetro y, sobre todo, a los agentes de seguridad que les grababan para asistir a un acto",
-      "url": "https://www.lavanguardia.com/opinion/20260217/11468062/heroe-tiempos.html",
-      "scraped_at": "2026-02-17T07:13:59Z"
+      "title": "El Congreso tumba la ley de Vox para prohibir el burka y el niqab en los espacios públicos",
+      "subtitle": "El PP ha dado su apoyo a la iniciativa, pero Junts la ha rechazado porque ha presentado su propio proyecto legislativo",
+      "url": "https://www.lavanguardia.com/politica/20260217/11468789/congreso-tumba-ley-vox-prohibir-burka-niqab-espacios-publicos.html",
+      "scraped_at": "2026-02-18T07:15:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Fútbol hoy",
-      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
-      "url": "https://www.lavanguardia.com/deportes/resultados",
-      "scraped_at": "2026-02-17T07:14:00Z"
+      "title": "La red de Epstein, por dentro",
+      "subtitle": "Lo que 1,4 millones de correos electrónicos revelan sobre el delincuente sexual más famoso de Estados Unidos",
+      "url": "https://www.lavanguardia.com/internacional/20260218/11465063/red-epstein-correos-electronicos.html",
+      "scraped_at": "2026-02-18T07:15:33Z"
     }
   ]
 }
