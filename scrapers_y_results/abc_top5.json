@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno vasco sacó a la calle a otros 15 etarras con más de cien asesinatos: 'Gadafi' o el asesino de Gregorio Ordóñez entre la quincena de etarras beneficiados actualmente con el artículo 100.2; Medio billón de ingresos extra en pensiones, deuda y en agigantar el Estado: Las nóminas han sostenido más de la mitad de la recaudación récord acumulada entre 2021 y 2025; Viaje a la Dinamarca sin inmigrantes que imita Europa: Este 2026 marca un giro en la política migratoria europea. El modelo danés abrió el camino y ahora la UE adopta su receta: más retornos, más rápidos y acuerdos con terceros países para las deportaciones. La excepción vuelve a ser España. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-18T07:15:30Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno blinda a Marlaska para evitar que el escándalo del DAO le cree otra crisis: Sánchez trata de evitar que el escándalo le provoque una crisis en el Ejecutivo y asegura que el ministro actuó con contundencia; El jefe policial invocó su cargo durante la presunta agresión sexual: «Oye, que soy el DAO»: La víctima denuncia que el poder institucional de su superior le generó una «dificultad para negarse a sus requerimientos»; El policía cesado obvió un informe interno sobre los riesgos de la regularización masiva de Sánchez: ABC accede a un oficio que advierte de los problemas legales y de seguridad del real decreto anunciado por el Gobierno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-19T07:14:14Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno vasco sacó a la calle a otros 15 etarras con más de cien asesinatos",
-      "subtitle": "'Gadafi' o el asesino de Gregorio Ordóñez entre la quincena de etarras beneficiados actualmente con el artículo 100.2",
-      "url": "https://www.abc.es/espana/gobierno-vasco-concede-semilibertad-eta-anos-sangre-20260218233021-nt.html",
-      "scraped_at": "2026-02-18T07:15:30Z"
+      "title": "El Gobierno blinda a Marlaska para evitar que el escándalo del DAO le cree otra crisis",
+      "subtitle": "Sánchez trata de evitar que el escándalo le provoque una crisis en el Ejecutivo y asegura que el ministro actuó con contundencia",
+      "url": "https://www.abc.es/espana/gobierno-blinda-marlaska-pese-presion-oposicion-dimita-20260219041138-nt.html",
+      "scraped_at": "2026-02-19T07:14:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Medio billón de ingresos extra en pensiones, deuda y en agigantar el Estado",
-      "subtitle": "Las nóminas han sostenido más de la mitad de la recaudación récord acumulada entre 2021 y 2025",
-      "url": "https://www.abc.es/economia/bazuka-medio-billon-euros-gastado-pagar-pensiones-20260218233236-nt.html",
-      "scraped_at": "2026-02-18T07:15:30Z"
+      "title": "El jefe policial invocó su cargo durante la presunta agresión sexual: «Oye, que soy el DAO»",
+      "subtitle": "La víctima denuncia que el poder institucional de su superior le generó una «dificultad para negarse a sus requerimientos»",
+      "url": "https://www.abc.es/espana/jefe-policial-invoco-cargo-trascurso-presunta-agresion-20260219041326-nt.html",
+      "scraped_at": "2026-02-19T07:14:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Viaje a la Dinamarca sin inmigrantes que imita Europa",
-      "subtitle": "Este 2026 marca un giro en la política migratoria europea. El modelo danés abrió el camino y ahora la UE adopta su receta: más retornos, más rápidos y acuerdos con terceros países para las deportaciones. La excepción vuelve a ser España",
-      "url": "https://www.abc.es/internacional/dinamarca-quiere-sade-imita-europa-20260218194319-nt.html",
-      "scraped_at": "2026-02-18T07:15:30Z"
+      "title": "El policía cesado obvió un informe interno sobre los riesgos de la regularización masiva de Sánchez",
+      "subtitle": "ABC accede a un oficio que advierte de los problemas legales y de seguridad del real decreto anunciado por el Gobierno",
+      "url": "https://www.abc.es/espana/dao-cesado-obvio-informe-riesgos-regularizacion-masiva-20260219041330-nt.html",
+      "scraped_at": "2026-02-19T07:14:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Maduro, acusado de vender pasaportes diplomáticos a narcos en México",
-      "subtitle": "En el proceso que se sigue contra él en Nueva York, el escrito de imputación señala también que Diosdado Cabello cobraba sobornos al cártel de Los Zetas",
-      "url": "https://www.abc.es/internacional/juicio-maduro-nueva-york-nuevo-temor-politica-20260212001924-nt.html",
-      "scraped_at": "2026-02-18T07:15:30Z"
+      "title": "Javier Tebas: «Florentino ha claudicado con la Superliga»",
+      "subtitle": "Las reflexiones con el fin de la Superliga aún caliente del presidente de LaLiga, posiblemente el ejecutivo con más poder y más polémico del fútbol español",
+      "url": "https://www.abc.es/deportes/futbol/javier-tebas-hora-corrida-morante-juega-madrid-20260217041335-nt.html",
+      "scraped_at": "2026-02-19T07:14:14Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-18T07:15:30Z"
+      "scraped_at": "2026-02-19T07:14:14Z"
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: La frontera que divide Madrid: italianos a Chamberí y colombianos a Carabanchel: Según de dónde vengan y de su nivel socioeconómico, los inmigrantes se instalan en unos barrios u otros. Este es el mapa de la capital según cada uno de los dos perfiles; Varios países africanos piden a Putin que deje de mandar a sus nacionales al frente ucraniano: Un informe realizado por la organización INPACT —en colaboración con el proyecto ucraniano &quot;Khochu Zhit&quot; (Quiero Vivir)— recopila al menos 1.471 casos de hombres africanos sirviendo en la primera línea de fuego del Ejército ruso; Abascal no descarta una repetición electoral en Extremadura ni pedir a Guardiola que se haga a un lado: \"Todo es posible\": El dirigente de Vox ha explicado que, en el caso de Extremadura, la formación tiene que integrarse en un Ejecutivo de coalición con los &#039;populares&#039; ante la &quot;ruptura de la confianza&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-18T07:15:36Z",
+  "summary": "Resumen del día en El Confidencial: Un audio de \"más de 40 minutos\" de la presunta violación acorrala al jefe de la Policía de Marlaska: La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar; ¿De Cos al BCE? Una salida anticipada de Lagarde apremia a Cuerpo a revelar sus cartas: Se disparan los rumores de una salida temprana de Lagarde de la presidencia del Banco Central Europeo para evitar la influencia de la extrema derecha francesa; España entra en el club de países con jornadas más reducidas para funcionarios: La extensión de las 35 horas a la Administración General del Estado desde las 37,5 horas actuales situará la jornada promedio del sector público en el mínimo del entorno europeo y aumentará la diferencia con el sector privado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-19T07:14:19Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La frontera que divide Madrid: italianos a Chamberí y colombianos a Carabanchel",
-      "subtitle": "Según de dónde vengan y de su nivel socioeconómico, los inmigrantes se instalan en unos barrios u otros. Este es el mapa de la capital según cada uno de los dos perfiles",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-02-18/frontera-madrid-italianos-chamberi-colombianos_4304716/",
-      "scraped_at": "2026-02-18T07:15:35Z"
+      "title": "Un audio de \"más de 40 minutos\" de la presunta violación acorrala al jefe de la Policía de Marlaska",
+      "subtitle": "La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar",
+      "url": "https://www.elconfidencial.com/espana/2026-02-19/audiopresunta-violacion-dao-acorrala-jefe-policia-marlaska_4305803/",
+      "scraped_at": "2026-02-19T07:14:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Varios países africanos piden a Putin que deje de mandar a sus nacionales al frente ucraniano",
-      "subtitle": "Un informe realizado por la organización INPACT —en colaboración con el proyecto ucraniano &quot;Khochu Zhit&quot; (Quiero Vivir)— recopila al menos 1.471 casos de hombres africanos sirviendo en la primera línea de fuego del Ejército ruso",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-18/mercenarios-africanos-putin_4304855/",
-      "scraped_at": "2026-02-18T07:15:35Z"
+      "title": "¿De Cos al BCE? Una salida anticipada de Lagarde apremia a Cuerpo a revelar sus cartas",
+      "subtitle": "Se disparan los rumores de una salida temprana de Lagarde de la presidencia del Banco Central Europeo para evitar la influencia de la extrema derecha francesa",
+      "url": "https://www.elconfidencial.com/economia/2026-02-19/posible-marcha-lagarde-bce-gobierno-candidatura-de-cos_4305840/",
+      "scraped_at": "2026-02-19T07:14:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Abascal no descarta una repetición electoral en Extremadura ni pedir a Guardiola que se haga a un lado: \"Todo es posible\"",
-      "subtitle": "El dirigente de Vox ha explicado que, en el caso de Extremadura, la formación tiene que integrarse en un Ejecutivo de coalición con los &#039;populares&#039; ante la &quot;ruptura de la confianza&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-02-17/abascal-no-descarta-repetir-elecciones-en-extremadura_4305126/",
-      "scraped_at": "2026-02-18T07:15:36Z"
+      "title": "España entra en el club de países con jornadas más reducidas para funcionarios",
+      "subtitle": "La extensión de las 35 horas a la Administración General del Estado desde las 37,5 horas actuales situará la jornada promedio del sector público en el mínimo del entorno europeo y aumentará la diferencia con el sector privado",
+      "url": "https://www.elconfidencial.com/economia/2026-02-19/espana-horas-empleados-publicos-media-ue_4305686/",
+      "scraped_at": "2026-02-19T07:14:19Z"
     }
   ]
 }
