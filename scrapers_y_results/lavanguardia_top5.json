@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump ultima un ataque a Irán pese a que Teherán vio “avances” en la negociación: Israel pide a la población que se prepare para un ataque y eleva el grado de alerta; La vida en Ucrania: sin luz, sin calefacción, a 12º bajo cero y durmiendo en cajas en el pasillo: La guerra que inició Rusia en Ucrania llega a los cuatro años sin signos de que vaya a acabar pronto y con la población agotada que resiste en condiciones durísimas; El Govern y Comuns llegan a un acuerdo de presupuestos: Los ecosocialistas votarán a favor de las cuentas tras lograr un compromiso para que se apruebe antes que finalice el mes de junio una ley que limite la compra. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-19T07:14:16Z",
+  "summary": "Resumen del día en La Vanguardia: El Govern encara los presupuestos con ERC tras un acuerdo con los Comuns: Illa y Albiach sellan una iniciativa para limitar por ley la compra especulativa de vivienda; Se llama encaje de bolillos: Los tiempos de las grandes mayorías absolutas han desaparecido y los gobiernos que aspiran a pactar unos presupuestos tienen que hacer hoy toda clase de ejercicios de; El sector inmobiliario teme que la oferta de alquiler en Catalunya se reduzca aún más: La limitación de la compra de vivienda también afectaría a la rehabilitación de vivienda, alerta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-20T07:12:25Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump ultima un ataque a Irán pese a que Teherán vio “avances” en la negociación",
-      "subtitle": "Israel pide a la población que se prepare para un ataque y eleva el grado de alerta",
-      "url": "https://www.lavanguardia.com/internacional/20260219/11469897/ee-uu-prepara-guerra-iran-pese-aparentes-progresos-negociacion.html",
-      "scraped_at": "2026-02-19T07:14:15Z"
+      "title": "El Govern encara los presupuestos con ERC tras un acuerdo con los Comuns",
+      "subtitle": "Illa y Albiach sellan una iniciativa para limitar por ley la compra especulativa de vivienda",
+      "url": "https://www.lavanguardia.com/politica/20260220/11470893/govern-encara-presupuestos-erc-acuerdo-comuns.html",
+      "scraped_at": "2026-02-20T07:12:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La vida en Ucrania: sin luz, sin calefacción, a 12º bajo cero y durmiendo en cajas en el pasillo",
-      "subtitle": "La guerra que inició Rusia en Ucrania llega a los cuatro años sin signos de que vaya a acabar pronto y con la población agotada que resiste en condiciones durísimas",
-      "url": "https://www.lavanguardia.com/internacional/20260219/11469885/vida-ucrania-luz-calefaccion-12-cero-durmiendo-cajas-pasillo-aullido-sirenas.html",
-      "scraped_at": "2026-02-19T07:14:16Z"
+      "title": "Se llama encaje de bolillos",
+      "subtitle": "Los tiempos de las grandes mayorías absolutas han desaparecido y los gobiernos que aspiran a pactar unos presupuestos tienen que hacer hoy toda clase de ejercicios de",
+      "url": "https://www.lavanguardia.com/opinion/20260220/11470904/llama-encaje-bolillos.html",
+      "scraped_at": "2026-02-20T07:12:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Govern y Comuns llegan a un acuerdo de presupuestos",
-      "subtitle": "Los ecosocialistas votarán a favor de las cuentas tras lograr un compromiso para que se apruebe antes que finalice el mes de junio una ley que limite la compra",
-      "url": "https://www.lavanguardia.com/politica/20260219/11470124/govern-comuns-llegan-acuerdo-presupuestos.html",
-      "scraped_at": "2026-02-19T07:14:16Z"
+      "title": "El sector inmobiliario teme que la oferta de alquiler en Catalunya se reduzca aún más",
+      "subtitle": "La limitación de la compra de vivienda también afectaría a la rehabilitación de vivienda, alerta",
+      "url": "https://www.lavanguardia.com/politica/20260220/11470844/sector-inmobiliario-teme-oferta-alquiler-reduzca-aun-mas.html",
+      "scraped_at": "2026-02-20T07:12:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los dos grandes retos de Illa",
-      "subtitle": "Las encuestas sirven para hacer bajar a la realidad concreta aquellas sospechas o síntomas que se pueden intuir en los cambios que experimenta nuestra sociedad. El",
-      "url": "https://www.lavanguardia.com/opinion/20260219/11469920/dos-grandes-retos-illa.html",
-      "scraped_at": "2026-02-19T07:14:16Z"
+      "title": "La ley para limitar la compra de vivienda en Catalunya afectaría a las herencias",
+      "subtitle": "Los herederos estarían obligados a vivir en el piso, venderlo o alquilarlo; no lo podrían tener desocupado, según la proposición de ley del partido de Ada Colau",
+      "url": "https://www.lavanguardia.com/economia/20260219/11470655/ley-limitar-compra-vivienda-catalunya-afectaria-herencias.html",
+      "scraped_at": "2026-02-20T07:12:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Lo que no se vio en los vestuarios de Da Luz tras el insulto racista a Vinícius",
-      "subtitle": "Todo lo que sucedió en el estadio se trasladó al túnel donde un cordón de seguridad intentó apaciguar los ánimos entre el Benfica y el Real Madrid",
-      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260218/11469830/real-madrid-benfica-mourinho-vestuarios-incidentes.html",
-      "scraped_at": "2026-02-19T07:14:16Z"
+      "title": "Hallados fósiles de una nueva especie de dinosaurio con cresta de cimitarra en el Sáhara",
+      "subtitle": "El descubrimiento constituye la primera evidencia indiscutible de 'Spinosaurus' en más de un siglo y en un lugar lejos del borde del océano",
+      "url": "https://www.lavanguardia.com/natural/20260219/11470882/hallan-fosiles-nueva-especie-dinosaurio-cresta-cimitarra-sahara-servimedia20260219.html",
+      "scraped_at": "2026-02-20T07:12:25Z"
     }
   ]
 }

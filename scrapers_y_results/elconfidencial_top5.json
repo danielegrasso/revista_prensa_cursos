@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Un audio de \"más de 40 minutos\" de la presunta violación acorrala al jefe de la Policía de Marlaska: La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar; ¿De Cos al BCE? Una salida anticipada de Lagarde apremia a Cuerpo a revelar sus cartas: Se disparan los rumores de una salida temprana de Lagarde de la presidencia del Banco Central Europeo para evitar la influencia de la extrema derecha francesa; España entra en el club de países con jornadas más reducidas para funcionarios: La extensión de las 35 horas a la Administración General del Estado desde las 37,5 horas actuales situará la jornada promedio del sector público en el mínimo del entorno europeo y aumentará la diferencia con el sector privado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-19T07:14:19Z",
+  "summary": "Resumen del día en El Confidencial: Cabezón y Ocaña, otro amigo de Sánchez, compran un piso de 54 m² y lo alquilan por 2.850€/mes: El adjunto a la secretaría de Organización del PSOE aprovecha el boom de los precios del alquiler en Madrid para adquirir un apartamento junto a Carlos Ocaña, vicepresidente de Telefónica, y alquilarlo por temporadas; \"Conducta inapropiada\": cómo de serios son los cargos contra el expríncipe Andrés: Detenido y liberado por presunta mala conducta oficial, Andrés afronta pesquisa por filtrar reportes confidenciales a Epstein, con penas severas en juego, mientras documentos recién revelados y presión política reactivan el caso; Policía DAO: La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-20T07:12:28Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Un audio de \"más de 40 minutos\" de la presunta violación acorrala al jefe de la Policía de Marlaska",
+      "title": "Cabezón y Ocaña, otro amigo de Sánchez, compran un piso de 54 m² y lo alquilan por 2.850€/mes",
+      "subtitle": "El adjunto a la secretaría de Organización del PSOE aprovecha el boom de los precios del alquiler en Madrid para adquirir un apartamento junto a Carlos Ocaña, vicepresidente de Telefónica, y alquilarlo por temporadas",
+      "url": "https://www.elconfidencial.com/espana/2026-02-20/piso-alquiler-madrid-sanchez-ocana-cabezon-psoe_4306454/",
+      "scraped_at": "2026-02-20T07:12:27Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"Conducta inapropiada\": cómo de serios son los cargos contra el expríncipe Andrés",
+      "subtitle": "Detenido y liberado por presunta mala conducta oficial, Andrés afronta pesquisa por filtrar reportes confidenciales a Epstein, con penas severas en juego, mientras documentos recién revelados y presión política reactivan el caso",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-20/andres-epstein-mala-conducta-cargo-publico_4306657/",
+      "scraped_at": "2026-02-20T07:12:27Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Policía DAO",
       "subtitle": "La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar",
       "url": "https://www.elconfidencial.com/espana/2026-02-19/audiopresunta-violacion-dao-acorrala-jefe-policia-marlaska_4305803/",
-      "scraped_at": "2026-02-19T07:14:18Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "¿De Cos al BCE? Una salida anticipada de Lagarde apremia a Cuerpo a revelar sus cartas",
-      "subtitle": "Se disparan los rumores de una salida temprana de Lagarde de la presidencia del Banco Central Europeo para evitar la influencia de la extrema derecha francesa",
-      "url": "https://www.elconfidencial.com/economia/2026-02-19/posible-marcha-lagarde-bce-gobierno-candidatura-de-cos_4305840/",
-      "scraped_at": "2026-02-19T07:14:18Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "España entra en el club de países con jornadas más reducidas para funcionarios",
-      "subtitle": "La extensión de las 35 horas a la Administración General del Estado desde las 37,5 horas actuales situará la jornada promedio del sector público en el mínimo del entorno europeo y aumentará la diferencia con el sector privado",
-      "url": "https://www.elconfidencial.com/economia/2026-02-19/espana-horas-empleados-publicos-media-ue_4305686/",
-      "scraped_at": "2026-02-19T07:14:19Z"
+      "scraped_at": "2026-02-20T07:12:28Z"
     }
   ]
 }
