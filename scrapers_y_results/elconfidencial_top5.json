@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Cabezón y Ocaña, otro amigo de Sánchez, compran un piso de 54 m² y lo alquilan por 2.850€/mes: El adjunto a la secretaría de Organización del PSOE aprovecha el boom de los precios del alquiler en Madrid para adquirir un apartamento junto a Carlos Ocaña, vicepresidente de Telefónica, y alquilarlo por temporadas; \"Conducta inapropiada\": cómo de serios son los cargos contra el expríncipe Andrés: Detenido y liberado por presunta mala conducta oficial, Andrés afronta pesquisa por filtrar reportes confidenciales a Epstein, con penas severas en juego, mientras documentos recién revelados y presión política reactivan el caso; Policía DAO: La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-20T07:12:28Z",
+  "summary": "Resumen del día en El Confidencial: El veto judicial a los aranceles reabre el tablero de la guerra comercial mundial: El presidente de EEUU pierde su arma de coacción más poderosa y establece aranceles temporales del 10%. China se frota las manos en un escenario que le resulta muy favorable; \"No creas lo que ven tus ojos\": figuras de RTVE denuncian en su canal interno la manipulación: Este tipo de informes de denuncia han sido habituales desde que la ley de RTVE, en 2006, ofreció a los periodistas de la corporación la posibilidad de crear estos órganos, como contrapeso interno; Decálogo brutal de un magnate para triunfar en los negocios (tiene imágenes explícitas): Una biografía torrencial revisa cómo Rupert Murdoch se convirtió en el señor de la prensa más influyente del siglo XX, tuvo negocios turbulentos con Donald Trump y acabó destruyendo a su familia por su sucesión. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-21T06:59:34Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Cabezón y Ocaña, otro amigo de Sánchez, compran un piso de 54 m² y lo alquilan por 2.850€/mes",
-      "subtitle": "El adjunto a la secretaría de Organización del PSOE aprovecha el boom de los precios del alquiler en Madrid para adquirir un apartamento junto a Carlos Ocaña, vicepresidente de Telefónica, y alquilarlo por temporadas",
-      "url": "https://www.elconfidencial.com/espana/2026-02-20/piso-alquiler-madrid-sanchez-ocana-cabezon-psoe_4306454/",
-      "scraped_at": "2026-02-20T07:12:27Z"
+      "title": "El veto judicial a los aranceles reabre el tablero de la guerra comercial mundial",
+      "subtitle": "El presidente de EEUU pierde su arma de coacción más poderosa y establece aranceles temporales del 10%. China se frota las manos en un escenario que le resulta muy favorable",
+      "url": "https://www.elconfidencial.com/economia/2026-02-21/sentencia-supremo-aranceles-trump-guerra-comercial_4307406/",
+      "scraped_at": "2026-02-21T06:59:32Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Conducta inapropiada\": cómo de serios son los cargos contra el expríncipe Andrés",
-      "subtitle": "Detenido y liberado por presunta mala conducta oficial, Andrés afronta pesquisa por filtrar reportes confidenciales a Epstein, con penas severas en juego, mientras documentos recién revelados y presión política reactivan el caso",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-20/andres-epstein-mala-conducta-cargo-publico_4306657/",
-      "scraped_at": "2026-02-20T07:12:27Z"
+      "title": "\"No creas lo que ven tus ojos\": figuras de RTVE denuncian en su canal interno la manipulación",
+      "subtitle": "Este tipo de informes de denuncia han sido habituales desde que la ley de RTVE, en 2006, ofreció a los periodistas de la corporación la posibilidad de crear estos órganos, como contrapeso interno",
+      "url": "https://www.elconfidencial.com/espana/2026-02-21/rtve-manipulacion-consejo-de-informativos_4307084/",
+      "scraped_at": "2026-02-21T06:59:32Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Policía DAO",
-      "subtitle": "La inspectora que le ha denunciado activó la grabación al subir a su piso, &quot;cuando intuyó el peligro&quot;. La nueva DAO es la comisaria a la que informó de que no estaba en condiciones para trabajar",
-      "url": "https://www.elconfidencial.com/espana/2026-02-19/audiopresunta-violacion-dao-acorrala-jefe-policia-marlaska_4305803/",
-      "scraped_at": "2026-02-20T07:12:28Z"
+      "title": "Decálogo brutal de un magnate para triunfar en los negocios (tiene imágenes explícitas)",
+      "subtitle": "Una biografía torrencial revisa cómo Rupert Murdoch se convirtió en el señor de la prensa más influyente del siglo XX, tuvo negocios turbulentos con Donald Trump y acabó destruyendo a su familia por su sucesión",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-21/murdoch-imperio-familia-negocios-trump-1hms_4305837/",
+      "scraped_at": "2026-02-21T06:59:32Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El americano que compró a Acciona su sede junto a La Moraleja vende con un -40%",
+      "subtitle": "Cain ha vendido dos edificios de oficinas en Alcobendas, que formaron parte de las oficinas centrales de Acciona, al empresario mexicano Moisés-El Mann, casero de Banco Sabadell",
+      "url": "https://www.elconfidencial.com/inmobiliario/oficinas/2026-02-21/moises-el-mann-oficinas-acciona-ree-la-moraleja_4307065/",
+      "scraped_at": "2026-02-21T06:59:33Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Castilla y León",
+      "subtitle": "El jurado no vio probado que la agresión estuviera motivada por ser de Valladolid, como había planteado la investigación de la Policía Nacional. La sentencia condena al autor a 4 años de cárcel y al pago de 250.000 euros",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/",
+      "scraped_at": "2026-02-21T06:59:34Z"
     }
   ]
 }
