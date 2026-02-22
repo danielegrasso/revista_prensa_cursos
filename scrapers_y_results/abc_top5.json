@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: EE.UU. pide a Venezuela la cabeza del hijo de Maduro y de otros ocho jerarcas chavistas: Trump exige cooperación en las investigaciones que se siguen contra ellos, pero la prohibición constitucional de extraditar a nacionales obliga a buscar alternativas; Junts pretende utilizar el burka para recomponer las relaciones con el PSOE: Los separatistas registraron su propia iniciativa la semana pasada tras negarse a votar a favor de la de Vox; Los primeros condenados a prisión permanente revisable ya pueden solicitar permisos: La ley los prevé tras ocho años de cumplimiento, pero en la práctica es inaplicable. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-21T06:59:28Z",
+  "summary": "Resumen del día en ABC.es: Mike Hammer: «El cambio en Cuba va a ser más rápido de lo que se espera»: El encargado de negocios de la Embajada de EE.UU. en La Habana habla con ABC sobre las medidas de presión y los contactos de la Administración Trump con el régimen para que impulsar de manera definitiva una apertura económica y política «que beneficie al pueblo cubano»; 'Txapote' rechaza la semilibertad que le ofrece el PNV: El asesino de Miguel Ángel Blanco, encarcelado en Zaballa, lidera el grupo de irredentos de la banda; Marimar Blanco: «Exijo que retiren la portada de Gara de la exposición de la Constitución»: La hermana de Miguel Ángel Blanco avisa a Bolaños y Armengol de que es «humillante» para las víctimas de ETA. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-22T07:04:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "EE.UU. pide a Venezuela la cabeza del hijo de Maduro y de otros ocho jerarcas chavistas",
-      "subtitle": "Trump exige cooperación en las investigaciones que se siguen contra ellos, pero la prohibición constitucional de extraditar a nacionales obliga a buscar alternativas",
-      "url": "https://www.abc.es/internacional/eeuu-exigio-delcy-rodriguez-delacion-saab-ocho-20260219041322-nt.html",
-      "scraped_at": "2026-02-21T06:59:27Z"
+      "title": "Mike Hammer: «El cambio en Cuba va a ser más rápido de lo que se espera»",
+      "subtitle": "El encargado de negocios de la Embajada de EE.UU. en La Habana habla con ABC sobre las medidas de presión y los contactos de la Administración Trump con el régimen para que impulsar de manera definitiva una apertura económica y política «que beneficie al pueblo cubano»",
+      "url": "https://www.abc.es/internacional/mike-hammer-2026-vamos-ver-cambio-historico-20260220040701-nt.html",
+      "scraped_at": "2026-02-22T07:04:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junts pretende utilizar el burka para recomponer las relaciones con el PSOE",
-      "subtitle": "Los separatistas registraron su propia iniciativa la semana pasada tras negarse a votar a favor de la de Vox",
-      "url": "https://www.abc.es/espana/cataluna/junts-psoe-retoman-contacto-dar-luz-verde-20260220041424-nt.html",
-      "scraped_at": "2026-02-21T06:59:27Z"
+      "title": "'Txapote' rechaza la semilibertad que le ofrece el PNV",
+      "subtitle": "El asesino de Miguel Ángel Blanco, encarcelado en Zaballa, lidera el grupo de irredentos de la banda",
+      "url": "https://www.abc.es/espana/gobierno-vasco-ofrecio-semilibertad-txapote-varias-ocasiones-20260222040720-nt.html",
+      "scraped_at": "2026-02-22T07:04:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los primeros condenados a prisión permanente revisable ya pueden solicitar permisos",
-      "subtitle": "La ley los prevé tras ocho años de cumplimiento, pero en la práctica es inaplicable",
-      "url": "https://www.abc.es/espana/primeros-condenados-prision-permanente-revisable-pueden-pedir-20260221040754-nt.html",
-      "scraped_at": "2026-02-21T06:59:28Z"
+      "title": "Marimar Blanco: «Exijo que retiren la portada de Gara de la exposición de la Constitución»",
+      "subtitle": "La hermana de Miguel Ángel Blanco avisa a Bolaños y Armengol de que es «humillante» para las víctimas de ETA",
+      "url": "https://www.abc.es/espana/entrevista-maria-mar-blanco-20260222040746-nt.html",
+      "scraped_at": "2026-02-22T07:04:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los 'juegos del hambre' de alquilar en Madrid",
-      "subtitle": "En los últimos cinco años el alquiler en la ciudad de Madrid ha subido un 57% de media y en la comunidad casi un 53%",
-      "url": "https://www.abc.es/espana/madrid/alquiler-madrid-situacion-emergencia-absoluta-20260221041617-nt.html",
-      "scraped_at": "2026-02-21T06:59:28Z"
+      "title": "Nadie al volante: un viaje en el mundo de los taxis sin conductor",
+      "subtitle": "El corresponsal de ABC prueba en San Francisco la seguridad, la frialdad y la precisión de los transportes autónomos de la empresa Waymo, de Google, que desembarcarán este 2026 en Europa",
+      "url": "https://www.abc.es/sociedad/volante-viaje-mundo-taxis-conductor-20260222040800-nt.html",
+      "scraped_at": "2026-02-22T07:04:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-21T06:59:28Z"
+      "title": "Cintia, psicóloga: «De cada euro de mi sueldo, al menos un 15% se va en impuestos trimestrales, además de 540 € fijos en gastos mensuales»",
+      "subtitle": "Una psicóloga desglosa los ingresos, gastos, impuestos y el trabajo no visible que hay detrás de su consulta online para alcanzar un sueldo neto de...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/cintia-psicologa-euro-mi-sueldo-15-impuestos-trimestrales-540-e-fijos-gastos-mensuales-20260221_3310414.html",
+      "scraped_at": "2026-02-22T07:04:43Z"
     }
   ]
 }

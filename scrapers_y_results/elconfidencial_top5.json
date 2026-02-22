@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El veto judicial a los aranceles reabre el tablero de la guerra comercial mundial: El presidente de EEUU pierde su arma de coacción más poderosa y establece aranceles temporales del 10%. China se frota las manos en un escenario que le resulta muy favorable; \"No creas lo que ven tus ojos\": figuras de RTVE denuncian en su canal interno la manipulación: Este tipo de informes de denuncia han sido habituales desde que la ley de RTVE, en 2006, ofreció a los periodistas de la corporación la posibilidad de crear estos órganos, como contrapeso interno; Decálogo brutal de un magnate para triunfar en los negocios (tiene imágenes explícitas): Una biografía torrencial revisa cómo Rupert Murdoch se convirtió en el señor de la prensa más influyente del siglo XX, tuvo negocios turbulentos con Donald Trump y acabó destruyendo a su familia por su sucesión. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-21T06:59:34Z",
+  "summary": "Resumen del día en El Confidencial: ERC sigue la estela de Junts y negocia con Moncloa puestos clave en empresas como Indra: Junqueras presiona a Moncloa elevando el precio: a la financiación autonómica, la recaudación del IRPF y la supervisión de la ejecución prespuestaria en Cataluña se suma ya la presencia en el poder económico y empresarial madrileño; Siete lecciones para todos los ejércitos en el cuarto aniversario de la guerra de Ucrania: Kiev y Moscú están poniendo a prueba los límites del combate del siglo XXI en tierra, aire y mar. Un enfrentamiento en el que las viejas reglas de la guerra han dejado de funcionar; Jamenei, el horno no está para bollos: Irán mantiene el pulso narrativo contra Trump: El líder de los ayatolás ha amenazado a Estados Unidos durante el despliegue de sus fuerzas en la región y ante las crecientes amenazas de ataque por parte de Trump. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-22T07:04:46Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El veto judicial a los aranceles reabre el tablero de la guerra comercial mundial",
-      "subtitle": "El presidente de EEUU pierde su arma de coacción más poderosa y establece aranceles temporales del 10%. China se frota las manos en un escenario que le resulta muy favorable",
-      "url": "https://www.elconfidencial.com/economia/2026-02-21/sentencia-supremo-aranceles-trump-guerra-comercial_4307406/",
-      "scraped_at": "2026-02-21T06:59:32Z"
+      "title": "ERC sigue la estela de Junts y negocia con Moncloa puestos clave en empresas como Indra",
+      "subtitle": "Junqueras presiona a Moncloa elevando el precio: a la financiación autonómica, la recaudación del IRPF y la supervisión de la ejecución prespuestaria en Cataluña se suma ya la presencia en el poder económico y empresarial madrileño",
+      "url": "https://www.elconfidencial.com/espana/2026-02-22/erc-junts-moncloa-puestos-clave-empresas-indra_4307460/",
+      "scraped_at": "2026-02-22T07:04:46Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"No creas lo que ven tus ojos\": figuras de RTVE denuncian en su canal interno la manipulación",
-      "subtitle": "Este tipo de informes de denuncia han sido habituales desde que la ley de RTVE, en 2006, ofreció a los periodistas de la corporación la posibilidad de crear estos órganos, como contrapeso interno",
-      "url": "https://www.elconfidencial.com/espana/2026-02-21/rtve-manipulacion-consejo-de-informativos_4307084/",
-      "scraped_at": "2026-02-21T06:59:32Z"
+      "title": "Siete lecciones para todos los ejércitos en el cuarto aniversario de la guerra de Ucrania",
+      "subtitle": "Kiev y Moscú están poniendo a prueba los límites del combate del siglo XXI en tierra, aire y mar. Un enfrentamiento en el que las viejas reglas de la guerra han dejado de funcionar",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-22/asi-ha-cambiado-la-guerra-de-ucrania-las-guerras_4299966/",
+      "scraped_at": "2026-02-22T07:04:46Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Decálogo brutal de un magnate para triunfar en los negocios (tiene imágenes explícitas)",
-      "subtitle": "Una biografía torrencial revisa cómo Rupert Murdoch se convirtió en el señor de la prensa más influyente del siglo XX, tuvo negocios turbulentos con Donald Trump y acabó destruyendo a su familia por su sucesión",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-21/murdoch-imperio-familia-negocios-trump-1hms_4305837/",
-      "scraped_at": "2026-02-21T06:59:32Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El americano que compró a Acciona su sede junto a La Moraleja vende con un -40%",
-      "subtitle": "Cain ha vendido dos edificios de oficinas en Alcobendas, que formaron parte de las oficinas centrales de Acciona, al empresario mexicano Moisés-El Mann, casero de Banco Sabadell",
-      "url": "https://www.elconfidencial.com/inmobiliario/oficinas/2026-02-21/moises-el-mann-oficinas-acciona-ree-la-moraleja_4307065/",
-      "scraped_at": "2026-02-21T06:59:33Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Castilla y León",
-      "subtitle": "El jurado no vio probado que la agresión estuviera motivada por ser de Valladolid, como había planteado la investigación de la Policía Nacional. La sentencia condena al autor a 4 años de cárcel y al pago de 250.000 euros",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/",
-      "scraped_at": "2026-02-21T06:59:34Z"
+      "title": "Jamenei, el horno no está para bollos: Irán mantiene el pulso narrativo contra Trump",
+      "subtitle": "El líder de los ayatolás ha amenazado a Estados Unidos durante el despliegue de sus fuerzas en la región y ante las crecientes amenazas de ataque por parte de Trump",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-21/jamenei-horno-no-esta-bollos-iran-mantiene-pulso-narrativo-trump-posible-ataque_4307404/",
+      "scraped_at": "2026-02-22T07:04:46Z"
     }
   ]
 }
