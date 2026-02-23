@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: ERC sigue la estela de Junts y negocia con Moncloa puestos clave en empresas como Indra: Junqueras presiona a Moncloa elevando el precio: a la financiación autonómica, la recaudación del IRPF y la supervisión de la ejecución prespuestaria en Cataluña se suma ya la presencia en el poder económico y empresarial madrileño; Siete lecciones para todos los ejércitos en el cuarto aniversario de la guerra de Ucrania: Kiev y Moscú están poniendo a prueba los límites del combate del siglo XXI en tierra, aire y mar. Un enfrentamiento en el que las viejas reglas de la guerra han dejado de funcionar; Jamenei, el horno no está para bollos: Irán mantiene el pulso narrativo contra Trump: El líder de los ayatolás ha amenazado a Estados Unidos durante el despliegue de sus fuerzas en la región y ante las crecientes amenazas de ataque por parte de Trump. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-22T07:04:46Z",
+  "summary": "Resumen del día en El Confidencial: El nuevo régimen arancelario de Trump penaliza a sus aliados y beneficia a China: Habrá ganadores y perdedores con los nuevos aranceles de Trump. Los más perjudicados serán,  precisamente, algunos de los socios estratégicos de Washington: Reino Unido e Italia. Entre los ganadores están Brasil, China e India; 23-F: \"Dos militares han puesto sus pistolas en la mesa de Suárez tras salir el Rey\": Se cumplen 45 años del intento golpista y nuevas voces y documentos ponen luz al antes y después de aquellos hechos y de todos los personajes que participaron en la trama que fracasó; ¿Trump presiona y Sheinbaum dispara? México estalla tras la muerte del narco 'El Mencho': Histórica operación contra el crimen organizado que supuso el abatimiento, este domingo, de Nemesio Oseguera Cervantes, alias &#039;Mencho&#039;, líder de la mayor organización internacional del narcotráfico, el Cártel Jalisco Nueva Generación. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-23T07:19:54Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "ERC sigue la estela de Junts y negocia con Moncloa puestos clave en empresas como Indra",
-      "subtitle": "Junqueras presiona a Moncloa elevando el precio: a la financiación autonómica, la recaudación del IRPF y la supervisión de la ejecución prespuestaria en Cataluña se suma ya la presencia en el poder económico y empresarial madrileño",
-      "url": "https://www.elconfidencial.com/espana/2026-02-22/erc-junts-moncloa-puestos-clave-empresas-indra_4307460/",
-      "scraped_at": "2026-02-22T07:04:46Z"
+      "title": "El nuevo régimen arancelario de Trump penaliza a sus aliados y beneficia a China",
+      "subtitle": "Habrá ganadores y perdedores con los nuevos aranceles de Trump. Los más perjudicados serán,  precisamente, algunos de los socios estratégicos de Washington: Reino Unido e Italia. Entre los ganadores están Brasil, China e India",
+      "url": "https://www.elconfidencial.com/economia/2026-02-23/aranceles-eeuu-trump-europa-china-brasil-reino-unido-italia-socios-tribunal-supremo-comercio_4307891/",
+      "scraped_at": "2026-02-23T07:19:53Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Siete lecciones para todos los ejércitos en el cuarto aniversario de la guerra de Ucrania",
-      "subtitle": "Kiev y Moscú están poniendo a prueba los límites del combate del siglo XXI en tierra, aire y mar. Un enfrentamiento en el que las viejas reglas de la guerra han dejado de funcionar",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-22/asi-ha-cambiado-la-guerra-de-ucrania-las-guerras_4299966/",
-      "scraped_at": "2026-02-22T07:04:46Z"
+      "title": "23-F: \"Dos militares han puesto sus pistolas en la mesa de Suárez tras salir el Rey\"",
+      "subtitle": "Se cumplen 45 años del intento golpista y nuevas voces y documentos ponen luz al antes y después de aquellos hechos y de todos los personajes que participaron en la trama que fracasó",
+      "url": "https://www.elconfidencial.com/espana/2026-02-22/23f-despues-militares-mesa-suarez_4301268/",
+      "scraped_at": "2026-02-23T07:19:53Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Jamenei, el horno no está para bollos: Irán mantiene el pulso narrativo contra Trump",
-      "subtitle": "El líder de los ayatolás ha amenazado a Estados Unidos durante el despliegue de sus fuerzas en la región y ante las crecientes amenazas de ataque por parte de Trump",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-21/jamenei-horno-no-esta-bollos-iran-mantiene-pulso-narrativo-trump-posible-ataque_4307404/",
-      "scraped_at": "2026-02-22T07:04:46Z"
+      "title": "¿Trump presiona y Sheinbaum dispara? México estalla tras la muerte del narco 'El Mencho'",
+      "subtitle": "Histórica operación contra el crimen organizado que supuso el abatimiento, este domingo, de Nemesio Oseguera Cervantes, alias &#039;Mencho&#039;, líder de la mayor organización internacional del narcotráfico, el Cártel Jalisco Nueva Generación",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-23/mexico-incendia-operativo-el-mencho-presion-eeuu_4308022/",
+      "scraped_at": "2026-02-23T07:19:53Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Gonzalo Bernardos, economista, acerca de la vivienda en España: “La oferta nueva es escasa y la usada es más abundante”",
+      "subtitle": "El fuerte desequilibrio surgido de la incesante demanda condiciona profundamente el escenario inmobiliario en nuestro país.",
+      "url": "https://www.elconfidencial.com/economia/2026-02-21/economista-vivienda-espana-oferta-nueva-escasa-usada_4303524/",
+      "scraped_at": "2026-02-23T07:19:54Z"
     }
   ]
 }
