@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: EE.UU. revisa el papel de Rota en plena tensión con Sánchez: Un informe del Capitolio advierte prioridades hacia Asia mientras Marruecos gana peso ante Washington; Trump busca doblegar totalmente a La Habana: ABC desvela las medidas de la Administración, que pasan por contactos dentro del régimen y también con destacados opositores; la idea es una transición ordenada y teledirigida; La muerte del narco El Mencho en un operativo militar desata la violencia en México: Era el jefe del Cártel de Jalisco Nueva Generación, por el que EE.UU. ofrecía una recompensa de 15 millones de dólares.. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-23T07:19:49Z",
+  "summary": "Resumen del día en ABC.es: Adif se llevó pruebas de Adamuz de noche sin autorización judicial: Un oficio de la Guardia Civil al que ha tenido acceso ABC revela que trabajadores de la operadora ferroviaria se llevaron materiales que pueden ser clave sin permiso; Génova toma el timón de las negociaciones con Vox para garantizar los pactos de gobierno: Feijóo habló directamente con Abascal el fin de semana ante el riesgo de repetición electoral; Crecer en Ucrania: siete mil horas bajo las alarmas antiaéreas: Miles de niños han vivido con el sonido ensordecedor de las alarmas antiaéreas durante más de nueve meses, sin descanso. Esto les ha provocado trastornos y graves consecuencias para su salud mental. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-24T07:14:34Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "EE.UU. revisa el papel de Rota en plena tensión con Sánchez",
-      "subtitle": "Un informe del Capitolio advierte prioridades hacia Asia mientras Marruecos gana peso ante Washington",
-      "url": "https://www.abc.es/espana/eeuu-revisa-papel-clave-rota-plena-tension-20260223040822-nt.html",
-      "scraped_at": "2026-02-23T07:19:47Z"
+      "title": "Adif se llevó pruebas de Adamuz de noche sin autorización judicial",
+      "subtitle": "Un oficio de la Guardia Civil al que ha tenido acceso ABC revela que trabajadores de la operadora ferroviaria se llevaron materiales que pueden ser clave sin permiso",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/adif-llevo-madrugada-adamuz-pruebas-accidente-autorizacion-20260224213037-nts.html",
+      "scraped_at": "2026-02-24T07:14:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump busca doblegar totalmente a La Habana",
-      "subtitle": "ABC desvela las medidas de la Administración, que pasan por contactos dentro del régimen y también con destacados opositores; la idea es una transición ordenada y teledirigida",
-      "url": "https://www.abc.es/internacional/plan-trump-busca-doblegar-totalmente-cuba-20260222040240-nt.html",
-      "scraped_at": "2026-02-23T07:19:48Z"
+      "title": "Génova toma el timón de las negociaciones con Vox para garantizar los pactos de gobierno",
+      "subtitle": "Feijóo habló directamente con Abascal el fin de semana ante el riesgo de repetición electoral",
+      "url": "https://www.abc.es/espana/pp-vox-deciden-empezar-cero-negociacion-sobre-20260224041339-nt.html",
+      "scraped_at": "2026-02-24T07:14:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "La muerte del narco El Mencho en un operativo militar desata la violencia en México",
-      "subtitle": "Era el jefe del Cártel de Jalisco Nueva Generación, por el que EE.UU. ofrecía una recompensa de 15 millones de dólares.",
-      "url": "https://www.abc.es/internacional/gobierno-mexico-abate-mencho-capos-buscados-20260221194849-nt.html",
-      "scraped_at": "2026-02-23T07:19:48Z"
+      "title": "Crecer en Ucrania: siete mil horas bajo las alarmas antiaéreas",
+      "subtitle": "Miles de niños han vivido con el sonido ensordecedor de las alarmas antiaéreas durante más de nueve meses, sin descanso. Esto les ha provocado trastornos y graves consecuencias para su salud mental",
+      "url": "https://www.abc.es/internacional/siete-mil-horas-bajo-alarma-crecer-ucrania-20260224041354-nt.html",
+      "scraped_at": "2026-02-24T07:14:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "España ante el nuevo siglo occidental",
-      "subtitle": "España exige estabilidad institucional, claridad estratégica y una política exterior que piense en décadas, no en semanas",
-      "url": "https://www.abc.es/opinion/alberto-nunez-feijoo-espana-ante-nuevo-siglo-occidental-20260222191243-nt.html",
-      "scraped_at": "2026-02-23T07:19:48Z"
+      "title": "Trump agrava una guerra arancelaria que ya le ha costado 800 millones a España",
+      "subtitle": "Las exportaciones españolas a los EE.UU. se han reducido un 11% desde que entraron en vigor las tasas",
+      "url": "https://www.abc.es/economia/trump-agrava-guerra-arancelaria-costado-800-millones-20260223041414-nt.html",
+      "scraped_at": "2026-02-24T07:14:34Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-23T07:19:49Z"
+      "scraped_at": "2026-02-24T07:14:34Z"
     }
   ]
 }

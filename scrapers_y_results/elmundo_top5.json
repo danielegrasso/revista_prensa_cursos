@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Vox ante el techo del bipartidismo: Vox cae es una frase que hacía mucho tiempo que no se veía en un titular. No es poca cosa, porque una de las grandes cuestiones de la política española es si Vox tiene un techo...; Movilización policial para pedir a Marlaska que dimita tras el 'caso DAO': Agentes del Cuerpo Nacional de Policía se concentran hoy ante Interior por el escándalo; Las dos caras del edadismo laboral que ya afecta al 44% de los trabajadores en España: \"Si tengo los conocimientos que necesitas, ¿qué te importa mi edad?\": Más de la mitad de afectados son mayores de 50 años, pero es una exclusión que no deja detrás a los más jóvenes, que ya son el 26% de las estadísticas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-02-23T07:19:42Z",
+  "summary": "Resumen del día en El Mundo: Zapatero y su pagador viajaban juntos a Venezuela en aviones del régimen de Maduro: El ex presidente del Gobierno se desplazaba anualmente con el empresario detenido en el 'caso Plus Ultra' a Caracas. Compartían hoteles y mantenían reuniones conjuntas; El lobista de Plus Ultra pagó 110.000 euros al año a la familia Zapatero por servicios teóricos de asesoría y marketing: Julio Martínez Martínez tenía como 'grandes proveedores' de su empresa al ex presidente y sus hijas; Una segunda agente acusa al ex DAO de \"intimidarla y doblegarla\": La posible denuncia se suma a la querella en su contra de una inspectora por violación. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-02-24T07:14:26Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Vox ante el techo del bipartidismo",
-      "subtitle": "Vox cae es una frase que hacía mucho tiempo que no se veía en un titular. No es poca cosa, porque una de las grandes cuestiones de la política española es si Vox tiene un techo...",
-      "url": "https://www.elmundo.es/espana/2026/02/23/699b412bfdddff007e8b457e.html",
-      "scraped_at": "2026-02-23T07:19:41Z"
+      "title": "Zapatero y su pagador viajaban juntos a Venezuela en aviones del régimen de Maduro",
+      "subtitle": "El ex presidente del Gobierno se desplazaba anualmente con el empresario detenido en el 'caso Plus Ultra' a Caracas. Compartían hoteles y mantenían reuniones conjuntas",
+      "url": "https://www.elmundo.es/espana/2026/02/23/699c997821efa0b23d8b458b.html",
+      "scraped_at": "2026-02-24T07:14:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "Movilización policial para pedir a Marlaska que dimita tras el 'caso DAO'",
-      "subtitle": "Agentes del Cuerpo Nacional de Policía se concentran hoy ante Interior por el escándalo",
-      "url": "https://www.elmundo.es/espana/2026/02/22/699b3ecefdddff76458b4589.html",
-      "scraped_at": "2026-02-23T07:19:41Z"
+      "title": "El lobista de Plus Ultra pagó 110.000 euros al año a la familia Zapatero por servicios teóricos de asesoría y marketing",
+      "subtitle": "Julio Martínez Martínez tenía como 'grandes proveedores' de su empresa al ex presidente y sus hijas",
+      "url": "https://www.elmundo.es/espana/2026/02/23/699ca034fdddff856d8b45ac.html",
+      "scraped_at": "2026-02-24T07:14:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las dos caras del edadismo laboral que ya afecta al 44% de los trabajadores en España: \"Si tengo los conocimientos que necesitas, ¿qué te importa mi edad?\"",
-      "subtitle": "Más de la mitad de afectados son mayores de 50 años, pero es una exclusión que no deja detrás a los más jóvenes, que ya son el 26% de las estadísticas",
-      "url": "https://www.elmundo.es/economia/2026/02/22/69972b67e4d4d85d548b458b.html",
-      "scraped_at": "2026-02-23T07:19:42Z"
+      "title": "Una segunda agente acusa al ex DAO de \"intimidarla y doblegarla\"",
+      "subtitle": "La posible denuncia se suma a la querella en su contra de una inspectora por violación",
+      "url": "https://www.elmundo.es/espana/2026/02/24/699c995221efa05c438b4590.html",
+      "scraped_at": "2026-02-24T07:14:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "El 'no' al acuerdo comercial con EEUU avanza en el Parlamento Europeo: el PPE, socialistas y liberales \"previsiblemente\" votarán en contra",
-      "subtitle": "La comisión de Comercio del Europarlamento celebra este lunes una reunión en la que se fijarán las posiciones ante la votación clave de mañana, y que podría paralizar el pacto arancelario",
-      "url": "https://www.elmundo.es/economia/2026/02/23/699b680021efa0ea6a8b456e.html",
-      "scraped_at": "2026-02-23T07:19:42Z"
+      "title": "Europa y Ucrania se preparan para dos años más de guerra: \"La economía rusa ha entrado en la zona de la muerte\"",
+      "subtitle": "La estrategia de Bruselas y Kiev pasa por llevar al límite a la economía rusa y obligar al Kremlin a volver a la mesa de negociación de forma realista, ya que nadie confía en el plan de paz de Trump",
+      "url": "https://www.elmundo.es/internacional/2026/02/23/699c793efdddff9b178b4582.html",
+      "scraped_at": "2026-02-24T07:14:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "El Mencho",
-      "subtitle": "Se trata de la primera gran acción de la presidente Claudia Sheinbaum contra el narcotráfico, quien ha hecho un llamamiento a la \"calma\" y afirma que existe \"absoluta coordinación con gobiernos de todos los estados\"",
-      "url": "https://www.elmundo.es/internacional/2026/02/22/699b4725e85ecee81b8b4582.html",
-      "scraped_at": "2026-02-23T07:19:42Z"
+      "title": "Adif Adamuz",
+      "subtitle": "El escenario del siniestro de Adamuz el pasado 18 de enero sumó a la confusión en los servicios de emergencias la de operarios de Adif, que evacuaron piezas y material que la Guardia Civil localizó e incorporó a la investigación",
+      "url": "https://www.elmundo.es/economia/2026/02/23/699cb78a21efa01b408b458a.html",
+      "scraped_at": "2026-02-24T07:14:26Z"
     }
   ]
 }
