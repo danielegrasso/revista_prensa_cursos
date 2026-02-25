@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Vídeo | Un testigo clave reveló al juez que Leire decía estar a la orden de Sánchez: 'Dijo límpiese': El empresario que organizó la reunión de la fontanera con el fiscal Stampa desveló que la mujer se presentó como la &quot;mano derecha&quot; de Cerdán y dijo que &quot;no iba como periodista&quot;; Feijóo se acerca a Abascal y envía un \"documento marco\" a las CCAA para negociar con Vox: El líder del PP habló el domingo durante una hora con el presidente de Vox y constató que &quot;el pacto puede ser posible&quot;. Génova cambia de estrategia, limita la autonomía de CCAA y marca unas pautas comunes; Jurídico: Desde su creación en 2020, la corte arbitral suma ya 68 casos y cerca de 425 millones de euros en disputa. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-24T07:14:39Z",
+  "summary": "Resumen del día en El Confidencial: El PSOE se alía con Vox y 'veta' la condena al fiscal general en el informe de la UE del Estado de derecho: El caso de García Ortiz enfrenta a PP y los socialistas, que denuncian la &quot;instrumentalización&quot; del Parlamento Europeo. Es la primera vez que se desmarcan de la &quot;mayoría Ursula&quot; en este asunto y votan con la derecha radical; Mucho más que Garrigues: Colón se erige como la milla de oro de los bufetes de abogados: El barrio del Temple, en La City de Londres, es el epicentro de los despachos de abogados; un papel que está jugando en Madrid todo el entorno de la Plaza de Colón; Pablo Iglesias arranca la prueba de su Canal Red en Movistar+ para multiplicar su audiencia: El canal se encuentra en fase de &#039;ensayo&#039; en la plataforma de Telefónica, sin un dial definitivo asignado. Su emisión se ofrecía de forma ininterrumpida en su web. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-25T07:15:39Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Vídeo | Un testigo clave reveló al juez que Leire decía estar a la orden de Sánchez: 'Dijo límpiese'",
-      "subtitle": "El empresario que organizó la reunión de la fontanera con el fiscal Stampa desveló que la mujer se presentó como la &quot;mano derecha&quot; de Cerdán y dijo que &quot;no iba como periodista&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-02-24/video-testigo-clave-revelo-leire-seguir-ordenes-sanchez_4308010/",
-      "scraped_at": "2026-02-24T07:14:38Z"
+      "title": "El PSOE se alía con Vox y 'veta' la condena al fiscal general en el informe de la UE del Estado de derecho",
+      "subtitle": "El caso de García Ortiz enfrenta a PP y los socialistas, que denuncian la &quot;instrumentalización&quot; del Parlamento Europeo. Es la primera vez que se desmarcan de la &quot;mayoría Ursula&quot; en este asunto y votan con la derecha radical",
+      "url": "https://www.elconfidencial.com/espana/2026-02-25/psoe-alianza-vox-condena-fiscal-general-informe-estado-derecho_4309257/",
+      "scraped_at": "2026-02-25T07:15:37Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Feijóo se acerca a Abascal y envía un \"documento marco\" a las CCAA para negociar con Vox",
-      "subtitle": "El líder del PP habló el domingo durante una hora con el presidente de Vox y constató que &quot;el pacto puede ser posible&quot;. Génova cambia de estrategia, limita la autonomía de CCAA y marca unas pautas comunes",
-      "url": "https://www.elconfidencial.com/espana/2026-02-23/genova-elabora-un-documento-marco-para-negociar-los-gobiernos-de-sus-ccaa-con-vox_4308561/",
-      "scraped_at": "2026-02-24T07:14:39Z"
+      "title": "Mucho más que Garrigues: Colón se erige como la milla de oro de los bufetes de abogados",
+      "subtitle": "El barrio del Temple, en La City de Londres, es el epicentro de los despachos de abogados; un papel que está jugando en Madrid todo el entorno de la Plaza de Colón",
+      "url": "https://www.elconfidencial.com/inmobiliario/2026-02-25/garrigues-torres-colon-milla-oro-abogados_4309130/",
+      "scraped_at": "2026-02-25T07:15:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Jurídico",
-      "subtitle": "Desde su creación en 2020, la corte arbitral suma ya 68 casos y cerca de 425 millones de euros en disputa",
-      "url": "https://www.elconfidencial.com/juridico/",
-      "scraped_at": "2026-02-24T07:14:39Z"
+      "title": "Pablo Iglesias arranca la prueba de su Canal Red en Movistar+ para multiplicar su audiencia",
+      "subtitle": "El canal se encuentra en fase de &#039;ensayo&#039; en la plataforma de Telefónica, sin un dial definitivo asignado. Su emisión se ofrecía de forma ininterrumpida en su web",
+      "url": "https://www.elconfidencial.com/espana/2026-02-25/pablo-iglesias-pruebas-emitir-canal-red-movistar_4309276/",
+      "scraped_at": "2026-02-25T07:15:38Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Economía",
+      "subtitle": "La economía española destruyó 300.000 empleos en 1981 y entró en recesión, y el golpe de Estado contribuyó a aumentar la incertidumbre",
+      "url": "https://www.elconfidencial.com/economia/",
+      "scraped_at": "2026-02-25T07:15:39Z"
     }
   ]
 }
