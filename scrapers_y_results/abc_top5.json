@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Adif ignoró la advertencia expresa de no llevarse las piezas de Adamuz: Puente reconoce ahora que retiraron la pieza pero asegura que era para preservarla; El gerente del CNIO presiona a trabajadores para que declaren contra Barbacid: Pretende que Anticorrupción llegue hasta el bioquímico fundador del centro de investigación del cáncer; ¿Un invierno cálido y seco? La predicción de la Aemet que «no sirve de nada» al público general: El pronóstico estacional desata las críticas. Expertos apuntan a un problema de comunicación, a sus limitaciones y a la necesidad de incluir más datos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-25T07:15:34Z",
+  "summary": "Resumen del día en ABC.es: El CNIO investiga una denuncia por acoso de la exsecretaria general contra el gerente: José Manuel Bernabé le enviaba mensajes personales desde el gimnasio y alardeaba de las mujeres con las que se acostaba: «Este año llevo catorce»; Adif afronta indemnizaciones millonarias por la crisis ferroviaria tras Adamuz: Ouigo ya estudia pedir compensaciones por la pérdida de ventas en las últimas semanas y espera a los resultados de la investigación para pedir responsabilidad patrimonial; El botón del pánico de los futbolistas contra el odio: LaLiga pone al servicio de los jugadores una aplicación con opción para denunciar e intervenir directamente ante insultos, amenazas y agresiones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-26T07:14:12Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Adif ignoró la advertencia expresa de no llevarse las piezas de Adamuz",
-      "subtitle": "Puente reconoce ahora que retiraron la pieza pero asegura que era para preservarla",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/adif-ignoro-advertencia-expresa-llevarse-piezas-adamuz-20260225042203-nts.html",
-      "scraped_at": "2026-02-25T07:15:34Z"
+      "title": "El CNIO investiga una denuncia por acoso de la exsecretaria general contra el gerente",
+      "subtitle": "José Manuel Bernabé le enviaba mensajes personales desde el gimnasio y alardeaba de las mujeres con las que se acostaba: «Este año llevo catorce»",
+      "url": "https://www.abc.es/espana/cnio-investiga-denuncia-exsecretaria-general-gerente-acoso-20260225040553-nt.html",
+      "scraped_at": "2026-02-26T07:14:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "El gerente del CNIO presiona a trabajadores para que declaren contra Barbacid",
-      "subtitle": "Pretende que Anticorrupción llegue hasta el bioquímico fundador del centro de investigación del cáncer",
-      "url": "https://www.abc.es/espana/gerente-cnio-presiona-trabajadores-declaren-barbacid-20260224042241-nt.html",
-      "scraped_at": "2026-02-25T07:15:34Z"
+      "title": "Adif afronta indemnizaciones millonarias por la crisis ferroviaria tras Adamuz",
+      "subtitle": "Ouigo ya estudia pedir compensaciones por la pérdida de ventas en las últimas semanas y espera a los resultados de la investigación para pedir responsabilidad patrimonial",
+      "url": "https://www.abc.es/economia/adif-afronta-indemnizaciones-millonarias-crisis-ferroviaria-tras-20260226040620-nt.html",
+      "scraped_at": "2026-02-26T07:14:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Un invierno cálido y seco? La predicción de la Aemet que «no sirve de nada» al público general",
-      "subtitle": "El pronóstico estacional desata las críticas. Expertos apuntan a un problema de comunicación, a sus limitaciones y a la necesidad de incluir más datos",
-      "url": "https://www.abc.es/sociedad/invierno-calido-seco-prediccion-aemet-sirve-publico-20260225042256-nt.html",
-      "scraped_at": "2026-02-25T07:15:34Z"
+      "title": "El botón del pánico de los futbolistas contra el odio",
+      "subtitle": "LaLiga pone al servicio de los jugadores una aplicación con opción para denunciar e intervenir directamente ante insultos, amenazas y agresiones",
+      "url": "https://www.abc.es/deportes/futbol/boton-odio-auxilio-futbolista-violencia-20260225040641-nt.html",
+      "scraped_at": "2026-02-26T07:14:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "El abogado de la víctima del ex-DAO tiene entre manos un «caso Rubiales»",
-      "subtitle": "Jorge Piedrafita afirma que está sufriendo «presiones» porque ha «abierto la caja de los truenos» en el Cuerpo",
-      "url": "https://www.abc.es/espana/abogado-victima-exdao-manos-rubiales-policia-20260225042313-nt.html",
-      "scraped_at": "2026-02-25T07:15:34Z"
+      "title": "Meliá e Iberostar, afectados por el cierre de hoteles en Cuba por la falta de turistas y de combustible",
+      "subtitle": "La clausura temporal de cinco de sus establecimientos se suma a la de decenas en toda la isla",
+      "url": "https://www.abc.es/internacional/comienzan-cerrar-hoteles-cuba-falta-turistas-ante-20260225040650-nt.html",
+      "scraped_at": "2026-02-26T07:14:12Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-25T07:15:34Z"
+      "scraped_at": "2026-02-26T07:14:12Z"
     }
   ]
 }

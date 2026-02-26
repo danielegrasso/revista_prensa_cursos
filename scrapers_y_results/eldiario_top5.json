@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La propuesta de Rufián de un frente común de la izquierda amenaza la mayoría absoluta de PP y Vox: Una candidatura de Sumar, Podemos, ERC, EH Bildu y BNG casi empataría con Vox como tercera fuerza, según la encuesta elaborada por Ateneo del Dato para elDiario.es; Donald Trump incendia el discurso del estado de la Unión con insultos a la oposición, al Tribunal Supremo y a los migrantes: El presidente de EEUU ha intentado presumir de datos económicos, pero no ha podido resistirse a llamar \"locos\" a los demócratas, criminalizar a los migrantes y cargar contra los jueces que le han parado los pies por extralimitarse en sus poderes para imponer aranceles globales; A Trump se le pueden parar los pies, y él ya lo sabe: La sentencia del Tribunal Supremo de EEUU tiene un valor simbólico por encima de lo práctico: Trump podrá seguir imponiendo aranceles, pero, de repente, es consciente de que su poder tiene límites. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-25T07:15:33Z",
+  "summary": "Resumen del día en elDiario.es: La izquierda busca líder tras la renuncia de Yolanda Díaz: Todos los referentes del espacio reivindican el legado de la vicepresidenta segunda y aseguran que no es el momento de hablar de nombres sino de construir un proyecto sólido; Yolanda Díaz, de la esperanza a la impotencia: La vicepresidenta renuncia a liderar la izquierda en las próximas elecciones después de estrellarse contra la realidad del Congreso, donde los avances sociales más ambiciosos se han convertido en metas imposibles; Lo que los documentos del 23F cuentan sobre el papel del rey Juan Carlos: Aunque los documentos desclasificados no modifican sustancialmente la interpretación actual sobre el golpe de Estado, algunos referidos al monarca apuntan a supuestos encuentros con Armada y Milans del Bosch días antes del juicio o a la denuncia del intento de \"implicarle\" por parte de la extrema derecha. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-26T07:14:10Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La propuesta de Rufián de un frente común de la izquierda amenaza la mayoría absoluta de PP y Vox",
-      "subtitle": "Una candidatura de Sumar, Podemos, ERC, EH Bildu y BNG casi empataría con Vox como tercera fuerza, según la encuesta elaborada por Ateneo del Dato para elDiario.es",
-      "url": "https://www.eldiario.es/politica/propuesta-rufian-frente-comun-izquierda-amenaza-mayoria-absoluta-pp-vox_1_13017322.html",
-      "scraped_at": "2026-02-25T07:15:30Z"
+      "title": "La izquierda busca líder tras la renuncia de Yolanda Díaz",
+      "subtitle": "Todos los referentes del espacio reivindican el legado de la vicepresidenta segunda y aseguran que no es el momento de hablar de nombres sino de construir un proyecto sólido",
+      "url": "https://www.eldiario.es/politica/izquierda-busca-liderazgo-renuncia-yolanda-diaz_1_13021309.html",
+      "scraped_at": "2026-02-26T07:14:08Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Donald Trump incendia el discurso del estado de la Unión con insultos a la oposición, al Tribunal Supremo y a los migrantes",
-      "subtitle": "El presidente de EEUU ha intentado presumir de datos económicos, pero no ha podido resistirse a llamar \"locos\" a los demócratas, criminalizar a los migrantes y cargar contra los jueces que le han parado los pies por extralimitarse en sus poderes para imponer aranceles globales",
-      "url": "https://www.eldiario.es/internacional/donald-trump-incendia-discurso-union-insultos-oposicion-tribunal-supremo-migrantes_129_13018132.html",
-      "scraped_at": "2026-02-25T07:15:31Z"
+      "title": "Yolanda Díaz, de la esperanza a la impotencia",
+      "subtitle": "La vicepresidenta renuncia a liderar la izquierda en las próximas elecciones después de estrellarse contra la realidad del Congreso, donde los avances sociales más ambiciosos se han convertido en metas imposibles",
+      "url": "https://www.eldiario.es/politica/yolanda-diaz-esperanza-impotencia_129_13020483.html",
+      "scraped_at": "2026-02-26T07:14:08Z"
     },
     {
       "source": "elDiario.es",
-      "title": "A Trump se le pueden parar los pies, y él ya lo sabe",
-      "subtitle": "La sentencia del Tribunal Supremo de EEUU tiene un valor simbólico por encima de lo práctico: Trump podrá seguir imponiendo aranceles, pero, de repente, es consciente de que su poder tiene límites",
-      "url": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/trump-le-parar-pies_132_13018151.html",
-      "scraped_at": "2026-02-25T07:15:31Z"
+      "title": "Lo que los documentos del 23F cuentan sobre el papel del rey Juan Carlos",
+      "subtitle": "Aunque los documentos desclasificados no modifican sustancialmente la interpretación actual sobre el golpe de Estado, algunos referidos al monarca apuntan a supuestos encuentros con Armada y Milans del Bosch días antes del juicio o a la denuncia del intento de \"implicarle\" por parte de la extrema derecha",
+      "url": "https://www.eldiario.es/sociedad/papeles-23f-cuentan-rey-juan-carlos_1_13020326.html",
+      "scraped_at": "2026-02-26T07:14:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Vox exige al PP el 'modelo Mazón' para que apoye sus gobiernos: asumir su ideología y agradecer su apoyo públicamente",
-      "subtitle": "Abascal rechaza el \"documento marco\" de Feijóo para negociar las investiduras de Guardiola y Azcón tras asumir la dirección nacional del PP la tutela de las conversaciones con la extrema derecha ante el riesgo de descarrilamiento",
-      "url": "https://www.eldiario.es/politica/vox-exige-pp-modelo-mazon-apoye-gobiernos-asumir-ideologia-agradecer-apoyo-publicamente_1_13017568.html",
-      "scraped_at": "2026-02-25T07:15:32Z"
+      "title": "Las llamadas que reflejan que la familia de Tejero conocía el fracaso del golpe desde el inicio: “Qué gilipuertas es”",
+      "subtitle": "La desclasificación de documentos frustra la pretensión de conocer las conversaciones del rey con las capitanías generales o las comunicaciones con el Congreso la noche del golpe",
+      "url": "https://www.eldiario.es/sociedad/llamadas-23f-reflejan-familia-tejero-conocia-fracaso-golpe-inicio-gilipuertas_1_13020286.html",
+      "scraped_at": "2026-02-26T07:14:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Documentos 23F",
-      "subtitle": "El Consejo de Ministros da luz verde a la publicación el miércoles de los documentos que se han encontrado sobre la intentona golpista que están en manos de Defensa, Interior y Exteriores. La portavoz evita decir si cambiará la imagen de la actuación de Juan Carlos I",
-      "url": "https://www.eldiario.es/politica/gobierno-aprueba-desclasificacion-documentos-23f-acabamos-situacion-atipica-democracias-modernas_1_13015981.html",
-      "scraped_at": "2026-02-25T07:15:33Z"
+      "title": "Antonio Tejero",
+      "subtitle": "Su nombre se inscribe desde hoy en la historia no por sus actos de heroísmo o grandeza, sino por la infamia de sus acciones, de las que nunca se arrepintió",
+      "url": "https://www.eldiario.es/sociedad/antonio-tejero-golpista-contumaz_129_12709912.html",
+      "scraped_at": "2026-02-26T07:14:10Z"
     }
   ]
 }
