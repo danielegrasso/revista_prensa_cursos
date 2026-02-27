@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El final del secreto sobre el 23-F ayuda a reconstruir detalles del golpe: La publicación de los documentos coincide con el anuncio de la muerte de Tejero; Punto final al 23-F: El 23-F, una de las fechas más importantes de la historia de la democracia española, revivió ayer con una fuerza inusitada. El Gobierno desclasificó los documentos; El Gobierno Trump retuvo tres archivos de Epstein con acusaciones sexuales contra el presidente: El FBI realizó cuatro entrevistas de seguimiento a la mujer que denunció, pero el Departamento de Justicia de EE.UU. tan solo ha publicado el resumen de una de ellas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-26T07:14:14Z",
+  "summary": "Resumen del día en La Vanguardia: Hillary Clinton declara indignada sobre Epstein en el Congreso: “Es un teatro partidista”: La exsecretaria de Estado defiende que su marido, el expresidente Bill Clinton, que declara este viernes, tampoco conocía los delitos de Epstein; Pakistán declara la “guerra” a Afganistán y bombardea objetivos en Kabul y Kandahar: Docenas de muertos en la represalia aérea por el ataque afgano contra soldados pakistaníes, horas antes; László Krasznahorkai: “Hoy no esperamos al mesías, sino a un falso profeta que nos mienta”: El premio Nobel de Literatura visita Barcelona para hablar de su obra. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-27T07:10:46Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El final del secreto sobre el 23-F ayuda a reconstruir detalles del golpe",
-      "subtitle": "La publicación de los documentos coincide con el anuncio de la muerte de Tejero",
-      "url": "https://www.lavanguardia.com/politica/20260226/11475598/final-secreto-sobre-23-f-ayuda-reconstruir-detalles-golpe.html",
-      "scraped_at": "2026-02-26T07:14:14Z"
+      "title": "Hillary Clinton declara indignada sobre Epstein en el Congreso: “Es un teatro partidista”",
+      "subtitle": "La exsecretaria de Estado defiende que su marido, el expresidente Bill Clinton, que declara este viernes, tampoco conocía los delitos de Epstein",
+      "url": "https://www.lavanguardia.com/internacional/20260227/11476906/hillary-clinton-indignada-declarar-congreso-sobre-epstein-me-han-preguntado-sobre-ovnis-pizzagate.html",
+      "scraped_at": "2026-02-27T07:10:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Punto final al 23-F",
-      "subtitle": "El 23-F, una de las fechas más importantes de la historia de la democracia española, revivió ayer con una fuerza inusitada. El Gobierno desclasificó los documentos",
-      "url": "https://www.lavanguardia.com/opinion/20260226/11475606/punto-final-23-f.html",
-      "scraped_at": "2026-02-26T07:14:14Z"
+      "title": "Pakistán declara la “guerra” a Afganistán y bombardea objetivos en Kabul y Kandahar",
+      "subtitle": "Docenas de muertos en la represalia aérea por el ataque afgano contra soldados pakistaníes, horas antes",
+      "url": "https://www.lavanguardia.com/internacional/20260227/11476911/pakistan-declara-guerra-afganistan-bombardea-objetivos-kabul-kandahar.html",
+      "scraped_at": "2026-02-27T07:10:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno Trump retuvo tres archivos de Epstein con acusaciones sexuales contra el presidente",
-      "subtitle": "El FBI realizó cuatro entrevistas de seguimiento a la mujer que denunció, pero el Departamento de Justicia de EE.UU. tan solo ha publicado el resumen de una de ellas",
-      "url": "https://www.lavanguardia.com/internacional/20260225/11475549/administracion-trump-retuvo-tres-archivos-epstein-mujer-acuso-presidente-abuso-sexual.html",
-      "scraped_at": "2026-02-26T07:14:14Z"
+      "title": "László Krasznahorkai: “Hoy no esperamos al mesías, sino a un falso profeta que nos mienta”",
+      "subtitle": "El premio Nobel de Literatura visita Barcelona para hablar de su obra",
+      "url": "https://www.lavanguardia.com/cultura/20260227/11476624/laszlo-nobel-krasznahorkai-orban-entrevista-barcelona.html",
+      "scraped_at": "2026-02-27T07:10:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuba dice que los diez ocupantes de la lancha tiroteada eran cubanos con fines terroristas",
-      "subtitle": "La versión de La Habana reconoce que hubo cuatro muertos y que los otros seis, heridos y atendidos por los médicos, confesaron su propósito, para lo que, además de",
-      "url": "https://www.lavanguardia.com/internacional/20260226/11475826/cuba-dice-diez-ocupantes-lancha-tiroteada-cubanos-iban-infiltrarse-fines-terroristas.html",
-      "scraped_at": "2026-02-26T07:14:14Z"
+      "title": "Por qué China no salvará a Cuba de sí misma, ni de los Estados Unidos",
+      "subtitle": "A diferencia de Moscú en el pasado, Pekín no da dinero a fondo perdido por motivos ideológicos",
+      "url": "https://www.lavanguardia.com/internacional/20260227/11474891/china-salvara-cuba-estados-unidos.html",
+      "scraped_at": "2026-02-27T07:10:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La ruta de Washington Irving: tras la huella del escritor americano que devolvió la vida a la Alhambra",
-      "subtitle": "Con 'Cuentos de la Alhambra', Irving no solo hizo que el mundo se enamorara de Granada, sino que logró poner el foco internacional sobre un conjunto palaciego, por aquel",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260225/11473231/ruta-washington-irving-granada-alhambra.html",
-      "scraped_at": "2026-02-26T07:14:14Z"
+      "title": "Eleva tu plato vegetal con este cuscús integral y su salsa de almendras",
+      "subtitle": "La combinación de hortalizas salteadas, el toque cítrico del limón y la cremosidad de la almendra da como resultado un plato sabroso, saciante y ideal para el día a",
+      "url": "https://www.lavanguardia.com/comer/recetas/20260227/11467719/eleva-plato-vegetal-cuscus-integral-salsa-almendras.html",
+      "scraped_at": "2026-02-27T07:10:46Z"
     }
   ]
 }

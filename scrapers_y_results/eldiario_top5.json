@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La izquierda busca líder tras la renuncia de Yolanda Díaz: Todos los referentes del espacio reivindican el legado de la vicepresidenta segunda y aseguran que no es el momento de hablar de nombres sino de construir un proyecto sólido; Yolanda Díaz, de la esperanza a la impotencia: La vicepresidenta renuncia a liderar la izquierda en las próximas elecciones después de estrellarse contra la realidad del Congreso, donde los avances sociales más ambiciosos se han convertido en metas imposibles; Lo que los documentos del 23F cuentan sobre el papel del rey Juan Carlos: Aunque los documentos desclasificados no modifican sustancialmente la interpretación actual sobre el golpe de Estado, algunos referidos al monarca apuntan a supuestos encuentros con Armada y Milans del Bosch días antes del juicio o a la denuncia del intento de \"implicarle\" por parte de la extrema derecha. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-26T07:14:10Z",
+  "summary": "Resumen del día en elDiario.es: Ayuso intenta sofocar el incendio en la universidad con una subida del presupuesto tras años de recortes: El Gobierno regional se reunirá con los mandatorios el próximo lunes para intentar cerrar un acuerdo que mejore la financiación de los centros públicos; la presidenta comparece el próximo jueves para dar explicaciones sobre el cese del exconsejero Viciana; El PSOE busca evitar otra debacle en Castilla y León ante una nueva prueba en la relación entre PP y Vox: El inicio de la campaña electoral coincide con otra bronca entre los equipos de Feijóo y Abascal a cuenta de las infructuosas negociaciones en Extremadura y Aragón. Los socialistas aspiran a mantener el resultado de hace cuatro años; Vox se rompe en Murcia: dimite en bloque la cúpula regional para forzar la caída de Antelo: El Comité Ejecutivo Provincial quedará disuelto, de modo que la dirección nacional de Vox tendrá que nombrar de nuevo una gestora que asuma el control del partido. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-27T07:10:40Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La izquierda busca líder tras la renuncia de Yolanda Díaz",
-      "subtitle": "Todos los referentes del espacio reivindican el legado de la vicepresidenta segunda y aseguran que no es el momento de hablar de nombres sino de construir un proyecto sólido",
-      "url": "https://www.eldiario.es/politica/izquierda-busca-liderazgo-renuncia-yolanda-diaz_1_13021309.html",
-      "scraped_at": "2026-02-26T07:14:08Z"
+      "title": "Ayuso intenta sofocar el incendio en la universidad con una subida del presupuesto tras años de recortes",
+      "subtitle": "El Gobierno regional se reunirá con los mandatorios el próximo lunes para intentar cerrar un acuerdo que mejore la financiación de los centros públicos; la presidenta comparece el próximo jueves para dar explicaciones sobre el cese del exconsejero Viciana",
+      "url": "https://www.eldiario.es/sociedad/ayuso-sofocar-incendio-universidad-subida-presupuesto-anos-recortes_1_13023795.html",
+      "scraped_at": "2026-02-27T07:10:37Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Yolanda Díaz, de la esperanza a la impotencia",
-      "subtitle": "La vicepresidenta renuncia a liderar la izquierda en las próximas elecciones después de estrellarse contra la realidad del Congreso, donde los avances sociales más ambiciosos se han convertido en metas imposibles",
-      "url": "https://www.eldiario.es/politica/yolanda-diaz-esperanza-impotencia_129_13020483.html",
-      "scraped_at": "2026-02-26T07:14:08Z"
+      "title": "El PSOE busca evitar otra debacle en Castilla y León ante una nueva prueba en la relación entre PP y Vox",
+      "subtitle": "El inicio de la campaña electoral coincide con otra bronca entre los equipos de Feijóo y Abascal a cuenta de las infructuosas negociaciones en Extremadura y Aragón. Los socialistas aspiran a mantener el resultado de hace cuatro años",
+      "url": "https://www.eldiario.es/politica/psoe-busca-evitar-debacle-castilla-leon-nueva-prueba-relacion-pp-vox_1_13024486.html",
+      "scraped_at": "2026-02-27T07:10:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Lo que los documentos del 23F cuentan sobre el papel del rey Juan Carlos",
-      "subtitle": "Aunque los documentos desclasificados no modifican sustancialmente la interpretación actual sobre el golpe de Estado, algunos referidos al monarca apuntan a supuestos encuentros con Armada y Milans del Bosch días antes del juicio o a la denuncia del intento de \"implicarle\" por parte de la extrema derecha",
-      "url": "https://www.eldiario.es/sociedad/papeles-23f-cuentan-rey-juan-carlos_1_13020326.html",
-      "scraped_at": "2026-02-26T07:14:09Z"
+      "title": "Vox se rompe en Murcia: dimite en bloque la cúpula regional para forzar la caída de Antelo",
+      "subtitle": "El Comité Ejecutivo Provincial quedará disuelto, de modo que la dirección nacional de Vox tendrá que nombrar de nuevo una gestora que asuma el control del partido",
+      "url": "https://www.eldiario.es/murcia/politica/vox-rompe-murcia-dimite-bloque-cupula-regional-forzar-caida-antelo_1_13024957.html",
+      "scraped_at": "2026-02-27T07:10:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las llamadas que reflejan que la familia de Tejero conocía el fracaso del golpe desde el inicio: “Qué gilipuertas es”",
-      "subtitle": "La desclasificación de documentos frustra la pretensión de conocer las conversaciones del rey con las capitanías generales o las comunicaciones con el Congreso la noche del golpe",
-      "url": "https://www.eldiario.es/sociedad/llamadas-23f-reflejan-familia-tejero-conocia-fracaso-golpe-inicio-gilipuertas_1_13020286.html",
-      "scraped_at": "2026-02-26T07:14:09Z"
+      "title": "Teresa Peramato afronta su primer gran pulso ante la cúpula fiscal con una batería de 19 nombramientos",
+      "subtitle": "Fuentes fiscales dan por hecho que la nueva fiscal general ascenderá a antiguos colaboradores de García Ortiz, aunque también nombrará a independientes y miembros de la asociación conservadora",
+      "url": "https://www.eldiario.es/politica/teresa-peramato-afronta-primer-gran-pulso-cupula-fiscal-bateria-19-nombramientos_1_13024703.html",
+      "scraped_at": "2026-02-27T07:10:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Antonio Tejero",
-      "subtitle": "Su nombre se inscribe desde hoy en la historia no por sus actos de heroísmo o grandeza, sino por la infamia de sus acciones, de las que nunca se arrepintió",
-      "url": "https://www.eldiario.es/sociedad/antonio-tejero-golpista-contumaz_129_12709912.html",
-      "scraped_at": "2026-02-26T07:14:10Z"
+      "title": "Pedro Sánchez",
+      "subtitle": "El presidente niega tener una enfermedad, pero recuerda que tenerla no le incapacitaría para seguir al frente del Gobierno. \"Hay millones de personas que las padecen y llevan una vida normal gracias a los servicios públicos que ustedes desmantelan\", reprocha al PP",
+      "url": "https://www.eldiario.es/politica/sanchez-desmiente-bulo-enfermedad-cardiovascular-unica-forma-oposicion-mentira_1_13022230.html",
+      "scraped_at": "2026-02-27T07:10:40Z"
     }
   ]
 }

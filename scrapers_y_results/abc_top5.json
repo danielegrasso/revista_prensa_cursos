@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El CNIO investiga una denuncia por acoso de la exsecretaria general contra el gerente: José Manuel Bernabé le enviaba mensajes personales desde el gimnasio y alardeaba de las mujeres con las que se acostaba: «Este año llevo catorce»; Adif afronta indemnizaciones millonarias por la crisis ferroviaria tras Adamuz: Ouigo ya estudia pedir compensaciones por la pérdida de ventas en las últimas semanas y espera a los resultados de la investigación para pedir responsabilidad patrimonial; El botón del pánico de los futbolistas contra el odio: LaLiga pone al servicio de los jugadores una aplicación con opción para denunciar e intervenir directamente ante insultos, amenazas y agresiones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-26T07:14:12Z",
+  "summary": "Resumen del día en ABC.es: «Estamos jodidos, esto es ingobernable»: Moncloa colapsa tras la última estocada de Junts: El Gobierno se enteró horas antes de la votación de que los de Puigdemont también tumbaban un segundo decreto; Feijóo tomó personalmente la decisión de abanderar la vuelta de Don Juan Carlos: Génova, que trasladó antes a Zarzuela que iba a mostrar su opinión, piensa que «el momento» para reabrir el debate «es este» y exige al Gobierno que «aclare» su posición; Un retorno deseable: La desclasificación del 23-F despeja dudas sobre el papel de Don Juan Carlos y obliga a abordar con serenidad la anomalía institucional de su traslado al extranjero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-27T07:10:42Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El CNIO investiga una denuncia por acoso de la exsecretaria general contra el gerente",
-      "subtitle": "José Manuel Bernabé le enviaba mensajes personales desde el gimnasio y alardeaba de las mujeres con las que se acostaba: «Este año llevo catorce»",
-      "url": "https://www.abc.es/espana/cnio-investiga-denuncia-exsecretaria-general-gerente-acoso-20260225040553-nt.html",
-      "scraped_at": "2026-02-26T07:14:11Z"
+      "title": "«Estamos jodidos, esto es ingobernable»: Moncloa colapsa tras la última estocada de Junts",
+      "subtitle": "El Gobierno se enteró horas antes de la votación de que los de Puigdemont también tumbaban un segundo decreto",
+      "url": "https://www.abc.es/espana/jodidos-ingobernable-moncloa-colapsa-tras-ultima-estocada-20260227035918-nt.html",
+      "scraped_at": "2026-02-27T07:10:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "Adif afronta indemnizaciones millonarias por la crisis ferroviaria tras Adamuz",
-      "subtitle": "Ouigo ya estudia pedir compensaciones por la pérdida de ventas en las últimas semanas y espera a los resultados de la investigación para pedir responsabilidad patrimonial",
-      "url": "https://www.abc.es/economia/adif-afronta-indemnizaciones-millonarias-crisis-ferroviaria-tras-20260226040620-nt.html",
-      "scraped_at": "2026-02-26T07:14:11Z"
+      "title": "Feijóo tomó personalmente la decisión de abanderar la vuelta de Don Juan Carlos",
+      "subtitle": "Génova, que trasladó antes a Zarzuela que iba a mostrar su opinión, piensa que «el momento» para reabrir el debate «es este» y exige al Gobierno que «aclare» su posición",
+      "url": "https://www.abc.es/espana/feijoo-abandera-vuelta-don-juan-carlos-tras-20260227035924-nt.html",
+      "scraped_at": "2026-02-27T07:10:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "El botón del pánico de los futbolistas contra el odio",
-      "subtitle": "LaLiga pone al servicio de los jugadores una aplicación con opción para denunciar e intervenir directamente ante insultos, amenazas y agresiones",
-      "url": "https://www.abc.es/deportes/futbol/boton-odio-auxilio-futbolista-violencia-20260225040641-nt.html",
-      "scraped_at": "2026-02-26T07:14:12Z"
+      "title": "Un retorno deseable",
+      "subtitle": "La desclasificación del 23-F despeja dudas sobre el papel de Don Juan Carlos y obliga a abordar con serenidad la anomalía institucional de su traslado al extranjero",
+      "url": "https://www.abc.es/opinion/editorial-retorno-deseable-20260226182853-nt.html",
+      "scraped_at": "2026-02-27T07:10:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Meliá e Iberostar, afectados por el cierre de hoteles en Cuba por la falta de turistas y de combustible",
-      "subtitle": "La clausura temporal de cinco de sus establecimientos se suma a la de decenas en toda la isla",
-      "url": "https://www.abc.es/internacional/comienzan-cerrar-hoteles-cuba-falta-turistas-ante-20260225040650-nt.html",
-      "scraped_at": "2026-02-26T07:14:12Z"
+      "title": "Illa no quiere gobernar sin presupuestos e irá a elecciones si Junqueras los veta",
+      "subtitle": "«El ambiente se ha enrarecido», reconocen los socialistas",
+      "url": "https://www.abc.es/espana/cataluna/illa-quiere-gobernar-presupuestos-ira-elecciones-junqueras-20260227040310-nt.html",
+      "scraped_at": "2026-02-27T07:10:42Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-26T07:14:12Z"
+      "scraped_at": "2026-02-27T07:10:42Z"
     }
   ]
 }

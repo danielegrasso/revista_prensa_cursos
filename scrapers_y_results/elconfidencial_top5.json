@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: 23-F, caso cerrado: el Rey paró el golpe, el Cesid participó y los políticos conspiraron contra Adolfo Suárez: La desclasificación es la mejor noticia para Juan Carlos I en años, muestra el desgaste del presidente del Gobierno de la Transición y confirma que el 23-F consiguió lo contrario de lo que buscaba: consolidar la democracia y la Constitución; El Rey amenazó a Milans de madrugada: \"Serás responsable de una nueva guerra civil\": Un documento custodiado hasta ahora por el CNI desvela cronolótgicamente cómo se vivió el 23-F en Zarzuela desde las 18h de ese día hasta las 6 y 10 de la mañana del 24. Hubo al menos 11 llamadas con Milans, Armada y Tejero; Vinícius rescata al Real Madrid del dentista: remontada ante el Benfica y a octavos (2-1): Los de Arbeloa superaron el tanto inicial y varios tramos en inferioridad futbolística para ganar la repesca. Tchouaméni marcó el tanto del empate; Valverde y Courtois, los mejores. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-26T07:14:19Z",
+  "summary": "Resumen del día en El Confidencial: Pardo de Vera facilitó a Koldo el contacto del socio chino de Zapatero para adquirir respiradores: La Unidad Central Operativa (UCO) de la Guardia Civil vincula a la expresidenta de Adif con la trama corrupta de las mascarillas y advierte al juez de que borró mensajes de sus dispositivos; El enemigo más peligroso que tiene ahora Donald Trump es este granjero de Kentucky: Thomas Massie impulsa divulgar íntegramente los archivos de Epstein, desafiando a aliados poderosos y asumiendo los riesgos políticos y personales de contradecir al presidente; Economía: Mientras Francia convierte su superávit eléctrico en estrategia industrial explícita, España corre el riesgo de no capitalizar plenamente su ventaja. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-27T07:10:48Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "23-F, caso cerrado: el Rey paró el golpe, el Cesid participó y los políticos conspiraron contra Adolfo Suárez",
-      "subtitle": "La desclasificación es la mejor noticia para Juan Carlos I en años, muestra el desgaste del presidente del Gobierno de la Transición y confirma que el 23-F consiguió lo contrario de lo que buscaba: consolidar la democracia y la Constitución",
-      "url": "https://www.elconfidencial.com/espana/2026-02-26/23f-caso-cerrado-desclasificacion-documentos-rey-cesid-suarez_4309988/",
-      "scraped_at": "2026-02-26T07:14:16Z"
+      "title": "Pardo de Vera facilitó a Koldo el contacto del socio chino de Zapatero para adquirir respiradores",
+      "subtitle": "La Unidad Central Operativa (UCO) de la Guardia Civil vincula a la expresidenta de Adif con la trama corrupta de las mascarillas y advierte al juez de que borró mensajes de sus dispositivos",
+      "url": "https://www.elconfidencial.com/espana/2026-02-27/pardo-de-vera-koldo-contacto-socio-chino-zapatero_4310885/",
+      "scraped_at": "2026-02-27T07:10:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Rey amenazó a Milans de madrugada: \"Serás responsable de una nueva guerra civil\"",
-      "subtitle": "Un documento custodiado hasta ahora por el CNI desvela cronolótgicamente cómo se vivió el 23-F en Zarzuela desde las 18h de ese día hasta las 6 y 10 de la mañana del 24. Hubo al menos 11 llamadas con Milans, Armada y Tejero",
-      "url": "https://www.elconfidencial.com/espana/2026-02-26/documentos-desclasificados-23f-rey-amenaza-milans-guerra-civil_4309983/",
-      "scraped_at": "2026-02-26T07:14:17Z"
+      "title": "El enemigo más peligroso que tiene ahora Donald Trump es este granjero de Kentucky",
+      "subtitle": "Thomas Massie impulsa divulgar íntegramente los archivos de Epstein, desafiando a aliados poderosos y asumiendo los riesgos políticos y personales de contradecir al presidente",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-27/thomas-massie-epstein-congreso-1hms_4307129/",
+      "scraped_at": "2026-02-27T07:10:48Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Vinícius rescata al Real Madrid del dentista: remontada ante el Benfica y a octavos (2-1)",
-      "subtitle": "Los de Arbeloa superaron el tanto inicial y varios tramos en inferioridad futbolística para ganar la repesca. Tchouaméni marcó el tanto del empate; Valverde y Courtois, los mejores",
-      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2026-02-25/real-madrid-benfica-vinicius-dentista-octavos_4309895/",
-      "scraped_at": "2026-02-26T07:14:18Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El idilio entre España y la cerveza se acaba: por qué bebemos cada vez menos birra",
-      "subtitle": "El consumo ha caído durante los dos últimos años y algunos grupos empiezan a despedir a trabajadores. Hay un montón de motivos que explican este descenso del consumo cervecero",
-      "url": "https://www.elconfidencial.com/economia/2026-02-26/idilio-espana-cerveza-por-que-bebemos-menos_4309110/",
-      "scraped_at": "2026-02-26T07:14:18Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Cortes de tráfico hoy por la tarde en una zona muy poblada de Madrid",
-      "subtitle": "Las limitaciones coincidirán con la hora punta de la tarde y podrían provocar retenciones y desvíos alternativos",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-02-26/cortes-trafico-carabanchel-madrid-1qrt_4309930/",
-      "scraped_at": "2026-02-26T07:14:19Z"
+      "title": "Economía",
+      "subtitle": "Mientras Francia convierte su superávit eléctrico en estrategia industrial explícita, España corre el riesgo de no capitalizar plenamente su ventaja",
+      "url": "https://www.elconfidencial.com/economia/",
+      "scraped_at": "2026-02-27T07:10:48Z"
     }
   ]
 }
