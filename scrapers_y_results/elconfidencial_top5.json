@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Pardo de Vera facilitó a Koldo el contacto del socio chino de Zapatero para adquirir respiradores: La Unidad Central Operativa (UCO) de la Guardia Civil vincula a la expresidenta de Adif con la trama corrupta de las mascarillas y advierte al juez de que borró mensajes de sus dispositivos; El enemigo más peligroso que tiene ahora Donald Trump es este granjero de Kentucky: Thomas Massie impulsa divulgar íntegramente los archivos de Epstein, desafiando a aliados poderosos y asumiendo los riesgos políticos y personales de contradecir al presidente; Economía: Mientras Francia convierte su superávit eléctrico en estrategia industrial explícita, España corre el riesgo de no capitalizar plenamente su ventaja. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-27T07:10:48Z",
+  "summary": "Resumen del día en El Confidencial: El miedo a no poder pagar el alquiler: 750.000 familias creen que tendrán que dejar su vivienda: La inseguridad habitacional crece ante el fin de los contratos de la pandemia y ya es más grave en España que en los países europeos comparables. El Gobierno debate cómo frenar la nueva crisis, pero carece de apoyos parlamentarios; El Ejército israelí anuncia que ha lanzado un \"ataque preventivo\" contra Irán: Medios iraníes han reportado este sábado al menos tres explosiones en el centro y norte de Teherán e Israel ha cerrado su espacio aéreo después del ataque; El enemigo dentro de casa: qué está pasando realmente entre Pakistán y los talibanes: Pakistán sostiene que el TTP, su principal insurgencia interna, encuentra apoyo o refugio en Afganistán. Pero esa complejidad transfronteriza no exime al país de la raíz doméstica del problema. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-02-28T06:55:48Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Pardo de Vera facilitó a Koldo el contacto del socio chino de Zapatero para adquirir respiradores",
-      "subtitle": "La Unidad Central Operativa (UCO) de la Guardia Civil vincula a la expresidenta de Adif con la trama corrupta de las mascarillas y advierte al juez de que borró mensajes de sus dispositivos",
-      "url": "https://www.elconfidencial.com/espana/2026-02-27/pardo-de-vera-koldo-contacto-socio-chino-zapatero_4310885/",
-      "scraped_at": "2026-02-27T07:10:47Z"
+      "title": "El miedo a no poder pagar el alquiler: 750.000 familias creen que tendrán que dejar su vivienda",
+      "subtitle": "La inseguridad habitacional crece ante el fin de los contratos de la pandemia y ya es más grave en España que en los países europeos comparables. El Gobierno debate cómo frenar la nueva crisis, pero carece de apoyos parlamentarios",
+      "url": "https://www.elconfidencial.com/economia/2026-02-28/el-19-4-inquilinos-abandonar-casa-no-poder-pagarla_4310836/",
+      "scraped_at": "2026-02-28T06:55:46Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El enemigo más peligroso que tiene ahora Donald Trump es este granjero de Kentucky",
-      "subtitle": "Thomas Massie impulsa divulgar íntegramente los archivos de Epstein, desafiando a aliados poderosos y asumiendo los riesgos políticos y personales de contradecir al presidente",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-27/thomas-massie-epstein-congreso-1hms_4307129/",
-      "scraped_at": "2026-02-27T07:10:48Z"
+      "title": "El Ejército israelí anuncia que ha lanzado un \"ataque preventivo\" contra Irán",
+      "subtitle": "Medios iraníes han reportado este sábado al menos tres explosiones en el centro y norte de Teherán e Israel ha cerrado su espacio aéreo después del ataque",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-28/el-ejercito-israeli-anuncia-que-ha-lanzado-un_4311825/",
+      "scraped_at": "2026-02-28T06:55:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Economía",
-      "subtitle": "Mientras Francia convierte su superávit eléctrico en estrategia industrial explícita, España corre el riesgo de no capitalizar plenamente su ventaja",
-      "url": "https://www.elconfidencial.com/economia/",
-      "scraped_at": "2026-02-27T07:10:48Z"
+      "title": "El enemigo dentro de casa: qué está pasando realmente entre Pakistán y los talibanes",
+      "subtitle": "Pakistán sostiene que el TTP, su principal insurgencia interna, encuentra apoyo o refugio en Afganistán. Pero esa complejidad transfronteriza no exime al país de la raíz doméstica del problema",
+      "url": "https://www.elconfidencial.com/mundo/2026-02-28/enemigo-dentro-de-casa-que-esta-pasando-entre-pakistan-talibanes_4311812/",
+      "scraped_at": "2026-02-28T06:55:47Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Madrid y sus bandos: este alcalde regaló un oso (y domador) al Rey",
+      "subtitle": "Un libro recupera las órdenes más llamativas dictadas por los regidores de la capital a lo largo de los siglos, bandos en los que se intentaba controlar el orden público, los abastos o las fiestas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-02-28/bandos-alcaldes-madrid-historia-1hms_4306126/",
+      "scraped_at": "2026-02-28T06:55:48Z"
     }
   ]
 }

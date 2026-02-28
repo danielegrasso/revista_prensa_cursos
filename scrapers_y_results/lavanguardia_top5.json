@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Hillary Clinton declara indignada sobre Epstein en el Congreso: “Es un teatro partidista”: La exsecretaria de Estado defiende que su marido, el expresidente Bill Clinton, que declara este viernes, tampoco conocía los delitos de Epstein; Pakistán declara la “guerra” a Afganistán y bombardea objetivos en Kabul y Kandahar: Docenas de muertos en la represalia aérea por el ataque afgano contra soldados pakistaníes, horas antes; László Krasznahorkai: “Hoy no esperamos al mesías, sino a un falso profeta que nos mienta”: El premio Nobel de Literatura visita Barcelona para hablar de su obra. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-27T07:10:46Z",
+  "summary": "Resumen del día en La Vanguardia: Israel se adelanta a EE.UU. y bombardea Irán: Se reportaron diversas explosiones en Teherán; Trump veta a Anthropic tras su negativa al uso bélico de su IA y abre el Pentágono a OpenAI: EL acuerdo se anunció al poco rato de que la administración estadounidense declarara que la empresa dirigida por Dario Amodei era un riesgo para la seguridad; Por qué Anthropic es tan importante para el futuro de la IA: Una filósofa de 37 años nacida en un pueblecito de Escocia es la única responsable en Anthropic de educar a su chatbot de inteligencia artificial, Claude. Amanda. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-02-28T06:55:45Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Hillary Clinton declara indignada sobre Epstein en el Congreso: “Es un teatro partidista”",
-      "subtitle": "La exsecretaria de Estado defiende que su marido, el expresidente Bill Clinton, que declara este viernes, tampoco conocía los delitos de Epstein",
-      "url": "https://www.lavanguardia.com/internacional/20260227/11476906/hillary-clinton-indignada-declarar-congreso-sobre-epstein-me-han-preguntado-sobre-ovnis-pizzagate.html",
-      "scraped_at": "2026-02-27T07:10:44Z"
+      "title": "Israel se adelanta a EE.UU. y bombardea Irán",
+      "subtitle": "Se reportaron diversas explosiones en Teherán",
+      "url": "https://www.lavanguardia.com/internacional/20260228/11477831/israel-adelanta-ee-uu-bombardea-iran.html",
+      "scraped_at": "2026-02-28T06:55:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Pakistán declara la “guerra” a Afganistán y bombardea objetivos en Kabul y Kandahar",
-      "subtitle": "Docenas de muertos en la represalia aérea por el ataque afgano contra soldados pakistaníes, horas antes",
-      "url": "https://www.lavanguardia.com/internacional/20260227/11476911/pakistan-declara-guerra-afganistan-bombardea-objetivos-kabul-kandahar.html",
-      "scraped_at": "2026-02-27T07:10:45Z"
+      "title": "Trump veta a Anthropic tras su negativa al uso bélico de su IA y abre el Pentágono a OpenAI",
+      "subtitle": "EL acuerdo se anunció al poco rato de que la administración estadounidense declarara que la empresa dirigida por Dario Amodei era un riesgo para la seguridad",
+      "url": "https://www.lavanguardia.com/internacional/20260227/11477610/trump-ordena-todas-agencias-federales-dejen-utilizar-anthropic.html",
+      "scraped_at": "2026-02-28T06:55:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "László Krasznahorkai: “Hoy no esperamos al mesías, sino a un falso profeta que nos mienta”",
-      "subtitle": "El premio Nobel de Literatura visita Barcelona para hablar de su obra",
-      "url": "https://www.lavanguardia.com/cultura/20260227/11476624/laszlo-nobel-krasznahorkai-orban-entrevista-barcelona.html",
-      "scraped_at": "2026-02-27T07:10:45Z"
+      "title": "Por qué Anthropic es tan importante para el futuro de la IA",
+      "subtitle": "Una filósofa de 37 años nacida en un pueblecito de Escocia es la única responsable en Anthropic de educar a su chatbot de inteligencia artificial, Claude. Amanda",
+      "url": "https://www.lavanguardia.com/economia/20260228/11476498/educacion-sentimental-ia.html",
+      "scraped_at": "2026-02-28T06:55:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Por qué China no salvará a Cuba de sí misma, ni de los Estados Unidos",
-      "subtitle": "A diferencia de Moscú en el pasado, Pekín no da dinero a fondo perdido por motivos ideológicos",
-      "url": "https://www.lavanguardia.com/internacional/20260227/11474891/china-salvara-cuba-estados-unidos.html",
-      "scraped_at": "2026-02-27T07:10:45Z"
+      "title": "Barcelona se viste de Goya para celebrar la gala más especial del cine español",
+      "subtitle": "Bandini y Tosar presentarán una gala muy musical, con límite de tiempo para los discursos y con ‘Los domingos’ y ‘Sirât’ como favoritas",
+      "url": "https://www.lavanguardia.com/cultura/20260228/11477558/barcelona-viste-goya-celebrar-gala-mas-especial-cine-espanol.html",
+      "scraped_at": "2026-02-28T06:55:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Eleva tu plato vegetal con este cuscús integral y su salsa de almendras",
-      "subtitle": "La combinación de hortalizas salteadas, el toque cítrico del limón y la cremosidad de la almendra da como resultado un plato sabroso, saciante y ideal para el día a",
-      "url": "https://www.lavanguardia.com/comer/recetas/20260227/11467719/eleva-plato-vegetal-cuscus-integral-salsa-almendras.html",
-      "scraped_at": "2026-02-27T07:10:46Z"
+      "title": "Te invitamos a un taller exclusivo de cócteles",
+      "subtitle": "Club Vanguardia sortea seis invitaciones dobles para asistir a esta actividad en el bar Simultáneo",
+      "url": "https://www.lavanguardia.com/participacion/concursos/20260227/11475174/te-invitamos-taller-exclusivo-cocteles.html",
+      "scraped_at": "2026-02-28T06:55:45Z"
     }
   ]
 }

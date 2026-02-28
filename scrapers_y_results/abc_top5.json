@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: «Estamos jodidos, esto es ingobernable»: Moncloa colapsa tras la última estocada de Junts: El Gobierno se enteró horas antes de la votación de que los de Puigdemont también tumbaban un segundo decreto; Feijóo tomó personalmente la decisión de abanderar la vuelta de Don Juan Carlos: Génova, que trasladó antes a Zarzuela que iba a mostrar su opinión, piensa que «el momento» para reabrir el debate «es este» y exige al Gobierno que «aclare» su posición; Un retorno deseable: La desclasificación del 23-F despeja dudas sobre el papel de Don Juan Carlos y obliga a abordar con serenidad la anomalía institucional de su traslado al extranjero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-02-27T07:10:42Z",
+  "summary": "Resumen del día en ABC.es: Israel lanza un «ataque preventivo» contra Irán: «No estoy contento»: Trump eleva la presión a Irán y EE.UU. permite la salida de personal diplomático de Israel; Vox sopesa no entrar en los gobiernos con el PP pero quiere condicionar todas las políticas: La prioridad es tener «garantías» de que sus medidas se cumplen y mantienen dudas sobre si hacer coaliciones; El líder de Vox en Murcia se enroca y sigue los pasos de Ortega Smith: Antelo acusa a la dirección de pedir su dimisión y señala a Abascal por querer evitar que los dirigentes autonómicos tomen protagonismo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-02-28T06:55:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "«Estamos jodidos, esto es ingobernable»: Moncloa colapsa tras la última estocada de Junts",
-      "subtitle": "El Gobierno se enteró horas antes de la votación de que los de Puigdemont también tumbaban un segundo decreto",
-      "url": "https://www.abc.es/espana/jodidos-ingobernable-moncloa-colapsa-tras-ultima-estocada-20260227035918-nt.html",
-      "scraped_at": "2026-02-27T07:10:41Z"
+      "title": "Israel lanza un «ataque preventivo» contra Irán",
+      "subtitle": "«No estoy contento»: Trump eleva la presión a Irán y EE.UU. permite la salida de personal diplomático de Israel",
+      "url": "https://www.abc.es/internacional/israel-lanza-ataque-preventivo-iran-20260228073722-nt.html",
+      "scraped_at": "2026-02-28T06:55:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo tomó personalmente la decisión de abanderar la vuelta de Don Juan Carlos",
-      "subtitle": "Génova, que trasladó antes a Zarzuela que iba a mostrar su opinión, piensa que «el momento» para reabrir el debate «es este» y exige al Gobierno que «aclare» su posición",
-      "url": "https://www.abc.es/espana/feijoo-abandera-vuelta-don-juan-carlos-tras-20260227035924-nt.html",
-      "scraped_at": "2026-02-27T07:10:41Z"
+      "title": "Vox sopesa no entrar en los gobiernos con el PP pero quiere condicionar todas las políticas",
+      "subtitle": "La prioridad es tener «garantías» de que sus medidas se cumplen y mantienen dudas sobre si hacer coaliciones",
+      "url": "https://www.abc.es/espana/vox-sopesa-entrar-gobiernos-pp-quiere-condicionar-20260228035501-nt.html",
+      "scraped_at": "2026-02-28T06:55:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un retorno deseable",
-      "subtitle": "La desclasificación del 23-F despeja dudas sobre el papel de Don Juan Carlos y obliga a abordar con serenidad la anomalía institucional de su traslado al extranjero",
-      "url": "https://www.abc.es/opinion/editorial-retorno-deseable-20260226182853-nt.html",
-      "scraped_at": "2026-02-27T07:10:42Z"
+      "title": "El líder de Vox en Murcia se enroca y sigue los pasos de Ortega Smith",
+      "subtitle": "Antelo acusa a la dirección de pedir su dimisión y señala a Abascal por querer evitar que los dirigentes autonómicos tomen protagonismo",
+      "url": "https://www.abc.es/espana/murcia/lider-vox-murcia-enroca-sigue-pasos-ortega-20260228035521-nt.html",
+      "scraped_at": "2026-02-28T06:55:43Z"
     },
     {
       "source": "ABC.es",
-      "title": "Illa no quiere gobernar sin presupuestos e irá a elecciones si Junqueras los veta",
-      "subtitle": "«El ambiente se ha enrarecido», reconocen los socialistas",
-      "url": "https://www.abc.es/espana/cataluna/illa-quiere-gobernar-presupuestos-ira-elecciones-junqueras-20260227040310-nt.html",
-      "scraped_at": "2026-02-27T07:10:42Z"
+      "title": "La jefa de Igualdad del CNIO intentó parar el cese del gerente por acoso﻿",
+      "subtitle": "Esta coordinadora, que debería velar por la protección a la mujer, encabezó un conato de rebelión interna para impedir que Bernabé fuese finalmente destituido por las revelaciones de ABC",
+      "url": "https://www.abc.es/espana/responsable-igualdad-cnio-lidera-defensa-gerente-acusado-20260228035530-nt.html",
+      "scraped_at": "2026-02-28T06:55:43Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-02-27T07:10:42Z"
+      "scraped_at": "2026-02-28T06:55:43Z"
     }
   ]
 }
