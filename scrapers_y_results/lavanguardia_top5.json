@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Israel se adelanta a EE.UU. y bombardea Irán: Se reportaron diversas explosiones en Teherán; Trump veta a Anthropic tras su negativa al uso bélico de su IA y abre el Pentágono a OpenAI: EL acuerdo se anunció al poco rato de que la administración estadounidense declarara que la empresa dirigida por Dario Amodei era un riesgo para la seguridad; Por qué Anthropic es tan importante para el futuro de la IA: Una filósofa de 37 años nacida en un pueblecito de Escocia es la única responsable en Anthropic de educar a su chatbot de inteligencia artificial, Claude. Amanda. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-02-28T06:55:45Z",
+  "summary": "Resumen del día en La Vanguardia: Irán confirma la muerte del ayatolá Jamenei en el ataque de EE.UU. e Israel: El asesinato del ayatolá, objetivo de los bombardeos, deja muy debilitado al régimen, pero no supone su fin; Guerra de final incierto: Hoy era un buen día para hablarles del éxito de Barcelona, que en apenas 24 horas acogía la gala de los premios Goya y estaba lista para estrenar la nueva edición del; Teherán incendia el golfo en represalia por el ataque de Israel y EE.UU.: Irán golpea Bahréin, Kuwait, Qatar, EAU y Arabia Saudita. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-01T07:02:25Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Israel se adelanta a EE.UU. y bombardea Irán",
-      "subtitle": "Se reportaron diversas explosiones en Teherán",
-      "url": "https://www.lavanguardia.com/internacional/20260228/11477831/israel-adelanta-ee-uu-bombardea-iran.html",
-      "scraped_at": "2026-02-28T06:55:44Z"
+      "title": "Irán confirma la muerte del ayatolá Jamenei en el ataque de EE.UU. e Israel",
+      "subtitle": "El asesinato del ayatolá, objetivo de los bombardeos, deja muy debilitado al régimen, pero no supone su fin",
+      "url": "https://www.lavanguardia.com/internacional/20260228/11478198/trump-confirma-lider-supremo-irani-ali-jamenei-muerto-ataque-conjunto-israel.html",
+      "scraped_at": "2026-03-01T07:02:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump veta a Anthropic tras su negativa al uso bélico de su IA y abre el Pentágono a OpenAI",
-      "subtitle": "EL acuerdo se anunció al poco rato de que la administración estadounidense declarara que la empresa dirigida por Dario Amodei era un riesgo para la seguridad",
-      "url": "https://www.lavanguardia.com/internacional/20260227/11477610/trump-ordena-todas-agencias-federales-dejen-utilizar-anthropic.html",
-      "scraped_at": "2026-02-28T06:55:44Z"
+      "title": "Guerra de final incierto",
+      "subtitle": "Hoy era un buen día para hablarles del éxito de Barcelona, que en apenas 24 horas acogía la gala de los premios Goya y estaba lista para estrenar la nueva edición del",
+      "url": "https://www.lavanguardia.com/opinion/20260301/11478223/guerra-final-incierto.html",
+      "scraped_at": "2026-03-01T07:02:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Por qué Anthropic es tan importante para el futuro de la IA",
-      "subtitle": "Una filósofa de 37 años nacida en un pueblecito de Escocia es la única responsable en Anthropic de educar a su chatbot de inteligencia artificial, Claude. Amanda",
-      "url": "https://www.lavanguardia.com/economia/20260228/11476498/educacion-sentimental-ia.html",
-      "scraped_at": "2026-02-28T06:55:44Z"
+      "title": "Teherán incendia el golfo en represalia por el ataque de Israel y EE.UU.",
+      "subtitle": "Irán golpea Bahréin, Kuwait, Qatar, EAU y Arabia Saudita",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478188/teheran-incendia-golfo-represalia-ataque-israel-ee-uu.html",
+      "scraped_at": "2026-03-01T07:02:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Barcelona se viste de Goya para celebrar la gala más especial del cine español",
-      "subtitle": "Bandini y Tosar presentarán una gala muy musical, con límite de tiempo para los discursos y con ‘Los domingos’ y ‘Sirât’ como favoritas",
-      "url": "https://www.lavanguardia.com/cultura/20260228/11477558/barcelona-viste-goya-celebrar-gala-mas-especial-cine-espanol.html",
-      "scraped_at": "2026-02-28T06:55:45Z"
+      "title": "Ni Irán es Irak ni estamos en el 2003",
+      "subtitle": "Un presidente que rebautiza el Departamento de Defensa como “Departamento de Guerra” no iba a ser un presidente para la paz. De hecho, Trump ya ha utilizado la fuerza",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478189/iran-irak-2003.html",
+      "scraped_at": "2026-03-01T07:02:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Te invitamos a un taller exclusivo de cócteles",
-      "subtitle": "Club Vanguardia sortea seis invitaciones dobles para asistir a esta actividad en el bar Simultáneo",
-      "url": "https://www.lavanguardia.com/participacion/concursos/20260227/11475174/te-invitamos-taller-exclusivo-cocteles.html",
-      "scraped_at": "2026-02-28T06:55:45Z"
+      "title": "La Maria Arnal más auténtica (★★★★✩) y otros discos de la semana",
+      "subtitle": "El crítico de ‘La Vanguardia’ analiza también los nuevos lanzamientos de Gorillaz, Mitski y Bruno Mars",
+      "url": "https://www.lavanguardia.com/cultura/20260301/11478025/maria-arnal-mas-autentica-discos-gorillaz-bruno-mars-mitski.html",
+      "scraped_at": "2026-03-01T07:02:25Z"
     }
   ]
 }

@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El miedo a no poder pagar el alquiler: 750.000 familias creen que tendrán que dejar su vivienda: La inseguridad habitacional crece ante el fin de los contratos de la pandemia y ya es más grave en España que en los países europeos comparables. El Gobierno debate cómo frenar la nueva crisis, pero carece de apoyos parlamentarios; El Ejército israelí anuncia que ha lanzado un \"ataque preventivo\" contra Irán: Medios iraníes han reportado este sábado al menos tres explosiones en el centro y norte de Teherán e Israel ha cerrado su espacio aéreo después del ataque; El enemigo dentro de casa: qué está pasando realmente entre Pakistán y los talibanes: Pakistán sostiene que el TTP, su principal insurgencia interna, encuentra apoyo o refugio en Afganistán. Pero esa complejidad transfronteriza no exime al país de la raíz doméstica del problema. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-02-28T06:55:48Z",
+  "summary": "Resumen del día en El Confidencial: El PSOE pierde 69 escaños en CCAA tras pactar Sánchez con los nacionalistas para seguir en Moncloa: Los socialistas han perdido representación parlamentaria en 13 de las 17 comunidades autónomas. Se dejan una media de 5 escaños en cada territorio y solo la subida en Cataluña y País Vasco evitan una sangría mayor; Las fichas manuscritas del golpismo: así paró el Cesid los siguientes 23-F: Tras la confirmación de que el servicio de Inteligencia participó en el golpe, el Gobierno de Calvo-Sotelo nombró un nuevo director con un mandato claro: identificar, controlar y sofocar el involucionismo. Manglano lo consiguió. Estas son las pruebas; Estos 60 kilómetros de autovía muestran el agujero que tiene España en las carreteras: La situación de la A-1 desde la salida de la ciudad de Madrid hasta la sierra es un ejemplo perfecto del problemón que vive España con sus vías. Los temporales de este año han dejado un panorama dramático. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-01T07:02:28Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El miedo a no poder pagar el alquiler: 750.000 familias creen que tendrán que dejar su vivienda",
-      "subtitle": "La inseguridad habitacional crece ante el fin de los contratos de la pandemia y ya es más grave en España que en los países europeos comparables. El Gobierno debate cómo frenar la nueva crisis, pero carece de apoyos parlamentarios",
-      "url": "https://www.elconfidencial.com/economia/2026-02-28/el-19-4-inquilinos-abandonar-casa-no-poder-pagarla_4310836/",
-      "scraped_at": "2026-02-28T06:55:46Z"
+      "title": "El PSOE pierde 69 escaños en CCAA tras pactar Sánchez con los nacionalistas para seguir en Moncloa",
+      "subtitle": "Los socialistas han perdido representación parlamentaria en 13 de las 17 comunidades autónomas. Se dejan una media de 5 escaños en cada territorio y solo la subida en Cataluña y País Vasco evitan una sangría mayor",
+      "url": "https://www.elconfidencial.com/espana/2026-03-01/psoe-pierde-69-escanos-en-ccaa-desde-sanchez-pacto-nacionalistas-para-seguir-moncloa_4311342/",
+      "scraped_at": "2026-03-01T07:02:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Ejército israelí anuncia que ha lanzado un \"ataque preventivo\" contra Irán",
-      "subtitle": "Medios iraníes han reportado este sábado al menos tres explosiones en el centro y norte de Teherán e Israel ha cerrado su espacio aéreo después del ataque",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-28/el-ejercito-israeli-anuncia-que-ha-lanzado-un_4311825/",
-      "scraped_at": "2026-02-28T06:55:47Z"
+      "title": "Las fichas manuscritas del golpismo: así paró el Cesid los siguientes 23-F",
+      "subtitle": "Tras la confirmación de que el servicio de Inteligencia participó en el golpe, el Gobierno de Calvo-Sotelo nombró un nuevo director con un mandato claro: identificar, controlar y sofocar el involucionismo. Manglano lo consiguió. Estas son las pruebas",
+      "url": "https://www.elconfidencial.com/espana/2026-03-01/23f_4310827/",
+      "scraped_at": "2026-03-01T07:02:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El enemigo dentro de casa: qué está pasando realmente entre Pakistán y los talibanes",
-      "subtitle": "Pakistán sostiene que el TTP, su principal insurgencia interna, encuentra apoyo o refugio en Afganistán. Pero esa complejidad transfronteriza no exime al país de la raíz doméstica del problema",
-      "url": "https://www.elconfidencial.com/mundo/2026-02-28/enemigo-dentro-de-casa-que-esta-pasando-entre-pakistan-talibanes_4311812/",
-      "scraped_at": "2026-02-28T06:55:47Z"
+      "title": "Estos 60 kilómetros de autovía muestran el agujero que tiene España en las carreteras",
+      "subtitle": "La situación de la A-1 desde la salida de la ciudad de Madrid hasta la sierra es un ejemplo perfecto del problemón que vive España con sus vías. Los temporales de este año han dejado un panorama dramático",
+      "url": "https://www.elconfidencial.com/espana/2026-03-01/problemas-carreteras-espana-autovia-a1-madrid_4309660/",
+      "scraped_at": "2026-03-01T07:02:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Madrid y sus bandos: este alcalde regaló un oso (y domador) al Rey",
-      "subtitle": "Un libro recupera las órdenes más llamativas dictadas por los regidores de la capital a lo largo de los siglos, bandos en los que se intentaba controlar el orden público, los abastos o las fiestas",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-02-28/bandos-alcaldes-madrid-historia-1hms_4306126/",
-      "scraped_at": "2026-02-28T06:55:48Z"
+      "title": "\"No habrá recuperación económica en Venezuela sin una transición política\"",
+      "subtitle": "Fue ministro en uno de los últimos gobiernos venezolanos antes de la llegada del chavismo y lleva décadas observando el desarrollo de las economías latinoamericanas por todo el continente",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-01/hausmann-venezuela-trump-cuba_4311542/",
+      "scraped_at": "2026-03-01T07:02:28Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Este peluquero de Pacífico honra todos los años a Paco de Lucía",
+      "subtitle": "Eladio Domínguez organiza cada mes de febrero diversos encuentros en su peluquería de Pacífico para recordar al guitarrista de Algeciras, fallecido hace doce años",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-03-01/barberia-flamenco-guitarra-paco-lucia-1hms_4311476/",
+      "scraped_at": "2026-03-01T07:02:28Z"
     }
   ]
 }
