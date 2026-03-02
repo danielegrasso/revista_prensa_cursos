@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Irán confirma la muerte del ayatolá Jamenei en el ataque de EE.UU. e Israel: El asesinato del ayatolá, objetivo de los bombardeos, deja muy debilitado al régimen, pero no supone su fin; Guerra de final incierto: Hoy era un buen día para hablarles del éxito de Barcelona, que en apenas 24 horas acogía la gala de los premios Goya y estaba lista para estrenar la nueva edición del; Teherán incendia el golfo en represalia por el ataque de Israel y EE.UU.: Irán golpea Bahréin, Kuwait, Qatar, EAU y Arabia Saudita. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-01T07:02:25Z",
+  "summary": "Resumen del día en La Vanguardia: Irán incendia Oriente Medio mientras busca sucesor a Jamenei: La población se divide y el régimen acelera la elección del nuevo Guía supremo; Trump y el mínimo esfuerzo: Los europeos reaccionan con prudencia ante la guerra de EE.UU. contra Irán. En los últimos tiempos hemos visto que la UE tiene poco que decir en estos casos y lo poco; Donald Trump, el presidente de la guerra: El mandatario prometió en campaña que no iba a arrastrar a Estados Unidos a ningún conflicto y criticó durante toda su trayectoria los intentos de cambio de régimen. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-02T07:14:24Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Irán confirma la muerte del ayatolá Jamenei en el ataque de EE.UU. e Israel",
-      "subtitle": "El asesinato del ayatolá, objetivo de los bombardeos, deja muy debilitado al régimen, pero no supone su fin",
-      "url": "https://www.lavanguardia.com/internacional/20260228/11478198/trump-confirma-lider-supremo-irani-ali-jamenei-muerto-ataque-conjunto-israel.html",
-      "scraped_at": "2026-03-01T07:02:25Z"
+      "title": "Irán incendia Oriente Medio mientras busca sucesor a Jamenei",
+      "subtitle": "La población se divide y el régimen acelera la elección del nuevo Guía supremo",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478671/iran-encara-transicion-incierta.html",
+      "scraped_at": "2026-03-02T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Guerra de final incierto",
-      "subtitle": "Hoy era un buen día para hablarles del éxito de Barcelona, que en apenas 24 horas acogía la gala de los premios Goya y estaba lista para estrenar la nueva edición del",
-      "url": "https://www.lavanguardia.com/opinion/20260301/11478223/guerra-final-incierto.html",
-      "scraped_at": "2026-03-01T07:02:25Z"
+      "title": "Trump y el mínimo esfuerzo",
+      "subtitle": "Los europeos reaccionan con prudencia ante la guerra de EE.UU. contra Irán. En los últimos tiempos hemos visto que la UE tiene poco que decir en estos casos y lo poco",
+      "url": "https://www.lavanguardia.com/opinion/20260302/11478695/trump-minimo-esfuerzo.html",
+      "scraped_at": "2026-03-02T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Teherán incendia el golfo en represalia por el ataque de Israel y EE.UU.",
-      "subtitle": "Irán golpea Bahréin, Kuwait, Qatar, EAU y Arabia Saudita",
-      "url": "https://www.lavanguardia.com/internacional/20260301/11478188/teheran-incendia-golfo-represalia-ataque-israel-ee-uu.html",
-      "scraped_at": "2026-03-01T07:02:25Z"
+      "title": "Donald Trump, el presidente de la guerra",
+      "subtitle": "El mandatario prometió en campaña que no iba a arrastrar a Estados Unidos a ningún conflicto y criticó durante toda su trayectoria los intentos de cambio de régimen",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478622/donald-trump-presidente-guerra.html",
+      "scraped_at": "2026-03-02T07:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ni Irán es Irak ni estamos en el 2003",
-      "subtitle": "Un presidente que rebautiza el Departamento de Defensa como “Departamento de Guerra” no iba a ser un presidente para la paz. De hecho, Trump ya ha utilizado la fuerza",
-      "url": "https://www.lavanguardia.com/internacional/20260301/11478189/iran-irak-2003.html",
-      "scraped_at": "2026-03-01T07:02:25Z"
+      "title": "Dubái, el lujo vulnerable",
+      "subtitle": "Los Emiratos Árabes Unidos tenían seguridad y confort, hoy carecen de refugios",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478677/dubai-lujo-vulnerable.html",
+      "scraped_at": "2026-03-02T07:14:24Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La Maria Arnal más auténtica (★★★★✩) y otros discos de la semana",
-      "subtitle": "El crítico de ‘La Vanguardia’ analiza también los nuevos lanzamientos de Gorillaz, Mitski y Bruno Mars",
-      "url": "https://www.lavanguardia.com/cultura/20260301/11478025/maria-arnal-mas-autentica-discos-gorillaz-bruno-mars-mitski.html",
-      "scraped_at": "2026-03-01T07:02:25Z"
+      "title": "Jamenei ha muerto, pero Trump todavía tiene trabajo pendiente",
+      "subtitle": "Un duro, el general Ahmad Vahidi, toma el mando de la Guardia Revolucionaria Islámica",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478528/jamenei-muerto-trump-todavia-trabajo-pendiente.html",
+      "scraped_at": "2026-03-02T07:14:24Z"
     }
   ]
 }

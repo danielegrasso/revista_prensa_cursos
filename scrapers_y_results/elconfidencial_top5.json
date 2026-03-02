@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El PSOE pierde 69 escaños en CCAA tras pactar Sánchez con los nacionalistas para seguir en Moncloa: Los socialistas han perdido representación parlamentaria en 13 de las 17 comunidades autónomas. Se dejan una media de 5 escaños en cada territorio y solo la subida en Cataluña y País Vasco evitan una sangría mayor; Las fichas manuscritas del golpismo: así paró el Cesid los siguientes 23-F: Tras la confirmación de que el servicio de Inteligencia participó en el golpe, el Gobierno de Calvo-Sotelo nombró un nuevo director con un mandato claro: identificar, controlar y sofocar el involucionismo. Manglano lo consiguió. Estas son las pruebas; Estos 60 kilómetros de autovía muestran el agujero que tiene España en las carreteras: La situación de la A-1 desde la salida de la ciudad de Madrid hasta la sierra es un ejemplo perfecto del problemón que vive España con sus vías. Los temporales de este año han dejado un panorama dramático. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-01T07:02:28Z",
+  "summary": "Resumen del día en El Confidencial: Junqueras 'asalta' el Ibex: el empresario que guardó papeletas del 1-O entrará en el consejo de Enagás: La presión de Esquerra al Gobierno para ganar presencia en la gran empresa española empieza a dar sus frutos. El primer ejemplo es Vicenç Pedret, que entrará como independiente; Adamuz: la Guardia Civil desvela \"incongruencias\" en la soldadura rota que se renovó en mayo: Un segundo informe de los investigadores advierte a la jueza de que la CIAF ha detectado incoherencias en la documentación remitida por la empresa que hizo el engarce; La AIReF teme que la nueva financiación autonómica ponga en riesgo la sostenibilidad: El montante de recursos que el Gobierno propone transferir a las CCAA obligaría a introducir limitaciones al gasto de las comunidades y que destinen una parte a amortizar deuda. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-02T07:14:27Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El PSOE pierde 69 escaños en CCAA tras pactar Sánchez con los nacionalistas para seguir en Moncloa",
-      "subtitle": "Los socialistas han perdido representación parlamentaria en 13 de las 17 comunidades autónomas. Se dejan una media de 5 escaños en cada territorio y solo la subida en Cataluña y País Vasco evitan una sangría mayor",
-      "url": "https://www.elconfidencial.com/espana/2026-03-01/psoe-pierde-69-escanos-en-ccaa-desde-sanchez-pacto-nacionalistas-para-seguir-moncloa_4311342/",
-      "scraped_at": "2026-03-01T07:02:26Z"
+      "title": "Junqueras 'asalta' el Ibex: el empresario que guardó papeletas del 1-O entrará en el consejo de Enagás",
+      "subtitle": "La presión de Esquerra al Gobierno para ganar presencia en la gran empresa española empieza a dar sus frutos. El primer ejemplo es Vicenç Pedret, que entrará como independiente",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/junqueras-asalta-ibex-coloca-consejero-enagas-empresario-guardo-papeletas-referendum_4311243/",
+      "scraped_at": "2026-03-02T07:14:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las fichas manuscritas del golpismo: así paró el Cesid los siguientes 23-F",
-      "subtitle": "Tras la confirmación de que el servicio de Inteligencia participó en el golpe, el Gobierno de Calvo-Sotelo nombró un nuevo director con un mandato claro: identificar, controlar y sofocar el involucionismo. Manglano lo consiguió. Estas son las pruebas",
-      "url": "https://www.elconfidencial.com/espana/2026-03-01/23f_4310827/",
-      "scraped_at": "2026-03-01T07:02:27Z"
+      "title": "Adamuz: la Guardia Civil desvela \"incongruencias\" en la soldadura rota que se renovó en mayo",
+      "subtitle": "Un segundo informe de los investigadores advierte a la jueza de que la CIAF ha detectado incoherencias en la documentación remitida por la empresa que hizo el engarce",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/adamuz-guardia-civil-incongruencias-soldadura-rota-renovada-mayo-2025_4311630/",
+      "scraped_at": "2026-03-02T07:14:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Estos 60 kilómetros de autovía muestran el agujero que tiene España en las carreteras",
-      "subtitle": "La situación de la A-1 desde la salida de la ciudad de Madrid hasta la sierra es un ejemplo perfecto del problemón que vive España con sus vías. Los temporales de este año han dejado un panorama dramático",
-      "url": "https://www.elconfidencial.com/espana/2026-03-01/problemas-carreteras-espana-autovia-a1-madrid_4309660/",
-      "scraped_at": "2026-03-01T07:02:27Z"
+      "title": "La AIReF teme que la nueva financiación autonómica ponga en riesgo la sostenibilidad",
+      "subtitle": "El montante de recursos que el Gobierno propone transferir a las CCAA obligaría a introducir limitaciones al gasto de las comunidades y que destinen una parte a amortizar deuda",
+      "url": "https://www.elconfidencial.com/economia/2026-03-02/entrevista-cristina-herrero-airef-financiacion-autonomica-sostenibilidad_4311551/",
+      "scraped_at": "2026-03-02T07:14:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"No habrá recuperación económica en Venezuela sin una transición política\"",
-      "subtitle": "Fue ministro en uno de los últimos gobiernos venezolanos antes de la llegada del chavismo y lleva décadas observando el desarrollo de las economías latinoamericanas por todo el continente",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-01/hausmann-venezuela-trump-cuba_4311542/",
-      "scraped_at": "2026-03-01T07:02:28Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Este peluquero de Pacífico honra todos los años a Paco de Lucía",
-      "subtitle": "Eladio Domínguez organiza cada mes de febrero diversos encuentros en su peluquería de Pacífico para recordar al guitarrista de Algeciras, fallecido hace doce años",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-03-01/barberia-flamenco-guitarra-paco-lucia-1hms_4311476/",
-      "scraped_at": "2026-03-01T07:02:28Z"
+      "title": "Salazar estalla en 'GH Dúo' contra Carlos Lozano: \"Vas a perder por mala persona\"",
+      "subtitle": "El rostro de &#039;Los gipsy kings&#039; da un paso atrás tras las críticas por su excesiva laxitud con el presentador y le exige al finalista que le devuelva el llavero especial que le regaló",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-01/raquel-salazar-gh-duo-carlos-lozano-llavero-perder_4312323/",
+      "scraped_at": "2026-03-02T07:14:27Z"
     }
   ]
 }
