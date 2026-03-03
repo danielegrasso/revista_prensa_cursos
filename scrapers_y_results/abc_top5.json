@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Trump aceleró el ataque a Irán porque estaba a pocas semanas de lograr la bomba nuclear: La escalada del programa iraní, el golpe de 2025 y el fracaso del diálogo en Ginebra llevaron a la Casa Blanca a la ofensiva que decapitó al régimen; Hizbolá ataca a Israel, que bombardea al Líbano: El ataque contra el territorio israelí se ha producido como respuesta a la muerte de líder iraní Jamenei; Los iraníes en el exilio tras la muerte de Jamenei: «Esto es increíble, es un sueño»: La diáspora contraria al régimen celebra la eliminación del líder supremo, pero vive con angustia el corte de las comunicaciones con sus familiares en el país. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-02T07:14:22Z",
+  "summary": "Resumen del día en ABC.es: Sánchez agrava la posición de España ante EE.UU. al complicar su despliegue en Irán: Senadores republicanos califican de «aberrante» la postura española y advierten de consecuencias; Trump se enreda en la guerra de Irán entre contradicciones y cambios de rumbo: Promete que durará «cuatro a cinco semanas» pero sin fijar un final, anima a un cambio de régimen y, mientras Hegseth niega que sea «otro Irak», el Pentágono refuerza el despliegue sin descartar tropas sobre el terreno; Las bombas iraníes rompen los oasis del Golfo: Teherán pone un fin abrupto a la propaganda de Qatar y Emiratos para atraer a turistas y residentes ricos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-03T07:08:28Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Trump aceleró el ataque a Irán porque estaba a pocas semanas de lograr la bomba nuclear",
-      "subtitle": "La escalada del programa iraní, el golpe de 2025 y el fracaso del diálogo en Ginebra llevaron a la Casa Blanca a la ofensiva que decapitó al régimen",
-      "url": "https://www.abc.es/internacional/eeuu-ataco-iran-semanas-lograr-bomba-nuclear-20260302040429-nt.html",
-      "scraped_at": "2026-03-02T07:14:20Z"
+      "title": "Sánchez agrava la posición de España ante EE.UU. al complicar su despliegue en Irán",
+      "subtitle": "Senadores republicanos califican de «aberrante» la postura española y advierten de consecuencias",
+      "url": "https://www.abc.es/espana/indignacion-washington-pegas-sanchez-usar-moron-rota-20260303040722-nt.html",
+      "scraped_at": "2026-03-03T07:08:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Hizbolá ataca a Israel, que bombardea al Líbano",
-      "subtitle": "El ataque contra el territorio israelí se ha producido como respuesta a la muerte de líder iraní Jamenei",
-      "url": "https://www.abc.es/internacional/hizbola-lanza-primeros-proyectiles-2024-israel-bombardea-20260302032647-nt.html",
-      "scraped_at": "2026-03-02T07:14:21Z"
+      "title": "Trump se enreda en la guerra de Irán entre contradicciones y cambios de rumbo",
+      "subtitle": "Promete que durará «cuatro a cinco semanas» pero sin fijar un final, anima a un cambio de régimen y, mientras Hegseth niega que sea «otro Irak», el Pentágono refuerza el despliegue sin descartar tropas sobre el terreno",
+      "url": "https://www.abc.es/internacional/trump-deja-aire-objetivos-plazos-guerra-iran-20260303041000-nt.html",
+      "scraped_at": "2026-03-03T07:08:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los iraníes en el exilio tras la muerte de Jamenei: «Esto es increíble, es un sueño»",
-      "subtitle": "La diáspora contraria al régimen celebra la eliminación del líder supremo, pero vive con angustia el corte de las comunicaciones con sus familiares en el país",
-      "url": "https://www.abc.es/internacional/iranies-exilio-tras-muerte-jamenei-increible-sueno-20260301210741-nt.html",
-      "scraped_at": "2026-03-02T07:14:21Z"
+      "title": "Las bombas iraníes rompen los oasis del Golfo",
+      "subtitle": "Teherán pone un fin abrupto a la propaganda de Qatar y Emiratos para atraer a turistas y residentes ricos",
+      "url": "https://www.abc.es/internacional/centenares-bombas-iranies-sacuden-oasis-paises-arabes-20260302041101-nt.html",
+      "scraped_at": "2026-03-03T07:08:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿En Irán como en Venezuela? La apuesta más audaz e incierta de Trump",
-      "subtitle": "El presidente busca un efecto como el de la captura de Maduro en un contexto mucho más arriesgado y sin un plan, de momento, evidente",
-      "url": "https://www.abc.es/internacional/cambio-regimen-iran-apuesta-audaz-incierta-trump-20260302040435-nt.html",
-      "scraped_at": "2026-03-02T07:14:22Z"
+      "title": "«Habrá guerra en Irán hasta que Trump logre sus objetivos o los vea imposibles»",
+      "subtitle": "Meir Javedanfar, profesor irano-israelí en la Universidad de Tel Aviv, culpa del rumbo suicida de Jamenei a la corte de «aduladores» y la Guardia Revolucionaria, y le achaca una arrogancia tremenda o un miedo paralizante",
+      "url": "https://www.abc.es/internacional/guerra-iran-trump-logre-objetivos-vea-imposibles-20260302041042-nt.html",
+      "scraped_at": "2026-03-03T07:08:27Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-02T07:14:22Z"
+      "scraped_at": "2026-03-03T07:08:28Z"
     }
   ]
 }

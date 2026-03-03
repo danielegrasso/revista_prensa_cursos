@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Junqueras 'asalta' el Ibex: el empresario que guardó papeletas del 1-O entrará en el consejo de Enagás: La presión de Esquerra al Gobierno para ganar presencia en la gran empresa española empieza a dar sus frutos. El primer ejemplo es Vicenç Pedret, que entrará como independiente; Adamuz: la Guardia Civil desvela \"incongruencias\" en la soldadura rota que se renovó en mayo: Un segundo informe de los investigadores advierte a la jueza de que la CIAF ha detectado incoherencias en la documentación remitida por la empresa que hizo el engarce; La AIReF teme que la nueva financiación autonómica ponga en riesgo la sostenibilidad: El montante de recursos que el Gobierno propone transferir a las CCAA obligaría a introducir limitaciones al gasto de las comunidades y que destinen una parte a amortizar deuda. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-02T07:14:27Z",
+  "summary": "Resumen del día en El Confidencial: La Audiencia Nacional estudia en secreto si le compete investigar Plus Ultra: El objetivo de la Fiscalía Anticorrupción es que la reserva no se alargue ya demasiado a la espera de la respuesta a algunas comisiones rogatorias cursadas y otras diligencias en marcha; 15-M: los incendios que asediaron a Fernández Mañueco (y todo lo que queda por hacer): El PP refuerza medios materiales y humanos y promete nuevos marcos legales, mientras los socialistas reclaman una brigada fuertemente profesionalizada y Vox recuperar más diálogo con los afectados y conocimiento del terreno; Santiago Niño Becerra: A pesar de presentar un empleo, existen personas que no presentan los suficientes ingresos para salir de una situación de vulnerabilidad financiera.. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-03T07:08:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Junqueras 'asalta' el Ibex: el empresario que guardó papeletas del 1-O entrará en el consejo de Enagás",
-      "subtitle": "La presión de Esquerra al Gobierno para ganar presencia en la gran empresa española empieza a dar sus frutos. El primer ejemplo es Vicenç Pedret, que entrará como independiente",
-      "url": "https://www.elconfidencial.com/espana/2026-03-02/junqueras-asalta-ibex-coloca-consejero-enagas-empresario-guardo-papeletas-referendum_4311243/",
-      "scraped_at": "2026-03-02T07:14:25Z"
+      "title": "La Audiencia Nacional estudia en secreto si le compete investigar Plus Ultra",
+      "subtitle": "El objetivo de la Fiscalía Anticorrupción es que la reserva no se alargue ya demasiado a la espera de la respuesta a algunas comisiones rogatorias cursadas y otras diligencias en marcha",
+      "url": "https://www.elconfidencial.com/espana/2026-03-03/audiencia-nacional-estudia-competencia-plus-ultra-secreto_4312873/",
+      "scraped_at": "2026-03-03T07:08:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Adamuz: la Guardia Civil desvela \"incongruencias\" en la soldadura rota que se renovó en mayo",
-      "subtitle": "Un segundo informe de los investigadores advierte a la jueza de que la CIAF ha detectado incoherencias en la documentación remitida por la empresa que hizo el engarce",
-      "url": "https://www.elconfidencial.com/espana/2026-03-02/adamuz-guardia-civil-incongruencias-soldadura-rota-renovada-mayo-2025_4311630/",
-      "scraped_at": "2026-03-02T07:14:26Z"
+      "title": "15-M: los incendios que asediaron a Fernández Mañueco (y todo lo que queda por hacer)",
+      "subtitle": "El PP refuerza medios materiales y humanos y promete nuevos marcos legales, mientras los socialistas reclaman una brigada fuertemente profesionalizada y Vox recuperar más diálogo con los afectados y conocimiento del terreno",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-03-03/incendios-castilla-leon-politica-forestal-1hms_4312638/",
+      "scraped_at": "2026-03-03T07:08:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La AIReF teme que la nueva financiación autonómica ponga en riesgo la sostenibilidad",
-      "subtitle": "El montante de recursos que el Gobierno propone transferir a las CCAA obligaría a introducir limitaciones al gasto de las comunidades y que destinen una parte a amortizar deuda",
-      "url": "https://www.elconfidencial.com/economia/2026-03-02/entrevista-cristina-herrero-airef-financiacion-autonomica-sostenibilidad_4311551/",
-      "scraped_at": "2026-03-02T07:14:27Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Salazar estalla en 'GH Dúo' contra Carlos Lozano: \"Vas a perder por mala persona\"",
-      "subtitle": "El rostro de &#039;Los gipsy kings&#039; da un paso atrás tras las críticas por su excesiva laxitud con el presentador y le exige al finalista que le devuelva el llavero especial que le regaló",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-01/raquel-salazar-gh-duo-carlos-lozano-llavero-perder_4312323/",
-      "scraped_at": "2026-03-02T07:14:27Z"
+      "title": "Santiago Niño Becerra",
+      "subtitle": "A pesar de presentar un empleo, existen personas que no presentan los suficientes ingresos para salir de una situación de vulnerabilidad financiera.",
+      "url": "https://www.elconfidencial.com/economia/2026-03-02/economista-persona-espana-trabaja-legalmente-pobre_4311927/",
+      "scraped_at": "2026-03-03T07:08:37Z"
     }
   ]
 }
