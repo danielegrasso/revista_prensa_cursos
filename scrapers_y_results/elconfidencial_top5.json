@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: La Audiencia Nacional estudia en secreto si le compete investigar Plus Ultra: El objetivo de la Fiscalía Anticorrupción es que la reserva no se alargue ya demasiado a la espera de la respuesta a algunas comisiones rogatorias cursadas y otras diligencias en marcha; 15-M: los incendios que asediaron a Fernández Mañueco (y todo lo que queda por hacer): El PP refuerza medios materiales y humanos y promete nuevos marcos legales, mientras los socialistas reclaman una brigada fuertemente profesionalizada y Vox recuperar más diálogo con los afectados y conocimiento del terreno; Santiago Niño Becerra: A pesar de presentar un empleo, existen personas que no presentan los suficientes ingresos para salir de una situación de vulnerabilidad financiera.. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-03T07:08:37Z",
+  "summary": "Resumen del día en El Confidencial: España mantiene la alerta 4 antiterrorista y vigilancia reforzada sobre intereses judíos: El Ministerio alberga este miércoles una reunión ordinaria para revisar el grado de alerta marcada por la guerra en Oriente Medio: “Se refuerzan vigilancias en puntos determinados cuando estamos en esta situación”; Un estudio de ratios que cabreará a muchos: ¿tanto importa el tamaño de la clase?: La evidencia sugiere que el impacto de las clases más pequeñas en el rendimiento académico es casi nulo. La última, una investigación publicada por EsadeEcPol; Hermano Pedro Sánchez: Un documento oficial de la administración pacense cifra en esa cantidad el sueldo percibido por el músico procesado entre julio de 2017 y mayo de 2025. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-04T07:04:47Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La Audiencia Nacional estudia en secreto si le compete investigar Plus Ultra",
-      "subtitle": "El objetivo de la Fiscalía Anticorrupción es que la reserva no se alargue ya demasiado a la espera de la respuesta a algunas comisiones rogatorias cursadas y otras diligencias en marcha",
-      "url": "https://www.elconfidencial.com/espana/2026-03-03/audiencia-nacional-estudia-competencia-plus-ultra-secreto_4312873/",
-      "scraped_at": "2026-03-03T07:08:36Z"
+      "title": "España mantiene la alerta 4 antiterrorista y vigilancia reforzada sobre intereses judíos",
+      "subtitle": "El Ministerio alberga este miércoles una reunión ordinaria para revisar el grado de alerta marcada por la guerra en Oriente Medio: “Se refuerzan vigilancias en puntos determinados cuando estamos en esta situación”",
+      "url": "https://www.elconfidencial.com/espana/2026-03-04/interior-mantiene-nivel-alerta-antiterrorista-vigilancia-reforzada-intereses-judios-espana_4313721/",
+      "scraped_at": "2026-03-04T07:04:45Z"
     },
     {
       "source": "El Confidencial",
-      "title": "15-M: los incendios que asediaron a Fernández Mañueco (y todo lo que queda por hacer)",
-      "subtitle": "El PP refuerza medios materiales y humanos y promete nuevos marcos legales, mientras los socialistas reclaman una brigada fuertemente profesionalizada y Vox recuperar más diálogo con los afectados y conocimiento del terreno",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-03-03/incendios-castilla-leon-politica-forestal-1hms_4312638/",
-      "scraped_at": "2026-03-03T07:08:36Z"
+      "title": "Un estudio de ratios que cabreará a muchos: ¿tanto importa el tamaño de la clase?",
+      "subtitle": "La evidencia sugiere que el impacto de las clases más pequeñas en el rendimiento académico es casi nulo. La última, una investigación publicada por EsadeEcPol",
+      "url": "https://www.elconfidencial.com/espana/2026-03-04/estudio-ratios-importante-reducir-tamano-clases_4312876/",
+      "scraped_at": "2026-03-04T07:04:46Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Santiago Niño Becerra",
-      "subtitle": "A pesar de presentar un empleo, existen personas que no presentan los suficientes ingresos para salir de una situación de vulnerabilidad financiera.",
-      "url": "https://www.elconfidencial.com/economia/2026-03-02/economista-persona-espana-trabaja-legalmente-pobre_4311927/",
-      "scraped_at": "2026-03-03T07:08:37Z"
+      "title": "Hermano Pedro Sánchez",
+      "subtitle": "Un documento oficial de la administración pacense cifra en esa cantidad el sueldo percibido por el músico procesado entre julio de 2017 y mayo de 2025",
+      "url": "https://www.elconfidencial.com/espana/2026-03-03/sanchez-hermano-cobro-diputacion-badajoz-cobro_4313645/",
+      "scraped_at": "2026-03-04T07:04:47Z"
     }
   ]
 }
