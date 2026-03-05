@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La amenaza de Marruecos y la soledad en la OTAN: resultados de la política de Sánchez: Expertos temen implicaciones económicas, diplomáticas, militares y estratégicas por la postura del Gobierno; La embajadora en funciones de Israel: «España tiene que elegir a sus aliados: Irán u Occidente»: Dana Erlich responde a las preguntas de ABC en un momento de máxima tensión en la región, en medio de una nueva guerra; EE.UU. atacó a Irán al sospechar que iba a tener material para 50 bombas nucleares en un año: Altos funcionarios de Trump revelan los detalles de las conversaciones que fracasaron por la negativa de Teherán de ofrecer un plan claro de desnuclearización. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-04T07:04:41Z",
+  "summary": "Resumen del día en ABC.es: Estados Unidos se plantea usar el suministro de gas para penalizar a España: El país norteamericano se ha convertido en un proveedor esencial tras la guerra de Ucrania, y cubrió el 30% de la demanda en el último año; La Casa Blanca estudia restringir los visados como represalia por las bases: La Casa Blanca añade esta medida de presión, como hizo con anterioridad con Chile y determinados ciudadanos de la UE; Quién es quién en la guerra contra Irán y la escalada en Oriente Próximo: La respuesta del régimen iraní a los ataques de EEUU e Israel arrastra ya al conflicto a 13 países de la región. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-05T07:08:20Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La amenaza de Marruecos y la soledad en la OTAN: resultados de la política de Sánchez",
-      "subtitle": "Expertos temen implicaciones económicas, diplomáticas, militares y estratégicas por la postura del Gobierno",
-      "url": "https://www.abc.es/espana/amenaza-marruecos-soledad-otan-espana-enfrenta-multiples-20260304040731-nt.html",
-      "scraped_at": "2026-03-04T07:04:40Z"
+      "title": "Estados Unidos se plantea usar el suministro de gas para penalizar a España",
+      "subtitle": "El país norteamericano se ha convertido en un proveedor esencial tras la guerra de Ucrania, y cubrió el 30% de la demanda en el último año",
+      "url": "https://www.abc.es/economia/estados-unidos-plantea-usar-suministro-gas-penalizar-20260305040236-nt.html",
+      "scraped_at": "2026-03-05T07:08:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "La embajadora en funciones de Israel: «España tiene que elegir a sus aliados: Irán u Occidente»",
-      "subtitle": "Dana Erlich responde a las preguntas de ABC en un momento de máxima tensión en la región, en medio de una nueva guerra",
-      "url": "https://www.abc.es/internacional/embajadora-funciones-israel-espana-elegir-aliados-iran-20260303040840-nt.html",
-      "scraped_at": "2026-03-04T07:04:41Z"
+      "title": "La Casa Blanca estudia restringir los visados como represalia por las bases",
+      "subtitle": "La Casa Blanca añade esta medida de presión, como hizo con anterioridad con Chile y determinados ciudadanos de la UE",
+      "url": "https://www.abc.es/espana/eeuu-estudia-represalias-diplomaticas-espana-tras-choque-20260304040354-nt.html",
+      "scraped_at": "2026-03-05T07:08:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "EE.UU. atacó a Irán al sospechar que iba a tener material para 50 bombas nucleares en un año",
-      "subtitle": "Altos funcionarios de Trump revelan los detalles de las conversaciones que fracasaron por la negativa de Teherán de ofrecer un plan claro de desnuclearización",
-      "url": "https://www.abc.es/internacional/trump-descubrio-iran-mantiene-toneladas-uranio-enriquecido-20260302214713-nt.html",
-      "scraped_at": "2026-03-04T07:04:41Z"
+      "title": "Quién es quién en la guerra contra Irán y la escalada en Oriente Próximo",
+      "subtitle": "La respuesta del régimen iraní a los ataques de EEUU e Israel arrastra ya al conflicto a 13 países de la región",
+      "url": "https://www.abc.es/internacional/guerra-iran-mapas-escalada-oriente-medio-20260305040448-nt.html",
+      "scraped_at": "2026-03-05T07:08:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "Irán, la cuestión nuclear y Donald Trump",
-      "subtitle": "A Henry Kissinger le dio el suficiente tiempo para comprender a Donald Trump y definirlo como el catalizador de un nuevo orden mundial, y aunque su pragmatismo podría servir para cambiarlo, su imprevisibilidad era un riesgo",
-      "url": "https://www.abc.es/opinion/jose-ignacio-castro-torres-iran-cuestion-nuclear-trump-20260303191116-nt.html",
-      "scraped_at": "2026-03-04T07:04:41Z"
+      "title": "«Somos rehenes tanto de Hizbolá como de Israel»",
+      "subtitle": "Los libaneses se enfrentan a un nuevo éxodo al verse atrapados por la ofensiva del Ejército hebreo contra la guerrilla chií aliada de Irán",
+      "url": "https://www.abc.es/internacional/prefiero-quedarme-bajo-bombas-20260304040620-nt.html",
+      "scraped_at": "2026-03-05T07:08:20Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-04T07:04:41Z"
+      "scraped_at": "2026-03-05T07:08:20Z"
     }
   ]
 }

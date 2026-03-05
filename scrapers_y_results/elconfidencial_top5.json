@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: España mantiene la alerta 4 antiterrorista y vigilancia reforzada sobre intereses judíos: El Ministerio alberga este miércoles una reunión ordinaria para revisar el grado de alerta marcada por la guerra en Oriente Medio: “Se refuerzan vigilancias en puntos determinados cuando estamos en esta situación”; Un estudio de ratios que cabreará a muchos: ¿tanto importa el tamaño de la clase?: La evidencia sugiere que el impacto de las clases más pequeñas en el rendimiento académico es casi nulo. La última, una investigación publicada por EsadeEcPol; Hermano Pedro Sánchez: Un documento oficial de la administración pacense cifra en esa cantidad el sueldo percibido por el músico procesado entre julio de 2017 y mayo de 2025. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-04T07:04:47Z",
+  "summary": "Resumen del día en El Confidencial: Crisis energética, inflación y Trump: la tormenta perfecta del inmobiliario español: La crisis de Oriente Medio amenaza con revivir las tensiones energéticas e inflacionistas vistas tras la invasión de Ucrania. El desafío de Trump pone en el foco a los grandes fondos; Sánchez multiplica por diez el gasto médico en Moncloa y ya tiene 7 efectivos más que Rajoy: Presidencia del Gobierno eleva a 30 personas el equipo del Sistema Operativo Sanitario entre médicos, enfermeros y técnicos de emergencias. Moncloa cuenta también con tres unidades y dos ambulancias UCI; Frente al burka, la cara al viento: canciones de libertad y amor de Raimon y Roberta Flack: Un viejo himno contra la dictadura sirve hoy para reflexionar sobre identidad y dignidad, en pleno debate sobre velos integrales y el significado humano —y cultural— de mostrarnos sin imposiciones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-05T07:08:25Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España mantiene la alerta 4 antiterrorista y vigilancia reforzada sobre intereses judíos",
-      "subtitle": "El Ministerio alberga este miércoles una reunión ordinaria para revisar el grado de alerta marcada por la guerra en Oriente Medio: “Se refuerzan vigilancias en puntos determinados cuando estamos en esta situación”",
-      "url": "https://www.elconfidencial.com/espana/2026-03-04/interior-mantiene-nivel-alerta-antiterrorista-vigilancia-reforzada-intereses-judios-espana_4313721/",
-      "scraped_at": "2026-03-04T07:04:45Z"
+      "title": "Crisis energética, inflación y Trump: la tormenta perfecta del inmobiliario español",
+      "subtitle": "La crisis de Oriente Medio amenaza con revivir las tensiones energéticas e inflacionistas vistas tras la invasión de Ucrania. El desafío de Trump pone en el foco a los grandes fondos",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-03-05/crisis-oriente-medio-sector-inmobiliario_4313737/",
+      "scraped_at": "2026-03-05T07:08:24Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un estudio de ratios que cabreará a muchos: ¿tanto importa el tamaño de la clase?",
-      "subtitle": "La evidencia sugiere que el impacto de las clases más pequeñas en el rendimiento académico es casi nulo. La última, una investigación publicada por EsadeEcPol",
-      "url": "https://www.elconfidencial.com/espana/2026-03-04/estudio-ratios-importante-reducir-tamano-clases_4312876/",
-      "scraped_at": "2026-03-04T07:04:46Z"
+      "title": "Sánchez multiplica por diez el gasto médico en Moncloa y ya tiene 7 efectivos más que Rajoy",
+      "subtitle": "Presidencia del Gobierno eleva a 30 personas el equipo del Sistema Operativo Sanitario entre médicos, enfermeros y técnicos de emergencias. Moncloa cuenta también con tres unidades y dos ambulancias UCI",
+      "url": "https://www.elconfidencial.com/espana/2026-03-05/sanchez-multiplica-gasto-equipo-sanitario-moncloa_4313641/",
+      "scraped_at": "2026-03-05T07:08:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hermano Pedro Sánchez",
-      "subtitle": "Un documento oficial de la administración pacense cifra en esa cantidad el sueldo percibido por el músico procesado entre julio de 2017 y mayo de 2025",
-      "url": "https://www.elconfidencial.com/espana/2026-03-03/sanchez-hermano-cobro-diputacion-badajoz-cobro_4313645/",
-      "scraped_at": "2026-03-04T07:04:47Z"
+      "title": "Frente al burka, la cara al viento: canciones de libertad y amor de Raimon y Roberta Flack",
+      "subtitle": "Un viejo himno contra la dictadura sirve hoy para reflexionar sobre identidad y dignidad, en pleno debate sobre velos integrales y el significado humano —y cultural— de mostrarnos sin imposiciones",
+      "url": "https://www.elconfidencial.com/cultura/2026-03-05/cara-identidad-mujer-libertad-musica-1hms_4312213/",
+      "scraped_at": "2026-03-05T07:08:25Z"
     }
   ]
 }
