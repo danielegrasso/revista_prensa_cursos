@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump se enfrenta a una guerra más larga de lo esperado en Irán con problemas en los suministros de munición y armas: La Administración Trump ya sugiere que la ofensiva en Irán puede durar ocho semanas y se reúne este viernes con las empresas de armas para reclamar que aceleren la producción para poder mantener el pulso; España mantiene la tensión con EEUU mientras en Europa crece el rechazo a la guerra: Trump vuelve a arremeter contra el Ejecutivo de Pedro Sánchez, que defiende su \"decisión soberana\" de no ceder las bases de Morón y Rota para la guerra de Irán; El PP y Vox recurren a los bulos para atacar la negativa del Gobierno a participar en la guerra de Irán: Los partidos de Feijóo y Abascal difunden la noticia falsa de que la ministra de Defensa le dijo al embajador de EEUU que ella está \"con Donald Trump\", sostienen que las bases de Rota y Morón se siguen usando para los bombardeos o señalan el envío de una fragata para defender a Chipre. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-06T07:06:02Z",
+  "summary": "Resumen del día en elDiario.es: La guerra de Trump en Irán golpea la economía de EEUU y agrava su crisis política en año electoral: La Casa Blanca rebaja las sanciones al petróleo ruso con la esperanza de contener los precios energéticos en EEUU, al tiempo que acelera la explotación de Venezuela, para reducir el impacto de la guerra en el bolsillo de los votantes; España relativiza las amenazas de Trump y se prepara para el coste de la guerra: Pedro Sánchez manda un mensaje de tranquilidad respecto a la capacidad de Estados Unidos de dañar la economía española, pero advierte de que la ofensiva en Irán repercutirá en los bolsillos: \"Tenemos margen financiero para articular medidas\"; Trump está tocado y no sabe por dónde tirar: La impresión de algunos de los más prestigiosos analistas es que Trump ha perdido el control de los acontecimientos, que sobre la base de un análisis oportunista y apresurado decidió atacar sin prever la capacidad de reacción de Irán. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-07T06:57:51Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump se enfrenta a una guerra más larga de lo esperado en Irán con problemas en los suministros de munición y armas",
-      "subtitle": "La Administración Trump ya sugiere que la ofensiva en Irán puede durar ocho semanas y se reúne este viernes con las empresas de armas para reclamar que aceleren la producción para poder mantener el pulso",
-      "url": "https://www.eldiario.es/internacional/trump-enfrenta-guerra-larga-esperado-iran-problemas-suministros-municion-armas_1_13044661.html",
-      "scraped_at": "2026-03-06T07:05:59Z"
+      "title": "La guerra de Trump en Irán golpea la economía de EEUU y agrava su crisis política en año electoral",
+      "subtitle": "La Casa Blanca rebaja las sanciones al petróleo ruso con la esperanza de contener los precios energéticos en EEUU, al tiempo que acelera la explotación de Venezuela, para reducir el impacto de la guerra en el bolsillo de los votantes",
+      "url": "https://www.eldiario.es/internacional/guerra-trump-iran-golpea-economia-eeuu-dispara-gasolina-agrava-crisis-politica-pleno-ano-electoral_1_13047760.html",
+      "scraped_at": "2026-03-07T06:57:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "España mantiene la tensión con EEUU mientras en Europa crece el rechazo a la guerra",
-      "subtitle": "Trump vuelve a arremeter contra el Ejecutivo de Pedro Sánchez, que defiende su \"decisión soberana\" de no ceder las bases de Morón y Rota para la guerra de Irán",
-      "url": "https://www.eldiario.es/politica/espana-mantiene-tension-eeuu-europa-crece-rechazo-guerra_1_13044348.html",
-      "scraped_at": "2026-03-06T07:06:00Z"
+      "title": "España relativiza las amenazas de Trump y se prepara para el coste de la guerra",
+      "subtitle": "Pedro Sánchez manda un mensaje de tranquilidad respecto a la capacidad de Estados Unidos de dañar la economía española, pero advierte de que la ofensiva en Irán repercutirá en los bolsillos: \"Tenemos margen financiero para articular medidas\"",
+      "url": "https://www.eldiario.es/politica/espana-relativiza-amenazas-trump-prepara-coste-guerra_1_13046644.html",
+      "scraped_at": "2026-03-07T06:57:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP y Vox recurren a los bulos para atacar la negativa del Gobierno a participar en la guerra de Irán",
-      "subtitle": "Los partidos de Feijóo y Abascal difunden la noticia falsa de que la ministra de Defensa le dijo al embajador de EEUU que ella está \"con Donald Trump\", sostienen que las bases de Rota y Morón se siguen usando para los bombardeos o señalan el envío de una fragata para defender a Chipre",
-      "url": "https://www.eldiario.es/politica/pp-vox-recurren-bulos-atacar-negativa-gobierno-participar-guerra-iran_1_13044278.html",
-      "scraped_at": "2026-03-06T07:06:01Z"
+      "title": "Trump está tocado y no sabe por dónde tirar",
+      "subtitle": "La impresión de algunos de los más prestigiosos analistas es que Trump ha perdido el control de los acontecimientos, que sobre la base de un análisis oportunista y apresurado decidió atacar sin prever la capacidad de reacción de Irán",
+      "url": "https://www.eldiario.es/internacional/trump-tocado-no-tirar_129_13046823.html",
+      "scraped_at": "2026-03-07T06:57:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La investigación de EEUU apunta a la “probable” responsabilidad de su Ejército en la masacre de 168 personas en la escuela de niñas iraní",
-      "subtitle": "Investigadores militares estadounidenses creen que es probable que las fuerzas estadounidenses fueran responsables del ataque contra la escuela de niñas iraní el pasado sábado, pero aún no han llegado a una conclusión definitiva, según informa Reuters",
-      "url": "https://www.eldiario.es/internacional/investigacion-eeuu-apunta-probable-responsabilidad-ejercito-masacre-168-personas-escuela-ninas-irani_1_13045108.html",
-      "scraped_at": "2026-03-06T07:06:01Z"
+      "title": "La estrategia de la balcanización: EEUU e Israel intentan romper Irán explotando diferencias étnicas y nacionales",
+      "subtitle": "La doctrina israelí ha hecho de la alianza con minorías étnicas y religiosas en Oriente Medio una herramienta estratégica para influir y, en última instancia, fragmentar a sus adversarios",
+      "url": "https://www.eldiario.es/internacional/estrategia-balcanizacion-eeuu-e-israel-romper-iran-explotando-diferencias-etnicas-nacionales_129_13045762.html",
+      "scraped_at": "2026-03-07T06:57:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Margarita Robles",
-      "subtitle": "Varios vídeos del diálogo entre la ministra de Defensa y el embajador de los Estados Unidos en España muestran que ella le dijo que era \"friolera\" y hablaban sobre apagar la calefacción de la sala",
-      "url": "https://www.eldiario.es/politica/pp-difunde-video-asegurando-robles-dice-trump-defensa-desmiente-afirma-congelada_1_13042536.html",
-      "scraped_at": "2026-03-06T07:06:02Z"
+      "title": "Trump Irán",
+      "subtitle": "El presidente de EEUU descarta un acuerdo con las nuevas autoridades iraníes días después de haber anunciado que estaba dispuesto a hablar",
+      "url": "https://www.eldiario.es/internacional/trump-iran-no-habra-acuerdo-salvo-rendicion-incondicional_1_13047128.html",
+      "scraped_at": "2026-03-07T06:57:51Z"
     }
   ]
 }

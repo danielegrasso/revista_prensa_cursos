@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El falso 'No a la guerra': España apoya a EE.UU. contra Irán en múltiples escenarios: El Gobierno colabora indirectamente en el ataque a través de operaciones de la UE y la OTAN; El discurso de Sánchez: reunión repentina en Zarzuela y sin nombrar a EE.UU.: La comparecencia de Sánchez estaba prevista antes de que el presidente de EE.UU. anunciara represalias contra España; Trump proclama ante Messi la destrucción del arsenal iraní: El mandatario afirma que los iraníes buscan negociar y que está en contacto con diplomáticos del país. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-06T07:06:04Z",
+  "summary": "Resumen del día en ABC.es: Una semana de guerra pone en jaque el comercio mundial: El conflicto obliga a las navieras a redirigir rutas y disparan sus tarifas hasta más de 3.000 euros; Las razones y contradicciones de Trump para la guerra con Irán: Los motivos del Gobierno de Estados Unidos para atacar Irán han ido cambiando con el paso de la campaña militar; ¿Puede Trump embargar a España?: Dentro de su (erróneo) marco conceptual, quien más saldría perdiendo sería la economía estadounidense. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-07T06:57:54Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El falso 'No a la guerra': España apoya a EE.UU. contra Irán en múltiples escenarios",
-      "subtitle": "El Gobierno colabora indirectamente en el ataque a través de operaciones de la UE y la OTAN",
-      "url": "https://www.abc.es/espana/falso-guerra-espana-apoya-eeuu-multiples-escenarios-20260306040700-nt.html",
-      "scraped_at": "2026-03-06T07:06:03Z"
+      "title": "Una semana de guerra pone en jaque el comercio mundial",
+      "subtitle": "El conflicto obliga a las navieras a redirigir rutas y disparan sus tarifas hasta más de 3.000 euros",
+      "url": "https://www.abc.es/economia/guerra-dispara-precio-fletes-maritimos-aseguradoras-cancelan-20260306040255-nt.html",
+      "scraped_at": "2026-03-07T06:57:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "El discurso de Sánchez: reunión repentina en Zarzuela y sin nombrar a EE.UU.",
-      "subtitle": "La comparecencia de Sánchez estaba prevista antes de que el presidente de EE.UU. anunciara represalias contra España",
-      "url": "https://www.abc.es/espana/intrahistoria-guerra-reunion-zarzuela-nombrar-trump-20260306040735-nt.html",
-      "scraped_at": "2026-03-06T07:06:03Z"
+      "title": "Las razones y contradicciones de Trump para la guerra con Irán",
+      "subtitle": "Los motivos del Gobierno de Estados Unidos para atacar Irán han ido cambiando con el paso de la campaña militar",
+      "url": "https://www.abc.es/internacional/razones-contradicciones-trump-guerra-iran-20260306040435-nt.html",
+      "scraped_at": "2026-03-07T06:57:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump proclama ante Messi la destrucción del arsenal iraní",
-      "subtitle": "El mandatario afirma que los iraníes buscan negociar y que está en contacto con diplomáticos del país",
-      "url": "https://www.abc.es/internacional/trump-proclama-ante-messi-destruccion-arsenal-irani-20260305230841-nt.html",
-      "scraped_at": "2026-03-06T07:06:03Z"
+      "title": "¿Puede Trump embargar a España?",
+      "subtitle": "Dentro de su (erróneo) marco conceptual, quien más saldría perdiendo sería la economía estadounidense",
+      "url": "https://www.abc.es/economia/juan-ramon-rallo-puede-trump-embargar-espana-20260307040500-nt.html",
+      "scraped_at": "2026-03-07T06:57:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Chipre, en primera línea defensiva de la UE",
-      "subtitle": "Tensión en la isla por los drones interceptados, que obligan a activar las alarmas y a Grecia a desplegar fragatas y cazas en medio de la escalada bélica",
-      "url": "https://www.abc.es/internacional/tension-mediterraneo-oriental-fragatas-cazas-griegos-ante-20260305000532-nt.html",
-      "scraped_at": "2026-03-06T07:06:03Z"
+      "title": "Mamaremos doctor Sánchez hasta que las ranas críen pelo",
+      "subtitle": "La derecha española parte de una penosa distorsión cognitiva, que es pensar que el partido de Estado es de izquierdas",
+      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-mamaremos-doctor-sanchez-ranas-crien-pelo-20260306162633-nt.html",
+      "scraped_at": "2026-03-07T06:57:53Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-06T07:06:04Z"
+      "scraped_at": "2026-03-07T06:57:54Z"
     }
   ]
 }
