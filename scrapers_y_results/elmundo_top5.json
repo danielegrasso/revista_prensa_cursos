@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Von der Leyen evitó llamar a Sánchez para darle su apoyo ante Trump y omitió públicamente el intercambio de mensajes: \"No hubo conversación telefónica\": La presidenta de la Comisión trató de que el contacto entre ambos pasase desapercibido, y sólo se conoció cuando el líder del Ejecutivo español lo publicó. Además, el Parlamento Europeo ha rechazado debatir las amenazas de Estados Unidos a España; \"Sí, hemos tocado el manifiesto\": la izquierda redirige el 8-M hacia el 'No a la guerra': Hay textos que se han modificado 'in extremis' para incluir la consigna del Gobierno y hacer del antimilitarismo una de las reivindicaciones principales de las marchas de este año; Próxima batalla en el Congreso: la (no) legalidad de evitar una votación sobre la fragata: Desde 2005, la ley otorga un papel protagonista al Parlamento en relación con la participación militar en el exterior y Sánchez lo quiere orillar. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-07T06:57:46Z",
+  "summary": "Resumen del día en El Mundo: Moncloa descarta adelantar las elecciones generales aunque la guerra de Irán empeore y afecte a España: \"La izquierda ha cambiado su estado de ánimo\": Sánchez está siendo ungido con muy destacadas alabanzas y sus colaboradores destacan los halagos de la prensa internacional hacia el presidente español por atreverse a decir \"no\" a Trump; 'The Nemesis': La gran perjudicada por la disputa teatralizada de Sánchez con Trump es la tentativa de esa Europa adulta que apuesta de verdad por salir de la melancolía estratégica; 'Operación Rugido de león', la venganza israelí por el 7-O que llevó a EEUU a la guerra: Tel Aviv tiene el objetivo claro de acabar con la amenaza existencial que le supone el régimen iraní desde 1979. Las razones de EEUU para este ataque son mucho más difusas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-08T06:58:55Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Von der Leyen evitó llamar a Sánchez para darle su apoyo ante Trump y omitió públicamente el intercambio de mensajes: \"No hubo conversación telefónica\"",
-      "subtitle": "La presidenta de la Comisión trató de que el contacto entre ambos pasase desapercibido, y sólo se conoció cuando el líder del Ejecutivo español lo publicó. Además, el Parlamento Europeo ha rechazado debatir las amenazas de Estados Unidos a España",
-      "url": "https://www.elmundo.es/internacional/2026/03/06/69aac767e85ece532b8b459a.html",
-      "scraped_at": "2026-03-07T06:57:45Z"
+      "title": "Moncloa descarta adelantar las elecciones generales aunque la guerra de Irán empeore y afecte a España: \"La izquierda ha cambiado su estado de ánimo\"",
+      "subtitle": "Sánchez está siendo ungido con muy destacadas alabanzas y sus colaboradores destacan los halagos de la prensa internacional hacia el presidente español por atreverse a decir \"no\" a Trump",
+      "url": "https://www.elmundo.es/espana/2026/03/07/69ac6644e9cf4a42388b4586.html",
+      "scraped_at": "2026-03-08T06:58:54Z"
     },
     {
       "source": "El Mundo",
-      "title": "\"Sí, hemos tocado el manifiesto\": la izquierda redirige el 8-M hacia el 'No a la guerra'",
-      "subtitle": "Hay textos que se han modificado 'in extremis' para incluir la consigna del Gobierno y hacer del antimilitarismo una de las reivindicaciones principales de las marchas de este año",
-      "url": "https://www.elmundo.es/espana/2026/03/07/69ab278efdddff0e598b45ab.html",
-      "scraped_at": "2026-03-07T06:57:46Z"
+      "title": "'The Nemesis'",
+      "subtitle": "La gran perjudicada por la disputa teatralizada de Sánchez con Trump es la tentativa de esa Europa adulta que apuesta de verdad por salir de la melancolía estratégica",
+      "url": "https://www.elmundo.es/opinion/columnistas/2026/03/07/69ac6a7d21efa0c4258b457d.html",
+      "scraped_at": "2026-03-08T06:58:54Z"
     },
     {
       "source": "El Mundo",
-      "title": "Próxima batalla en el Congreso: la (no) legalidad de evitar una votación sobre la fragata",
+      "title": "'Operación Rugido de león', la venganza israelí por el 7-O que llevó a EEUU a la guerra",
+      "subtitle": "Tel Aviv tiene el objetivo claro de acabar con la amenaza existencial que le supone el régimen iraní desde 1979. Las razones de EEUU para este ataque son mucho más difusas",
+      "url": "https://www.elmundo.es/internacional/2026/03/07/69aaf4d0e9cf4a336a8b45a9.html",
+      "scraped_at": "2026-03-08T06:58:55Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Esperando a la fragata Cristóbal Colón en Akrotiri, el orgulloso pueblo chipriota amenazado por Irán y los drones: \"Tenemos el ADN de la guerra\"",
+      "subtitle": "Nicole es una de las primeras vecinas en volver al pueblo, pegado a la imponente base de la Royal Air Force británica que vigila tres continentes. En este enclave, codiciado desde hace siglos, el zumbido bajo y metálico de un dron kamikaze despertó el recuerdo bélico. Esperan de brazos abiertos a los militares españoles",
+      "url": "https://www.elmundo.es/cronica/2026/03/07/69ac238521efa0b9638b4590.html",
+      "scraped_at": "2026-03-08T06:58:55Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Fragata Cristóbal Colón",
       "subtitle": "Desde 2005, la ley otorga un papel protagonista al Parlamento en relación con la participación militar en el exterior y Sánchez lo quiere orillar",
       "url": "https://www.elmundo.es/espana/2026/03/07/69ab27c3fdddffcb3e8b45b2.html",
-      "scraped_at": "2026-03-07T06:57:46Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "'Pulpos' contra 'Testigos': Trump y los países del Golfo olvidan su simpatía con Rusia y piden armas a Zelenski para parar a los drones de Irán",
-      "subtitle": "Quieren la tecnología para abatir los drones iraníes que han cerrado al mundo el acceso al petróleo",
-      "url": "https://www.elmundo.es/internacional/2026/03/06/69ab16bfe9cf4aa3398b456f.html",
-      "scraped_at": "2026-03-07T06:57:46Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Precio gasolina",
-      "subtitle": "Los surtidores empiezan a reflejar la escalada mundial del crudo, con el barril de Brent por encima de los 90 euros. Los transportistas piden al Gobierno controlar las subidas \"especulativas\"",
-      "url": "https://www.elmundo.es/economia/empresas/2026/03/06/69aaca86e9cf4a12298b4588.html",
-      "scraped_at": "2026-03-07T06:57:46Z"
+      "scraped_at": "2026-03-08T06:58:55Z"
     }
   ]
 }

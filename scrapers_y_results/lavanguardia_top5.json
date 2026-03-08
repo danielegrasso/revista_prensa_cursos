@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Ibex pierde un 7% en la semana mientras el petróleo sube a 90 dólares: Los inversores descuentan una guerra corta y el S&P 500 limita los daños; Ay, la tentación electoral: El adelanto electoral es una tentación en la que suelen caer muchas veces los gobernantes a pesar de que no está escrito en ningún manual que ello les garantizará; Israel asegura haber destruido gran parte del arsenal de misiles de Irán: El ejército hebreo bombardea posiciones de Hizbulah en Beirut y amplía su ofensiva en el sur de Líbano tras la entrada del grupo chií en la guerra. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-07T06:57:55Z",
+  "summary": "Resumen del día en La Vanguardia: Crece la preocupación en EE.UU. por el agotamiento del arsenal militar en la guerra de Irán: Un informe del Consejo Nacional de Inteligencia concluyó el mes pasado que es improbable un cambio de régimen en Teherán mediante una campaña de bombardeos masivos; Ocho días de guerra y caos en Oriente Medio: Trump promete más dureza contra Irán, que se disculpa ante los países del Golfo; Trump culpa a Irán del bombardeo de la escuela que dejó más de 150 muertos: Ni Estados Unidos ni Israel han confirmado oficialmente el origen del ataque. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-08T06:59:05Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Ibex pierde un 7% en la semana mientras el petróleo sube a 90 dólares",
-      "subtitle": "Los inversores descuentan una guerra corta y el S&P 500 limita los daños",
-      "url": "https://www.lavanguardia.com/economia/20260307/11483486/ibex-pierde-7-semana-petroleo-sube-90-dolares.html",
-      "scraped_at": "2026-03-07T06:57:55Z"
+      "title": "Crece la preocupación en EE.UU. por el agotamiento del arsenal militar en la guerra de Irán",
+      "subtitle": "Un informe del Consejo Nacional de Inteligencia concluyó el mes pasado que es improbable un cambio de régimen en Teherán mediante una campaña de bombardeos masivos",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11483998/crece-preocupacion-ee-uu-agotamiento-arsenal-militar-guerra-iran.html",
+      "scraped_at": "2026-03-08T06:59:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ay, la tentación electoral",
-      "subtitle": "El adelanto electoral es una tentación en la que suelen caer muchas veces los gobernantes a pesar de que no está escrito en ningún manual que ello les garantizará",
-      "url": "https://www.lavanguardia.com/opinion/20260307/11483482/ay-tentacion-electoral.html",
-      "scraped_at": "2026-03-07T06:57:55Z"
+      "title": "Ocho días de guerra y caos en Oriente Medio",
+      "subtitle": "Trump promete más dureza contra Irán, que se disculpa ante los países del Golfo",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11484002/siete-dias-guerra-caos-oriente-medio.html",
+      "scraped_at": "2026-03-08T06:59:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Israel asegura haber destruido gran parte del arsenal de misiles de Irán",
-      "subtitle": "El ejército hebreo bombardea posiciones de Hizbulah en Beirut y amplía su ofensiva en el sur de Líbano tras la entrada del grupo chií en la guerra",
-      "url": "https://www.lavanguardia.com/internacional/20260307/11483447/israel-asegura-haber-destruido-gran-parte-arsenal-misiles-iran.html",
-      "scraped_at": "2026-03-07T06:57:55Z"
+      "title": "Trump culpa a Irán del bombardeo de la escuela que dejó más de 150 muertos",
+      "subtitle": "Ni Estados Unidos ni Israel han confirmado oficialmente el origen del ataque",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11484100/trump-culpa-pruebas-iran-bombardeo-escuela-minab-dejo-mas-150-muertos.html",
+      "scraped_at": "2026-03-08T06:59:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Quijote, traidor, precursor",
-      "subtitle": "El veto de España a Estados Unidos en Morón y Rota causa sensación en Europa y tendrá consecuencias",
-      "url": "https://www.lavanguardia.com/politica/20260307/11483532/quijote-traidor-precursor.html",
-      "scraped_at": "2026-03-07T06:57:55Z"
+      "title": "Venganza por el ayatolá",
+      "subtitle": "Miles de fieles de la República Islámica prometen resistencia y martirio en una vigilia por Ali Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11483972/venganza-ayatola.html",
+      "scraped_at": "2026-03-08T06:59:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "“Estudiamos prolongar la rambla del Raval hasta el mar”",
-      "subtitle": "El comisionado del Pacte per Ciutat Vella, Ivan Pera, explica cómo el Ayuntamiento de Barcelona pretende recuperar la normalidad del distrito más complicado de",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260307/11483481/estudiamos-prolongar-rambla-raval-mar.html",
-      "scraped_at": "2026-03-07T06:57:55Z"
+      "title": "De Rota (1953) a Rota (2026)",
+      "subtitle": "Hablar de las bases militares de EE.UU. en España supone hacerlo del despegue económico español bajo el franquismo y los cambios posteriores en el modelo de",
+      "url": "https://www.lavanguardia.com/economia/20260308/11484001/rota-1953-rota-2026.html",
+      "scraped_at": "2026-03-08T06:59:05Z"
     }
   ]
 }

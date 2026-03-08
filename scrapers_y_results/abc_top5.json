@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Una semana de guerra pone en jaque el comercio mundial: El conflicto obliga a las navieras a redirigir rutas y disparan sus tarifas hasta más de 3.000 euros; Las razones y contradicciones de Trump para la guerra con Irán: Los motivos del Gobierno de Estados Unidos para atacar Irán han ido cambiando con el paso de la campaña militar; ¿Puede Trump embargar a España?: Dentro de su (erróneo) marco conceptual, quien más saldría perdiendo sería la economía estadounidense. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-07T06:57:54Z",
+  "summary": "Resumen del día en ABC.es: El comandante en jefe Trump no desata un apoyo patriótico a la guerra de Irán: El acumulado de encuestas sobre la popularidad de la guerra de RealClearPolitics coloca la aprobación de la guerra en el 41,3% y la oposición en el 48,7%; Submarinos, fragatas o cazas españoles dependen de material de EE.UU.: Numerosos programas esenciales para las Fuerzas Armadas serían inviables sin tecnología estadounidense; Así funciona la maquinaria represiva del régimen iraní: Cortes en las comunicaciones, un Ejército cibernético y tácticas de la vieja escuela como detenciones arbitrarias y pena de muerte para controlar a la población. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-08T06:59:02Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Una semana de guerra pone en jaque el comercio mundial",
-      "subtitle": "El conflicto obliga a las navieras a redirigir rutas y disparan sus tarifas hasta más de 3.000 euros",
-      "url": "https://www.abc.es/economia/guerra-dispara-precio-fletes-maritimos-aseguradoras-cancelan-20260306040255-nt.html",
-      "scraped_at": "2026-03-07T06:57:52Z"
+      "title": "El comandante en jefe Trump no desata un apoyo patriótico a la guerra de Irán",
+      "subtitle": "El acumulado de encuestas sobre la popularidad de la guerra de RealClearPolitics coloca la aprobación de la guerra en el 41,3% y la oposición en el 48,7%",
+      "url": "https://www.abc.es/internacional/comandanteenjefe-trump-desata-apoyo-patriotico-guerra-iran-20260307035125-nt.html",
+      "scraped_at": "2026-03-08T06:59:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las razones y contradicciones de Trump para la guerra con Irán",
-      "subtitle": "Los motivos del Gobierno de Estados Unidos para atacar Irán han ido cambiando con el paso de la campaña militar",
-      "url": "https://www.abc.es/internacional/razones-contradicciones-trump-guerra-iran-20260306040435-nt.html",
-      "scraped_at": "2026-03-07T06:57:53Z"
+      "title": "Submarinos, fragatas o cazas españoles dependen de material de EE.UU.",
+      "subtitle": "Numerosos programas esenciales para las Fuerzas Armadas serían inviables sin tecnología estadounidense",
+      "url": "https://www.abc.es/espana/submarinos-fragatas-cazas-ejercito-espanol-dependen-material-20260308035130-nt.html",
+      "scraped_at": "2026-03-08T06:59:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Puede Trump embargar a España?",
-      "subtitle": "Dentro de su (erróneo) marco conceptual, quien más saldría perdiendo sería la economía estadounidense",
-      "url": "https://www.abc.es/economia/juan-ramon-rallo-puede-trump-embargar-espana-20260307040500-nt.html",
-      "scraped_at": "2026-03-07T06:57:53Z"
+      "title": "Así funciona la maquinaria represiva del régimen iraní",
+      "subtitle": "Cortes en las comunicaciones, un Ejército cibernético y tácticas de la vieja escuela como detenciones arbitrarias y pena de muerte para controlar a la población",
+      "url": "https://www.abc.es/internacional/funciona-maquinaria-represiva-iran-20260308035147-nt.html",
+      "scraped_at": "2026-03-08T06:59:01Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mamaremos doctor Sánchez hasta que las ranas críen pelo",
-      "subtitle": "La derecha española parte de una penosa distorsión cognitiva, que es pensar que el partido de Estado es de izquierdas",
-      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-mamaremos-doctor-sanchez-ranas-crien-pelo-20260306162633-nt.html",
-      "scraped_at": "2026-03-07T06:57:53Z"
+      "title": "La inteligencia artificial amenaza el primer empleo",
+      "subtitle": "La tecnología va sustituyendo a los jóvenes en tareas básicas, que son las que hacen cuando se estrenan en una empresa para después ascender",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/inteligencia-artificial-amenaza-primer-empleo-20260308035214-nt.html",
+      "scraped_at": "2026-03-08T06:59:01Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-07T06:57:54Z"
+      "title": "El demoledor testimonio de un fontanero sobre la vivienda: «Gano 1.400 euros y el 80% se va en la hipoteca»",
+      "subtitle": "Un trabajador con un sueldo poco por encima del mínimo relata el \"sudor y lágrimas\" que cuesta hoy en día comprar una casa en España",
+      "url": "https://www.cope.es/actualidad/economia/noticias/demoledor-testimonio-fontanero-sobre-vivienda-gano-1-400-euros-80-hipoteca-comprar-casa-te-cuesta-sudor-lagrimas-20260307_3322035.html",
+      "scraped_at": "2026-03-08T06:59:02Z"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Ayatolá o el caos: esta es la estrategia para convertir a Irán en el mártir definitivo: Los regímenes que se ahogan no se cortan a la hora de hacer lo que sea necesario para su supervivencia. Aunque eso implique escalar el conflicto; M-70, la mejor obra para Madrid puede ser una autovía que no pase por Madrid: El prometido cierre de la A-40 entre Ocaña y Toledo reaviva el sueño de las capitales más cercanas. Una autovía de circunvalación que una Guadalajara, Toledo, Ávila y Segovia; El riesgo de Vox que puede cristalizar en Castilla y León: \"¿Para qué sirve usted?\": Ignacio Varela y Pablo Pombo analizan los puntos fuertes y débiles de los tres principales competidores. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-07T06:57:56Z",
+  "summary": "Resumen del día en El Confidencial: Uno de cada seis nuevos trabajadores de Madrid vive fuera de la provincia: El área metropolitana de la capital de España se expande en los años de auge del teletrabajo, pero la crisis de la vivienda y la capacidad de los transportes amenazan con frenar la tendencia; Para saber lo que pasa en Castilla y León, hay que fijarse bien en El Bierzo: CyL es una comunidad en la que conviven dos tendencias: el pesimismo y el aspiracionismo, lo que contribuye a que los grandes partidos tengan buenos resultados. Esa tendencia puede cambiar; Presidente de Aena: \"El jurado de nuestro premio estará libre de interferencias editoriales\": Maurici Lucena, en su primera entrevista tras anunciarse la creación del nuevo galardón, entiende que se trata de una acción de mecenazgo y justifica su alta dotación (un millón de euros). Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-08T06:59:08Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Ayatolá o el caos: esta es la estrategia para convertir a Irán en el mártir definitivo",
-      "subtitle": "Los regímenes que se ahogan no se cortan a la hora de hacer lo que sea necesario para su supervivencia. Aunque eso implique escalar el conflicto",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-07/ayatola-caos-esta-es-la-estrategia-para-convertir-a-iran-en-el-martir-definitivo_4316007/",
-      "scraped_at": "2026-03-07T06:57:56Z"
+      "title": "Uno de cada seis nuevos trabajadores de Madrid vive fuera de la provincia",
+      "subtitle": "El área metropolitana de la capital de España se expande en los años de auge del teletrabajo, pero la crisis de la vivienda y la capacidad de los transportes amenazan con frenar la tendencia",
+      "url": "https://www.elconfidencial.com/economia/2026-03-08/uno-cada-seis-nuevos-trabajadores-madrid-vive-fuera_4316483/",
+      "scraped_at": "2026-03-08T06:59:06Z"
     },
     {
       "source": "El Confidencial",
-      "title": "M-70, la mejor obra para Madrid puede ser una autovía que no pase por Madrid",
-      "subtitle": "El prometido cierre de la A-40 entre Ocaña y Toledo reaviva el sueño de las capitales más cercanas. Una autovía de circunvalación que una Guadalajara, Toledo, Ávila y Segovia",
-      "url": "https://www.elconfidencial.com/espana/2026-03-07/autovia-m70-infraestructura-periferia-madrid_4315160/",
-      "scraped_at": "2026-03-07T06:57:56Z"
+      "title": "Para saber lo que pasa en Castilla y León, hay que fijarse bien en El Bierzo",
+      "subtitle": "CyL es una comunidad en la que conviven dos tendencias: el pesimismo y el aspiracionismo, lo que contribuye a que los grandes partidos tengan buenos resultados. Esa tendencia puede cambiar",
+      "url": "https://www.elconfidencial.com/espana/2026-03-08/bierzo-castilla-leon-psoe-vox-upl_4316442/",
+      "scraped_at": "2026-03-08T06:59:07Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El riesgo de Vox que puede cristalizar en Castilla y León: \"¿Para qué sirve usted?\"",
-      "subtitle": "Ignacio Varela y Pablo Pombo analizan los puntos fuertes y débiles de los tres principales competidores",
-      "url": "https://www.elconfidencial.com/espana/2026-03-07/el-riesgo-de-vox-que-puede-cristalizar-en-castilla-y-leon_4316318/",
-      "scraped_at": "2026-03-07T06:57:56Z"
+      "title": "Presidente de Aena: \"El jurado de nuestro premio estará libre de interferencias editoriales\"",
+      "subtitle": "Maurici Lucena, en su primera entrevista tras anunciarse la creación del nuevo galardón, entiende que se trata de una acción de mecenazgo y justifica su alta dotación (un millón de euros)",
+      "url": "https://www.elconfidencial.com/cultura/2026-03-08/premio-aena-narrativa-mecenazgo-1hms_4315673/",
+      "scraped_at": "2026-03-08T06:59:08Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "Hace 24 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2026-03-07T06:57:56Z"
+      "title": "Canarias",
+      "subtitle": "Dos personas fueron atendidas tras precipitarse un biplaza en rocas de La Enramada: una mujer reanimada y trasladada grave a La Candelaria y un hombre con lesiones moderadas al Hospital del Sur",
+      "url": "https://www.elconfidencial.com/espana/islas-canarias/",
+      "scraped_at": "2026-03-08T06:59:08Z"
     }
   ]
 }
