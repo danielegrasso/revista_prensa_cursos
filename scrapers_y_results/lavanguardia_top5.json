@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Crece la preocupación en EE.UU. por el agotamiento del arsenal militar en la guerra de Irán: Un informe del Consejo Nacional de Inteligencia concluyó el mes pasado que es improbable un cambio de régimen en Teherán mediante una campaña de bombardeos masivos; Ocho días de guerra y caos en Oriente Medio: Trump promete más dureza contra Irán, que se disculpa ante los países del Golfo; Trump culpa a Irán del bombardeo de la escuela que dejó más de 150 muertos: Ni Estados Unidos ni Israel han confirmado oficialmente el origen del ataque. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-08T06:59:05Z",
+  "summary": "Resumen del día en La Vanguardia: Los ayatolás retan a Trump y eligen al hijo de Jamenei nuevo líder supremo: Los ayatolás designan a Mojtaba nuevo líder supremo de la República; Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán, un hombre del ala dura: EE.UU. lo había detectado desde hace años como virtual sucesor de su padre; El dilema de las monarquías del Golfo: El conflicto pone a prueba la alianza entre EE.UU. y los países árabes, convertidos en blanco de los ataques de Irán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-09T07:16:05Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Crece la preocupación en EE.UU. por el agotamiento del arsenal militar en la guerra de Irán",
-      "subtitle": "Un informe del Consejo Nacional de Inteligencia concluyó el mes pasado que es improbable un cambio de régimen en Teherán mediante una campaña de bombardeos masivos",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11483998/crece-preocupacion-ee-uu-agotamiento-arsenal-militar-guerra-iran.html",
-      "scraped_at": "2026-03-08T06:59:04Z"
+      "title": "Los ayatolás retan a Trump y eligen al hijo de Jamenei nuevo líder supremo",
+      "subtitle": "Los ayatolás designan a Mojtaba nuevo líder supremo de la República",
+      "url": "https://www.lavanguardia.com/internacional/20260309/11484570/teheran-hora-sucesion.html",
+      "scraped_at": "2026-03-09T07:16:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ocho días de guerra y caos en Oriente Medio",
-      "subtitle": "Trump promete más dureza contra Irán, que se disculpa ante los países del Golfo",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11484002/siete-dias-guerra-caos-oriente-medio.html",
-      "scraped_at": "2026-03-08T06:59:04Z"
+      "title": "Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán, un hombre del ala dura",
+      "subtitle": "EE.UU. lo había detectado desde hace años como virtual sucesor de su padre",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11484591/mojtaba-jamenei-nuevo-lider-supremo-iran-hombre-ala-dura-regimen.html",
+      "scraped_at": "2026-03-09T07:16:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump culpa a Irán del bombardeo de la escuela que dejó más de 150 muertos",
-      "subtitle": "Ni Estados Unidos ni Israel han confirmado oficialmente el origen del ataque",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11484100/trump-culpa-pruebas-iran-bombardeo-escuela-minab-dejo-mas-150-muertos.html",
-      "scraped_at": "2026-03-08T06:59:04Z"
+      "title": "El dilema de las monarquías del Golfo",
+      "subtitle": "El conflicto pone a prueba la alianza entre EE.UU. y los países árabes, convertidos en blanco de los ataques de Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260309/11484380/dilema-monarquias-golfo.html",
+      "scraped_at": "2026-03-09T07:16:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Venganza por el ayatolá",
-      "subtitle": "Miles de fieles de la República Islámica prometen resistencia y martirio en una vigilia por Ali Jamenei",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11483972/venganza-ayatola.html",
-      "scraped_at": "2026-03-08T06:59:04Z"
+      "title": "Los “expats” que viven en los Emiratos por razones fiscales no inspiran pena en el Reino Unido",
+      "subtitle": "Más de 250.000 británicos residen en Dubái para no pagar impuestos y evitar los inviernos fríos y lluviosos",
+      "url": "https://www.lavanguardia.com/internacional/20260309/11484575/expats-viven-emiratos-razones-fiscales-inspiran-pena-reino-unido.html",
+      "scraped_at": "2026-03-09T07:16:04Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "De Rota (1953) a Rota (2026)",
-      "subtitle": "Hablar de las bases militares de EE.UU. en España supone hacerlo del despegue económico español bajo el franquismo y los cambios posteriores en el modelo de",
-      "url": "https://www.lavanguardia.com/economia/20260308/11484001/rota-1953-rota-2026.html",
-      "scraped_at": "2026-03-08T06:59:05Z"
+      "title": "Wang Yi: “El mundo no puede volver a la ley de la selva”",
+      "subtitle": "El jefe de la diplomacia china se perfila como mediador en Irán en su rueda de prensa anual",
+      "url": "https://www.lavanguardia.com/internacional/20260308/11484330/wang-yi-mundo-volver-ley-selva.html",
+      "scraped_at": "2026-03-09T07:16:05Z"
     }
   ]
 }
