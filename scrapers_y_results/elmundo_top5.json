@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El PP crece mientras Vox acaricia ya el 20% y el PSOE se estanca en Castilla y León: Los 'populares' podrían ocupar entre 31 y 34 escaños. El partido de Abascal tiene posibilidades de escalar hasta los 17. Los socialistas se quedan en 26-28; Los mercados se ponen muy nerviosos y se preguntan si Donald Trump tendrá que dar marcha atrás en Irán: El petróleo sube un 25% en pocas horas y dispara el miedo en los analistas, que auguran una crisis de inflación y una caída del PIB si el petróleo se queda por encima de los 100 dólares el barril; Las bolsas asiáticas se desploman mientras el petróleo sube por encima de los 115 dólares el barril por la guerra: La combinación de tensión militar y el miedo de mayores interrupciones en el suministro energético global dispara la aversión al riesgo entre inversores, provocando ventas masivas de acciones y un éxodo hacia activos refugio. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-09T07:15:53Z",
+  "summary": "Resumen del día en El Mundo: \"Tengo dos problemas en el Consejo: Sánchez y Orban\": Von der Leyen ve al presidente español como un obstáculo porque busca \"su beneficio electoral\": La responsable del Ejecutivo comunitario traslada a su círculo más cercano que ambos líderes rechazan de manera habitual sus propuesta sólo por \"obtener un rédito político nacional\"; Von der Leyen abraza al nuevo orden mundial frente a la vieja UE basada en las normas: \"Se está imponiendo la ley del más fuerte\": La presidenta de la Comisión defiende que Europa ya no puede ser \"la guardiana de un mundo que ha desaparecido y no volverá\", y exige dejar de lado la \"nostalgia\" y el \"lamento\" por los tiempos pasados; Trump se muestra optimista sobre el final de la guerra en Irán pero manda mensajes contradictorios: \"No hemos ganado suficiente\": Dice que su conversación de hoy con Putin ha sido \"positiva\" y se abre a retirar más sanciones para contener el precio del petróleo. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-10T07:06:48Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El PP crece mientras Vox acaricia ya el 20% y el PSOE se estanca en Castilla y León",
-      "subtitle": "Los 'populares' podrían ocupar entre 31 y 34 escaños. El partido de Abascal tiene posibilidades de escalar hasta los 17. Los socialistas se quedan en 26-28",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/03/08/69adbdeee85ecef93a8b4588.html",
-      "scraped_at": "2026-03-09T07:15:52Z"
+      "title": "\"Tengo dos problemas en el Consejo: Sánchez y Orban\": Von der Leyen ve al presidente español como un obstáculo porque busca \"su beneficio electoral\"",
+      "subtitle": "La responsable del Ejecutivo comunitario traslada a su círculo más cercano que ambos líderes rechazan de manera habitual sus propuesta sólo por \"obtener un rédito político nacional\"",
+      "url": "https://www.elmundo.es/espana/2026/03/09/69af3364e4d4d83d3a8b45b3.html",
+      "scraped_at": "2026-03-10T07:06:47Z"
     },
     {
       "source": "El Mundo",
-      "title": "Los mercados se ponen muy nerviosos y se preguntan si Donald Trump tendrá que dar marcha atrás en Irán",
-      "subtitle": "El petróleo sube un 25% en pocas horas y dispara el miedo en los analistas, que auguran una crisis de inflación y una caída del PIB si el petróleo se queda por encima de los 100 dólares el barril",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/03/09/69ae66e6e4d4d811228b4576.html",
-      "scraped_at": "2026-03-09T07:15:53Z"
+      "title": "Von der Leyen abraza al nuevo orden mundial frente a la vieja UE basada en las normas: \"Se está imponiendo la ley del más fuerte\"",
+      "subtitle": "La presidenta de la Comisión defiende que Europa ya no puede ser \"la guardiana de un mundo que ha desaparecido y no volverá\", y exige dejar de lado la \"nostalgia\" y el \"lamento\" por los tiempos pasados",
+      "url": "https://www.elmundo.es/internacional/2026/03/10/69af0b67e4d4d844618b457d.html",
+      "scraped_at": "2026-03-10T07:06:47Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las bolsas asiáticas se desploman mientras el petróleo sube por encima de los 115 dólares el barril por la guerra",
-      "subtitle": "La combinación de tensión militar y el miedo de mayores interrupciones en el suministro energético global dispara la aversión al riesgo entre inversores, provocando ventas masivas de acciones y un éxodo hacia activos refugio",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/03/09/69ae649cfdddff84548b4570.html",
-      "scraped_at": "2026-03-09T07:15:53Z"
+      "title": "Trump se muestra optimista sobre el final de la guerra en Irán pero manda mensajes contradictorios: \"No hemos ganado suficiente\"",
+      "subtitle": "Dice que su conversación de hoy con Putin ha sido \"positiva\" y se abre a retirar más sanciones para contener el precio del petróleo",
+      "url": "https://www.elmundo.es/internacional/2026/03/09/69af4dc6e85ecedd398b4573.html",
+      "scraped_at": "2026-03-10T07:06:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "'Cristóbal Colón', la fragata más moderna de la Armada española exhibe poderío junto al 'Charles de Gaulle', el único portaviones europeo de propulsión nuclear",
-      "subtitle": "El barco francés no es solamente un artefacto militar poderoso, sino la bandera flotante de un país y todo cuanto eso significa, implica y expresa",
-      "url": "https://www.elmundo.es/espana/2026/03/09/69adb2a921efa0c5718b456d.html",
-      "scraped_at": "2026-03-09T07:15:53Z"
+      "title": "La nueva guerra del agua: las plantas desalinizadoras del Golfo, el objetivo militar más peligroso",
+      "subtitle": "Los países del Golfo producen cerca del 40% del agua desalinizada del mundo",
+      "url": "https://www.elmundo.es/internacional/2026/03/09/69af1194fc6c8373428b4576.html",
+      "scraped_at": "2026-03-10T07:06:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "Carlos Angrisano",
-      "subtitle": "Fuentes de Génova explican que Carlo Angrisano dejó hace tiempo de ejercer sus funciones como asesor en el Parlamento Europeo e ironizan: \"Su marcha no es una fuga de cerebros\"",
-      "url": "https://www.elmundo.es/espana/2026/03/08/69adc5c3e85ecedd298b4588.html",
-      "scraped_at": "2026-03-09T07:15:53Z"
+      "title": "Armamento español",
+      "subtitle": "El sistema de detección del Ejército de Tierra fue el que proporcionó información a EEUU para efectuar el derribo de artefactos lanzados por Teherán",
+      "url": "https://www.elmundo.es/espana/2026/03/09/69af1de4fdddff0d218b45b0.html",
+      "scraped_at": "2026-03-10T07:06:48Z"
     }
   ]
 }

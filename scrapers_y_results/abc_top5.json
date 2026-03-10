@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Estados Unidos vincula un pago de Plus Ultra con una gran red de corrupción venezolana: Un documento oficial sitúa un pago de la aerolínea dentro de una red financiera vinculada a Alex Saab, considerado durante años el testaferro de Nicolás Maduro, de nuevo investigado por la Fiscalía norteamericana; PP y Vox se consolidan en Castilla y León con un PSOE que resiste: El PSOE se deja dos puntos porcentuales, pero resiste en escaños e incluso gana un procurador; Irán nombra al hijo de Jamenei como nuevo líder supremo, elegido bajo amenaza de muerte: Las autoridades iraníes han confirmado la identidad de quien se convertirá en el principal blanco de los ataques de Washington y Tel Aviv. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-09T07:16:00Z",
+  "summary": "Resumen del día en ABC.es: La trama de Forestalia copió los métodos de Cerdán para cobrar presuntamente las mordidas: La Guardia Civil encontró un contrato de compraventa privado del alto cargo de Ribera en la caja fuerte de un notario; La empresa de la piedra de las vías de Adamuz fichó a la mujer de Koldo mientras estuvo en Adif: Áridos Anfersa hizo pagos a Patricia Uriz hasta junio de 2023, cuando la sociedad pública rescindió el acuerdo para el suministro de balasto de la línea Madrid-Sevilla; La OTAN reúne a 14 países en unas maniobras que buscan blindar el Ártico: Este año, por primera vez, Cold Response forma parte de la nueva Operación Arctic Sentry de la Alianza, establecida hace sólo dos meses, durante la crisis de Groenlandia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-10T07:06:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Estados Unidos vincula un pago de Plus Ultra con una gran red de corrupción venezolana",
-      "subtitle": "Un documento oficial sitúa un pago de la aerolínea dentro de una red financiera vinculada a Alex Saab, considerado durante años el testaferro de Nicolás Maduro, de nuevo investigado por la Fiscalía norteamericana",
-      "url": "https://www.abc.es/espana/tesoro-eeuu-vincula-transferencia-plus-ultra-gran-20260308040507-nt.html",
-      "scraped_at": "2026-03-09T07:15:58Z"
+      "title": "La trama de Forestalia copió los métodos de Cerdán para cobrar presuntamente las mordidas",
+      "subtitle": "La Guardia Civil encontró un contrato de compraventa privado del alto cargo de Ribera en la caja fuerte de un notario",
+      "url": "https://www.abc.es/espana/aragon/trama-forestalia-copio-metodos-cerdan-cobrar-presuntamente-20260310040225-nt.html",
+      "scraped_at": "2026-03-10T07:06:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "PP y Vox se consolidan en Castilla y León con un PSOE que resiste",
-      "subtitle": "El PSOE se deja dos puntos porcentuales, pero resiste en escaños e incluso gana un procurador",
-      "url": "https://www.abc.es/espana/derecha-consolidaria-auge-castilla-leon-subidas-pp-20260309215938-nt.html",
-      "scraped_at": "2026-03-09T07:15:59Z"
+      "title": "La empresa de la piedra de las vías de Adamuz fichó a la mujer de Koldo mientras estuvo en Adif",
+      "subtitle": "Áridos Anfersa hizo pagos a Patricia Uriz hasta junio de 2023, cuando la sociedad pública rescindió el acuerdo para el suministro de balasto de la línea Madrid-Sevilla",
+      "url": "https://www.abc.es/espana/andalucia/empresa-aportaba-piedra-20260310163632-nts.html",
+      "scraped_at": "2026-03-10T07:06:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Irán nombra al hijo de Jamenei como nuevo líder supremo, elegido bajo amenaza de muerte",
-      "subtitle": "Las autoridades iraníes han confirmado la identidad de quien se convertirá en el principal blanco de los ataques de Washington y Tel Aviv",
-      "url": "https://www.abc.es/internacional/iran-designa-nuevo-lider-supremo-sucedor-jamenei-20260308120331-nt.html",
-      "scraped_at": "2026-03-09T07:16:00Z"
+      "title": "La OTAN reúne a 14 países en unas maniobras que buscan blindar el Ártico",
+      "subtitle": "Este año, por primera vez, Cold Response forma parte de la nueva Operación Arctic Sentry de la Alianza, establecida hace sólo dos meses, durante la crisis de Groenlandia",
+      "url": "https://www.abc.es/internacional/blindar-artico-20260309042805-nt.html",
+      "scraped_at": "2026-03-10T07:06:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las constructoras exigirán ayudas a las obras públicas por la guerra: «Podrían abandonarse»",
-      "subtitle": "Piden recuperar el mecanismo de revisión de precios y anticipan que puede afectar también a la entrega de viviendas",
-      "url": "https://www.abc.es/economia/constructoras-exigiran-ayudas-obras-publicas-guerra-abandonarse-20260306040615-nt.html",
-      "scraped_at": "2026-03-09T07:16:00Z"
+      "title": "Javier Gil: «El nuevo líder supremo de Irán no es una figura para tender puentes, es el arquitecto de la represión»",
+      "subtitle": "Mojtaba Jamenei «aboga por una política de mano dura contra los sectores más moderados y reformistas dentro de Irán», según el analista",
+      "url": "https://www.abc.es/internacional/javier-gil-mojtaba-jamenei-figura-tender-puentes-20260309042856-nt.html",
+      "scraped_at": "2026-03-10T07:06:54Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-09T07:16:00Z"
+      "scraped_at": "2026-03-10T07:06:55Z"
     }
   ]
 }

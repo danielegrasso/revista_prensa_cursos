@@ -1,35 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Mojtaba Jamenei, el candidato de la Guardia Revolucionaria para desafiar a Trump: El líder supremo de Irán es la pieza central del sistema político de la República Islámica. Mojtaba Jamenei representa a la línea más dura de entre los posibles candidatos; Radiografía de la casa del futuro: vivir en 40 m² en un salón-comedor-cocina-estudio: El aumento del precio del metro cuadrado y la reducción de las familias van a dejar un reguero de cadáveres en su camino. Primero la cocina, pero no solo ella; El PP aprieta en Castilla y León para evitar otra victoria amarga y encontrar el techo de Vox: Feijóo se lanza a rentabilizar el bloqueo en Extremadura y sitúa a Vox como sinónimo de inestabilidad. Mañueco aspira a mejorar como mínimo un escaño por Burgos e implica a barones, diputados, senadores y alcaldes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-09T07:16:07Z",
+  "summary": "Resumen del día en El Confidencial: De Barcelona a Múnich: mapa del precio de la vivienda en Europa, municipio a municipio: Por primera vez accedemos a datos a nivel local para toda Europa sobre los precios de la vivienda. Utilice los botones del mapa para consultar el precio del m² o el esfuerzo de compra en cada ciudad; Este es el programa que Bertín presentará en A3, acompañado de su hija: El presentador y cantante regresa a Atresmedia tras su participación en la duodécima edición de &#039;Tu cara me suena&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-10T07:07:00Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Mojtaba Jamenei, el candidato de la Guardia Revolucionaria para desafiar a Trump",
-      "subtitle": "El líder supremo de Irán es la pieza central del sistema político de la República Islámica. Mojtaba Jamenei representa a la línea más dura de entre los posibles candidatos",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-08/eleccion-nuevo-lider-supremo-ayatola_4313924/",
-      "scraped_at": "2026-03-09T07:16:06Z"
+      "title": "De Barcelona a Múnich: mapa del precio de la vivienda en Europa, municipio a municipio",
+      "subtitle": "Por primera vez accedemos a datos a nivel local para toda Europa sobre los precios de la vivienda. Utilice los botones del mapa para consultar el precio del m² o el esfuerzo de compra en cada ciudad",
+      "url": "https://www.elconfidencial.com/inmobiliario/2026-03-10/mapa-precio-vivienda-europa-municipio_4315267/",
+      "scraped_at": "2026-03-10T07:07:00Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Radiografía de la casa del futuro: vivir en 40 m² en un salón-comedor-cocina-estudio",
-      "subtitle": "El aumento del precio del metro cuadrado y la reducción de las familias van a dejar un reguero de cadáveres en su camino. Primero la cocina, pero no solo ella",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-03-09/radiografia-casa-futuro-salon-comedor-cocina_4315292/",
-      "scraped_at": "2026-03-09T07:16:06Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El PP aprieta en Castilla y León para evitar otra victoria amarga y encontrar el techo de Vox",
-      "subtitle": "Feijóo se lanza a rentabilizar el bloqueo en Extremadura y sitúa a Vox como sinónimo de inestabilidad. Mañueco aspira a mejorar como mínimo un escaño por Burgos e implica a barones, diputados, senadores y alcaldes",
-      "url": "https://www.elconfidencial.com/espana/2026-03-09/pp-aprieta-castilla-leon-evitar-victoria-amarga-el-techo-vox_4316195/",
-      "scraped_at": "2026-03-09T07:16:07Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Detenido por robar 112 colmenas de abejas en Valencia por 10.000 €",
-      "subtitle": "Detienen en Picassent a un sospechoso con colmenas robadas repintadas; la investigación del equipo Roca permitió recuperar 67 de 112 y constatar conexión con sustracciones en La Canal de Navarrés",
-      "url": "https://www.elconfidencial.com/espana/2026-03-08/guardia-civil-colmenas-hurto-valencia-1tna-1tps_4316693/",
-      "scraped_at": "2026-03-09T07:16:07Z"
+      "title": "Este es el programa que Bertín presentará en A3, acompañado de su hija",
+      "subtitle": "El presentador y cantante regresa a Atresmedia tras su participación en la duodécima edición de &#039;Tu cara me suena&#039;",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-09/bertin-osborne-hija-eugenia-presentadores-antena3_4317149/",
+      "scraped_at": "2026-03-10T07:07:00Z"
     }
   ]
 }

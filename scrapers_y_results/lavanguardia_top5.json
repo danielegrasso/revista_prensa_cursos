@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los ayatolás retan a Trump y eligen al hijo de Jamenei nuevo líder supremo: Los ayatolás designan a Mojtaba nuevo líder supremo de la República; Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán, un hombre del ala dura: EE.UU. lo había detectado desde hace años como virtual sucesor de su padre; El dilema de las monarquías del Golfo: El conflicto pone a prueba la alianza entre EE.UU. y los países árabes, convertidos en blanco de los ataques de Irán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-09T07:16:05Z",
+  "summary": "Resumen del día en La Vanguardia: Trump da la guerra en Irán por “casi terminada” y Teherán replica: “Determinaremos nosotros su fin”: El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año; El G-7 se plantea recurrir a sus reservas para frenar la escalada histórica del petróleo: El precio del barril de crudo llega a rozar los 120 dólares ante la incógnita bélica; Mojtaba Jamenei, el hijo del padre: La misma Revolución Islámica que tumbó al ‘rey de reyes’ apuesta por una sucesión dentro de la familia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-10T07:06:58Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los ayatolás retan a Trump y eligen al hijo de Jamenei nuevo líder supremo",
-      "subtitle": "Los ayatolás designan a Mojtaba nuevo líder supremo de la República",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11484570/teheran-hora-sucesion.html",
-      "scraped_at": "2026-03-09T07:16:03Z"
+      "title": "Trump da la guerra en Irán por “casi terminada” y Teherán replica: “Determinaremos nosotros su fin”",
+      "subtitle": "El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año",
+      "url": "https://www.lavanguardia.com/internacional/20260309/11485587/trump-afirma-guerra-iran-esta-practicamente-terminada.html",
+      "scraped_at": "2026-03-10T07:06:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán, un hombre del ala dura",
-      "subtitle": "EE.UU. lo había detectado desde hace años como virtual sucesor de su padre",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11484591/mojtaba-jamenei-nuevo-lider-supremo-iran-hombre-ala-dura-regimen.html",
-      "scraped_at": "2026-03-09T07:16:03Z"
+      "title": "El G-7 se plantea recurrir a sus reservas para frenar la escalada histórica del petróleo",
+      "subtitle": "El precio del barril de crudo llega a rozar los 120 dólares ante la incógnita bélica",
+      "url": "https://www.lavanguardia.com/economia/20260309/11485564/g-7-debate-soltar-reservas-frenar-escalada-historica-petroleo.html",
+      "scraped_at": "2026-03-10T07:06:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El dilema de las monarquías del Golfo",
-      "subtitle": "El conflicto pone a prueba la alianza entre EE.UU. y los países árabes, convertidos en blanco de los ataques de Irán",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11484380/dilema-monarquias-golfo.html",
-      "scraped_at": "2026-03-09T07:16:04Z"
+      "title": "Mojtaba Jamenei, el hijo del padre",
+      "subtitle": "La misma Revolución Islámica que tumbó al ‘rey de reyes’ apuesta por una sucesión dentro de la familia",
+      "url": "https://www.lavanguardia.com/internacional/20260310/11485579/mojtaba-hijo-padre.html",
+      "scraped_at": "2026-03-10T07:06:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los “expats” que viven en los Emiratos por razones fiscales no inspiran pena en el Reino Unido",
-      "subtitle": "Más de 250.000 británicos residen en Dubái para no pagar impuestos y evitar los inviernos fríos y lluviosos",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11484575/expats-viven-emiratos-razones-fiscales-inspiran-pena-reino-unido.html",
-      "scraped_at": "2026-03-09T07:16:04Z"
+      "title": "Espías, gas y fragatas en el tablero de Chipre",
+      "subtitle": "Un dron pone en alerta a Europa y expone el papel de la isla como centro estratégico en el flanco oriental del Mediterráneo",
+      "url": "https://www.lavanguardia.com/internacional/20260309/11485501/espias-gas-fragatas-tablero-chipre.html",
+      "scraped_at": "2026-03-10T07:06:58Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Wang Yi: “El mundo no puede volver a la ley de la selva”",
-      "subtitle": "El jefe de la diplomacia china se perfila como mediador en Irán en su rueda de prensa anual",
-      "url": "https://www.lavanguardia.com/internacional/20260308/11484330/wang-yi-mundo-volver-ley-selva.html",
-      "scraped_at": "2026-03-09T07:16:05Z"
+      "title": "El MNAC, un proyecto de país en marcha",
+      "subtitle": "Ayer se desveló el proyecto arquitectónico de ampliación del Museu Nacional d’Art de Catalunya (MNAC), buque insignia de la red de museos catalanes, situado en la",
+      "url": "https://www.lavanguardia.com/opinion/20260310/11485582/mnac-proyecto-pais-marcha.html",
+      "scraped_at": "2026-03-10T07:06:58Z"
     }
   ]
 }
