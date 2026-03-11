@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump da la guerra en Irán por “casi terminada” y Teherán replica: “Determinaremos nosotros su fin”: El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año; El G-7 se plantea recurrir a sus reservas para frenar la escalada histórica del petróleo: El precio del barril de crudo llega a rozar los 120 dólares ante la incógnita bélica; Mojtaba Jamenei, el hijo del padre: La misma Revolución Islámica que tumbó al ‘rey de reyes’ apuesta por una sucesión dentro de la familia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-10T07:06:58Z",
+  "summary": "Resumen del día en La Vanguardia: La factura de EE.UU. en munición subió a 5.600 millones en los dos primeros días de guerra: La administración Trump trata de contrarrestar las inquietudes por la falta de reservas de armamento y el peligro de su agotamiento; La Armada Vencible: el poder militar del Reino Unido, en horas bajas: Con su menor presencia en el Golfo Pérsico en seis dècadas, la Royal Navy es una sombra de lo que era; Von der Leyen ve “un error estratégico” la reducción del peso de la nuclear en la UE: La dirigente señala que la guerra en Oriente Medio es un “duro recordatorio” de la vulnerabilidad europea en energía y presenta un nuevo paquete para impulsar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-11T07:09:37Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump da la guerra en Irán por “casi terminada” y Teherán replica: “Determinaremos nosotros su fin”",
-      "subtitle": "El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11485587/trump-afirma-guerra-iran-esta-practicamente-terminada.html",
-      "scraped_at": "2026-03-10T07:06:57Z"
+      "title": "La factura de EE.UU. en munición subió a 5.600 millones en los dos primeros días de guerra",
+      "subtitle": "La administración Trump trata de contrarrestar las inquietudes por la falta de reservas de armamento y el peligro de su agotamiento",
+      "url": "https://www.lavanguardia.com/internacional/20260310/11486423/factura-ee-uu-municion-subio-5-600-millones-dos-primeros-dias-guerra.html",
+      "scraped_at": "2026-03-11T07:09:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El G-7 se plantea recurrir a sus reservas para frenar la escalada histórica del petróleo",
-      "subtitle": "El precio del barril de crudo llega a rozar los 120 dólares ante la incógnita bélica",
-      "url": "https://www.lavanguardia.com/economia/20260309/11485564/g-7-debate-soltar-reservas-frenar-escalada-historica-petroleo.html",
-      "scraped_at": "2026-03-10T07:06:57Z"
+      "title": "La Armada Vencible: el poder militar del Reino Unido, en horas bajas",
+      "subtitle": "Con su menor presencia en el Golfo Pérsico en seis dècadas, la Royal Navy es una sombra de lo que era",
+      "url": "https://www.lavanguardia.com/internacional/20260311/11486493/armada-vencible.html",
+      "scraped_at": "2026-03-11T07:09:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Mojtaba Jamenei, el hijo del padre",
-      "subtitle": "La misma Revolución Islámica que tumbó al ‘rey de reyes’ apuesta por una sucesión dentro de la familia",
-      "url": "https://www.lavanguardia.com/internacional/20260310/11485579/mojtaba-hijo-padre.html",
-      "scraped_at": "2026-03-10T07:06:57Z"
+      "title": "Von der Leyen ve “un error estratégico” la reducción del peso de la nuclear en la UE",
+      "subtitle": "La dirigente señala que la guerra en Oriente Medio es un “duro recordatorio” de la vulnerabilidad europea en energía y presenta un nuevo paquete para impulsar",
+      "url": "https://www.lavanguardia.com/economia/20260310/11485974/von-der-leyen-senala-reduccion-peso-nuclear-error-estrategico-europeo.html",
+      "scraped_at": "2026-03-11T07:09:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Espías, gas y fragatas en el tablero de Chipre",
-      "subtitle": "Un dron pone en alerta a Europa y expone el papel de la isla como centro estratégico en el flanco oriental del Mediterráneo",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11485501/espias-gas-fragatas-tablero-chipre.html",
-      "scraped_at": "2026-03-10T07:06:58Z"
+      "title": "El ‘moderno’ orden mundial",
+      "subtitle": "Hace menos de una semana destacaba en esta misma sección la discordancia existente entre los líderes europeos al abordar el conflicto de Irán y la dificultad para",
+      "url": "https://www.lavanguardia.com/opinion/20260311/11486501/moderno-orden-mundial.html",
+      "scraped_at": "2026-03-11T07:09:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El MNAC, un proyecto de país en marcha",
-      "subtitle": "Ayer se desveló el proyecto arquitectónico de ampliación del Museu Nacional d’Art de Catalunya (MNAC), buque insignia de la red de museos catalanes, situado en la",
-      "url": "https://www.lavanguardia.com/opinion/20260310/11485582/mnac-proyecto-pais-marcha.html",
-      "scraped_at": "2026-03-10T07:06:58Z"
+      "title": "Repsol todavía ve el impacto de la guerra menor que el sufrido en el 2022",
+      "subtitle": "La compañía presentó un plan estratégico con hasta 10.000 millones de inversión",
+      "url": "https://www.lavanguardia.com/economia/20260310/11486431/repsol-todavia-ve-impacto-guerra-menor-sufrido-2022.html",
+      "scraped_at": "2026-03-11T07:09:37Z"
     }
   ]
 }
