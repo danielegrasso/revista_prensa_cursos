@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El alto cargo de Ribera detenido reclutó a fieles para blindar a Forestalia: Domínguez, investigado en el marco de la operación Perserte, tenía a su gente de confianza en Tragsatec; Junqueras descubrió en su reunión con Sánchez que Illa le engañó respecto a la cesión del IRPF: Salvador Illa no ha declarado oficialmente que convocará elecciones si no tiene presupuestos, pero su entorno le ve decidido a ello; Trump prepara su «misión cumplida» en Irán mientras la guerra sacude los mercados: En una reunión con senadores, miembros de la Administración advirtieron de que aún es pronto para declarar victoria y que el conflicto puede escalar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-11T07:09:34Z",
+  "summary": "Resumen del día en ABC.es: María Corina pide al Rey que España defienda su causa en Venezuela: La líder opositora venezolana y Felipe VI coincidieron en la toma de posesión del nuevo presidente de Chile, José Antonio Kast; Trump vuelve a golpear a la UE con una investigación para aplicar más aranceles: Acusa a los países europeos de haber hecho «aproximadamente el 0%» de lo pactado para mantener los gravámenes en el 15%; La vida de Maduro entre rejas en Nueva York: «¡Yo soy el presidente!»: Aislado en una celda de tres metros de largo por dos de ancho, con una cama metálica y un ventanuco, el exdictador venezolano solo puede salir tres veces por semana a un pequeño patio y de noche chilla como un loco que está secuestrado por Estados Unidos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-12T07:11:24Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El alto cargo de Ribera detenido reclutó a fieles para blindar a Forestalia",
-      "subtitle": "Domínguez, investigado en el marco de la operación Perserte, tenía a su gente de confianza en Tragsatec",
-      "url": "https://www.abc.es/espana/aragon/alto-cargo-ribera-monto-guardia-pretoriana-garantizar-20260311040123-nt.html",
-      "scraped_at": "2026-03-11T07:09:34Z"
+      "title": "María Corina pide al Rey que España defienda su causa en Venezuela",
+      "subtitle": "La líder opositora venezolana y Felipe VI coincidieron en la toma de posesión del nuevo presidente de Chile, José Antonio Kast",
+      "url": "https://www.abc.es/espana/casa-real/machado-plantea-rey-espana-oportunidad-historica-defender-20260312040201-nt.html",
+      "scraped_at": "2026-03-12T07:11:23Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junqueras descubrió en su reunión con Sánchez que Illa le engañó respecto a la cesión del IRPF",
-      "subtitle": "Salvador Illa no ha declarado oficialmente que convocará elecciones si no tiene presupuestos, pero su entorno le ve decidido a ello",
-      "url": "https://www.abc.es/espana/cataluna/junqueras-descubrio-reunion-sanchez-illa-mintio-sobre-20260311040236-nt.html",
-      "scraped_at": "2026-03-11T07:09:34Z"
+      "title": "Trump vuelve a golpear a la UE con una investigación para aplicar más aranceles",
+      "subtitle": "Acusa a los países europeos de haber hecho «aproximadamente el 0%» de lo pactado para mantener los gravámenes en el 15%",
+      "url": "https://www.abc.es/internacional/trump-vuelve-golpear-ue-investigacion-aplicar-aranceles-20260311222714-nt.html",
+      "scraped_at": "2026-03-12T07:11:23Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump prepara su «misión cumplida» en Irán mientras la guerra sacude los mercados",
-      "subtitle": "En una reunión con senadores, miembros de la Administración advirtieron de que aún es pronto para declarar victoria y que el conflicto puede escalar",
-      "url": "https://www.abc.es/internacional/trump-prepara-mision-cumplida-iran-guerra-sacude-20260309040257-nt.html",
-      "scraped_at": "2026-03-11T07:09:34Z"
+      "title": "La vida de Maduro entre rejas en Nueva York: «¡Yo soy el presidente!»",
+      "subtitle": "Aislado en una celda de tres metros de largo por dos de ancho, con una cama metálica y un ventanuco, el exdictador venezolano solo puede salir tres veces por semana a un pequeño patio y de noche chilla como un loco que está secuestrado por Estados Unidos",
+      "url": "https://www.abc.es/internacional/vida-maduro-rejas-nueva-york-secuestrado-20260227040255-nt.html",
+      "scraped_at": "2026-03-12T07:11:23Z"
     },
     {
       "source": "ABC.es",
-      "title": "España se juega un negocio de 600 millones al mes en el estrecho de Ormuz",
-      "subtitle": "Varios miembros del Gobierno han estado en los últimos años en países del Golfo Pérsico para estrechar relaciones comerciales",
-      "url": "https://www.abc.es/economia/espana-juega-negocio-600-millones-mes-estrecho-20260311040442-nt.html",
-      "scraped_at": "2026-03-11T07:09:34Z"
+      "title": "Irán agudiza la guerra fría entre Sánchez y Feijóo: «No se contemplan contactos»",
+      "subtitle": "La interlocución al más alto nivel está rota: «El PP ha hecho mucho para que no haya una relación cordial»",
+      "url": "https://www.abc.es/espana/iran-agudiza-guerra-fria-sanchez-feijoo-contemplan-20260312040353-nt.html",
+      "scraped_at": "2026-03-12T07:11:24Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-11T07:09:34Z"
+      "scraped_at": "2026-03-12T07:11:24Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La factura de EE.UU. en munición subió a 5.600 millones en los dos primeros días de guerra: La administración Trump trata de contrarrestar las inquietudes por la falta de reservas de armamento y el peligro de su agotamiento; La Armada Vencible: el poder militar del Reino Unido, en horas bajas: Con su menor presencia en el Golfo Pérsico en seis dècadas, la Royal Navy es una sombra de lo que era; Von der Leyen ve “un error estratégico” la reducción del peso de la nuclear en la UE: La dirigente señala que la guerra en Oriente Medio es un “duro recordatorio” de la vulnerabilidad europea en energía y presenta un nuevo paquete para impulsar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-11T07:09:37Z",
+  "summary": "Resumen del día en La Vanguardia: La guerra se focaliza en Ormuz: El Pentágono quiere atacar los puertos civiles para evitar el minado del estrecho; Combates cuerpo a cuerpo en Líbano: Israel da señales de prepararse para un largo conflicto: Hizbulah cambia su estrategia mientras soporta los ataques aéreos sobre el sur de Beirut y la ofensiva terrestre en la frontera con Israel; Los berrinches de Donald Trump: El encontronazo con Estados Unidos debido al no a la guerra de Pedro Sánchez es grave, pero no serio. Es grave porque estos encontronazos siempre lo son. Los roces entre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-12T07:11:28Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La factura de EE.UU. en munición subió a 5.600 millones en los dos primeros días de guerra",
-      "subtitle": "La administración Trump trata de contrarrestar las inquietudes por la falta de reservas de armamento y el peligro de su agotamiento",
-      "url": "https://www.lavanguardia.com/internacional/20260310/11486423/factura-ee-uu-municion-subio-5-600-millones-dos-primeros-dias-guerra.html",
-      "scraped_at": "2026-03-11T07:09:36Z"
+      "title": "La guerra se focaliza en Ormuz",
+      "subtitle": "El Pentágono quiere atacar los puertos civiles para evitar el minado del estrecho",
+      "url": "https://www.lavanguardia.com/internacional/20260312/11487484/guerra-focaliza-ormuz.html",
+      "scraped_at": "2026-03-12T07:11:26Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La Armada Vencible: el poder militar del Reino Unido, en horas bajas",
-      "subtitle": "Con su menor presencia en el Golfo Pérsico en seis dècadas, la Royal Navy es una sombra de lo que era",
-      "url": "https://www.lavanguardia.com/internacional/20260311/11486493/armada-vencible.html",
-      "scraped_at": "2026-03-11T07:09:36Z"
+      "title": "Combates cuerpo a cuerpo en Líbano: Israel da señales de prepararse para un largo conflicto",
+      "subtitle": "Hizbulah cambia su estrategia mientras soporta los ataques aéreos sobre el sur de Beirut y la ofensiva terrestre en la frontera con Israel",
+      "url": "https://www.lavanguardia.com/internacional/20260312/11487504/libano-unico-pais-guerra-oriente-medio-combate-cuerpo-cuerpo.html",
+      "scraped_at": "2026-03-12T07:11:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Von der Leyen ve “un error estratégico” la reducción del peso de la nuclear en la UE",
-      "subtitle": "La dirigente señala que la guerra en Oriente Medio es un “duro recordatorio” de la vulnerabilidad europea en energía y presenta un nuevo paquete para impulsar",
-      "url": "https://www.lavanguardia.com/economia/20260310/11485974/von-der-leyen-senala-reduccion-peso-nuclear-error-estrategico-europeo.html",
-      "scraped_at": "2026-03-11T07:09:36Z"
+      "title": "Los berrinches de Donald Trump",
+      "subtitle": "El encontronazo con Estados Unidos debido al no a la guerra de Pedro Sánchez es grave, pero no serio. Es grave porque estos encontronazos siempre lo son. Los roces entre",
+      "url": "https://www.lavanguardia.com/politica/20260312/11487387/berrinches-donald-trump.html",
+      "scraped_at": "2026-03-12T07:11:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El ‘moderno’ orden mundial",
-      "subtitle": "Hace menos de una semana destacaba en esta misma sección la discordancia existente entre los líderes europeos al abordar el conflicto de Irán y la dificultad para",
-      "url": "https://www.lavanguardia.com/opinion/20260311/11486501/moderno-orden-mundial.html",
-      "scraped_at": "2026-03-11T07:09:36Z"
+      "title": "Scott Anderson: “Trump no tiene un plan para salir de Irán”",
+      "subtitle": "El periodista estadounidense publica ‘Rey de reyes’, crónica de la revolución islámica que puso fin a la alianza entre Washington y Teherán",
+      "url": "https://www.lavanguardia.com/internacional/20260312/11487165/scott-anderson-trump-plan-salir-iran.html",
+      "scraped_at": "2026-03-12T07:11:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Repsol todavía ve el impacto de la guerra menor que el sufrido en el 2022",
-      "subtitle": "La compañía presentó un plan estratégico con hasta 10.000 millones de inversión",
-      "url": "https://www.lavanguardia.com/economia/20260310/11486431/repsol-todavia-ve-impacto-guerra-menor-sufrido-2022.html",
-      "scraped_at": "2026-03-11T07:09:37Z"
+      "title": "El Badalona Women sueña con una noche mágica ante el Barcelona",
+      "subtitle": "Después de la entrada del grupo inversor Mercury13 como accionista mayoritario, el club catalán quiere seguir haciendo historia",
+      "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20260312/11487021/badalona-women-suena-noche-magica-barcelona.html",
+      "scraped_at": "2026-03-12T07:11:28Z"
     }
   ]
 }
