@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: María Corina pide al Rey que España defienda su causa en Venezuela: La líder opositora venezolana y Felipe VI coincidieron en la toma de posesión del nuevo presidente de Chile, José Antonio Kast; Trump vuelve a golpear a la UE con una investigación para aplicar más aranceles: Acusa a los países europeos de haber hecho «aproximadamente el 0%» de lo pactado para mantener los gravámenes en el 15%; La vida de Maduro entre rejas en Nueva York: «¡Yo soy el presidente!»: Aislado en una celda de tres metros de largo por dos de ancho, con una cama metálica y un ventanuco, el exdictador venezolano solo puede salir tres veces por semana a un pequeño patio y de noche chilla como un loco que está secuestrado por Estados Unidos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-12T07:11:24Z",
+  "summary": "Resumen del día en ABC.es: Trump purgó a la cúpula militar que le había recomendado no atacar Irán: La destitución del jefe del Estado Mayor y el relevo de mandos clave acabaron con la resistencia interna ante la Casa Blanca, decidida a ir a la guerra contra Teherán; Robles y Albares faltarán al primer control del Congreso de los Diputados desde el ataque: El PP critica la ausencia de ministros clave en la respuesta al conflicto en un momento «especialmente complejo»; El calvario de los cristianos al sur del Líbano: Los alcaldes de varias localidades han dado la voz de alarma ante una guerra «que no es nuestra» y que está obligándoles a abandonar sus hogares por exigencia del Ejército israelí. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-13T07:10:27Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "María Corina pide al Rey que España defienda su causa en Venezuela",
-      "subtitle": "La líder opositora venezolana y Felipe VI coincidieron en la toma de posesión del nuevo presidente de Chile, José Antonio Kast",
-      "url": "https://www.abc.es/espana/casa-real/machado-plantea-rey-espana-oportunidad-historica-defender-20260312040201-nt.html",
-      "scraped_at": "2026-03-12T07:11:23Z"
+      "title": "Trump purgó a la cúpula militar que le había recomendado no atacar Irán",
+      "subtitle": "La destitución del jefe del Estado Mayor y el relevo de mandos clave acabaron con la resistencia interna ante la Casa Blanca, decidida a ir a la guerra contra Teherán",
+      "url": "https://www.abc.es/internacional/trump-purgado-pentagono-criticos-golpear-iran-20260311040129-nt.html",
+      "scraped_at": "2026-03-13T07:10:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump vuelve a golpear a la UE con una investigación para aplicar más aranceles",
-      "subtitle": "Acusa a los países europeos de haber hecho «aproximadamente el 0%» de lo pactado para mantener los gravámenes en el 15%",
-      "url": "https://www.abc.es/internacional/trump-vuelve-golpear-ue-investigacion-aplicar-aranceles-20260311222714-nt.html",
-      "scraped_at": "2026-03-12T07:11:23Z"
+      "title": "Robles y Albares faltarán al primer control del Congreso de los Diputados desde el ataque",
+      "subtitle": "El PP critica la ausencia de ministros clave en la respuesta al conflicto en un momento «especialmente complejo»",
+      "url": "https://www.abc.es/espana/robles-albares-faltaran-primer-control-congreso-crisis-20260312040506-nt.html",
+      "scraped_at": "2026-03-13T07:10:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "La vida de Maduro entre rejas en Nueva York: «¡Yo soy el presidente!»",
-      "subtitle": "Aislado en una celda de tres metros de largo por dos de ancho, con una cama metálica y un ventanuco, el exdictador venezolano solo puede salir tres veces por semana a un pequeño patio y de noche chilla como un loco que está secuestrado por Estados Unidos",
-      "url": "https://www.abc.es/internacional/vida-maduro-rejas-nueva-york-secuestrado-20260227040255-nt.html",
-      "scraped_at": "2026-03-12T07:11:23Z"
+      "title": "El calvario de los cristianos al sur del Líbano",
+      "subtitle": "Los alcaldes de varias localidades han dado la voz de alarma ante una guerra «que no es nuestra» y que está obligándoles a abandonar sus hogares por exigencia del Ejército israelí",
+      "url": "https://www.abc.es/internacional/viaje-pueblos-cristianos-sur-libano-20260312040544-nt.html",
+      "scraped_at": "2026-03-13T07:10:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Irán agudiza la guerra fría entre Sánchez y Feijóo: «No se contemplan contactos»",
-      "subtitle": "La interlocución al más alto nivel está rota: «El PP ha hecho mucho para que no haya una relación cordial»",
-      "url": "https://www.abc.es/espana/iran-agudiza-guerra-fria-sanchez-feijoo-contemplan-20260312040353-nt.html",
-      "scraped_at": "2026-03-12T07:11:24Z"
+      "title": "El registro de turistas españoles en Oriente Próximo colapsó en plena agresión militar",
+      "subtitle": "El Ministerio reconoce una caída de «unas pocas horas» por «exceso de uso» el domingo",
+      "url": "https://www.abc.es/espana/registro-turistas-espanoles-oriente-proximo-colapso-pleno-20260312040743-nt.html",
+      "scraped_at": "2026-03-13T07:10:27Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-12T07:11:24Z"
+      "scraped_at": "2026-03-13T07:10:27Z"
     }
   ]
 }

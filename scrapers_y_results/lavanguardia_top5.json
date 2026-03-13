@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La guerra se focaliza en Ormuz: El Pentágono quiere atacar los puertos civiles para evitar el minado del estrecho; Combates cuerpo a cuerpo en Líbano: Israel da señales de prepararse para un largo conflicto: Hizbulah cambia su estrategia mientras soporta los ataques aéreos sobre el sur de Beirut y la ofensiva terrestre en la frontera con Israel; Los berrinches de Donald Trump: El encontronazo con Estados Unidos debido al no a la guerra de Pedro Sánchez es grave, pero no serio. Es grave porque estos encontronazos siempre lo son. Los roces entre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-12T07:11:28Z",
+  "summary": "Resumen del día en La Vanguardia: El nuevo líder iraní clama venganza contra EE.UU. y llama a la resistencia: Mojtaba Jamenei alimenta las sospechas de que se encuentra herido al tardar cuatro días en dirigirse a la nación y hacerlo a través de un comunicado en el que ni siquiera grabó con su voz; La inteligencia de EE.UU. reconoce que el régimen iraní no caerá: La situación de bloqueo obliga a Trump a elegir entre el final prematuro de la guerra o una escalada militar; Trump lo va a lograr ahora: Parece que esta vez Donald Trump sí lo ha conseguido. Su propuesta estrambótica y caprichosa de fijar una serie de aranceles a los países que le venían en gana no provocó la crisis económica mundial que algunos pronosticaban. La posterior decisión del Tribunal Supremo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-13T07:10:30Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La guerra se focaliza en Ormuz",
-      "subtitle": "El Pentágono quiere atacar los puertos civiles para evitar el minado del estrecho",
-      "url": "https://www.lavanguardia.com/internacional/20260312/11487484/guerra-focaliza-ormuz.html",
-      "scraped_at": "2026-03-12T07:11:26Z"
+      "title": "El nuevo líder iraní clama venganza contra EE.UU. y llama a la resistencia",
+      "subtitle": "Mojtaba Jamenei alimenta las sospechas de que se encuentra herido al tardar cuatro días en dirigirse a la nación y hacerlo a través de un comunicado en el que ni siquiera grabó con su voz",
+      "url": "https://www.lavanguardia.com/internacional/20260313/11488489/nuevo-lider-supremo-iran-habla-dar-cara-llama-resistencia.html",
+      "scraped_at": "2026-03-13T07:10:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Combates cuerpo a cuerpo en Líbano: Israel da señales de prepararse para un largo conflicto",
-      "subtitle": "Hizbulah cambia su estrategia mientras soporta los ataques aéreos sobre el sur de Beirut y la ofensiva terrestre en la frontera con Israel",
-      "url": "https://www.lavanguardia.com/internacional/20260312/11487504/libano-unico-pais-guerra-oriente-medio-combate-cuerpo-cuerpo.html",
-      "scraped_at": "2026-03-12T07:11:27Z"
+      "title": "La inteligencia de EE.UU. reconoce que el régimen iraní no caerá",
+      "subtitle": "La situación de bloqueo obliga a Trump a elegir entre el final prematuro de la guerra o una escalada militar",
+      "url": "https://www.lavanguardia.com/internacional/20260313/11488202/inteligencia-estadounidense-reconoce-regimen-caera.html",
+      "scraped_at": "2026-03-13T07:10:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los berrinches de Donald Trump",
-      "subtitle": "El encontronazo con Estados Unidos debido al no a la guerra de Pedro Sánchez es grave, pero no serio. Es grave porque estos encontronazos siempre lo son. Los roces entre",
-      "url": "https://www.lavanguardia.com/politica/20260312/11487387/berrinches-donald-trump.html",
-      "scraped_at": "2026-03-12T07:11:27Z"
+      "title": "Trump lo va a lograr ahora",
+      "subtitle": "Parece que esta vez Donald Trump sí lo ha conseguido. Su propuesta estrambótica y caprichosa de fijar una serie de aranceles a los países que le venían en gana no provocó la crisis económica mundial que algunos pronosticaban. La posterior decisión del Tribunal Supremo",
+      "url": "https://www.lavanguardia.com/opinion/20260313/11488531/trump-lograr.html",
+      "scraped_at": "2026-03-13T07:10:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Scott Anderson: “Trump no tiene un plan para salir de Irán”",
-      "subtitle": "El periodista estadounidense publica ‘Rey de reyes’, crónica de la revolución islámica que puso fin a la alianza entre Washington y Teherán",
-      "url": "https://www.lavanguardia.com/internacional/20260312/11487165/scott-anderson-trump-plan-salir-iran.html",
-      "scraped_at": "2026-03-12T07:11:28Z"
+      "title": "Mohamed Mohadesin: “Los iraníes volverán a la calle”",
+      "subtitle": "El Consejo Nacional de la Resistencia apuesta por una insurrección después de la guerra",
+      "url": "https://www.lavanguardia.com/internacional/20260313/11488364/iranies-volveran-calle.html",
+      "scraped_at": "2026-03-13T07:10:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Badalona Women sueña con una noche mágica ante el Barcelona",
-      "subtitle": "Después de la entrada del grupo inversor Mercury13 como accionista mayoritario, el club catalán quiere seguir haciendo historia",
-      "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20260312/11487021/badalona-women-suena-noche-magica-barcelona.html",
-      "scraped_at": "2026-03-12T07:11:28Z"
+      "title": "Xavi Puig: “El humor contra lo 'woke' no funciona; es propaganda”",
+      "subtitle": "El codirector de 'El Mundo Today', medio satírico de referencia en España, desgrana en 'Hacer reír' objetivos, debates e implicaciones filosóficas del humor,",
+      "url": "https://www.lavanguardia.com/cultura/20260313/11487147/xavi-puig-humor-woke-funciona-propaganda.html",
+      "scraped_at": "2026-03-13T07:10:30Z"
     }
   ]
 }
