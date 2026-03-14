@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Trump purgó a la cúpula militar que le había recomendado no atacar Irán: La destitución del jefe del Estado Mayor y el relevo de mandos clave acabaron con la resistencia interna ante la Casa Blanca, decidida a ir a la guerra contra Teherán; Robles y Albares faltarán al primer control del Congreso de los Diputados desde el ataque: El PP critica la ausencia de ministros clave en la respuesta al conflicto en un momento «especialmente complejo»; El calvario de los cristianos al sur del Líbano: Los alcaldes de varias localidades han dado la voz de alarma ante una guerra «que no es nuestra» y que está obligándoles a abandonar sus hogares por exigencia del Ejército israelí. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-13T07:10:27Z",
+  "summary": "Resumen del día en ABC.es: Irene Montero disparó casi un 40% las ayudas a dedo del Instituto de la Mujer y Ana Redondo las mantiene: Las asociaciones feministas con subvenciones directas pasan de 1 a 25 mientras se recortan los fondos directos a emprendimiento e impulso de directivas; El Gobierno admite la participación de Leire Díez en un contrato sobre las balizas V-16: Limita su papel a la firma de una adenda y remarca que no era una comercialización sino una comisión mercantil; El castrismo agoniza en una Cuba entre tinieblas: El reconocimiento de Díaz-Canel de las conversaciones con la Administración Trump genera pocas expectativas entre la población. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-14T07:04:32Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Trump purgó a la cúpula militar que le había recomendado no atacar Irán",
-      "subtitle": "La destitución del jefe del Estado Mayor y el relevo de mandos clave acabaron con la resistencia interna ante la Casa Blanca, decidida a ir a la guerra contra Teherán",
-      "url": "https://www.abc.es/internacional/trump-purgado-pentagono-criticos-golpear-iran-20260311040129-nt.html",
-      "scraped_at": "2026-03-13T07:10:26Z"
+      "title": "Irene Montero disparó casi un 40% las ayudas a dedo del Instituto de la Mujer y Ana Redondo las mantiene",
+      "subtitle": "Las asociaciones feministas con subvenciones directas pasan de 1 a 25 mientras se recortan los fondos directos a emprendimiento e impulso de directivas",
+      "url": "https://www.abc.es/sociedad/montero-disparo-ayudas-dedo-instituto-mujer-redondo-20260314040006-nt.html",
+      "scraped_at": "2026-03-14T07:04:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Robles y Albares faltarán al primer control del Congreso de los Diputados desde el ataque",
-      "subtitle": "El PP critica la ausencia de ministros clave en la respuesta al conflicto en un momento «especialmente complejo»",
-      "url": "https://www.abc.es/espana/robles-albares-faltaran-primer-control-congreso-crisis-20260312040506-nt.html",
-      "scraped_at": "2026-03-13T07:10:26Z"
+      "title": "El Gobierno admite la participación de Leire Díez en un contrato sobre las balizas V-16",
+      "subtitle": "Limita su papel a la firma de una adenda y remarca que no era una comercialización sino una comisión mercantil",
+      "url": "https://www.abc.es/espana/gobierno-admite-participacion-leire-diez-contrato-sobre-20260314040201-nt.html",
+      "scraped_at": "2026-03-14T07:04:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "El calvario de los cristianos al sur del Líbano",
-      "subtitle": "Los alcaldes de varias localidades han dado la voz de alarma ante una guerra «que no es nuestra» y que está obligándoles a abandonar sus hogares por exigencia del Ejército israelí",
-      "url": "https://www.abc.es/internacional/viaje-pueblos-cristianos-sur-libano-20260312040544-nt.html",
-      "scraped_at": "2026-03-13T07:10:26Z"
+      "title": "El castrismo agoniza en una Cuba entre tinieblas",
+      "subtitle": "El reconocimiento de Díaz-Canel de las conversaciones con la Administración Trump genera pocas expectativas entre la población",
+      "url": "https://www.abc.es/internacional/sorpresa-apagones-20260313040242-nt.html",
+      "scraped_at": "2026-03-14T07:04:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "El registro de turistas españoles en Oriente Próximo colapsó en plena agresión militar",
-      "subtitle": "El Ministerio reconoce una caída de «unas pocas horas» por «exceso de uso» el domingo",
-      "url": "https://www.abc.es/espana/registro-turistas-espanoles-oriente-proximo-colapso-pleno-20260312040743-nt.html",
-      "scraped_at": "2026-03-13T07:10:27Z"
+      "title": "España bate récord de militares en el exterior en plena ola antibelicista de Pedro Sánchez",
+      "subtitle": "Más de 4.000 miembros de las Fuerzas Armadas participan en la veintena de misiones desplegadas",
+      "url": "https://www.abc.es/espana/espana-bate-record-militares-exterior-plena-ola-20260314040331-nt.html",
+      "scraped_at": "2026-03-14T07:04:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-13T07:10:27Z"
+      "title": "Juan José, mecánico: «La subida del combustible ahora es mentira y va a seguir subiendo»",
+      "subtitle": "Un mecánico desgrana en un vídeo viral de TikTok la estrategia de las petroleras para subir los precios de forma preventiva ante futuros costes de...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/juan-jose-mecanico-subida-combustible-mentira-seguir-subiendo-te-cobran-precio-comprar-20260313_3326538.html",
+      "scraped_at": "2026-03-14T07:04:32Z"
     }
   ]
 }

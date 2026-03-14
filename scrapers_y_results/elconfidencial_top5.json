@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los últimos días de Cuba o cómo se vive siendo el próximo objetivo de Trump: Este reportaje es el resumen de un viaje de dos semanas a Cuba. Entre la desinformación, la ausencia de servicios básicos y la escasez de alimentos, combustible y electricidad, los cubanos saben que algo está a punto de pasar; El PP aprieta en el 'sprint final' de CyL: \"Hay escaños que suben o bajan por muy pocos votos\": Los populares dan por segura la victoria y esperan subir al menos un diputado, pero admiten que la batalla por los &#039;restos&#039; en distintas provincias puede hacer bailar varios escaños entre un Vox fuerte y un PSOE que persigue detener su sangría; Quiénes somos: Hace 25 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-13T07:10:33Z",
+  "summary": "Resumen del día en El Confidencial: El doble reto del PP en CyL: mantener las distancias con el PSOE y topar a un Vox \"muy fuerte\": Mañueco afronta un reparto de escaños más ajustado si el PSOE finalmente aguanta y Vox logra escalar al 20%. Génova minimiza el efecto del &#039;No a la guerra&#039; en la movilización del voto socialista; \"Es un chollo para Sánchez\": la derecha gana, pero Abascal vuelve a tener la llave: Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, en &quot;Comité de Estrategia&quot; analizan las elecciones autonómicas en Castilla y Léon; Divorcio histórico entre el PSC de Illa y el Cercle d'Economia a cuenta de la inmigración: La relación entre el lobby empresarial y el socialismo catalán ha topado con un escollo. Los de Salvador Illa acusan a los empresarios de haber comprado el marco de la extrema derecha. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-14T07:04:39Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los últimos días de Cuba o cómo se vive siendo el próximo objetivo de Trump",
-      "subtitle": "Este reportaje es el resumen de un viaje de dos semanas a Cuba. Entre la desinformación, la ausencia de servicios básicos y la escasez de alimentos, combustible y electricidad, los cubanos saben que algo está a punto de pasar",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-13/cuba-trump-pobreza-apagones_4319143/",
-      "scraped_at": "2026-03-13T07:10:32Z"
+      "title": "El doble reto del PP en CyL: mantener las distancias con el PSOE y topar a un Vox \"muy fuerte\"",
+      "subtitle": "Mañueco afronta un reparto de escaños más ajustado si el PSOE finalmente aguanta y Vox logra escalar al 20%. Génova minimiza el efecto del &#039;No a la guerra&#039; en la movilización del voto socialista",
+      "url": "https://www.elconfidencial.com/espana/2026-03-14/el-doble-reto-en-cyl-mantener-distancias-psoe-vox_4320145/",
+      "scraped_at": "2026-03-14T07:04:37Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El PP aprieta en el 'sprint final' de CyL: \"Hay escaños que suben o bajan por muy pocos votos\"",
-      "subtitle": "Los populares dan por segura la victoria y esperan subir al menos un diputado, pero admiten que la batalla por los &#039;restos&#039; en distintas provincias puede hacer bailar varios escaños entre un Vox fuerte y un PSOE que persigue detener su sangría",
-      "url": "https://www.elconfidencial.com/espana/2026-03-13/pp-sprint-final-castilla-leon-elecciones-15m-escanos-votos_4319495/",
-      "scraped_at": "2026-03-13T07:10:33Z"
+      "title": "\"Es un chollo para Sánchez\": la derecha gana, pero Abascal vuelve a tener la llave",
+      "subtitle": "Ignacio Varela y Pablo Pombo, columnistas de El Confidencial, en &quot;Comité de Estrategia&quot; analizan las elecciones autonómicas en Castilla y Léon",
+      "url": "https://www.elconfidencial.com/espana/2026-03-14/para-sanchez-la-derecha-gana-pero-abascal-vuelve-a-tener-la-llave_4320306/",
+      "scraped_at": "2026-03-14T07:04:37Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "Hace 25 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2026-03-13T07:10:33Z"
+      "title": "Divorcio histórico entre el PSC de Illa y el Cercle d'Economia a cuenta de la inmigración",
+      "subtitle": "La relación entre el lobby empresarial y el socialismo catalán ha topado con un escollo. Los de Salvador Illa acusan a los empresarios de haber comprado el marco de la extrema derecha",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-03-14/divorcio-historico-psc-cercle-economia-inmigracion_4319650/",
+      "scraped_at": "2026-03-14T07:04:38Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "C. Valenciana",
+      "subtitle": "Una encuesta interna del PP valenciano apunta a otra mayoría holgada con Vox más fuerte (35-20). La cúpula popular ya desliza que el actual president es el cartel potencial en 2027",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/",
+      "scraped_at": "2026-03-14T07:04:39Z"
     }
   ]
 }
