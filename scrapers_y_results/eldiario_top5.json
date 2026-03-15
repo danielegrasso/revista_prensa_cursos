@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La guerra contra Irán empuja la economía global hacia el precipicio: El petróleo por las nubes y los terremotos en los mercados financieros son solo las primeras reacciones a un conflicto cuya duración es incierta. El precio de la gasolina preocupa en Idaho, en Burgos, en Bruselas y en Moscú: el bolsillo se resiente cuando empezaba a recuperarse de la crisis de 2022; Trump intenta culminar décadas de ofensiva estadounidense contra Irán mientras desmonta el orden mundial: El presidente de EEUU está desatando un caos global en su afán por dominar Irán y ni siquiera parece garantizado que Washington pueda retomar el control del país como ocurría en los tiempos de Reza Pahlavi; Europa da un portazo a EEUU por las últimas decisiones de Trump en política exterior: La suspensión temporal de las sanciones a Rusia por parte de Trump para reducir el precio del petróleo ha enervado a la Unión Europea, cuya jefa diplomática acusa a la Administración de Estados Unidos de tratar de debilitar y “dividir a Europa”. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-14T07:04:31Z",
+  "summary": "Resumen del día en elDiario.es: Trump se empantana en Irán sin opciones buenas de salida: Trump no aclara cuánto durará la campaña de bombardeos ilegales contra Irán que está sacudiendo los mercados internacionales y que algunos de sus asesores temen que le pueda salir muy cara, mientras Netanyahu quiere prolongarla lo máximo posible; Los objetivos reales de Trump y Netanyahu en Irán y la complicidad europea: EEUU ha creado en el estrecho de Ormuz el escenario con el que ahora pretende justificar el envío de más tropas y pedir más intervención militar a otros países, con la intención de controlar esa vía marítima; El Gobierno achaca a la incertidumbre del factor Trump las dificultades para cerrar el paquete de medidas frente la guerra: Sánchez se agarra a la imposibilidad de calcular la dimensión de la crisis para justificar el retraso, quiere escuchar a sus homólogos de la UE antes de detallar el paquete fiscal, que sopesa aprobar incluso tras la cumbre europea de jefes de Estado y de Gobierno del día 19 de marzo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-15T07:12:08Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La guerra contra Irán empuja la economía global hacia el precipicio",
+      "title": "Trump se empantana en Irán sin opciones buenas de salida",
+      "subtitle": "Trump no aclara cuánto durará la campaña de bombardeos ilegales contra Irán que está sacudiendo los mercados internacionales y que algunos de sus asesores temen que le pueda salir muy cara, mientras Netanyahu quiere prolongarla lo máximo posible",
+      "url": "https://www.eldiario.es/internacional/trump-empantana-iran-opciones-buenas-salida_1_13067238.html",
+      "scraped_at": "2026-03-15T07:12:05Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los objetivos reales de Trump y Netanyahu en Irán y la complicidad europea",
+      "subtitle": "EEUU ha creado en el estrecho de Ormuz el escenario con el que ahora pretende justificar el envío de más tropas y pedir más intervención militar a otros países, con la intención de controlar esa vía marítima",
+      "url": "https://www.eldiario.es/internacional/objetivos-reales-trump-netanyahu-iran-complicidad-europea_129_13068527.html",
+      "scraped_at": "2026-03-15T07:12:05Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno achaca a la incertidumbre del factor Trump las dificultades para cerrar el paquete de medidas frente la guerra",
+      "subtitle": "Sánchez se agarra a la imposibilidad de calcular la dimensión de la crisis para justificar el retraso, quiere escuchar a sus homólogos de la UE antes de detallar el paquete fiscal, que sopesa aprobar incluso tras la cumbre europea de jefes de Estado y de Gobierno del día 19 de marzo",
+      "url": "https://www.eldiario.es/politica/gobierno-achaca-incertidumbre-factor-trump-dificultades-cerrar-paquete-medidas-frente-guerra_129_13066910.html",
+      "scraped_at": "2026-03-15T07:12:06Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De Bush padre a Trump: los riesgos, las lecciones y el legado de la injerencia de EEUU en Oriente Medio",
+      "subtitle": "Si bien existen similitudes con las guerras contra Irak, el conflicto con Irán puede resultar el más peligroso y trascendental hasta el momento",
+      "url": "https://www.eldiario.es/internacional/theguardian/bush-padre-trump-riesgos-lecciones-legado-injerencia-eeuu-oriente-medio_129_13062060.html",
+      "scraped_at": "2026-03-15T07:12:07Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Guerra Irán",
       "subtitle": "El petróleo por las nubes y los terremotos en los mercados financieros son solo las primeras reacciones a un conflicto cuya duración es incierta. El precio de la gasolina preocupa en Idaho, en Burgos, en Bruselas y en Moscú: el bolsillo se resiente cuando empezaba a recuperarse de la crisis de 2022",
       "url": "https://www.eldiario.es/economia/guerra-iran-empuja-economia-global-precipicio_1_13066999.html",
-      "scraped_at": "2026-03-14T07:04:28Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump intenta culminar décadas de ofensiva estadounidense contra Irán mientras desmonta el orden mundial",
-      "subtitle": "El presidente de EEUU está desatando un caos global en su afán por dominar Irán y ni siquiera parece garantizado que Washington pueda retomar el control del país como ocurría en los tiempos de Reza Pahlavi",
-      "url": "https://www.eldiario.es/internacional/trump-culminar-decadas-ofensiva-estadounidense-iran-desmonta-orden-mundial_1_13064428.html",
-      "scraped_at": "2026-03-14T07:04:29Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Europa da un portazo a EEUU por las últimas decisiones de Trump en política exterior",
-      "subtitle": "La suspensión temporal de las sanciones a Rusia por parte de Trump para reducir el precio del petróleo ha enervado a la Unión Europea, cuya jefa diplomática acusa a la Administración de Estados Unidos de tratar de debilitar y “dividir a Europa”",
-      "url": "https://www.eldiario.es/internacional/europa-da-portazo-eeuu-ultimas-decisiones-trump-politica-exterior_1_13067220.html",
-      "scraped_at": "2026-03-14T07:04:29Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El conflicto de Oriente Medio aflora el pulso geoestratégico que EEUU y China sostienen entre bambalinas",
-      "subtitle": "La guerra contra Irán no es solo un ataque de ira de EEUU e Israel hacia el régimen de los ayatolás, ni  un conflicto con riesgo de propagación regional; es también otro episodio de rivalidad entre Washington y Pekín dentro de un juego de tronos",
-      "url": "https://www.eldiario.es/economia/conflicto-oriente-medio-aflora-pulso-geoestrategico-eeuu-china-sostienen-bambalinas_129_13067340.html",
-      "scraped_at": "2026-03-14T07:04:30Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Fundación Franco",
-      "subtitle": "El Tribunal Superior de Justicia de Madrid considera que no concurren circunstancias de especial urgencia que justifiquen adoptar una medida de este tipo sin oír antes al Abogado del Estado, que representa al Ministerio de Cultura",
-      "url": "https://www.eldiario.es/sociedad/justicia-rechaza-frenar-ilegalizacion-fundacion-francisco-franco_1_13065331.html",
-      "scraped_at": "2026-03-14T07:04:31Z"
+      "scraped_at": "2026-03-15T07:12:08Z"
     }
   ]
 }

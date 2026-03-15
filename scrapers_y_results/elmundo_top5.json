@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Trump libera 10.000 millones del petróleo de Putin para parar su guerra: La flexibilización de las sanciones a Rusia por parte de EEUU permitirá a Moscú ingresar hasta 10.000 millones adicionales mientras la guerra con Irán mantiene bloqueado el Estrecho de Ormuz; Irán y la desorientación europea: Europa no tiene un problema de diagnóstico sino de decisión. La crisis iraní no divide al club comunitario; revela sus fracturas; ¿Por qué los Emiratos no combaten contra Irán?: A pesar de la agresión iraní, ninguno de los países del Golfo se plantea declarar la guerra al régimen de Teherán, ya que ninguno se fía de la protección de EEUU a largo plazo. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-14T07:04:26Z",
+  "summary": "Resumen del día en El Mundo: \"No nos derrumbamos\": el PSOE se prepara para justificar otra derrota con la derecha disparada en Castilla y León: Los sondeos no pronostican muchos cambios en el mapa de la comunidad. Los candidatos han preservado la campaña de contaminación nacional, a pesar de lo cual Sánchez, Feijóo y Abascal vuelven a medirse; Desde Soria contra Trump: El PP sólo puede mantenerse sólido o Feijóo tendrá que prepararse para pasar el quinario con Vox. Si Vox frena, todo cambia.; Cuatro escenarios para una \"guerra del Ramadán\" que va en escalada: El bloqueo del Estrecho de Ormuz por parte de Irán complica la ya de por sí difícil resolución de un conflicto que muchos presidentes de EEUU quisieron evitar hasta que llegó Trump. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-15T07:12:03Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Trump libera 10.000 millones del petróleo de Putin para parar su guerra",
+      "title": "\"No nos derrumbamos\": el PSOE se prepara para justificar otra derrota con la derecha disparada en Castilla y León",
+      "subtitle": "Los sondeos no pronostican muchos cambios en el mapa de la comunidad. Los candidatos han preservado la campaña de contaminación nacional, a pesar de lo cual Sánchez, Feijóo y Abascal vuelven a medirse",
+      "url": "https://www.elmundo.es/espana/2026/03/15/69b59832e85ece11028b456e.html",
+      "scraped_at": "2026-03-15T07:12:02Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Desde Soria contra Trump",
+      "subtitle": "El PP sólo puede mantenerse sólido o Feijóo tendrá que prepararse para pasar el quinario con Vox. Si Vox frena, todo cambia.",
+      "url": "https://www.elmundo.es/opinion/columnistas/2026/03/14/69b5d33dfc6c83f0018b456f.html",
+      "scraped_at": "2026-03-15T07:12:02Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Cuatro escenarios para una \"guerra del Ramadán\" que va en escalada",
+      "subtitle": "El bloqueo del Estrecho de Ormuz por parte de Irán complica la ya de por sí difícil resolución de un conflicto que muchos presidentes de EEUU quisieron evitar hasta que llegó Trump",
+      "url": "https://www.elmundo.es/internacional/2026/03/14/69b58ed221efa0fd678b4585.html",
+      "scraped_at": "2026-03-15T07:12:03Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Sánchez y Netanyahu consolidan el mayor enfriamiento diplomático entre España e Israel en 40 años",
+      "subtitle": "Sin embajadores en ninguno de los dos países y un conflicto en Oriente Próximo, la relación tiene poco recorrido en estos momentos",
+      "url": "https://www.elmundo.es/espana/2026/03/14/69b40c57fdddffec2f8b4578.html",
+      "scraped_at": "2026-03-15T07:12:03Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Trump petróleo",
       "subtitle": "La flexibilización de las sanciones a Rusia por parte de EEUU permitirá a Moscú ingresar hasta 10.000 millones adicionales mientras la guerra con Irán mantiene bloqueado el Estrecho de Ormuz",
       "url": "https://www.elmundo.es/internacional/2026/03/13/69b45fbbe85ece52378b45a8.html",
-      "scraped_at": "2026-03-14T07:04:25Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Irán y la desorientación europea",
-      "subtitle": "Europa no tiene un problema de diagnóstico sino de decisión. La crisis iraní no divide al club comunitario; revela sus fracturas",
-      "url": "https://www.elmundo.es/internacional/2026/03/13/69b3f848fc6c8384118b458f.html",
-      "scraped_at": "2026-03-14T07:04:25Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "¿Por qué los Emiratos no combaten contra Irán?",
-      "subtitle": "A pesar de la agresión iraní, ninguno de los países del Golfo se plantea declarar la guerra al régimen de Teherán, ya que ninguno se fía de la protección de EEUU a largo plazo",
-      "url": "https://www.elmundo.es/internacional/2026/03/13/69b45b52e4d4d8a3308b45aa.html",
-      "scraped_at": "2026-03-14T07:04:25Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El aviso de Renfe a sus interventores tras un nuevo incidente en la línea Madrid-Sevilla: \"Hay que concienciar a todos, el olor a humo es un indicio evidente de riesgo muy grande\"",
-      "subtitle": "Un tren entró con los bajos en llamas el jueves pasado en la estación de Santa Justa tras el incendio de una caja de grasa y los pasajeros dijeron que se olía a quemado desde Córdoba",
-      "url": "https://www.elmundo.es/economia/2026/03/13/69b40f0dfc6c83946c8b45a1.html",
-      "scraped_at": "2026-03-14T07:04:26Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Maratón de Barcelona",
-      "subtitle": "Los grupos de 'runners' con mayoría de foraneos conquistan la carrera más importante de la ciudad, atraen locales de todo tipo e incluso asaltan la noche",
-      "url": "https://www.elmundo.es/deportes/mas-deporte/2026/03/13/69b41a0621efa02f448b45d3.html",
-      "scraped_at": "2026-03-14T07:04:26Z"
+      "scraped_at": "2026-03-15T07:12:03Z"
     }
   ]
 }

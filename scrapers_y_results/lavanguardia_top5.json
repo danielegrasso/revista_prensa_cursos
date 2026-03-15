@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump envía a 2.500 marines y tres buques anfibios a Oriente Medio: La Casa Blanca ofrece hasta diez millones de dólares por pistas sobre el paradero del nuevo guía supremo; Dos errores, dos guerras: Rusia emerge como el primer ganador de la trifulca de Irán; El negocio de Trump: dobla los márgenes en sus envíos a Europa de gas natural licuado: El bloqueo de Ormuz y los problemas de suministro en Qatar distorsionan el mercado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-14T07:04:35Z",
+  "summary": "Resumen del día en La Vanguardia: Trump pide ahora ayuda a Europa y China para desbloquear Ormuz: El presidente interpela a China, Francia, Japón, Corea del Sur y Reino Unido para que protejan buques mientras EE.UU. “bombardea sin cesar”; ¿Quién sacará a Trump del lío de Irán?: Los mercados financieros, que han propulsado el precio del barril de petróleo hasta los 100 dólares, le han dado a Trump unos días para que encuentre una salida al conflicto de Irán. Si no lo hace, los precios pueden incluso doblar. El periodista Bob Woodward, en su libro; “Feijóo no será presidente, ni vicepresidente de Abascal”: El president de la Generalitat cree que hay tiempo para llegar a un acuerdo con ERC para los presupuestos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-15T07:12:13Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump envía a 2.500 marines y tres buques anfibios a Oriente Medio",
-      "subtitle": "La Casa Blanca ofrece hasta diez millones de dólares por pistas sobre el paradero del nuevo guía supremo",
-      "url": "https://www.lavanguardia.com/internacional/20260314/11489472/estados-unidos-mandara-unidad-2-500-marines-tres-buques-anfibios-oriente-medio.html",
-      "scraped_at": "2026-03-14T07:04:34Z"
+      "title": "Trump pide ahora ayuda a Europa y China para desbloquear Ormuz",
+      "subtitle": "El presidente interpela a China, Francia, Japón, Corea del Sur y Reino Unido para que protejan buques mientras EE.UU. “bombardea sin cesar”",
+      "url": "https://www.lavanguardia.com/internacional/20260314/11489985/trump-pide-paises-afectados-bloqueo-ormuz-envien-barcos-guerra-escoltar-petroleros.html",
+      "scraped_at": "2026-03-15T07:12:12Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Dos errores, dos guerras",
-      "subtitle": "Rusia emerge como el primer ganador de la trifulca de Irán",
-      "url": "https://www.lavanguardia.com/politica/20260314/11489390/dos-errores-dos-guerras.html",
-      "scraped_at": "2026-03-14T07:04:34Z"
+      "title": "¿Quién sacará a Trump del lío de Irán?",
+      "subtitle": "Los mercados financieros, que han propulsado el precio del barril de petróleo hasta los 100 dólares, le han dado a Trump unos días para que encuentre una salida al conflicto de Irán. Si no lo hace, los precios pueden incluso doblar. El periodista Bob Woodward, en su libro",
+      "url": "https://www.lavanguardia.com/internacional/20260315/11489425/trump-iran-guerra.html",
+      "scraped_at": "2026-03-15T07:12:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El negocio de Trump: dobla los márgenes en sus envíos a Europa de gas natural licuado",
-      "subtitle": "El bloqueo de Ormuz y los problemas de suministro en Qatar distorsionan el mercado",
-      "url": "https://www.lavanguardia.com/economia/20260314/11489449/ee-uu-duplica-margenes-envios-europa-gas-natural-licuado.html",
-      "scraped_at": "2026-03-14T07:04:35Z"
+      "title": "“Feijóo no será presidente, ni vicepresidente de Abascal”",
+      "subtitle": "El president de la Generalitat cree que hay tiempo para llegar a un acuerdo con ERC para los presupuestos",
+      "url": "https://www.lavanguardia.com/politica/20260315/11489946/salvador-illa-momentos-inciertos-convocar-elecciones-mejor-idea.html",
+      "scraped_at": "2026-03-15T07:12:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ormuz golpea la economía global",
-      "subtitle": "“Empezar una guerra es fácil, pero el final no llegará con unos cuantos tuits”. Son palabras de esta semana de Alí Larijani, principal responsable de seguridad nacional de Irán. Poco después, el nuevo líder supremo, Mojtada Jamenei, elegido tras la muerte de su padre en",
-      "url": "https://www.lavanguardia.com/economia/20260314/11489401/ormuz-golpea-economia-global.html",
-      "scraped_at": "2026-03-14T07:04:35Z"
+      "title": "Con ERC, todo es posible",
+      "subtitle": "Si leen la entrevista que publicamos hoy al president Salvador Illa, se puede concluir que lo más lógico y normal sería que los próximos presupuestos de la Generalitat se vayan a aprobar este próximo viernes en el Parlament. Ni el país ni el mundo están para muchas",
+      "url": "https://www.lavanguardia.com/opinion/20260315/11490102/erc-posible.html",
+      "scraped_at": "2026-03-15T07:12:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ciudadanos, acto final",
-      "subtitle": "Aunque en la historia política nada está escrito es posible que el acto con el que ayer Mitzin Mariana Trápaga cerró su campaña electoral en Castilla y León sea el último mitin electoral de Ciudadanos, al menos en una campaña de alcance autonómico. Trápaga ha sido la",
-      "url": "https://www.lavanguardia.com/opinion/20260314/11489497/ciudadanos-acto-final.html",
-      "scraped_at": "2026-03-14T07:04:35Z"
+      "title": "Las caras del románico",
+      "subtitle": "A mediados del siglo XII, el arte románico del sur de Europa encontró una nueva manera de abordar el interés por la naturaleza humana con un cambio en la escultura de",
+      "url": "https://www.lavanguardia.com/cultura/culturas/20260314/11485510/caras-romanico.html",
+      "scraped_at": "2026-03-15T07:12:13Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Irene Montero disparó casi un 40% las ayudas a dedo del Instituto de la Mujer y Ana Redondo las mantiene: Las asociaciones feministas con subvenciones directas pasan de 1 a 25 mientras se recortan los fondos directos a emprendimiento e impulso de directivas; El Gobierno admite la participación de Leire Díez en un contrato sobre las balizas V-16: Limita su papel a la firma de una adenda y remarca que no era una comercialización sino una comisión mercantil; El castrismo agoniza en una Cuba entre tinieblas: El reconocimiento de Díaz-Canel de las conversaciones con la Administración Trump genera pocas expectativas entre la población. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-14T07:04:32Z",
+  "summary": "Resumen del día en ABC.es: Estallido en Cuba: «No queremos luz, queremos libertad»: Tras el anuncio del régimen de negociar con EE.UU. forzado por su falta de petróleo, las protestas desembocan en el asalto y quema de la sede del Partido Comunista en la ciudad de Morón; Sima Shine: «Esta guerra no será larga, terminará en dos o tres semanas, o incluso menos»: Experta del Instituto de Estudios de Seguridad Nacional y exjefa de Investigación del Mossad, no cree que Irán estuviera cerca de la bomba atómica, pero alerta de su amenaza terrorista en Europa; El general chií que desafía a Hizbolá en el Líbano: Hisham Jaber, exgobernador militar de Beirut y politólogo, pertenece a la misma comunidad que la guerrilla aliada de Irán, pero se opone a arrastrar a su país a un nuevo conflicto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-15T07:12:10Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Irene Montero disparó casi un 40% las ayudas a dedo del Instituto de la Mujer y Ana Redondo las mantiene",
-      "subtitle": "Las asociaciones feministas con subvenciones directas pasan de 1 a 25 mientras se recortan los fondos directos a emprendimiento e impulso de directivas",
-      "url": "https://www.abc.es/sociedad/montero-disparo-ayudas-dedo-instituto-mujer-redondo-20260314040006-nt.html",
-      "scraped_at": "2026-03-14T07:04:32Z"
+      "title": "Estallido en Cuba: «No queremos luz, queremos libertad»",
+      "subtitle": "Tras el anuncio del régimen de negociar con EE.UU. forzado por su falta de petróleo, las protestas desembocan en el asalto y quema de la sede del Partido Comunista en la ciudad de Morón",
+      "url": "https://www.abc.es/internacional/reportaje-cuba-20260314040019-nt.html",
+      "scraped_at": "2026-03-15T07:12:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno admite la participación de Leire Díez en un contrato sobre las balizas V-16",
-      "subtitle": "Limita su papel a la firma de una adenda y remarca que no era una comercialización sino una comisión mercantil",
-      "url": "https://www.abc.es/espana/gobierno-admite-participacion-leire-diez-contrato-sobre-20260314040201-nt.html",
-      "scraped_at": "2026-03-14T07:04:32Z"
+      "title": "Sima Shine: «Esta guerra no será larga, terminará en dos o tres semanas, o incluso menos»",
+      "subtitle": "Experta del Instituto de Estudios de Seguridad Nacional y exjefa de Investigación del Mossad, no cree que Irán estuviera cerca de la bomba atómica, pero alerta de su amenaza terrorista en Europa",
+      "url": "https://www.abc.es/internacional/sima-shine-20260316040028-nt.html",
+      "scraped_at": "2026-03-15T07:12:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "El castrismo agoniza en una Cuba entre tinieblas",
-      "subtitle": "El reconocimiento de Díaz-Canel de las conversaciones con la Administración Trump genera pocas expectativas entre la población",
-      "url": "https://www.abc.es/internacional/sorpresa-apagones-20260313040242-nt.html",
-      "scraped_at": "2026-03-14T07:04:32Z"
+      "title": "El general chií que desafía a Hizbolá en el Líbano",
+      "subtitle": "Hisham Jaber, exgobernador militar de Beirut y politólogo, pertenece a la misma comunidad que la guerrilla aliada de Irán, pero se opone a arrastrar a su país a un nuevo conflicto",
+      "url": "https://www.abc.es/internacional/general-chii-desafia-hizbola-libano-cansados-luchar-20260314040033-nt.html",
+      "scraped_at": "2026-03-15T07:12:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "España bate récord de militares en el exterior en plena ola antibelicista de Pedro Sánchez",
-      "subtitle": "Más de 4.000 miembros de las Fuerzas Armadas participan en la veintena de misiones desplegadas",
-      "url": "https://www.abc.es/espana/espana-bate-record-militares-exterior-plena-ola-20260314040331-nt.html",
-      "scraped_at": "2026-03-14T07:04:32Z"
+      "title": "Han Kang: «La escritura me ha hecho mejor persona»",
+      "subtitle": "La autora surcoreana, que publica en España 'Tinta y sangre', repasa su trayectoria en esta entrevista con ABC",
+      "url": "https://www.abc.es/cultura/libros/kang-nobel-literatura-escritura-mejor-persona-20260313200314-nt.html",
+      "scraped_at": "2026-03-15T07:12:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Juan José, mecánico: «La subida del combustible ahora es mentira y va a seguir subiendo»",
-      "subtitle": "Un mecánico desgrana en un vídeo viral de TikTok la estrategia de las petroleras para subir los precios de forma preventiva ante futuros costes de...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/juan-jose-mecanico-subida-combustible-mentira-seguir-subiendo-te-cobran-precio-comprar-20260313_3326538.html",
-      "scraped_at": "2026-03-14T07:04:32Z"
+      "title": "«100 € en certificados, 250 € de gestión, 800 € de notaría y más de 2.000 € si acaba en partición judicial»",
+      "subtitle": "Lejos de ser un trámite gratuito, el proceso de heredar implica una serie de costes en impuestos y gestiones que pueden alcanzar miles de euros",
+      "url": "https://www.cope.es/actualidad/economia/noticias/herencias-espana-100-e-certificados-250-e-gestion-800-e-notaria-2-000-e-acaba-particion-judicial-20260314_3320490.html",
+      "scraped_at": "2026-03-15T07:12:10Z"
     }
   ]
 }
