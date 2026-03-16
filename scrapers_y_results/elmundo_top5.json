@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: \"No nos derrumbamos\": el PSOE se prepara para justificar otra derrota con la derecha disparada en Castilla y León: Los sondeos no pronostican muchos cambios en el mapa de la comunidad. Los candidatos han preservado la campaña de contaminación nacional, a pesar de lo cual Sánchez, Feijóo y Abascal vuelven a medirse; Desde Soria contra Trump: El PP sólo puede mantenerse sólido o Feijóo tendrá que prepararse para pasar el quinario con Vox. Si Vox frena, todo cambia.; Cuatro escenarios para una \"guerra del Ramadán\" que va en escalada: El bloqueo del Estrecho de Ormuz por parte de Irán complica la ya de por sí difícil resolución de un conflicto que muchos presidentes de EEUU quisieron evitar hasta que llegó Trump. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-15T07:12:03Z",
+  "summary": "Resumen del día en El Mundo: El PP frena por primera vez a Vox: Abascal tiene techo: crece menos que el PP y se queda sin autoridad moral para seguir impidiendo la gobernabilidad en Extremadura y Aragón; Joaquín Manso, director de EL MUNDO, valora el resultado de los comicios en Castilla y León: Joaquín Manso, director de EL MUNDO, valora el resultado de los comicios en Castilla y León, en las que el PP ha crecido más de cuatro puntos en porcentaje de votos, hasta el...; El 'No a la guerra' no salva a la izquierda: Si alguna vez Pedro Sánchez deja el poder, habrá que agradecerle la destrucción de todas las izquierdas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-16T07:46:14Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "\"No nos derrumbamos\": el PSOE se prepara para justificar otra derrota con la derecha disparada en Castilla y León",
-      "subtitle": "Los sondeos no pronostican muchos cambios en el mapa de la comunidad. Los candidatos han preservado la campaña de contaminación nacional, a pesar de lo cual Sánchez, Feijóo y Abascal vuelven a medirse",
-      "url": "https://www.elmundo.es/espana/2026/03/15/69b59832e85ece11028b456e.html",
-      "scraped_at": "2026-03-15T07:12:02Z"
+      "title": "El PP frena por primera vez a Vox",
+      "subtitle": "Abascal tiene techo: crece menos que el PP y se queda sin autoridad moral para seguir impidiendo la gobernabilidad en Extremadura y Aragón",
+      "url": "https://www.elmundo.es/opinion/editorial/2026/03/16/69b7379c21efa0e4298b4580.html",
+      "scraped_at": "2026-03-16T07:46:13Z"
     },
     {
       "source": "El Mundo",
-      "title": "Desde Soria contra Trump",
-      "subtitle": "El PP sólo puede mantenerse sólido o Feijóo tendrá que prepararse para pasar el quinario con Vox. Si Vox frena, todo cambia.",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/03/14/69b5d33dfc6c83f0018b456f.html",
-      "scraped_at": "2026-03-15T07:12:02Z"
+      "title": "Joaquín Manso, director de EL MUNDO, valora el resultado de los comicios en Castilla y León",
+      "subtitle": "Joaquín Manso, director de EL MUNDO, valora el resultado de los comicios en Castilla y León, en las que el PP ha crecido más de cuatro puntos en porcentaje de votos, hasta el...",
+      "url": "https://www.elmundo.es/espana/2026/03/15/69b738a321efa0505a8b4585-video.html",
+      "scraped_at": "2026-03-16T07:46:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Cuatro escenarios para una \"guerra del Ramadán\" que va en escalada",
-      "subtitle": "El bloqueo del Estrecho de Ormuz por parte de Irán complica la ya de por sí difícil resolución de un conflicto que muchos presidentes de EEUU quisieron evitar hasta que llegó Trump",
-      "url": "https://www.elmundo.es/internacional/2026/03/14/69b58ed221efa0fd678b4585.html",
-      "scraped_at": "2026-03-15T07:12:03Z"
+      "title": "El 'No a la guerra' no salva a la izquierda",
+      "subtitle": "Si alguna vez Pedro Sánchez deja el poder, habrá que agradecerle la destrucción de todas las izquierdas",
+      "url": "https://www.elmundo.es/opinion/columnistas/2026/03/16/69b73b18e85ece4c508b4583.html",
+      "scraped_at": "2026-03-16T07:46:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Sánchez y Netanyahu consolidan el mayor enfriamiento diplomático entre España e Israel en 40 años",
-      "subtitle": "Sin embajadores en ninguno de los dos países y un conflicto en Oriente Próximo, la relación tiene poco recorrido en estos momentos",
-      "url": "https://www.elmundo.es/espana/2026/03/14/69b40c57fdddffec2f8b4578.html",
-      "scraped_at": "2026-03-15T07:12:03Z"
+      "title": "Irán resiste en Ormuz con sus enjambres de drones",
+      "subtitle": "EEUU se ve obligado a emprender una acción militar para proteger el cruce de petroleros mientras que los socios de la UE discuten este lunes si envían sus barcos de guerra",
+      "url": "https://www.elmundo.es/internacional/2026/03/15/69b6f87be4d4d819578b4575.html",
+      "scraped_at": "2026-03-16T07:46:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump petróleo",
-      "subtitle": "La flexibilización de las sanciones a Rusia por parte de EEUU permitirá a Moscú ingresar hasta 10.000 millones adicionales mientras la guerra con Irán mantiene bloqueado el Estrecho de Ormuz",
-      "url": "https://www.elmundo.es/internacional/2026/03/13/69b45fbbe85ece52378b45a8.html",
-      "scraped_at": "2026-03-15T07:12:03Z"
+      "title": "Ganadores Oscar 2026",
+      "subtitle": "Estos han sido las películas y actores que se han llevado todos los premios de los Oscar 2026",
+      "url": "https://www.elmundo.es/cultura/premios-oscar/2026/03/16/69b6c446e85ece03228b4579.html",
+      "scraped_at": "2026-03-16T07:46:14Z"
     }
   ]
 }
