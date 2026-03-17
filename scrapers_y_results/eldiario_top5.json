@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Mañueco da una nueva victoria al PP en Castilla y León, que mantiene su dependencia de Vox, y el PSOE resiste: Tanto el PP como el PSOE suben dos escaños (con 33 y 30 respectivamente) mientras que Vox gana uno, hasta los 14, y roza por primera vez el 19% de sufragios; Feijóo conjura durante un tiempo la amenaza de Vox: Castilla y León deja contentos a los tres principales partidos, pero mucho menos a Vox. Mañueco no intentó ser el antisanchista por excelencia, aunque ese no es el punto de vista mayoritario entre los barones regionales del PP; El PP de Feijóo se felicita por el frenazo de Vox en Castilla y León resignado a gobernar con la extrema derecha: Génova presume de meterle \"casi 17 puntos\" a los de Abascal, y señala que el bloqueo en Extremadura que hicieron por \"cálculo electoral\" les ha pasado factura y Tellado les apremia a pactar ya: \"Espero que entienda igual que nosotros el mandato de los ciudadanos\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-16T07:46:19Z",
+  "summary": "Resumen del día en elDiario.es: Trump se revuelve contra sus aliados ante las resistencias europeas a sacarle de la trampa de Ormuz: El presidente de EEUU redobla la presión contra sus aliados de la OTAN y otros países como China, Corea del Sur y Japón ante su negativa a implicarse en el patrullaje del estrecho, bloqueado por Irán tras los bombardeos de EEUU e Israel; Perder una guerra sin perder una batalla: qué dice el manual de defensa de Irán y cómo ha atrapado a EEUU en su propio fuego: Por qué la escalada favorece a Irán y en qué consiste la doctrina militar de Teherán; Israel mata a familias enteras y deja ciudades desiertas en Líbano: “Esta guerra es más dura”: Las comunidades se ven desplazadas y destruidas, mientras que el número de víctimas mortales aumenta a un ritmo más rápido que en cualquier otra guerra anterior en el país. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-17T07:17:38Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Mañueco da una nueva victoria al PP en Castilla y León, que mantiene su dependencia de Vox, y el PSOE resiste",
-      "subtitle": "Tanto el PP como el PSOE suben dos escaños (con 33 y 30 respectivamente) mientras que Vox gana uno, hasta los 14, y roza por primera vez el 19% de sufragios",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-da-nueva-victoria-pp-castilla-leon-mantiene-dependencia-vox-psoe-resiste_1_13070279.html",
-      "scraped_at": "2026-03-16T07:46:17Z"
+      "title": "Trump se revuelve contra sus aliados ante las resistencias europeas a sacarle de la trampa de Ormuz",
+      "subtitle": "El presidente de EEUU redobla la presión contra sus aliados de la OTAN y otros países como China, Corea del Sur y Japón ante su negativa a implicarse en el patrullaje del estrecho, bloqueado por Irán tras los bombardeos de EEUU e Israel",
+      "url": "https://www.eldiario.es/internacional/trump-revuelve-aliados-resistencias-europeas-sacarle-trampa-ormuz_1_13073294.html",
+      "scraped_at": "2026-03-17T07:17:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo conjura durante un tiempo la amenaza de Vox",
-      "subtitle": "Castilla y León deja contentos a los tres principales partidos, pero mucho menos a Vox. Mañueco no intentó ser el antisanchista por excelencia, aunque ese no es el punto de vista mayoritario entre los barones regionales del PP",
-      "url": "https://www.eldiario.es/politica/feijoo-conjura-durante-tiempo-amenaza-vox_129_13070305.html",
-      "scraped_at": "2026-03-16T07:46:17Z"
+      "title": "Perder una guerra sin perder una batalla: qué dice el manual de defensa de Irán y cómo ha atrapado a EEUU en su propio fuego",
+      "subtitle": "Por qué la escalada favorece a Irán y en qué consiste la doctrina militar de Teherán",
+      "url": "https://www.eldiario.es/internacional/la-semana-internacional/perder-guerra-perder-batalla-dice-manual-defensa-iran-atrapado-eeuu-propio-fuego_132_13073353.html",
+      "scraped_at": "2026-03-17T07:17:36Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP de Feijóo se felicita por el frenazo de Vox en Castilla y León resignado a gobernar con la extrema derecha",
-      "subtitle": "Génova presume de meterle \"casi 17 puntos\" a los de Abascal, y señala que el bloqueo en Extremadura que hicieron por \"cálculo electoral\" les ha pasado factura y Tellado les apremia a pactar ya: \"Espero que entienda igual que nosotros el mandato de los ciudadanos\"",
-      "url": "https://www.eldiario.es/politica/pp-feijoo-felicita-frenazo-vox-castilla-leon-resignados-gobernar-extrema-derecha_1_13070405.html",
-      "scraped_at": "2026-03-16T07:46:18Z"
+      "title": "Israel mata a familias enteras y deja ciudades desiertas en Líbano: “Esta guerra es más dura”",
+      "subtitle": "Las comunidades se ven desplazadas y destruidas, mientras que el número de víctimas mortales aumenta a un ritmo más rápido que en cualquier otra guerra anterior en el país",
+      "url": "https://www.eldiario.es/internacional/theguardian/israel-mata-familias-enteras-deja-ciudades-desiertas-libano-guerra-dura_1_13072955.html",
+      "scraped_at": "2026-03-17T07:17:36Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE mejora sus resultados en Castilla y León tras las debacles de Extremadura y Aragón",
-      "subtitle": "Los socialistas rompen su tendencia de desplome autonómico y consiguen 30 procuradores, dos más que hace cuatro años, aunque se quedan lejos de desbancar a la derecha",
-      "url": "https://www.eldiario.es/politica/psoe-mejora-resultados-castilla-leon-debacles-extremadura-aragon_1_13070335.html",
-      "scraped_at": "2026-03-16T07:46:18Z"
+      "title": "“Tendré el honor de tomar Cuba”: Trump redobla la presión en plena asfixia energética de EEUU",
+      "subtitle": "La Administración Trump ha comunicado a Cuba, que sufre un apagón nacional, que su presidente, Miguel Díaz-Canel, debe marcharse para lograr un avance significativo en las negociaciones, según publica The New York Times",
+      "url": "https://www.eldiario.es/internacional/tendre-honor-cuba-trump-redobla-presion-isla-sufre-apagon-nacional-plena-asfixia-energetica-eeuu_1_13073684.html",
+      "scraped_at": "2026-03-17T07:17:37Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Netanyahu",
-      "subtitle": "La guerra de Irán revela que EEUU carece de estrategia para ese país y Oriente Medio, sin embargo, el Gobierno y la ultraderecha israelíes quieren controlar mediante la fuerza y el caos el conjunto de la región",
-      "url": "https://www.eldiario.es/internacional/gran-plan-israel-detras-guerras-oriente-medio-papel-juega-eeuu_129_13064764.html",
-      "scraped_at": "2026-03-16T07:46:19Z"
+      "title": "Apagón Cuba",
+      "subtitle": "El problema esencial que diferencia esta ocasión de las previas es que en la actualidad el país casi no dispone de diésel y fueloil para sus motores de generación debido al bloqueo petrolero estadounidense",
+      "url": "https://www.eldiario.es/internacional/cuba-sufre-apagon-nacional-desconexion-total-sistema-electrico_1_13073405.html",
+      "scraped_at": "2026-03-17T07:17:38Z"
     }
   ]
 }
