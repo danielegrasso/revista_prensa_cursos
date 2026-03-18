@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE admite el error de dirigir las campañas desde Moncloa: «La gente no es tonta»: En la dirección preocupa que la vinculación con Sánchez se perciba como un lastre y piden «reivindicar» su liderazgo; Vox promete entrar en los tres gobiernos autonómicos, pero con acuerdos distintos: Se llevarán a cabo negociaciones independientes para garantizar «medida a medida» la estabilidad de las regiones; Los barones del PP dudan sobre si los de Abascal querrán realmente entrar en sus gobiernos: Los presidentes siguen esperando a que Abascal aclare si asumirán consejerías y responsabilidades de gestión. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-17T07:17:39Z",
+  "summary": "Resumen del día en ABC.es: Ribera se lanza contra Von der Leyen para encumbrar a Sánchez: La relación entre ambas se ha deteriorado debido a las diferencias con la postura en el conflicto en Irán; PP y Vox están solo a falta de «echar números» en Extremadura para cerrar un acuerdo: Ambas formaciones logran avances significativos a nivel programático a la espera de concretar, con cifras, cómo materializar su pacto; El poder que resiste en Irán: un líder supremo herido y un presidente sin guardianes: Al menos cinco miembros del círculo más estrecho de Alí Jamenei han caído desde el inicio de la guerra el pasado 28 de febrero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-18T07:16:25Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE admite el error de dirigir las campañas desde Moncloa: «La gente no es tonta»",
-      "subtitle": "En la dirección preocupa que la vinculación con Sánchez se perciba como un lastre y piden «reivindicar» su liderazgo",
-      "url": "https://www.abc.es/espana/psoe-asume-error-nacionalizar-campanas-gente-tonta-20260317040244-nt.html",
-      "scraped_at": "2026-03-17T07:17:38Z"
+      "title": "Ribera se lanza contra Von der Leyen para encumbrar a Sánchez",
+      "subtitle": "La relación entre ambas se ha deteriorado debido a las diferencias con la postura en el conflicto en Irán",
+      "url": "https://www.abc.es/espana/maniobras-sanchez-europa-abren-crisis-ribera-von-20260318040325-nt.html",
+      "scraped_at": "2026-03-18T07:16:24Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vox promete entrar en los tres gobiernos autonómicos, pero con acuerdos distintos",
-      "subtitle": "Se llevarán a cabo negociaciones independientes para garantizar «medida a medida» la estabilidad de las regiones",
-      "url": "https://www.abc.es/espana/vox-plantea-acuerdos-asimetricos-actuara-igual-comunidades-20260317040331-nt.html",
-      "scraped_at": "2026-03-17T07:17:38Z"
+      "title": "PP y Vox están solo a falta de «echar números» en Extremadura para cerrar un acuerdo",
+      "subtitle": "Ambas formaciones logran avances significativos a nivel programático a la espera de concretar, con cifras, cómo materializar su pacto",
+      "url": "https://www.abc.es/espana/extremadura/pp-vox-falta-solo-echar-numeros-extremadura-20260318040420-nt.html",
+      "scraped_at": "2026-03-18T07:16:24Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los barones del PP dudan sobre si los de Abascal querrán realmente entrar en sus gobiernos",
-      "subtitle": "Los presidentes siguen esperando a que Abascal aclare si asumirán consejerías y responsabilidades de gestión",
-      "url": "https://www.abc.es/espana/incertidumbre-barones-pp-dudan-sobre-vox-querra-20260317040337-nt.html",
-      "scraped_at": "2026-03-17T07:17:39Z"
+      "title": "El poder que resiste en Irán: un líder supremo herido y un presidente sin guardianes",
+      "subtitle": "Al menos cinco miembros del círculo más estrecho de Alí Jamenei han caído desde el inicio de la guerra el pasado 28 de febrero",
+      "url": "https://www.abc.es/internacional/poder-resiste-iran-lider-supremo-herido-presidente-20260318040504-nt.html",
+      "scraped_at": "2026-03-18T07:16:24Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno solo ha aprobado el 30% de su plan legislativo",
-      "subtitle": "La parálisis legislativa se agrava ya que en 2024 el Ejecutivo logró sacar adelante el 45% de las leyes y decretos previstos en su Plan Anual Normativo",
-      "url": "https://www.abc.es/espana/gobierno-solo-aprobado-plan-legislativo-20260317040400-nt.html",
-      "scraped_at": "2026-03-17T07:17:39Z"
+      "title": "El Gobierno reforzará la seguridad de los servicios esenciales con dos años de retraso",
+      "subtitle": "El Consejo de Ministros envía al Congreso la ley que transpondrá la directiva europea de Resiliencia y que debía haberse aprobado en octubre de 2024",
+      "url": "https://www.abc.es/espana/gobierno-reforzara-seguridad-infraestructuras-criticas-dos-anos-20260318040654-nt.html",
+      "scraped_at": "2026-03-18T07:16:24Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-17T07:17:39Z"
+      "scraped_at": "2026-03-18T07:16:25Z"
     }
   ]
 }
