@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Un tsunami por el corte del AVE a Málaga en plena temporada: pérdidas de 2.000 millones y más de 6.000 contratos en peligro: El Gobierno andaluz estudia qué \"instrumentos jurídicos\" puede articular para exigir al Ejecutivo de Pedro Sánchez que compense las pérdidas y los daños al sector; La investigación aguarda los análisis metalográficos para confirmar si la rotura de la vía llegó por un fallo del material o del mantenimiento: La jueza ordenó que las pruebas técnicas se realizaran por duplicado, seleccionando una empresa independiente, ajena a las partes implicadas en el accidente; Dos meses del accidente: cinco preguntas (una sin respuesta aún) y una investigación con el foco en Adif: El sumario que instruye el juzgado de Montoro confirma las sospechas de que el choque entre el Alvia y el Iryo se debió a un problema de la vía o de la soldadura, aunque no están del todo descartadas otras hipótesis. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-18T07:16:19Z",
+  "summary": "Resumen del día en El Mundo: Vox intenta apagar a los críticos ligándolos a una \"estrategia\" del PP: Responde a Espinosa, Ortega Smith, Monasterio y otros ex dirigentes de la primera línea que piden un congreso extraordinario del partido; Los socios rechazan las prisas de IU para acelerar con el candidato que sustituirá a Díaz: Sumar, Comunes y Más Madrid se oponen a abordar ya nombres y piden tiempo. Bustinduy insiste en descartarse: \"No es el papel que deba asumir\"; Juanma Moreno se reafirma en su estrategia tras el avance del PP en Castilla y León: Los populares confían en que los andaluces \"no van a sacrificar la estabilidad por puro aventurerismo político\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-19T07:12:32Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Un tsunami por el corte del AVE a Málaga en plena temporada: pérdidas de 2.000 millones y más de 6.000 contratos en peligro",
-      "subtitle": "El Gobierno andaluz estudia qué \"instrumentos jurídicos\" puede articular para exigir al Ejecutivo de Pedro Sánchez que compense las pérdidas y los daños al sector",
-      "url": "https://www.elmundo.es/economia/2026/03/17/69b9a91f21efa084158b45dd.html",
-      "scraped_at": "2026-03-18T07:16:18Z"
+      "title": "Vox intenta apagar a los críticos ligándolos a una \"estrategia\" del PP",
+      "subtitle": "Responde a Espinosa, Ortega Smith, Monasterio y otros ex dirigentes de la primera línea que piden un congreso extraordinario del partido",
+      "url": "https://www.elmundo.es/espana/2026/03/18/69bafdb1fc6c8345238b45a3.html",
+      "scraped_at": "2026-03-19T07:12:31Z"
     },
     {
       "source": "El Mundo",
-      "title": "La investigación aguarda los análisis metalográficos para confirmar si la rotura de la vía llegó por un fallo del material o del mantenimiento",
-      "subtitle": "La jueza ordenó que las pruebas técnicas se realizaran por duplicado, seleccionando una empresa independiente, ajena a las partes implicadas en el accidente",
-      "url": "https://www.elmundo.es/economia/2026/03/18/69b9602ae85ececa6f8b458b.html",
-      "scraped_at": "2026-03-18T07:16:18Z"
+      "title": "Los socios rechazan las prisas de IU para acelerar con el candidato que sustituirá a Díaz",
+      "subtitle": "Sumar, Comunes y Más Madrid se oponen a abordar ya nombres y piden tiempo. Bustinduy insiste en descartarse: \"No es el papel que deba asumir\"",
+      "url": "https://www.elmundo.es/espana/2026/03/18/69baea59fc6c83d1668b45c8.html",
+      "scraped_at": "2026-03-19T07:12:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Dos meses del accidente: cinco preguntas (una sin respuesta aún) y una investigación con el foco en Adif",
-      "subtitle": "El sumario que instruye el juzgado de Montoro confirma las sospechas de que el choque entre el Alvia y el Iryo se debió a un problema de la vía o de la soldadura, aunque no están del todo descartadas otras hipótesis",
-      "url": "https://www.elmundo.es/andalucia/2026/03/17/69b2d20afc6c83781a8b45cc.html",
-      "scraped_at": "2026-03-18T07:16:19Z"
+      "title": "Juanma Moreno se reafirma en su estrategia tras el avance del PP en Castilla y León",
+      "subtitle": "Los populares confían en que los andaluces \"no van a sacrificar la estabilidad por puro aventurerismo político\"",
+      "url": "https://www.elmundo.es/andalucia/2026/03/19/69b829cae9cf4adb348b4588.html",
+      "scraped_at": "2026-03-19T07:12:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las tres trampas para Trump en el Estrecho de Ormuz: 'kill box' para petroleros, pago en yuanes y un laberinto de islas",
-      "subtitle": "Irán sólo ha dejado libre de minas la zona más cercana a su costa. Así tiene el control de fuego y de radar sobre los cargueros que traten de aventurarse sin su permiso",
-      "url": "https://www.elmundo.es/internacional/2026/03/17/69b98addfdddff8c308b4592.html",
-      "scraped_at": "2026-03-18T07:16:19Z"
+      "title": "La \"trampa\" de los ayatolás: por qué un ataque a Irán podría ser un suicidio táctico",
+      "subtitle": "En aquella batalla de la IGM, las tropas aliadas tuvieron que desembarcar en playas estrechas dominadas por alturas desde las que podían batirlos. En la costa sur de Irán hay tramos abruptos, zonas montañosas junto al mar y accesos limitados",
+      "url": "https://www.elmundo.es/internacional/2026/03/18/69ba9eaafdddff4b638b458b.html",
+      "scraped_at": "2026-03-19T07:12:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Juana Rivas",
-      "subtitle": "La mujer, que lleva visitando a Daniel Arcuri desde 2019 todas las semanas en casa de su padre, descarta ninguna agresión a los menores y dice que el niño está \"feliz\" y no quiere volver con su madre",
-      "url": "https://www.elmundo.es/espana/2026/03/18/69b85eb0e4d4d824048b4596.html",
-      "scraped_at": "2026-03-18T07:16:19Z"
+      "title": "Precios Repsol",
+      "subtitle": "La compañía mantendrá la nueva política de rebajas a usuarios de Waylet y Solred desde este sábado hasta el lunes 6 de abril",
+      "url": "https://www.elmundo.es/economia/empresas/2026/03/18/69bacb11e9cf4a06428b4592.html",
+      "scraped_at": "2026-03-19T07:12:32Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Ribera se lanza contra Von der Leyen para encumbrar a Sánchez: La relación entre ambas se ha deteriorado debido a las diferencias con la postura en el conflicto en Irán; PP y Vox están solo a falta de «echar números» en Extremadura para cerrar un acuerdo: Ambas formaciones logran avances significativos a nivel programático a la espera de concretar, con cifras, cómo materializar su pacto; El poder que resiste en Irán: un líder supremo herido y un presidente sin guardianes: Al menos cinco miembros del círculo más estrecho de Alí Jamenei han caído desde el inicio de la guerra el pasado 28 de febrero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-18T07:16:25Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno busca un perfil afín al PSC para sustituir a Escribano en Indra: Raül Blanco, expresidente de Renfe y actual directivo de SAPA, entre los candidatos de La Moncloa a liderar la tecnológica; Sánchez busca el apoyo del PP para el decreto de la guerra mientras que Feijóo desconfía: «Debe ser un texto limpio»: Los populares mirarán con lupa el documento, pero tienen ya tomada la decisión: será un no si incluye medidas ajenas al conflicto; Los españoles destinados en Líbano llevan tres semanas sin apenas salir del búnker: Estados Unidos es clave para garantizar la seguridad de la salida de las tropas españolas y de sus aliados de Irak acordada por la OTAN. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-19T07:12:40Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Ribera se lanza contra Von der Leyen para encumbrar a Sánchez",
-      "subtitle": "La relación entre ambas se ha deteriorado debido a las diferencias con la postura en el conflicto en Irán",
-      "url": "https://www.abc.es/espana/maniobras-sanchez-europa-abren-crisis-ribera-von-20260318040325-nt.html",
-      "scraped_at": "2026-03-18T07:16:24Z"
+      "title": "El Gobierno busca un perfil afín al PSC para sustituir a Escribano en Indra",
+      "subtitle": "Raül Blanco, expresidente de Renfe y actual directivo de SAPA, entre los candidatos de La Moncloa a liderar la tecnológica",
+      "url": "https://www.abc.es/economia/gobierno-busca-afin-psc-sustituir-escribano-indra-20260319040534-nt.html",
+      "scraped_at": "2026-03-19T07:12:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "PP y Vox están solo a falta de «echar números» en Extremadura para cerrar un acuerdo",
-      "subtitle": "Ambas formaciones logran avances significativos a nivel programático a la espera de concretar, con cifras, cómo materializar su pacto",
-      "url": "https://www.abc.es/espana/extremadura/pp-vox-falta-solo-echar-numeros-extremadura-20260318040420-nt.html",
-      "scraped_at": "2026-03-18T07:16:24Z"
+      "title": "Sánchez busca el apoyo del PP para el decreto de la guerra mientras que Feijóo desconfía: «Debe ser un texto limpio»",
+      "subtitle": "Los populares mirarán con lupa el documento, pero tienen ya tomada la decisión: será un no si incluye medidas ajenas al conflicto",
+      "url": "https://www.abc.es/espana/gobierno-busca-apoyo-pp-decreto-guerra-feijoo-20260319040908-nt.html",
+      "scraped_at": "2026-03-19T07:12:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "El poder que resiste en Irán: un líder supremo herido y un presidente sin guardianes",
-      "subtitle": "Al menos cinco miembros del círculo más estrecho de Alí Jamenei han caído desde el inicio de la guerra el pasado 28 de febrero",
-      "url": "https://www.abc.es/internacional/poder-resiste-iran-lider-supremo-herido-presidente-20260318040504-nt.html",
-      "scraped_at": "2026-03-18T07:16:24Z"
+      "title": "Los españoles destinados en Líbano llevan tres semanas sin apenas salir del búnker",
+      "subtitle": "Estados Unidos es clave para garantizar la seguridad de la salida de las tropas españolas y de sus aliados de Irak acordada por la OTAN",
+      "url": "https://www.abc.es/espana/tropas-espanoles-libano-llevan-veinte-dias-salir-20260319040933-nt.html",
+      "scraped_at": "2026-03-19T07:12:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno reforzará la seguridad de los servicios esenciales con dos años de retraso",
-      "subtitle": "El Consejo de Ministros envía al Congreso la ley que transpondrá la directiva europea de Resiliencia y que debía haberse aprobado en octubre de 2024",
-      "url": "https://www.abc.es/espana/gobierno-reforzara-seguridad-infraestructuras-criticas-dos-anos-20260318040654-nt.html",
-      "scraped_at": "2026-03-18T07:16:24Z"
+      "title": "Alerta máxima en la fragata Cristóbal Colón, desplegada en Chipre",
+      "subtitle": "Permanece siempre junto al portaaviones Charles de Gaulle, al que da protección gracias a su sofisticado sistema de defensa aérea",
+      "url": "https://www.abc.es/espana/portaaviones-frances-escudo-fragata-espanola-20260319040947-nt.html",
+      "scraped_at": "2026-03-19T07:12:40Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-18T07:16:25Z"
+      "scraped_at": "2026-03-19T07:12:40Z"
     }
   ]
 }
