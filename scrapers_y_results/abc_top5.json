@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno busca un perfil afín al PSC para sustituir a Escribano en Indra: Raül Blanco, expresidente de Renfe y actual directivo de SAPA, entre los candidatos de La Moncloa a liderar la tecnológica; Sánchez busca el apoyo del PP para el decreto de la guerra mientras que Feijóo desconfía: «Debe ser un texto limpio»: Los populares mirarán con lupa el documento, pero tienen ya tomada la decisión: será un no si incluye medidas ajenas al conflicto; Los españoles destinados en Líbano llevan tres semanas sin apenas salir del búnker: Estados Unidos es clave para garantizar la seguridad de la salida de las tropas españolas y de sus aliados de Irak acordada por la OTAN. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-19T07:12:40Z",
+  "summary": "Resumen del día en ABC.es: El encargado de atender a las víctimas de Adamuz aún no les ha llamado: La falta de actividad de esta oficina se achaca a la ausencia de «protocolos» para poder desarrollar su trabajo; La universidad pública mantiene 224 titulaciones con menos de cinco alumnos: El mismo ministerio que exige a los campus privados un mínimo de 4.500 estudiantes permite que existan titulaciones semivacías sostenidas con dinero público; La guerra energética en Irán complica la campaña conjunta de EE.UU. e Israel: Netanyahu defiende la coordinación total con Trump, pese al distanciamiento del presidente de EE.UU. frente al bombardeo de un importante campo gasístico iraní. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-20T07:11:33Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno busca un perfil afín al PSC para sustituir a Escribano en Indra",
-      "subtitle": "Raül Blanco, expresidente de Renfe y actual directivo de SAPA, entre los candidatos de La Moncloa a liderar la tecnológica",
-      "url": "https://www.abc.es/economia/gobierno-busca-afin-psc-sustituir-escribano-indra-20260319040534-nt.html",
-      "scraped_at": "2026-03-19T07:12:39Z"
+      "title": "El encargado de atender a las víctimas de Adamuz aún no les ha llamado",
+      "subtitle": "La falta de actividad de esta oficina se achaca a la ausencia de «protocolos» para poder desarrollar su trabajo",
+      "url": "https://www.abc.es/espana/encargado-transportes-atender-victimas-nunca-contactado-afectados-20260320040010-nt.html",
+      "scraped_at": "2026-03-20T07:11:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez busca el apoyo del PP para el decreto de la guerra mientras que Feijóo desconfía: «Debe ser un texto limpio»",
-      "subtitle": "Los populares mirarán con lupa el documento, pero tienen ya tomada la decisión: será un no si incluye medidas ajenas al conflicto",
-      "url": "https://www.abc.es/espana/gobierno-busca-apoyo-pp-decreto-guerra-feijoo-20260319040908-nt.html",
-      "scraped_at": "2026-03-19T07:12:39Z"
+      "title": "La universidad pública mantiene 224 titulaciones con menos de cinco alumnos",
+      "subtitle": "El mismo ministerio que exige a los campus privados un mínimo de 4.500 estudiantes permite que existan titulaciones semivacías sostenidas con dinero público",
+      "url": "https://www.abc.es/sociedad/universidad-fantasma-335-grados-masteres-alumnos-20260319040055-nt.html",
+      "scraped_at": "2026-03-20T07:11:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los españoles destinados en Líbano llevan tres semanas sin apenas salir del búnker",
-      "subtitle": "Estados Unidos es clave para garantizar la seguridad de la salida de las tropas españolas y de sus aliados de Irak acordada por la OTAN",
-      "url": "https://www.abc.es/espana/tropas-espanoles-libano-llevan-veinte-dias-salir-20260319040933-nt.html",
-      "scraped_at": "2026-03-19T07:12:40Z"
+      "title": "La guerra energética en Irán complica la campaña conjunta de EE.UU. e Israel",
+      "subtitle": "Netanyahu defiende la coordinación total con Trump, pese al distanciamiento del presidente de EE.UU. frente al bombardeo de un importante campo gasístico iraní",
+      "url": "https://www.abc.es/internacional/guerra-energetica-iran-complica-campana-conjunta-eeuu-20260319040145-nt.html",
+      "scraped_at": "2026-03-20T07:11:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alerta máxima en la fragata Cristóbal Colón, desplegada en Chipre",
-      "subtitle": "Permanece siempre junto al portaaviones Charles de Gaulle, al que da protección gracias a su sofisticado sistema de defensa aérea",
-      "url": "https://www.abc.es/espana/portaaviones-frances-escudo-fragata-espanola-20260319040947-nt.html",
-      "scraped_at": "2026-03-19T07:12:40Z"
+      "title": "Sánchez gastará 2.300 millones más en Defensa mientras ondea el 'No a la guerra'",
+      "subtitle": "El Gobierno elevará al 2,1% del PIB la inversión militar este año, al tiempo que se erige en el referente antibelicista de Europa",
+      "url": "https://www.abc.es/espana/sanchez-eleva-gasto-defensa-ondea-guerra-20260320040311-nt.html",
+      "scraped_at": "2026-03-20T07:11:33Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-19T07:12:40Z"
+      "scraped_at": "2026-03-20T07:11:33Z"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sánchez pidió a Illa retirar sus cuentas y votarlas tras las andaluzas para no perjudicarle: ERC y PSC han supeditado la aprobación de los presupuestos de la Generalitat a la celebración de las elecciones andaluzas entre el 31 de mayo y el 21 de junio para no lastrar las opciones del PSOE; Cómo cazan los detectives el fraude laboral: \"Las empresas los usamos cada vez más\": Las incapacidades temporales fraudulentas se han disparado, lo que ha provocado que cada vez más empresas recurran a investigadores privados para identificar estos casos; Espinosa: \"Hay que ver euro por euro el dinero de Vox en un congreso a puerta cerrada\": El exportavoz de Vox descarta por el momento fundar un partido: &quot;Ya monté un partido, se llama Vox y lo vamos a intentar recuperar&quot;. Lamenta la deriva ideológica de la formación y el dominio férreo de la cúpula. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-19T07:12:45Z",
+  "summary": "Resumen del día en El Confidencial: El BCE anticipa una recesión e inflación al 6% si la guerra en Irán se enquista: Aunque no es su escenario base, el BCE alerta del potencial disruptivo de la guerra a medida que se suman días de conflicto y se destruyen infraestructuras energéticas; El funcionario sin el que España se vendría abajo está al borde del colapso: Ningún ayuntamiento puede funcionar sin un secretario-interventor, pero este cuerpo está al límite. La carga de trabajo se ha disparado y las tensiones políticas espantan a los potenciales candidatos que pueden cubrir estas vacantes; Puente enfada al PSOE-A por la ofensiva con el AVE a Málaga: \"Se puede explicar sin bronca\": La andanada del ministro de Transportes y su choque con los medios desconcierta a los socialistas andaluces, aunque coinciden en negar la cifra de 1.300 millones de impacto de la que ahora reniega la patronal hotelera de la Costa del Sol. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-20T07:11:39Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sánchez pidió a Illa retirar sus cuentas y votarlas tras las andaluzas para no perjudicarle",
-      "subtitle": "ERC y PSC han supeditado la aprobación de los presupuestos de la Generalitat a la celebración de las elecciones andaluzas entre el 31 de mayo y el 21 de junio para no lastrar las opciones del PSOE",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-03-19/sanchez-pidio-illa-retirar-presupuestos-andaluzas_4323100/",
-      "scraped_at": "2026-03-19T07:12:44Z"
+      "title": "El BCE anticipa una recesión e inflación al 6% si la guerra en Irán se enquista",
+      "subtitle": "Aunque no es su escenario base, el BCE alerta del potencial disruptivo de la guerra a medida que se suman días de conflicto y se destruyen infraestructuras energéticas",
+      "url": "https://www.elconfidencial.com/economia/2026-03-20/bce-recesion-inflacion-guerra-iran-escenario-adverso_4323798/",
+      "scraped_at": "2026-03-20T07:11:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cómo cazan los detectives el fraude laboral: \"Las empresas los usamos cada vez más\"",
-      "subtitle": "Las incapacidades temporales fraudulentas se han disparado, lo que ha provocado que cada vez más empresas recurran a investigadores privados para identificar estos casos",
-      "url": "https://www.elconfidencial.com/espana/2026-03-19/detectives-fraude-laboral-absentismo_4322049/",
-      "scraped_at": "2026-03-19T07:12:44Z"
+      "title": "El funcionario sin el que España se vendría abajo está al borde del colapso",
+      "subtitle": "Ningún ayuntamiento puede funcionar sin un secretario-interventor, pero este cuerpo está al límite. La carga de trabajo se ha disparado y las tensiones políticas espantan a los potenciales candidatos que pueden cubrir estas vacantes",
+      "url": "https://www.elconfidencial.com/espana/2026-03-20/secretarios-interventores-espana-funcionario-crisis_4321333/",
+      "scraped_at": "2026-03-20T07:11:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Espinosa: \"Hay que ver euro por euro el dinero de Vox en un congreso a puerta cerrada\"",
-      "subtitle": "El exportavoz de Vox descarta por el momento fundar un partido: &quot;Ya monté un partido, se llama Vox y lo vamos a intentar recuperar&quot;. Lamenta la deriva ideológica de la formación y el dominio férreo de la cúpula",
-      "url": "https://www.elconfidencial.com/espana/2026-03-19/entrevista-espinosa-monteros-financiacion-vox-congreso_4323095/",
-      "scraped_at": "2026-03-19T07:12:44Z"
+      "title": "Puente enfada al PSOE-A por la ofensiva con el AVE a Málaga: \"Se puede explicar sin bronca\"",
+      "subtitle": "La andanada del ministro de Transportes y su choque con los medios desconcierta a los socialistas andaluces, aunque coinciden en negar la cifra de 1.300 millones de impacto de la que ahora reniega la patronal hotelera de la Costa del Sol",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-03-20/enfado-en-el-psoe-a-por-la-ofensiva-de-puente-por-el-ave_4323761/",
+      "scraped_at": "2026-03-20T07:11:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "Hace 25 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2026-03-19T07:12:45Z"
+      "title": "'Amarga Navidad': drama de Almodóvar contra el poderío de Torrente",
+      "subtitle": "El director manchego, que aspira a competir en el Festival de Cannes, elige esta vez a Leonardo Sbaraglia como álter ego, en una película sobre cómo la creación vampiriza la vida",
+      "url": "https://www.elconfidencial.com/cultura/2026-03-20/amarga-navidad-almodovar-barbara-lennie_4320724/",
+      "scraped_at": "2026-03-20T07:11:39Z"
     }
   ]
 }
