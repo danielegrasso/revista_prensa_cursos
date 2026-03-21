@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El BCE anticipa una recesión e inflación al 6% si la guerra en Irán se enquista: Aunque no es su escenario base, el BCE alerta del potencial disruptivo de la guerra a medida que se suman días de conflicto y se destruyen infraestructuras energéticas; El funcionario sin el que España se vendría abajo está al borde del colapso: Ningún ayuntamiento puede funcionar sin un secretario-interventor, pero este cuerpo está al límite. La carga de trabajo se ha disparado y las tensiones políticas espantan a los potenciales candidatos que pueden cubrir estas vacantes; Puente enfada al PSOE-A por la ofensiva con el AVE a Málaga: \"Se puede explicar sin bronca\": La andanada del ministro de Transportes y su choque con los medios desconcierta a los socialistas andaluces, aunque coinciden en negar la cifra de 1.300 millones de impacto de la que ahora reniega la patronal hotelera de la Costa del Sol. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-20T07:11:39Z",
+  "summary": "Resumen del día en El Confidencial: La lucha en Sumar por la sucesión rompe las costuras del 'Frankenstein' de Pedro Sánchez: Yolanda Díaz destapa la debilidad del Ejecutivo al liderar el plante a Sánchez mientras Mónica García se posiciona para heredar el liderazgo en Sumar en pleno debate interno sobre cómo marcar posición frente al PSOE; ¿Quién quiere viajar con tu hijo? Los profesores se rebelan contra las excursiones: Salir de viaje con un grupo de adolescentes pasa factura a muchos maestros que prefieren renunciar estas salidas con gastos pagados. Mientras tanto, las empresas del sector ofrecen &quot;monitores&quot; y los precios suben; Jordi Évole, sobre Marc Giró: \"Vi a Pedro Sánchez con ganas de ir a su programa\": Uno de los momentos más sorprendentes de la próxima entrega de &#039;Lo de Évole&#039; sucederá con una llamada al presidente del Gobierno, Pedro Sánchez. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-21T07:01:25Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El BCE anticipa una recesión e inflación al 6% si la guerra en Irán se enquista",
-      "subtitle": "Aunque no es su escenario base, el BCE alerta del potencial disruptivo de la guerra a medida que se suman días de conflicto y se destruyen infraestructuras energéticas",
-      "url": "https://www.elconfidencial.com/economia/2026-03-20/bce-recesion-inflacion-guerra-iran-escenario-adverso_4323798/",
-      "scraped_at": "2026-03-20T07:11:38Z"
+      "title": "La lucha en Sumar por la sucesión rompe las costuras del 'Frankenstein' de Pedro Sánchez",
+      "subtitle": "Yolanda Díaz destapa la debilidad del Ejecutivo al liderar el plante a Sánchez mientras Mónica García se posiciona para heredar el liderazgo en Sumar en pleno debate interno sobre cómo marcar posición frente al PSOE",
+      "url": "https://www.elconfidencial.com/espana/2026-03-21/lucha-sucesion-sumar-rompe-costuras-frankenstein_4324355/",
+      "scraped_at": "2026-03-21T07:01:24Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El funcionario sin el que España se vendría abajo está al borde del colapso",
-      "subtitle": "Ningún ayuntamiento puede funcionar sin un secretario-interventor, pero este cuerpo está al límite. La carga de trabajo se ha disparado y las tensiones políticas espantan a los potenciales candidatos que pueden cubrir estas vacantes",
-      "url": "https://www.elconfidencial.com/espana/2026-03-20/secretarios-interventores-espana-funcionario-crisis_4321333/",
-      "scraped_at": "2026-03-20T07:11:38Z"
+      "title": "¿Quién quiere viajar con tu hijo? Los profesores se rebelan contra las excursiones",
+      "subtitle": "Salir de viaje con un grupo de adolescentes pasa factura a muchos maestros que prefieren renunciar estas salidas con gastos pagados. Mientras tanto, las empresas del sector ofrecen &quot;monitores&quot; y los precios suben",
+      "url": "https://www.elconfidencial.com/espana/2026-03-21/viajes-escolares-profesores_4323779/",
+      "scraped_at": "2026-03-21T07:01:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Puente enfada al PSOE-A por la ofensiva con el AVE a Málaga: \"Se puede explicar sin bronca\"",
-      "subtitle": "La andanada del ministro de Transportes y su choque con los medios desconcierta a los socialistas andaluces, aunque coinciden en negar la cifra de 1.300 millones de impacto de la que ahora reniega la patronal hotelera de la Costa del Sol",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-03-20/enfado-en-el-psoe-a-por-la-ofensiva-de-puente-por-el-ave_4323761/",
-      "scraped_at": "2026-03-20T07:11:39Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "'Amarga Navidad': drama de Almodóvar contra el poderío de Torrente",
-      "subtitle": "El director manchego, que aspira a competir en el Festival de Cannes, elige esta vez a Leonardo Sbaraglia como álter ego, en una película sobre cómo la creación vampiriza la vida",
-      "url": "https://www.elconfidencial.com/cultura/2026-03-20/amarga-navidad-almodovar-barbara-lennie_4320724/",
-      "scraped_at": "2026-03-20T07:11:39Z"
+      "title": "Jordi Évole, sobre Marc Giró: \"Vi a Pedro Sánchez con ganas de ir a su programa\"",
+      "subtitle": "Uno de los momentos más sorprendentes de la próxima entrega de &#039;Lo de Évole&#039; sucederá con una llamada al presidente del Gobierno, Pedro Sánchez",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-20/jordi-evole-marc-giro-pedro-sanchez-presidente-la-sexta_4324663/",
+      "scraped_at": "2026-03-21T07:01:25Z"
     }
   ]
 }

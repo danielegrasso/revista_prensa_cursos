@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El encargado de atender a las víctimas de Adamuz aún no les ha llamado: La falta de actividad de esta oficina se achaca a la ausencia de «protocolos» para poder desarrollar su trabajo; La universidad pública mantiene 224 titulaciones con menos de cinco alumnos: El mismo ministerio que exige a los campus privados un mínimo de 4.500 estudiantes permite que existan titulaciones semivacías sostenidas con dinero público; La guerra energética en Irán complica la campaña conjunta de EE.UU. e Israel: Netanyahu defiende la coordinación total con Trump, pese al distanciamiento del presidente de EE.UU. frente al bombardeo de un importante campo gasístico iraní. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-20T07:11:33Z",
+  "summary": "Resumen del día en ABC.es: El plante de Sumar indigna a Sánchez por reventar su anuncio contra la guerra: Malestar en Moncloa con el socio minoritario por eclipsar las medidas con su plante: «Es un bochorno»; Los informes rectificados de los que alertó la juez de Adamuz están entre los financiados por la UE: Juan Pablo Villanueva, director general de Negocio de Adif y mano derecha de Pardo de Vera, destituido el año pasado, firmó los contratos de vigilancia de las obras; Los magnates de la guerra en Europa: Desde la invasión rusa de Ucrania, las empresas armamentísticas trabajan en un plan de rearme europeo que la Comisión dotó de 800.000 millones de euros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-21T07:01:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El encargado de atender a las víctimas de Adamuz aún no les ha llamado",
-      "subtitle": "La falta de actividad de esta oficina se achaca a la ausencia de «protocolos» para poder desarrollar su trabajo",
-      "url": "https://www.abc.es/espana/encargado-transportes-atender-victimas-nunca-contactado-afectados-20260320040010-nt.html",
-      "scraped_at": "2026-03-20T07:11:33Z"
+      "title": "El plante de Sumar indigna a Sánchez por reventar su anuncio contra la guerra",
+      "subtitle": "Malestar en Moncloa con el socio minoritario por eclipsar las medidas con su plante: «Es un bochorno»",
+      "url": "https://www.abc.es/espana/debilidad-sumar-revienta-gran-anuncio-sanchez-guerra-20260321040016-nt.html",
+      "scraped_at": "2026-03-21T07:01:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "La universidad pública mantiene 224 titulaciones con menos de cinco alumnos",
-      "subtitle": "El mismo ministerio que exige a los campus privados un mínimo de 4.500 estudiantes permite que existan titulaciones semivacías sostenidas con dinero público",
-      "url": "https://www.abc.es/sociedad/universidad-fantasma-335-grados-masteres-alumnos-20260319040055-nt.html",
-      "scraped_at": "2026-03-20T07:11:33Z"
+      "title": "Los informes rectificados de los que alertó la juez de Adamuz están entre los financiados por la UE",
+      "subtitle": "Juan Pablo Villanueva, director general de Negocio de Adif y mano derecha de Pardo de Vera, destituido el año pasado, firmó los contratos de vigilancia de las obras",
+      "url": "https://www.abc.es/espana/informes-modificados-alerto-juez-adamuz-financiados-ue-20260321040155-nt.html",
+      "scraped_at": "2026-03-21T07:01:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "La guerra energética en Irán complica la campaña conjunta de EE.UU. e Israel",
-      "subtitle": "Netanyahu defiende la coordinación total con Trump, pese al distanciamiento del presidente de EE.UU. frente al bombardeo de un importante campo gasístico iraní",
-      "url": "https://www.abc.es/internacional/guerra-energetica-iran-complica-campana-conjunta-eeuu-20260319040145-nt.html",
-      "scraped_at": "2026-03-20T07:11:33Z"
+      "title": "Los magnates de la guerra en Europa",
+      "subtitle": "Desde la invasión rusa de Ucrania, las empresas armamentísticas trabajan en un plan de rearme europeo que la Comisión dotó de 800.000 millones de euros",
+      "url": "https://www.abc.es/internacional/senores-guerra-20260322040239-nt.html",
+      "scraped_at": "2026-03-21T07:01:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez gastará 2.300 millones más en Defensa mientras ondea el 'No a la guerra'",
-      "subtitle": "El Gobierno elevará al 2,1% del PIB la inversión militar este año, al tiempo que se erige en el referente antibelicista de Europa",
-      "url": "https://www.abc.es/espana/sanchez-eleva-gasto-defensa-ondea-guerra-20260320040311-nt.html",
-      "scraped_at": "2026-03-20T07:11:33Z"
+      "title": "«No es una guerra, es una misión de rescate»: la diáspora iraní en Los Ángeles que sueña con volver",
+      "subtitle": "La ciudad alberga la mayor comunidad de la diáspora iraní fuera de su tierra, en la encrucijada de ver al país que los acogió enfrentado al que los obligó a huir",
+      "url": "https://www.abc.es/internacional/iranies-angeles-divididos-esperanza-angustia-frente-ataques-20260321040334-nt.html",
+      "scraped_at": "2026-03-21T07:01:19Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-20T07:11:33Z"
+      "scraped_at": "2026-03-21T07:01:19Z"
     }
   ]
 }
