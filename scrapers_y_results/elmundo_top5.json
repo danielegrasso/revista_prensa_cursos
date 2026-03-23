@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Sumar se reafirma tras su \"golpe sobre la mesa\": \"El PSOE pensaba que íbamos a tragar y nos hemos reivindicado\": La negativa de los cinco ministros a entrar en la reunión del Consejo de Ministros si no se aprobaba el decreto de vivienda ha sido un acontecimiento que el PSOE nunca pudo imaginarse; Alfonso Fernández Mañueco: \"Es imprescindible que Vox se comprometa a apoyar al menos dos presupuestos\": El presidente en funciones de Castilla y León y ganador de las elecciones con el PP comienza dentro de tres días las reuniones para desbloquear la legislatura junto a Vox. Insiste en que es mejor gobernar en solitario, pero formar de nuevo una coalición \"no va a ser un problema\". Y reclama que su partido presida las Cortes.; Domesticar a Vox: La formación de Abascal, como antes ocurrió con Ciudadanos o Podemos, es un partido que capitaliza malestar pero no hace operativo su crecimiento. Andalucía será la hora de la verdad, porque allí se verá si el PP puede convertir su ventaja táctica en hegemonía estable. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-03-22T07:06:19Z",
+  "summary": "Resumen del día en El Mundo: \"El escenario más grave que trabajamos es que la situación sólo empezaría a normalizarse a principios de 2027\": El ex ministro sostiene que tener Presupuestos aprobados \"es incluso más importante\" por el conflicto de Oriente Próximo, recomienda a los gobiernos no tomar medidas de alivio indiscriminadas, sino específicas para segmentos vulnerables y urge en España a \"revisar\" la legislación de vivienda; Feijóo ordena no atacar a Vox: \"No entremos a la provocación\": \"Nosotros a lo nuestro\" y sin críticas directas a Abascal, ha escrito en el chat dela dirección popular . Abascal y sus alfiles insisten en la hipótesis de que el PP \"teledirige\" a los ex dirigentes críticos con Bambú; Sánchez y el espejo danés: Cómo deben estar las cosas para que Pedro Sánchez baje impuestos. La guerra en Irán se dirige a su primer mes y el miedo se ha colado en gobiernos, parlamentos y casas de todo.... Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-03-23T07:38:07Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Sumar se reafirma tras su \"golpe sobre la mesa\": \"El PSOE pensaba que íbamos a tragar y nos hemos reivindicado\"",
-      "subtitle": "La negativa de los cinco ministros a entrar en la reunión del Consejo de Ministros si no se aprobaba el decreto de vivienda ha sido un acontecimiento que el PSOE nunca pudo imaginarse",
-      "url": "https://www.elmundo.es/espana/2026/03/21/69bedefbe9cf4abd3e8b457e.html",
-      "scraped_at": "2026-03-22T07:06:18Z"
+      "title": "\"El escenario más grave que trabajamos es que la situación sólo empezaría a normalizarse a principios de 2027\"",
+      "subtitle": "El ex ministro sostiene que tener Presupuestos aprobados \"es incluso más importante\" por el conflicto de Oriente Próximo, recomienda a los gobiernos no tomar medidas de alivio indiscriminadas, sino específicas para segmentos vulnerables y urge en España a \"revisar\" la legislación de vivienda",
+      "url": "https://www.elmundo.es/economia/2026/03/22/69bfc6fce9cf4abd3e8b4593.html",
+      "scraped_at": "2026-03-23T07:38:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Alfonso Fernández Mañueco: \"Es imprescindible que Vox se comprometa a apoyar al menos dos presupuestos\"",
-      "subtitle": "El presidente en funciones de Castilla y León y ganador de las elecciones con el PP comienza dentro de tres días las reuniones para desbloquear la legislatura junto a Vox. Insiste en que es mejor gobernar en solitario, pero formar de nuevo una coalición \"no va a ser un problema\". Y reclama que su partido presida las Cortes.",
-      "url": "https://www.elmundo.es/espana/2026/03/22/69bee1f3fdddff39608b457b.html",
-      "scraped_at": "2026-03-22T07:06:18Z"
+      "title": "Feijóo ordena no atacar a Vox: \"No entremos a la provocación\"",
+      "subtitle": "\"Nosotros a lo nuestro\" y sin críticas directas a Abascal, ha escrito en el chat dela dirección popular . Abascal y sus alfiles insisten en la hipótesis de que el PP \"teledirige\" a los ex dirigentes críticos con Bambú",
+      "url": "https://www.elmundo.es/espana/2026/03/23/69bffef3e85ece267f8b4572.html",
+      "scraped_at": "2026-03-23T07:38:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Domesticar a Vox",
-      "subtitle": "La formación de Abascal, como antes ocurrió con Ciudadanos o Podemos, es un partido que capitaliza malestar pero no hace operativo su crecimiento. Andalucía será la hora de la verdad, porque allí se verá si el PP puede convertir su ventaja táctica en hegemonía estable",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/03/21/69beedf621efa093168b4573.html",
-      "scraped_at": "2026-03-22T07:06:18Z"
+      "title": "Sánchez y el espejo danés",
+      "subtitle": "Cómo deben estar las cosas para que Pedro Sánchez baje impuestos. La guerra en Irán se dirige a su primer mes y el miedo se ha colado en gobiernos, parlamentos y casas de todo...",
+      "url": "https://www.elmundo.es/espana/2026/03/22/69bfffdfe4d4d867408b458d.html",
+      "scraped_at": "2026-03-23T07:38:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "EL MUNDO viaja al Estrecho de Ormuz, epicentro del conflicto bélico con Irán: \"Desde este lado puedes oler y sentir la guerra\"",
-      "subtitle": "El control del canal por el que pasa un 20% del petróleo mundial puede decidir el resultado del conflicto bélico con Irán",
-      "url": "https://www.elmundo.es/internacional/2026/03/21/69becc50e4d4d8b7488b4580.html",
-      "scraped_at": "2026-03-22T07:06:19Z"
+      "title": "¿Qué es un interceptor de misiles y por qué se están agotando en la guerra contra Irán?",
+      "subtitle": "El escudo antimisiles se agota en todo el globo: las guerras de Irán y Rusia vacían los arsenales",
+      "url": "https://www.elmundo.es/internacional/2026/03/22/69c023c5fdddff9c078b457c.html",
+      "scraped_at": "2026-03-23T07:38:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "Muere Chuck Norris",
-      "subtitle": "El veterano actor de 86 años ha fallecido en un hospital de Hawái unas horas después de haber ingresado",
-      "url": "https://www.elmundo.es/cultura/2026/03/20/69bd568de9cf4aba338b45a2.html",
-      "scraped_at": "2026-03-22T07:06:19Z"
+      "title": "Activista gay iraní",
+      "subtitle": "Activista LGTBI iraní refugiado en España. Fue condenado a muerte por el régimen de los ayatolás por su condición de homosexual y su campaña de apoyo al colectivo. \"El enemigo ya lo teníamos en casa\", dice sobre la actual guerra",
+      "url": "https://www.elmundo.es/internacional/2026/03/23/69bfd9c0e85ece86448b4577.html",
+      "scraped_at": "2026-03-23T07:38:07Z"
     }
   ]
 }

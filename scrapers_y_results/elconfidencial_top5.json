@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: La gota que colmó el vaso de Espinosa: así se cocinó el paso adelante de los purgados de Vox: Espinosa de los Monteros rompió su silencio contra Abascal dos años después de su salida de la portavocía del partido, dos años en los que fuentes próximas al exportavoz acusan al partido de vetos y jugadas de &#039;fontanería&#039; para silenciar sus ideas; Este psicoanalista ha visto de todo: \"El matrimonio perfecto es casarte con tu ex\": Con su primer libro se convirtió en el Oliver Sacks del diván. Ahora Stephen Grosz vuelve con &quot;Trabajos del amor&quot;, en el que muestra lo poco que sabemos aún sobre el amor; La primera batalla de las andaluzas: trenes averiados contra nuevos hospitales: El PSOE intenta llevar a su terreno el debate y centrar las elecciones en un &quot;referéndum sobre la sanidad&quot;. Moreno puso la primera piedra del materno de Huelva y desbloquea con Montero el hospital de Cádiz mientas atiza a Puente por el AVE a Málaga. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-22T07:06:30Z",
+  "summary": "Resumen del día en El Confidencial: Madrid vs. Barcelona: costuras rotas de dos modelos de vivienda antagónicos y fallidos: Uno es el adalid del libre mercado, el otro, el laboratorio de ideas de la nueva regulación. Madrid y Barcelona son dos modelos de vivienda antagónicos. ¿Cuál está yendo peor?; ¿Se ha dado cuenta de que el colegio de su hijo está rodeado de comida rápida?: Un mapeo de los centros educativos de las seis mayores ciudades de España muestra cómo los locales de menús hipercalóricos están conquistando todo nuestro entorno; La renovación clave del TS, bloqueada tras el episodio de la asesora de Sánchez: El Consejo General del Poder Judicial esperará a que se produzcan tres nuevas vacantes que propicien una negociación conjunta sobre los aspirantes y rompan la actual parálisis. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-23T07:38:21Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La gota que colmó el vaso de Espinosa: así se cocinó el paso adelante de los purgados de Vox",
-      "subtitle": "Espinosa de los Monteros rompió su silencio contra Abascal dos años después de su salida de la portavocía del partido, dos años en los que fuentes próximas al exportavoz acusan al partido de vetos y jugadas de &#039;fontanería&#039; para silenciar sus ideas",
-      "url": "https://www.elconfidencial.com/espana/2026-03-22/la-gota-que-colmo-el-vaso-de-espinosa-asi-se-cocino-el-paso-adelante-del-exportavox_4324266/",
-      "scraped_at": "2026-03-22T07:06:28Z"
+      "title": "Madrid vs. Barcelona: costuras rotas de dos modelos de vivienda antagónicos y fallidos",
+      "subtitle": "Uno es el adalid del libre mercado, el otro, el laboratorio de ideas de la nueva regulación. Madrid y Barcelona son dos modelos de vivienda antagónicos. ¿Cuál está yendo peor?",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-03-23/tasa-esfuerzo-vivienda-madrid-barcelona_4324558/",
+      "scraped_at": "2026-03-23T07:38:20Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Este psicoanalista ha visto de todo: \"El matrimonio perfecto es casarte con tu ex\"",
-      "subtitle": "Con su primer libro se convirtió en el Oliver Sacks del diván. Ahora Stephen Grosz vuelve con &quot;Trabajos del amor&quot;, en el que muestra lo poco que sabemos aún sobre el amor",
-      "url": "https://www.elconfidencial.com/cultura/2026-03-22/stephen-grosz-psicoanalista-matrimonio-perfecto_4324512/",
-      "scraped_at": "2026-03-22T07:06:28Z"
+      "title": "¿Se ha dado cuenta de que el colegio de su hijo está rodeado de comida rápida?",
+      "subtitle": "Un mapeo de los centros educativos de las seis mayores ciudades de España muestra cómo los locales de menús hipercalóricos están conquistando todo nuestro entorno",
+      "url": "https://www.elconfidencial.com/espana/2026-03-23/comida-rapida-colegios-espana-datos-mapa_4324173/",
+      "scraped_at": "2026-03-23T07:38:20Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La primera batalla de las andaluzas: trenes averiados contra nuevos hospitales",
-      "subtitle": "El PSOE intenta llevar a su terreno el debate y centrar las elecciones en un &quot;referéndum sobre la sanidad&quot;. Moreno puso la primera piedra del materno de Huelva y desbloquea con Montero el hospital de Cádiz mientas atiza a Puente por el AVE a Málaga",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-03-22/la-primera-batalla-de-las-andaluzas-trenes-averiados-contra-nuevos-hospitales_4324234/",
-      "scraped_at": "2026-03-22T07:06:29Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Un abogado laborista explica: \"Si vas a reclamar una incapacidad permanente, no lo olvides. Pide siempre tu profesiograma\"",
-      "subtitle": "Un abogado laboralista advierte de la importancia de un documento que muchos trabajadores olvidan",
-      "url": "https://www.elconfidencial.com/economia/2026-03-21/abogado-laborista-explica-reclamar-incapacidad-permanente_4321014/",
-      "scraped_at": "2026-03-22T07:06:30Z"
+      "title": "La renovación clave del TS, bloqueada tras el episodio de la asesora de Sánchez",
+      "subtitle": "El Consejo General del Poder Judicial esperará a que se produzcan tres nuevas vacantes que propicien una negociación conjunta sobre los aspirantes y rompan la actual parálisis",
+      "url": "https://www.elconfidencial.com/espana/2026-03-23/renovacion-sala-segunda-tribunal-supremo-bloqueo-seis-meses-asesora-sanchez_4319870/",
+      "scraped_at": "2026-03-23T07:38:21Z"
     }
   ]
 }

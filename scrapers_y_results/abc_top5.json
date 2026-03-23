@@ -1,6 +1,42 @@
 {
-  "summary": "",
-  "generated_at": "2026-03-22T07:06:23Z",
+  "summary": "Resumen del día en ABC.es: El juez sospecha de una posible mordida de Ábalos y Santos Cerdán en 2018: El magistrado Ismael Moreno revisa cuentas y productos bancarios en una treintena de entidades en busca del dinero; Feijóo intervino en la negociación autonómica cuando en sus encuestas Vox se disparó al 22%: La campaña de Castilla y León estaba a punto de empezar y el líder del PP decidió contactar a Abascal y lanzar el documento marco; Expatriados españoles en Dubái: «Si Emiratos decide pasar al ataque, sí que me iría de aquí»: Hasta ahora, los Estados árabes solo han actuado a la defensiva, pero crece el temor de que la guerra esté entrando en una nueva fase, más peligrosa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-23T07:38:15Z",
   "source": "https://www.abc.es/",
-  "items": []
+  "items": [
+    {
+      "source": "ABC.es",
+      "title": "El juez sospecha de una posible mordida de Ábalos y Santos Cerdán en 2018",
+      "subtitle": "El magistrado Ismael Moreno revisa cuentas y productos bancarios en una treintena de entidades en busca del dinero",
+      "url": "https://www.abc.es/espana/juez-sospecha-cerdan-koldo-abalos-amanaron-obra-20260323040111-nt.html",
+      "scraped_at": "2026-03-23T07:38:14Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Feijóo intervino en la negociación autonómica cuando en sus encuestas Vox se disparó al 22%",
+      "subtitle": "La campaña de Castilla y León estaba a punto de empezar y el líder del PP decidió contactar a Abascal y lanzar el documento marco",
+      "url": "https://www.abc.es/espana/feijoo-intervino-negociacion-autonomica-encuestas-vox-disparo-20260323040141-nt.html",
+      "scraped_at": "2026-03-23T07:38:14Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Expatriados españoles en Dubái: «Si Emiratos decide pasar al ataque, sí que me iría de aquí»",
+      "subtitle": "Hasta ahora, los Estados árabes solo han actuado a la defensiva, pero crece el temor de que la guerra esté entrando en una nueva fase, más peligrosa",
+      "url": "https://www.abc.es/internacional/expatriados-espanoles-dubai-emiratos-decide-pasar-ataque-20260322040205-nt.html",
+      "scraped_at": "2026-03-23T07:38:14Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Irán desafía al ultimátum de Trump con las plantas energéticas del Golfo en el punto de mira",
+      "subtitle": "Después de que el presidente de EE.UU. le diera de plazo 48 horas para que abriera el estrecho de Ormuz, que Teherán insiste solo está cerrado para sus enemigos",
+      "url": "https://www.abc.es/internacional/iran-desafia-ultimatum-trump-plantas-energeticas-golfo-20260322191242-nt.html",
+      "scraped_at": "2026-03-23T07:38:15Z"
+    },
+    {
+      "source": "ABC.es",
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-03-23T07:38:15Z"
+    }
+  ]
 }
