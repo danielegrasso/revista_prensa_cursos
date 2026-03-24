@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Madrid vs. Barcelona: costuras rotas de dos modelos de vivienda antagónicos y fallidos: Uno es el adalid del libre mercado, el otro, el laboratorio de ideas de la nueva regulación. Madrid y Barcelona son dos modelos de vivienda antagónicos. ¿Cuál está yendo peor?; ¿Se ha dado cuenta de que el colegio de su hijo está rodeado de comida rápida?: Un mapeo de los centros educativos de las seis mayores ciudades de España muestra cómo los locales de menús hipercalóricos están conquistando todo nuestro entorno; La renovación clave del TS, bloqueada tras el episodio de la asesora de Sánchez: El Consejo General del Poder Judicial esperará a que se produzcan tres nuevas vacantes que propicien una negociación conjunta sobre los aspirantes y rompan la actual parálisis. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-23T07:38:21Z",
+  "summary": "Resumen del día en El Confidencial: El PSOE pagó los 20.000 € a sus cloacas con \"banners\" electorales de la campaña de Illa en 2024: Un implicado en las extorsiones contra supuestos enemigos del Gobierno asegura en un audio inédito en poder de El Confidencial que Santos Cerdán y Ion Antolín financiaron a las cloacas a través de una agencia de medios del PSC; Lo que los dos kilómetros más peligrosos de España dicen de nuestras carreteras: Dos tramos de la N-632 en Asturias figuran como los más peligrosos de España, según la asociación Automovilistas Europeos Asociados (AEA). Sus curvas estrechas y la humedad sobre el asfalto atemorizan a los propios vecinos día tras día; Tasa de basuras: el fallo abre la vía a devolver hasta 18 millones (solo a quienes la recurrieron): El Ayuntamiento de Madrid está pendiente de nuevas sentencias, aunque ninguna obliga de momento a una devolución generalizada del dinero. Hasta la fecha ha habido más de 130.000 reclamaciones formales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-24T07:17:55Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Madrid vs. Barcelona: costuras rotas de dos modelos de vivienda antagónicos y fallidos",
-      "subtitle": "Uno es el adalid del libre mercado, el otro, el laboratorio de ideas de la nueva regulación. Madrid y Barcelona son dos modelos de vivienda antagónicos. ¿Cuál está yendo peor?",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-03-23/tasa-esfuerzo-vivienda-madrid-barcelona_4324558/",
-      "scraped_at": "2026-03-23T07:38:20Z"
+      "title": "El PSOE pagó los 20.000 € a sus cloacas con \"banners\" electorales de la campaña de Illa en 2024",
+      "subtitle": "Un implicado en las extorsiones contra supuestos enemigos del Gobierno asegura en un audio inédito en poder de El Confidencial que Santos Cerdán y Ion Antolín financiaron a las cloacas a través de una agencia de medios del PSC",
+      "url": "https://www.elconfidencial.com/espana/2026-03-24/psoe-pago-cloacas-banners-campana-illa-elecciones-catalanas_4325832/",
+      "scraped_at": "2026-03-24T07:17:54Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Se ha dado cuenta de que el colegio de su hijo está rodeado de comida rápida?",
-      "subtitle": "Un mapeo de los centros educativos de las seis mayores ciudades de España muestra cómo los locales de menús hipercalóricos están conquistando todo nuestro entorno",
-      "url": "https://www.elconfidencial.com/espana/2026-03-23/comida-rapida-colegios-espana-datos-mapa_4324173/",
-      "scraped_at": "2026-03-23T07:38:20Z"
+      "title": "Lo que los dos kilómetros más peligrosos de España dicen de nuestras carreteras",
+      "subtitle": "Dos tramos de la N-632 en Asturias figuran como los más peligrosos de España, según la asociación Automovilistas Europeos Asociados (AEA). Sus curvas estrechas y la humedad sobre el asfalto atemorizan a los propios vecinos día tras día",
+      "url": "https://www.elconfidencial.com/espana/2026-03-24/accidentes-carreteras-peligrosas_4325618/",
+      "scraped_at": "2026-03-24T07:17:54Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La renovación clave del TS, bloqueada tras el episodio de la asesora de Sánchez",
-      "subtitle": "El Consejo General del Poder Judicial esperará a que se produzcan tres nuevas vacantes que propicien una negociación conjunta sobre los aspirantes y rompan la actual parálisis",
-      "url": "https://www.elconfidencial.com/espana/2026-03-23/renovacion-sala-segunda-tribunal-supremo-bloqueo-seis-meses-asesora-sanchez_4319870/",
-      "scraped_at": "2026-03-23T07:38:21Z"
+      "title": "Tasa de basuras: el fallo abre la vía a devolver hasta 18 millones (solo a quienes la recurrieron)",
+      "subtitle": "El Ayuntamiento de Madrid está pendiente de nuevas sentencias, aunque ninguna obliga de momento a una devolución generalizada del dinero. Hasta la fecha ha habido más de 130.000 reclamaciones formales",
+      "url": "https://www.elconfidencial.com/espana/2026-03-24/fallo-tasa-basuras-devolver-millones_4325677/",
+      "scraped_at": "2026-03-24T07:17:55Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "PSOE financiación",
+      "subtitle": "Un fontanero del partido asegura en una grabación inédita que Santos Cerdán ordenó a Ion Antolín, exdirector de Comunicación del PSOE, que consiguiera el dinero. También revela que el exsecretario de Organización de Ferraz dirigió la trama",
+      "url": "https://www.elconfidencial.com/espana/2026-03-23/psoe-financio-cloacas-sanchez-20000-leire-audio_4325147/",
+      "scraped_at": "2026-03-24T07:17:55Z"
     }
   ]
 }

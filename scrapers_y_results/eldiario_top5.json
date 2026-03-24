@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La Audiencia Nacional ordena a Pedraz investigar el montaje de la cocaína contra Miguel Urbán de la brigada política del PP: La Sala de lo Penal acepta el recurso del fundador de Podemos y le otorga la condición de perjudicado dentro la causa por la guerra sucia contra el partido durante el Gobierno de Mariano Rajoy; Europa se prepara para los efectos “graves” de una guerra que prevé larga: A falta de una respuesta unitaria por parte de la Unión Europea, que podría llegar la próxima semana, los distintos Estados miembro han ido aprobando medidas en solitario pero en la misma dirección: rebajar el shock en la economía de una subida del precio de los combustibles; El contraste nórdico con la UE: por qué Islandia se acerca a Bruselas mientras Noruega no quiere abrir el debate: Mientras Reikiavik convoca un referéndum para relanzar las negociaciones de entrada en la UE, en Oslo se evita reabrir el debate sobre la adhesión. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-23T07:38:13Z",
+  "summary": "Resumen del día en elDiario.es: Trump busca a la desesperada una salida a la guerra en Irán: El presidente de EEUU, en un nuevo bandazo, anuncia unas negociaciones \"positivas\" con Irán encaminadas a terminar la guerra, después de desechar recientemente la idea de la salida diplomática; Trump ha sido devorado por el caos que él puso en marcha: La guerra ha comenzado su cuarta semana y Trump no está más cerca de conseguir sus objetivos que el primer día. Sea o no cierto su anuncio de que está negociando con el Gobierno de Irán, es un ejemplo de su trayectoria caótica en esta guerra sin una estrategia definida que muestre cuáles son sus objetivos; “Soy ciudadano de EEUU e Israel ha destruido mi casa con armas pagadas con mis impuestos”: EEUU, el mercader de la muerte: qué nos dice el comercio de armas sobre la guerra de Irán. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-24T07:17:50Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional ordena a Pedraz investigar el montaje de la cocaína contra Miguel Urbán de la brigada política del PP",
-      "subtitle": "La Sala de lo Penal acepta el recurso del fundador de Podemos y le otorga la condición de perjudicado dentro la causa por la guerra sucia contra el partido durante el Gobierno de Mariano Rajoy",
-      "url": "https://www.eldiario.es/politica/audiencia-nacional-ordena-pedraz-investigar-montaje-cocaina-miguel-urban-brigada-politica-pp_1_13087538.html",
-      "scraped_at": "2026-03-23T07:38:10Z"
+      "title": "Trump busca a la desesperada una salida a la guerra en Irán",
+      "subtitle": "El presidente de EEUU, en un nuevo bandazo, anuncia unas negociaciones \"positivas\" con Irán encaminadas a terminar la guerra, después de desechar recientemente la idea de la salida diplomática",
+      "url": "https://www.eldiario.es/internacional/trump-busca-desesperada-salida-guerra-iran-crisis-economica-soledad-internacional_1_13091955.html",
+      "scraped_at": "2026-03-24T07:17:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Europa se prepara para los efectos “graves” de una guerra que prevé larga",
+      "title": "Trump ha sido devorado por el caos que él puso en marcha",
+      "subtitle": "La guerra ha comenzado su cuarta semana y Trump no está más cerca de conseguir sus objetivos que el primer día. Sea o no cierto su anuncio de que está negociando con el Gobierno de Irán, es un ejemplo de su trayectoria caótica en esta guerra sin una estrategia definida que muestre cuáles son sus objetivos",
+      "url": "https://www.eldiario.es/internacional/trump-sido-devorado-caos-puso-marcha_1_13091086.html",
+      "scraped_at": "2026-03-24T07:17:48Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "“Soy ciudadano de EEUU e Israel ha destruido mi casa con armas pagadas con mis impuestos”",
+      "subtitle": "EEUU, el mercader de la muerte: qué nos dice el comercio de armas sobre la guerra de Irán",
+      "url": "https://www.eldiario.es/internacional/la-semana-internacional/ciudadano-eeuu-e-israel-destruido-casa-armas-pagadas-impuestos_132_13092205.html",
+      "scraped_at": "2026-03-24T07:17:48Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU amenaza a la UE con dejarla sin “contratos favorables” de gas si no se aprueba el acuerdo comercial",
+      "subtitle": "En un momento de tensión de precios de la energía por los bombardeos de Estados Unidos e Israel sobre Irán, la Administración de Trump presiona para que el Parlamento Europeo apruebe sin enmendar el tratado comercial",
+      "url": "https://www.eldiario.es/economia/eeuu-amenaza-ue-dejarla-contratos-favorables-gas-si-no-aprueba-acuerdo-comercial_1_13091033.html",
+      "scraped_at": "2026-03-24T07:17:49Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Guerra Irán",
       "subtitle": "A falta de una respuesta unitaria por parte de la Unión Europea, que podría llegar la próxima semana, los distintos Estados miembro han ido aprobando medidas en solitario pero en la misma dirección: rebajar el shock en la economía de una subida del precio de los combustibles",
       "url": "https://www.eldiario.es/economia/europa-prepara-efectos-graves-guerra-preve-larga_1_13085620.html",
-      "scraped_at": "2026-03-23T07:38:10Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El contraste nórdico con la UE: por qué Islandia se acerca a Bruselas mientras Noruega no quiere abrir el debate",
-      "subtitle": "Mientras Reikiavik convoca un referéndum para relanzar las negociaciones de entrada en la UE, en Oslo se evita reabrir el debate sobre la adhesión",
-      "url": "https://www.eldiario.es/internacional/contraste-nordico-ue-islandia-acerca-bruselas-noruega-no-quiere-abrir-debate_1_13072187.html",
-      "scraped_at": "2026-03-23T07:38:11Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Netanyahu aspira a que la guerra de Irán le salve en año electoral",
-      "subtitle": "La carrera política, el legado y la libertad personal del primer ministro israelí corren peligro ante la inminente investigación sobre el ataque de Hamás del 7 de octubre en 2023",
-      "url": "https://www.eldiario.es/internacional/theguardian/netanyahu-aspira-guerra-iran-le-salve-ano-electoral_1_13088817.html",
-      "scraped_at": "2026-03-23T07:38:12Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Irán Trump",
-      "subtitle": "El gobierno persa asegura que el estrecho de Ormuz sigue abierto excepto para sus \"enemigos\" mientras Israel anuncia que destruirá el sur del Líbano como lo hizo con Gaza",
-      "url": "https://www.eldiario.es/internacional/iran-rechaza-ultimatum-trump-anuncia-respuesta-irreversible-si-ataca-infraestructura-electrica_1_13088607.html",
-      "scraped_at": "2026-03-23T07:38:13Z"
+      "scraped_at": "2026-03-24T07:17:50Z"
     }
   ]
 }
