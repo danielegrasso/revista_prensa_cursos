@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump desata el caos en los mercados tras su anuncio de tregua con Irán: El petróleo cae por debajo de 100 dólares y las bolsas se dan la vuelta en minutos; Viento de Ormuz en los Monegros: La guerra de Irán relanza las renovables, algo mustias en España después del apagón; El decreto anticrisis, a expensas de un “sí” de Junts o de la abstención del PP: Podemos se abstendrá y obliga al Gobierno a atraer a posconvergentes o populares. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-24T07:17:53Z",
+  "summary": "Resumen del día en La Vanguardia: Trump insiste en negociar pero prepara el envío de 3.000 soldados al Golfo: Según 'The Wall Street Journal', el presidente todavía no ha dado luz verde al despliegue de estos soldados de la 82ª División Aerotransportada, que se unirían a los 2.500 marines que llegan el viernes al Golfo Pérsico; EE.UU. envía a Irán un plan de 15 puntos para poner fin a la guerra: El plan se habría entregado a través de Pakistán, según dos funcionarios conocedores de los hechos; Estados Unidos, el inestable aliado de Israel: El giro de Trump hacia la negociación con Irán pone en duda la alianza con Netanyahu y deja a Israel ante el riesgo de continuar la guerra en solitario. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-25T07:16:53Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump desata el caos en los mercados tras su anuncio de tregua con Irán",
-      "subtitle": "El petróleo cae por debajo de 100 dólares y las bolsas se dan la vuelta en minutos",
-      "url": "https://www.lavanguardia.com/economia/20260324/11497469/trump-desata-caos-mercados-anuncio-tregua-iran.html",
-      "scraped_at": "2026-03-24T07:17:52Z"
+      "title": "Trump insiste en negociar pero prepara el envío de 3.000 soldados al Golfo",
+      "subtitle": "Según 'The Wall Street Journal', el presidente todavía no ha dado luz verde al despliegue de estos soldados de la 82ª División Aerotransportada, que se unirían a los 2.500 marines que llegan el viernes al Golfo Pérsico",
+      "url": "https://www.lavanguardia.com/internacional/20260324/11498315/trump-habla-diplomacia-prepara-envio-3-000-soldados-elite-oriente-medio.html",
+      "scraped_at": "2026-03-25T07:16:51Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Viento de Ormuz en los Monegros",
-      "subtitle": "La guerra de Irán relanza las renovables, algo mustias en España después del apagón",
-      "url": "https://www.lavanguardia.com/economia/20260324/11497456/viento-ormuz-monegros.html",
-      "scraped_at": "2026-03-24T07:17:53Z"
+      "title": "EE.UU. envía a Irán un plan de 15 puntos para poner fin a la guerra",
+      "subtitle": "El plan se habría entregado a través de Pakistán, según dos funcionarios conocedores de los hechos",
+      "url": "https://www.lavanguardia.com/internacional/20260325/11498410/ee-uu-envia-iran-plan-15-puntos-poner-guerra-oriente-medio.html",
+      "scraped_at": "2026-03-25T07:16:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El decreto anticrisis, a expensas de un “sí” de Junts o de la abstención del PP",
-      "subtitle": "Podemos se abstendrá y obliga al Gobierno a atraer a posconvergentes o populares",
-      "url": "https://www.lavanguardia.com/politica/20260323/11497451/decreto-anticrisis-expensas-junts-abstencion-pp.html",
-      "scraped_at": "2026-03-24T07:17:53Z"
+      "title": "Estados Unidos, el inestable aliado de Israel",
+      "subtitle": "El giro de Trump hacia la negociación con Irán pone en duda la alianza con Netanyahu y deja a Israel ante el riesgo de continuar la guerra en solitario",
+      "url": "https://www.lavanguardia.com/internacional/20260325/11498375/estados-unidos-inestable-aliado-israel.html",
+      "scraped_at": "2026-03-25T07:16:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Por qué Moreno Bonilla lanza ahora su convocatoria electoral relámpago",
-      "subtitle": "El presidente de la Junta llama a las urnas un mes antes de lo que la mayoría preveía",
-      "url": "https://www.lavanguardia.com/politica/20260324/11497707/moreno-bonilla-lanza-convocatoria-electoral-relampago.html",
-      "scraped_at": "2026-03-24T07:17:53Z"
+      "title": "La guerra de Irán nubla el futuro de 24 millones de inmigrantes asiáticos en el golfo Pérsico",
+      "subtitle": "Los misiles iraníes y su intercepción ya han matado a dos docenas de civiles extranjeros en la zona",
+      "url": "https://www.lavanguardia.com/internacional/20260325/11494705/guerra-iran-nubla-futuro-24-millones-inmigrantes-asiaticos-golfo-persico.html",
+      "scraped_at": "2026-03-25T07:16:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La pastelería Tornés de Girona gana el premio al mejor 'xuixo' del mundo",
-      "subtitle": "Por primera vez ha ganado un negocio de la ciudad en la sexta edición del certamen",
-      "url": "https://www.lavanguardia.com/comer/al-dia/20260323/11496748/pasteleria-tornes-girona-gana-premio-mejor-xuixo-mundo-2026.html",
-      "scraped_at": "2026-03-24T07:17:53Z"
+      "title": "La medicina en Cuba, la caída del estandarte revolucionario",
+      "subtitle": "La reputación de la sanidad cubana no da de comer a sus médicos, que deben completar el sueldo con un segundo empleo, aunque esté prohibido",
+      "url": "https://www.lavanguardia.com/internacional/20260324/11494895/medicina-cuba-caida-estandarte-revolucionario.html",
+      "scraped_at": "2026-03-25T07:16:53Z"
     }
   ]
 }

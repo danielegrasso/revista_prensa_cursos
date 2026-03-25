@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump busca a la desesperada una salida a la guerra en Irán: El presidente de EEUU, en un nuevo bandazo, anuncia unas negociaciones \"positivas\" con Irán encaminadas a terminar la guerra, después de desechar recientemente la idea de la salida diplomática; Trump ha sido devorado por el caos que él puso en marcha: La guerra ha comenzado su cuarta semana y Trump no está más cerca de conseguir sus objetivos que el primer día. Sea o no cierto su anuncio de que está negociando con el Gobierno de Irán, es un ejemplo de su trayectoria caótica en esta guerra sin una estrategia definida que muestre cuáles son sus objetivos; “Soy ciudadano de EEUU e Israel ha destruido mi casa con armas pagadas con mis impuestos”: EEUU, el mercader de la muerte: qué nos dice el comercio de armas sobre la guerra de Irán. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-24T07:17:50Z",
+  "summary": "Resumen del día en elDiario.es: La convocatoria en Andalucía encuentra al PP atrapado en la negociación con Vox y al PSOE con la incógnita del 'efecto Montero': Los populares encaran la última cita del ciclo electoral abierto en diciembre sin haber cerrado los gobiernos de Extremadura, Aragón y Castilla y León, mientras los socialistas intentan evitar un nuevo batacazo en las urnas y todo apunta a que la izquierda irá dividida; La fundación financiada por Vox declaró 630.000 euros en pagos por “servicios a profesionales independientes”: Disenso presentó en 2024 unas cuentas con pérdidas por primera vez desde su creación. Los dos millones que recibe del partido acaban en sueldos y pagos a terceros, entre los que está el principal asesor de Santiago Abascal; La Diputación de Valencia ficha a la pareja de Pérez Llorca por el doble de su salario anterior: Vanesa Soler Sillero deja su puesto de administrativa en el Ayuntamiento de Finestrat para ser secretaria del diputado Ricardo Gabaldón y pasa de ganar alrededor de 25.000 euros a más de 52.000 euros. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-25T07:16:47Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump busca a la desesperada una salida a la guerra en Irán",
-      "subtitle": "El presidente de EEUU, en un nuevo bandazo, anuncia unas negociaciones \"positivas\" con Irán encaminadas a terminar la guerra, después de desechar recientemente la idea de la salida diplomática",
-      "url": "https://www.eldiario.es/internacional/trump-busca-desesperada-salida-guerra-iran-crisis-economica-soledad-internacional_1_13091955.html",
-      "scraped_at": "2026-03-24T07:17:47Z"
+      "title": "La convocatoria en Andalucía encuentra al PP atrapado en la negociación con Vox y al PSOE con la incógnita del 'efecto Montero'",
+      "subtitle": "Los populares encaran la última cita del ciclo electoral abierto en diciembre sin haber cerrado los gobiernos de Extremadura, Aragón y Castilla y León, mientras los socialistas intentan evitar un nuevo batacazo en las urnas y todo apunta a que la izquierda irá dividida",
+      "url": "https://www.eldiario.es/politica/convocatoria-andalucia-encuentra-pp-atrapado-negociacion-vox-psoe-incognita-efecto-montero_1_13094895.html",
+      "scraped_at": "2026-03-25T07:16:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump ha sido devorado por el caos que él puso en marcha",
-      "subtitle": "La guerra ha comenzado su cuarta semana y Trump no está más cerca de conseguir sus objetivos que el primer día. Sea o no cierto su anuncio de que está negociando con el Gobierno de Irán, es un ejemplo de su trayectoria caótica en esta guerra sin una estrategia definida que muestre cuáles son sus objetivos",
-      "url": "https://www.eldiario.es/internacional/trump-sido-devorado-caos-puso-marcha_1_13091086.html",
-      "scraped_at": "2026-03-24T07:17:48Z"
+      "title": "La fundación financiada por Vox declaró 630.000 euros en pagos por “servicios a profesionales independientes”",
+      "subtitle": "Disenso presentó en 2024 unas cuentas con pérdidas por primera vez desde su creación. Los dos millones que recibe del partido acaban en sueldos y pagos a terceros, entre los que está el principal asesor de Santiago Abascal",
+      "url": "https://www.eldiario.es/politica/fundacion-financiada-vox-declaro-630-000-euros-pagos-servicios-profesionales-independientes_1_13091184.html",
+      "scraped_at": "2026-03-25T07:16:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "“Soy ciudadano de EEUU e Israel ha destruido mi casa con armas pagadas con mis impuestos”",
-      "subtitle": "EEUU, el mercader de la muerte: qué nos dice el comercio de armas sobre la guerra de Irán",
-      "url": "https://www.eldiario.es/internacional/la-semana-internacional/ciudadano-eeuu-e-israel-destruido-casa-armas-pagadas-impuestos_132_13092205.html",
-      "scraped_at": "2026-03-24T07:17:48Z"
+      "title": "La Diputación de Valencia ficha a la pareja de Pérez Llorca por el doble de su salario anterior",
+      "subtitle": "Vanesa Soler Sillero deja su puesto de administrativa en el Ayuntamiento de Finestrat para ser secretaria del diputado Ricardo Gabaldón y pasa de ganar alrededor de 25.000 euros a más de 52.000 euros",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/diputacion-valencia-ficha-comision-servicios-pareja-perez-llorca-doble-salario-anterior_1_13091336.html",
+      "scraped_at": "2026-03-25T07:16:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU amenaza a la UE con dejarla sin “contratos favorables” de gas si no se aprueba el acuerdo comercial",
-      "subtitle": "En un momento de tensión de precios de la energía por los bombardeos de Estados Unidos e Israel sobre Irán, la Administración de Trump presiona para que el Parlamento Europeo apruebe sin enmendar el tratado comercial",
-      "url": "https://www.eldiario.es/economia/eeuu-amenaza-ue-dejarla-contratos-favorables-gas-si-no-aprueba-acuerdo-comercial_1_13091033.html",
-      "scraped_at": "2026-03-24T07:17:49Z"
+      "title": "Trump moviliza unidades de paracaidistas para desplegarse en el Golfo Pérsico y envía a Irán un plan de paz de 15 puntos",
+      "subtitle": "El presidente de EEUU insiste en que la guerra \"está ganada\", si bien el estrecho de Ormuz sigue cerrado y ordena el despligue de soldados especializados en el combate en tierra al tiempo que anuncia haber recibido un valioso \"regalo\" de Teherán",
+      "url": "https://www.eldiario.es/internacional/trump-moviliza-unidades-paracaidistas-desplegarse-golfo-persico-envia-iran-plan-paz-15-puntos_1_13095548.html",
+      "scraped_at": "2026-03-25T07:16:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Guerra Irán",
-      "subtitle": "A falta de una respuesta unitaria por parte de la Unión Europea, que podría llegar la próxima semana, los distintos Estados miembro han ido aprobando medidas en solitario pero en la misma dirección: rebajar el shock en la economía de una subida del precio de los combustibles",
-      "url": "https://www.eldiario.es/economia/europa-prepara-efectos-graves-guerra-preve-larga_1_13085620.html",
-      "scraped_at": "2026-03-24T07:17:50Z"
+      "title": "Elecciones Dinamarca",
+      "subtitle": "Mette Frederiksen continúa como la más votada pero sufre un duro castigo en las urnas que complica la formación de Gobierno, dando a los centristas más influencia",
+      "url": "https://www.eldiario.es/internacional/primera-ministra-socialdemocrata-gana-elecciones-dinamarca-pierde-apoyos_1_13094980.html",
+      "scraped_at": "2026-03-25T07:16:47Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La trama Forestalia implica a los gobiernos de Lambán e Iglesias: Fuentes de la investigación confirman a ABC que se examina una etapa «pasada» donde directores del Ejecutivo aragonés podrían haber amañado permisos ambientales; en el Ministerio para la Transición Ecológica, «los delitos son bastante recientes»; El gerente supuestamente cesado por acoso en el CNIO sigue en nómina: Bernabé, a pesar de haber abandonado el Centro tras una denuncia interna por acoso, sigue percibiendo más de diez mil euros de salario mensuales; Adif localiza traviesas dañadas a un kilómetro del accidente: Marcas de golpes y trazas metálicas son algunos de los desperfectos que presentan los elementos recogidos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-24T07:17:51Z",
+  "summary": "Resumen del día en ABC.es: Cultura encubrió un fraude con los fondos de la Fundación Gitana: El exdirector, Diego Fernández, y su equipo han cobrado dietas falsas de desplazamiento desde 2009, según informes internos que instaban a enviarlo a la Fiscalía; Zapatero incumplió sus contratos para trabajar en secreto para el asesor de Plus Ultra: El expresidente del Gobierno tenía firmado un contrato de exclusividad en el sector pero, ahora, ha reconocido que trabajaba para dos o tres consultoras; El sustituto de María Blasco en el CNIO vuelve a dar largas a su incorporación por el caos: Raúl Rabadán ha decidido postergar su llegada como director científico al centro al menos hasta julio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-25T07:16:50Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La trama Forestalia implica a los gobiernos de Lambán e Iglesias",
-      "subtitle": "Fuentes de la investigación confirman a ABC que se examina una etapa «pasada» donde directores del Ejecutivo aragonés podrían haber amañado permisos ambientales; en el Ministerio para la Transición Ecológica, «los delitos son bastante recientes»",
-      "url": "https://www.abc.es/espana/aragon/investigacion-trama-forestalia-apunta-gobiernos-lamban-marcelino-20260324040230-nt.html",
-      "scraped_at": "2026-03-24T07:17:50Z"
+      "title": "Cultura encubrió un fraude con los fondos de la Fundación Gitana",
+      "subtitle": "El exdirector, Diego Fernández, y su equipo han cobrado dietas falsas de desplazamiento desde 2009, según informes internos que instaban a enviarlo a la Fiscalía",
+      "url": "https://www.abc.es/cultura/cultura-encubre-fraude-subvenciones-fundacion-gitana-20260325040638-nt.html",
+      "scraped_at": "2026-03-25T07:16:48Z"
     },
     {
       "source": "ABC.es",
-      "title": "El gerente supuestamente cesado por acoso en el CNIO sigue en nómina",
-      "subtitle": "Bernabé, a pesar de haber abandonado el Centro tras una denuncia interna por acoso, sigue percibiendo más de diez mil euros de salario mensuales",
-      "url": "https://www.abc.es/espana/gerente-supuestamente-cesado-acoso-cnio-sigue-nomina-20260324040258-nt.html",
-      "scraped_at": "2026-03-24T07:17:51Z"
+      "title": "Zapatero incumplió sus contratos para trabajar en secreto para el asesor de Plus Ultra",
+      "subtitle": "El expresidente del Gobierno tenía firmado un contrato de exclusividad en el sector pero, ahora, ha reconocido que trabajaba para dos o tres consultoras",
+      "url": "https://www.abc.es/espana/zapatero-incumplio-contratos-trabajar-secreto-julio-martinez-20260324040658-nt.html",
+      "scraped_at": "2026-03-25T07:16:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Adif localiza traviesas dañadas a un kilómetro del accidente",
-      "subtitle": "Marcas de golpes y trazas metálicas son algunos de los desperfectos que presentan los elementos recogidos",
-      "url": "https://www.abc.es/espana/adif-localiza-traviesas-danadas-kilometro-inicio-accidente-20260323040348-nt.html",
-      "scraped_at": "2026-03-24T07:17:51Z"
+      "title": "El sustituto de María Blasco en el CNIO vuelve a dar largas a su incorporación por el caos",
+      "subtitle": "Raúl Rabadán ha decidido postergar su llegada como director científico al centro al menos hasta julio",
+      "url": "https://www.abc.es/espana/sustituto-maria-blasco-cnio-vuelve-retrasar-incorporacion-20260325040711-nt.html",
+      "scraped_at": "2026-03-25T07:16:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo no alimentará los choques con Abascal: «No vamos a perder a un solo votante que dude con Vox»",
-      "subtitle": "A pesar de que hay muchos dirigentes soliviantados con los ataques del partido de Abascal, el líder del PP insiste en que «la única oposición debe ser a Sánchez»",
-      "url": "https://www.abc.es/espana/feijoo-escalara-discrepancias-abascal-podemos-perder-votantes-20260324040402-nt.html",
-      "scraped_at": "2026-03-24T07:17:51Z"
+      "title": "Sánchez prepara un cambio «quirúrgico» del Gobierno",
+      "subtitle": "Una Montero «muy emocionada» se despide de sus compañeros en su último Consejo de Ministros",
+      "url": "https://www.abc.es/espana/sanchez-afrontara-partir-jueves-cambio-quirurgico-gobierno-20260324184549-nt.html",
+      "scraped_at": "2026-03-25T07:16:49Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-24T07:17:51Z"
+      "scraped_at": "2026-03-25T07:16:50Z"
     }
   ]
 }
