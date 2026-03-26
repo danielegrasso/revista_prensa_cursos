@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Cultura encubrió un fraude con los fondos de la Fundación Gitana: El exdirector, Diego Fernández, y su equipo han cobrado dietas falsas de desplazamiento desde 2009, según informes internos que instaban a enviarlo a la Fiscalía; Zapatero incumplió sus contratos para trabajar en secreto para el asesor de Plus Ultra: El expresidente del Gobierno tenía firmado un contrato de exclusividad en el sector pero, ahora, ha reconocido que trabajaba para dos o tres consultoras; El sustituto de María Blasco en el CNIO vuelve a dar largas a su incorporación por el caos: Raúl Rabadán ha decidido postergar su llegada como director científico al centro al menos hasta julio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-25T07:16:50Z",
+  "summary": "Resumen del día en ABC.es: El PSOE andaluz encara la campaña cansado de Montero y Puente: Amplios sectores del socialismo andaluz dan por hecho un resultado pésimo en las autonómicas por los errores en cadena de la candidata y del titular de Transportes; Tito Berni usaba un catálogo de prostitutas para los empresarios de la trama: ABC tiene acceso al escrito final de la juez que investiga a la trama con el que mandará a juicio a los investigados; La eutanasia de Noelia como espectáculo: Si un juzgado no lo impide 'in extremis', la muerte asistida de la joven de 25 años se ejecutará este jueves a las 18.00 horas, tras la exhibición de su caso en un programa de televisión. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-26T07:35:05Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Cultura encubrió un fraude con los fondos de la Fundación Gitana",
-      "subtitle": "El exdirector, Diego Fernández, y su equipo han cobrado dietas falsas de desplazamiento desde 2009, según informes internos que instaban a enviarlo a la Fiscalía",
-      "url": "https://www.abc.es/cultura/cultura-encubre-fraude-subvenciones-fundacion-gitana-20260325040638-nt.html",
-      "scraped_at": "2026-03-25T07:16:48Z"
+      "title": "El PSOE andaluz encara la campaña cansado de Montero y Puente",
+      "subtitle": "Amplios sectores del socialismo andaluz dan por hecho un resultado pésimo en las autonómicas por los errores en cadena de la candidata y del titular de Transportes",
+      "url": "https://www.abc.es/espana/andalucia/egolatria-montero-castigo-puente-andalucia-erosionan-psoe-20260326120520-nts.html",
+      "scraped_at": "2026-03-26T07:35:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Zapatero incumplió sus contratos para trabajar en secreto para el asesor de Plus Ultra",
-      "subtitle": "El expresidente del Gobierno tenía firmado un contrato de exclusividad en el sector pero, ahora, ha reconocido que trabajaba para dos o tres consultoras",
-      "url": "https://www.abc.es/espana/zapatero-incumplio-contratos-trabajar-secreto-julio-martinez-20260324040658-nt.html",
-      "scraped_at": "2026-03-25T07:16:49Z"
+      "title": "Tito Berni usaba un catálogo de prostitutas para los empresarios de la trama",
+      "subtitle": "ABC tiene acceso al escrito final de la juez que investiga a la trama con el que mandará a juicio a los investigados",
+      "url": "https://www.abc.es/espana/canarias/mujeres-300-euros-hora-socialista-tito-berni-20260325040730-nt.html",
+      "scraped_at": "2026-03-26T07:35:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "El sustituto de María Blasco en el CNIO vuelve a dar largas a su incorporación por el caos",
-      "subtitle": "Raúl Rabadán ha decidido postergar su llegada como director científico al centro al menos hasta julio",
-      "url": "https://www.abc.es/espana/sustituto-maria-blasco-cnio-vuelve-retrasar-incorporacion-20260325040711-nt.html",
-      "scraped_at": "2026-03-25T07:16:49Z"
+      "title": "La eutanasia de Noelia como espectáculo",
+      "subtitle": "Si un juzgado no lo impide 'in extremis', la muerte asistida de la joven de 25 años se ejecutará este jueves a las 18.00 horas, tras la exhibición de su caso en un programa de televisión",
+      "url": "https://www.abc.es/espana/cataluna/eutanasia-noelia-espectaculo-20260325041108-nt.html",
+      "scraped_at": "2026-03-26T07:35:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez prepara un cambio «quirúrgico» del Gobierno",
-      "subtitle": "Una Montero «muy emocionada» se despide de sus compañeros en su último Consejo de Ministros",
-      "url": "https://www.abc.es/espana/sanchez-afrontara-partir-jueves-cambio-quirurgico-gobierno-20260324184549-nt.html",
-      "scraped_at": "2026-03-25T07:16:49Z"
+      "title": "En el caso de Noelia, todo es formalmente impecable, ¿pero lo es materialmente?",
+      "subtitle": "Federico de Montalvo, catedrático de Derecho Constitucional considera que hablar de la eutanasia en el caso de personas como Noelia es «un fallo lamentable del sistema»",
+      "url": "https://www.abc.es/sociedad/noelia-formalmente-impecable-materialmente-20260326041130-nt.html",
+      "scraped_at": "2026-03-26T07:35:05Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-25T07:16:50Z"
+      "scraped_at": "2026-03-26T07:35:05Z"
     }
   ]
 }

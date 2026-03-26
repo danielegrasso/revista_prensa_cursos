@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Vox pagó en secreto a la TV de Ariza programas a medida sobre \"islamización\" e \"inseguridad\": Facturas y correos electrónicos del partido de Santiago Abascal revelan nuevas entregas de dinero al conglomerado empresarial de la familia Ariza para emitir propaganda de la formación; El patrimonio persa, bajo las bombas: así han quedado las joyas arquitectónicas de Irán: Lo que ha logrado mantenerse durante siglos no ha escapado a las bombas. Infligir daños en este tipo de monumentos supone un crimen de guerra; Una colaboradora de Montero denuncia a su Ministerio de Igualdad por racismo: Sostiene que &quot;invisibilizó&quot; su aportación a la ley del aborto porque su origen daba argumentos de crítica a la derecha. Los jueces admiten la denuncia y obligan al actual departamento de Ana Redondo a posicionarse. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-25T07:16:56Z",
+  "summary": "Resumen del día en El Confidencial: El Gobierno excluye de su escudo social el crédito extra de 1.300 M por la dana: El texto de medidas anticrisis por la guerra de Irán &#039;olvida&#039; las iniciativas de apoyo que quedaron sin aplicar tras caer en febrero el anterior decreto ómnibus por el rechazo de PP, Vox y Junts; El final de la eutanasia de Noelia Castillo: 15 minutos, 3 fármacos y una sedación sin sus padres: La joven catalana recibirá la muerte asistida tras año y medio de batalla judicial por la oposición de su progenitor. Desde que se aprobó la ley, se han practicado más de 1.000 casos en España; El mapa de los precios de las gasolineras: ¿se están notando las rebajas fiscales?: La crisis desatada en el Golfo Pérsico ha disparado los costes de la energía. Llenar el depósito en una u otra estación de servicio puede marcar la diferencia. Consulte aquí dónde está la más barata.. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-26T07:35:11Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Vox pagó en secreto a la TV de Ariza programas a medida sobre \"islamización\" e \"inseguridad\"",
-      "subtitle": "Facturas y correos electrónicos del partido de Santiago Abascal revelan nuevas entregas de dinero al conglomerado empresarial de la familia Ariza para emitir propaganda de la formación",
-      "url": "https://www.elconfidencial.com/espana/2026-03-25/vox-pago-tv-ariza-programas-islamizacion-inseguridad_4326623/",
-      "scraped_at": "2026-03-25T07:16:54Z"
+      "title": "El Gobierno excluye de su escudo social el crédito extra de 1.300 M por la dana",
+      "subtitle": "El texto de medidas anticrisis por la guerra de Irán &#039;olvida&#039; las iniciativas de apoyo que quedaron sin aplicar tras caer en febrero el anterior decreto ómnibus por el rechazo de PP, Vox y Junts",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-03-26/gobierno-escudo-social-iran-credito-dana-generalitat_4327239/",
+      "scraped_at": "2026-03-26T07:35:09Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El patrimonio persa, bajo las bombas: así han quedado las joyas arquitectónicas de Irán",
-      "subtitle": "Lo que ha logrado mantenerse durante siglos no ha escapado a las bombas. Infligir daños en este tipo de monumentos supone un crimen de guerra",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-25/patrimonio-persa-bombas-joyas-iran-danadas-guerra_4326358/",
-      "scraped_at": "2026-03-25T07:16:55Z"
+      "title": "El final de la eutanasia de Noelia Castillo: 15 minutos, 3 fármacos y una sedación sin sus padres",
+      "subtitle": "La joven catalana recibirá la muerte asistida tras año y medio de batalla judicial por la oposición de su progenitor. Desde que se aprobó la ley, se han practicado más de 1.000 casos en España",
+      "url": "https://www.elconfidencial.com/espana/2026-03-26/final-eutanasia-noelia-castillo-sedacion-padres_4327244/",
+      "scraped_at": "2026-03-26T07:35:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Una colaboradora de Montero denuncia a su Ministerio de Igualdad por racismo",
-      "subtitle": "Sostiene que &quot;invisibilizó&quot; su aportación a la ley del aborto porque su origen daba argumentos de crítica a la derecha. Los jueces admiten la denuncia y obligan al actual departamento de Ana Redondo a posicionarse",
-      "url": "https://www.elconfidencial.com/espana/2026-03-25/abogada-colaboradora-irene-montero-denuncia-ministerio-igualdad-racismo_4326342/",
-      "scraped_at": "2026-03-25T07:16:55Z"
+      "title": "El mapa de los precios de las gasolineras: ¿se están notando las rebajas fiscales?",
+      "subtitle": "La crisis desatada en el Golfo Pérsico ha disparado los costes de la energía. Llenar el depósito en una u otra estación de servicio puede marcar la diferencia. Consulte aquí dónde está la más barata.",
+      "url": "https://www.elconfidencial.com/economia/2026-03-26/mapa-precios-gasolineras-rebajas-fiscales_4325264/",
+      "scraped_at": "2026-03-26T07:35:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Gino Paoli",
-      "subtitle": "La familia ha confirmado la muerte del célebre artista, figura clave de la canción italiana y con temas de fama internacional",
-      "url": "https://www.elconfidencial.com/cultura/2026-03-24/gino-paoli-cantante-italiano-fallece-1tps_4326143/",
-      "scraped_at": "2026-03-25T07:16:56Z"
+      "title": "La abogacía de élite supera los 3.000 M: el 'ranking' de los 25 grandes despachos en España",
+      "subtitle": "Los 25 despachos de abogados más grandes de España crecen un 6,23% hasta sumar una facturación conjunta que supera los 3.000 millones de euros",
+      "url": "https://www.elconfidencial.com/juridico/2026-03-26/ranking-facturacion-despachos-abogados-2025_4327157/",
+      "scraped_at": "2026-03-26T07:35:10Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"No están representados\": la firme queja de Juan y Medio en 'Ex' por la tercera edad",
+      "subtitle": "El presentador aprovecha su paso por Cuatro para situar a los mayores en el centro del mapa televisivo, reclamando el espacio de una generación que se apaga en silencio",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-26/juan-y-medio-ex-la-vida-despues-mayores-queja_4327436/",
+      "scraped_at": "2026-03-26T07:35:11Z"
     }
   ]
 }

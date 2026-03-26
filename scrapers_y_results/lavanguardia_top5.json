@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump insiste en negociar pero prepara el envío de 3.000 soldados al Golfo: Según 'The Wall Street Journal', el presidente todavía no ha dado luz verde al despliegue de estos soldados de la 82ª División Aerotransportada, que se unirían a los 2.500 marines que llegan el viernes al Golfo Pérsico; EE.UU. envía a Irán un plan de 15 puntos para poner fin a la guerra: El plan se habría entregado a través de Pakistán, según dos funcionarios conocedores de los hechos; Estados Unidos, el inestable aliado de Israel: El giro de Trump hacia la negociación con Irán pone en duda la alianza con Netanyahu y deja a Israel ante el riesgo de continuar la guerra en solitario. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-25T07:16:53Z",
+  "summary": "Resumen del día en La Vanguardia: Primeras señales de alarma por falta de combustible: Eslovenia impone un racionamiento y el sector alerta de carencias a partir de abril; Vuelve el trío de las Azores: No es lo mismo criticar hoy la operación militar iniciada por Estados Unidos e Israel contra Irán, como ha hecho ahora la líder francesa de Reagrupamiento Nacional, Marine Le Pen, que hacerlo a las pocas horas del inicio del conflicto como hizo Pedro Sánchez. El líder; Palantir, el primer ganador de la guerra de Irán: La empresa del magnate ultra Peter Thiel está detrás de la IA empleada por EE.UU. en su campaña militar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-26T07:35:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump insiste en negociar pero prepara el envío de 3.000 soldados al Golfo",
-      "subtitle": "Según 'The Wall Street Journal', el presidente todavía no ha dado luz verde al despliegue de estos soldados de la 82ª División Aerotransportada, que se unirían a los 2.500 marines que llegan el viernes al Golfo Pérsico",
-      "url": "https://www.lavanguardia.com/internacional/20260324/11498315/trump-habla-diplomacia-prepara-envio-3-000-soldados-elite-oriente-medio.html",
-      "scraped_at": "2026-03-25T07:16:51Z"
+      "title": "Primeras señales de alarma por falta de combustible",
+      "subtitle": "Eslovenia impone un racionamiento y el sector alerta de carencias a partir de abril",
+      "url": "https://www.lavanguardia.com/economia/20260326/11499447/primeras-senales-alarma-falta-suministro-energetico-europa-asia.html",
+      "scraped_at": "2026-03-26T07:35:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. envía a Irán un plan de 15 puntos para poner fin a la guerra",
-      "subtitle": "El plan se habría entregado a través de Pakistán, según dos funcionarios conocedores de los hechos",
-      "url": "https://www.lavanguardia.com/internacional/20260325/11498410/ee-uu-envia-iran-plan-15-puntos-poner-guerra-oriente-medio.html",
-      "scraped_at": "2026-03-25T07:16:52Z"
+      "title": "Vuelve el trío de las Azores",
+      "subtitle": "No es lo mismo criticar hoy la operación militar iniciada por Estados Unidos e Israel contra Irán, como ha hecho ahora la líder francesa de Reagrupamiento Nacional, Marine Le Pen, que hacerlo a las pocas horas del inicio del conflicto como hizo Pedro Sánchez. El líder",
+      "url": "https://www.lavanguardia.com/opinion/20260325/11499305/vuelve-trio-azores.html",
+      "scraped_at": "2026-03-26T07:35:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Estados Unidos, el inestable aliado de Israel",
-      "subtitle": "El giro de Trump hacia la negociación con Irán pone en duda la alianza con Netanyahu y deja a Israel ante el riesgo de continuar la guerra en solitario",
-      "url": "https://www.lavanguardia.com/internacional/20260325/11498375/estados-unidos-inestable-aliado-israel.html",
-      "scraped_at": "2026-03-25T07:16:52Z"
+      "title": "Palantir, el primer ganador de la guerra de Irán",
+      "subtitle": "La empresa del magnate ultra Peter Thiel está detrás de la IA empleada por EE.UU. en su campaña militar",
+      "url": "https://www.lavanguardia.com/internacional/20260326/11498056/palantir-primer-ganador-guerra-iran.html",
+      "scraped_at": "2026-03-26T07:35:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La guerra de Irán nubla el futuro de 24 millones de inmigrantes asiáticos en el golfo Pérsico",
-      "subtitle": "Los misiles iraníes y su intercepción ya han matado a dos docenas de civiles extranjeros en la zona",
-      "url": "https://www.lavanguardia.com/internacional/20260325/11494705/guerra-iran-nubla-futuro-24-millones-inmigrantes-asiaticos-golfo-persico.html",
-      "scraped_at": "2026-03-25T07:16:53Z"
+      "title": "Un nuevo orden para Oriente Próximo",
+      "subtitle": "Hoy hablan las armas con una intensidad que hace imposible cualquier conversación política sosegada. Pero ninguna guerra dura para siempre. Cuando el ruido de las bombas se extinga, llegará el tiempo de la diplomacia. La pregunta será entonces si esta brutal guerra puede",
+      "url": "https://www.lavanguardia.com/internacional/20260326/11498907/nuevo-orden-oriente-proximo.html",
+      "scraped_at": "2026-03-26T07:35:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La medicina en Cuba, la caída del estandarte revolucionario",
-      "subtitle": "La reputación de la sanidad cubana no da de comer a sus médicos, que deben completar el sueldo con un segundo empleo, aunque esté prohibido",
-      "url": "https://www.lavanguardia.com/internacional/20260324/11494895/medicina-cuba-caida-estandarte-revolucionario.html",
-      "scraped_at": "2026-03-25T07:16:53Z"
+      "title": "¿Qué hacer si te roban el pasaporte (o el DNI) en el extranjero?",
+      "subtitle": "Pasos a seguir si te encuentras en estas circunstancias",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260326/11493080/que-te-roban-pasaporte-dni-extranjero.html",
+      "scraped_at": "2026-03-26T07:35:08Z"
     }
   ]
 }
