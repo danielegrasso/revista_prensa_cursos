@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Primeras señales de alarma por falta de combustible: Eslovenia impone un racionamiento y el sector alerta de carencias a partir de abril; Vuelve el trío de las Azores: No es lo mismo criticar hoy la operación militar iniciada por Estados Unidos e Israel contra Irán, como ha hecho ahora la líder francesa de Reagrupamiento Nacional, Marine Le Pen, que hacerlo a las pocas horas del inicio del conflicto como hizo Pedro Sánchez. El líder; Palantir, el primer ganador de la guerra de Irán: La empresa del magnate ultra Peter Thiel está detrás de la IA empleada por EE.UU. en su campaña militar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-26T07:35:08Z",
+  "summary": "Resumen del día en La Vanguardia: Trump alarga diez días más el ultimátum energético a Teherán: El presidente cree que el régimen teocrático “está suplicando un acuerdo”; Irán impone un peaje a los buques en Ormuz: El parlamento iraní pretende aprobar una tarifa y negocia con otros países el paso seguro de buques; Josep Borrell: “La vieja Europa no sirve para hacer frente al mundo nuevo”: El presidente del CIDOB y ex alto representante de la UE de Política Exterior y Seguridad reconoce que a Europa le falta voluntad política para tener un ejército común. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-27T07:34:00Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Primeras señales de alarma por falta de combustible",
-      "subtitle": "Eslovenia impone un racionamiento y el sector alerta de carencias a partir de abril",
-      "url": "https://www.lavanguardia.com/economia/20260326/11499447/primeras-senales-alarma-falta-suministro-energetico-europa-asia.html",
-      "scraped_at": "2026-03-26T07:35:07Z"
+      "title": "Trump alarga diez días más el ultimátum energético a Teherán",
+      "subtitle": "El presidente cree que el régimen teocrático “está suplicando un acuerdo”",
+      "url": "https://www.lavanguardia.com/internacional/20260326/11500156/trump-sostiene-iran-sido-derrotado-esta-suplicando-acuerdo.html",
+      "scraped_at": "2026-03-27T07:33:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Vuelve el trío de las Azores",
-      "subtitle": "No es lo mismo criticar hoy la operación militar iniciada por Estados Unidos e Israel contra Irán, como ha hecho ahora la líder francesa de Reagrupamiento Nacional, Marine Le Pen, que hacerlo a las pocas horas del inicio del conflicto como hizo Pedro Sánchez. El líder",
-      "url": "https://www.lavanguardia.com/opinion/20260325/11499305/vuelve-trio-azores.html",
-      "scraped_at": "2026-03-26T07:35:07Z"
+      "title": "Irán impone un peaje a los buques en Ormuz",
+      "subtitle": "El parlamento iraní pretende aprobar una tarifa y negocia con otros países el paso seguro de buques",
+      "url": "https://www.lavanguardia.com/internacional/20260326/11500171/iran-impone-peaje-ormuz.html",
+      "scraped_at": "2026-03-27T07:33:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Palantir, el primer ganador de la guerra de Irán",
-      "subtitle": "La empresa del magnate ultra Peter Thiel está detrás de la IA empleada por EE.UU. en su campaña militar",
-      "url": "https://www.lavanguardia.com/internacional/20260326/11498056/palantir-primer-ganador-guerra-iran.html",
-      "scraped_at": "2026-03-26T07:35:07Z"
+      "title": "Josep Borrell: “La vieja Europa no sirve para hacer frente al mundo nuevo”",
+      "subtitle": "El presidente del CIDOB y ex alto representante de la UE de Política Exterior y Seguridad reconoce que a Europa le falta voluntad política para tener un ejército común",
+      "url": "https://www.lavanguardia.com/internacional/20260326/11500219/josep-borrell-vieja-europa-sirve-frente-mundo-nuevo.html",
+      "scraped_at": "2026-03-27T07:33:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un nuevo orden para Oriente Próximo",
-      "subtitle": "Hoy hablan las armas con una intensidad que hace imposible cualquier conversación política sosegada. Pero ninguna guerra dura para siempre. Cuando el ruido de las bombas se extinga, llegará el tiempo de la diplomacia. La pregunta será entonces si esta brutal guerra puede",
-      "url": "https://www.lavanguardia.com/internacional/20260326/11498907/nuevo-orden-oriente-proximo.html",
-      "scraped_at": "2026-03-26T07:35:07Z"
+      "title": "Cómo sería la batalla para reabrir el estrecho de Ormuz",
+      "subtitle": "Muchos barcos, aviones y soldados tendrían que pasar mucho tiempo expuestos al peligro para obtener resultados inciertos",
+      "url": "https://www.lavanguardia.com/internacional/20260327/11500021/guerra-iran-estrecho-de-ormuz-ee-uu.html",
+      "scraped_at": "2026-03-27T07:34:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Qué hacer si te roban el pasaporte (o el DNI) en el extranjero?",
-      "subtitle": "Pasos a seguir si te encuentras en estas circunstancias",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260326/11493080/que-te-roban-pasaporte-dni-extranjero.html",
-      "scraped_at": "2026-03-26T07:35:08Z"
+      "title": "Encuentran serpientes peligrosas y un caimán escondidos en un sótano en una casa de Italia",
+      "subtitle": "El descubrimiento fue realizado por agentes de los Carabineros",
+      "url": "https://www.lavanguardia.com/internacional/20260327/11500190/encuentran-serpientes-peligrosas-caiman-escondidos-sotano-casa-italia.html",
+      "scraped_at": "2026-03-27T07:34:00Z"
     }
   ]
 }
