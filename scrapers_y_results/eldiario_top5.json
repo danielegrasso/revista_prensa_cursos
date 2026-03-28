@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la década de crecimiento hasta final de mandato: El presidente proyecta al nuevo vicepresidente primero como apuesta de futuro más allá de 2027 y envía un mensaje de continuidad, coherencia y planificación estratégica de país. Entiende que la decisión, en un contexto geopolítico de inestabilidad, arrastra a la derecha a una conversación de la que siempre ha querido escapar por los buenos datos macro; Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi España: El presidente cubre la salida de María Jesús Montero con el ascenso a vicepresidente económico del hombre que sustituyó hace dos años a Nadia Calviño y da la sorpresa con el nuevo ministro de Hacienda, de la federación socialista valenciana y hasta ahora secretario de estado de Política Territorial; De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tranquilo Carlos Cuerpo: Cuerpo dio el salto del Tesoro Público a lo más alto del Ministerio en diciembre de 2023. Es el miembro mejor valorado del Gobierno que ahora se enfrenta a los desafíos económicos de la guerra en Oriente Medio. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-27T07:33:57Z",
+  "summary": "Resumen del día en elDiario.es: Trump alienta las negociaciones con Irán para salir del avispero y se revuelve ante la soledad frente a sus aliados: El presidente de EEUU alarga los plazos de la negociación con Irán y retira un ultimátum para buscar una salida de una guerra que ya ha cumplido cuatro semanas; La guerra de Oriente Medio arrastra a Europa a la estanflación: La Unión Europea se acerca peligrosamente a la pesadilla económica de bajo crecimiento y alta inflación por el conflicto provocado por Estados Unidos e Israel con sus bombardeos contra Irán y la expansión del enfrentamiento al resto del Golfo Pérsico; El diario de guerra que nadie esperaba: las confesiones del hijo del presidente de Irán: Las publicaciones en Internet de Yusef Pezeshkian no revelan secretos de Estado, pero ponen de manifiesto las preocupaciones de la sociedad iraní. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-28T07:12:03Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la década de crecimiento hasta final de mandato",
-      "subtitle": "El presidente proyecta al nuevo vicepresidente primero como apuesta de futuro más allá de 2027 y envía un mensaje de continuidad, coherencia y planificación estratégica de país. Entiende que la decisión, en un contexto geopolítico de inestabilidad, arrastra a la derecha a una conversación de la que siempre ha querido escapar por los buenos datos macro",
-      "url": "https://www.eldiario.es/politica/sanchez-busca-eleccion-cuerpo-centrar-debate-economia-decada-crecimiento-final-mandato_129_13101038.html",
-      "scraped_at": "2026-03-27T07:33:54Z"
+      "title": "Trump alienta las negociaciones con Irán para salir del avispero y se revuelve ante la soledad frente a sus aliados",
+      "subtitle": "El presidente de EEUU alarga los plazos de la negociación con Irán y retira un ultimátum para buscar una salida de una guerra que ya ha cumplido cuatro semanas",
+      "url": "https://www.eldiario.es/internacional/trump-alienta-negociaciones-iran-salir-avispero-revuelve-soledad-frente-aliados_1_13105316.html",
+      "scraped_at": "2026-03-28T07:12:00Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi España",
-      "subtitle": "El presidente cubre la salida de María Jesús Montero con el ascenso a vicepresidente económico del hombre que sustituyó hace dos años a Nadia Calviño y da la sorpresa con el nuevo ministro de Hacienda, de la federación socialista valenciana y hasta ahora secretario de estado de Política Territorial",
-      "url": "https://www.eldiario.es/politica/sanchez-nombra-vicepresidente-carlos-cuerpo-ministro-hacienda-arcadi-espana_1_13101087.html",
-      "scraped_at": "2026-03-27T07:33:54Z"
+      "title": "La guerra de Oriente Medio arrastra a Europa a la estanflación",
+      "subtitle": "La Unión Europea se acerca peligrosamente a la pesadilla económica de bajo crecimiento y alta inflación por el conflicto provocado por Estados Unidos e Israel con sus bombardeos contra Irán y la expansión del enfrentamiento al resto del Golfo Pérsico",
+      "url": "https://www.eldiario.es/economia/guerra-oriente-medio-arrastra-europa-estanflacion_1_13102578.html",
+      "scraped_at": "2026-03-28T07:12:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tranquilo Carlos Cuerpo",
-      "subtitle": "Cuerpo dio el salto del Tesoro Público a lo más alto del Ministerio en diciembre de 2023. Es el miembro mejor valorado del Gobierno que ahora se enfrenta a los desafíos económicos de la guerra en Oriente Medio",
-      "url": "https://www.eldiario.es/economia/tecnico-sombra-calvino-vicepresidente-ascenso-fulgurante-tranquilo-carlos-cuerpo_1_13101368.html",
-      "scraped_at": "2026-03-27T07:33:55Z"
+      "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente de Irán",
+      "subtitle": "Las publicaciones en Internet de Yusef Pezeshkian no revelan secretos de Estado, pero ponen de manifiesto las preocupaciones de la sociedad iraní",
+      "url": "https://www.eldiario.es/internacional/theguardian/diario-guerra-nadie-esperaba-confesiones-hijo-presidente-iran_1_13104718.html",
+      "scraped_at": "2026-03-28T07:12:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Arcadi España, el discípulo de Ximo Puig que lideró la reforma fiscal de la izquierda en la Generalitat Valenciana",
-      "subtitle": "El presidente del Gobierno, Pedro Sánchez, sitúa al exconseller valenciano de Hacienda y número dos de Política Territorial al frente del Ministerio que dirige las cuentas públicas",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/arcadi-espana-discipulo-ximo-puig-lidero-reforma-fiscal-izquierda-generalitat-valenciana_1_13101349.html",
-      "scraped_at": "2026-03-27T07:33:55Z"
+      "title": "Carlos Cuerpo y Yolanda Díaz: la tensión política entre el PSOE y Sumar escala a las vicepresidencias",
+      "subtitle": "Sánchez se mantiene impasible a los focos de conflicto de sus socios con el ministro de Economía e incluso a algunos recelos en sus propias filas con el ascenso fulgurante de un perfil técnico como Cuerpo a vicepresidente primero del Gobierno",
+      "url": "https://www.eldiario.es/politica/carlos-cuerpo-yolanda-diaz-tension-politica-psoe-sumar-escala-vicepresidencias_1_13103628.html",
+      "scraped_at": "2026-03-28T07:12:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pensiones",
-      "subtitle": "Diario digital de noticias de actualidad sobre política y economía, análisis y blogs de opinión. Dirigido por Ignacio Escolar. Periodismo riguroso, independiente y honesto.",
-      "url": "https://www.eldiario.es/economia/oficial-seguridad-social-corrige-mayor-recorte-pensiones-maximas-jubilacion-anticipado_1_13099474.html",
-      "scraped_at": "2026-03-27T07:33:57Z"
+      "title": "Jornada laboral funcionarios",
+      "subtitle": "El ministro ha explicado en una entrevista durante la tercera jornada del IV Foro Económico de elDiario.es que \"en lo que respecta a la Administración General del Estado\" se comenzará a aplicar a partir de la primera quincena",
+      "url": "https://www.eldiario.es/economia/oscar-lopez-anuncia-jornada-35-horas-funcionarios-aplicara-partir-abril_1_13102503.html",
+      "scraped_at": "2026-03-28T07:12:03Z"
     }
   ]
 }

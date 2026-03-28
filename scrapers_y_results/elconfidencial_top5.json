@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La guerra en Oriente Medio provoca una oleada proteccionista en medio mundo: El conflicto en Oriente Medio ha impulsado una ola proteccionista que se suma a una tendencia de fondo que también recorre el mundo: el auge del capitalismo de Estado frente al liberalismo hegemónico de las últimas décadas; Sánchez apunta al voto templado con Cuerpo y se lanza a por la Comunidad Valenciana: El nuevo vicepresidente es la persona más valorada del Gobierno y tiene entrada en el electorado de centroderecha. La promoción de Arcadi España como ministro de Hacienda acentúa la lucha por recuperar Valencia; España, el refugio de empresarios que huyen de la guerra de Irán: \"Buscan seguridad\": Vienen en busca de tranquilidad, buen clima y facilidades para invertir. Otros mandan a sus familias primero, pero prefieren España antes que enviarlas a sus países de origen. Quienes los ayudan a venir no dan abasto. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-27T07:34:05Z",
+  "summary": "Resumen del día en El Confidencial: El colapso de los fondos de deuda pone en alerta al sector inmobiliario: Blackrock, Apollo y Ares han puesto en alerta al sector al aplicar cierre a las retiradas de capital de sus fondos de crédito privado, vehículos estrella que pueden terminar estrellados; Verdades y mentiras del caso de Noelia Castillo y el precedente que marcará la ley de eutanasia: La batalla judicial, las investigaciones periodísticas y su testimonio arrojaron luz a controversias sobre su movilidad, su pasado, su postura ante la muerte y la relación con su padre; Mapa de morosidad en Madrid: cuánto deben las principales ciudades de la región y a quién: La capital presenta los números más elevados en términos absolutos, pero su situación es positiva, según el Observatorio de Entidades Locales de la Airef. La deuda de Parla, feudo de la izquierda, es casi siete veces sus ingresos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-28T07:12:11Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La guerra en Oriente Medio provoca una oleada proteccionista en medio mundo",
-      "subtitle": "El conflicto en Oriente Medio ha impulsado una ola proteccionista que se suma a una tendencia de fondo que también recorre el mundo: el auge del capitalismo de Estado frente al liberalismo hegemónico de las últimas décadas",
-      "url": "https://www.elconfidencial.com/economia/2026-03-27/proteccionismo-capitalismo-de-estado-subvenciones-petroleo_4328245/",
-      "scraped_at": "2026-03-27T07:34:02Z"
+      "title": "El colapso de los fondos de deuda pone en alerta al sector inmobiliario",
+      "subtitle": "Blackrock, Apollo y Ares han puesto en alerta al sector al aplicar cierre a las retiradas de capital de sus fondos de crédito privado, vehículos estrella que pueden terminar estrellados",
+      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-03-28/colapso-fondos-deuda-sector-inmobiliario_4327120/",
+      "scraped_at": "2026-03-28T07:12:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Sánchez apunta al voto templado con Cuerpo y se lanza a por la Comunidad Valenciana",
-      "subtitle": "El nuevo vicepresidente es la persona más valorada del Gobierno y tiene entrada en el electorado de centroderecha. La promoción de Arcadi España como ministro de Hacienda acentúa la lucha por recuperar Valencia",
-      "url": "https://www.elconfidencial.com/espana/2026-03-27/sanchez-batalla-voto-templado-cuerpo-comunidad-valenciana_4328148/",
-      "scraped_at": "2026-03-27T07:34:03Z"
+      "title": "Verdades y mentiras del caso de Noelia Castillo y el precedente que marcará la ley de eutanasia",
+      "subtitle": "La batalla judicial, las investigaciones periodísticas y su testimonio arrojaron luz a controversias sobre su movilidad, su pasado, su postura ante la muerte y la relación con su padre",
+      "url": "https://www.elconfidencial.com/espana/2026-03-28/lecciones-del-caso-de-noelia-castillo-y-el-precedente-que-marcara-la-ley-de-eutanasia_4328937/",
+      "scraped_at": "2026-03-28T07:12:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "España, el refugio de empresarios que huyen de la guerra de Irán: \"Buscan seguridad\"",
-      "subtitle": "Vienen en busca de tranquilidad, buen clima y facilidades para invertir. Otros mandan a sus familias primero, pero prefieren España antes que enviarlas a sus países de origen. Quienes los ayudan a venir no dan abasto",
-      "url": "https://www.elconfidencial.com/economia/2026-03-27/empresarios-refugiados-guerra-iran-oriente-medio_4327984/",
-      "scraped_at": "2026-03-27T07:34:04Z"
+      "title": "Mapa de morosidad en Madrid: cuánto deben las principales ciudades de la región y a quién",
+      "subtitle": "La capital presenta los números más elevados en términos absolutos, pero su situación es positiva, según el Observatorio de Entidades Locales de la Airef. La deuda de Parla, feudo de la izquierda, es casi siete veces sus ingresos",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-03-28/mapa-morosidad-madrid-cuanto-deben-grandes-ciudades-quien_4314234/",
+      "scraped_at": "2026-03-28T07:12:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Begoña Gómez usó Moncloa para impulsar su cátedra por el \"riesgo\" a contagiarse de covid",
-      "subtitle": "El escrito de su abogado asegura que se reunió allí con el rector en julio de 2020 porque en ese momento &quot;había ya 4.189.136 contagiados, 81.148 muertos y el nivel de riesgo era alto&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-03-27/begona-gomez-moncloa-catedra-contagio-covid_4328046/",
-      "scraped_at": "2026-03-27T07:34:04Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Garzón ficha en la Comisión de la Verdad al abogado que llamó \"perra\" a su mujer",
-      "subtitle": "Fue condenado en primera instancia en 2020 y absuelto definitivamente en 2024 por el Tribunal Supremo de Brasil. En la denuncia, la mujer recogió audios en los que le llama &quot;loca&quot; e &quot;imbécil&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-03-27/garzon-comision-verdad-abogado-abogado-perra-mentirosa-mujer_4328016/",
-      "scraped_at": "2026-03-27T07:34:05Z"
+      "title": "El patrimonio persa, bajo las bombas: las joyas de Irán dañadas por el conflicto",
+      "subtitle": "Lo que ha logrado mantenerse durante siglos no ha escapado a las bombas. Infligir daños en este tipo de monumentos supone un crimen de guerra",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-25/patrimonio-persa-bombas-joyas-iran-danadas-guerra_4326358/",
+      "scraped_at": "2026-03-28T07:12:11Z"
     }
   ]
 }
