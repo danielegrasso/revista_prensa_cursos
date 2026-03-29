@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El colapso de los fondos de deuda pone en alerta al sector inmobiliario: Blackrock, Apollo y Ares han puesto en alerta al sector al aplicar cierre a las retiradas de capital de sus fondos de crédito privado, vehículos estrella que pueden terminar estrellados; Verdades y mentiras del caso de Noelia Castillo y el precedente que marcará la ley de eutanasia: La batalla judicial, las investigaciones periodísticas y su testimonio arrojaron luz a controversias sobre su movilidad, su pasado, su postura ante la muerte y la relación con su padre; Mapa de morosidad en Madrid: cuánto deben las principales ciudades de la región y a quién: La capital presenta los números más elevados en términos absolutos, pero su situación es positiva, según el Observatorio de Entidades Locales de la Airef. La deuda de Parla, feudo de la izquierda, es casi siete veces sus ingresos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-28T07:12:11Z",
+  "summary": "Resumen del día en El Confidencial: Sánchez levanta un muro en la coalición, se distancia de Díaz y refuerza el tono electoral en Moncloa: El plan de Moncloa sigue siendo agotar la legislatura, pero el presidente apuntala su estrategia y Cuerpo es clave: neutralizar a la izquierda radical, acusar de crispar a la oposición y España es la mejor economía de Europa. Y el no a la guerra; Ciudad geriátrico: estos barrios son el paraíso para los jubilados españoles: Una serie de factores han provocado la aparición de núcleos envejecidos donde los pisos no salen al mercado, la inmigración es baja y que están adaptados a las necesidades de los pensionistas; Irán Trump: Trump ha afirmado que ha ganado la guerra. Luego que todavía era necesario continuar con la operación. También ha generado dudas sobre el objetivo real de la operación. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-29T07:17:55Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El colapso de los fondos de deuda pone en alerta al sector inmobiliario",
-      "subtitle": "Blackrock, Apollo y Ares han puesto en alerta al sector al aplicar cierre a las retiradas de capital de sus fondos de crédito privado, vehículos estrella que pueden terminar estrellados",
-      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-03-28/colapso-fondos-deuda-sector-inmobiliario_4327120/",
-      "scraped_at": "2026-03-28T07:12:10Z"
+      "title": "Sánchez levanta un muro en la coalición, se distancia de Díaz y refuerza el tono electoral en Moncloa",
+      "subtitle": "El plan de Moncloa sigue siendo agotar la legislatura, pero el presidente apuntala su estrategia y Cuerpo es clave: neutralizar a la izquierda radical, acusar de crispar a la oposición y España es la mejor economía de Europa. Y el no a la guerra",
+      "url": "https://www.elconfidencial.com/espana/2026-03-29/sanchez-levanta-muro-coalicion-distancia-yolanda-diaz-refuerza-elecciones_4328973/",
+      "scraped_at": "2026-03-29T07:17:54Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Verdades y mentiras del caso de Noelia Castillo y el precedente que marcará la ley de eutanasia",
-      "subtitle": "La batalla judicial, las investigaciones periodísticas y su testimonio arrojaron luz a controversias sobre su movilidad, su pasado, su postura ante la muerte y la relación con su padre",
-      "url": "https://www.elconfidencial.com/espana/2026-03-28/lecciones-del-caso-de-noelia-castillo-y-el-precedente-que-marcara-la-ley-de-eutanasia_4328937/",
-      "scraped_at": "2026-03-28T07:12:10Z"
+      "title": "Ciudad geriátrico: estos barrios son el paraíso para los jubilados españoles",
+      "subtitle": "Una serie de factores han provocado la aparición de núcleos envejecidos donde los pisos no salen al mercado, la inmigración es baja y que están adaptados a las necesidades de los pensionistas",
+      "url": "https://www.elconfidencial.com/espana/2026-03-29/ciudad-geriatrico-edad-media-espana-calle-calle_4301325/",
+      "scraped_at": "2026-03-29T07:17:55Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Mapa de morosidad en Madrid: cuánto deben las principales ciudades de la región y a quién",
-      "subtitle": "La capital presenta los números más elevados en términos absolutos, pero su situación es positiva, según el Observatorio de Entidades Locales de la Airef. La deuda de Parla, feudo de la izquierda, es casi siete veces sus ingresos",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-03-28/mapa-morosidad-madrid-cuanto-deben-grandes-ciudades-quien_4314234/",
-      "scraped_at": "2026-03-28T07:12:10Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El patrimonio persa, bajo las bombas: las joyas de Irán dañadas por el conflicto",
-      "subtitle": "Lo que ha logrado mantenerse durante siglos no ha escapado a las bombas. Infligir daños en este tipo de monumentos supone un crimen de guerra",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-25/patrimonio-persa-bombas-joyas-iran-danadas-guerra_4326358/",
-      "scraped_at": "2026-03-28T07:12:11Z"
+      "title": "Irán Trump",
+      "subtitle": "Trump ha afirmado que ha ganado la guerra. Luego que todavía era necesario continuar con la operación. También ha generado dudas sobre el objetivo real de la operación",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-29/cuanto-mejor-peor-el-suyo-beneficio-iran-la-operacion-confusion-epica-de-trump_4328783/",
+      "scraped_at": "2026-03-29T07:17:55Z"
     }
   ]
 }

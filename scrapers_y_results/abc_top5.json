@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Unión Europea complica el regreso del fugado Puigdemont: Da igual si hubo o no beneficio personal: basta con acreditar un perjuicio para que haya malversación; El Gobierno evita una revisión de la vía Txeroki que frenaría la salida de etarras de la cárcel: La Mesa del Congreso, donde tienen mayoría PSOE y Sumar, retrasa el debate para eliminar el artículo 100.2 del Reglamento Penitenciario, que permite sus salidas; Seis años sin su hijo por la denuncia de una amiga: «Tengo un cuarto con juegos para él»: El caso llega ahora al Tribunal Constitucional, que decidirá si se vulneraron sus derechos fundamentales, mientras su defensa pide frenar el proceso de adopción por otra familia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-28T07:12:06Z",
+  "summary": "Resumen del día en ABC.es: «Tenemos una amenaza cierta y clara de Marruecos»: «El 'No a la guerra' parece un eslogan publicitario más que algo en lo que uno cree firmemente», recela; Sánchez culmina la opa a su izquierda e inicia el giro hacia el centro: La elección de Cuerpo pretende ensanchar el espacio electoral con la supuesta moderación y gestión como nuevo estandarte; Una herencia envenenada para Arcadi España: sin apoyo para la reforma de la financiación y un Presupuesto improbable: El nuevo ministro de Hacienda considera que hay margen para matizar el modelo original y lograr el respaldo de alguna autonomía más allá de Cataluña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-29T07:17:52Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Unión Europea complica el regreso del fugado Puigdemont",
-      "subtitle": "Da igual si hubo o no beneficio personal: basta con acreditar un perjuicio para que haya malversación",
-      "url": "https://www.abc.es/espana/nueva-directiva-europea-sobre-corrupcion-complica-vuelta-20260328040231-nt.html",
-      "scraped_at": "2026-03-28T07:12:04Z"
+      "title": "«Tenemos una amenaza cierta y clara de Marruecos»",
+      "subtitle": "«El 'No a la guerra' parece un eslogan publicitario más que algo en lo que uno cree firmemente», recela",
+      "url": "https://www.abc.es/espana/jemad-alejandre-dudas-otan-respondiera-ante-ataque-20260329040134-nt.html",
+      "scraped_at": "2026-03-29T07:17:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno evita una revisión de la vía Txeroki que frenaría la salida de etarras de la cárcel",
-      "subtitle": "La Mesa del Congreso, donde tienen mayoría PSOE y Sumar, retrasa el debate para eliminar el artículo 100.2 del Reglamento Penitenciario, que permite sus salidas",
-      "url": "https://www.abc.es/espana/gobierno-bloquea-diciembre-derogacion-via-txeroki-evitaria-20260326040646-nt.html",
-      "scraped_at": "2026-03-28T07:12:05Z"
+      "title": "Sánchez culmina la opa a su izquierda e inicia el giro hacia el centro",
+      "subtitle": "La elección de Cuerpo pretende ensanchar el espacio electoral con la supuesta moderación y gestión como nuevo estandarte",
+      "url": "https://www.abc.es/espana/sanchez-culmina-opa-izquierda-inicia-giro-centro-20260329040144-nt.html",
+      "scraped_at": "2026-03-29T07:17:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "Seis años sin su hijo por la denuncia de una amiga: «Tengo un cuarto con juegos para él»",
-      "subtitle": "El caso llega ahora al Tribunal Constitucional, que decidirá si se vulneraron sus derechos fundamentales, mientras su defensa pide frenar el proceso de adopción por otra familia",
-      "url": "https://www.abc.es/sociedad/denuncia-falsa-mala-amiga-quito-bebe-madre-20260325041017-nt.html",
-      "scraped_at": "2026-03-28T07:12:05Z"
+      "title": "Una herencia envenenada para Arcadi España: sin apoyo para la reforma de la financiación y un Presupuesto improbable",
+      "subtitle": "El nuevo ministro de Hacienda considera que hay margen para matizar el modelo original y lograr el respaldo de alguna autonomía más allá de Cataluña",
+      "url": "https://www.abc.es/economia/herencia-envenenada-arcadi-espana-apoyo-reforma-financiacion-20260326040159-nt.html",
+      "scraped_at": "2026-03-29T07:17:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE cree que Vox ya le supera en Almería y teme por otras tres provincias",
-      "subtitle": "Almería se da por perdida y hay riesgo de ceder la segunda plaza en Huelva, Cádiz y Málaga",
-      "url": "https://www.abc.es/espana/psoe-teme-sorpasso-vox-cuatro-provincias-andaluzas-20260327041101-nt.html",
-      "scraped_at": "2026-03-28T07:12:06Z"
+      "title": "Irán abre a Trump una guerra interna en año de elecciones",
+      "subtitle": "A pesar de la lealtad del movimiento MAGA, la ruptura de su promesa de no llevar a Estados Unidos a nuevos conflictos bélicos provoca deserciones de figuras influyentes y amenaza con romper la coalición que lo devolvió a la Casa Blanca",
+      "url": "https://www.abc.es/internacional/iran-abre-guerra-interna-trump-20260328040217-nt.html",
+      "scraped_at": "2026-03-29T07:17:52Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-28T07:12:06Z"
+      "scraped_at": "2026-03-29T07:17:52Z"
     }
   ]
 }
