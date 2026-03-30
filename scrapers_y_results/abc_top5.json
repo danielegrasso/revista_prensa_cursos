@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: «Tenemos una amenaza cierta y clara de Marruecos»: «El 'No a la guerra' parece un eslogan publicitario más que algo en lo que uno cree firmemente», recela; Sánchez culmina la opa a su izquierda e inicia el giro hacia el centro: La elección de Cuerpo pretende ensanchar el espacio electoral con la supuesta moderación y gestión como nuevo estandarte; Una herencia envenenada para Arcadi España: sin apoyo para la reforma de la financiación y un Presupuesto improbable: El nuevo ministro de Hacienda considera que hay margen para matizar el modelo original y lograr el respaldo de alguna autonomía más allá de Cataluña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-29T07:17:52Z",
+  "summary": "Resumen del día en ABC.es: Juanma Moreno acaricia la mayoría absoluta en Andalucía: El PSOE sigue en mínimos históricos con Montero y Adelante Andalucía iguala a la Por Andalucía de Maíllo, que no sube, según la encuesta de GAD3 para ABC; La mala sintonía entre Feijóo y Abascal desata el temor de pactos inestables: Tanto dirigentes nacionales como autonómicos asumen la «fragilidad» de los futuros acuerdos; Prostitución y drogas: el patrón común de las corruptelas socialistas: El Tito Berni y Ábalos han liderado las dos tramas más sonadas del último lustro con Canarias en común. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-30T07:59:04Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "«Tenemos una amenaza cierta y clara de Marruecos»",
-      "subtitle": "«El 'No a la guerra' parece un eslogan publicitario más que algo en lo que uno cree firmemente», recela",
-      "url": "https://www.abc.es/espana/jemad-alejandre-dudas-otan-respondiera-ante-ataque-20260329040134-nt.html",
-      "scraped_at": "2026-03-29T07:17:52Z"
+      "title": "Juanma Moreno acaricia la mayoría absoluta en Andalucía",
+      "subtitle": "El PSOE sigue en mínimos históricos con Montero y Adelante Andalucía iguala a la Por Andalucía de Maíllo, que no sube, según la encuesta de GAD3 para ABC",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-logra-segunda-mayoria-absoluta-ante-20260330182747-nts.html",
+      "scraped_at": "2026-03-30T07:59:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez culmina la opa a su izquierda e inicia el giro hacia el centro",
-      "subtitle": "La elección de Cuerpo pretende ensanchar el espacio electoral con la supuesta moderación y gestión como nuevo estandarte",
-      "url": "https://www.abc.es/espana/sanchez-culmina-opa-izquierda-inicia-giro-centro-20260329040144-nt.html",
-      "scraped_at": "2026-03-29T07:17:52Z"
+      "title": "La mala sintonía entre Feijóo y Abascal desata el temor de pactos inestables",
+      "subtitle": "Tanto dirigentes nacionales como autonómicos asumen la «fragilidad» de los futuros acuerdos",
+      "url": "https://www.abc.es/espana/mala-sintonia-feijoo-abascal-desata-temor-pactos-20260330040014-nt.html",
+      "scraped_at": "2026-03-30T07:59:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Una herencia envenenada para Arcadi España: sin apoyo para la reforma de la financiación y un Presupuesto improbable",
-      "subtitle": "El nuevo ministro de Hacienda considera que hay margen para matizar el modelo original y lograr el respaldo de alguna autonomía más allá de Cataluña",
-      "url": "https://www.abc.es/economia/herencia-envenenada-arcadi-espana-apoyo-reforma-financiacion-20260326040159-nt.html",
-      "scraped_at": "2026-03-29T07:17:52Z"
+      "title": "Prostitución y drogas: el patrón común de las corruptelas socialistas",
+      "subtitle": "El Tito Berni y Ábalos han liderado las dos tramas más sonadas del último lustro con Canarias en común",
+      "url": "https://www.abc.es/espana/prostitucion-drogas-patron-comun-corruptelas-socialistas-20260330040038-nt.html",
+      "scraped_at": "2026-03-30T07:59:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Irán abre a Trump una guerra interna en año de elecciones",
-      "subtitle": "A pesar de la lealtad del movimiento MAGA, la ruptura de su promesa de no llevar a Estados Unidos a nuevos conflictos bélicos provoca deserciones de figuras influyentes y amenaza con romper la coalición que lo devolvió a la Casa Blanca",
-      "url": "https://www.abc.es/internacional/iran-abre-guerra-interna-trump-20260328040217-nt.html",
-      "scraped_at": "2026-03-29T07:17:52Z"
+      "title": "Trump plantea «quedarse» con el petróleo de Irán y tomar la isla de Jark",
+      "subtitle": "El presidente de EE.UU. asegura a 'Financial Times' que el presidente del Parlamento iraní, Mohamed Ghalibaf, ha negociado con él el paso de 20 petroleros por Ormuz",
+      "url": "https://www.abc.es/internacional/trump-dice-plantea-tomar-isla-jark-quedarme-20260330071415-nt.html",
+      "scraped_at": "2026-03-30T07:59:04Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-29T07:17:52Z"
+      "scraped_at": "2026-03-30T07:59:04Z"
     }
   ]
 }

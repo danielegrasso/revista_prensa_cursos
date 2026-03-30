@@ -1,28 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Sánchez levanta un muro en la coalición, se distancia de Díaz y refuerza el tono electoral en Moncloa: El plan de Moncloa sigue siendo agotar la legislatura, pero el presidente apuntala su estrategia y Cuerpo es clave: neutralizar a la izquierda radical, acusar de crispar a la oposición y España es la mejor economía de Europa. Y el no a la guerra; Ciudad geriátrico: estos barrios son el paraíso para los jubilados españoles: Una serie de factores han provocado la aparición de núcleos envejecidos donde los pisos no salen al mercado, la inmigración es baja y que están adaptados a las necesidades de los pensionistas; Irán Trump: Trump ha afirmado que ha ganado la guerra. Luego que todavía era necesario continuar con la operación. También ha generado dudas sobre el objetivo real de la operación. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-29T07:17:55Z",
+  "summary": "Resumen del día en El Confidencial: Un amigo de Sánchez en Criteria: el consejero que jugó con el presidente en Estudiantes: Un amigo del presidente del Gobierno con el que coincidió en los juveniles de Estudiantes, Juan Manuel Negro, fue contratado por CriteriaCaixa en 2021 cuando estaba en paro y en 2025 renovó por otros cuatro años; ¿Te has perdido en un caso de corrupción? ¿Te falta contexto? El Confidencial lanza 'El Hilo': Cada semana, Miguel Núñez se encargará de diseccionar un asunto informativo de gran interés para entender mejor su origen, su situación actual y sus posibles repercusiones en el futuro. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-30T07:59:08Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Sánchez levanta un muro en la coalición, se distancia de Díaz y refuerza el tono electoral en Moncloa",
-      "subtitle": "El plan de Moncloa sigue siendo agotar la legislatura, pero el presidente apuntala su estrategia y Cuerpo es clave: neutralizar a la izquierda radical, acusar de crispar a la oposición y España es la mejor economía de Europa. Y el no a la guerra",
-      "url": "https://www.elconfidencial.com/espana/2026-03-29/sanchez-levanta-muro-coalicion-distancia-yolanda-diaz-refuerza-elecciones_4328973/",
-      "scraped_at": "2026-03-29T07:17:54Z"
+      "title": "Un amigo de Sánchez en Criteria: el consejero que jugó con el presidente en Estudiantes",
+      "subtitle": "Un amigo del presidente del Gobierno con el que coincidió en los juveniles de Estudiantes, Juan Manuel Negro, fue contratado por CriteriaCaixa en 2021 cuando estaba en paro y en 2025 renovó por otros cuatro años",
+      "url": "https://www.elconfidencial.com/espana/2026-03-30/sanchez-negro-baloncesto-estudiantes-criteria-caixa-cbtr_4328721/",
+      "scraped_at": "2026-03-30T07:59:08Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ciudad geriátrico: estos barrios son el paraíso para los jubilados españoles",
-      "subtitle": "Una serie de factores han provocado la aparición de núcleos envejecidos donde los pisos no salen al mercado, la inmigración es baja y que están adaptados a las necesidades de los pensionistas",
-      "url": "https://www.elconfidencial.com/espana/2026-03-29/ciudad-geriatrico-edad-media-espana-calle-calle_4301325/",
-      "scraped_at": "2026-03-29T07:17:55Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Irán Trump",
-      "subtitle": "Trump ha afirmado que ha ganado la guerra. Luego que todavía era necesario continuar con la operación. También ha generado dudas sobre el objetivo real de la operación",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-29/cuanto-mejor-peor-el-suyo-beneficio-iran-la-operacion-confusion-epica-de-trump_4328783/",
-      "scraped_at": "2026-03-29T07:17:55Z"
+      "title": "¿Te has perdido en un caso de corrupción? ¿Te falta contexto? El Confidencial lanza 'El Hilo'",
+      "subtitle": "Cada semana, Miguel Núñez se encargará de diseccionar un asunto informativo de gran interés para entender mejor su origen, su situación actual y sus posibles repercusiones en el futuro",
+      "url": "https://www.elconfidencial.com/espana/2026-03-24/el-hilo-newsletter-de-el-confidencial-para-dar-contexto-cbtrltrc_4325365/",
+      "scraped_at": "2026-03-30T07:59:08Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Feijóo: “Sánchez sabe que cuanto más crezca Vox más límites tendrá el PP”: El presidente del Partido Popular asegura que la gente que le para en la calle le dice que es “demasiado blando”; El líder del PP: “Sánchez está ralentizando la decisión sobre Puigdemont”: El presidente del Partido Popular desliza que “los políticos catalanes deberían tomarse más en serio a los ciudadanos”; Una larga batalla hasta el 2027: Hoy tienen a su disposición en La Vanguardia una entrevista al líder de la oposición, Alberto Núñez Feijóo, y otra al flamante vicepresidente primero del Gobierno, Carlos Cuerpo. Saquen ustedes sus propias conclusiones. Al líder popular se le ve seguro y tranquilo cuando. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-29T07:17:54Z",
+  "summary": "Resumen del día en La Vanguardia: La guerra de Irán pone a 45 millones de personas en riesgo de hambre extrema: El precio de los alimentos subirá más del 15% en Asia y África por la crisis agrícola; Los marines de EE.UU. ya operan en Oriente Medio: Unos 2.500 soldados llegan a Oriente Medio e Irán avisa de que les prenderá fuego; Israel, ante la repulsa internacional al impedir la misa en el Santo Sepulcro: La Iglesia denuncia un “grave precedente” e Italia convoca al embajador israelí por la ofensa a la libertad religiosa. Netanyahu lo justifica por la seguridad del cardenal Pizzaballa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-30T07:59:07Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Feijóo: “Sánchez sabe que cuanto más crezca Vox más límites tendrá el PP”",
-      "subtitle": "El presidente del Partido Popular asegura que la gente que le para en la calle le dice que es “demasiado blando”",
-      "url": "https://www.lavanguardia.com/politica/20260329/11501661/feijoo-sanchez-cuanto-mas-crezca-vox-mas-limites-tendra-pp.html",
-      "scraped_at": "2026-03-29T07:17:53Z"
+      "title": "La guerra de Irán pone a 45 millones de personas en riesgo de hambre extrema",
+      "subtitle": "El precio de los alimentos subirá más del 15% en Asia y África por la crisis agrícola",
+      "url": "https://www.lavanguardia.com/economia/20260330/11501937/guerra-iran-pone-45-millones-personas-riesgo-hambre-extrema.html",
+      "scraped_at": "2026-03-30T07:59:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El líder del PP: “Sánchez está ralentizando la decisión sobre Puigdemont”",
-      "subtitle": "El presidente del Partido Popular desliza que “los políticos catalanes deberían tomarse más en serio a los ciudadanos”",
-      "url": "https://www.lavanguardia.com/politica/20260329/11501664/feijoo-sanchez-esta-ralentizando-decision-sobre-puigdemont.html",
-      "scraped_at": "2026-03-29T07:17:53Z"
+      "title": "Los marines de EE.UU. ya operan en Oriente Medio",
+      "subtitle": "Unos 2.500 soldados llegan a Oriente Medio e Irán avisa de que les prenderá fuego",
+      "url": "https://www.lavanguardia.com/internacional/20260330/11501962/marines-zona-guerra.html",
+      "scraped_at": "2026-03-30T07:59:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una larga batalla hasta el 2027",
-      "subtitle": "Hoy tienen a su disposición en La Vanguardia una entrevista al líder de la oposición, Alberto Núñez Feijóo, y otra al flamante vicepresidente primero del Gobierno, Carlos Cuerpo. Saquen ustedes sus propias conclusiones. Al líder popular se le ve seguro y tranquilo cuando",
-      "url": "https://www.lavanguardia.com/opinion/20260329/11501701/larga-batalla-2027.html",
-      "scraped_at": "2026-03-29T07:17:53Z"
+      "title": "Israel, ante la repulsa internacional al impedir la misa en el Santo Sepulcro",
+      "subtitle": "La Iglesia denuncia un “grave precedente” e Italia convoca al embajador israelí por la ofensa a la libertad religiosa. Netanyahu lo justifica por la seguridad del cardenal Pizzaballa",
+      "url": "https://www.lavanguardia.com/internacional/20260329/11501827/israel-bloquea-misa-domingo-ramos-santo-sepulcro.html",
+      "scraped_at": "2026-03-30T07:59:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Feijóo no quiere ser Aznar",
-      "subtitle": "Los españoles veinteañeros que se manifestaron contra la guerra de Irak viven ahora su plena madurez y deben haber flipado (como dirían Pedro Sánchez o Gabriel Rufián, ahora que está de moda el lenguaje callejero en el Congreso) ante el revival al que se ha entregado la",
-      "url": "https://www.lavanguardia.com/politica/20260329/11501585/feijoo-quiere-aznar-no-a-la-guerra-sanchez.html",
-      "scraped_at": "2026-03-29T07:17:54Z"
+      "title": "España cierra su espacio aéreo a los aviones que participen en la guerra en Irán",
+      "subtitle": "La restricción afecta principalmente a aeronaves estadounidenses destacadas en otros países de Europa",
+      "url": "https://www.lavanguardia.com/politica/20260330/11502177/espana-cierra-espacio-aereo-aviones-participen-guerra-iran.html",
+      "scraped_at": "2026-03-30T07:59:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuerpo: “Voy a seguir tendiendo la mano, intentando llegar a acuerdos”",
-      "subtitle": "El vicepresidente primero y ministro de Economía, Comercio y Empresa promete controlar que las rebajas fiscales en vigor se trasladen a los precios finales",
-      "url": "https://www.lavanguardia.com/economia/20260329/11501696/carlos-cuerpo-seguir-tendiendo-mano-intentando-llegar-acuerdos.html",
-      "scraped_at": "2026-03-29T07:17:54Z"
+      "title": "Inquina al funcionario",
+      "subtitle": "El Gobierno anunció que iba a aplicar la semana de 35 horas a los funcionarios del Estado a partir de abril y el aire se llenó de chascarrillos. “Así que les van a hacer trabajar más”. “De esas, 32 se les van en cafés”... Un usuario de X que se hizo popular hace unos",
+      "url": "https://www.lavanguardia.com/opinion/20260330/11501877/inquina-funcionario.html",
+      "scraped_at": "2026-03-30T07:59:07Z"
     }
   ]
 }
