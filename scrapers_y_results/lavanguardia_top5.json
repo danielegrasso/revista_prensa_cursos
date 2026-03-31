@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La guerra de Irán pone a 45 millones de personas en riesgo de hambre extrema: El precio de los alimentos subirá más del 15% en Asia y África por la crisis agrícola; Los marines de EE.UU. ya operan en Oriente Medio: Unos 2.500 soldados llegan a Oriente Medio e Irán avisa de que les prenderá fuego; Israel, ante la repulsa internacional al impedir la misa en el Santo Sepulcro: La Iglesia denuncia un “grave precedente” e Italia convoca al embajador israelí por la ofensa a la libertad religiosa. Netanyahu lo justifica por la seguridad del cardenal Pizzaballa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-03-30T07:59:07Z",
+  "summary": "Resumen del día en La Vanguardia: EE.UU. acumula ya  50.000 soldados en el Golfo para una acción terrestre: Invadir la isla de Jarg o capturar el uranio enriquecido, entre las opciones barajadas por la Casa Blanca; Un dos, tres, muchos Vietnam: Tantos y tan frecuentes han sido los mensajes erráticos de Trump desde su retorno a la Casa Blanca que también en esta ocasión, con la guerra en Irán empantanada, parecería que el mundo asiste a las idas y venidas de un presidente convencido de que ejercer el poder sólo; Putin gana con la guerra:  más petróleo ruso y menos atención a Ucrania: El aumento de la demanda de crudo ruso y la subida del precio dan un inesperado respiro a la economía de Moscú. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-03-31T07:43:11Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La guerra de Irán pone a 45 millones de personas en riesgo de hambre extrema",
-      "subtitle": "El precio de los alimentos subirá más del 15% en Asia y África por la crisis agrícola",
-      "url": "https://www.lavanguardia.com/economia/20260330/11501937/guerra-iran-pone-45-millones-personas-riesgo-hambre-extrema.html",
-      "scraped_at": "2026-03-30T07:59:06Z"
+      "title": "EE.UU. acumula ya  50.000 soldados en el Golfo para una acción terrestre",
+      "subtitle": "Invadir la isla de Jarg o capturar el uranio enriquecido, entre las opciones barajadas por la Casa Blanca",
+      "url": "https://www.lavanguardia.com/internacional/20260331/11502630/planes-terrestres-trump-iran.html",
+      "scraped_at": "2026-03-31T07:43:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los marines de EE.UU. ya operan en Oriente Medio",
-      "subtitle": "Unos 2.500 soldados llegan a Oriente Medio e Irán avisa de que les prenderá fuego",
-      "url": "https://www.lavanguardia.com/internacional/20260330/11501962/marines-zona-guerra.html",
-      "scraped_at": "2026-03-30T07:59:06Z"
+      "title": "Un dos, tres, muchos Vietnam",
+      "subtitle": "Tantos y tan frecuentes han sido los mensajes erráticos de Trump desde su retorno a la Casa Blanca que también en esta ocasión, con la guerra en Irán empantanada, parecería que el mundo asiste a las idas y venidas de un presidente convencido de que ejercer el poder sólo",
+      "url": "https://www.lavanguardia.com/internacional/20260331/11502371/iran-vietnam-trump.html",
+      "scraped_at": "2026-03-31T07:43:09Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Israel, ante la repulsa internacional al impedir la misa en el Santo Sepulcro",
-      "subtitle": "La Iglesia denuncia un “grave precedente” e Italia convoca al embajador israelí por la ofensa a la libertad religiosa. Netanyahu lo justifica por la seguridad del cardenal Pizzaballa",
-      "url": "https://www.lavanguardia.com/internacional/20260329/11501827/israel-bloquea-misa-domingo-ramos-santo-sepulcro.html",
-      "scraped_at": "2026-03-30T07:59:06Z"
+      "title": "Putin gana con la guerra:  más petróleo ruso y menos atención a Ucrania",
+      "subtitle": "El aumento de la demanda de crudo ruso y la subida del precio dan un inesperado respiro a la economía de Moscú",
+      "url": "https://www.lavanguardia.com/internacional/20260331/11502618/putin-gana-con-la-guerra-en-iran-mas-petroleo-ruso-y-menos-atencion-a-ucrania.html",
+      "scraped_at": "2026-03-31T07:43:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España cierra su espacio aéreo a los aviones que participen en la guerra en Irán",
-      "subtitle": "La restricción afecta principalmente a aeronaves estadounidenses destacadas en otros países de Europa",
-      "url": "https://www.lavanguardia.com/politica/20260330/11502177/espana-cierra-espacio-aereo-aviones-participen-guerra-iran.html",
-      "scraped_at": "2026-03-30T07:59:07Z"
+      "title": "Israel ya ha superado el 50% de sus objetivos de guerra en Irán",
+      "subtitle": "El primer ministro israelí, entrevistado por uina cadena de EE.UU., no quiso fijar un calendario preciso para el fin del conflicto",
+      "url": "https://www.lavanguardia.com/internacional/20260331/11503083/netanyahu-asegura-israel-cumplido-mas-50-objetivos-guerra-iran.html",
+      "scraped_at": "2026-03-31T07:43:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Inquina al funcionario",
-      "subtitle": "El Gobierno anunció que iba a aplicar la semana de 35 horas a los funcionarios del Estado a partir de abril y el aire se llenó de chascarrillos. “Así que les van a hacer trabajar más”. “De esas, 32 se les van en cafés”... Un usuario de X que se hizo popular hace unos",
-      "url": "https://www.lavanguardia.com/opinion/20260330/11501877/inquina-funcionario.html",
-      "scraped_at": "2026-03-30T07:59:07Z"
+      "title": "Larry Fink se reúne con el Ibex para trasladar su optimismo a largo plazo",
+      "subtitle": "El jefe mundial de BlackRock reconoce que los países “invierten más en casa”",
+      "url": "https://www.lavanguardia.com/economia/20260330/11501936/larry-fink-reune-ibex-trasladar-optimismo-plazo.html",
+      "scraped_at": "2026-03-31T07:43:11Z"
     }
   ]
 }

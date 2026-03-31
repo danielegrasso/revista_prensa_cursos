@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Juanma Moreno acaricia la mayoría absoluta en Andalucía: El PSOE sigue en mínimos históricos con Montero y Adelante Andalucía iguala a la Por Andalucía de Maíllo, que no sube, según la encuesta de GAD3 para ABC; La mala sintonía entre Feijóo y Abascal desata el temor de pactos inestables: Tanto dirigentes nacionales como autonómicos asumen la «fragilidad» de los futuros acuerdos; Prostitución y drogas: el patrón común de las corruptelas socialistas: El Tito Berni y Ábalos han liderado las dos tramas más sonadas del último lustro con Canarias en común. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-30T07:59:04Z",
+  "summary": "Resumen del día en ABC.es: Las piezas clave de Adamuz no han sido aún analizadas más de dos meses después del accidente: La investigación estaba bloqueada al no poder designarse un laboratorio para las pruebas del carril por la falta de peritos independientes, que fueron seleccionados este lunes; Cerca de sesenta etarras podrían beneficiarse todavía de los terceros grados «encubiertos»: Son presos que cumplen condena en el País Vasco en segundo grado penitenciario, paso previo a una semilibertad que adelantarían con el artículo 100.2; España se echa en brazos de Argelia para comprar gas barato y frenar la dependencia de EE.UU.: Desde que empezó la guerra en Irán esta materia prima ha alcanzado precios máximos del último año. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-03-31T07:43:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Juanma Moreno acaricia la mayoría absoluta en Andalucía",
-      "subtitle": "El PSOE sigue en mínimos históricos con Montero y Adelante Andalucía iguala a la Por Andalucía de Maíllo, que no sube, según la encuesta de GAD3 para ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-logra-segunda-mayoria-absoluta-ante-20260330182747-nts.html",
-      "scraped_at": "2026-03-30T07:59:04Z"
+      "title": "Las piezas clave de Adamuz no han sido aún analizadas más de dos meses después del accidente",
+      "subtitle": "La investigación estaba bloqueada al no poder designarse un laboratorio para las pruebas del carril por la falta de peritos independientes, que fueron seleccionados este lunes",
+      "url": "https://www.abc.es/espana/piezas-claves-adamuz-analizadas-dos-meses-despues-20260331040029-nt.html",
+      "scraped_at": "2026-03-31T07:43:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "La mala sintonía entre Feijóo y Abascal desata el temor de pactos inestables",
-      "subtitle": "Tanto dirigentes nacionales como autonómicos asumen la «fragilidad» de los futuros acuerdos",
-      "url": "https://www.abc.es/espana/mala-sintonia-feijoo-abascal-desata-temor-pactos-20260330040014-nt.html",
-      "scraped_at": "2026-03-30T07:59:04Z"
+      "title": "Cerca de sesenta etarras podrían beneficiarse todavía de los terceros grados «encubiertos»",
+      "subtitle": "Son presos que cumplen condena en el País Vasco en segundo grado penitenciario, paso previo a una semilibertad que adelantarían con el artículo 100.2",
+      "url": "https://www.abc.es/espana/pais-vasco/cerca-cincuenta-etarras-pueden-beneficiarse-terceros-grados-20260331040856-nt.html",
+      "scraped_at": "2026-03-31T07:43:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Prostitución y drogas: el patrón común de las corruptelas socialistas",
-      "subtitle": "El Tito Berni y Ábalos han liderado las dos tramas más sonadas del último lustro con Canarias en común",
-      "url": "https://www.abc.es/espana/prostitucion-drogas-patron-comun-corruptelas-socialistas-20260330040038-nt.html",
-      "scraped_at": "2026-03-30T07:59:04Z"
+      "title": "España se echa en brazos de Argelia para comprar gas barato y frenar la dependencia de EE.UU.",
+      "subtitle": "Desde que empezó la guerra en Irán esta materia prima ha alcanzado precios máximos del último año",
+      "url": "https://www.abc.es/economia/espana-echa-brazos-argelia-comprar-gas-barato-20260331040551-nt.html",
+      "scraped_at": "2026-03-31T07:43:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump plantea «quedarse» con el petróleo de Irán y tomar la isla de Jark",
-      "subtitle": "El presidente de EE.UU. asegura a 'Financial Times' que el presidente del Parlamento iraní, Mohamed Ghalibaf, ha negociado con él el paso de 20 petroleros por Ormuz",
-      "url": "https://www.abc.es/internacional/trump-dice-plantea-tomar-isla-jark-quedarme-20260330071415-nt.html",
-      "scraped_at": "2026-03-30T07:59:04Z"
+      "title": "Trump se plantea un robo de película del uranio de Irán",
+      "subtitle": "El presidente de EE.UU. considera una operación militar de gran riesgo y espectacularidad para extraer más de 600 kilos de material radiactivo, según 'The Wall Street Journal'",
+      "url": "https://www.abc.es/internacional/trump-plantea-robo-pelicula-uranio-iran-20260330213556-nt.html",
+      "scraped_at": "2026-03-31T07:43:06Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-30T07:59:04Z"
+      "scraped_at": "2026-03-31T07:43:07Z"
     }
   ]
 }

@@ -1,21 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Un amigo de Sánchez en Criteria: el consejero que jugó con el presidente en Estudiantes: Un amigo del presidente del Gobierno con el que coincidió en los juveniles de Estudiantes, Juan Manuel Negro, fue contratado por CriteriaCaixa en 2021 cuando estaba en paro y en 2025 renovó por otros cuatro años; ¿Te has perdido en un caso de corrupción? ¿Te falta contexto? El Confidencial lanza 'El Hilo': Cada semana, Miguel Núñez se encargará de diseccionar un asunto informativo de gran interés para entender mejor su origen, su situación actual y sus posibles repercusiones en el futuro. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-30T07:59:08Z",
+  "summary": "Resumen del día en El Confidencial: Un ataque contra Israel y (otro) estrecho en juego: la extraña maniobra de los hutíes en Irán: Los hutíes de Yemen, alineados con Irán, se han sumado a la guerra de Irán con un ataque contra Israel. La incógnita es qué pueden hacer a partir de ahora; Rosalía resucita en Madrid y estrena su reinado global entre lágrimas y euforia: Apenas unos días después de su cancelación en Milán por problemas estomacales, Rosalía ha vuelto a la capital para coronarse como la reina del pop que nunca pensamos que podría nacer en España; Bilbao mercado medieval: La música, los espectáculos y la presencia de personajes fantásticos recorriendo sus calles dibujan un ambiente distinto, pensado para disfrutar en familia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-03-31T07:43:13Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Un amigo de Sánchez en Criteria: el consejero que jugó con el presidente en Estudiantes",
-      "subtitle": "Un amigo del presidente del Gobierno con el que coincidió en los juveniles de Estudiantes, Juan Manuel Negro, fue contratado por CriteriaCaixa en 2021 cuando estaba en paro y en 2025 renovó por otros cuatro años",
-      "url": "https://www.elconfidencial.com/espana/2026-03-30/sanchez-negro-baloncesto-estudiantes-criteria-caixa-cbtr_4328721/",
-      "scraped_at": "2026-03-30T07:59:08Z"
+      "title": "Un ataque contra Israel y (otro) estrecho en juego: la extraña maniobra de los hutíes en Irán",
+      "subtitle": "Los hutíes de Yemen, alineados con Irán, se han sumado a la guerra de Irán con un ataque contra Israel. La incógnita es qué pueden hacer a partir de ahora",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-31/ataque-israel-huties-iran_4330363/",
+      "scraped_at": "2026-03-31T07:43:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Te has perdido en un caso de corrupción? ¿Te falta contexto? El Confidencial lanza 'El Hilo'",
-      "subtitle": "Cada semana, Miguel Núñez se encargará de diseccionar un asunto informativo de gran interés para entender mejor su origen, su situación actual y sus posibles repercusiones en el futuro",
-      "url": "https://www.elconfidencial.com/espana/2026-03-24/el-hilo-newsletter-de-el-confidencial-para-dar-contexto-cbtrltrc_4325365/",
-      "scraped_at": "2026-03-30T07:59:08Z"
+      "title": "Rosalía resucita en Madrid y estrena su reinado global entre lágrimas y euforia",
+      "subtitle": "Apenas unos días después de su cancelación en Milán por problemas estomacales, Rosalía ha vuelto a la capital para coronarse como la reina del pop que nunca pensamos que podría nacer en España",
+      "url": "https://www.elconfidencial.com/cultura/2026-03-30/rosalia-madrid-movistar-arena-lux-tour_4330180/",
+      "scraped_at": "2026-03-31T07:43:13Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Bilbao mercado medieval",
+      "subtitle": "La música, los espectáculos y la presencia de personajes fantásticos recorriendo sus calles dibujan un ambiente distinto, pensado para disfrutar en familia",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/2026-03-30/mercado-medieval-bilbao-artesania-1tna-1qrt_4328481/",
+      "scraped_at": "2026-03-31T07:43:13Z"
     }
   ]
 }
