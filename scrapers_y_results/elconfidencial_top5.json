@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Un ataque contra Israel y (otro) estrecho en juego: la extraña maniobra de los hutíes en Irán: Los hutíes de Yemen, alineados con Irán, se han sumado a la guerra de Irán con un ataque contra Israel. La incógnita es qué pueden hacer a partir de ahora; Rosalía resucita en Madrid y estrena su reinado global entre lágrimas y euforia: Apenas unos días después de su cancelación en Milán por problemas estomacales, Rosalía ha vuelto a la capital para coronarse como la reina del pop que nunca pensamos que podría nacer en España; Bilbao mercado medieval: La música, los espectáculos y la presencia de personajes fantásticos recorriendo sus calles dibujan un ambiente distinto, pensado para disfrutar en familia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-03-31T07:43:13Z",
+  "summary": "Resumen del día en El Confidencial: Lo que esconde el 'éxito fiscal': un superávit que evoca  al de la burbuja: España logró en 2025 el primer superávit primario desde 2007. El Gobierno ha logrado reducir el déficit sin recortes gracias a una recaudación que ha crecido un 41% en cuatro años y supera el 24,5% del PIB por primera vez; Los animales ganan peso en los testamentos españoles: \"Lo que más quiero es a Toby\": Las mascotas se hacen fuertes en los hogares españoles: no solo suben en número y acaparan más gasto, sino que cada vez más personas las incluyen en sus últimas voluntades; El exvicepresidente del Comité de Garantías de Vox: \"Yo ya le llamaba el comité de purgas\": El abogado José Garre, que durante casi seis años ha formado parte de este órgano, afirma que la presión de la cúpula creció desde que se opusieron &quot;a expulsar a Espinosa&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-01T07:52:05Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Un ataque contra Israel y (otro) estrecho en juego: la extraña maniobra de los hutíes en Irán",
-      "subtitle": "Los hutíes de Yemen, alineados con Irán, se han sumado a la guerra de Irán con un ataque contra Israel. La incógnita es qué pueden hacer a partir de ahora",
-      "url": "https://www.elconfidencial.com/mundo/2026-03-31/ataque-israel-huties-iran_4330363/",
-      "scraped_at": "2026-03-31T07:43:12Z"
+      "title": "Lo que esconde el 'éxito fiscal': un superávit que evoca  al de la burbuja",
+      "subtitle": "España logró en 2025 el primer superávit primario desde 2007. El Gobierno ha logrado reducir el déficit sin recortes gracias a una recaudación que ha crecido un 41% en cuatro años y supera el 24,5% del PIB por primera vez",
+      "url": "https://www.elconfidencial.com/economia/2026-04-01/superavit-primario-exito-fiscal-gobierno-burbuja_4331082/",
+      "scraped_at": "2026-04-01T07:52:03Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Rosalía resucita en Madrid y estrena su reinado global entre lágrimas y euforia",
-      "subtitle": "Apenas unos días después de su cancelación en Milán por problemas estomacales, Rosalía ha vuelto a la capital para coronarse como la reina del pop que nunca pensamos que podría nacer en España",
-      "url": "https://www.elconfidencial.com/cultura/2026-03-30/rosalia-madrid-movistar-arena-lux-tour_4330180/",
-      "scraped_at": "2026-03-31T07:43:13Z"
+      "title": "Los animales ganan peso en los testamentos españoles: \"Lo que más quiero es a Toby\"",
+      "subtitle": "Las mascotas se hacen fuertes en los hogares españoles: no solo suben en número y acaparan más gasto, sino que cada vez más personas las incluyen en sus últimas voluntades",
+      "url": "https://www.elconfidencial.com/espana/2026-04-01/animales-ganan-peso-testamentos-espanoles_4330206/",
+      "scraped_at": "2026-04-01T07:52:03Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Bilbao mercado medieval",
-      "subtitle": "La música, los espectáculos y la presencia de personajes fantásticos recorriendo sus calles dibujan un ambiente distinto, pensado para disfrutar en familia",
-      "url": "https://www.elconfidencial.com/espana/pais-vasco/2026-03-30/mercado-medieval-bilbao-artesania-1tna-1qrt_4328481/",
-      "scraped_at": "2026-03-31T07:43:13Z"
+      "title": "El exvicepresidente del Comité de Garantías de Vox: \"Yo ya le llamaba el comité de purgas\"",
+      "subtitle": "El abogado José Garre, que durante casi seis años ha formado parte de este órgano, afirma que la presión de la cúpula creció desde que se opusieron &quot;a expulsar a Espinosa&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-04-01/exvicepresidente-comite-de-garantias-vox-purgas_4330638/",
+      "scraped_at": "2026-04-01T07:52:04Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Masterchef",
+      "subtitle": "Los espectadores de la cadena pública reaccionaron al histórico recambio de Samantha Vallejo-Nágera por la ‘influencer’, a través de redes sociales",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-03-31/la-audiencia-de-tve-sentencia-el-debut-de-marta-sanahuja-en-masterchef-critica-unanime-al-nuevo-trio-con-pepe-rodriguez-y-jordi-cruz_4330402/",
+      "scraped_at": "2026-04-01T07:52:05Z"
     }
   ]
 }

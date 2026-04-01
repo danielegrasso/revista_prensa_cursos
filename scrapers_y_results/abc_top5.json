@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las piezas clave de Adamuz no han sido aún analizadas más de dos meses después del accidente: La investigación estaba bloqueada al no poder designarse un laboratorio para las pruebas del carril por la falta de peritos independientes, que fueron seleccionados este lunes; Cerca de sesenta etarras podrían beneficiarse todavía de los terceros grados «encubiertos»: Son presos que cumplen condena en el País Vasco en segundo grado penitenciario, paso previo a una semilibertad que adelantarían con el artículo 100.2; España se echa en brazos de Argelia para comprar gas barato y frenar la dependencia de EE.UU.: Desde que empezó la guerra en Irán esta materia prima ha alcanzado precios máximos del último año. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-03-31T07:43:07Z",
+  "summary": "Resumen del día en ABC.es: Europa prepara un protocolo bélico al margen de la OTAN: Bruselas busca una mayor autonomía militar con respecto a EE.UU. por sus choques sobre Ucrania, Groenlandia y ahora la guerra de Irán; La gasolina supera en EE.UU. los cuatro dólares el galón y acentúa el problema político para Trump: Es el precio más alto para el combustible desde el verano de 2022, en medio del impacto de la guerra de Ucrania, y los demócratas aprovechan para sacar rédito en año electoral.; Economía se guarda ayudas hipotecarias y avales frente a los efectos de la guerra de Irán: El Gobierno se muestra preparado para activar medidas si el euríbor sigue su escalada. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-01T07:51:59Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las piezas clave de Adamuz no han sido aún analizadas más de dos meses después del accidente",
-      "subtitle": "La investigación estaba bloqueada al no poder designarse un laboratorio para las pruebas del carril por la falta de peritos independientes, que fueron seleccionados este lunes",
-      "url": "https://www.abc.es/espana/piezas-claves-adamuz-analizadas-dos-meses-despues-20260331040029-nt.html",
-      "scraped_at": "2026-03-31T07:43:06Z"
+      "title": "Europa prepara un protocolo bélico al margen de la OTAN",
+      "subtitle": "Bruselas busca una mayor autonomía militar con respecto a EE.UU. por sus choques sobre Ucrania, Groenlandia y ahora la guerra de Irán",
+      "url": "https://www.abc.es/internacional/ue-prepara-protocolo-desplegar-propios-mecanismos-defensa-20260327040553-nt.html",
+      "scraped_at": "2026-04-01T07:51:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cerca de sesenta etarras podrían beneficiarse todavía de los terceros grados «encubiertos»",
-      "subtitle": "Son presos que cumplen condena en el País Vasco en segundo grado penitenciario, paso previo a una semilibertad que adelantarían con el artículo 100.2",
-      "url": "https://www.abc.es/espana/pais-vasco/cerca-cincuenta-etarras-pueden-beneficiarse-terceros-grados-20260331040856-nt.html",
-      "scraped_at": "2026-03-31T07:43:06Z"
+      "title": "La gasolina supera en EE.UU. los cuatro dólares el galón y acentúa el problema político para Trump",
+      "subtitle": "Es el precio más alto para el combustible desde el verano de 2022, en medio del impacto de la guerra de Ucrania, y los demócratas aprovechan para sacar rédito en año electoral.",
+      "url": "https://www.abc.es/economia/gasolina-supera-eeuu-cuatro-dolares-acentua-problema-20260401065555-nt.html",
+      "scraped_at": "2026-04-01T07:51:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "España se echa en brazos de Argelia para comprar gas barato y frenar la dependencia de EE.UU.",
-      "subtitle": "Desde que empezó la guerra en Irán esta materia prima ha alcanzado precios máximos del último año",
-      "url": "https://www.abc.es/economia/espana-echa-brazos-argelia-comprar-gas-barato-20260331040551-nt.html",
-      "scraped_at": "2026-03-31T07:43:06Z"
+      "title": "Economía se guarda ayudas hipotecarias y avales frente a los efectos de la guerra de Irán",
+      "subtitle": "El Gobierno se muestra preparado para activar medidas si el euríbor sigue su escalada",
+      "url": "https://www.abc.es/economia/economia-guarda-ayudas-hipotecarias-avales-guerra-iran-20260325040735-nt.html",
+      "scraped_at": "2026-04-01T07:51:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump se plantea un robo de película del uranio de Irán",
-      "subtitle": "El presidente de EE.UU. considera una operación militar de gran riesgo y espectacularidad para extraer más de 600 kilos de material radiactivo, según 'The Wall Street Journal'",
-      "url": "https://www.abc.es/internacional/trump-plantea-robo-pelicula-uranio-iran-20260330213556-nt.html",
-      "scraped_at": "2026-03-31T07:43:06Z"
+      "title": "Yolanda, a la fuga",
+      "subtitle": "La vicepresidenta deja de lado sus obligaciones en el Gobierno llenando su agenda de viajes internacionales",
+      "url": "https://www.abc.es/espana/yolanda-fuga-20260401040812-nt.html",
+      "scraped_at": "2026-04-01T07:51:58Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-03-31T07:43:07Z"
+      "scraped_at": "2026-04-01T07:51:59Z"
     }
   ]
 }
