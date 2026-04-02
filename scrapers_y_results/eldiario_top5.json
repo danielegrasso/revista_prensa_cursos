@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Las otras puertas de Kitchen que García Castellón cerró: el falso cura, el espionaje en la cárcel y el rastro del CNI: Una nueva revelación se suma a los indicios sobre la participación del servicio de Inteligencia dependiente de Soraya Sáenz de Santamaría en el espionaje a Bárcenas: existen imágenes de unas cámaras colocadas en el chalet del extesorero del PP en Baqueira clasificadas como secreto; Willy Bárcenas, sobre el asalto del falso cura a su casa: “Tuvo que haber alguien detrás, estaba demasiado planeado”: El hijo del extesorero del PP declaró ante el juez que \"la lógica\" le indicaba que el intento de secuestro no pudo ser un hecho aislado: \"Estaba todo demasiado orquestado, planeado, con demasiados detalles\"; El Supremo tumba los pluses salariales basados en evaluaciones del trabajador que abundan en muchas empresas: Rechaza un complemento que dependía de análisis cualitativo del desempeño de un empleado por su superior, una práctica muy extendida, y que el Supremo anula por su indefinición y posible arbitrariedad. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-01T07:51:56Z",
+  "summary": "Resumen del día en elDiario.es: Trump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria: A pesar de la anulación del Supremo, los gravámenes aplicados por Trump ya han cambiado el sistema de libre comercio como se le conocía hasta ahora, pero los estadounidenses solo ven cómo el precio de la cesta de la compra ha aumentado; Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de un nuevo bloque de poder en Oriente Medio: La imprevista asociación entre Egipto, Pakistán, Arabia Saudí y Turquía trata de articular un alto el fuego y limitar la preponderancia de Irán e Israel; Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”: \"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTAN. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-02T07:39:57Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Las otras puertas de Kitchen que García Castellón cerró: el falso cura, el espionaje en la cárcel y el rastro del CNI",
-      "subtitle": "Una nueva revelación se suma a los indicios sobre la participación del servicio de Inteligencia dependiente de Soraya Sáenz de Santamaría en el espionaje a Bárcenas: existen imágenes de unas cámaras colocadas en el chalet del extesorero del PP en Baqueira clasificadas como secreto",
-      "url": "https://www.eldiario.es/politica/puertas-kitchen-garcia-castellon-cerro-falso-cura-espionaje-carcel-rastro-cni_1_13109911.html",
-      "scraped_at": "2026-04-01T07:51:54Z"
+      "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria",
+      "subtitle": "A pesar de la anulación del Supremo, los gravámenes aplicados por Trump ya han cambiado el sistema de libre comercio como se le conocía hasta ahora, pero los estadounidenses solo ven cómo el precio de la cesta de la compra ha aumentado",
+      "url": "https://www.eldiario.es/internacional/trump-enfrenta-descontento-popular-subida-precios-primer-ano-cruzada-arancelaria_1_13112963.html",
+      "scraped_at": "2026-04-02T07:39:54Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: “Tuvo que haber alguien detrás, estaba demasiado planeado”",
-      "subtitle": "El hijo del extesorero del PP declaró ante el juez que \"la lógica\" le indicaba que el intento de secuestro no pudo ser un hecho aislado: \"Estaba todo demasiado orquestado, planeado, con demasiados detalles\"",
-      "url": "https://www.eldiario.es/politica/willy-barcenas-asalto-falso-cura-casa-tuvo-haber-alguien-detras-planeado_1_13111579.html",
-      "scraped_at": "2026-04-01T07:51:55Z"
+      "title": "Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de un nuevo bloque de poder en Oriente Medio",
+      "subtitle": "La imprevista asociación entre Egipto, Pakistán, Arabia Saudí y Turquía trata de articular un alto el fuego y limitar la preponderancia de Irán e Israel",
+      "url": "https://www.eldiario.es/internacional/theguardian/negociaciones-iran-impulsadas-pakistan-muestran-nacimiento-nuevo-bloque-oriente-medio_129_13111222.html",
+      "scraped_at": "2026-04-02T07:39:55Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo tumba los pluses salariales basados en evaluaciones del trabajador que abundan en muchas empresas",
-      "subtitle": "Rechaza un complemento que dependía de análisis cualitativo del desempeño de un empleado por su superior, una práctica muy extendida, y que el Supremo anula por su indefinición y posible arbitrariedad",
-      "url": "https://www.eldiario.es/economia/supremo-tumba-pluses-salariales-basados-evaluaciones-trabajador-abundan-empresas_1_13104439.html",
-      "scraped_at": "2026-04-01T07:51:55Z"
+      "title": "Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”",
+      "subtitle": "\"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTAN",
+      "url": "https://www.eldiario.es/internacional/trump-insiste-estadounidenses-guerra-iran-terminara-pronto-proximas-semanas-les-golpearemos-duro_1_13116338.html",
+      "scraped_at": "2026-04-02T07:39:56Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump dice que EEUU podría terminar la guerra de Irán “en dos o tres semanas”",
-      "subtitle": "El presidente de EEUU se dirigirá a la nación este miércoles por la noche después de afirmar que Washington abandonaría \"muy pronto\" el conflicto",
-      "url": "https://www.eldiario.es/internacional/trump-dice-estados-unidos-terminar-guerra-iran-tres-semanas_1_13113689.html",
-      "scraped_at": "2026-04-01T07:51:56Z"
+      "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio global navega sin motor ni rumbo",
+      "subtitle": "Doce meses después del viraje proteccionista de la Casa Blanca, los flujos de mercancías y servicios emiten tantas vulnerabilidades como signos de resistencia. Entre otros, el coste del veto del Supremo americano a los gravámenes, los brotes inflacionistas del petróleo y las disrupciones de las cadenas de valor mundiales; ahora se suma la inestabilidad geopolítica de la guerra de Irán",
+      "url": "https://www.eldiario.es/economia/ano-i-despues-dia-liberacion-arancelaria-trump-comercio-global-navega-motor-rumbo_129_13114418.html",
+      "scraped_at": "2026-04-02T07:39:56Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Nacionalidad",
-      "subtitle": "El atasco en los consulados de países como Argentina, Cuba, Brasil o México por el aluvión de solicitudes en base a la Ley de Memoria Democrática hace que 632.760 peticiones estén aún pendientes y solo un 25% hayan sido inscritas, según los datos a los que ha accedido elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/medio-millon-hijos-nietos-espanoles-siguen-limbo-nacionalidad-autentico-colapso_1_13098010.html",
-      "scraped_at": "2026-04-01T07:51:56Z"
+      "title": "Alto el fuego",
+      "subtitle": "El portavoz del ministerio de Exteriores iraní han desmentido las afirmaciones de Trump, que ha asegurado que el \"presidente del nuevo régimen\" ha solicitado un alto el fuego y lo ha condicionado a la reapertura del estrecho de Ormuz",
+      "url": "https://www.eldiario.es/internacional/trump-asegura-iran-pedido-alto-fuego-teheran-desmiente_1_13115379.html",
+      "scraped_at": "2026-04-02T07:39:57Z"
     }
   ]
 }

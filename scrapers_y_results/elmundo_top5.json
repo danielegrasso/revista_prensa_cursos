@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El Gobierno bate su récord con 170 millones en cargos a dedo y la mitad de los asesores al servicio de Sánchez: Entre 2018 y 2025 gastó casi 500 millones en asesores, un 134,7% más de lo que desembolsó Mariano Rajoy en su etapa al frente del Ejecutivo; España tendrá que garantizar la repatriación de los inmigrantes regularizados si se van a Europa y negociar el coste: \"Se debe tratar entre los países\": La Comisión avisa: los Estados deben \"asegurarse de que cualquier beneficiario de un permiso de residencia nacional que sea encontrado en situación irregular en otro país sea devuelto\"; Irán monta su propia aduana en Ormuz: El régimen de Teherán cobra dos millones de dólares en yuanes para permitir el paso de petroleros. Va a cambiar su ley para que ese sistema sea permanente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-04-01T07:51:52Z",
+  "summary": "Resumen del día en El Mundo: Moncloa sume en el caos a Indra en pleno rearme con la dimisión forzada de Escribano y Ángel Simón como presidente no ejecutivo: El Ejecutivo coloca un nuevo ejecutivo cercano a sus intereses que mantendrá una bicefalia con De los Mozos, que seguirá como CEO; Ángel Simón e Indra: el premio de consolación del elegido por el PSC y Moncloa para colonizar La Caixa: El Gobierno ha esperado a que venza la cláusula 'non compete' del ex CEO de Criteria para catapultarle al frente de la compañía de defensa; El Gobierno congela el Congreso con 128 iniciativas de ley bloqueadas: La legislatura embarranca por la falta de apoyo al Ejecutivo y el enfrentamiento con la mayoría absoluta del PP en el Senado. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-04-02T07:39:53Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El Gobierno bate su récord con 170 millones en cargos a dedo y la mitad de los asesores al servicio de Sánchez",
-      "subtitle": "Entre 2018 y 2025 gastó casi 500 millones en asesores, un 134,7% más de lo que desembolsó Mariano Rajoy en su etapa al frente del Ejecutivo",
-      "url": "https://www.elmundo.es/espana/2026/03/31/69b2f178fc6c8399658b457a.html",
-      "scraped_at": "2026-04-01T07:51:51Z"
+      "title": "Moncloa sume en el caos a Indra en pleno rearme con la dimisión forzada de Escribano y Ángel Simón como presidente no ejecutivo",
+      "subtitle": "El Ejecutivo coloca un nuevo ejecutivo cercano a sus intereses que mantendrá una bicefalia con De los Mozos, que seguirá como CEO",
+      "url": "https://www.elmundo.es/economia/empresas/2026/04/01/69cd852121efa0671c8b45d9.html",
+      "scraped_at": "2026-04-02T07:39:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "España tendrá que garantizar la repatriación de los inmigrantes regularizados si se van a Europa y negociar el coste: \"Se debe tratar entre los países\"",
-      "subtitle": "La Comisión avisa: los Estados deben \"asegurarse de que cualquier beneficiario de un permiso de residencia nacional que sea encontrado en situación irregular en otro país sea devuelto\"",
-      "url": "https://www.elmundo.es/espana/2026/03/31/69cc06dafc6c83ce5d8b4576.html",
-      "scraped_at": "2026-04-01T07:51:52Z"
+      "title": "Ángel Simón e Indra: el premio de consolación del elegido por el PSC y Moncloa para colonizar La Caixa",
+      "subtitle": "El Gobierno ha esperado a que venza la cláusula 'non compete' del ex CEO de Criteria para catapultarle al frente de la compañía de defensa",
+      "url": "https://www.elmundo.es/economia/empresas/2026/04/01/69cd6dda21efa0d1388b45b7.html",
+      "scraped_at": "2026-04-02T07:39:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "Irán monta su propia aduana en Ormuz",
-      "subtitle": "El régimen de Teherán cobra dos millones de dólares en yuanes para permitir el paso de petroleros. Va a cambiar su ley para que ese sistema sea permanente",
-      "url": "https://www.elmundo.es/internacional/2026/03/31/69cbde1afdddff03128b4584.html",
-      "scraped_at": "2026-04-01T07:51:52Z"
+      "title": "El Gobierno congela el Congreso con 128 iniciativas de ley bloqueadas",
+      "subtitle": "La legislatura embarranca por la falta de apoyo al Ejecutivo y el enfrentamiento con la mayoría absoluta del PP en el Senado",
+      "url": "https://www.elmundo.es/espana/2026/04/01/69cd4527e4d4d8677e8b4579.html",
+      "scraped_at": "2026-04-02T07:39:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "La OTAN atraviesa una de sus crisis más profundas: \"EEUU ya no estará para ayudarlos tal como ustedes no estuvieron ahí para nosotros\"",
-      "subtitle": "España, Italia y Francia restringen sus bases o espacio aéreo a los aviones norteamericanos, mientras Polonia se niega a ceder sus Patriot para que sean desplegados en el Golfo",
-      "url": "https://www.elmundo.es/internacional/2026/03/31/69cbf2d6e85eceb6158b4573.html",
-      "scraped_at": "2026-04-01T07:51:52Z"
+      "title": "EEUU pone rumbo a la Luna con el despegue de Artemisa 2: \"Hoy comienza la próxima era de la exploración espacial\"",
+      "subtitle": "Tras una emocionante cuenta atrás en la que se han resuelto dos problemas técnicos, la NASA ha iniciado la carrera lunar del siglo XXI. Cuatro astronautas viajan ya a bordo de la nave 'Orión', en la primera misión tripulada a nuestro satélite desde 1972. \"Estamos ganando en el espacio, en la Tierra y en todas partes\", dice Trump",
+      "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/01/69cd411fe85ece5b5b8b456e.html",
+      "scraped_at": "2026-04-02T07:39:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump Casa Blanca",
-      "subtitle": "El fallo supone un importante revés para el Departamento de Justicia, que se opuso a la medida cautelar y ha defendido el proyecto como una modificación permitida que moderniza los terrenos",
-      "url": "https://www.elmundo.es/internacional/2026/03/31/69cc218fe4d4d85b638b459e.html",
-      "scraped_at": "2026-04-01T07:51:52Z"
+      "title": "Delcy Rodríguez",
+      "subtitle": "Washington retiró a Rodríguez de su lista negra mediante una publicación en el sitio web de la oficina gubernamental encargada de las sanciones económicas (OFAC).",
+      "url": "https://www.elmundo.es/internacional/2026/04/01/69cd7a71e9cf4af62e8b458b.html",
+      "scraped_at": "2026-04-02T07:39:53Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Europa prepara un protocolo bélico al margen de la OTAN: Bruselas busca una mayor autonomía militar con respecto a EE.UU. por sus choques sobre Ucrania, Groenlandia y ahora la guerra de Irán; La gasolina supera en EE.UU. los cuatro dólares el galón y acentúa el problema político para Trump: Es el precio más alto para el combustible desde el verano de 2022, en medio del impacto de la guerra de Ucrania, y los demócratas aprovechan para sacar rédito en año electoral.; Economía se guarda ayudas hipotecarias y avales frente a los efectos de la guerra de Irán: El Gobierno se muestra preparado para activar medidas si el euríbor sigue su escalada. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-01T07:51:59Z",
+  "summary": "Resumen del día en ABC.es: Trump amenaza con llevar a Irán «a la Edad de Piedra»: El presidente bloquea el prime time de las grandes cadenas para condensar su relato bélico, prometer nuevos golpes contra el régimen y defender que esta ofensiva no será otra guerra interminable de Estados Unidos; España queda fuera de la cumbre de 35 países sobre Ormuz: El objetivo es coordinar una respuesta diplomática y de seguridad ante el bloqueo del estrecho y su impacto en el suministro global de energía; De Ucrania a Irán pasando por Groenlandia: crónica del divorcio anunciado de EE.UU. y la OTAN: Los europeos quieren mantener la Alianza Atlántica pese a la cada vez mayor desconfianza hacia Washington. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-02T07:39:59Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Europa prepara un protocolo bélico al margen de la OTAN",
-      "subtitle": "Bruselas busca una mayor autonomía militar con respecto a EE.UU. por sus choques sobre Ucrania, Groenlandia y ahora la guerra de Irán",
-      "url": "https://www.abc.es/internacional/ue-prepara-protocolo-desplegar-propios-mecanismos-defensa-20260327040553-nt.html",
-      "scraped_at": "2026-04-01T07:51:57Z"
+      "title": "Trump amenaza con llevar a Irán «a la Edad de Piedra»",
+      "subtitle": "El presidente bloquea el prime time de las grandes cadenas para condensar su relato bélico, prometer nuevos golpes contra el régimen y defender que esta ofensiva no será otra guerra interminable de Estados Unidos",
+      "url": "https://www.abc.es/internacional/trump-amenaza-llevar-iran-edad-piedra-anuncia-20260402034850-nt.html",
+      "scraped_at": "2026-04-02T07:39:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "La gasolina supera en EE.UU. los cuatro dólares el galón y acentúa el problema político para Trump",
-      "subtitle": "Es el precio más alto para el combustible desde el verano de 2022, en medio del impacto de la guerra de Ucrania, y los demócratas aprovechan para sacar rédito en año electoral.",
-      "url": "https://www.abc.es/economia/gasolina-supera-eeuu-cuatro-dolares-acentua-problema-20260401065555-nt.html",
-      "scraped_at": "2026-04-01T07:51:58Z"
+      "title": "España queda fuera de la cumbre de 35 países sobre Ormuz",
+      "subtitle": "El objetivo es coordinar una respuesta diplomática y de seguridad ante el bloqueo del estrecho y su impacto en el suministro global de energía",
+      "url": "https://www.abc.es/espana/espana-queda-cumbre-sobre-estrecho-ormuz-convocada-20260401204452-nt.html",
+      "scraped_at": "2026-04-02T07:39:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Economía se guarda ayudas hipotecarias y avales frente a los efectos de la guerra de Irán",
-      "subtitle": "El Gobierno se muestra preparado para activar medidas si el euríbor sigue su escalada",
-      "url": "https://www.abc.es/economia/economia-guarda-ayudas-hipotecarias-avales-guerra-iran-20260325040735-nt.html",
-      "scraped_at": "2026-04-01T07:51:58Z"
+      "title": "De Ucrania a Irán pasando por Groenlandia: crónica del divorcio anunciado de EE.UU. y la OTAN",
+      "subtitle": "Los europeos quieren mantener la Alianza Atlántica pese a la cada vez mayor desconfianza hacia Washington",
+      "url": "https://www.abc.es/internacional/constantes-ataques-trump-otan-ponen-estados-unidos-20260401035412-nt.html",
+      "scraped_at": "2026-04-02T07:39:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Yolanda, a la fuga",
-      "subtitle": "La vicepresidenta deja de lado sus obligaciones en el Gobierno llenando su agenda de viajes internacionales",
-      "url": "https://www.abc.es/espana/yolanda-fuga-20260401040812-nt.html",
-      "scraped_at": "2026-04-01T07:51:58Z"
+      "title": "Una cruz de tronco de naranjo amargo",
+      "subtitle": "Esta noche tan larga de vivencias, tan corta y tan estrecha de ambiciones, es un sueño de túnicas moradas",
+      "url": "https://www.abc.es/opinion/alberto-garcia-reyes-cruz-tronco-naranjo-amargo-20260401113837-nt.html",
+      "scraped_at": "2026-04-02T07:39:59Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-01T07:51:59Z"
+      "scraped_at": "2026-04-02T07:39:59Z"
     }
   ]
 }
