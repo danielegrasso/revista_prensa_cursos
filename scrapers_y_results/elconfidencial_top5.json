@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Trump se dirige a la nación en 'prime time' para confirmar que no tiene una vía de salida en Irán: El presidente estadounidense se dirigió a la nación por primera vez en un mes para hablar de la intervención militar en Irán. No ofreció ninguna novedad y además devolvió la inquietud a la población y los mercados; ¿Por qué España ha dejado de comer pescado?: El consumo de productos del mar en España sigue cayendo sin freno. Detrás del hundimiento hay un aumento de los precios, pero también un cambio social en la cocina; El lío mundial en las gradas de Barcelona: \"Dijimos que podía haber problemas\": Preocupa la imagen internacional, con el Mundial 2030 organizándose junto a Marruecos. El grupo &#039;Barcelona con la Selección&#039; señala a la RFEF por no contar con ellos en grada de animación; la Federación defiende los protocolos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-02T07:40:03Z",
+  "summary": "Resumen del día en El Confidencial: Moncloa rechaza ahora su propio modelo de rendición de cuentas: \"No mide bien los logros\": El Gobierno argumenta que &quot;reducir la medición del cumplimiento de compromisos a un mero porcentaje desvirtúa la lógica&quot;. Erosiona el Plan de Acción por la Democracia y el anteproyecto de Administración Abierta; Esta calle de Madrid se ha convertido en el paraíso para los negocios de extranjería: En el distrito de Usera hay una calle repleta de oficinas de abogados y gestores de extranjería que están haciendo caja con la regularización masiva de inmigrantes. Muchos ya hablan de Marcelo Usera como &quot;la calle de los trámites&quot;; El tirón de orejas de Jorge Javier a los concursantes de 'Supervivientes 2026': Jorge Javier Vázquez se salió del guion para reprender a varios náufragos por su actitud durante el &#039;reality&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-03T07:35:45Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Trump se dirige a la nación en 'prime time' para confirmar que no tiene una vía de salida en Irán",
-      "subtitle": "El presidente estadounidense se dirigió a la nación por primera vez en un mes para hablar de la intervención militar en Irán. No ofreció ninguna novedad y además devolvió la inquietud a la población y los mercados",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-02/trump-discurso-eeuu-iran_4331566/",
-      "scraped_at": "2026-04-02T07:40:01Z"
+      "title": "Moncloa rechaza ahora su propio modelo de rendición de cuentas: \"No mide bien los logros\"",
+      "subtitle": "El Gobierno argumenta que &quot;reducir la medición del cumplimiento de compromisos a un mero porcentaje desvirtúa la lógica&quot;. Erosiona el Plan de Acción por la Democracia y el anteproyecto de Administración Abierta",
+      "url": "https://www.elconfidencial.com/espana/2026-04-03/gobierno-rechaza-modelo-rendicion-cuentas_4327659/",
+      "scraped_at": "2026-04-03T07:35:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Por qué España ha dejado de comer pescado?",
-      "subtitle": "El consumo de productos del mar en España sigue cayendo sin freno. Detrás del hundimiento hay un aumento de los precios, pero también un cambio social en la cocina",
-      "url": "https://www.elconfidencial.com/economia/2026-04-02/pescado-consumo-espana-baja-salmon-atun_4329931/",
-      "scraped_at": "2026-04-02T07:40:02Z"
+      "title": "Esta calle de Madrid se ha convertido en el paraíso para los negocios de extranjería",
+      "subtitle": "En el distrito de Usera hay una calle repleta de oficinas de abogados y gestores de extranjería que están haciendo caja con la regularización masiva de inmigrantes. Muchos ya hablan de Marcelo Usera como &quot;la calle de los trámites&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-04-03/regularizacion-migrantes-usera-madrid_4330910/",
+      "scraped_at": "2026-04-03T07:35:45Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El lío mundial en las gradas de Barcelona: \"Dijimos que podía haber problemas\"",
-      "subtitle": "Preocupa la imagen internacional, con el Mundial 2030 organizándose junto a Marruecos. El grupo &#039;Barcelona con la Selección&#039; señala a la RFEF por no contar con ellos en grada de animación; la Federación defiende los protocolos",
-      "url": "https://www.elconfidencial.com/deportes/2026-04-02/seleccion-espanola-barcelona-musulman-canticos-rfef_4331468/",
-      "scraped_at": "2026-04-02T07:40:02Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El caso Escribano, un doble y costoso error",
-      "subtitle": "El ya expresidente de Indra llegó a creerse, pésimo cálculo, que podía enfrentarse a la Moncloa con una munición que no era suya y, sobre todo, creyendo que él, por sí mismo, se había ganado el puesto",
-      "url": "https://www.elconfidencial.com/espana/notebook/2026-04-02/escribano-indra-conflicto-sepi-1hms_4331767/",
-      "scraped_at": "2026-04-02T07:40:03Z"
+      "title": "El tirón de orejas de Jorge Javier a los concursantes de 'Supervivientes 2026'",
+      "subtitle": "Jorge Javier Vázquez se salió del guion para reprender a varios náufragos por su actitud durante el &#039;reality&#039;",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-03/supervivientes-jorge-javier-aburrimiento-abronca-concursantes_4332038/",
+      "scraped_at": "2026-04-03T07:35:45Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria: A pesar de la anulación del Supremo, los gravámenes aplicados por Trump ya han cambiado el sistema de libre comercio como se le conocía hasta ahora, pero los estadounidenses solo ven cómo el precio de la cesta de la compra ha aumentado; Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de un nuevo bloque de poder en Oriente Medio: La imprevista asociación entre Egipto, Pakistán, Arabia Saudí y Turquía trata de articular un alto el fuego y limitar la preponderancia de Irán e Israel; Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”: \"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTAN. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-02T07:39:57Z",
+  "summary": "Resumen del día en elDiario.es: La guerra en Irán amenaza con provocar una escasez mundial de alimentos: Un documento interno del Gobierno advierte de que el corte ahora del paso de fertilizantes por el estrecho de Ormuz compromete las cosechas en verano, amenaza con una escalada de precios de los alimentos y puede forzar la migración internacional en 2027; El jefe del Pentágono destituye al responsable del Ejército de tierra en plena guerra en Irán: El general David Hodne, jefe del Comando de Transformación y Entrenamiento, así como el mayor William Green, jefe del Cuerpo de Capellanes, también habrían sido relevados, de acuerdo con el Washington Post; Qué persigue Israel con su invasión de Líbano y por qué esta vez es diferente: El ministro de Defensa de Israel ha afirmado que sus tropas permanecerán en Líbano después de la actual ofensiva. Su objetivo declarado es establecer una “zona de seguridad” en el sur del país árabe, ante la impotencia del Gobierno y el Ejército libaneses. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-03T07:35:38Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria",
-      "subtitle": "A pesar de la anulación del Supremo, los gravámenes aplicados por Trump ya han cambiado el sistema de libre comercio como se le conocía hasta ahora, pero los estadounidenses solo ven cómo el precio de la cesta de la compra ha aumentado",
-      "url": "https://www.eldiario.es/internacional/trump-enfrenta-descontento-popular-subida-precios-primer-ano-cruzada-arancelaria_1_13112963.html",
-      "scraped_at": "2026-04-02T07:39:54Z"
+      "title": "La guerra en Irán amenaza con provocar una escasez mundial de alimentos",
+      "subtitle": "Un documento interno del Gobierno advierte de que el corte ahora del paso de fertilizantes por el estrecho de Ormuz compromete las cosechas en verano, amenaza con una escalada de precios de los alimentos y puede forzar la migración internacional en 2027",
+      "url": "https://www.eldiario.es/sociedad/guerra-iran-amenaza-provocar-escasez-mundial-alimentos_1_13111236.html",
+      "scraped_at": "2026-04-03T07:35:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de un nuevo bloque de poder en Oriente Medio",
-      "subtitle": "La imprevista asociación entre Egipto, Pakistán, Arabia Saudí y Turquía trata de articular un alto el fuego y limitar la preponderancia de Irán e Israel",
-      "url": "https://www.eldiario.es/internacional/theguardian/negociaciones-iran-impulsadas-pakistan-muestran-nacimiento-nuevo-bloque-oriente-medio_129_13111222.html",
-      "scraped_at": "2026-04-02T07:39:55Z"
+      "title": "El jefe del Pentágono destituye al responsable del Ejército de tierra en plena guerra en Irán",
+      "subtitle": "El general David Hodne, jefe del Comando de Transformación y Entrenamiento, así como el mayor William Green, jefe del Cuerpo de Capellanes, también habrían sido relevados, de acuerdo con el Washington Post",
+      "url": "https://www.eldiario.es/internacional/eeuu-destituye-jefe-mayor-ejercito-plena-guerra-iran_1_13117574.html",
+      "scraped_at": "2026-04-03T07:35:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”",
-      "subtitle": "\"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTAN",
-      "url": "https://www.eldiario.es/internacional/trump-insiste-estadounidenses-guerra-iran-terminara-pronto-proximas-semanas-les-golpearemos-duro_1_13116338.html",
-      "scraped_at": "2026-04-02T07:39:56Z"
+      "title": "Qué persigue Israel con su invasión de Líbano y por qué esta vez es diferente",
+      "subtitle": "El ministro de Defensa de Israel ha afirmado que sus tropas permanecerán en Líbano después de la actual ofensiva. Su objetivo declarado es establecer una “zona de seguridad” en el sur del país árabe, ante la impotencia del Gobierno y el Ejército libaneses",
+      "url": "https://www.eldiario.es/internacional/persigue-israel-invasion-libano-vez-diferente_1_13115041.html",
+      "scraped_at": "2026-04-03T07:35:36Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio global navega sin motor ni rumbo",
-      "subtitle": "Doce meses después del viraje proteccionista de la Casa Blanca, los flujos de mercancías y servicios emiten tantas vulnerabilidades como signos de resistencia. Entre otros, el coste del veto del Supremo americano a los gravámenes, los brotes inflacionistas del petróleo y las disrupciones de las cadenas de valor mundiales; ahora se suma la inestabilidad geopolítica de la guerra de Irán",
-      "url": "https://www.eldiario.es/economia/ano-i-despues-dia-liberacion-arancelaria-trump-comercio-global-navega-motor-rumbo_129_13114418.html",
-      "scraped_at": "2026-04-02T07:39:56Z"
+      "title": "Macron lidera la respuesta a Trump mientras Von der Leyen apuesta por la diplomacia para reabrir Ormuz",
+      "subtitle": "Más de 40 países trabajarán con la Organización Marítima Internacional (OMI) para liberar 2.000 buques con 20.000 marineros a bordo varados en el estrecho, convertido en una de las claves geoestratégicas de la guerra",
+      "url": "https://www.eldiario.es/internacional/macron-lidera-respuesta-trump-von-der-leyen-apuesta-diplomacia-reabrir-estrecho-ormuz_1_13117236.html",
+      "scraped_at": "2026-04-03T07:35:37Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Alto el fuego",
-      "subtitle": "El portavoz del ministerio de Exteriores iraní han desmentido las afirmaciones de Trump, que ha asegurado que el \"presidente del nuevo régimen\" ha solicitado un alto el fuego y lo ha condicionado a la reapertura del estrecho de Ormuz",
-      "url": "https://www.eldiario.es/internacional/trump-asegura-iran-pedido-alto-fuego-teheran-desmiente_1_13115379.html",
-      "scraped_at": "2026-04-02T07:39:57Z"
+      "title": "Pam Bondi",
+      "subtitle": "El presidente estadounidense asegura que es “una gran patriota” y anuncia que su cargo lo ocupará Todd Blanche, hasta ahora fiscal general adjunto",
+      "url": "https://www.eldiario.es/internacional/donald-trump-destituye-fiscal-general-pam-bondi_1_13117228.html",
+      "scraped_at": "2026-04-03T07:35:38Z"
     }
   ]
 }
