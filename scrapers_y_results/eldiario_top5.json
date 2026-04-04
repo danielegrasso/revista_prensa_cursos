@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La guerra en Irán amenaza con provocar una escasez mundial de alimentos: Un documento interno del Gobierno advierte de que el corte ahora del paso de fertilizantes por el estrecho de Ormuz compromete las cosechas en verano, amenaza con una escalada de precios de los alimentos y puede forzar la migración internacional en 2027; El jefe del Pentágono destituye al responsable del Ejército de tierra en plena guerra en Irán: El general David Hodne, jefe del Comando de Transformación y Entrenamiento, así como el mayor William Green, jefe del Cuerpo de Capellanes, también habrían sido relevados, de acuerdo con el Washington Post; Qué persigue Israel con su invasión de Líbano y por qué esta vez es diferente: El ministro de Defensa de Israel ha afirmado que sus tropas permanecerán en Líbano después de la actual ofensiva. Su objetivo declarado es establecer una “zona de seguridad” en el sur del país árabe, ante la impotencia del Gobierno y el Ejército libaneses. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-03T07:35:38Z",
+  "summary": "Resumen del día en elDiario.es: La derecha replica estrategias de bloqueo en el Constitucional y el Poder Judicial: El PP obstruye la renovación de cuatro magistrados cuyo mandato caducó en diciembre, mientras sus vocales en el CGPJ dilatan un nombramiento en la Sala del Supremo que juzga a los aforados; El mapa de los anuncios de pisos turísticos, calle a calle: zonas al límite, aunque la presión legal se nota: El INE registra 46.000 anuncios menos, mientras los expertos apuntan a un intento de las administraciones por regular un sector que ha llegado para quedarse, aunque los trámites alejan a la oferta amateur: \"Ya se demostró que la lógica de la economía colaborativa era una estrategia de márketing\"; De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento utilizado en la guerra: El conflicto en Oriente Medio muestra el contraste entre las muy destructivas y costosas capacidades de ataque y defensa de EEUU e Israel y la respuesta asimétrica iraní, más efectiva y económica de lo que estimaban sus enemigos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-04T07:15:06Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La guerra en Irán amenaza con provocar una escasez mundial de alimentos",
-      "subtitle": "Un documento interno del Gobierno advierte de que el corte ahora del paso de fertilizantes por el estrecho de Ormuz compromete las cosechas en verano, amenaza con una escalada de precios de los alimentos y puede forzar la migración internacional en 2027",
-      "url": "https://www.eldiario.es/sociedad/guerra-iran-amenaza-provocar-escasez-mundial-alimentos_1_13111236.html",
-      "scraped_at": "2026-04-03T07:35:35Z"
+      "title": "La derecha replica estrategias de bloqueo en el Constitucional y el Poder Judicial",
+      "subtitle": "El PP obstruye la renovación de cuatro magistrados cuyo mandato caducó en diciembre, mientras sus vocales en el CGPJ dilatan un nombramiento en la Sala del Supremo que juzga a los aforados",
+      "url": "https://www.eldiario.es/politica/derecha-replica-estrategias-bloqueo-constitucional-judicial_1_13112574.html",
+      "scraped_at": "2026-04-04T07:15:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El jefe del Pentágono destituye al responsable del Ejército de tierra en plena guerra en Irán",
-      "subtitle": "El general David Hodne, jefe del Comando de Transformación y Entrenamiento, así como el mayor William Green, jefe del Cuerpo de Capellanes, también habrían sido relevados, de acuerdo con el Washington Post",
-      "url": "https://www.eldiario.es/internacional/eeuu-destituye-jefe-mayor-ejercito-plena-guerra-iran_1_13117574.html",
-      "scraped_at": "2026-04-03T07:35:35Z"
+      "title": "El mapa de los anuncios de pisos turísticos, calle a calle: zonas al límite, aunque la presión legal se nota",
+      "subtitle": "El INE registra 46.000 anuncios menos, mientras los expertos apuntan a un intento de las administraciones por regular un sector que ha llegado para quedarse, aunque los trámites alejan a la oferta amateur: \"Ya se demostró que la lógica de la economía colaborativa era una estrategia de márketing\"",
+      "url": "https://www.eldiario.es/economia/mapa-anuncios-pisos-turisticos-calle-calle-zonas-limite-presion-legal-nota_1_12998245.html",
+      "scraped_at": "2026-04-04T07:15:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Qué persigue Israel con su invasión de Líbano y por qué esta vez es diferente",
-      "subtitle": "El ministro de Defensa de Israel ha afirmado que sus tropas permanecerán en Líbano después de la actual ofensiva. Su objetivo declarado es establecer una “zona de seguridad” en el sur del país árabe, ante la impotencia del Gobierno y el Ejército libaneses",
-      "url": "https://www.eldiario.es/internacional/persigue-israel-invasion-libano-vez-diferente_1_13115041.html",
-      "scraped_at": "2026-04-03T07:35:36Z"
+      "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento utilizado en la guerra",
+      "subtitle": "El conflicto en Oriente Medio muestra el contraste entre las muy destructivas y costosas capacidades de ataque y defensa de EEUU e Israel y la respuesta asimétrica iraní, más efectiva y económica de lo que estimaban sus enemigos",
+      "url": "https://www.eldiario.es/internacional/bombas-racimo-misiles-tomahawk-analisis-visual-armamento-utilizado-guerra-iran_1_13112994.html",
+      "scraped_at": "2026-04-04T07:15:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Macron lidera la respuesta a Trump mientras Von der Leyen apuesta por la diplomacia para reabrir Ormuz",
-      "subtitle": "Más de 40 países trabajarán con la Organización Marítima Internacional (OMI) para liberar 2.000 buques con 20.000 marineros a bordo varados en el estrecho, convertido en una de las claves geoestratégicas de la guerra",
-      "url": "https://www.eldiario.es/internacional/macron-lidera-respuesta-trump-von-der-leyen-apuesta-diplomacia-reabrir-estrecho-ormuz_1_13117236.html",
-      "scraped_at": "2026-04-03T07:35:37Z"
+      "title": "La escalada militar reabre el debate de la soberanía alimentaria en Europa: “Vivimos en la ley del más fuerte”",
+      "subtitle": "Las organizaciones agrarias reclaman un replanteamiento de la política agraria tanto en España como en la UE, que refuerce la rentabilidad de las pequeñas explotaciones y la disponibilidad de alimentos en momentos de crisis",
+      "url": "https://www.eldiario.es/economia/escalada-militar-reabre-debate-soberania-alimentaria-europa-vivimos-ley-fuerte_1_13110180.html",
+      "scraped_at": "2026-04-04T07:15:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pam Bondi",
-      "subtitle": "El presidente estadounidense asegura que es “una gran patriota” y anuncia que su cargo lo ocupará Todd Blanche, hasta ahora fiscal general adjunto",
-      "url": "https://www.eldiario.es/internacional/donald-trump-destituye-fiscal-general-pam-bondi_1_13117228.html",
-      "scraped_at": "2026-04-03T07:35:38Z"
+      "title": "Artemisa",
+      "subtitle": "En una de las fotografías, tomada por el comandante de la misión, Reid Wiseman, se observa el planeta en su totalidad iluminado por tonos azules y marrones y se pueden ver también dos auroras boreales",
+      "url": "https://www.eldiario.es/sociedad/chicos-genial-primeras-imagenes-tierra-mision-artemisa-ii-camino-luna_1_13118259.html",
+      "scraped_at": "2026-04-04T07:15:06Z"
     }
   ]
 }

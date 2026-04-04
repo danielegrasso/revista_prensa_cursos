@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Moncloa rechaza ahora su propio modelo de rendición de cuentas: \"No mide bien los logros\": El Gobierno argumenta que &quot;reducir la medición del cumplimiento de compromisos a un mero porcentaje desvirtúa la lógica&quot;. Erosiona el Plan de Acción por la Democracia y el anteproyecto de Administración Abierta; Esta calle de Madrid se ha convertido en el paraíso para los negocios de extranjería: En el distrito de Usera hay una calle repleta de oficinas de abogados y gestores de extranjería que están haciendo caja con la regularización masiva de inmigrantes. Muchos ya hablan de Marcelo Usera como &quot;la calle de los trámites&quot;; El tirón de orejas de Jorge Javier a los concursantes de 'Supervivientes 2026': Jorge Javier Vázquez se salió del guion para reprender a varios náufragos por su actitud durante el &#039;reality&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-03T07:35:45Z",
+  "summary": "Resumen del día en El Confidencial: El caso Forestalia amenaza con paralizar plantas fotovoltaicas de decenas de millones: Los investigadores han solicitado detener las obras en las plantas Masía I y Masía II y su línea de evacuación al advertir que su ejecución podría provocar &quot;daños sustanciales&quot; sobre el medio ambiente; La emancipación marca nuevo mínimo: solo tres de cada diez jóvenes viven sin apoyo familiar: La creación de empleo y las subidas salariales no son suficientes para que las personas entre 18 y 34 años puedan mantenerse, porque el principal obstáculo es la vivienda. Los jóvenes españoles empeoran más que los de otros países del entorno; Aznar y Zapatero, los menos 'pacifistas': son los que más dinero han destinado a Defensa: En términos absolutos, nadie ha gastado tanto como el presidente socialista Pedro Sánchez, que en 2023 superó los 14.000 millones de euros en presupuesto militar. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-04T07:15:14Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Moncloa rechaza ahora su propio modelo de rendición de cuentas: \"No mide bien los logros\"",
-      "subtitle": "El Gobierno argumenta que &quot;reducir la medición del cumplimiento de compromisos a un mero porcentaje desvirtúa la lógica&quot;. Erosiona el Plan de Acción por la Democracia y el anteproyecto de Administración Abierta",
-      "url": "https://www.elconfidencial.com/espana/2026-04-03/gobierno-rechaza-modelo-rendicion-cuentas_4327659/",
-      "scraped_at": "2026-04-03T07:35:44Z"
+      "title": "El caso Forestalia amenaza con paralizar plantas fotovoltaicas de decenas de millones",
+      "subtitle": "Los investigadores han solicitado detener las obras en las plantas Masía I y Masía II y su línea de evacuación al advertir que su ejecución podría provocar &quot;daños sustanciales&quot; sobre el medio ambiente",
+      "url": "https://www.elconfidencial.com/espana/2026-04-04/juez-caso-forestalia-paraliza-plantas-fotovoltaicas-decenas-millones-teruel_4328347/",
+      "scraped_at": "2026-04-04T07:15:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Esta calle de Madrid se ha convertido en el paraíso para los negocios de extranjería",
-      "subtitle": "En el distrito de Usera hay una calle repleta de oficinas de abogados y gestores de extranjería que están haciendo caja con la regularización masiva de inmigrantes. Muchos ya hablan de Marcelo Usera como &quot;la calle de los trámites&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-04-03/regularizacion-migrantes-usera-madrid_4330910/",
-      "scraped_at": "2026-04-03T07:35:45Z"
+      "title": "La emancipación marca nuevo mínimo: solo tres de cada diez jóvenes viven sin apoyo familiar",
+      "subtitle": "La creación de empleo y las subidas salariales no son suficientes para que las personas entre 18 y 34 años puedan mantenerse, porque el principal obstáculo es la vivienda. Los jóvenes españoles empeoran más que los de otros países del entorno",
+      "url": "https://www.elconfidencial.com/economia/2026-04-04/emancipacion-jovenes-minimo-espana-apoyo-familiar_4331405/",
+      "scraped_at": "2026-04-04T07:15:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El tirón de orejas de Jorge Javier a los concursantes de 'Supervivientes 2026'",
-      "subtitle": "Jorge Javier Vázquez se salió del guion para reprender a varios náufragos por su actitud durante el &#039;reality&#039;",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-03/supervivientes-jorge-javier-aburrimiento-abronca-concursantes_4332038/",
-      "scraped_at": "2026-04-03T07:35:45Z"
+      "title": "Aznar y Zapatero, los menos 'pacifistas': son los que más dinero han destinado a Defensa",
+      "subtitle": "En términos absolutos, nadie ha gastado tanto como el presidente socialista Pedro Sánchez, que en 2023 superó los 14.000 millones de euros en presupuesto militar",
+      "url": "https://www.elconfidencial.com/espana/2026-04-04/aznar-zapatero-presidentes-menos-pacifistas-mas-dinero-destinado-defensa_4331293/",
+      "scraped_at": "2026-04-04T07:15:14Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Semana Santa Sevilla",
+      "subtitle": "Originada como una celebración religiosa humilde en la Edad Media, la Semana Santa de Sevilla evolucionó hacia una expresión de gran valor artístico y simbólico, consolidándose en 1980 como Fiesta de Interés Turístico Internacional",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-03-26/procesiones-semana-santa-sevilla-1tna-1qrt_4327684/",
+      "scraped_at": "2026-04-04T07:15:14Z"
     }
   ]
 }

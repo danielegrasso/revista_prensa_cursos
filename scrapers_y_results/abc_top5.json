@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PP propone que homenajear a ETA se multe como al franquismo: hasta 150.000 euros: Lanza una reforma para cubrir con sanciones los actos que quedan fuera del Código Penal con el mismo régimen que Sánchez incluyó en la Ley de Memoria Democrática; Ángel Simón toma las riendas de Indra con el futuro en manos del Gobierno: Los hermanos Escribano siguen siendo socios estratégicos, pero ahora está por ver cómo será su posición dentro de la compañía; La dependencia del Gobierno de Netanyahu de los ortodoxos hace a Israel más radical: El primer ministro concede a sus aliados de extrema derecha en el Gobierno la pena de muerte para los palestinos condenados por terrorismo y amplía las competencias de los tribunales rabínicos para mediar en disputas civiles con el fin de que 80.000 hombres de esta comunidad se unan al Ejército. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-03T07:35:40Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno bloquea más de 400 millones que Europa ha dado a España para la inmigración ilegal: La Administración del Estado solo ha transferido 130 millones a Canarias pese al dinero recibido de la UE; Junts ha tumbado a Sánchez cinco veces desde su ruptura, pero lo ha salvado cuatro: El partido de Puigdemont ha votado más veces sí que no a iniciativas del PSOE en los últimos cinco meses; Las guerras protagonizan el primer viacrucis de León XIV: El texto escrito por uno de sus colaboradores denuncia que «también hoy algunos creen que han recibido una autoridad sin límites y piensan que pueden usarla y abusar de ella a su antojo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-04T07:15:09Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PP propone que homenajear a ETA se multe como al franquismo: hasta 150.000 euros",
-      "subtitle": "Lanza una reforma para cubrir con sanciones los actos que quedan fuera del Código Penal con el mismo régimen que Sánchez incluyó en la Ley de Memoria Democrática",
-      "url": "https://www.abc.es/espana/pp-lanza-reforma-poner-ongietorri-multas-exaltan-20260403040114-nt.html",
-      "scraped_at": "2026-04-03T07:35:39Z"
+      "title": "El Gobierno bloquea más de 400 millones que Europa ha dado a España para la inmigración ilegal",
+      "subtitle": "La Administración del Estado solo ha transferido 130 millones a Canarias pese al dinero recibido de la UE",
+      "url": "https://www.abc.es/espana/canarias/gobierno-bloquea-400-millones-europa-dado-espana-20260401040633-nt.html",
+      "scraped_at": "2026-04-04T07:15:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ángel Simón toma las riendas de Indra con el futuro en manos del Gobierno",
-      "subtitle": "Los hermanos Escribano siguen siendo socios estratégicos, pero ahora está por ver cómo será su posición dentro de la compañía",
-      "url": "https://www.abc.es/economia/angel-simon-asume-cargo-presidente-ejecutivo-indra-20260403040142-nt.html",
-      "scraped_at": "2026-04-03T07:35:39Z"
+      "title": "Junts ha tumbado a Sánchez cinco veces desde su ruptura, pero lo ha salvado cuatro",
+      "subtitle": "El partido de Puigdemont ha votado más veces sí que no a iniciativas del PSOE en los últimos cinco meses",
+      "url": "https://www.abc.es/espana/junts-tumbado-sanchez-cinco-veces-ruptura-salvado-20260404040807-nt.html",
+      "scraped_at": "2026-04-04T07:15:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "La dependencia del Gobierno de Netanyahu de los ortodoxos hace a Israel más radical",
-      "subtitle": "El primer ministro concede a sus aliados de extrema derecha en el Gobierno la pena de muerte para los palestinos condenados por terrorismo y amplía las competencias de los tribunales rabínicos para mediar en disputas civiles con el fin de que 80.000 hombres de esta comunidad se unan al Ejército",
-      "url": "https://www.abc.es/internacional/israel-vez-radical-laico-dependencia-netanyahu-ultraortodoxos-20260402040159-nt.html",
-      "scraped_at": "2026-04-03T07:35:40Z"
+      "title": "Las guerras protagonizan el primer viacrucis de León XIV",
+      "subtitle": "El texto escrito por uno de sus colaboradores denuncia que «también hoy algunos creen que han recibido una autoridad sin límites y piensan que pueden usarla y abusar de ella a su antojo»",
+      "url": "https://www.abc.es/sociedad/guerras-protagonizan-primer-viacrucis-leon-xiv-20260403223216-nt.html",
+      "scraped_at": "2026-04-04T07:15:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "A la Madrugada ya no le quedan hebillas en el cinturón para apretarse",
-      "subtitle": "Las cofradías comprimieron al máximo sus cortejos de nazarenos y, aun así, no lograron que funcionase una jornada cogida con pinzas",
-      "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/madrugada-quedan-hebillas-cinturon-apretarse-20260403083332-nts.html",
-      "scraped_at": "2026-04-03T07:35:40Z"
+      "title": "Apología de Poncio Pilatos",
+      "subtitle": "Condenando al justo Jesús a la muerte en Cruz, ha caído sobre mí una condena al oprobio tal vez más longeva que mi propia vida; pero llegará el día en que los demócratas me alcen monumentos en los parques",
+      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-apologia-poncio-pilatos-20260403142203-nt.html",
+      "scraped_at": "2026-04-04T07:15:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-03T07:35:40Z"
+      "title": "«Si sabes que vas a vender una vivienda que has heredado, conviene declarar un valor de mercado en vez del de referencia»",
+      "subtitle": "Un experto fiscal desvela cómo ajustar el Impuesto de Sucesiones para reducir a cero el IRPF por la venta de una vivienda heredada",
+      "url": "https://www.cope.es/actualidad/economia/noticias/vas-vender-vivienda-has-heredado-conviene-declarar-valor-mercado-vez-referencia-dani-experto-fiscalidad-20260403_3338995.html",
+      "scraped_at": "2026-04-04T07:15:09Z"
     }
   ]
 }
