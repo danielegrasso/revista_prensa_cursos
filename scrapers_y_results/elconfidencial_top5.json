@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El caso Forestalia amenaza con paralizar plantas fotovoltaicas de decenas de millones: Los investigadores han solicitado detener las obras en las plantas Masía I y Masía II y su línea de evacuación al advertir que su ejecución podría provocar &quot;daños sustanciales&quot; sobre el medio ambiente; La emancipación marca nuevo mínimo: solo tres de cada diez jóvenes viven sin apoyo familiar: La creación de empleo y las subidas salariales no son suficientes para que las personas entre 18 y 34 años puedan mantenerse, porque el principal obstáculo es la vivienda. Los jóvenes españoles empeoran más que los de otros países del entorno; Aznar y Zapatero, los menos 'pacifistas': son los que más dinero han destinado a Defensa: En términos absolutos, nadie ha gastado tanto como el presidente socialista Pedro Sánchez, que en 2023 superó los 14.000 millones de euros en presupuesto militar. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-04T07:15:14Z",
+  "summary": "Resumen del día en El Confidencial: Moncloa lo fía todo a la economía e Irán y advierte: \"PP y Vox durarían solo un año\": Sánchez confía en arrebatar la bandera anticorrupción al PP por Kitchen, optimizar el &#039;no a la guerra&#039;, convencer con la economía, que los escándalos penalicen a Vox y que Sumar logre concurrir unida: “El 27 está por escribir&quot;; Misiles en Teherán, normalidad en la frontera: ¿dónde están los refugiados iraníes?: Desde que empezó la guerra en Irán, cerca de 3,2 millones de iraníes han sido desplazados, pero no se espera una ola de refugiados dispuestos a abandonar el país; El Barça tumba al Atlético con gol de Lewandowski y roja perdonada (1-2): Los rojiblancos jugaron con diez futbolistas toda la segunda parte. Busquets Ferrer corrigió la roja a Gerard Martín y solo le enseñó la cartulina amarilla en el Metropolitano. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-05T07:21:17Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El caso Forestalia amenaza con paralizar plantas fotovoltaicas de decenas de millones",
-      "subtitle": "Los investigadores han solicitado detener las obras en las plantas Masía I y Masía II y su línea de evacuación al advertir que su ejecución podría provocar &quot;daños sustanciales&quot; sobre el medio ambiente",
-      "url": "https://www.elconfidencial.com/espana/2026-04-04/juez-caso-forestalia-paraliza-plantas-fotovoltaicas-decenas-millones-teruel_4328347/",
-      "scraped_at": "2026-04-04T07:15:13Z"
+      "title": "Moncloa lo fía todo a la economía e Irán y advierte: \"PP y Vox durarían solo un año\"",
+      "subtitle": "Sánchez confía en arrebatar la bandera anticorrupción al PP por Kitchen, optimizar el &#039;no a la guerra&#039;, convencer con la economía, que los escándalos penalicen a Vox y que Sumar logre concurrir unida: “El 27 está por escribir&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-04-05/moncloa-guerra-economia-gobierno-pp-vox_4331803/",
+      "scraped_at": "2026-04-05T07:21:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La emancipación marca nuevo mínimo: solo tres de cada diez jóvenes viven sin apoyo familiar",
-      "subtitle": "La creación de empleo y las subidas salariales no son suficientes para que las personas entre 18 y 34 años puedan mantenerse, porque el principal obstáculo es la vivienda. Los jóvenes españoles empeoran más que los de otros países del entorno",
-      "url": "https://www.elconfidencial.com/economia/2026-04-04/emancipacion-jovenes-minimo-espana-apoyo-familiar_4331405/",
-      "scraped_at": "2026-04-04T07:15:13Z"
+      "title": "Misiles en Teherán, normalidad en la frontera: ¿dónde están los refugiados iraníes?",
+      "subtitle": "Desde que empezó la guerra en Irán, cerca de 3,2 millones de iraníes han sido desplazados, pero no se espera una ola de refugiados dispuestos a abandonar el país",
+      "url": "https://www.elconfidencial.com/mundo/2026-04-05/misiles-en-teheran-normalidad-en-la-frontera-donde-estan-los-refugiados-iranies_4332304/",
+      "scraped_at": "2026-04-05T07:21:15Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Aznar y Zapatero, los menos 'pacifistas': son los que más dinero han destinado a Defensa",
-      "subtitle": "En términos absolutos, nadie ha gastado tanto como el presidente socialista Pedro Sánchez, que en 2023 superó los 14.000 millones de euros en presupuesto militar",
-      "url": "https://www.elconfidencial.com/espana/2026-04-04/aznar-zapatero-presidentes-menos-pacifistas-mas-dinero-destinado-defensa_4331293/",
-      "scraped_at": "2026-04-04T07:15:14Z"
+      "title": "El Barça tumba al Atlético con gol de Lewandowski y roja perdonada (1-2)",
+      "subtitle": "Los rojiblancos jugaron con diez futbolistas toda la segunda parte. Busquets Ferrer corrigió la roja a Gerard Martín y solo le enseñó la cartulina amarilla en el Metropolitano",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-04-04/atletico-barca-lewandowski-gerard-martin-roja_4332453/",
+      "scraped_at": "2026-04-05T07:21:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Semana Santa Sevilla",
-      "subtitle": "Originada como una celebración religiosa humilde en la Edad Media, la Semana Santa de Sevilla evolucionó hacia una expresión de gran valor artístico y simbólico, consolidándose en 1980 como Fiesta de Interés Turístico Internacional",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-03-26/procesiones-semana-santa-sevilla-1tna-1qrt_4327684/",
-      "scraped_at": "2026-04-04T07:15:14Z"
+      "title": "Todo lo que pasa si eres un hombre y fan de los grupos de mujeres: \"Me siento raro\"",
+      "subtitle": "Cada vez hay más hombres que escuchan, siguen y admiran a las artistas femeninas, algo que hasta hace poco no era tan común. Ellos (y ellas) nos cuentan cómo lo viven",
+      "url": "https://www.elconfidencial.com/cultura/2026-04-05/todo-pasa-hombre-fan-mujeres-groupies_4330933/",
+      "scraped_at": "2026-04-05T07:21:16Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Pasa a disposición judicial el detenido por el presunto homicidio de su pareja en Basauri (Vizcaya)",
+      "subtitle": "Inicialmente, el deceso se vinculó a una “supuesta indisposición”, tras los intentos infructuosos de reanimación por parte de los servicios sanitarios desplazados",
+      "url": "https://www.elconfidencial.com/espana/pais-vasco/2026-04-04/violencia-machista-basauri-mujer-homicidio-1tps_4332361/",
+      "scraped_at": "2026-04-05T07:21:17Z"
     }
   ]
 }

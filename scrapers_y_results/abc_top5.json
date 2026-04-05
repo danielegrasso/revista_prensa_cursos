@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno bloquea más de 400 millones que Europa ha dado a España para la inmigración ilegal: La Administración del Estado solo ha transferido 130 millones a Canarias pese al dinero recibido de la UE; Junts ha tumbado a Sánchez cinco veces desde su ruptura, pero lo ha salvado cuatro: El partido de Puigdemont ha votado más veces sí que no a iniciativas del PSOE en los últimos cinco meses; Las guerras protagonizan el primer viacrucis de León XIV: El texto escrito por uno de sus colaboradores denuncia que «también hoy algunos creen que han recibido una autoridad sin límites y piensan que pueden usarla y abusar de ella a su antojo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-04T07:15:09Z",
+  "summary": "Resumen del día en ABC.es: ¿Paz en Oriente Próximo? Trump se juega su gran legado internacional en Irán: La visión de una región estable y próspera, con un Israel normalizado, depende de una guerra con rumbo incierto; Lindsey Graham, el halcón americano que amenaza a España: El senador republicano, una de las voces más influyentes del ala dura de Trump en política exterior, abre la puerta a sanciones, reclama cerrar las bases de EE.UU. y eleva a Sánchez como símbolo europeo de la resistencia a Washington; Estados Unidos rescata al tripulante del caza derribado que estaba desaparecido: «Sufrió algunas lesiones, pero estará bien», ha informado Trump en un comunicado en redes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-05T07:21:11Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno bloquea más de 400 millones que Europa ha dado a España para la inmigración ilegal",
-      "subtitle": "La Administración del Estado solo ha transferido 130 millones a Canarias pese al dinero recibido de la UE",
-      "url": "https://www.abc.es/espana/canarias/gobierno-bloquea-400-millones-europa-dado-espana-20260401040633-nt.html",
-      "scraped_at": "2026-04-04T07:15:08Z"
+      "title": "¿Paz en Oriente Próximo? Trump se juega su gran legado internacional en Irán",
+      "subtitle": "La visión de una región estable y próspera, con un Israel normalizado, depende de una guerra con rumbo incierto",
+      "url": "https://www.abc.es/internacional/paz-oriente-proximo-trump-juega-gran-legado-20260404040945-nt.html",
+      "scraped_at": "2026-04-05T07:21:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junts ha tumbado a Sánchez cinco veces desde su ruptura, pero lo ha salvado cuatro",
-      "subtitle": "El partido de Puigdemont ha votado más veces sí que no a iniciativas del PSOE en los últimos cinco meses",
-      "url": "https://www.abc.es/espana/junts-tumbado-sanchez-cinco-veces-ruptura-salvado-20260404040807-nt.html",
-      "scraped_at": "2026-04-04T07:15:08Z"
+      "title": "Lindsey Graham, el halcón americano que amenaza a España",
+      "subtitle": "El senador republicano, una de las voces más influyentes del ala dura de Trump en política exterior, abre la puerta a sanciones, reclama cerrar las bases de EE.UU. y eleva a Sánchez como símbolo europeo de la resistencia a Washington",
+      "url": "https://www.abc.es/espana/lindsey-graham-halcon-americano-amenaza-espana-20260405040950-nt.html",
+      "scraped_at": "2026-04-05T07:21:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las guerras protagonizan el primer viacrucis de León XIV",
-      "subtitle": "El texto escrito por uno de sus colaboradores denuncia que «también hoy algunos creen que han recibido una autoridad sin límites y piensan que pueden usarla y abusar de ella a su antojo»",
-      "url": "https://www.abc.es/sociedad/guerras-protagonizan-primer-viacrucis-leon-xiv-20260403223216-nt.html",
-      "scraped_at": "2026-04-04T07:15:08Z"
+      "title": "Estados Unidos rescata al tripulante del caza derribado que estaba desaparecido",
+      "subtitle": "«Sufrió algunas lesiones, pero estará bien», ha informado Trump en un comunicado en redes",
+      "url": "https://www.abc.es/internacional/trump-confirma-eeuu-rescatado-tripulante-caza-derribado-20260405081004-nt.html",
+      "scraped_at": "2026-04-05T07:21:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Apología de Poncio Pilatos",
-      "subtitle": "Condenando al justo Jesús a la muerte en Cruz, ha caído sobre mí una condena al oprobio tal vez más longeva que mi propia vida; pero llegará el día en que los demócratas me alcen monumentos en los parques",
-      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-apologia-poncio-pilatos-20260403142203-nt.html",
-      "scraped_at": "2026-04-04T07:15:08Z"
+      "title": "Morante: «Está feo que yo lo diga, pero vuelvo porque hago falta»",
+      "subtitle": "El maestro de La Puebla regresa hoy a los ruedos en Sevilla tras anunciar su retirada el pasado 12 de octubre en Madrid: «Pedí al cielo que si salía por la Puerta Grande, ahí terminaba todo, y dio la mala suerte o la suerte de que salí»",
+      "url": "https://www.abc.es/cultura/toros/sevilla/morante-feo-diga-vuelvo-hago-falta-20260405125737-nts.html",
+      "scraped_at": "2026-04-05T07:21:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Si sabes que vas a vender una vivienda que has heredado, conviene declarar un valor de mercado en vez del de referencia»",
-      "subtitle": "Un experto fiscal desvela cómo ajustar el Impuesto de Sucesiones para reducir a cero el IRPF por la venta de una vivienda heredada",
-      "url": "https://www.cope.es/actualidad/economia/noticias/vas-vender-vivienda-has-heredado-conviene-declarar-valor-mercado-vez-referencia-dani-experto-fiscalidad-20260403_3338995.html",
-      "scraped_at": "2026-04-04T07:15:09Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-04-05T07:21:11Z"
     }
   ]
 }
