@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: EE.UU. dice que ha rescatado con vida al segundo piloto del caza F-15 derribado en Irán: Teherán asegura que ha frustrado la operación para salvar al militar y que han alcanzado a varias aeronaves; Trump da 48 horas a Irán para firmar un acuerdo o amenaza con “desatar el infierno”: Washington guarda silencio sobre el segundo piloto del avión derribado por parte de Teherán; Israel derruye el sur del Líbano y provoca más de un millón de desplazados: El ejército hebreo practica la política de tierra quemada en el territorio chií. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-05T07:21:14Z",
+  "summary": "Resumen del día en La Vanguardia: La prórroga de los alquileres frena el mercado ante las dudas legales: El sector alerta de que la medida ya provoca una parálisis de la entrada de oferta; Irán cae en la trampa de la CIA: EE.UU. recupera al aviador desaparecido gracias a un subterfugio de su espionaje; La guerra abre grietas entre los opositores al régimen: La posición ante el conflicto ha separado a familias y a grupos de amigos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-06T08:00:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. dice que ha rescatado con vida al segundo piloto del caza F-15 derribado en Irán",
-      "subtitle": "Teherán asegura que ha frustrado la operación para salvar al militar y que han alcanzado a varias aeronaves",
-      "url": "https://www.lavanguardia.com/internacional/20260405/11506312/ee-uu-rescata-piloto-cuyo-avion-militar-derribado-iran.html",
-      "scraped_at": "2026-04-05T07:21:12Z"
+      "title": "La prórroga de los alquileres frena el mercado ante las dudas legales",
+      "subtitle": "El sector alerta de que la medida ya provoca una parálisis de la entrada de oferta",
+      "url": "https://www.lavanguardia.com/economia/20260406/11506517/prorroga-alquileres-frena-mercado-dudas-legales.html",
+      "scraped_at": "2026-04-06T08:00:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump da 48 horas a Irán para firmar un acuerdo o amenaza con “desatar el infierno”",
-      "subtitle": "Washington guarda silencio sobre el segundo piloto del avión derribado por parte de Teherán",
-      "url": "https://www.lavanguardia.com/internacional/20260404/11505969/trump-da-48-horas-iran-firmar-acuerdo-amenaza-desatar-infierno.html",
-      "scraped_at": "2026-04-05T07:21:12Z"
+      "title": "Irán cae en la trampa de la CIA",
+      "subtitle": "EE.UU. recupera al aviador desaparecido gracias a un subterfugio de su espionaje",
+      "url": "https://www.lavanguardia.com/internacional/20260406/11506543/iran-cae-trampa-cia-como-fue-rescate-aviador-eeuu.html",
+      "scraped_at": "2026-04-06T08:00:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Israel derruye el sur del Líbano y provoca más de un millón de desplazados",
-      "subtitle": "El ejército hebreo practica la política de tierra quemada en el territorio chií",
-      "url": "https://www.lavanguardia.com/internacional/20260405/11506095/israel-derruye-sur-libano-provoca-mas-millon-desplazados.html",
-      "scraped_at": "2026-04-05T07:21:13Z"
+      "title": "La guerra abre grietas entre los opositores al régimen",
+      "subtitle": "La posición ante el conflicto ha separado a familias y a grupos de amigos",
+      "url": "https://www.lavanguardia.com/internacional/20260406/11506500/guerra-abre-grietas-opositores-regimen-iran.html",
+      "scraped_at": "2026-04-06T08:00:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Quién decidirá la guerra?",
-      "subtitle": "A la hora de escribir este artículo, aún no se ha producido la anunciada invasión terrestre de tropas de Estados Unidos en algún lugar de Irán. Solo hemos escuchado el enésimo ultimátum de Donald Trump que amenaza con “desatar el infierno” contra la República",
-      "url": "https://www.lavanguardia.com/opinion/20260405/11506114/decidira-guerra.html",
-      "scraped_at": "2026-04-05T07:21:13Z"
+      "title": "La diáspora iraní en España: “No es una guerra, es una ayuda”",
+      "subtitle": "Tres personas que huyeron de Irán relatan la vida bajo el yugo de la República Islámica",
+      "url": "https://www.lavanguardia.com/internacional/20260406/11500761/diaspora-irani-espana-guerra-ayuda.html",
+      "scraped_at": "2026-04-06T08:00:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Líbano, el eterno perdedor",
-      "subtitle": "Hay países sobre los que parece haber caído una maldición del destino y de la historia. Uno de ellos es Líbano. Esta nación, vecina de Israel, se ve una vez más atacada, masacrada, desplazada e invadida, sin que parezca haber grandes lamentos en la comunidad internacional.",
-      "url": "https://www.lavanguardia.com/opinion/20260405/11506040/libano-eterno-perdedor.html",
-      "scraped_at": "2026-04-05T07:21:14Z"
+      "title": "¿China gana enteros en la diplomacia internacional frente a EE.UU.?",
+      "subtitle": "Su buena relación con países como Irán y Rusia podría ayudar a resolver los actuales conflictos armados",
+      "url": "https://www.lavanguardia.com/participacion/debates/20260406/11504624/encuesta-china-gana-enteros-diplomacia-internacional-frente-ee-uu.html",
+      "scraped_at": "2026-04-06T08:00:08Z"
     }
   ]
 }
