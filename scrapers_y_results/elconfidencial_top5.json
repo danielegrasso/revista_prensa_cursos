@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Gobierno cambia un tercio de los presupuestos sin apenas supervisión del Congreso: Las modificaciones y ampliaciones presupuestarias alcanzaron un récord histórico en 2025 mientras el Ejecutivo argumentaba que no necesitaba unos nuevos presupuestos; El juicio en el Supremo a Ábalos,  \"amigo\" y confidente de Sánchez, amenaza al corazón del PSOE: La vista oral que comienza ahora resumirá los inicios de una corrupción con sede en el Ministerio de Transportes, que se propagó como un incendio, y que afectó al Ejecutivo y al partido; Por qué los ricos están gastando menos dinero aunque sean más ricos: Estamos ante una nueva psicología económica en la que el lujo se convierte en una decisión racional. Aunque los patrimonios son cada vez más grandes, se prefiere preservar a gastar. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-07T07:47:45Z",
+  "summary": "Resumen del día en El Confidencial: Primera sesión y primer golpe para el PSOE: el juicio a Ábalos resucita los pagos en Ferraz: El arranque de la vista oral demuestra que su desarrollo no solo será vital para el futuro del exministro y de su asesor Koldo García sino también para toda la formación; ¿Cuánto hemos pagado de más por un coche? La Justicia dice que un 5%, un estudio que el 9,3: El ‘paper’ sitúa el sobreprecio en torno al 9,3% pese a no cubrir los últimos años del cártel fijado por la CNMC; Horario Al Cielo con Ella: La cantante colombiana concederá su primera entrevista en televisión nacional, en plena gira internacional &#039;Las Mujeres Ya No Lloran World Tour&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-08T07:51:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Gobierno cambia un tercio de los presupuestos sin apenas supervisión del Congreso",
-      "subtitle": "Las modificaciones y ampliaciones presupuestarias alcanzaron un récord histórico en 2025 mientras el Ejecutivo argumentaba que no necesitaba unos nuevos presupuestos",
-      "url": "https://www.elconfidencial.com/economia/2026-04-07/gobierno-modifico-prorroga-presupuestaria-supervision-congreso_4333179/",
-      "scraped_at": "2026-04-07T07:47:43Z"
+      "title": "Primera sesión y primer golpe para el PSOE: el juicio a Ábalos resucita los pagos en Ferraz",
+      "subtitle": "El arranque de la vista oral demuestra que su desarrollo no solo será vital para el futuro del exministro y de su asesor Koldo García sino también para toda la formación",
+      "url": "https://www.elconfidencial.com/espana/2026-04-08/primer-dia-juicio-abalos-golpe-psoe-pagos-ferraz_4333850/",
+      "scraped_at": "2026-04-08T07:51:36Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El juicio en el Supremo a Ábalos,  \"amigo\" y confidente de Sánchez, amenaza al corazón del PSOE",
-      "subtitle": "La vista oral que comienza ahora resumirá los inicios de una corrupción con sede en el Ministerio de Transportes, que se propagó como un incendio, y que afectó al Ejecutivo y al partido",
-      "url": "https://www.elconfidencial.com/espana/2026-04-07/juicio-abalos-koldo-mascarillas-amigo-pedro-sanchez-psoe_4333133/",
-      "scraped_at": "2026-04-07T07:47:44Z"
+      "title": "¿Cuánto hemos pagado de más por un coche? La Justicia dice que un 5%, un estudio que el 9,3",
+      "subtitle": "El ‘paper’ sitúa el sobreprecio en torno al 9,3% pese a no cubrir los últimos años del cártel fijado por la CNMC",
+      "url": "https://www.elconfidencial.com/juridico/2026-04-08/cuanto-pagado-mas-coche-justicia_4333828/",
+      "scraped_at": "2026-04-08T07:51:37Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Por qué los ricos están gastando menos dinero aunque sean más ricos",
-      "subtitle": "Estamos ante una nueva psicología económica en la que el lujo se convierte en una decisión racional. Aunque los patrimonios son cada vez más grandes, se prefiere preservar a gastar",
-      "url": "https://www.elconfidencial.com/economia/2026-04-07/por-que-ricos-gastando-menos-sean-mas-ricos_4333064/",
-      "scraped_at": "2026-04-07T07:47:45Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Un hombre, grave tras ser agredido con una katana en Molina de Aragón",
-      "subtitle": "Un hombre de 51 años sufrió heridas graves por arma blanca en Molina de Aragón y llegó por su propio pie a un centro sanitario; fue evacuado en helicóptero al hospital y actuó la Guardia Civil",
-      "url": "https://www.elconfidencial.com/espana/2026-04-07/agresion-katana-molina-aragon-1tna-1tps_4333375/",
-      "scraped_at": "2026-04-07T07:47:45Z"
+      "title": "Horario Al Cielo con Ella",
+      "subtitle": "La cantante colombiana concederá su primera entrevista en televisión nacional, en plena gira internacional &#039;Las Mujeres Ya No Lloran World Tour&#039;",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-07/al-cielo-con-ella-tve1-horario-donde-ver-shakira-1qrt_4333761/",
+      "scraped_at": "2026-04-08T07:51:37Z"
     }
   ]
 }

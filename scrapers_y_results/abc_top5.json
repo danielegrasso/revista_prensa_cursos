@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Moncloa asume que Ábalos desbarata su plan de marcar la agenda política: El juicio al exministro resitúa el foco en los tribunales y eclipsa la apuesta por lo económico e internacional; Koldo, desde la cárcel antes de su juicio de hoy: «Vais a flipar con mis pruebas»: El exasesor de Ábalos comenta con otros reclusos y con funcionarios sus impresiones antes de acudir al Tribunal Supremo y tiene palabras para Víctor de Aldama; La familia de La Suiza recurrirá el indulto: «Benefician a quienes nos destrozaron la vida»: José y Begoña perdieron su pastelería por una campaña de difamación que el Ejecutivo perdona, a pesar de que tres sentencias determinan que no hubo conflicto laboral ni acoso sexual. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-07T07:47:38Z",
+  "summary": "Resumen del día en ABC.es: El plan de 10 puntos de Irán establece que EE.UU. debe aceptar el enriquecimiento de uranio: Las negociaciones entre ambos países arrancan este viernes 10 de abril en Islamabad; Las Bolsas vuelan y el petróleo se desploma tras el alto el fuego: El Ibex 35 amanece con un alza de más del 4% y el barril de Brent cae un 13%; La trama Ábalos confirma en el Supremo los sobres de Ferraz: Joseba García, hermano del asesor de Transportes Koldo García, reconoce que fue a la sede del PSOE a recoger dos sobres con dinero en diciembre de 2020. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-08T07:51:30Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Moncloa asume que Ábalos desbarata su plan de marcar la agenda política",
-      "subtitle": "El juicio al exministro resitúa el foco en los tribunales y eclipsa la apuesta por lo económico e internacional",
-      "url": "https://www.abc.es/espana/moncloa-asume-abalos-desbarata-estrategia-marcar-agenda-20260407040015-nt.html",
-      "scraped_at": "2026-04-07T07:47:37Z"
+      "title": "El plan de 10 puntos de Irán establece que EE.UU. debe aceptar el enriquecimiento de uranio",
+      "subtitle": "Las negociaciones entre ambos países arrancan este viernes 10 de abril en Islamabad",
+      "url": "https://www.abc.es/internacional/plan-puntos-iran-establece-eeuu-debe-aceptar-20260408024850-nt.html",
+      "scraped_at": "2026-04-08T07:51:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Koldo, desde la cárcel antes de su juicio de hoy: «Vais a flipar con mis pruebas»",
-      "subtitle": "El exasesor de Ábalos comenta con otros reclusos y con funcionarios sus impresiones antes de acudir al Tribunal Supremo y tiene palabras para Víctor de Aldama",
-      "url": "https://www.abc.es/espana/koldo-carcel-juicio-vais-flipar-pruebas-20260407040127-nt.html",
-      "scraped_at": "2026-04-07T07:47:37Z"
+      "title": "Las Bolsas vuelan y el petróleo se desploma tras el alto el fuego",
+      "subtitle": "El Ibex 35 amanece con un alza de más del 4% y el barril de Brent cae un 13%",
+      "url": "https://www.abc.es/economia/bolsas-vuelan-petroleo-desploma-tras-alto-fuego-20260408093157-nt.html",
+      "scraped_at": "2026-04-08T07:51:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "La familia de La Suiza recurrirá el indulto: «Benefician a quienes nos destrozaron la vida»",
-      "subtitle": "José y Begoña perdieron su pastelería por una campaña de difamación que el Ejecutivo perdona, a pesar de que tres sentencias determinan que no hubo conflicto laboral ni acoso sexual",
-      "url": "https://www.abc.es/sociedad/familia-suiza-recurrira-indulto-gobierno-quieren-beneficiar-20260407040215-nt.html",
-      "scraped_at": "2026-04-07T07:47:38Z"
+      "title": "La trama Ábalos confirma en el Supremo los sobres de Ferraz",
+      "subtitle": "Joseba García, hermano del asesor de Transportes Koldo García, reconoce que fue a la sede del PSOE a recoger dos sobres con dinero en diciembre de 2020",
+      "url": "https://www.abc.es/espana/primer-dia-abalos-confirma-pagos-metalico-ferraz-20260408040909-nt.html",
+      "scraped_at": "2026-04-08T07:51:30Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los seis matones de La Suiza",
-      "subtitle": "Los seis indultos concedidos son una ofensa a los principios del Estado de derecho y de la soberanía de los tribunales en la administración de Justicia",
-      "url": "https://www.abc.es/opinion/editorial-seis-matones-suiza-20260406190333-nt.html",
-      "scraped_at": "2026-04-07T07:47:38Z"
+      "title": "La otra cara del juicio: los fantasmas del pasado de Ábalos, una dentista colegiada y un gato",
+      "subtitle": "El exministro, enjuto, escuchó a su examante y a su primogénito, mientras un Koldo abatido perdía los nervios por las palabras de Jésica Rodríguez",
+      "url": "https://www.abc.es/espana/fantasmas-intimos-abalos-dan-cita-tribunal-supremo-20260407192548-nt.html",
+      "scraped_at": "2026-04-08T07:51:30Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-07T07:47:38Z"
+      "scraped_at": "2026-04-08T07:51:30Z"
     }
   ]
 }
