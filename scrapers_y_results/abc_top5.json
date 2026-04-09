@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El plan de 10 puntos de Irán establece que EE.UU. debe aceptar el enriquecimiento de uranio: Las negociaciones entre ambos países arrancan este viernes 10 de abril en Islamabad; Las Bolsas vuelan y el petróleo se desploma tras el alto el fuego: El Ibex 35 amanece con un alza de más del 4% y el barril de Brent cae un 13%; La trama Ábalos confirma en el Supremo los sobres de Ferraz: Joseba García, hermano del asesor de Transportes Koldo García, reconoce que fue a la sede del PSOE a recoger dos sobres con dinero en diciembre de 2020. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-08T07:51:30Z",
+  "summary": "Resumen del día en ABC.es: El informe de la soldadura de Adamuz fue revisado por un trabajador sin titulación: Adif detectó dos meses antes del accidente graves baches en el punto kilométrico donde se produjo la tragedia en la que murieron 46 personas; El PSOE y sus socios niegan a las víctimas de ETA la protección que tienen las del franquismo: Votan en contra de multar los homenajes y exaltaciones de la banda terrorista cuando no lleguen a delito penal; Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra con Irán: La Casa Blanca analiza movimientos de tropas e incluso el cierre de una base en Europa, en plena crisis con varios aliados por su falta de apoyo a la operación militar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-09T07:53:13Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El plan de 10 puntos de Irán establece que EE.UU. debe aceptar el enriquecimiento de uranio",
-      "subtitle": "Las negociaciones entre ambos países arrancan este viernes 10 de abril en Islamabad",
-      "url": "https://www.abc.es/internacional/plan-puntos-iran-establece-eeuu-debe-aceptar-20260408024850-nt.html",
-      "scraped_at": "2026-04-08T07:51:29Z"
+      "title": "El informe de la soldadura de Adamuz fue revisado por un trabajador sin titulación",
+      "subtitle": "Adif detectó dos meses antes del accidente graves baches en el punto kilométrico donde se produjo la tragedia en la que murieron 46 personas",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/informe-soldaduras-adamuz-revisado-trabajador-titulacion-20260409040119-nts.html",
+      "scraped_at": "2026-04-09T07:53:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las Bolsas vuelan y el petróleo se desploma tras el alto el fuego",
-      "subtitle": "El Ibex 35 amanece con un alza de más del 4% y el barril de Brent cae un 13%",
-      "url": "https://www.abc.es/economia/bolsas-vuelan-petroleo-desploma-tras-alto-fuego-20260408093157-nt.html",
-      "scraped_at": "2026-04-08T07:51:29Z"
+      "title": "El PSOE y sus socios niegan a las víctimas de ETA la protección que tienen las del franquismo",
+      "subtitle": "Votan en contra de multar los homenajes y exaltaciones de la banda terrorista cuando no lleguen a delito penal",
+      "url": "https://www.abc.es/espana/psoe-niega-perseguir-homenajes-etarras-ruido-20260409040139-nt.html",
+      "scraped_at": "2026-04-09T07:53:13Z"
     },
     {
       "source": "ABC.es",
-      "title": "La trama Ábalos confirma en el Supremo los sobres de Ferraz",
-      "subtitle": "Joseba García, hermano del asesor de Transportes Koldo García, reconoce que fue a la sede del PSOE a recoger dos sobres con dinero en diciembre de 2020",
-      "url": "https://www.abc.es/espana/primer-dia-abalos-confirma-pagos-metalico-ferraz-20260408040909-nt.html",
-      "scraped_at": "2026-04-08T07:51:30Z"
+      "title": "Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra con Irán",
+      "subtitle": "La Casa Blanca analiza movimientos de tropas e incluso el cierre de una base en Europa, en plena crisis con varios aliados por su falta de apoyo a la operación militar",
+      "url": "https://www.abc.es/internacional/trump-amenaza-otan-estudia-castigar-espana-alemania-20260408225850-nt.html",
+      "scraped_at": "2026-04-09T07:53:13Z"
     },
     {
       "source": "ABC.es",
-      "title": "La otra cara del juicio: los fantasmas del pasado de Ábalos, una dentista colegiada y un gato",
-      "subtitle": "El exministro, enjuto, escuchó a su examante y a su primogénito, mientras un Koldo abatido perdía los nervios por las palabras de Jésica Rodríguez",
-      "url": "https://www.abc.es/espana/fantasmas-intimos-abalos-dan-cita-tribunal-supremo-20260407192548-nt.html",
-      "scraped_at": "2026-04-08T07:51:30Z"
+      "title": "Familiares de los militares españoles en el Líbano: «Fueron a una misión de paz y están en medio de la guerra»",
+      "subtitle": "Piden que los efectivos sean evacuados por seguridad mientras Israel intensifica su ofensiva sobre el país",
+      "url": "https://www.abc.es/espana/familiares-militares-libano-explotan-mision-paz-medio-20260409040131-nt.html",
+      "scraped_at": "2026-04-09T07:53:13Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-08T07:51:30Z"
+      "scraped_at": "2026-04-09T07:53:13Z"
     }
   ]
 }

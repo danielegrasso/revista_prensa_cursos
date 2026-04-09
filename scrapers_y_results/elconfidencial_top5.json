@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Primera sesión y primer golpe para el PSOE: el juicio a Ábalos resucita los pagos en Ferraz: El arranque de la vista oral demuestra que su desarrollo no solo será vital para el futuro del exministro y de su asesor Koldo García sino también para toda la formación; ¿Cuánto hemos pagado de más por un coche? La Justicia dice que un 5%, un estudio que el 9,3: El ‘paper’ sitúa el sobreprecio en torno al 9,3% pese a no cubrir los últimos años del cártel fijado por la CNMC; Horario Al Cielo con Ella: La cantante colombiana concederá su primera entrevista en televisión nacional, en plena gira internacional &#039;Las Mujeres Ya No Lloran World Tour&#039;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-08T07:51:37Z",
+  "summary": "Resumen del día en El Confidencial: Adamuz: la Guardia Civil tumba la versión de Puente y desvela tres fallos graves de Adif en la tragedia: Los documentos del instituto armado ponen el foco en la experiencia de los técnicos que revisaban las soldaduras, la configuración del sistema que detecta las roturas y el tiempo que tardaron en llegar al Alvia los servicios de rescate; ¿Cuándo volverá el petróleo a precios precrisis? El mejor escenario apunta a 2027: Si la guerra termina en abril, los precios podrían volver a los niveles de febrero en los dos últimos meses del próximo año. La producción se recuperaría antes, en otoño de 2026, y el consumo aún estaría a tiempo de no desplomarse; ¿Vulneró Sánchez 4 normas al adelantar las afiliaciones en su vídeo con la elástica de España?: La oposición cree que pudo infringir el deber de secreto o de difusión imparcial, por lo que pide que se abra un expediente para dilucidar &quot;posibles responsabilidades administrativas&quot; del presidente del Gobierno. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-09T07:53:19Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Primera sesión y primer golpe para el PSOE: el juicio a Ábalos resucita los pagos en Ferraz",
-      "subtitle": "El arranque de la vista oral demuestra que su desarrollo no solo será vital para el futuro del exministro y de su asesor Koldo García sino también para toda la formación",
-      "url": "https://www.elconfidencial.com/espana/2026-04-08/primer-dia-juicio-abalos-golpe-psoe-pagos-ferraz_4333850/",
-      "scraped_at": "2026-04-08T07:51:36Z"
+      "title": "Adamuz: la Guardia Civil tumba la versión de Puente y desvela tres fallos graves de Adif en la tragedia",
+      "subtitle": "Los documentos del instituto armado ponen el foco en la experiencia de los técnicos que revisaban las soldaduras, la configuración del sistema que detecta las roturas y el tiempo que tardaron en llegar al Alvia los servicios de rescate",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-04-09/adamuz-guardia-civil-tumba-version-puente-fallos-graves-adif_4334460/",
+      "scraped_at": "2026-04-09T07:53:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Cuánto hemos pagado de más por un coche? La Justicia dice que un 5%, un estudio que el 9,3",
-      "subtitle": "El ‘paper’ sitúa el sobreprecio en torno al 9,3% pese a no cubrir los últimos años del cártel fijado por la CNMC",
-      "url": "https://www.elconfidencial.com/juridico/2026-04-08/cuanto-pagado-mas-coche-justicia_4333828/",
-      "scraped_at": "2026-04-08T07:51:37Z"
+      "title": "¿Cuándo volverá el petróleo a precios precrisis? El mejor escenario apunta a 2027",
+      "subtitle": "Si la guerra termina en abril, los precios podrían volver a los niveles de febrero en los dos últimos meses del próximo año. La producción se recuperaría antes, en otoño de 2026, y el consumo aún estaría a tiempo de no desplomarse",
+      "url": "https://www.elconfidencial.com/economia/2026-04-09/precios-petroleo-precrisis-mejor-escenario-2027_4334527/",
+      "scraped_at": "2026-04-09T07:53:18Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Horario Al Cielo con Ella",
+      "title": "¿Vulneró Sánchez 4 normas al adelantar las afiliaciones en su vídeo con la elástica de España?",
+      "subtitle": "La oposición cree que pudo infringir el deber de secreto o de difusión imparcial, por lo que pide que se abra un expediente para dilucidar &quot;posibles responsabilidades administrativas&quot; del presidente del Gobierno",
+      "url": "https://www.elconfidencial.com/espana/2026-04-09/sanchez-vulneracion-normas-adelantar-afiliaciones-video-camiseta-de-espana_4334565/",
+      "scraped_at": "2026-04-09T07:53:19Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "'Al cielo con ella': horario y dónde ver en TV el 'late show' de Henar Álvarez que contará con Shakira como gran invitada",
       "subtitle": "La cantante colombiana concederá su primera entrevista en televisión nacional, en plena gira internacional &#039;Las Mujeres Ya No Lloran World Tour&#039;",
       "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-07/al-cielo-con-ella-tve1-horario-donde-ver-shakira-1qrt_4333761/",
-      "scraped_at": "2026-04-08T07:51:37Z"
+      "scraped_at": "2026-04-09T07:53:19Z"
     }
   ]
 }
