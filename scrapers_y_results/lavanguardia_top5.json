@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Israel se ceba en Líbano y pone en entredicho la débil tregua entre Estados Unidos e Irán: Las dos versiones sobre el alto el fuego, así como sus planes de paz, distan sobre la reapertura de Ormuz y el enriquecimiento de uranio; España reabrirá de forma inmediata su embajada en Teherán que cerró en marzo por la guerra: El ministro toma la decisión ante el paréntesis de dos semanas de alto el fuego que han acordado Estados Unidos e Irán; Los mercados quieren paz: No se ha desatado el apocalipsis en Irán. Las amenazantes palabras de Donald Trump de hacer desaparecer la civilización persa de la faz de la tierra quedarán como otra bravuconería más del presidente americano y dará más argumentos a todos aquellos que ponen en duda su. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-09T07:53:16Z",
+  "summary": "Resumen del día en La Vanguardia: El FMI rebaja expectativas y advierte que hay que “prepararse para lo peor”: La directora gerente del Fondo Monetario Internacional señala que la guerra ha dado un vuelco completo a las previsiones y que los bancos centrales han de estar listos para subir los tipos de interés y domar la inflación; Rutte dice que los aliados de la OTAN cumplen con Trump “casi sin excepción”: El secretario general de la alianza afirma que comprende la amenaza de Trump de anexionar Groenlandia y comparte su preocupación de que “los rusos y los chinos se involucren más en el Ártico”; Trump, el gran perdedor: El conflicto ha frustrado los objetivos bélicos del presidente de EE.UU. y ha dejado al descubierto la superficialidad de su forma de ejercer el poder. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-10T07:57:46Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Israel se ceba en Líbano y pone en entredicho la débil tregua entre Estados Unidos e Irán",
-      "subtitle": "Las dos versiones sobre el alto el fuego, así como sus planes de paz, distan sobre la reapertura de Ormuz y el enriquecimiento de uranio",
-      "url": "https://www.lavanguardia.com/internacional/20260409/11508915/ee-uu-e-iran-claman-victoria-aceptar-fragil-tregua-dos-semanas.html",
-      "scraped_at": "2026-04-09T07:53:14Z"
+      "title": "El FMI rebaja expectativas y advierte que hay que “prepararse para lo peor”",
+      "subtitle": "La directora gerente del Fondo Monetario Internacional señala que la guerra ha dado un vuelco completo a las previsiones y que los bancos centrales han de estar listos para subir los tipos de interés y domar la inflación",
+      "url": "https://www.lavanguardia.com/economia/20260409/11509530/fmi-rebaja-perspectiva-economica-global-georgieva-avisa-prepararse-peor.html",
+      "scraped_at": "2026-04-10T07:57:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España reabrirá de forma inmediata su embajada en Teherán que cerró en marzo por la guerra",
-      "subtitle": "El ministro toma la decisión ante el paréntesis de dos semanas de alto el fuego que han acordado Estados Unidos e Irán",
-      "url": "https://www.lavanguardia.com/politica/20260409/11509197/espana-reabrira-forma-inmediata-embajada-teheran-cerro-marzo-guerra.html",
-      "scraped_at": "2026-04-09T07:53:15Z"
+      "title": "Rutte dice que los aliados de la OTAN cumplen con Trump “casi sin excepción”",
+      "subtitle": "El secretario general de la alianza afirma que comprende la amenaza de Trump de anexionar Groenlandia y comparte su preocupación de que “los rusos y los chinos se involucren más en el Ártico”",
+      "url": "https://www.lavanguardia.com/internacional/20260409/11509820/rutte-dice-aliados-otan-cumplen-exigencias-trump-excepcion.html",
+      "scraped_at": "2026-04-10T07:57:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los mercados quieren paz",
-      "subtitle": "No se ha desatado el apocalipsis en Irán. Las amenazantes palabras de Donald Trump de hacer desaparecer la civilización persa de la faz de la tierra quedarán como otra bravuconería más del presidente americano y dará más argumentos a todos aquellos que ponen en duda su",
-      "url": "https://www.lavanguardia.com/opinion/20260409/11508905/mercados-quieren-paz.html",
-      "scraped_at": "2026-04-09T07:53:16Z"
+      "title": "Trump, el gran perdedor",
+      "subtitle": "El conflicto ha frustrado los objetivos bélicos del presidente de EE.UU. y ha dejado al descubierto la superficialidad de su forma de ejercer el poder",
+      "url": "https://www.lavanguardia.com/internacional/20260410/11509712/guerra-iran-ee-uu-trump.html",
+      "scraped_at": "2026-04-10T07:57:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "“No creo que se haya acabado la guerra, ni me importa, mi vida es miserable”",
-      "subtitle": "Teherán proclama su triunfo pero los ciudadanos como Zoreh, cuya casa fue destruida hace dos días por un misil iraní que cayó sobre una sinagoga, dudan que el cese al fuego perdure",
-      "url": "https://www.lavanguardia.com/internacional/20260409/11508888/creo-haya-acabado-guerra-me-importa-mi-vida-miserable.html",
-      "scraped_at": "2026-04-09T07:53:16Z"
+      "title": "‘The fucking wing’",
+      "subtitle": "Aaron Sorkin nunca pensó al producir El ala oeste de la Casa Blanca ( The west wing ) que, veinte años después de que finalizara su famosa serie, volvería a verla en las pantallas. Aunque ahora rebautizada y con guión de temática casi slasher . Se lo debemos a Donald Trump,",
+      "url": "https://www.lavanguardia.com/internacional/20260410/11509775/the-fucking-wing.html",
+      "scraped_at": "2026-04-10T07:57:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "ETS: “Decidimos que nuestra música no fuera panfletaria y sí más poética”",
-      "subtitle": "En Tol Sarmiento, la banda más popular de la música en euskera, llenará el Sant Jordi y el Movistar Arena",
-      "url": "https://www.lavanguardia.com/cultura/20260409/11505088/ets-decidimos-nuestra-musica-fuera-panfletaria-mas-poetica.html",
-      "scraped_at": "2026-04-09T07:53:16Z"
+      "title": "Cultura|S",
+      "subtitle": "Últimas noticias, actualidad, participación, servicios, entretenimiento y última hora en Catalunya, España y el mundo - SEC LaVanguardia.com",
+      "url": "https://www.lavanguardia.com/cultura/culturas",
+      "scraped_at": "2026-04-10T07:57:46Z"
     }
   ]
 }

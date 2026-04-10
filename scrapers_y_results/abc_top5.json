@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El informe de la soldadura de Adamuz fue revisado por un trabajador sin titulación: Adif detectó dos meses antes del accidente graves baches en el punto kilométrico donde se produjo la tragedia en la que murieron 46 personas; El PSOE y sus socios niegan a las víctimas de ETA la protección que tienen las del franquismo: Votan en contra de multar los homenajes y exaltaciones de la banda terrorista cuando no lleguen a delito penal; Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra con Irán: La Casa Blanca analiza movimientos de tropas e incluso el cierre de una base en Europa, en plena crisis con varios aliados por su falta de apoyo a la operación militar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-09T07:53:13Z",
+  "summary": "Resumen del día en ABC.es: El juicio de Ábalos confirma a Ferraz como centro de pagos e ingresos en dinero negro: La empresaria Carmen Pano insiste en que llevó 90.000 euros en efectivo a la sede central del PSOE y su chófer lo confirma: «Había tacos de billetes»; Nuevas declaraciones vinculan a Ábalos con el polémico rescate de Air Europa: La exnovia de Víctor de Aldama declara en el Supremo que el propietario de la aerolínea entregó 500.000 euros al empresario y al asesor del exministro; Bolsas de billetes para el PSOE no, que me enamoro: La bolsa con fajos de dinero es la cima simbólica del ritual de la corrupción, la transfiguración del trinque. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-10T07:57:42Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El informe de la soldadura de Adamuz fue revisado por un trabajador sin titulación",
-      "subtitle": "Adif detectó dos meses antes del accidente graves baches en el punto kilométrico donde se produjo la tragedia en la que murieron 46 personas",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/informe-soldaduras-adamuz-revisado-trabajador-titulacion-20260409040119-nts.html",
-      "scraped_at": "2026-04-09T07:53:12Z"
+      "title": "El juicio de Ábalos confirma a Ferraz como centro de pagos e ingresos en dinero negro",
+      "subtitle": "La empresaria Carmen Pano insiste en que llevó 90.000 euros en efectivo a la sede central del PSOE y su chófer lo confirma: «Había tacos de billetes»",
+      "url": "https://www.abc.es/espana/juicio-abalos-coloca-ferraz-centro-pagos-ingresos-20260410041630-nt.html",
+      "scraped_at": "2026-04-10T07:57:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE y sus socios niegan a las víctimas de ETA la protección que tienen las del franquismo",
-      "subtitle": "Votan en contra de multar los homenajes y exaltaciones de la banda terrorista cuando no lleguen a delito penal",
-      "url": "https://www.abc.es/espana/psoe-niega-perseguir-homenajes-etarras-ruido-20260409040139-nt.html",
-      "scraped_at": "2026-04-09T07:53:13Z"
+      "title": "Nuevas declaraciones vinculan a Ábalos con el polémico rescate de Air Europa",
+      "subtitle": "La exnovia de Víctor de Aldama declara en el Supremo que el propietario de la aerolínea entregó 500.000 euros al empresario y al asesor del exministro",
+      "url": "https://www.abc.es/espana/nuevas-declaraciones-vinculan-abalos-polemico-rescate-air-20260410041647-nt.html",
+      "scraped_at": "2026-04-10T07:57:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra con Irán",
-      "subtitle": "La Casa Blanca analiza movimientos de tropas e incluso el cierre de una base en Europa, en plena crisis con varios aliados por su falta de apoyo a la operación militar",
-      "url": "https://www.abc.es/internacional/trump-amenaza-otan-estudia-castigar-espana-alemania-20260408225850-nt.html",
-      "scraped_at": "2026-04-09T07:53:13Z"
+      "title": "Bolsas de billetes para el PSOE no, que me enamoro",
+      "subtitle": "La bolsa con fajos de dinero es la cima simbólica del ritual de la corrupción, la transfiguración del trinque",
+      "url": "https://www.abc.es/opinion/chapu-apaolaza-bolsas-billetes-psoe-enamoro-20260409234714-nt.html",
+      "scraped_at": "2026-04-10T07:57:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Familiares de los militares españoles en el Líbano: «Fueron a una misión de paz y están en medio de la guerra»",
-      "subtitle": "Piden que los efectivos sean evacuados por seguridad mientras Israel intensifica su ofensiva sobre el país",
-      "url": "https://www.abc.es/espana/familiares-militares-libano-explotan-mision-paz-medio-20260409040131-nt.html",
-      "scraped_at": "2026-04-09T07:53:13Z"
+      "title": "El mal español",
+      "subtitle": "Yendo al Tribunal Supremo (cuesta salir), me gustaría saber qué libros de trenes leía Claudia Montes",
+      "url": "https://www.abc.es/opinion/rosa-belmonte-mal-espanol-20260409130119-nt.html",
+      "scraped_at": "2026-04-10T07:57:42Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-09T07:53:13Z"
+      "scraped_at": "2026-04-10T07:57:42Z"
     }
   ]
 }
