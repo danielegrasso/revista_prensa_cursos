@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump acusa a Irán de incumplir el acuerdo sobre Ormuz antes de la negociación en Pakistán: La tregua permanece en vilo, pendiente de la prometida reapertura del estrecho de Ormuz, de la ofensiva de Israel en Líbano, las amenazas de Trump y de la confusión sobre los contenidos a negociar por ambas partes; En una guerra sin vencedores, Netanyahu parece el gran perdedor: Con el frágil alto el fuego, el conflicto ha resultado ser un \"desastre político\" para el primer ministro israelí, según sus rivales políticos y analistas de defensa en Israel; Trump estalla contra los referentes MAGA que le llamaron “lunático genocida” por sus amenazas a Irán: “Son gente estúpida”: El presidente de EEUU insulta a Tucker Carlson, Megyn Kelly, Candace Evans y Alex Jones. \"Hay que invocar la enmienda 25. Es un genocida lunático. Nuestro Congreso y el Ejército tienen que intervenir. Va más allá de la locura\", dijo Evans. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-10T07:57:40Z",
+  "summary": "Resumen del día en elDiario.es: Trump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra: El presidente de EEUU no oculta su frustración por el desarrollo de una guerra que le puesto fuera de sí en los últimos días mientras se aplica un frágil alto el fuego destinado a negociar una paz para resolver problemas globales causados por los bombardeos; EEUU e Irán llegan a las negociaciones en Pakistán entre acusaciones de violar el acuerdo y con demandas alejadas: Las dos partes se acusan mutuamente de incumplir el acuerdo de alto el fuego y la desconfianza entre ambos es elevada a pocas horas del comienzo de las conversaciones en Islamabad. La continuación de los ataques israelíes contra Líbano ha tensado los días previos a esta reunión crucial; El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención de un militar español en Líbano: Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coacciones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-11T07:15:30Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump acusa a Irán de incumplir el acuerdo sobre Ormuz antes de la negociación en Pakistán",
+      "title": "Trump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra",
+      "subtitle": "El presidente de EEUU no oculta su frustración por el desarrollo de una guerra que le puesto fuera de sí en los últimos días mientras se aplica un frágil alto el fuego destinado a negociar una paz para resolver problemas globales causados por los bombardeos",
+      "url": "https://www.eldiario.es/internacional/trump-busca-desesperada-salida-iran-sembrar-caos-rastro-objetivos-justifico-guerra_1_13132060.html",
+      "scraped_at": "2026-04-11T07:15:28Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU e Irán llegan a las negociaciones en Pakistán entre acusaciones de violar el acuerdo y con demandas alejadas",
+      "subtitle": "Las dos partes se acusan mutuamente de incumplir el acuerdo de alto el fuego y la desconfianza entre ambos es elevada a pocas horas del comienzo de las conversaciones en Islamabad. La continuación de los ataques israelíes contra Líbano ha tensado los días previos a esta reunión crucial",
+      "url": "https://www.eldiario.es/internacional/eeuu-e-iran-llegan-negociaciones-pakistan-acusaciones-violar-acuerdo-demandas-alejadas_1_13134282.html",
+      "scraped_at": "2026-04-11T07:15:29Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención de un militar español en Líbano",
+      "subtitle": "Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coacciones",
+      "url": "https://www.eldiario.es/politica/partido-iustitia-europa-denuncia-netanyahu-audiencia-nacional-detencion-militar-espanol-libano_1_13134679.html",
+      "scraped_at": "2026-04-11T07:15:29Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los cuatro astronautas de la misión Artemisa II vuelven a la Tierra tras su vuelo a la Luna",
+      "subtitle": "Tras diez días de vuelo, Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen han puesto la primera piedra de un programa con el que la NASA persigue llevar a sus astronautas a la Luna antes de que lo hagan los chinos",
+      "url": "https://www.eldiario.es/sociedad/artemisa-cuatro-astronautas-mision-regresan-tierra_1_13132403.html",
+      "scraped_at": "2026-04-11T07:15:30Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel Líbano",
       "subtitle": "La tregua permanece en vilo, pendiente de la prometida reapertura del estrecho de Ormuz, de la ofensiva de Israel en Líbano, las amenazas de Trump y de la confusión sobre los contenidos a negociar por ambas partes",
       "url": "https://www.eldiario.es/internacional/eeuu-e-iran-preparan-negociar-pakistan-salvar-tregua-e-israel-abre-dialogar-libano_1_13131178.html",
-      "scraped_at": "2026-04-10T07:57:38Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "En una guerra sin vencedores, Netanyahu parece el gran perdedor",
-      "subtitle": "Con el frágil alto el fuego, el conflicto ha resultado ser un \"desastre político\" para el primer ministro israelí, según sus rivales políticos y analistas de defensa en Israel",
-      "url": "https://www.eldiario.es/internacional/theguardian/guerra-vencedores-netanyahu-parece-gran-perdedor_129_13130212.html",
-      "scraped_at": "2026-04-10T07:57:38Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump estalla contra los referentes MAGA que le llamaron “lunático genocida” por sus amenazas a Irán: “Son gente estúpida”",
-      "subtitle": "El presidente de EEUU insulta a Tucker Carlson, Megyn Kelly, Candace Evans y Alex Jones. \"Hay que invocar la enmienda 25. Es un genocida lunático. Nuestro Congreso y el Ejército tienen que intervenir. Va más allá de la locura\", dijo Evans",
-      "url": "https://www.eldiario.es/internacional/trump-estalla-referentes-maga-pidieron-cese-le-acusaron-lunatico-genocida-amenazas-iran_1_13131996.html",
-      "scraped_at": "2026-04-10T07:57:39Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Viaje al “Palacio de Versalles” secreto de los Orbán y su aldea natal: “Es el gran símbolo de la corrupción del régimen”",
-      "subtitle": "El pueblo en el que se crio el primer ministro húngaro se ha convertido para muchos en símbolo de su corrupción: un estadio desproporcionado, un palacio secreto, un club de golf de lujo, animales exóticos y la alargada sombra de su amigo, el hombre más rico del país y exalcalde del municipio",
-      "url": "https://www.eldiario.es/internacional/viaje-palacio-versalles-secreto-orban-aldea-natal-gran-simbolo-corrupcion-regimen_1_13130292.html",
-      "scraped_at": "2026-04-10T07:57:40Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Españoles Cannes",
-      "subtitle": "Desde la creación de la Palma de Oro en 1955 nunca había habido tantas películas españolas en competición. Mungiu, Hamaguchi y Farhadi destacan entre sus rivales por el premio más prestigioso del mundo cinéfilo",
-      "url": "https://www.eldiario.es/cultura/cine/cine-espanol-historia-cannes-almodovar-sorogoyen-javis-competiran-palma-oro_1_13129266.html",
-      "scraped_at": "2026-04-10T07:57:40Z"
+      "scraped_at": "2026-04-11T07:15:30Z"
     }
   ]
 }
