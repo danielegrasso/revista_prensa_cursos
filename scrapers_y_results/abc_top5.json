@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Consejo de Estado arremete contra el plan de inmigración del Gobierno: El órgano consultivo lanza advertencias con el foco puesto en los antecedentes penales, los criterios sobre la vulnerabilidad y errores de técnica normativa; Perplejidad en la Armada por el relevo 'clandestino' de la fragata Cristóbal Colón: Ha sido sustituida en Chile por la Méndez Núñez tras una misión de máxima tensión con alertas de misiles; Irán y EE.UU. negocian el fin de la guerra mientras Ormuz sigue casi cerrado: Antes de sentarse este sábado, los iraníes exigieron extender el alto el fuego a Líbano, a lo que se opone Israel, y liberar sus activos congelados, unos 6.000 millones de euros. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-11T07:15:32Z",
+  "summary": "Resumen del día en ABC.es: Mariano Barbacid: «El CNIO es como el caso de Jésica: se dice que hay contratar a estos y se hace»: El referente científico y mundial del Centro Nacional de Investigaciones Oncológicas repasa la situación en el organismo, señalado por la corrupción y los escándalos y apunta a los culpables; La España pluriempleada ha vuelto con Sánchez: El auge del pluriempleo y la erosión de las rentas desmontan el triunfalismo del Gobierno sobre el récord de afiliaciones; La gran fractura del cava: deserciones, sequía y lucha por el modelo del espumoso español: La salida de bodegas históricas hacia el sello prémium Corpinnat, la caída de ventas y la reorganización empresarial marcan uno de los momentos más convulsos del sector. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-12T07:42:53Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Consejo de Estado arremete contra el plan de inmigración del Gobierno",
-      "subtitle": "El órgano consultivo lanza advertencias con el foco puesto en los antecedentes penales, los criterios sobre la vulnerabilidad y errores de técnica normativa",
-      "url": "https://www.abc.es/espana/consejo-estado-emite-demoledor-informe-sobre-regularizacion-20260411040231-nt.html",
-      "scraped_at": "2026-04-11T07:15:31Z"
+      "title": "Mariano Barbacid: «El CNIO es como el caso de Jésica: se dice que hay contratar a estos y se hace»",
+      "subtitle": "El referente científico y mundial del Centro Nacional de Investigaciones Oncológicas repasa la situación en el organismo, señalado por la corrupción y los escándalos y apunta a los culpables",
+      "url": "https://www.abc.es/espana/mariano-barbacid-cnio-jesica-dice-contratar-contrata-20260412040336-nt.html",
+      "scraped_at": "2026-04-12T07:42:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "Perplejidad en la Armada por el relevo 'clandestino' de la fragata Cristóbal Colón",
-      "subtitle": "Ha sido sustituida en Chile por la Méndez Núñez tras una misión de máxima tensión con alertas de misiles",
-      "url": "https://www.abc.es/espana/ningun-alto-mando-defensa-recibio-fragata-cristobal-20260411040243-nt.html",
-      "scraped_at": "2026-04-11T07:15:32Z"
+      "title": "La España pluriempleada ha vuelto con Sánchez",
+      "subtitle": "El auge del pluriempleo y la erosión de las rentas desmontan el triunfalismo del Gobierno sobre el récord de afiliaciones",
+      "url": "https://www.abc.es/opinion/editorial-espana-pluriempleada-vuelto-sanchez-20260412041356-nt.html",
+      "scraped_at": "2026-04-12T07:42:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "Irán y EE.UU. negocian el fin de la guerra mientras Ormuz sigue casi cerrado",
-      "subtitle": "Antes de sentarse este sábado, los iraníes exigieron extender el alto el fuego a Líbano, a lo que se opone Israel, y liberar sus activos congelados, unos 6.000 millones de euros",
-      "url": "https://www.abc.es/internacional/horas-previas-inicio-negociacion-20260410195615-nt.html",
-      "scraped_at": "2026-04-11T07:15:32Z"
+      "title": "La gran fractura del cava: deserciones, sequía y lucha por el modelo del espumoso español",
+      "subtitle": "La salida de bodegas históricas hacia el sello prémium Corpinnat, la caída de ventas y la reorganización empresarial marcan uno de los momentos más convulsos del sector",
+      "url": "https://www.abc.es/espana/cataluna/gran-fractura-cava-deserciones-sequia-lucha-modelo-20260412041046-nt.html",
+      "scraped_at": "2026-04-12T07:42:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "La guerra arancelaria deja una caja récord de 3.000 millones en las aduanas",
-      "subtitle": "Los cobros por derechos de exportación en los puertos domésticos de acceso se incrementan un 13% en un contexto de repunte de la tarifas impuestas por la UE",
-      "url": "https://www.abc.es/economia/primer-ano-guerra-arancelaria-deja-caja-record-20260411032449-nt.html",
-      "scraped_at": "2026-04-11T07:15:32Z"
+      "title": "EE.UU. e Irán se marchan de las negociaciones sin un acuerdo debido a las «exigencias excesivas»",
+      "subtitle": "El vicepresidente estadounidense ha señalado que el encuentro ha terminado con la presentación de lo que Washington describe como su «oferta final»",
+      "url": "https://www.abc.es/internacional/eeuu-marcha-conversaciones-paz-iran-tras-haber-20260412042853-nt.html",
+      "scraped_at": "2026-04-12T07:42:53Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-11T07:15:32Z"
+      "scraped_at": "2026-04-12T07:42:53Z"
     }
   ]
 }

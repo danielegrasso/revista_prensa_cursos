@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Trump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra: El presidente de EEUU no oculta su frustración por el desarrollo de una guerra que le puesto fuera de sí en los últimos días mientras se aplica un frágil alto el fuego destinado a negociar una paz para resolver problemas globales causados por los bombardeos; EEUU e Irán llegan a las negociaciones en Pakistán entre acusaciones de violar el acuerdo y con demandas alejadas: Las dos partes se acusan mutuamente de incumplir el acuerdo de alto el fuego y la desconfianza entre ambos es elevada a pocas horas del comienzo de las conversaciones en Islamabad. La continuación de los ataques israelíes contra Líbano ha tensado los días previos a esta reunión crucial; El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención de un militar español en Líbano: Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coacciones. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-11T07:15:30Z",
+  "summary": "Resumen del día en elDiario.es: EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta final. Veremos si los iraníes lo aceptan”: El vicepresidente estadounidense asegura que Teherán ha rechazado aceptar los términos que se le han presentado, incluido el compromiso de desarrollar armas nucleares; José Manuel Albares: “Hemos evitado una escalada de consecuencias inasumibles, pero estamos muy lejos de la paz”: El ministro de Exteriores llama a la UE a dar pasos hacia su \"independencia\" militar ante la deriva de la OTAN de seguidismo a Estados Unidos y justifica la búsqueda de nuevos socios comerciales por la deriva de la adminitración norteamericana: \"También hay que mirar hacia China\"; El plan fallido de Trump en Irán: 'Momento Suez 1956' en el estrecho de Ormuz 2026: Hasta ahora Irán ha resistido militarmente, EEUU no ha logrado el visto bueno en la ONU a una intervención en el estrecho de Ormuz, ha perdido capacidad disuasoria y China logra un papel en las negociaciones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-12T07:42:50Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Trump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastro de los objetivos con los que justificó la guerra",
-      "subtitle": "El presidente de EEUU no oculta su frustración por el desarrollo de una guerra que le puesto fuera de sí en los últimos días mientras se aplica un frágil alto el fuego destinado a negociar una paz para resolver problemas globales causados por los bombardeos",
-      "url": "https://www.eldiario.es/internacional/trump-busca-desesperada-salida-iran-sembrar-caos-rastro-objetivos-justifico-guerra_1_13132060.html",
-      "scraped_at": "2026-04-11T07:15:28Z"
+      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta final. Veremos si los iraníes lo aceptan”",
+      "subtitle": "El vicepresidente estadounidense asegura que Teherán ha rechazado aceptar los términos que se le han presentado, incluido el compromiso de desarrollar armas nucleares",
+      "url": "https://www.eldiario.es/internacional/eeuu-abandona-islamabad-llegar-acuerdo-iran-oferta-final-veremos-si-iranies-aceptan_1_13136280.html",
+      "scraped_at": "2026-04-12T07:42:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU e Irán llegan a las negociaciones en Pakistán entre acusaciones de violar el acuerdo y con demandas alejadas",
-      "subtitle": "Las dos partes se acusan mutuamente de incumplir el acuerdo de alto el fuego y la desconfianza entre ambos es elevada a pocas horas del comienzo de las conversaciones en Islamabad. La continuación de los ataques israelíes contra Líbano ha tensado los días previos a esta reunión crucial",
-      "url": "https://www.eldiario.es/internacional/eeuu-e-iran-llegan-negociaciones-pakistan-acusaciones-violar-acuerdo-demandas-alejadas_1_13134282.html",
-      "scraped_at": "2026-04-11T07:15:29Z"
+      "title": "José Manuel Albares: “Hemos evitado una escalada de consecuencias inasumibles, pero estamos muy lejos de la paz”",
+      "subtitle": "El ministro de Exteriores llama a la UE a dar pasos hacia su \"independencia\" militar ante la deriva de la OTAN de seguidismo a Estados Unidos y justifica la búsqueda de nuevos socios comerciales por la deriva de la adminitración norteamericana: \"También hay que mirar hacia China\"",
+      "url": "https://www.eldiario.es/politica/jose-manuel-albares-hemos-evitado-escalada-consecuencias-inasumibles-lejos-paz_1_13133981.html",
+      "scraped_at": "2026-04-12T07:42:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención de un militar español en Líbano",
-      "subtitle": "Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de conflicto armado, detención ilegal y coacciones",
-      "url": "https://www.eldiario.es/politica/partido-iustitia-europa-denuncia-netanyahu-audiencia-nacional-detencion-militar-espanol-libano_1_13134679.html",
-      "scraped_at": "2026-04-11T07:15:29Z"
+      "title": "El plan fallido de Trump en Irán: 'Momento Suez 1956' en el estrecho de Ormuz 2026",
+      "subtitle": "Hasta ahora Irán ha resistido militarmente, EEUU no ha logrado el visto bueno en la ONU a una intervención en el estrecho de Ormuz, ha perdido capacidad disuasoria y China logra un papel en las negociaciones",
+      "url": "https://www.eldiario.es/internacional/plan-fallido-trump-iran-momento-suez-1956-estrecho-ormuz-2026_129_13135372.html",
+      "scraped_at": "2026-04-12T07:42:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Los cuatro astronautas de la misión Artemisa II vuelven a la Tierra tras su vuelo a la Luna",
-      "subtitle": "Tras diez días de vuelo, Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen han puesto la primera piedra de un programa con el que la NASA persigue llevar a sus astronautas a la Luna antes de que lo hagan los chinos",
-      "url": "https://www.eldiario.es/sociedad/artemisa-cuatro-astronautas-mision-regresan-tierra_1_13132403.html",
-      "scraped_at": "2026-04-11T07:15:30Z"
+      "title": "La frágil tregua en Irán prolonga el colapso energético y la espiral inflacionista global por el cierre de Ormuz",
+      "subtitle": "El frágil alto el fuego apenas han alejado las dudas que se ciernen sobre la economía global ni apaciguado el fantasma de la estanflación: el mundo sigue expuesto a un shock energético que se ha propagado especialmente por Asia, amenaza a Europa y atenaza las estrategias monetarias de los bancos centrales",
+      "url": "https://www.eldiario.es/economia/fragil-tregua-iran-prolonga-colapso-energetico-espiral-inflacionista-global-cierre-ormuz_1_13132902.html",
+      "scraped_at": "2026-04-12T07:42:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Israel Líbano",
-      "subtitle": "La tregua permanece en vilo, pendiente de la prometida reapertura del estrecho de Ormuz, de la ofensiva de Israel en Líbano, las amenazas de Trump y de la confusión sobre los contenidos a negociar por ambas partes",
-      "url": "https://www.eldiario.es/internacional/eeuu-e-iran-preparan-negociar-pakistan-salvar-tregua-e-israel-abre-dialogar-libano_1_13131178.html",
-      "scraped_at": "2026-04-11T07:15:30Z"
+      "title": "Elecciones Hungría",
+      "subtitle": "Las encuestas dan al líder opositor, Péter Magyar, una ventaja de 10 puntos respecto a Viktor Orbán, que puede ver terminado su mandato tras 16 años de erosión democrática",
+      "url": "https://www.eldiario.es/internacional/hungria-acude-urnas-bruselas-contiene-respiracion-orban-juega-futuro-elecciones-cruciales_1_13135961.html",
+      "scraped_at": "2026-04-12T07:42:50Z"
     }
   ]
 }

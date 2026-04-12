@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: La riqueza financiera crece como en la burbuja inmobiliaria, pero algunos hogares sólo cancelan deudas: El patrimonio financiero aumentó en 261.000 millones en 2025. La ola de subidas en el mercado fue muy rentable para quienes pudieron surfearla, pero quienes no tenían inversiones se han visto &#039;engullidos&#039;; Qué pasa en Teruel para que sea imposible encontrar piso: \"Casi duermo en el coche\": El mercado en Teruel ha dejado de funcionar. La población ha crecido, los propietarios solo quieren alquilar a funcionarios o estudiantes, y en Idealista hay apenas diez anuncios; El asesinato del niño David en Villanueva: una foto de familia rota y un arma desaparecida: El autor del crimen es un joven de 22 años al que le atribuyen un trastorno mental al que detuvieron hora después: &quot;Se acercaba a los niños y se enfadaba si no jugaban&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-11T07:15:37Z",
+  "summary": "Resumen del día en El Confidencial: Alcaldes socialistas presionan a Moncloa: \"Dile a Pedro que convoque antes de las municipales\": En el Gobierno niegan que los candidatos locales y autonómicos tengan &quot;más tirón que Sánchez, salvo Abel Caballero y tres o cuatro más&quot;. Insisten en que se agotará legislatura, pero no desvelan si convocará antes, a la vez o después del 23M; Cómo el \"norte\" de España se está convirtiendo en el nuevo Benidorm: Fresquito, paisajitos y comidita. El Norte como todo artificial que engloba lo que hay entre la N-1 y la N-6 está de moda, y poco a poco, se está convirtiendo en otra zona turística más; Carlos Maldonado: El chef, ganador de MasterChef 2015, firma así una colaboración inédita que acerca su creatividad a un formato accesible y de gran popularidad. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-12T07:42:58Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La riqueza financiera crece como en la burbuja inmobiliaria, pero algunos hogares sólo cancelan deudas",
-      "subtitle": "El patrimonio financiero aumentó en 261.000 millones en 2025. La ola de subidas en el mercado fue muy rentable para quienes pudieron surfearla, pero quienes no tenían inversiones se han visto &#039;engullidos&#039;",
-      "url": "https://www.elconfidencial.com/economia/2026-04-11/riqueza-financiera-hogares-deudas-vivienda_4336140/",
-      "scraped_at": "2026-04-11T07:15:35Z"
+      "title": "Alcaldes socialistas presionan a Moncloa: \"Dile a Pedro que convoque antes de las municipales\"",
+      "subtitle": "En el Gobierno niegan que los candidatos locales y autonómicos tengan &quot;más tirón que Sánchez, salvo Abel Caballero y tres o cuatro más&quot;. Insisten en que se agotará legislatura, pero no desvelan si convocará antes, a la vez o después del 23M",
+      "url": "https://www.elconfidencial.com/espana/2026-04-12/alcaldes-socialistas-presionan-a-moncloa_4336424/",
+      "scraped_at": "2026-04-12T07:42:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Qué pasa en Teruel para que sea imposible encontrar piso: \"Casi duermo en el coche\"",
-      "subtitle": "El mercado en Teruel ha dejado de funcionar. La población ha crecido, los propietarios solo quieren alquilar a funcionarios o estudiantes, y en Idealista hay apenas diez anuncios",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-04-11/problemas-alquiler-vivienda-teruel_4336091/",
-      "scraped_at": "2026-04-11T07:15:36Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El asesinato del niño David en Villanueva: una foto de familia rota y un arma desaparecida",
-      "subtitle": "El autor del crimen es un joven de 22 años al que le atribuyen un trastorno mental al que detuvieron hora después: &quot;Se acercaba a los niños y se enfadaba si no jugaban&quot;",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-04-11/asesinato-nino-david-villanueva-arma-desaparecida-una-foto-familia-rota_4336243/",
-      "scraped_at": "2026-04-11T07:15:36Z"
+      "title": "Cómo el \"norte\" de España se está convirtiendo en el nuevo Benidorm",
+      "subtitle": "Fresquito, paisajitos y comidita. El Norte como todo artificial que engloba lo que hay entre la N-1 y la N-6 está de moda, y poco a poco, se está convirtiendo en otra zona turística más",
+      "url": "https://www.elconfidencial.com/espana/2026-04-12/como-norte-espana-nuevo-benidorm_4336182/",
+      "scraped_at": "2026-04-12T07:42:57Z"
     },
     {
       "source": "El Confidencial",
       "title": "Carlos Maldonado",
       "subtitle": "El chef, ganador de MasterChef 2015, firma así una colaboración inédita que acerca su creatividad a un formato accesible y de gran popularidad",
       "url": "https://www.elconfidencial.com/espana/madrid/2026-04-10/menu-carlos-maldonado-madrid-asiatico_4335026/",
-      "scraped_at": "2026-04-11T07:15:37Z"
+      "scraped_at": "2026-04-12T07:42:58Z"
     }
   ]
 }

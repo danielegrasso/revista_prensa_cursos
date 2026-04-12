@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Javier Ortega Smith: \"No fundamos Vox para ser un partido donde un señor feudal hace y deshace\": El todavía portavoz del partido en el Ayuntamiento de Madrid, ex secretario general de Vox, se muestra crítico con la deriva del partido que ayudó a lanzar y que ahora le ha expedientado; Los barones del PP sortean el \"pulso\" entre Abascal y Feijóo y aceleran hacia un \"pacto en las tres comunidades\": Guardiola, Azcón y Mañueco prevén acuerdos en cascada al desbloquearse Extremadura; El Partido Socialista da la 'semilibertad' a dos etarras cada mes desde mayo y la Fiscalía alerta de un \"quebranto grave del sistema\": La consejera vasca de Justicia, del PSOE, ha aplicado este régimen a 18 terroristas durante los últimos diez meses. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-04-11T07:15:26Z",
+  "summary": "Resumen del día en El Mundo: Las 72 horas de juicio que arrasaron el discurso con el que Pedro Sánchez llegó al poder: Las tres jornadas de vista oral en el Supremo por el 'caso Koldo' han reflejado un ambiente de corrupción que contradice las proclamas con las que el líder socialista alcanzó el Gobierno; Sin acuerdo tras 21 horas de negociaciones de paz entre EEUU e Irán: Vance afirma que las conversaciones han fracasado por la cuestión nuclear: Teherán atribuye el fracaso a las \"exigencias excesivas\" de Estados Unidos; Así lanza Vox a sus cargos en las redes sociales contra las \"traiciones\" de los críticos: \"Esto nos concierne a todos\": EL MUNDO accede a mensajes de Bambú para coordinar las campañas contra los ex. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-04-12T07:42:46Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Javier Ortega Smith: \"No fundamos Vox para ser un partido donde un señor feudal hace y deshace\"",
-      "subtitle": "El todavía portavoz del partido en el Ayuntamiento de Madrid, ex secretario general de Vox, se muestra crítico con la deriva del partido que ayudó a lanzar y que ahora le ha expedientado",
-      "url": "https://www.elmundo.es/espana/2026/04/10/69d92b4ce85ece914d8b4581.html",
-      "scraped_at": "2026-04-11T07:15:25Z"
+      "title": "Las 72 horas de juicio que arrasaron el discurso con el que Pedro Sánchez llegó al poder",
+      "subtitle": "Las tres jornadas de vista oral en el Supremo por el 'caso Koldo' han reflejado un ambiente de corrupción que contradice las proclamas con las que el líder socialista alcanzó el Gobierno",
+      "url": "https://www.elmundo.es/espana/2026/04/11/69da7776fdddff89628b456f.html",
+      "scraped_at": "2026-04-12T07:42:45Z"
     },
     {
       "source": "El Mundo",
-      "title": "Los barones del PP sortean el \"pulso\" entre Abascal y Feijóo y aceleran hacia un \"pacto en las tres comunidades\"",
-      "subtitle": "Guardiola, Azcón y Mañueco prevén acuerdos en cascada al desbloquearse Extremadura",
-      "url": "https://www.elmundo.es/espana/2026/04/11/69d92d9fe9cf4a7a5d8b458c.html",
-      "scraped_at": "2026-04-11T07:15:26Z"
+      "title": "Sin acuerdo tras 21 horas de negociaciones de paz entre EEUU e Irán: Vance afirma que las conversaciones han fracasado por la cuestión nuclear",
+      "subtitle": "Teherán atribuye el fracaso a las \"exigencias excesivas\" de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2026/04/12/69db0f01fc6c833d7e8b456d.html",
+      "scraped_at": "2026-04-12T07:42:46Z"
     },
     {
       "source": "El Mundo",
-      "title": "El Partido Socialista da la 'semilibertad' a dos etarras cada mes desde mayo y la Fiscalía alerta de un \"quebranto grave del sistema\"",
-      "subtitle": "La consejera vasca de Justicia, del PSOE, ha aplicado este régimen a 18 terroristas durante los últimos diez meses",
-      "url": "https://www.elmundo.es/espana/2026/04/10/69d95d4821efa077108b45a5.html",
-      "scraped_at": "2026-04-11T07:15:26Z"
+      "title": "Así lanza Vox a sus cargos en las redes sociales contra las \"traiciones\" de los críticos: \"Esto nos concierne a todos\"",
+      "subtitle": "EL MUNDO accede a mensajes de Bambú para coordinar las campañas contra los ex",
+      "url": "https://www.elmundo.es/espana/2026/04/11/69da72d9fc6c8345338b4579.html",
+      "scraped_at": "2026-04-12T07:42:46Z"
     },
     {
       "source": "El Mundo",
-      "title": "Los astronautas de Artemis 2 amerizan \"en excelente estado\" tras un vertiginoso descenso: \"Esto es sólo el comienzo\", dice el director de la NASA",
-      "subtitle": "Donald Trump felicita a los astronautas tras completar la primera misión tripulada que va a la Luna desde hace más de medio siglo, y anuncia Marte como la \"próxima parada\"",
-      "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2026/04/10/69d8d11bfdddff8f088b457a.html",
-      "scraped_at": "2026-04-11T07:15:26Z"
+      "title": "La batalla política y cultural entre Aragón y Cataluña por las pinturas que la Generalitat debe devolver por sentencia en el Supremo: \"Las instituciones catalanas siguen reteniendo las obras de Sijena\"",
+      "subtitle": "Tras ganar en los tribunales, Aragón exige la restitución de su patrimonio en la localidad de Huesca. Mientras, el MNAC advierte de que trasladarlas podría causar daños \"irremediables\" por su fragilidad",
+      "url": "https://www.elmundo.es/cronica/2026/04/11/69da0f5be85ece914d8b4591.html",
+      "scraped_at": "2026-04-12T07:42:46Z"
     },
     {
       "source": "El Mundo",
-      "title": "Islamabad",
-      "subtitle": "Delegados de Washington y Teherán se reunirán hoy en la capital paquistaní para intentar desactivar el polvorín de Oriente Próximo",
-      "url": "https://www.elmundo.es/internacional/2026/04/11/69d93caffdddff40778b4572.html",
-      "scraped_at": "2026-04-11T07:15:26Z"
+      "title": "Sánchez China",
+      "subtitle": "Viaja por cuarta vez a China coincidiendo con el juicio a Ábalos y Koldo en el Tribunal Supremo",
+      "url": "https://www.elmundo.es/espana/2026/04/12/69da86bfe85ece5f258b457c.html",
+      "scraped_at": "2026-04-12T07:42:46Z"
     }
   ]
 }
