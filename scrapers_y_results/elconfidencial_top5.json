@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Adiós a Viktor Orbán: el nuevo gobierno obtiene la mayoría necesaria para borrar su legado: El líder de Tisza ha logrado este domingo una victoria histórica y una mayoría parlamentaria que le permite eliminar el sistema de poder creado por Viktor Orbán; Del palomitero de Yoshi a un jarrón viejo: cómo España se enganchó a especular: Cada vez más españoles buscan una vía de ingresos extra y la reventa ha aparecido como una de las formas más socorridas para intentar conseguirlos. Aunque el riesgo es gigante; Un mensaje del exterior (y para el exterior) de 'SV 2026': \"Eres un ejemplo\": Los participantes del &#039;reality&#039; de Telecinco se han enfrentado al dilema más amargo: elegir entre el alimento físico o el emocional, tras mes y medio de aislamiento en Honduras. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-13T08:20:59Z",
+  "summary": "Resumen del día en El Confidencial: China se resiste  a usar los bonos que tiene de EEUU como arma de guerra: La creciente hostilidad verbal de EEUU con China sigue sin tener respuesta contundente por parte de la autoridades chinas. Pekín, por el contrario, continúa sosteniendo al dólar mediante la compra de bonos y otros activos privados; De Vox al PSOE pasando por el PP: el enredo político español causado por la derrota de Orbán: Las elecciones húngaras parecen la prueba del retroceso de las derechas trumpistas. Sin embargo, hay varios elementos en juego, y todos afectan de lleno al escenario político nacional; De concejal del PP a 'reina de la seguridad' en edificios públicos con más de 100 M en contratos: Ariete Seguridad ha sido la adjudicataria de al menos 38 encargos solo en esta legislatura, con acuerdos con la Comunidad de Madrid (su mayor cliente), el CSIC o Hacienda y Transportes. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-14T08:01:44Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Adiós a Viktor Orbán: el nuevo gobierno obtiene la mayoría necesaria para borrar su legado",
-      "subtitle": "El líder de Tisza ha logrado este domingo una victoria histórica y una mayoría parlamentaria que le permite eliminar el sistema de poder creado por Viktor Orbán",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-13/adios-orban-hungria-nuevo-gobierno-obtiene-mayoria-necesaria-para-borrar-legado_4336946/",
-      "scraped_at": "2026-04-13T08:20:58Z"
+      "title": "China se resiste  a usar los bonos que tiene de EEUU como arma de guerra",
+      "subtitle": "La creciente hostilidad verbal de EEUU con China sigue sin tener respuesta contundente por parte de la autoridades chinas. Pekín, por el contrario, continúa sosteniendo al dólar mediante la compra de bonos y otros activos privados",
+      "url": "https://www.elconfidencial.com/economia/2026-04-14/reservas-divisas-china-eeuu-bonos-activos-deuda-publica-tesoro_4337494/",
+      "scraped_at": "2026-04-14T08:01:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Del palomitero de Yoshi a un jarrón viejo: cómo España se enganchó a especular",
-      "subtitle": "Cada vez más españoles buscan una vía de ingresos extra y la reventa ha aparecido como una de las formas más socorridas para intentar conseguirlos. Aunque el riesgo es gigante",
-      "url": "https://www.elconfidencial.com/economia/2026-04-13/especulacion-espana-diario-supervivencia-ingresos-cbtrltrc_4335299/",
-      "scraped_at": "2026-04-13T08:20:59Z"
+      "title": "De Vox al PSOE pasando por el PP: el enredo político español causado por la derrota de Orbán",
+      "subtitle": "Las elecciones húngaras parecen la prueba del retroceso de las derechas trumpistas. Sin embargo, hay varios elementos en juego, y todos afectan de lleno al escenario político nacional",
+      "url": "https://www.elconfidencial.com/espana/2026-04-14/enredo-politica-espana-derrota-orban-vox-psoe-pp_4337472/",
+      "scraped_at": "2026-04-14T08:01:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Un mensaje del exterior (y para el exterior) de 'SV 2026': \"Eres un ejemplo\"",
-      "subtitle": "Los participantes del &#039;reality&#039; de Telecinco se han enfrentado al dilema más amargo: elegir entre el alimento físico o el emocional, tras mes y medio de aislamiento en Honduras",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-13/ejemplo-mujeres-supervivientes-ivonne-mensaje_4336911/",
-      "scraped_at": "2026-04-13T08:20:59Z"
+      "title": "De concejal del PP a 'reina de la seguridad' en edificios públicos con más de 100 M en contratos",
+      "subtitle": "Ariete Seguridad ha sido la adjudicataria de al menos 38 encargos solo en esta legislatura, con acuerdos con la Comunidad de Madrid (su mayor cliente), el CSIC o Hacienda y Transportes",
+      "url": "https://www.elconfidencial.com/espana/2026-04-14/reina-seguridad-edificios-publicos-contratos-exconcejal-pp_4334339/",
+      "scraped_at": "2026-04-14T08:01:44Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El Consejo Europeo pierde a su genio del mal: obituario político de un líder que supo jugar... hasta que no",
+      "subtitle": "Adiós al decano del foro de líderes europeos, una reunión en la que la personalidad y las cualidades individuales de negociación marcan la diferencia. Orbán lo conocía como pocos",
+      "url": "https://www.elconfidencial.com/mundo/2026-04-14/obituario-politico-orban-genio-mal-consejo-europeo_4337303/",
+      "scraped_at": "2026-04-14T08:01:44Z"
     }
   ]
 }
