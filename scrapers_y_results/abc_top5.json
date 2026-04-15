@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Begoña Gómez usó su «condición de esposa de Sánchez» para favorecer sus negocios: El juez cree que desde su llegada a Moncloa se «tomaron decisiones» favorables a la cátedra de su esposa; «Indignación» en el Gobierno con la «vergüenza» de sentarla en el banquillo: En el Ejecutivo cuestionan la inacción del CGPJ con Peinado y califican el procesamiento de «vergüenza»; Escuderos de Lady Begoña: El juez Peinado era el demonio en persona y hacía con la justicia lo mismo que las gacetas del bulo y el fango habían hecho con la verdad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-14T08:01:40Z",
+  "summary": "Resumen del día en ABC.es: Bolaños presiona a Perelló con una cascada de cartas desde que accedió a la presidencia del CGPJ: El órgano se contiene y evita el «cuerpo a cuerpo» con el ministro, pero el hartazgo es evidente: «Es inaceptable»; Moncloa premia con la presidencia de la Aemet al cargo que obvió las mordidas en Forestalia: Promociona como presidente de la Aemet al número dos del Miteco que mantuvo como asesor al ex alto cargo acusado de corrupción; EE.UU. deja en el aire miles de visados de estudiantes: «Vigilan Instagram como si fueran la CIA»: El aumento de las trabas burocráticas y la avalancha de solicitudes podría dejar a unos 5.000 alumnos sin cursar sus estudios al otro lado del Atlántico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-15T08:02:33Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Begoña Gómez usó su «condición de esposa de Sánchez» para favorecer sus negocios",
-      "subtitle": "El juez cree que desde su llegada a Moncloa se «tomaron decisiones» favorables a la cátedra de su esposa",
-      "url": "https://www.abc.es/espana/begona-gomez-uso-condicion-esposa-sanchez-negocios-20260414041649-nt.html",
-      "scraped_at": "2026-04-14T08:01:39Z"
+      "title": "Bolaños presiona a Perelló con una cascada de cartas desde que accedió a la presidencia del CGPJ",
+      "subtitle": "El órgano se contiene y evita el «cuerpo a cuerpo» con el ministro, pero el hartazgo es evidente: «Es inaceptable»",
+      "url": "https://www.abc.es/espana/bolanos-envio-cuatro-cartas-cgpj-presionarlo-20260415041649-nt.html",
+      "scraped_at": "2026-04-15T08:02:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Indignación» en el Gobierno con la «vergüenza» de sentarla en el banquillo",
-      "subtitle": "En el Ejecutivo cuestionan la inacción del CGPJ con Peinado y califican el procesamiento de «vergüenza»",
-      "url": "https://www.abc.es/espana/indignacion-moncloa-espera-tribunal-superior-exonere-begona-20260414041727-nt.html",
-      "scraped_at": "2026-04-14T08:01:39Z"
+      "title": "Moncloa premia con la presidencia de la Aemet al cargo que obvió las mordidas en Forestalia",
+      "subtitle": "Promociona como presidente de la Aemet al número dos del Miteco que mantuvo como asesor al ex alto cargo acusado de corrupción",
+      "url": "https://www.abc.es/espana/moncloa-premia-nuevo-cargo-moran-secretario-estado-20260414041658-nt.html",
+      "scraped_at": "2026-04-15T08:02:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Escuderos de Lady Begoña",
-      "subtitle": "El juez Peinado era el demonio en persona y hacía con la justicia lo mismo que las gacetas del bulo y el fango habían hecho con la verdad",
-      "url": "https://www.abc.es/opinion/juan-soto-ivars-escuderos-lady-begona-20260413154046-nt.html",
-      "scraped_at": "2026-04-14T08:01:39Z"
+      "title": "EE.UU. deja en el aire miles de visados de estudiantes: «Vigilan Instagram como si fueran la CIA»",
+      "subtitle": "El aumento de las trabas burocráticas y la avalancha de solicitudes podría dejar a unos 5.000 alumnos sin cursar sus estudios al otro lado del Atlántico",
+      "url": "https://www.abc.es/sociedad/estados-unidos-deja-aire-visados-miles-estudiantes-20260414041919-nt.html",
+      "scraped_at": "2026-04-15T08:02:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vox usa su cercanía a Meloni para intentar colocar peones en Endesa",
-      "subtitle": "Mientras, Moncloa analiza el ejemplo de nacionalizar la totalidad de la Telefónica italiana con una opa de la compañía estatal de Correos",
-      "url": "https://www.abc.es/economia/efecto-meloni-espana-telecomunicaciones-energia-20260414041739-nt.html",
-      "scraped_at": "2026-04-14T08:01:39Z"
+      "title": "El Gobierno se ofrece a los inmigrantes para agilizar su regularización en los países de origen",
+      "subtitle": "Los que no puedan acreditar la carencia de antecedentes penales tendrán este apoyo adicional",
+      "url": "https://www.abc.es/espana/gobierno-usara-via-diplomatica-inmigrantes-consigan-regularizacion-20260415041628-nt.html",
+      "scraped_at": "2026-04-15T08:02:33Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-14T08:01:40Z"
+      "scraped_at": "2026-04-15T08:02:33Z"
     }
   ]
 }

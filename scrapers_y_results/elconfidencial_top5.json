@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: China se resiste  a usar los bonos que tiene de EEUU como arma de guerra: La creciente hostilidad verbal de EEUU con China sigue sin tener respuesta contundente por parte de la autoridades chinas. Pekín, por el contrario, continúa sosteniendo al dólar mediante la compra de bonos y otros activos privados; De Vox al PSOE pasando por el PP: el enredo político español causado por la derrota de Orbán: Las elecciones húngaras parecen la prueba del retroceso de las derechas trumpistas. Sin embargo, hay varios elementos en juego, y todos afectan de lleno al escenario político nacional; De concejal del PP a 'reina de la seguridad' en edificios públicos con más de 100 M en contratos: Ariete Seguridad ha sido la adjudicataria de al menos 38 encargos solo en esta legislatura, con acuerdos con la Comunidad de Madrid (su mayor cliente), el CSIC o Hacienda y Transportes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-14T08:01:44Z",
+  "summary": "Resumen del día en El Confidencial: El TJUE solo acerca el empleo fijo a una parte del personal público temporal: La sentencia no insta a la fijeza automática, pero deja pocas opciones más al Supremo para solucionar la temporalidad abusiva del personal laboral. En cambio, el alto tribunal ya ha rechazado cualquier fórmula de fijeza de los interinos; Trump: el verdadero incordio de Abascal se viste de Jesucristo y no ha perdido en Hungría: En el seno del partido de Abascal no ha gustado nada la viñeta en la que Trump se disfraza de Jesucristo y temen las consecuencias económicas de la guerra de Irán en España; Cataluña: El accidente tuvo lugar el sábado por la tarde en el sector Columpi de la montaña de Montserrat, cuando los bomberos fueron alertados de la presencia de dos escaladores heridos, en estado inconsciente, cerca del aparcamiento de Can Jorba. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-15T08:02:38Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "China se resiste  a usar los bonos que tiene de EEUU como arma de guerra",
-      "subtitle": "La creciente hostilidad verbal de EEUU con China sigue sin tener respuesta contundente por parte de la autoridades chinas. Pekín, por el contrario, continúa sosteniendo al dólar mediante la compra de bonos y otros activos privados",
-      "url": "https://www.elconfidencial.com/economia/2026-04-14/reservas-divisas-china-eeuu-bonos-activos-deuda-publica-tesoro_4337494/",
-      "scraped_at": "2026-04-14T08:01:43Z"
+      "title": "El TJUE solo acerca el empleo fijo a una parte del personal público temporal",
+      "subtitle": "La sentencia no insta a la fijeza automática, pero deja pocas opciones más al Supremo para solucionar la temporalidad abusiva del personal laboral. En cambio, el alto tribunal ya ha rechazado cualquier fórmula de fijeza de los interinos",
+      "url": "https://www.elconfidencial.com/economia/2026-04-15/tjue-sentencia-plaza-fija-temporales_4338055/",
+      "scraped_at": "2026-04-15T08:02:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "De Vox al PSOE pasando por el PP: el enredo político español causado por la derrota de Orbán",
-      "subtitle": "Las elecciones húngaras parecen la prueba del retroceso de las derechas trumpistas. Sin embargo, hay varios elementos en juego, y todos afectan de lleno al escenario político nacional",
-      "url": "https://www.elconfidencial.com/espana/2026-04-14/enredo-politica-espana-derrota-orban-vox-psoe-pp_4337472/",
-      "scraped_at": "2026-04-14T08:01:44Z"
+      "title": "Trump: el verdadero incordio de Abascal se viste de Jesucristo y no ha perdido en Hungría",
+      "subtitle": "En el seno del partido de Abascal no ha gustado nada la viñeta en la que Trump se disfraza de Jesucristo y temen las consecuencias económicas de la guerra de Irán en España",
+      "url": "https://www.elconfidencial.com/espana/2026-04-15/trump-incordio-abascal-tension-alianzas-vox_4338174/",
+      "scraped_at": "2026-04-15T08:02:38Z"
     },
     {
       "source": "El Confidencial",
-      "title": "De concejal del PP a 'reina de la seguridad' en edificios públicos con más de 100 M en contratos",
-      "subtitle": "Ariete Seguridad ha sido la adjudicataria de al menos 38 encargos solo en esta legislatura, con acuerdos con la Comunidad de Madrid (su mayor cliente), el CSIC o Hacienda y Transportes",
-      "url": "https://www.elconfidencial.com/espana/2026-04-14/reina-seguridad-edificios-publicos-contratos-exconcejal-pp_4334339/",
-      "scraped_at": "2026-04-14T08:01:44Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El Consejo Europeo pierde a su genio del mal: obituario político de un líder que supo jugar... hasta que no",
-      "subtitle": "Adiós al decano del foro de líderes europeos, una reunión en la que la personalidad y las cualidades individuales de negociación marcan la diferencia. Orbán lo conocía como pocos",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-14/obituario-politico-orban-genio-mal-consejo-europeo_4337303/",
-      "scraped_at": "2026-04-14T08:01:44Z"
+      "title": "Cataluña",
+      "subtitle": "El accidente tuvo lugar el sábado por la tarde en el sector Columpi de la montaña de Montserrat, cuando los bomberos fueron alertados de la presencia de dos escaladores heridos, en estado inconsciente, cerca del aparcamiento de Can Jorba",
+      "url": "https://www.elconfidencial.com/espana/cataluna/",
+      "scraped_at": "2026-04-15T08:02:38Z"
     }
   ]
 }
