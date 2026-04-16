@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: EEUU pone el foco en Líbano mientras Pakistán busca una segunda ronda de negociaciones con Irán: La Administración de Donald Trump ha auspiciado la primera reunión entre Líbano e Israel en décadas para tratar de calmar uno de los principales focos de tensión en Oriente Medio, pero no ha obligado a su aliado a detener la ofensiva contra el país árabe; La imagen de Israel se hunde al punto más bajo de su historia: El genocidio de Gaza y la participación en la guerra de Trump contra Irán hunden la reputación de Israel. Netanyahu la ha convertido en un agente del caos en Oriente Medio dispuesto a provocar una recesión global si es necesario para derrotar a Teherán; Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de una nota policial para criminalizar migrantes: Alfonso Serrano acude al tribunal como testigo en el caso que mantiene imputada a la alcaldesa de Alcalá de Henares, Judith Piquet, por la difusión de un informe que el número dos del PP publicó en X. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-15T08:02:32Z",
+  "summary": "Resumen del día en elDiario.es: EEUU e Irán estudian mantener otra ronda de conversaciones y extender la tregua de dos semanas: Por su parte, el primer ministro Benjamín Netanyahu ha dicho que Israel está preparado para \"cualquier escenario\" ante la posibilidad de que la guerra en Irán se reanude si falla la vía diplomática; El Senado de EEUU rechaza de nuevo bloquear los poderes de guerra de Trump en Irán por el cierre de filas republicano: El cuarto intento de limitar los poderes de guerra del presidente se produce en medio de un frágil alto el fuego que expira dentro de una semana; Las duras críticas de Trump a Giorgia Meloni resquebrajan la alianza con su principal valedora en Europa: La primera ministra de Italia busca distanciarse de EEUU y de su otrora aliado, Trump, que se le ha vuelto en contra por su defensa del papa y su oposición a la guerra en Irán. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-16T08:02:04Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "EEUU pone el foco en Líbano mientras Pakistán busca una segunda ronda de negociaciones con Irán",
-      "subtitle": "La Administración de Donald Trump ha auspiciado la primera reunión entre Líbano e Israel en décadas para tratar de calmar uno de los principales focos de tensión en Oriente Medio, pero no ha obligado a su aliado a detener la ofensiva contra el país árabe",
-      "url": "https://www.eldiario.es/internacional/eeuu-pone-foco-libano-pakistan-busca-segunda-ronda-negociaciones-iran_1_13142873.html",
-      "scraped_at": "2026-04-15T08:02:29Z"
+      "title": "EEUU e Irán estudian mantener otra ronda de conversaciones y extender la tregua de dos semanas",
+      "subtitle": "Por su parte, el primer ministro Benjamín Netanyahu ha dicho que Israel está preparado para \"cualquier escenario\" ante la posibilidad de que la guerra en Irán se reanude si falla la vía diplomática",
+      "url": "https://www.eldiario.es/internacional/eeuu-e-iran-acuerdan-reunirse-nuevo-extender-alto-fuego-the-wall-street-journal_1_13145736.html",
+      "scraped_at": "2026-04-16T08:02:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La imagen de Israel se hunde al punto más bajo de su historia",
-      "subtitle": "El genocidio de Gaza y la participación en la guerra de Trump contra Irán hunden la reputación de Israel. Netanyahu la ha convertido en un agente del caos en Oriente Medio dispuesto a provocar una recesión global si es necesario para derrotar a Teherán",
-      "url": "https://www.eldiario.es/internacional/imagen-israel-hunde-punto-historia_1_13141427.html",
-      "scraped_at": "2026-04-15T08:02:30Z"
+      "title": "El Senado de EEUU rechaza de nuevo bloquear los poderes de guerra de Trump en Irán por el cierre de filas republicano",
+      "subtitle": "El cuarto intento de limitar los poderes de guerra del presidente se produce en medio de un frágil alto el fuego que expira dentro de una semana",
+      "url": "https://www.eldiario.es/internacional/senado-eeuu-rechaza-nuevo-bloquear-poderes-guerra-trump-iran-cierre-filas-republicano_1_13145999.html",
+      "scraped_at": "2026-04-16T08:02:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de una nota policial para criminalizar migrantes",
-      "subtitle": "Alfonso Serrano acude al tribunal como testigo en el caso que mantiene imputada a la alcaldesa de Alcalá de Henares, Judith Piquet, por la difusión de un informe que el número dos del PP publicó en X",
-      "url": "https://www.eldiario.es/politica/caso-alcala-numero-ayuso-declara-juez-difusion-nota-policial-criminalizar-migrantes_1_12804629.html",
-      "scraped_at": "2026-04-15T08:02:31Z"
+      "title": "Las duras críticas de Trump a Giorgia Meloni resquebrajan la alianza con su principal valedora en Europa",
+      "subtitle": "La primera ministra de Italia busca distanciarse de EEUU y de su otrora aliado, Trump, que se le ha vuelto en contra por su defensa del papa y su oposición a la guerra en Irán",
+      "url": "https://www.eldiario.es/internacional/duras-criticas-trump-giorgia-meloni-resquebrajan-alianza-principal-valedora-europa_1_13145788.html",
+      "scraped_at": "2026-04-16T08:02:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pistas sintéticas, discotecas y casas de lujo: las ideas 'locas' para rescatar el negocio en la montaña cuando no nieva",
-      "subtitle": "Tres proyectos en el Sistema Central buscan prolongar la rentabilidad económica de las cumbres una vez materializados los avisos sobre el impacto del calentamiento global",
-      "url": "https://www.eldiario.es/sociedad/pistas-sinteticas-discotecas-casas-lujo-ideas-locas-rescatar-negocio-montana-queda-nieve_1_13141223.html",
-      "scraped_at": "2026-04-15T08:02:31Z"
+      "title": "El 'número dos' de Ayuso dice a la jueza que un desconocido le envió la nota de la Policía de Alcalá que reveló en X",
+      "subtitle": "Alfonso Serrano declara como testigo en el caso en el que está imputada la alcaldesa del municipio después de que pidiera al jefe de la Policía Municipal la nota en la que Ayuso se habría apoyado para, sin pruebas, atribuir una \"agresión sexual\" a un interno de un centro de acogida de migrantes",
+      "url": "https://www.eldiario.es/politica/numero-2-ayuso-dice-jueza-desconocido-le-envio-nota-interna-policia-alcala-revelo-x_1_13146214.html",
+      "scraped_at": "2026-04-16T08:02:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pareja de Ayuso",
-      "subtitle": "Advierte al abogado de Alberto González Amador que se equivoca al recurrir ante ellos un auto en el que se acordaba pedir informe a la UCO porque esa diligencia no es recurrible y le explica que para solicitar el archivo de la causa antes debe pedirlo al instructor",
-      "url": "https://www.eldiario.es/politica/audiencia-madrid-rechaza-pareja-ayuso-archivar-pieza-soborno-directivo-quiron_1_13142029.html",
-      "scraped_at": "2026-04-15T08:02:32Z"
+      "title": "Repsol Venezuela",
+      "subtitle": "Promete aumentar en un 50% la producción bruta de petróleo en el país en 12 meses y triplicarla en tres años, \"si se siguen dando las circunstancias necesarias\" y utilizando los ingresos que se obtengan allí",
+      "url": "https://www.eldiario.es/economia/repsol-recupera-control-operaciones-petroleras-venezuela_1_13146721.html",
+      "scraped_at": "2026-04-16T08:02:04Z"
     }
   ]
 }

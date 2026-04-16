@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El TJUE solo acerca el empleo fijo a una parte del personal público temporal: La sentencia no insta a la fijeza automática, pero deja pocas opciones más al Supremo para solucionar la temporalidad abusiva del personal laboral. En cambio, el alto tribunal ya ha rechazado cualquier fórmula de fijeza de los interinos; Trump: el verdadero incordio de Abascal se viste de Jesucristo y no ha perdido en Hungría: En el seno del partido de Abascal no ha gustado nada la viñeta en la que Trump se disfraza de Jesucristo y temen las consecuencias económicas de la guerra de Irán en España; Cataluña: El accidente tuvo lugar el sábado por la tarde en el sector Columpi de la montaña de Montserrat, cuando los bomberos fueron alertados de la presencia de dos escaladores heridos, en estado inconsciente, cerca del aparcamiento de Can Jorba. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-15T08:02:38Z",
+  "summary": "Resumen del día en El Confidencial: Leire entregó a Zarrías un disco duro con datos sobre jueces tras estallar el 'escándalo cloacas': La fontanera del PSOE proporcionó en septiembre de 2024 al exconsejero de Presidencia de la Junta de Andalucía Gaspar Zarrías, procesado y absuelto en el caso de los ERE, un dispositivo con datos comprometedores de supuestos enemigos del PSOE andaluz; El apagón de Camavinga que envió al matadero al Madrid contra el Bayern: El centrocampista francés entró al campo en el minuto 62 con un 2-3 favorable al Real Madrid y se fue expulsado en el minuto 86. Solo tres minutos después, Luis Díaz marcó el 3-3; El asesino de ancianas de Olot transiciona en prisión: ya es Aída en el módulo de mujeres: El caso no es aislado y al menos otros dos presos han pedido el cambio de sexo. Uno de ellos es el asesino de dos policías en 2004, a las que violó y mató en su piso de Hospitalet. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-16T08:02:10Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El TJUE solo acerca el empleo fijo a una parte del personal público temporal",
-      "subtitle": "La sentencia no insta a la fijeza automática, pero deja pocas opciones más al Supremo para solucionar la temporalidad abusiva del personal laboral. En cambio, el alto tribunal ya ha rechazado cualquier fórmula de fijeza de los interinos",
-      "url": "https://www.elconfidencial.com/economia/2026-04-15/tjue-sentencia-plaza-fija-temporales_4338055/",
-      "scraped_at": "2026-04-15T08:02:38Z"
+      "title": "Leire entregó a Zarrías un disco duro con datos sobre jueces tras estallar el 'escándalo cloacas'",
+      "subtitle": "La fontanera del PSOE proporcionó en septiembre de 2024 al exconsejero de Presidencia de la Junta de Andalucía Gaspar Zarrías, procesado y absuelto en el caso de los ERE, un dispositivo con datos comprometedores de supuestos enemigos del PSOE andaluz",
+      "url": "https://www.elconfidencial.com/espana/2026-04-16/leire-diez-zarrias-disco-duro-informacion-jueces-escandalo-cloacas_4338730/",
+      "scraped_at": "2026-04-16T08:02:09Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump: el verdadero incordio de Abascal se viste de Jesucristo y no ha perdido en Hungría",
-      "subtitle": "En el seno del partido de Abascal no ha gustado nada la viñeta en la que Trump se disfraza de Jesucristo y temen las consecuencias económicas de la guerra de Irán en España",
-      "url": "https://www.elconfidencial.com/espana/2026-04-15/trump-incordio-abascal-tension-alianzas-vox_4338174/",
-      "scraped_at": "2026-04-15T08:02:38Z"
+      "title": "El apagón de Camavinga que envió al matadero al Madrid contra el Bayern",
+      "subtitle": "El centrocampista francés entró al campo en el minuto 62 con un 2-3 favorable al Real Madrid y se fue expulsado en el minuto 86. Solo tres minutos después, Luis Díaz marcó el 3-3",
+      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2026-04-16/real-madrid-bayern-camavinga-roja-expulsion_4338924/",
+      "scraped_at": "2026-04-16T08:02:10Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cataluña",
-      "subtitle": "El accidente tuvo lugar el sábado por la tarde en el sector Columpi de la montaña de Montserrat, cuando los bomberos fueron alertados de la presencia de dos escaladores heridos, en estado inconsciente, cerca del aparcamiento de Can Jorba",
-      "url": "https://www.elconfidencial.com/espana/cataluna/",
-      "scraped_at": "2026-04-15T08:02:38Z"
+      "title": "El asesino de ancianas de Olot transiciona en prisión: ya es Aída en el módulo de mujeres",
+      "subtitle": "El caso no es aislado y al menos otros dos presos han pedido el cambio de sexo. Uno de ellos es el asesino de dos policías en 2004, a las que violó y mató en su piso de Hospitalet",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-04-16/celador-olot-asesino-ancianas-transiciona-prision-aida-modulo-mujeres_4338828/",
+      "scraped_at": "2026-04-16T08:02:10Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "1,5 millones de metros cuadrados desde cero euros: la fórmula de Soria para atraer empresas",
+      "subtitle": "El programa se complementa con ayudas y subvenciones de hasta el 40% de la inversión y reducciones sobre la cuota empresarial por contingencias comunes del 15% en nuevos contratos indefinidos",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-04-15/empresa-emprendimiento-soria-espana-bra_4335716/",
+      "scraped_at": "2026-04-16T08:02:10Z"
     }
   ]
 }
