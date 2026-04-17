@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Leire entregó a Zarrías un disco duro con datos sobre jueces tras estallar el 'escándalo cloacas': La fontanera del PSOE proporcionó en septiembre de 2024 al exconsejero de Presidencia de la Junta de Andalucía Gaspar Zarrías, procesado y absuelto en el caso de los ERE, un dispositivo con datos comprometedores de supuestos enemigos del PSOE andaluz; El apagón de Camavinga que envió al matadero al Madrid contra el Bayern: El centrocampista francés entró al campo en el minuto 62 con un 2-3 favorable al Real Madrid y se fue expulsado en el minuto 86. Solo tres minutos después, Luis Díaz marcó el 3-3; El asesino de ancianas de Olot transiciona en prisión: ya es Aída en el módulo de mujeres: El caso no es aislado y al menos otros dos presos han pedido el cambio de sexo. Uno de ellos es el asesino de dos policías en 2004, a las que violó y mató en su piso de Hospitalet. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-16T08:02:10Z",
+  "summary": "Resumen del día en El Confidencial: Desbandada en el PSOE-A: 257.000 votantes de 2022 se van a PP, Vox y a la izquierda radical: El camino inverso lo realizan 100.379 ciudadanos, por lo que el neto es de 157.460. El dato positivo para Montero es que consigue el respaldo de 68.000 abstencionistas y es tercera fuerza entre los nuevos votantes (16.878); Vox asume una vicepresidencia y dos consejerías a cambio de investir a María Guardiola: Los de Abascal logran el área de Desregulación, Servicios Sociales y Familia además de Agricultura, e imponen el principio de &quot;prioridad nacional&quot; en vivienda, ayudas o sanidad. Génova prepara el terreno para desbloquear Aragón; Sí, hay más padres acompañando a sus hijos a hacer entrevistas de trabajo de lo que crees: El dato de una encuesta estadounidense dice que uno de cada cinco padres lo han hecho, pero también hay casos semejantes en nuestro país. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-17T08:02:44Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Leire entregó a Zarrías un disco duro con datos sobre jueces tras estallar el 'escándalo cloacas'",
-      "subtitle": "La fontanera del PSOE proporcionó en septiembre de 2024 al exconsejero de Presidencia de la Junta de Andalucía Gaspar Zarrías, procesado y absuelto en el caso de los ERE, un dispositivo con datos comprometedores de supuestos enemigos del PSOE andaluz",
-      "url": "https://www.elconfidencial.com/espana/2026-04-16/leire-diez-zarrias-disco-duro-informacion-jueces-escandalo-cloacas_4338730/",
-      "scraped_at": "2026-04-16T08:02:09Z"
+      "title": "Desbandada en el PSOE-A: 257.000 votantes de 2022 se van a PP, Vox y a la izquierda radical",
+      "subtitle": "El camino inverso lo realizan 100.379 ciudadanos, por lo que el neto es de 157.460. El dato positivo para Montero es que consigue el respaldo de 68.000 abstencionistas y es tercera fuerza entre los nuevos votantes (16.878)",
+      "url": "https://www.elconfidencial.com/espana/2026-04-17/elecciones-andalucia-17m-encuesta-imop-psoe-transferencia-votos_4339676/",
+      "scraped_at": "2026-04-17T08:02:41Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El apagón de Camavinga que envió al matadero al Madrid contra el Bayern",
-      "subtitle": "El centrocampista francés entró al campo en el minuto 62 con un 2-3 favorable al Real Madrid y se fue expulsado en el minuto 86. Solo tres minutos después, Luis Díaz marcó el 3-3",
-      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2026-04-16/real-madrid-bayern-camavinga-roja-expulsion_4338924/",
-      "scraped_at": "2026-04-16T08:02:10Z"
+      "title": "Vox asume una vicepresidencia y dos consejerías a cambio de investir a María Guardiola",
+      "subtitle": "Los de Abascal logran el área de Desregulación, Servicios Sociales y Familia además de Agricultura, e imponen el principio de &quot;prioridad nacional&quot; en vivienda, ayudas o sanidad. Génova prepara el terreno para desbloquear Aragón",
+      "url": "https://www.elconfidencial.com/espana/2026-04-16/pp-y-vox-cierran-un-acuerdo-en-extremadura-y-desbloquean-el-gobierno-de-maria-guardiola_4339802/",
+      "scraped_at": "2026-04-17T08:02:42Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El asesino de ancianas de Olot transiciona en prisión: ya es Aída en el módulo de mujeres",
-      "subtitle": "El caso no es aislado y al menos otros dos presos han pedido el cambio de sexo. Uno de ellos es el asesino de dos policías en 2004, a las que violó y mató en su piso de Hospitalet",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-04-16/celador-olot-asesino-ancianas-transiciona-prision-aida-modulo-mujeres_4338828/",
-      "scraped_at": "2026-04-16T08:02:10Z"
+      "title": "Sí, hay más padres acompañando a sus hijos a hacer entrevistas de trabajo de lo que crees",
+      "subtitle": "El dato de una encuesta estadounidense dice que uno de cada cinco padres lo han hecho, pero también hay casos semejantes en nuestro país",
+      "url": "https://www.elconfidencial.com/economia/2026-04-17/padres-acompanan-hijos-entrevistas-trabajo_4338692/",
+      "scraped_at": "2026-04-17T08:02:43Z"
     },
     {
       "source": "El Confidencial",
-      "title": "1,5 millones de metros cuadrados desde cero euros: la fórmula de Soria para atraer empresas",
-      "subtitle": "El programa se complementa con ayudas y subvenciones de hasta el 40% de la inversión y reducciones sobre la cuota empresarial por contingencias comunes del 15% en nuevos contratos indefinidos",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-04-15/empresa-emprendimiento-soria-espana-bra_4335716/",
-      "scraped_at": "2026-04-16T08:02:10Z"
+      "title": "Armengol pidió a Koldo agilizar el flujo de viajeros en el covid: \"A ver si lo puedes arreglar\"",
+      "subtitle": "La UCO envía un nuevo informe a la Audiencia Nacional con nuevos datos sobre las relaciones de la trama corrupta con el Gobierno de Baleares que presidía Francina Armengol, actual presidenta del Congreso",
+      "url": "https://www.elconfidencial.com/espana/2026-04-16/armengol-koldo-abalos-pcr-psoe_4339682/",
+      "scraped_at": "2026-04-17T08:02:43Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Al menos 16 muertos en un ataque ruso con 44 misiles y 659 drones por toda Ucrania",
+      "subtitle": "Además de las muertes, dieciocho personas han resultado heridas en la capital ucraniana por el ataque ruso, informó el alcalde",
+      "url": "https://www.elconfidencial.com/mundo/2026-04-16/ataque-ruso-kiev-dnipro-ucrania-1tps_4339148/",
+      "scraped_at": "2026-04-17T08:02:44Z"
     }
   ]
 }
