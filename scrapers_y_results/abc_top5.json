@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Extranjeros abandonan a sus hijos en España para lograr la reagrupación familiar: Algunos niños relatan a ABC cómo se vieron forzados por sus padres a acudir a los servicios sociales de nuestro país; Cambian el 'modus operandi': los niños deben denunciar el abandono cuando sus padres vuelvan a su país: El objetivo, según explican fuentes policiales a este periódico, es evitar la detención de los progenitores por abandono infantil; Crean una aplicación móvil para que los inmigrantes irregulares encuentren las ayudas a su disposición: El objetivo del aplicativo es el de facilitar la integración de los inmigrantes en nuestro país. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-18T07:33:44Z",
+  "summary": "Resumen del día en ABC.es: La batalla perdida  contra el absentismo: ni despegan los pactos con las autonomías ni las altas progresivas: El coste de las bajas ha crecido más de un 200% desde la pandemia y asciende ya a 34.000 millones; El manso León XIV impone más que el excesivo Papa Francisco: En materia de guerra, su discurso es continuista con el de Bergoglio, pero sus formas serenas tienen mejor eco en ámbitos conservadores, más hostiles a Francisco; Sánchez irrumpe en la campaña andaluza para rescatar a una María Jesús Montero a la baja: El presidente se implicará, con al menos seis actos, y se espera un aluvión de ministros para mover el voto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-19T07:44:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Extranjeros abandonan a sus hijos en España para lograr la reagrupación familiar",
-      "subtitle": "Algunos niños relatan a ABC cómo se vieron forzados por sus padres a acudir a los servicios sociales de nuestro país",
-      "url": "https://www.abc.es/espana/murcia/abandonan-obligan-menores-inmigrantes-renunciar-vida-lograr-20260418040308-nt.html",
-      "scraped_at": "2026-04-18T07:33:43Z"
+      "title": "La batalla perdida  contra el absentismo: ni despegan los pactos con las autonomías ni las altas progresivas",
+      "subtitle": "El coste de las bajas ha crecido más de un 200% desde la pandemia y asciende ya a 34.000 millones",
+      "url": "https://www.abc.es/economia/batalla-frustrada-absentismo-despegan-pactos-autonomias-altas-20260417040840-nt.html",
+      "scraped_at": "2026-04-19T07:44:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cambian el 'modus operandi': los niños deben denunciar el abandono cuando sus padres vuelvan a su país",
-      "subtitle": "El objetivo, según explican fuentes policiales a este periódico, es evitar la detención de los progenitores por abandono infantil",
-      "url": "https://www.abc.es/espana/cambian-modus-operandi-ninos-deben-denunciar-abandono-20260418040338-nt.html",
-      "scraped_at": "2026-04-18T07:33:43Z"
+      "title": "El manso León XIV impone más que el excesivo Papa Francisco",
+      "subtitle": "En materia de guerra, su discurso es continuista con el de Bergoglio, pero sus formas serenas tienen mejor eco en ámbitos conservadores, más hostiles a Francisco",
+      "url": "https://www.abc.es/sociedad/manso-leon-xiv-impone-excesivo-papa-francisco-20260419041208-nt.html",
+      "scraped_at": "2026-04-19T07:44:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Crean una aplicación móvil para que los inmigrantes irregulares encuentren las ayudas a su disposición",
-      "subtitle": "El objetivo del aplicativo es el de facilitar la integración de los inmigrantes en nuestro país",
-      "url": "https://www.abc.es/espana/crean-aplicacion-movil-ilegales-encuentren-ayudas-disposicion-20260418040347-nt.html",
-      "scraped_at": "2026-04-18T07:33:43Z"
+      "title": "Sánchez irrumpe en la campaña andaluza para rescatar a una María Jesús Montero a la baja",
+      "subtitle": "El presidente se implicará, con al menos seis actos, y se espera un aluvión de ministros para mover el voto",
+      "url": "https://www.abc.es/espana/sanchez-irrumpe-campana-andaluza-rescatar-montero-baja-20260419040644-nt.html",
+      "scraped_at": "2026-04-19T07:44:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Manuel Filiberto de Saboya, ante los ataques de su primo",
-      "subtitle": "Aimón de Saboya-Aosta reclama dividir la dinastía y las responsabilidades, algo que el Príncipe descarta",
-      "url": "https://www.abc.es/gente/manuel-filiberto-saboya-solicita-nulidad-matrimonial-pleno-20260416040416-nt.html",
-      "scraped_at": "2026-04-18T07:33:44Z"
+      "title": "La valoración de la gestión de Juanma Moreno sigue creciendo mientras cae aún más la de Sánchez",
+      "subtitle": "La popularidad del Ejecutivo autonómico sigue siendo más del doble que la del que preside Pedro Sánchez",
+      "url": "https://www.abc.es/espana/andalucia/junta-amplia-distancia-gobierno-valoracion-ciudadana-positiva-20260419040740-nts.html",
+      "scraped_at": "2026-04-19T07:44:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-18T07:33:44Z"
+      "title": "«Cuando una empresa cierra la oficina un día a la semana por teletrabajo, los gatos se externalizan al hogar del trabajador”»",
+      "subtitle": "La propuesta de un día de teletrabajo obligatorio destapa el método de la Comisión Europea para legislar por decreto ante las crisis sin debate previo",
+      "url": "https://www.cope.es/actualidad/economia/noticias/empresa-cierra-oficina-dia-semana-teletrabajo-consumo-calefaccion-electricidad-e-internet-externaliza-hogar-trabajador-20260419_3348031.html",
+      "scraped_at": "2026-04-19T07:44:07Z"
     }
   ]
 }
