@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El bloqueo del estrecho de Ormuz: la potente arma de guerra que Trump ha entregado a Irán: La Guardia Revolucionaria sigue ejerciendo el control sobre el estrecho pese a la tregua, como evidencia su ataque de ayer contra dos buques que intentaban cruzarlo; La guerra en el corazón del Golfo: En las afueras de la ciudad iraní de Bushehr se levanta la única central que produce energía eléctrica en el país; Trump purga su pecado original: Empujado por Israel, Trump se lanzó a la guerra contra Irán y ahora intenta salir como sea del lodazal en que se ha metido. El presidente de EE.UU. está pagando la ruptura unilateral del acuerdo nuclear firmado en 2015 con Teherán.. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-19T07:44:10Z",
+  "summary": "Resumen del día en La Vanguardia: El transporte aéreo afronta su verano más incierto por la escasez de fuel: Las aerolíneas en España preparan cancelaciones tácticas ante el riesgo de desabastecimiento en pocas semanas; Estados Unidos ataca a un buque iraní y Teherán suspende las negociaciones de paz: Irán exige que Washington levante el bloqueo de sus puertos para ir a Islamabad; Hegseth convierte el Pentágono en un avispero: Ex altos mandos militares comparan al secretario de Defensa con un niño de 12 años jugando a la guerra. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-20T08:25:47Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El bloqueo del estrecho de Ormuz: la potente arma de guerra que Trump ha entregado a Irán",
-      "subtitle": "La Guardia Revolucionaria sigue ejerciendo el control sobre el estrecho pese a la tregua, como evidencia su ataque de ayer contra dos buques que intentaban cruzarlo",
-      "url": "https://www.lavanguardia.com/internacional/20260419/11516540/iran-aferra-llave-ormuz.html",
-      "scraped_at": "2026-04-19T07:44:08Z"
+      "title": "El transporte aéreo afronta su verano más incierto por la escasez de fuel",
+      "subtitle": "Las aerolíneas en España preparan cancelaciones tácticas ante el riesgo de desabastecimiento en pocas semanas",
+      "url": "https://www.lavanguardia.com/economia/20260420/11517543/transporte-aereo-afronta-verano-mas-incierto-dano-suministro-fuel.html",
+      "scraped_at": "2026-04-20T08:25:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La guerra en el corazón del Golfo",
-      "subtitle": "En las afueras de la ciudad iraní de Bushehr se levanta la única central que produce energía eléctrica en el país",
-      "url": "https://www.lavanguardia.com/internacional/20260419/11517020/guerra-corazon-golfo.html",
-      "scraped_at": "2026-04-19T07:44:09Z"
+      "title": "Estados Unidos ataca a un buque iraní y Teherán suspende las negociaciones de paz",
+      "subtitle": "Irán exige que Washington levante el bloqueo de sus puertos para ir a Islamabad",
+      "url": "https://www.lavanguardia.com/internacional/20260419/11517584/estados-unidos-ataca-buque-irani-trataba-cruzar-ormuz-control.html",
+      "scraped_at": "2026-04-20T08:25:46Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump purga su pecado original",
-      "subtitle": "Empujado por Israel, Trump se lanzó a la guerra contra Irán y ahora intenta salir como sea del lodazal en que se ha metido. El presidente de EE.UU. está pagando la ruptura unilateral del acuerdo nuclear firmado en 2015 con Teherán.",
-      "url": "https://www.lavanguardia.com/internacional/20260419/11516557/guerra-iran-ee-uu-trump-ormuz-acuerdo-nuclear.html",
-      "scraped_at": "2026-04-19T07:44:09Z"
+      "title": "Hegseth convierte el Pentágono en un avispero",
+      "subtitle": "Ex altos mandos militares comparan al secretario de Defensa con un niño de 12 años jugando a la guerra",
+      "url": "https://www.lavanguardia.com/internacional/20260420/11515498/ee-uu-defensa-hegseth-pentagono.html",
+      "scraped_at": "2026-04-20T08:25:46Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El supersubmarino español S-81 navegó con el doble sistema para emerger desactivado",
-      "subtitle": "La nave estrella de la Armada española recala en Cartagena para poner a prueba sistemas críticos de seguridad",
-      "url": "https://www.lavanguardia.com/politica/20260419/11516993/supersubmarino-espanol-s-81-navego-doble-sistema-emerger-desactivado.html",
-      "scraped_at": "2026-04-19T07:44:09Z"
+      "title": "¿Será el búlgaro Rumen Rádev el nuevo Orbán?",
+      "subtitle": "El ganador de las elecciones, prorruso y euroescéptico, promete una política exterior “pragmática” con Moscú pero también preservar lazos con la UE y la OTAN",
+      "url": "https://www.lavanguardia.com/internacional/20260420/11517833/sera-bulgaro-rumen-radev-nuevo-orban.html",
+      "scraped_at": "2026-04-20T08:25:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Roser Marcé, la artista de la geometría discreta y la elegancia del vestir pensada para durar",
-      "subtitle": "La diseñadora Sant Pere Molanta (Alt Penedès) en 1947, que sigue defendiendo la moda pausada y su estilo reconocible de apariencia japonesa y esencia mediterránea, recibirá este año la Creu de Sant Jordi de la Generalitat",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260418/11492265/roser-marce-artista-geometria-discreta-elegancia-vestir-pensada-durar.html",
-      "scraped_at": "2026-04-19T07:44:10Z"
+      "title": "Lula, en la Sagrada Família",
+      "subtitle": "Un momento de paz, oración y reflexión en un lugar que inspira unión y esperanza”. Así describió el presidente de Brasil, Luiz Inácio Lula da Silva, el tiempo que pasó ayer por la mañana en Barcelona, Junto a su esposa, Janja, visitó la basílica de la Sagrada",
+      "url": "https://www.lavanguardia.com/opinion/20260420/11517565/lula-sagrada-familia.html",
+      "scraped_at": "2026-04-20T08:25:47Z"
     }
   ]
 }

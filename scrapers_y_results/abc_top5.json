@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La batalla perdida  contra el absentismo: ni despegan los pactos con las autonomías ni las altas progresivas: El coste de las bajas ha crecido más de un 200% desde la pandemia y asciende ya a 34.000 millones; El manso León XIV impone más que el excesivo Papa Francisco: En materia de guerra, su discurso es continuista con el de Bergoglio, pero sus formas serenas tienen mejor eco en ámbitos conservadores, más hostiles a Francisco; Sánchez irrumpe en la campaña andaluza para rescatar a una María Jesús Montero a la baja: El presidente se implicará, con al menos seis actos, y se espera un aluvión de ministros para mover el voto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-19T07:44:07Z",
+  "summary": "Resumen del día en ABC.es: Juanma Moreno avanza hacia la mayoría absoluta a un mes de las elecciones en Andalucía: El PP obtendría entre 56 y 58 escaños y mejora levemente su estimación sobre los meses anteriores mientras los socialistas retroceden y Vox pierde fuelle; La ola de reformas que ha acometido el Senado le permiten ejercer de contrapoder al sanchismo: La ola de reformas de esta legislatura le permite ejercer como contrapoder del Gobierno más allá de su función de cámara territorial; Bartomeu: «Yo no arruiné al Barça, Laporta hinchó las pérdidas para quitarse el aval»: El expresidente azulgrana juega a la defensiva: «Me parece asombroso que cinco años después sigan con un relato inventado para justificar cosas que ocurren en el club». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-20T08:25:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La batalla perdida  contra el absentismo: ni despegan los pactos con las autonomías ni las altas progresivas",
-      "subtitle": "El coste de las bajas ha crecido más de un 200% desde la pandemia y asciende ya a 34.000 millones",
-      "url": "https://www.abc.es/economia/batalla-frustrada-absentismo-despegan-pactos-autonomias-altas-20260417040840-nt.html",
-      "scraped_at": "2026-04-19T07:44:05Z"
+      "title": "Juanma Moreno avanza hacia la mayoría absoluta a un mes de las elecciones en Andalucía",
+      "subtitle": "El PP obtendría entre 56 y 58 escaños y mejora levemente su estimación sobre los meses anteriores mientras los socialistas retroceden y Vox pierde fuelle",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-aproxima-mayoria-absoluta-frente-estancamiento-20260420220004-nts.html",
+      "scraped_at": "2026-04-20T08:25:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "El manso León XIV impone más que el excesivo Papa Francisco",
-      "subtitle": "En materia de guerra, su discurso es continuista con el de Bergoglio, pero sus formas serenas tienen mejor eco en ámbitos conservadores, más hostiles a Francisco",
-      "url": "https://www.abc.es/sociedad/manso-leon-xiv-impone-excesivo-papa-francisco-20260419041208-nt.html",
-      "scraped_at": "2026-04-19T07:44:06Z"
+      "title": "La ola de reformas que ha acometido el Senado le permiten ejercer de contrapoder al sanchismo",
+      "subtitle": "La ola de reformas de esta legislatura le permite ejercer como contrapoder del Gobierno más allá de su función de cámara territorial",
+      "url": "https://www.abc.es/espana/senado-muta-frente-sanchismo-20260419005823-nt.html",
+      "scraped_at": "2026-04-20T08:25:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez irrumpe en la campaña andaluza para rescatar a una María Jesús Montero a la baja",
-      "subtitle": "El presidente se implicará, con al menos seis actos, y se espera un aluvión de ministros para mover el voto",
-      "url": "https://www.abc.es/espana/sanchez-irrumpe-campana-andaluza-rescatar-montero-baja-20260419040644-nt.html",
-      "scraped_at": "2026-04-19T07:44:06Z"
+      "title": "Bartomeu: «Yo no arruiné al Barça, Laporta hinchó las pérdidas para quitarse el aval»",
+      "subtitle": "El expresidente azulgrana juega a la defensiva: «Me parece asombroso que cinco años después sigan con un relato inventado para justificar cosas que ocurren en el club»",
+      "url": "https://www.abc.es/deportes/futbol/bartomeu-arruine-barca-laporta-hincho-perdidas-poder-20260419040744-nt.html",
+      "scraped_at": "2026-04-20T08:25:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "La valoración de la gestión de Juanma Moreno sigue creciendo mientras cae aún más la de Sánchez",
-      "subtitle": "La popularidad del Ejecutivo autonómico sigue siendo más del doble que la del que preside Pedro Sánchez",
-      "url": "https://www.abc.es/espana/andalucia/junta-amplia-distancia-gobierno-valoracion-ciudadana-positiva-20260419040740-nts.html",
-      "scraped_at": "2026-04-19T07:44:06Z"
+      "title": "Los cuatro hechos que colocan a Pardo de Vera en una encrucijada judicial",
+      "subtitle": "La expresidenta de Adif se puso enfrente de Koldo y Aldama en su declaración como testigo, pero el juez del caso Cerdán la sitúa en el centro de esa trama",
+      "url": "https://www.abc.es/espana/pardo-vera-domingo-20260420041013-nt.html",
+      "scraped_at": "2026-04-20T08:25:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Cuando una empresa cierra la oficina un día a la semana por teletrabajo, los gatos se externalizan al hogar del trabajador”»",
-      "subtitle": "La propuesta de un día de teletrabajo obligatorio destapa el método de la Comisión Europea para legislar por decreto ante las crisis sin debate previo",
-      "url": "https://www.cope.es/actualidad/economia/noticias/empresa-cierra-oficina-dia-semana-teletrabajo-consumo-calefaccion-electricidad-e-internet-externaliza-hogar-trabajador-20260419_3348031.html",
-      "scraped_at": "2026-04-19T07:44:07Z"
+      "title": "«Nos dijeron que el zumo de naranja era sano porque en los años 20, California tuvo un excedente de naranjas y se hicieron campañas masivas diciendo que era el desayuno perfecto»",
+      "subtitle": "Una intensa campaña de marketing en Estados Unidos y el descubrimiento de las vitaminas popularizaron esta bebida en las mesas de todos los desayunos...",
+      "url": "https://www.cope.es/actualidad/sociedad/historia/noticias/dijeron-zumo-naranja-sano-anos-20-california-tuvo-excedente-naranjas-hicieron-campanas-masivas-diciendo-desayuno-perfecto-20260420_3347549.html",
+      "scraped_at": "2026-04-20T08:25:43Z"
     }
   ]
 }
