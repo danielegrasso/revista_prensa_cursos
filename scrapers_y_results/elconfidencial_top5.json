@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Feijóo prepara su llegada a Moncloa con 70 leyes para aplicar el primer día: El líder del PP cuenta con un abultado registro de medidas para revertir el andamiaje del sanchismo y exige a su equipo que cada propuesta incluya una memoria económica. La influencia de Abascal condicionará las prioridades de Feijóo; Cónclave del Ibex con la Iglesia para apoyar la visita del Papa en un momento crítico: Cenas privadas con primeros espadas del mundo empresarial, reuniones con patronales y acercamientos a sindicatos. Así se prepara una visita histórica en un momento crítico; Ya no son solo ellos: las mujeres jóvenes también viran a la derecha en Europa: El apoyo a la derecha sigue siendo eminentemente masculino, sin embargo, el voto femenino recorta distancias ante una narrativa embaucadora por parte de los valores tradicionales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-20T08:25:49Z",
+  "summary": "Resumen del día en El Confidencial: El estamento militar avisa de riesgos en Ceuta y Melilla y pide reforzar su defensa: Una publicación del think-tank del Ministerio de Defensa rompe un tabú: dedica 260 páginas a abordar los riesgos que acechan a las dos ciudades autónomas, sobre todo a sus puertos, y alude constantemente a Marruecos al describir amenazas híbridas; Madring, desde sus entrañas: el parque temático de carreras que sedujo a los jefazos de la F1: El Confidencial accede a las obras del Gran Premio de la capital, que asegura la visita anual de la F1 a España hasta el 2035. García Abad, responsable del proyecto, asegura que llegarán a tiempo; Morante, herido muy grave tras una cornada de 10 centímetros en el albero de Sevilla: Una cornada de 10 centímetros en la zona anal trunca la racha triunfal del maestro de La Puebla y se cobra el precio de una tauromaquia de tanta belleza como exposición. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-21T08:07:07Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Feijóo prepara su llegada a Moncloa con 70 leyes para aplicar el primer día",
-      "subtitle": "El líder del PP cuenta con un abultado registro de medidas para revertir el andamiaje del sanchismo y exige a su equipo que cada propuesta incluya una memoria económica. La influencia de Abascal condicionará las prioridades de Feijóo",
-      "url": "https://www.elconfidencial.com/espana/2026-04-20/feijoo-prepara-su-aterrizaje-en-moncloa-con-70-leyes-listas-para-aplicar-desde-el-primer-dia_4340497/",
-      "scraped_at": "2026-04-20T08:25:48Z"
+      "title": "El estamento militar avisa de riesgos en Ceuta y Melilla y pide reforzar su defensa",
+      "subtitle": "Una publicación del think-tank del Ministerio de Defensa rompe un tabú: dedica 260 páginas a abordar los riesgos que acechan a las dos ciudades autónomas, sobre todo a sus puertos, y alude constantemente a Marruecos al describir amenazas híbridas",
+      "url": "https://www.elconfidencial.com/espana/2026-04-21/estamento-militar-espanol-avisa-riesgos-ceuta-melilla-reforzar-defensa_4341737/",
+      "scraped_at": "2026-04-21T08:07:06Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cónclave del Ibex con la Iglesia para apoyar la visita del Papa en un momento crítico",
-      "subtitle": "Cenas privadas con primeros espadas del mundo empresarial, reuniones con patronales y acercamientos a sindicatos. Así se prepara una visita histórica en un momento crítico",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-04-20/visita-papa-espana-junio-2026_4340616/",
-      "scraped_at": "2026-04-20T08:25:48Z"
+      "title": "Madring, desde sus entrañas: el parque temático de carreras que sedujo a los jefazos de la F1",
+      "subtitle": "El Confidencial accede a las obras del Gran Premio de la capital, que asegura la visita anual de la F1 a España hasta el 2035. García Abad, responsable del proyecto, asegura que llegarán a tiempo",
+      "url": "https://www.elconfidencial.com/deportes/formula-1/2026-04-21/madring-entranas-obras-gran-premio-madrid-cbtrrptj_4341424/",
+      "scraped_at": "2026-04-21T08:07:07Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ya no son solo ellos: las mujeres jóvenes también viran a la derecha en Europa",
+      "title": "Morante, herido muy grave tras una cornada de 10 centímetros en el albero de Sevilla",
+      "subtitle": "Una cornada de 10 centímetros en la zona anal trunca la racha triunfal del maestro de La Puebla y se cobra el precio de una tauromaquia de tanta belleza como exposición",
+      "url": "https://www.elconfidencial.com/cultura/2026-04-20/morante-herido-muy-grave-en-el-albero-de-sevilla_4341878/",
+      "scraped_at": "2026-04-21T08:07:07Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Ya no son solo ellos: las mujeres jóvenes también viran a la derecha en todo el continente",
       "subtitle": "El apoyo a la derecha sigue siendo eminentemente masculino, sin embargo, el voto femenino recorta distancias ante una narrativa embaucadora por parte de los valores tradicionales",
       "url": "https://www.elconfidencial.com/mundo/europa/2026-04-20/tradwives-jovenes-extrema-derecha-europa-1hms_4338613/",
-      "scraped_at": "2026-04-20T08:25:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Lluvia de millones de RTVE a productoras catalanas: Oriol Soler e Iniesta, beneficiados",
-      "subtitle": "Dentro de los contratistas a los que ha recurrido RTVE hay productoras con vínculos con los principales partidos catalanes.",
-      "url": "https://www.elconfidencial.com/comunicacion/2026-04-20/millones-rtve-productoras-catalanas-cerebro-proces-iniesta_4339637/",
-      "scraped_at": "2026-04-20T08:25:49Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Un leal (como Péter Magyar) que 'traicione' a Sánchez",
-      "subtitle": "La normalización de nuestro sistema pasa por la reversión del populismo radical de Sánchez expresado en sus filias por China e Irán y la organización de cumbres como la de Barcelona que llevan a España al espacio de los BRICS",
-      "url": "https://www.elconfidencial.com/espana/notebook/2026-04-19/orban-hungria-democracia-iliberal-socialismo-1hms_4340673/",
-      "scraped_at": "2026-04-20T08:25:49Z"
+      "scraped_at": "2026-04-21T08:07:07Z"
     }
   ]
 }

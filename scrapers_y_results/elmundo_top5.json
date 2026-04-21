@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La Sepi permite a los dueños venezolanos de Plus Ultra irse sin pagar el rescate: El grupo estatal exime a la aerolínea de devolver de inmediato los 53 millones que le prestó pese a una cláusula confidencial que lo obligaba por salida de accionistas; La confesión de Aldama apunta a un amaño de obras a cambio de comisiones: de la foto con Sánchez al piso en la Castellana: El empresario sostiene que el presidente del Gobierno admitió estar \"al corriente de todo\" lo que estaba haciendo; Tezanos pide al TC anular la multa de 3.000 euros de la Junta Electoral por ocultar la encuesta 'flash' sobre los días de reflexión de Sánchez: El presidente del CIS recurre en amparo la sanción que le impusieron en junio de 2024 por incumplir la Ley Electoral. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-04-20T08:25:35Z",
+  "summary": "Resumen del día en El Mundo: El juicio a Begoña Gómez señala a la cúpula política y empresarial con un paseíllo antes de las elecciones: Hazte Oír, que lidera las acusaciones, pide que el presidente Sánchez y el ministro Bolaños declaren en la vista oral; 250 millones por seis edificios de la Sepi: la carta de Aldama que desmiente a Montero: El intermediario investigado trabajó una gran operación inmobiliaria de la sociedad estatal que la ex ministra ocultó en el Senado aunque fue tratada por un directivo de su confianza; La confesión 'póstuma' de Bárcenas ata a Rajoy a 72 horas de su declaración: \"La operación se inicia por los responsables del PP\": La gran incógnita es el grado de conocimiento que tenía el ex presidente del Gobierno de la 'operación Kitchen'. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-04-21T08:06:55Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La Sepi permite a los dueños venezolanos de Plus Ultra irse sin pagar el rescate",
-      "subtitle": "El grupo estatal exime a la aerolínea de devolver de inmediato los 53 millones que le prestó pese a una cláusula confidencial que lo obligaba por salida de accionistas",
-      "url": "https://www.elmundo.es/espana/2026/04/19/69e4c54ffc6c8374198b458e.html",
-      "scraped_at": "2026-04-20T08:25:33Z"
+      "title": "El juicio a Begoña Gómez señala a la cúpula política y empresarial con un paseíllo antes de las elecciones",
+      "subtitle": "Hazte Oír, que lidera las acusaciones, pide que el presidente Sánchez y el ministro Bolaños declaren en la vista oral",
+      "url": "https://www.elmundo.es/espana/2026/04/20/69e66f53e85ece110f8b456d.html",
+      "scraped_at": "2026-04-21T08:06:54Z"
     },
     {
       "source": "El Mundo",
-      "title": "La confesión de Aldama apunta a un amaño de obras a cambio de comisiones: de la foto con Sánchez al piso en la Castellana",
-      "subtitle": "El empresario sostiene que el presidente del Gobierno admitió estar \"al corriente de todo\" lo que estaba haciendo",
-      "url": "https://www.elmundo.es/espana/2026/04/19/69e4d3d0fc6c83ad3d8b457b.html",
-      "scraped_at": "2026-04-20T08:25:34Z"
+      "title": "250 millones por seis edificios de la Sepi: la carta de Aldama que desmiente a Montero",
+      "subtitle": "El intermediario investigado trabajó una gran operación inmobiliaria de la sociedad estatal que la ex ministra ocultó en el Senado aunque fue tratada por un directivo de su confianza",
+      "url": "https://www.elmundo.es/espana/2026/04/20/69e67072e85ecee30a8b4579.html",
+      "scraped_at": "2026-04-21T08:06:54Z"
     },
     {
       "source": "El Mundo",
-      "title": "Tezanos pide al TC anular la multa de 3.000 euros de la Junta Electoral por ocultar la encuesta 'flash' sobre los días de reflexión de Sánchez",
-      "subtitle": "El presidente del CIS recurre en amparo la sanción que le impusieron en junio de 2024 por incumplir la Ley Electoral",
-      "url": "https://www.elmundo.es/espana/2026/04/20/69e4c5d3fc6c83f5478b4571.html",
-      "scraped_at": "2026-04-20T08:25:34Z"
+      "title": "La confesión 'póstuma' de Bárcenas ata a Rajoy a 72 horas de su declaración: \"La operación se inicia por los responsables del PP\"",
+      "subtitle": "La gran incógnita es el grado de conocimiento que tenía el ex presidente del Gobierno de la 'operación Kitchen'",
+      "url": "https://www.elmundo.es/espana/2026/04/20/69e66eeee9cf4a745a8b459e.html",
+      "scraped_at": "2026-04-21T08:06:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "España estuvo a punto de sufrir otro apagón total: \"Cortad todo el viento, ¡tiene que ser ya!\"",
-      "subtitle": "Red Eléctrica activó una maniobra desesperada meses antes del cero, para evitar el disparo de la interconexión con Francia, algo que habría tumbado todo el sistema",
-      "url": "https://www.elmundo.es/economia/empresas/2026/04/19/69e245ace4d4d842158b45b3.html",
-      "scraped_at": "2026-04-20T08:25:35Z"
+      "title": "Picaresca en torno al proceso de regularización: \"Los querían engañar; les han pedido 200€ a cada uno\"",
+      "subtitle": "El marroquí Bouzza, residente en Sevilla, denuncia la picaresca en torno al proceso de regularización",
+      "url": "https://www.elmundo.es/espana/2026/04/20/69e65d6fe85ece427e8b456e.html",
+      "scraped_at": "2026-04-21T08:06:55Z"
     },
     {
       "source": "El Mundo",
-      "title": "María Corina Machado",
-      "subtitle": "El ministro de Exteriores asegura que la líder opositora \"ha escogido actuar como una líder ideológica y ha decidido reunirse por la extrema derecha española en vez de ser una representante de los venezolanos\"",
-      "url": "https://www.elmundo.es/espana/2026/04/20/69e5d176e4d4d8db3e8b458a.html",
-      "scraped_at": "2026-04-20T08:25:35Z"
+      "title": "Morante de la Puebla",
+      "subtitle": "El torero se encuentra en el hospital Viamed de Sevilla, donde fue ingresado después de la intervención quirúrgica a la que fue sometido en la propia enfermería de la Maestranza",
+      "url": "https://www.elmundo.es/cultura/toros/2026/04/21/69e7174bfc6c83ba018b457a.html",
+      "scraped_at": "2026-04-21T08:06:55Z"
     }
   ]
 }
