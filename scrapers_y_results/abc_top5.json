@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La ley que prepara el Gobierno sobre los notarios impedirá investigar casos como el de Servinabar: La modificación de la Ley de Integridad Pública pone en jaque la lucha contra el blanqueo de capitales, el fraude fiscal y la financiación del terrorismo en España; Cinco años en las cárceles del régimen cubano: «Llegué a pensar que moriría de hambre o de frío»: Alexander Díaz pasó cinco años en las cárceles del régimen cubano por participar en las protestas del 11 de julio de 2021. ABC habló con él sobre las torturas y las malas condiciones que sufrió en prisión; El juez Peinado amplía otra investigación contra el alto cargo de Ribera: La Fiscalía se opuso a seguir con la instrucción de esta causa, que sigue el mismo 'modus operandi' con informes elaborados sobre paneles solares. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-22T08:03:51Z",
+  "summary": "Resumen del día en ABC.es: Montero rehúye la campaña que le diseña Moncloa en Andalucía por estar centrada en los pactos PP-Vox: La candidata del PSOE orilla el discurso del miedo porque cree que beneficia a Juanma Moreno; El acuerdo entre PP y Vox en Aragón estuvo «congelado» una semana a la espera de Guardiola: Los socios buscaron el momento ideal para anunciar el éxito de unas conversaciones más sencillas que las de Extremadura; ¿Quién está al mando en Irán?: Desde la eliminación de Alí Jamenei el 28 de febrero tras un ataque israelí, en la república islámica no se sabe muy bien quién tiene el poder. Los analistas hablan de la militarización de su política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-23T08:08:34Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La ley que prepara el Gobierno sobre los notarios impedirá investigar casos como el de Servinabar",
-      "subtitle": "La modificación de la Ley de Integridad Pública pone en jaque la lucha contra el blanqueo de capitales, el fraude fiscal y la financiación del terrorismo en España",
-      "url": "https://www.abc.es/espana/ley-prepara-gobierno-sobre-notarios-impedira-investigar-20260421035818-nt.html",
-      "scraped_at": "2026-04-22T08:03:49Z"
+      "title": "Montero rehúye la campaña que le diseña Moncloa en Andalucía por estar centrada en los pactos PP-Vox",
+      "subtitle": "La candidata del PSOE orilla el discurso del miedo porque cree que beneficia a Juanma Moreno",
+      "url": "https://www.abc.es/espana/montero-ignora-andalucia-campana-moncloa-pactos-pp-20260423041932-nt.html",
+      "scraped_at": "2026-04-23T08:08:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cinco años en las cárceles del régimen cubano: «Llegué a pensar que moriría de hambre o de frío»",
-      "subtitle": "Alexander Díaz pasó cinco años en las cárceles del régimen cubano por participar en las protestas del 11 de julio de 2021. ABC habló con él sobre las torturas y las malas condiciones que sufrió en prisión",
-      "url": "https://www.abc.es/internacional/entrevista-preso-cubano-alexander-diaz-20260421035928-nt.html",
-      "scraped_at": "2026-04-22T08:03:49Z"
+      "title": "El acuerdo entre PP y Vox en Aragón estuvo «congelado» una semana a la espera de Guardiola",
+      "subtitle": "Los socios buscaron el momento ideal para anunciar el éxito de unas conversaciones más sencillas que las de Extremadura",
+      "url": "https://www.abc.es/espana/negociacion-aragon-20260422041926-nt.html",
+      "scraped_at": "2026-04-23T08:08:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez Peinado amplía otra investigación contra el alto cargo de Ribera",
-      "subtitle": "La Fiscalía se opuso a seguir con la instrucción de esta causa, que sigue el mismo 'modus operandi' con informes elaborados sobre paneles solares",
-      "url": "https://www.abc.es/espana/juez-peinado-amplia-investigacion-alto-cargo-ribera-20260422035831-nt.html",
-      "scraped_at": "2026-04-22T08:03:50Z"
+      "title": "¿Quién está al mando en Irán?",
+      "subtitle": "Desde la eliminación de Alí Jamenei el 28 de febrero tras un ataque israelí, en la república islámica no se sabe muy bien quién tiene el poder. Los analistas hablan de la militarización de su política",
+      "url": "https://www.abc.es/internacional/mando-iran-20260423041946-nt.html",
+      "scraped_at": "2026-04-23T08:08:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Senado abrirá hoy la puerta a ir contra Armengol y la Mesa del Congreso",
-      "subtitle": "Aprobará una moción que avisa a PSOE y Sumar de consecuencias legales si siguen bloqueando leyes",
-      "url": "https://www.abc.es/espana/senado-declara-deriva-peligrosa-antidemocratica-autoritaria-gobierno-20260422035824-nt.html",
-      "scraped_at": "2026-04-22T08:03:50Z"
+      "title": "Mariano Rajoy declara en la Audiencia Nacional por el caso Kitchen",
+      "subtitle": "Sigue en directo el juicio por la operación Kitchen en la Audiencia Nacional, con las declaraciones de Mariano Rajoy y María Dolores de Cospedal, que están citados como testigos",
+      "url": "https://www.abc.es/espana/mariano-rajoy-cospedal-declaran-juicio-operacion-kitchen-20260423090225-di.html",
+      "scraped_at": "2026-04-23T08:08:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-22T08:03:51Z"
+      "title": "Diego, pastor de 200 ovejas: «La lana no se vende, ni la leche, los animales se venden a los 40, 50 o 60 días»",
+      "subtitle": "La escasa rentabilidad y la dureza de un trabajo sin descanso ni relevo generacional abocan a la desaparición de una de las profesiones más antiguas...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/diego-pastor-lana-leche-no-venden-40-50-60-dias-animales-venden-mueran-viejos-acaba-pastoreo-20260423_3344658.html",
+      "scraped_at": "2026-04-23T08:08:34Z"
     }
   ]
 }

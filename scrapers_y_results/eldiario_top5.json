@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Las comunidades del PP amenazan con boicotear el Plan Estatal que blinda para siempre la vivienda de protección oficial: Las críticas del ejecutivo de Ayuso y la indefinición de los barones sobre si aceptarán las transferencias, con excepción de Galicia, deja en el aire 5.000 de los 7.000 millones públicos para ayudas; Junts da un paso más en su choque con el Gobierno y le pide a Sánchez que convoque elecciones: El presidente responde en la sesión de control que la existencia del Ejecutivo progresista \"también se fundamenta en la respuesta a los gobiernos de PP y Vox\" e insiste en que piensa agotar la legislatura y cumplir con los acuerdos pendientes con sus socios; El PP intenta acotar la “prioridad nacional” de su pacto con Vox para no contagiar a las elecciones andaluzas: “Ningún extranjero que viva aquí legalmente” será “discriminado frente a un español de nacimiento”, apuntan desde la dirección de Feijóo, mientras Moreno descarga “en los andaluces” la “responsabilidad” de evitar un pacto con la ultraderecha que no descarta. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-22T08:03:48Z",
+  "summary": "Resumen del día en elDiario.es: El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal pasan por el juicio: El juez instructor evitó ahondar en los indicios contra el expresidente del Gobierno, que será el primero en declarar este jueves, mientras que despreció los que se habían acumulado contra la secretaria general del PP, a la que apenas mantuvo dos meses imputada; El alcance de la “prioridad nacional” pactada por PP y Vox en Extremadura y Aragón enfrenta a sus direcciones estatales: Jorge Azcón logra el apoyo de los ultras para un segundo mandato con un Gobierno de coalición que estará \"regido\" por un \"concepto político\" que el partido de Santiago Abascal quiere hacer ley en toda España; Las claves del acuerdo en Aragón: no a los menores migrantes, el 'español primero' y freno a las renovables: Los populares aceptan las tesis de la extrema derecha en la gestión de la inmigración y, a diferencia del pacto extremeño, incluyen aspectos como la limpieza del Ebro. El nuevo programa es mucho más duro que el suscrito entre las dos formaciones en el verano de 2023. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-23T08:08:31Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Las comunidades del PP amenazan con boicotear el Plan Estatal que blinda para siempre la vivienda de protección oficial",
-      "subtitle": "Las críticas del ejecutivo de Ayuso y la indefinición de los barones sobre si aceptarán las transferencias, con excepción de Galicia, deja en el aire 5.000 de los 7.000 millones públicos para ayudas",
-      "url": "https://www.eldiario.es/economia/comunidades-pp-amenazan-boicotear-plan-estatal-blinda-vivienda-proteccion-oficial_1_13160704.html",
-      "scraped_at": "2026-04-22T08:03:46Z"
+      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal pasan por el juicio",
+      "subtitle": "El juez instructor evitó ahondar en los indicios contra el expresidente del Gobierno, que será el primero en declarar este jueves, mientras que despreció los que se habían acumulado contra la secretaria general del PP, a la que apenas mantuvo dos meses imputada",
+      "url": "https://www.eldiario.es/politica/efecto-garcia-castellon-kitchen-cinco-anos-despues-rajoy-cospedal-pasan-juicio-testigos_1_13161987.html",
+      "scraped_at": "2026-04-23T08:08:29Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Junts da un paso más en su choque con el Gobierno y le pide a Sánchez que convoque elecciones",
-      "subtitle": "El presidente responde en la sesión de control que la existencia del Ejecutivo progresista \"también se fundamenta en la respuesta a los gobiernos de PP y Vox\" e insiste en que piensa agotar la legislatura y cumplir con los acuerdos pendientes con sus socios",
-      "url": "https://www.eldiario.es/politica/junts-da-paso-choque-gobierno-le-pide-sanchez-convoque-elecciones_1_13162336.html",
-      "scraped_at": "2026-04-22T08:03:46Z"
+      "title": "El alcance de la “prioridad nacional” pactada por PP y Vox en Extremadura y Aragón enfrenta a sus direcciones estatales",
+      "subtitle": "Jorge Azcón logra el apoyo de los ultras para un segundo mandato con un Gobierno de coalición que estará \"regido\" por un \"concepto político\" que el partido de Santiago Abascal quiere hacer ley en toda España",
+      "url": "https://www.eldiario.es/politica/alcance-prioridad-nacional-pactada-pp-vox-extremadura-aragon-enfrenta-direcciones-estatales_1_13164884.html",
+      "scraped_at": "2026-04-23T08:08:30Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP intenta acotar la “prioridad nacional” de su pacto con Vox para no contagiar a las elecciones andaluzas",
-      "subtitle": "“Ningún extranjero que viva aquí legalmente” será “discriminado frente a un español de nacimiento”, apuntan desde la dirección de Feijóo, mientras Moreno descarga “en los andaluces” la “responsabilidad” de evitar un pacto con la ultraderecha que no descarta",
-      "url": "https://www.eldiario.es/politica/pp-acotar-prioridad-nacional-pacto-vox-no-contagiar-elecciones-andaluzas_1_13161705.html",
-      "scraped_at": "2026-04-22T08:03:47Z"
+      "title": "Las claves del acuerdo en Aragón: no a los menores migrantes, el 'español primero' y freno a las renovables",
+      "subtitle": "Los populares aceptan las tesis de la extrema derecha en la gestión de la inmigración y, a diferencia del pacto extremeño, incluyen aspectos como la limpieza del Ebro. El nuevo programa es mucho más duro que el suscrito entre las dos formaciones en el verano de 2023",
+      "url": "https://www.eldiario.es/aragon/politica/claves-acuerdo-aragon-pp-vox-no-menores-migrantes-espanol-freno-renovables_1_13164928.html",
+      "scraped_at": "2026-04-23T08:08:30Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia que amplía el alto el fuego a petición de Pakistán y “hasta que Irán presente una propuesta unificada”",
-      "subtitle": "El presidente de EEUU hace el anuncio a cuatro horas de vencer la tregua de dos semanas pactada con Teherán: \"Se nos ha solicitado que suspendamos nuestro ataque contra Irán hasta que sus líderes y representantes puedan presentar una propuesta unificada\"",
-      "url": "https://www.eldiario.es/internacional/trump-anuncia-mantiene-alto-fuego-iran-peticion-pakistan_1_13161949.html",
-      "scraped_at": "2026-04-22T08:03:47Z"
+      "title": "La 'prioridad nacional', la obsesión de Jean-Marie Le Pen que ahora quieren aplicar Vox y PP",
+      "subtitle": "Formulado por primera vez en 1985, el fundador del Frente Nacional y su hija convirtieron el concepto en la base de sus programas electorales y en el principal marcador ideológico del partido ultra francés",
+      "url": "https://www.eldiario.es/internacional/prioridad-nacional-obsesion-jean-marie-le-pen-ahora-quieren-aplicar-vox-pp-extremadura-aragon_1_13164941.html",
+      "scraped_at": "2026-04-23T08:08:31Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Franquismo",
-      "subtitle": "Investigadores y familias de represaliados denuncian \"dificultades persistentes\" en el acceso a los fondos sobre la represión que custodia el ministerio, que oculta nombres en expedientes y oficios o envía la documentación fuera de plazo",
-      "url": "https://www.eldiario.es/sociedad/borrado-nombres-papeles-franquismo-archivo-ministerio-interior-frenando-investigacion_1_13159430.html",
-      "scraped_at": "2026-04-22T08:03:48Z"
+      "title": "Alto el fuego",
+      "subtitle": "La ampliación del alto el fuego por parte de EEUU, junto al bloqueo naval, se considera en los debates iraníes como un escenario desfavorable, ya que revierte su estrategia de ejercer presión mediante el desgaste, pero Washington también sale perjudicado del nuevo impasse creado por Donald Trump",
+      "url": "https://www.eldiario.es/internacional/implicaciones-favorece-alto-fuego-negociaciones-vista-guerra-iran_1_13164935.html",
+      "scraped_at": "2026-04-23T08:08:31Z"
     }
   ]
 }
