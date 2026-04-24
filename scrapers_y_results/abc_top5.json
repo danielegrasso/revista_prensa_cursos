@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Montero rehúye la campaña que le diseña Moncloa en Andalucía por estar centrada en los pactos PP-Vox: La candidata del PSOE orilla el discurso del miedo porque cree que beneficia a Juanma Moreno; El acuerdo entre PP y Vox en Aragón estuvo «congelado» una semana a la espera de Guardiola: Los socios buscaron el momento ideal para anunciar el éxito de unas conversaciones más sencillas que las de Extremadura; ¿Quién está al mando en Irán?: Desde la eliminación de Alí Jamenei el 28 de febrero tras un ataque israelí, en la república islámica no se sabe muy bien quién tiene el poder. Los analistas hablan de la militarización de su política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-23T08:08:34Z",
+  "summary": "Resumen del día en ABC.es: El Pentágono plantea la expulsión de España de la OTAN: En el caso de Reino Unido, amenaza con revisar la posición de EE.UU. sobre las islas Malvinas, cuya soberanía reclama Argentina; ¿Puede EE.UU. expulsar a España de la OTAN? Esto explica el Tratado de la Alianza: La intención de la Administración de Trump sería la de contrarrestar el sentimiento de superioridad de los países europeos que no están alineados con la estrategia en Oriente Próximo; Roca Rey pasa la noche en la UCI: «Ha sido una cornada muy grande, pero limpia»: La figura peruana, con una herida de 35 centímetros de extensión que «rozó la vena y la arteria», se encuentra estable y sin fiebre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-24T08:20:00Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Montero rehúye la campaña que le diseña Moncloa en Andalucía por estar centrada en los pactos PP-Vox",
-      "subtitle": "La candidata del PSOE orilla el discurso del miedo porque cree que beneficia a Juanma Moreno",
-      "url": "https://www.abc.es/espana/montero-ignora-andalucia-campana-moncloa-pactos-pp-20260423041932-nt.html",
-      "scraped_at": "2026-04-23T08:08:32Z"
+      "title": "El Pentágono plantea la expulsión de España de la OTAN",
+      "subtitle": "En el caso de Reino Unido, amenaza con revisar la posición de EE.UU. sobre las islas Malvinas, cuya soberanía reclama Argentina",
+      "url": "https://www.abc.es/internacional/correo-electronico-interno-pentagono-sopesa-sacar-espana-20260424071654-nt.html",
+      "scraped_at": "2026-04-24T08:19:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "El acuerdo entre PP y Vox en Aragón estuvo «congelado» una semana a la espera de Guardiola",
-      "subtitle": "Los socios buscaron el momento ideal para anunciar el éxito de unas conversaciones más sencillas que las de Extremadura",
-      "url": "https://www.abc.es/espana/negociacion-aragon-20260422041926-nt.html",
-      "scraped_at": "2026-04-23T08:08:32Z"
+      "title": "¿Puede EE.UU. expulsar a España de la OTAN? Esto explica el Tratado de la Alianza",
+      "subtitle": "La intención de la Administración de Trump sería la de contrarrestar el sentimiento de superioridad de los países europeos que no están alineados con la estrategia en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/puede-eeuu-expulsar-espana-otan-explica-tratado-20260424092359-nt.html",
+      "scraped_at": "2026-04-24T08:20:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Quién está al mando en Irán?",
-      "subtitle": "Desde la eliminación de Alí Jamenei el 28 de febrero tras un ataque israelí, en la república islámica no se sabe muy bien quién tiene el poder. Los analistas hablan de la militarización de su política",
-      "url": "https://www.abc.es/internacional/mando-iran-20260423041946-nt.html",
-      "scraped_at": "2026-04-23T08:08:33Z"
+      "title": "Roca Rey pasa la noche en la UCI: «Ha sido una cornada muy grande, pero limpia»",
+      "subtitle": "La figura peruana, con una herida de 35 centímetros de extensión que «rozó la vena y la arteria», se encuentra estable y sin fiebre",
+      "url": "https://www.abc.es/cultura/toros/sevilla/roca-rey-20260425095801-nts.html",
+      "scraped_at": "2026-04-24T08:20:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mariano Rajoy declara en la Audiencia Nacional por el caso Kitchen",
-      "subtitle": "Sigue en directo el juicio por la operación Kitchen en la Audiencia Nacional, con las declaraciones de Mariano Rajoy y María Dolores de Cospedal, que están citados como testigos",
-      "url": "https://www.abc.es/espana/mariano-rajoy-cospedal-declaran-juicio-operacion-kitchen-20260423090225-di.html",
-      "scraped_at": "2026-04-23T08:08:33Z"
+      "title": "Morante ha resucitado",
+      "subtitle": "Es el mismo de siempre, en cuerpo glorioso, después de irse en aquel ruedo de Madrid llorando como un chiquillo, vestido de Antoñete y oro",
+      "url": "https://www.abc.es/opinion/chapu-apaolaza-morante-resucitado-20260417034034-nt.html",
+      "scraped_at": "2026-04-24T08:20:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Diego, pastor de 200 ovejas: «La lana no se vende, ni la leche, los animales se venden a los 40, 50 o 60 días»",
-      "subtitle": "La escasa rentabilidad y la dureza de un trabajo sin descanso ni relevo generacional abocan a la desaparición de una de las profesiones más antiguas...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/diego-pastor-lana-leche-no-venden-40-50-60-dias-animales-venden-mueran-viejos-acaba-pastoreo-20260423_3344658.html",
-      "scraped_at": "2026-04-23T08:08:34Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-04-24T08:20:00Z"
     }
   ]
 }

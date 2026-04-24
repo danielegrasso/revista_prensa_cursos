@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: PP y Vox sortean el ruido de la \"prioridad nacional\" y blindan sus pactos con la vista en la Moncloa: Génova reniega del precepto de &quot;españoles primero&quot; y choca con Vox por su encaje legal. La tensión en Madrid no impide culminar los acuerdos en Extremadura y Aragón, que señalan el futuro camino de Feijóo y Abascal; Cataluña es la única CCAA con más presos extranjeros que  españoles: la mayoría, magrebíes: Uno de cada tres reclusos foráneos procede del Magreb y más de una cuarta parte proviene de América Latina, según un informe del sindicato de prisiones Marea Blava. El 10,3% son de la Europa comunitaria; La egiptóloga que renegó de los faraones: \"Lo que sabemos sobre Ramsés se lo inventó él\": La arqueóloga catalana Irene Cordón revisa su fascinación con la egiptología en el libro &#039;Faraones de Silicon Valley&#039;, donde pone en tela de juicio la propaganda faranoica. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-23T08:08:38Z",
+  "summary": "Resumen del día en El Confidencial: Moncloa comunica a Bruselas que frenará la reducción del déficit este año: Hacienda notifica que el déficit se estancará cerca de los 37.000 millones de euros. La AIReF incluso cree que subirá este año por las diferentes medidas de gasto adoptadas; De la publicidad a los grandes simios: las 180 normas que Sánchez planea aprobar en 2026: El Confidencial accede al borrador con las normas que el Gobierno pretende sacar adelante este año, cuando buscará elevar las sanciones por vulnerar el derecho al honor o regular el Valle de los Caídos; ¿'Parking' en Castellana? Vale, pero legal y solo residentes: qué piden los vecinos del Bernabéu: El Ayuntamiento se ha sentado con la Asociación Vecinal Perjudicados por el Bernabéu para intentar salvar el parking de Castellana, uno de los dos subterráneos que quiere el Madrid. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-24T08:20:03Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "PP y Vox sortean el ruido de la \"prioridad nacional\" y blindan sus pactos con la vista en la Moncloa",
-      "subtitle": "Génova reniega del precepto de &quot;españoles primero&quot; y choca con Vox por su encaje legal. La tensión en Madrid no impide culminar los acuerdos en Extremadura y Aragón, que señalan el futuro camino de Feijóo y Abascal",
-      "url": "https://www.elconfidencial.com/espana/2026-04-23/pp-vox-sortean-ruido-prioridad-nacional-pactos-moncloa_4343172/",
-      "scraped_at": "2026-04-23T08:08:36Z"
+      "title": "Moncloa comunica a Bruselas que frenará la reducción del déficit este año",
+      "subtitle": "Hacienda notifica que el déficit se estancará cerca de los 37.000 millones de euros. La AIReF incluso cree que subirá este año por las diferentes medidas de gasto adoptadas",
+      "url": "https://www.elconfidencial.com/economia/2026-04-24/gobierno-comunica-bruselas-frenazo-reduccion-deficit_4343919/",
+      "scraped_at": "2026-04-24T08:20:02Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Cataluña es la única CCAA con más presos extranjeros que  españoles: la mayoría, magrebíes",
-      "subtitle": "Uno de cada tres reclusos foráneos procede del Magreb y más de una cuarta parte proviene de América Latina, según un informe del sindicato de prisiones Marea Blava. El 10,3% son de la Europa comunitaria",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-04-23/cataluna-la-unica-comunidad-con-mas-presos-extranjeros-que-espanoles-la-mayoria-magrebies_4343160/",
-      "scraped_at": "2026-04-23T08:08:36Z"
+      "title": "De la publicidad a los grandes simios: las 180 normas que Sánchez planea aprobar en 2026",
+      "subtitle": "El Confidencial accede al borrador con las normas que el Gobierno pretende sacar adelante este año, cuando buscará elevar las sanciones por vulnerar el derecho al honor o regular el Valle de los Caídos",
+      "url": "https://www.elconfidencial.com/espana/2026-04-24/borrador-plan-normativo-moncloa_4343839/",
+      "scraped_at": "2026-04-24T08:20:03Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La egiptóloga que renegó de los faraones: \"Lo que sabemos sobre Ramsés se lo inventó él\"",
-      "subtitle": "La arqueóloga catalana Irene Cordón revisa su fascinación con la egiptología en el libro &#039;Faraones de Silicon Valley&#039;, donde pone en tela de juicio la propaganda faranoica",
-      "url": "https://www.elconfidencial.com/cultura/2026-04-23/egipto-faraones-idealizacion-fascinacion-1hms_4342743/",
-      "scraped_at": "2026-04-23T08:08:37Z"
+      "title": "¿'Parking' en Castellana? Vale, pero legal y solo residentes: qué piden los vecinos del Bernabéu",
+      "subtitle": "El Ayuntamiento se ha sentado con la Asociación Vecinal Perjudicados por el Bernabéu para intentar salvar el parking de Castellana, uno de los dos subterráneos que quiere el Madrid",
+      "url": "https://www.elconfidencial.com/inmobiliario/inversiones-alternativas/2026-04-24/parking-bernabeu-crisis-real-madrid_4343794/",
+      "scraped_at": "2026-04-24T08:20:03Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Algo está pasando en Alemania para que cada vez más jóvenes se alisten en el Ejército",
-      "subtitle": "A pesar de la polémica que ha generado la nueva ley para potenciar las fuerzas armadas, los cuarteles de Alemania han registrado cifras récord de reclutamiento en un contexto de creciente incertidumbre laboral",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-23/servicio-militar-alemania-reclutamiento-jovenes-1hms_4338747/",
-      "scraped_at": "2026-04-23T08:08:37Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Ana Milán tras pisar 'GH': \"No veré realities, pero ahora los respeto más\"",
-      "subtitle": "La presentadora de Cuatro ha aunado a perfiles de formatos de irrebatible éxito que han tocado el cielo y el infierno desde el mismo escenario mediático",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-04-23/ana-milan-ex-la-vida-despues-reality-respeto-gh_4343309/",
-      "scraped_at": "2026-04-23T08:08:38Z"
+      "title": "C. Valenciana",
+      "subtitle": "El control en la avenida Tarongers detectó cocaína en el conductor de un autocar con equipajes de 25 visitantes chinos; el vehículo quedó retenido y el grupo fue trasladado en taxis a Benicàssim",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/",
+      "scraped_at": "2026-04-24T08:20:03Z"
     }
   ]
 }
