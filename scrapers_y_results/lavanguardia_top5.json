@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Un correo interno del Pentágono plantea suspender a España de la OTAN: El documento explora cómo exigir responsabilidades a los miembros de la Alianza Atlántica tras el desencuentro por la guerra contra Irán, según un alto cargo estadounidense; Sánchez resta importancia al correo del Pentágono: “Absoluta tranquilidad”: El presidente del Gobierno reitera el “cumplimiento” de España de sus obligaciones en la OTAN; ¿Es legal que nos suban el precio de un billete de avión después de haberlo comprado?: La crisis provocada por la guerra en Irán ha disparado el coste del combustible y esto empieza a afectar a las compañías aéreas que ya han anunciado cancelaciones masivas de vuelos o recargos en sus tarifas de viajes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-24T08:20:01Z",
+  "summary": "Resumen del día en La Vanguardia: El secreto de la resistencia iraní frente a EE.UU.: nacionalismo y religión: EE.UU. e Israel hablan de división y vacío de poder en Teherán, pero la realidad desmiente esa impresión; Trump envía a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán: El vicepresidente, J.D. Vance, se quedará en Washington y solo acudirá si las negociaciones progresan; Trump amenaza con reconsiderar la soberanía de las islas Malvinas: Las relaciones entre Washington y Londres han sufrido un grave deterioro con la guerra de Irán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-25T07:43:34Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Un correo interno del Pentágono plantea suspender a España de la OTAN",
-      "subtitle": "El documento explora cómo exigir responsabilidades a los miembros de la Alianza Atlántica tras el desencuentro por la guerra contra Irán, según un alto cargo estadounidense",
-      "url": "https://www.lavanguardia.com/internacional/20260424/11521571/correo-interno-pentagono-plantea-suspender-espana-otan.html",
-      "scraped_at": "2026-04-24T08:20:01Z"
+      "title": "El secreto de la resistencia iraní frente a EE.UU.: nacionalismo y religión",
+      "subtitle": "EE.UU. e Israel hablan de división y vacío de poder en Teherán, pero la realidad desmiente esa impresión",
+      "url": "https://www.lavanguardia.com/internacional/20260425/11522227/cual-secreto-fortaleza-irani.html",
+      "scraped_at": "2026-04-25T07:43:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez resta importancia al correo del Pentágono: “Absoluta tranquilidad”",
-      "subtitle": "El presidente del Gobierno reitera el “cumplimiento” de España de sus obligaciones en la OTAN",
-      "url": "https://www.lavanguardia.com/politica/20260424/11521607/sanchez-resta-importancia-correo-pentagono-sobre-documentos-oficiales.html",
-      "scraped_at": "2026-04-24T08:20:01Z"
+      "title": "Trump envía a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán",
+      "subtitle": "El vicepresidente, J.D. Vance, se quedará en Washington y solo acudirá si las negociaciones progresan",
+      "url": "https://www.lavanguardia.com/internacional/20260424/11522188/trump-enviara-witkoff-kushner-pakistan-retomar-dialogo-paz-iran.html",
+      "scraped_at": "2026-04-25T07:43:34Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Es legal que nos suban el precio de un billete de avión después de haberlo comprado?",
-      "subtitle": "La crisis provocada por la guerra en Irán ha disparado el coste del combustible y esto empieza a afectar a las compañías aéreas que ya han anunciado cancelaciones masivas de vuelos o recargos en sus tarifas de viajes",
-      "url": "https://www.lavanguardia.com/economia/20260424/11521015/legal-suban-precio-billete-avion-haberlo-comprado.html",
-      "scraped_at": "2026-04-24T08:20:01Z"
+      "title": "Trump amenaza con reconsiderar la soberanía de las islas Malvinas",
+      "subtitle": "Las relaciones entre Washington y Londres han sufrido un grave deterioro con la guerra de Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260425/11522184/trump-amenaza-reconsiderar-soberania-islas-malvinas.html",
+      "scraped_at": "2026-04-25T07:43:34Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Estados Unidos, vulnerable al sabotaje electoral",
-      "subtitle": "Las malas perspectivas de los republicanos en las elecciones de noviembre hacen temer injerencias para condicionar o rebatir los resultados",
-      "url": "https://www.lavanguardia.com/internacional/20260424/11521212/estados-unidos-ee-uu-trump-elecciones-mitad-de-mandato-mid-term.html",
-      "scraped_at": "2026-04-24T08:20:01Z"
+      "title": "La UE activa su cláusula de defensa mutua entre países comunitarios",
+      "subtitle": "Bruselas se pone en marcha para diseñar un protocolo para que todos los Estados miembros tengan claro cómo actuar en caso de un ataque exterior",
+      "url": "https://www.lavanguardia.com/internacional/20260424/11522117/ue-activa-clausula-defensa-mutua-paises-comunitarios.html",
+      "scraped_at": "2026-04-25T07:43:34Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cocopool se expande a nuevas provincias para liderar el alquiler de piscinas en España",
-      "subtitle": "La empresa, con sede en el TecnoCampus, cierra una ronda de financiación de 435.000 euros para acelerar su crecimiento nacional y profesionalizar la economía colaborativa en el jardín",
-      "url": "https://www.lavanguardia.com/economia/innovacion/20260424/11520829/cocopool-expande-nuevas-provincias-liderar-alquiler-piscinas-espana-brl.html",
-      "scraped_at": "2026-04-24T08:20:01Z"
+      "title": "Shakira y la prioridad nacional",
+      "subtitle": "Vox consigue imponer su lenguaje al PP que busca el voto latinoamericano",
+      "url": "https://www.lavanguardia.com/politica/20260425/11522291/shakira-prioridad-nacional.html",
+      "scraped_at": "2026-04-25T07:43:34Z"
     }
   ]
 }

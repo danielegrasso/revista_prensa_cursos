@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Pentágono plantea la expulsión de España de la OTAN: En el caso de Reino Unido, amenaza con revisar la posición de EE.UU. sobre las islas Malvinas, cuya soberanía reclama Argentina; ¿Puede EE.UU. expulsar a España de la OTAN? Esto explica el Tratado de la Alianza: La intención de la Administración de Trump sería la de contrarrestar el sentimiento de superioridad de los países europeos que no están alineados con la estrategia en Oriente Próximo; Roca Rey pasa la noche en la UCI: «Ha sido una cornada muy grande, pero limpia»: La figura peruana, con una herida de 35 centímetros de extensión que «rozó la vena y la arteria», se encuentra estable y sin fiebre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-24T08:20:00Z",
+  "summary": "Resumen del día en ABC.es: Cinco organismos internacionales alertan ya sobre la corrupción en España: Las evaluaciones de la Comisión Europea, la OCDE, el Greco, el Consejo de Europa y Transparencia Internacional revelan fallos estructurales que no se corrigen; Militares temen represalias de EE.UU. ante la imposibilidad de echar a España de la OTAN: Washington podría presionar con la venta de armamento, las bases de Morón y Rota o el aislamiento de Sánchez; En el pueblo del asesino en serie que se ha convertido en mujer: El nombre de Joan Vila, condenado a 127 años de cárcel, y que ahora se siente mujer, colocó a la tranquila localidad de Castellfollit de la Roca en todas las portadas hace 16 años. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-25T07:43:32Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Pentágono plantea la expulsión de España de la OTAN",
-      "subtitle": "En el caso de Reino Unido, amenaza con revisar la posición de EE.UU. sobre las islas Malvinas, cuya soberanía reclama Argentina",
-      "url": "https://www.abc.es/internacional/correo-electronico-interno-pentagono-sopesa-sacar-espana-20260424071654-nt.html",
-      "scraped_at": "2026-04-24T08:19:59Z"
+      "title": "Cinco organismos internacionales alertan ya sobre la corrupción en España",
+      "subtitle": "Las evaluaciones de la Comisión Europea, la OCDE, el Greco, el Consejo de Europa y Transparencia Internacional revelan fallos estructurales que no se corrigen",
+      "url": "https://www.abc.es/espana/cinco-instituciones-internacionales-alertado-sobre-corrupcion-espana-20260425015959-nt.html",
+      "scraped_at": "2026-04-25T07:43:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Puede EE.UU. expulsar a España de la OTAN? Esto explica el Tratado de la Alianza",
-      "subtitle": "La intención de la Administración de Trump sería la de contrarrestar el sentimiento de superioridad de los países europeos que no están alineados con la estrategia en Oriente Próximo",
-      "url": "https://www.abc.es/internacional/puede-eeuu-expulsar-espana-otan-explica-tratado-20260424092359-nt.html",
-      "scraped_at": "2026-04-24T08:20:00Z"
+      "title": "Militares temen represalias de EE.UU. ante la imposibilidad de echar a España de la OTAN",
+      "subtitle": "Washington podría presionar con la venta de armamento, las bases de Morón y Rota o el aislamiento de Sánchez",
+      "url": "https://www.abc.es/espana/militares-temen-represalias-eeuu-ante-imposibilidad-echar-20260425020130-nt.html",
+      "scraped_at": "2026-04-25T07:43:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Roca Rey pasa la noche en la UCI: «Ha sido una cornada muy grande, pero limpia»",
-      "subtitle": "La figura peruana, con una herida de 35 centímetros de extensión que «rozó la vena y la arteria», se encuentra estable y sin fiebre",
-      "url": "https://www.abc.es/cultura/toros/sevilla/roca-rey-20260425095801-nts.html",
-      "scraped_at": "2026-04-24T08:20:00Z"
+      "title": "En el pueblo del asesino en serie que se ha convertido en mujer",
+      "subtitle": "El nombre de Joan Vila, condenado a 127 años de cárcel, y que ahora se siente mujer, colocó a la tranquila localidad de Castellfollit de la Roca en todas las portadas hace 16 años",
+      "url": "https://www.abc.es/espana/cataluna/division-opiniones-pueblo-mayor-asesino-serie-espana-20260425020304-nt.html",
+      "scraped_at": "2026-04-25T07:43:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Morante ha resucitado",
-      "subtitle": "Es el mismo de siempre, en cuerpo glorioso, después de irse en aquel ruedo de Madrid llorando como un chiquillo, vestido de Antoñete y oro",
-      "url": "https://www.abc.es/opinion/chapu-apaolaza-morante-resucitado-20260417034034-nt.html",
-      "scraped_at": "2026-04-24T08:20:00Z"
+      "title": "Jon González: «El debate público está dominado por la narrativa, no por datos y evidencia reales»",
+      "subtitle": "ABC entrevista al divulgador que ha dinamitado el debate fiscal desde las redes sociales al demostrar a partir de fuentes oficiales que la rentas bajas pagan más IRPF ahora que en 2019",
+      "url": "https://www.abc.es/economia/jon-gonzalez-debate-publico-dominado-narrativa-datos-20260425020455-nt.html",
+      "scraped_at": "2026-04-25T07:43:32Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-24T08:20:00Z"
+      "scraped_at": "2026-04-25T07:43:32Z"
     }
   ]
 }
