@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El secreto de la resistencia iraní frente a EE.UU.: nacionalismo y religión: EE.UU. e Israel hablan de división y vacío de poder en Teherán, pero la realidad desmiente esa impresión; Trump envía a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán: El vicepresidente, J.D. Vance, se quedará en Washington y solo acudirá si las negociaciones progresan; Trump amenaza con reconsiderar la soberanía de las islas Malvinas: Las relaciones entre Washington y Londres han sufrido un grave deterioro con la guerra de Irán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-25T07:43:34Z",
+  "summary": "Resumen del día en La Vanguardia: Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo: El presidente, la primera dama y miembros de su gabinete salen ilesos del incidente, escoltados por miembros del Servicio Secreto; El atacante, Cole Tomas Allen, un maestro de 31 años de California: Identifican al tirador como, Cole Tomas Allen, un ingeniero y maestro de 31 años de Torrance, cerca de Los Ángeles, que actuo solo; Ni guerra ni paz en Irán: El conflicto llega a los dos meses con una tregua que es papel mojado en Ormuz. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-26T07:53:16Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El secreto de la resistencia iraní frente a EE.UU.: nacionalismo y religión",
-      "subtitle": "EE.UU. e Israel hablan de división y vacío de poder en Teherán, pero la realidad desmiente esa impresión",
-      "url": "https://www.lavanguardia.com/internacional/20260425/11522227/cual-secreto-fortaleza-irani.html",
-      "scraped_at": "2026-04-25T07:43:33Z"
+      "title": "Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo",
+      "subtitle": "El presidente, la primera dama y miembros de su gabinete salen ilesos del incidente, escoltados por miembros del Servicio Secreto",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11522986/evacuan-trump-cena-corresponsales-casa-blanca-sonido-posibles-disparos.html",
+      "scraped_at": "2026-04-26T07:53:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump envía a Witkoff y Kushner a Pakistán para retomar el diálogo de paz con Irán",
-      "subtitle": "El vicepresidente, J.D. Vance, se quedará en Washington y solo acudirá si las negociaciones progresan",
-      "url": "https://www.lavanguardia.com/internacional/20260424/11522188/trump-enviara-witkoff-kushner-pakistan-retomar-dialogo-paz-iran.html",
-      "scraped_at": "2026-04-25T07:43:34Z"
+      "title": "El atacante, Cole Tomas Allen, un maestro de 31 años de California",
+      "subtitle": "Identifican al tirador como, Cole Tomas Allen, un ingeniero y maestro de 31 años de Torrance, cerca de Los Ángeles, que actuo solo",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11522992/atacante-lobo-solitario-31-anos-california.html",
+      "scraped_at": "2026-04-26T07:53:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump amenaza con reconsiderar la soberanía de las islas Malvinas",
-      "subtitle": "Las relaciones entre Washington y Londres han sufrido un grave deterioro con la guerra de Irán",
-      "url": "https://www.lavanguardia.com/internacional/20260425/11522184/trump-amenaza-reconsiderar-soberania-islas-malvinas.html",
-      "scraped_at": "2026-04-25T07:43:34Z"
+      "title": "Ni guerra ni paz en Irán",
+      "subtitle": "El conflicto llega a los dos meses con una tregua que es papel mojado en Ormuz",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11522699/guerra-paz-iran.html",
+      "scraped_at": "2026-04-26T07:53:15Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La UE activa su cláusula de defensa mutua entre países comunitarios",
-      "subtitle": "Bruselas se pone en marcha para diseñar un protocolo para que todos los Estados miembros tengan claro cómo actuar en caso de un ataque exterior",
-      "url": "https://www.lavanguardia.com/internacional/20260424/11522117/ue-activa-clausula-defensa-mutua-paises-comunitarios.html",
-      "scraped_at": "2026-04-25T07:43:34Z"
+      "title": "Miedo a drones y a playas vacías",
+      "subtitle": "Los recientes ataques sobre las bases británicas en Chipre reabren el debate sobre su soberanía y provocan una caída del turismo",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11522670/miedo-drones-playas-vacias.html",
+      "scraped_at": "2026-04-26T07:53:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Shakira y la prioridad nacional",
-      "subtitle": "Vox consigue imponer su lenguaje al PP que busca el voto latinoamericano",
-      "url": "https://www.lavanguardia.com/politica/20260425/11522291/shakira-prioridad-nacional.html",
-      "scraped_at": "2026-04-25T07:43:34Z"
+      "title": "Fútbol hoy",
+      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
+      "url": "https://www.lavanguardia.com/deportes/resultados",
+      "scraped_at": "2026-04-26T07:53:16Z"
     }
   ]
 }

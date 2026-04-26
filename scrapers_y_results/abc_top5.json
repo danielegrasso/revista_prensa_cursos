@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Cinco organismos internacionales alertan ya sobre la corrupción en España: Las evaluaciones de la Comisión Europea, la OCDE, el Greco, el Consejo de Europa y Transparencia Internacional revelan fallos estructurales que no se corrigen; Militares temen represalias de EE.UU. ante la imposibilidad de echar a España de la OTAN: Washington podría presionar con la venta de armamento, las bases de Morón y Rota o el aislamiento de Sánchez; En el pueblo del asesino en serie que se ha convertido en mujer: El nombre de Joan Vila, condenado a 127 años de cárcel, y que ahora se siente mujer, colocó a la tranquila localidad de Castellfollit de la Roca en todas las portadas hace 16 años. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-25T07:43:32Z",
+  "summary": "Resumen del día en ABC.es: Trump sobrevive a otro intento de atentado en plena cena de corresponsales: El atacante ensambló un arma dentro del perímetro de seguridad del hotel Hilton de Washington; El presidente, a ABC: «Nadie me dijo que este trabajo fuera tan peligroso»: El presidente asume la violencia política como parte del cargo tras un nuevo ataque que obligó a evacuarle en Washington; De Butler a Washington: un presidente marcado por los intentos de asesinato: Antes de ganar la elección de 2024, Trump sobrevivió de milagro a dos intentos de acabar con su vida, lo que reforzó su figura política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-26T07:53:14Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Cinco organismos internacionales alertan ya sobre la corrupción en España",
-      "subtitle": "Las evaluaciones de la Comisión Europea, la OCDE, el Greco, el Consejo de Europa y Transparencia Internacional revelan fallos estructurales que no se corrigen",
-      "url": "https://www.abc.es/espana/cinco-instituciones-internacionales-alertado-sobre-corrupcion-espana-20260425015959-nt.html",
-      "scraped_at": "2026-04-25T07:43:32Z"
+      "title": "Trump sobrevive a otro intento de atentado en plena cena de corresponsales",
+      "subtitle": "El atacante ensambló un arma dentro del perímetro de seguridad del hotel Hilton de Washington",
+      "url": "https://www.abc.es/internacional/evacuan-trump-cena-periodistas-casa-blanca-tras-20260426025210-nt.html",
+      "scraped_at": "2026-04-26T07:53:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Militares temen represalias de EE.UU. ante la imposibilidad de echar a España de la OTAN",
-      "subtitle": "Washington podría presionar con la venta de armamento, las bases de Morón y Rota o el aislamiento de Sánchez",
-      "url": "https://www.abc.es/espana/militares-temen-represalias-eeuu-ante-imposibilidad-echar-20260425020130-nt.html",
-      "scraped_at": "2026-04-25T07:43:32Z"
+      "title": "El presidente, a ABC: «Nadie me dijo que este trabajo fuera tan peligroso»",
+      "subtitle": "El presidente asume la violencia política como parte del cargo tras un nuevo ataque que obligó a evacuarle en Washington",
+      "url": "https://www.abc.es/internacional/trump-abc-dijo-trabajo-peligroso-20260426053434-nt.html",
+      "scraped_at": "2026-04-26T07:53:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "En el pueblo del asesino en serie que se ha convertido en mujer",
-      "subtitle": "El nombre de Joan Vila, condenado a 127 años de cárcel, y que ahora se siente mujer, colocó a la tranquila localidad de Castellfollit de la Roca en todas las portadas hace 16 años",
-      "url": "https://www.abc.es/espana/cataluna/division-opiniones-pueblo-mayor-asesino-serie-espana-20260425020304-nt.html",
-      "scraped_at": "2026-04-25T07:43:32Z"
+      "title": "De Butler a Washington: un presidente marcado por los intentos de asesinato",
+      "subtitle": "Antes de ganar la elección de 2024, Trump sobrevivió de milagro a dos intentos de acabar con su vida, lo que reforzó su figura política",
+      "url": "https://www.abc.es/internacional/butler-washington-presidente-marcado-intentos-asesinato-20260426041226-nt.html",
+      "scraped_at": "2026-04-26T07:53:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Jon González: «El debate público está dominado por la narrativa, no por datos y evidencia reales»",
-      "subtitle": "ABC entrevista al divulgador que ha dinamitado el debate fiscal desde las redes sociales al demostrar a partir de fuentes oficiales que la rentas bajas pagan más IRPF ahora que en 2019",
-      "url": "https://www.abc.es/economia/jon-gonzalez-debate-publico-dominado-narrativa-datos-20260425020455-nt.html",
-      "scraped_at": "2026-04-25T07:43:32Z"
+      "title": "El sospechoso, un profesor de California de 31 años",
+      "subtitle": "Varios medios estadounidenses le han identificado como Cole Tomas Allen, un maestro de 31 años de Torrance, al sur de Los Ángeles. Estaba alojado en el hotel donde se celebraba la ceremonia",
+      "url": "https://www.abc.es/internacional/trump-comparte-imagenes-sospechoso-intento-atentado-washington-20260426045238-nt.html",
+      "scraped_at": "2026-04-26T07:53:13Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-25T07:43:32Z"
+      "title": "«Si tienes un salario estático de 1.500 euros y pagas un alquiler que vas justo, cuando llegues a la jubilación tendrás un problema»",
+      "subtitle": "Un analista financiero detalla la estrategia para adquirir una vivienda y advierte sobre los riesgos de vivir de alquiler de cara a la jubilación",
+      "url": "https://www.cope.es/actualidad/economia/noticias/banquero-pueblo-experto-financiero-tienes-salario-estatico-1-500-euros-pagas-alquiler-vas-justo-llegues-jubilacion-tendras-problema-20260425_3346807.html",
+      "scraped_at": "2026-04-26T07:53:14Z"
     }
   ]
 }
