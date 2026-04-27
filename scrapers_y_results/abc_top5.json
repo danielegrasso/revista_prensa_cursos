@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Trump sobrevive a otro intento de atentado en plena cena de corresponsales: El atacante ensambló un arma dentro del perímetro de seguridad del hotel Hilton de Washington; El presidente, a ABC: «Nadie me dijo que este trabajo fuera tan peligroso»: El presidente asume la violencia política como parte del cargo tras un nuevo ataque que obligó a evacuarle en Washington; De Butler a Washington: un presidente marcado por los intentos de asesinato: Antes de ganar la elección de 2024, Trump sobrevivió de milagro a dos intentos de acabar con su vida, lo que reforzó su figura política. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-26T07:53:14Z",
+  "summary": "Resumen del día en ABC.es: Bildu veta la presencia de la Policía para trámites ciudadanos en los municipios donde gobierna: Tan solo 17 de los 107 ayuntamientos gobernados por la izquierda aberzale en el País Vasco solicitan el Vehículo Integral de Documentación (Vidoc); Las pensiones dispararán el gasto por encima de los 240.000 millones este año: La subida de las nóminas con el IPC y el acelerado desembarco de los 'boomers', son un desafío para las cuentas públicas; La violencia política se recrudece en EE.UU. con el tercer atentado contra Trump: Por tercera vez desde 2024, cuando una bala le rozó la cabeza en un mitin, el presidente vuelve a ser el objetivo de un ataque por parte de un hombre armado en medio de una fuerte polarización social. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-27T08:40:16Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Trump sobrevive a otro intento de atentado en plena cena de corresponsales",
-      "subtitle": "El atacante ensambló un arma dentro del perímetro de seguridad del hotel Hilton de Washington",
-      "url": "https://www.abc.es/internacional/evacuan-trump-cena-periodistas-casa-blanca-tras-20260426025210-nt.html",
-      "scraped_at": "2026-04-26T07:53:12Z"
+      "title": "Bildu veta la presencia de la Policía para trámites ciudadanos en los municipios donde gobierna",
+      "subtitle": "Tan solo 17 de los 107 ayuntamientos gobernados por la izquierda aberzale en el País Vasco solicitan el Vehículo Integral de Documentación (Vidoc)",
+      "url": "https://www.abc.es/espana/pais-vasco/bildu-veta-policia-nacional-tramitar-dni-gobierna-20260427023310-nt.html",
+      "scraped_at": "2026-04-27T08:40:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "El presidente, a ABC: «Nadie me dijo que este trabajo fuera tan peligroso»",
-      "subtitle": "El presidente asume la violencia política como parte del cargo tras un nuevo ataque que obligó a evacuarle en Washington",
-      "url": "https://www.abc.es/internacional/trump-abc-dijo-trabajo-peligroso-20260426053434-nt.html",
-      "scraped_at": "2026-04-26T07:53:12Z"
+      "title": "Las pensiones dispararán el gasto por encima de los 240.000 millones este año",
+      "subtitle": "La subida de las nóminas con el IPC y el acelerado desembarco de los 'boomers', son un desafío para las cuentas públicas",
+      "url": "https://www.abc.es/economia/gasto-pensiones-acelera-ano-superara-240000-millones-20260426023155-nt.html",
+      "scraped_at": "2026-04-27T08:40:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "De Butler a Washington: un presidente marcado por los intentos de asesinato",
-      "subtitle": "Antes de ganar la elección de 2024, Trump sobrevivió de milagro a dos intentos de acabar con su vida, lo que reforzó su figura política",
-      "url": "https://www.abc.es/internacional/butler-washington-presidente-marcado-intentos-asesinato-20260426041226-nt.html",
-      "scraped_at": "2026-04-26T07:53:12Z"
+      "title": "La violencia política se recrudece en EE.UU. con el tercer atentado contra Trump",
+      "subtitle": "Por tercera vez desde 2024, cuando una bala le rozó la cabeza en un mitin, el presidente vuelve a ser el objetivo de un ataque por parte de un hombre armado en medio de una fuerte polarización social",
+      "url": "https://www.abc.es/internacional/disparos-cena-corresponsales-atentado-trump-hilton-20260425195604-nt.html",
+      "scraped_at": "2026-04-27T08:40:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "El sospechoso, un profesor de California de 31 años",
-      "subtitle": "Varios medios estadounidenses le han identificado como Cole Tomas Allen, un maestro de 31 años de Torrance, al sur de Los Ángeles. Estaba alojado en el hotel donde se celebraba la ceremonia",
-      "url": "https://www.abc.es/internacional/trump-comparte-imagenes-sospechoso-intento-atentado-washington-20260426045238-nt.html",
-      "scraped_at": "2026-04-26T07:53:13Z"
+      "title": "Pumpido rompe el bloqueo del Congreso",
+      "subtitle": "El TC irrumpe en el campo de batalla parlamentario con un fallo unánime contra la estrategia de PSOE y Sumar",
+      "url": "https://www.abc.es/opinion/ana-sanchez-pumpido-rompe-bloqueo-congreso-20260427191434-nt.html",
+      "scraped_at": "2026-04-27T08:40:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Si tienes un salario estático de 1.500 euros y pagas un alquiler que vas justo, cuando llegues a la jubilación tendrás un problema»",
-      "subtitle": "Un analista financiero detalla la estrategia para adquirir una vivienda y advierte sobre los riesgos de vivir de alquiler de cara a la jubilación",
-      "url": "https://www.cope.es/actualidad/economia/noticias/banquero-pueblo-experto-financiero-tienes-salario-estatico-1-500-euros-pagas-alquiler-vas-justo-llegues-jubilacion-tendras-problema-20260425_3346807.html",
-      "scraped_at": "2026-04-26T07:53:14Z"
+      "title": "«Si te sientas en un bar donde están sirviendo tapas a todo el mundo menos a ti, la clave está en lo que está escrito en la pizarra o el cartel»",
+      "subtitle": "La tradición de la tapa no siempre se convierte en un derecho para el consumidor, que a menudo desconoce otras prácticas ilegales muy extendidas en...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/te-sientas-bar-sirviendo-tapas-mundo-ti-clave-escrito-cartel-pizarra-local-20260427_3352925.html",
+      "scraped_at": "2026-04-27T08:40:16Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo: El presidente, la primera dama y miembros de su gabinete salen ilesos del incidente, escoltados por miembros del Servicio Secreto; El atacante, Cole Tomas Allen, un maestro de 31 años de California: Identifican al tirador como, Cole Tomas Allen, un ingeniero y maestro de 31 años de Torrance, cerca de Los Ángeles, que actuo solo; Ni guerra ni paz en Irán: El conflicto llega a los dos meses con una tregua que es papel mojado en Ormuz. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-26T07:53:16Z",
+  "summary": "Resumen del día en La Vanguardia: Willy Bárcenas y Saénz de Santamaría declaran hoy: Entre el martes y el jueves se espera que testifiquen más de una decena de agentes policiales ante el tribuna; Conmoción en EE.UU. por el tercer intento de asesinato de Trump: El presidente norteamericano, que resultó ileso, atribuye al autor un fuerte sentimiento “anticristiano”; Trump, sobre el tiroteo: “No estaba preocupado. Entiendo la vida, vivimos en un mundo loco”: El presidente de EE.UU. acusa a los demócratas de la espiral de violencia: “Su discurso de odio es muy peligroso”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-04-27T08:40:18Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo",
-      "subtitle": "El presidente, la primera dama y miembros de su gabinete salen ilesos del incidente, escoltados por miembros del Servicio Secreto",
-      "url": "https://www.lavanguardia.com/internacional/20260426/11522986/evacuan-trump-cena-corresponsales-casa-blanca-sonido-posibles-disparos.html",
-      "scraped_at": "2026-04-26T07:53:15Z"
+      "title": "Willy Bárcenas y Saénz de Santamaría declaran hoy",
+      "subtitle": "Entre el martes y el jueves se espera que testifiquen más de una decena de agentes policiales ante el tribuna",
+      "url": "https://www.lavanguardia.com/politica/20260427/11523305/hijo-barcenas-saenz-santamaria-arenas-marcan-cuarta-semana-juicio-operacion-kitchen.html",
+      "scraped_at": "2026-04-27T08:40:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El atacante, Cole Tomas Allen, un maestro de 31 años de California",
-      "subtitle": "Identifican al tirador como, Cole Tomas Allen, un ingeniero y maestro de 31 años de Torrance, cerca de Los Ángeles, que actuo solo",
-      "url": "https://www.lavanguardia.com/internacional/20260426/11522992/atacante-lobo-solitario-31-anos-california.html",
-      "scraped_at": "2026-04-26T07:53:15Z"
+      "title": "Conmoción en EE.UU. por el tercer intento de asesinato de Trump",
+      "subtitle": "El presidente norteamericano, que resultó ileso, atribuye al autor un fuerte sentimiento “anticristiano”",
+      "url": "https://www.lavanguardia.com/internacional/20260427/11523265/conmocion-estados-unidos-tercer-intento-asesinato-trump.html",
+      "scraped_at": "2026-04-27T08:40:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ni guerra ni paz en Irán",
-      "subtitle": "El conflicto llega a los dos meses con una tregua que es papel mojado en Ormuz",
-      "url": "https://www.lavanguardia.com/internacional/20260426/11522699/guerra-paz-iran.html",
-      "scraped_at": "2026-04-26T07:53:15Z"
+      "title": "Trump, sobre el tiroteo: “No estaba preocupado. Entiendo la vida, vivimos en un mundo loco”",
+      "subtitle": "El presidente de EE.UU. acusa a los demócratas de la espiral de violencia: “Su discurso de odio es muy peligroso”",
+      "url": "https://www.lavanguardia.com/internacional/20260427/11523273/trump-sobre-tiroteo-preocupado-entiendo-vida-vivimos-mundo-loco.html",
+      "scraped_at": "2026-04-27T08:40:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Miedo a drones y a playas vacías",
-      "subtitle": "Los recientes ataques sobre las bases británicas en Chipre reabren el debate sobre su soberanía y provocan una caída del turismo",
-      "url": "https://www.lavanguardia.com/internacional/20260426/11522670/miedo-drones-playas-vacias.html",
-      "scraped_at": "2026-04-26T07:53:16Z"
+      "title": "El pistolero llama a Trump “pedófilo, violador y traidor” en su texto",
+      "subtitle": "Cole Tomas Allen, que era profesor y desarrollador de videojuegos de combate, califica al presidente de “pedófilo, violador y traidor” en su texto",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11523207/pistolero-washington-envio-escritos-trump-cristianos.html",
+      "scraped_at": "2026-04-27T08:40:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Fútbol hoy",
-      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
-      "url": "https://www.lavanguardia.com/deportes/resultados",
-      "scraped_at": "2026-04-26T07:53:16Z"
+      "title": "Junts se plantea tumbar la creación del consorcio de inversiones",
+      "subtitle": "PSC y ERC dan un paso más hacia los presupuestos con el acuerdo por este órgano",
+      "url": "https://www.lavanguardia.com/politica/20260427/11523184/junts-plantea-tumbar-creacion-consorcio-inversiones.html",
+      "scraped_at": "2026-04-27T08:40:18Z"
     }
   ]
 }
