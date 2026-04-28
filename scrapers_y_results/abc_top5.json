@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Bildu veta la presencia de la Policía para trámites ciudadanos en los municipios donde gobierna: Tan solo 17 de los 107 ayuntamientos gobernados por la izquierda aberzale en el País Vasco solicitan el Vehículo Integral de Documentación (Vidoc); Las pensiones dispararán el gasto por encima de los 240.000 millones este año: La subida de las nóminas con el IPC y el acelerado desembarco de los 'boomers', son un desafío para las cuentas públicas; La violencia política se recrudece en EE.UU. con el tercer atentado contra Trump: Por tercera vez desde 2024, cuando una bala le rozó la cabeza en un mitin, el presidente vuelve a ser el objetivo de un ataque por parte de un hombre armado en medio de una fuerte polarización social. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-27T08:40:16Z",
+  "summary": "Resumen del día en ABC.es: La Justicia embarga el Instituto Cervantes en Países Bajos: Fue autorizado por el Tribunal de Distrito de La Haya el pasado 19 de marzo; Peramato planea el ascenso de la mujer de García Ortiz a la fiscalía superior de Galicia: Lastra tiene complicada su reelección en Madrid y Pilar Rodríguez aspira al Supremo pese a su relación con la filtración; El publirreportaje de Corredor sobre el apagón: sin afectados y la culpa, a las empresas: En el primer aniversario del cero eléctrico, en el vídeo se intenta no involucrar al Gobierno con las decisiones, y aseguran que no ha habido interferencias. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-28T08:38:35Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Bildu veta la presencia de la Policía para trámites ciudadanos en los municipios donde gobierna",
-      "subtitle": "Tan solo 17 de los 107 ayuntamientos gobernados por la izquierda aberzale en el País Vasco solicitan el Vehículo Integral de Documentación (Vidoc)",
-      "url": "https://www.abc.es/espana/pais-vasco/bildu-veta-policia-nacional-tramitar-dni-gobierna-20260427023310-nt.html",
-      "scraped_at": "2026-04-27T08:40:14Z"
+      "title": "La Justicia embarga el Instituto Cervantes en Países Bajos",
+      "subtitle": "Fue autorizado por el Tribunal de Distrito de La Haya el pasado 19 de marzo",
+      "url": "https://www.abc.es/economia/justicia-embarga-sede-instituto-cervantes-paises-bajos-20260428035227-nt.html",
+      "scraped_at": "2026-04-28T08:38:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las pensiones dispararán el gasto por encima de los 240.000 millones este año",
-      "subtitle": "La subida de las nóminas con el IPC y el acelerado desembarco de los 'boomers', son un desafío para las cuentas públicas",
-      "url": "https://www.abc.es/economia/gasto-pensiones-acelera-ano-superara-240000-millones-20260426023155-nt.html",
-      "scraped_at": "2026-04-27T08:40:15Z"
+      "title": "Peramato planea el ascenso de la mujer de García Ortiz a la fiscalía superior de Galicia",
+      "subtitle": "Lastra tiene complicada su reelección en Madrid y Pilar Rodríguez aspira al Supremo pese a su relación con la filtración",
+      "url": "https://www.abc.es/espana/peramato-encarrila-ascenso-mujer-garcia-ortiz-fiscalia-20260428035244-nt.html",
+      "scraped_at": "2026-04-28T08:38:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "La violencia política se recrudece en EE.UU. con el tercer atentado contra Trump",
-      "subtitle": "Por tercera vez desde 2024, cuando una bala le rozó la cabeza en un mitin, el presidente vuelve a ser el objetivo de un ataque por parte de un hombre armado en medio de una fuerte polarización social",
-      "url": "https://www.abc.es/internacional/disparos-cena-corresponsales-atentado-trump-hilton-20260425195604-nt.html",
-      "scraped_at": "2026-04-27T08:40:15Z"
+      "title": "El publirreportaje de Corredor sobre el apagón: sin afectados y la culpa, a las empresas",
+      "subtitle": "En el primer aniversario del cero eléctrico, en el vídeo se intenta no involucrar al Gobierno con las decisiones, y aseguran que no ha habido interferencias",
+      "url": "https://www.abc.es/economia/publirreportaje-corredor-sobre-apagon-directivos-ningun-afectado-20260428035429-nt.html",
+      "scraped_at": "2026-04-28T08:38:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pumpido rompe el bloqueo del Congreso",
-      "subtitle": "El TC irrumpe en el campo de batalla parlamentario con un fallo unánime contra la estrategia de PSOE y Sumar",
-      "url": "https://www.abc.es/opinion/ana-sanchez-pumpido-rompe-bloqueo-congreso-20260427191434-nt.html",
-      "scraped_at": "2026-04-27T08:40:15Z"
+      "title": "La Guardia Civil amonesta a varios agentes por hacerse selfies con Koldo y Ábalos en la cárcel",
+      "subtitle": "Los guardias civiles se tomaron varias fotografías con el exministro y su asesor antes de trasladarles al Tribunal Supremo. Recibieron la bronca de sus mandos",
+      "url": "https://www.abc.es/espana/guardia-civil-amonesta-varios-agentes-hacerse-selfies-20260428035635-nt.html",
+      "scraped_at": "2026-04-28T08:38:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Si te sientas en un bar donde están sirviendo tapas a todo el mundo menos a ti, la clave está en lo que está escrito en la pizarra o el cartel»",
-      "subtitle": "La tradición de la tapa no siempre se convierte en un derecho para el consumidor, que a menudo desconoce otras prácticas ilegales muy extendidas en...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/te-sientas-bar-sirviendo-tapas-mundo-ti-clave-escrito-cartel-pizarra-local-20260427_3352925.html",
-      "scraped_at": "2026-04-27T08:40:16Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-04-28T08:38:35Z"
     }
   ]
 }

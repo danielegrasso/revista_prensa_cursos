@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: La fiscal general se mueve para controlar \"casos mediáticos\" que cercan a Sánchez: La Secretaría Técnica prepara dos borradores que obligan a los fiscales a informar desde un inicio sobre todos los casos de trascendencia mediática y a paralizar su avance hasta que reciban instrucciones; Otro intento de magnicidio, otro paso en la espiral de violencia política en EEUU: Encuestas alertan de mayor tolerancia a agresiones políticas y polarización. Informes señalan auge extremista, con cambio de tendencia en 2025, mientras un nuevo intento contra el mandatario reaviva el debate sobre violencia creciente; Santiago Segura: \"¿Esto es una película facha? Wyoming me dijo que no\": El director y protagonista de &#039;Torrente, presidente&#039; hace balance de los sinsabores de la promoción y de las alegrías de su pasión por las películas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-27T08:40:20Z",
+  "summary": "Resumen del día en El Confidencial: Un sondeo del PP da alas al pacto con Vox: el 40% de votantes socialistas ve bien la \"prioridad nacional\": Feijóo se reafirma en la vinculación de la &quot;prioridad nacional&quot; al arraigo porque sus encuestas revelan que &quot;no solo no nos penaliza, sino que nos permite pescar en el votante más centrado del PSOE&quot;; La desconocida marca alicantina tras el 'milagro' del maratón de Londres: Con solo 10 empleados, Santa Madre es la empresa de suplementación deportiva de alto rendimiento que ha llevado el plan nutricional de Yomif Kejelcha para bajar de las 2 horas; Varias balas y más incógnitas: EEUU defiende su protocolo ante el intento de magnicidio: Las autoridades estadounidenses han defendido la actuación de las fuerzas de seguridad durante la Cena de Corresponsales a pesar de las dudas sobre el protocolo utilizado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-28T08:38:41Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La fiscal general se mueve para controlar \"casos mediáticos\" que cercan a Sánchez",
-      "subtitle": "La Secretaría Técnica prepara dos borradores que obligan a los fiscales a informar desde un inicio sobre todos los casos de trascendencia mediática y a paralizar su avance hasta que reciban instrucciones",
-      "url": "https://www.elconfidencial.com/espana/2026-04-27/fiscal-general-casos-mediaticos-abalos-begona-gomez_4344264/",
-      "scraped_at": "2026-04-27T08:40:19Z"
+      "title": "Un sondeo del PP da alas al pacto con Vox: el 40% de votantes socialistas ve bien la \"prioridad nacional\"",
+      "subtitle": "Feijóo se reafirma en la vinculación de la &quot;prioridad nacional&quot; al arraigo porque sus encuestas revelan que &quot;no solo no nos penaliza, sino que nos permite pescar en el votante más centrado del PSOE&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-04-28/sondeo-interno-pp-apuntala-pacto-vox_4345897/",
+      "scraped_at": "2026-04-28T08:38:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Otro intento de magnicidio, otro paso en la espiral de violencia política en EEUU",
-      "subtitle": "Encuestas alertan de mayor tolerancia a agresiones políticas y polarización. Informes señalan auge extremista, con cambio de tendencia en 2025, mientras un nuevo intento contra el mandatario reaviva el debate sobre violencia creciente",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-27/violencia-extrema-derecha-izquierda-trump-1hms_4345303/",
-      "scraped_at": "2026-04-27T08:40:19Z"
+      "title": "La desconocida marca alicantina tras el 'milagro' del maratón de Londres",
+      "subtitle": "Con solo 10 empleados, Santa Madre es la empresa de suplementación deportiva de alto rendimiento que ha llevado el plan nutricional de Yomif Kejelcha para bajar de las 2 horas",
+      "url": "https://www.elconfidencial.com/deportes/2026-04-28/santamadre-kejelcha-maraton-londres-record-elche_4345716/",
+      "scraped_at": "2026-04-28T08:38:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Santiago Segura: \"¿Esto es una película facha? Wyoming me dijo que no\"",
-      "subtitle": "El director y protagonista de &#039;Torrente, presidente&#039; hace balance de los sinsabores de la promoción y de las alegrías de su pasión por las películas",
-      "url": "https://www.elconfidencial.com/cultura/2026-04-27/santiago-segura-entrevista-pelicula-facha-torrente-wyoming_4343515/",
-      "scraped_at": "2026-04-27T08:40:20Z"
+      "title": "Varias balas y más incógnitas: EEUU defiende su protocolo ante el intento de magnicidio",
+      "subtitle": "Las autoridades estadounidenses han defendido la actuación de las fuerzas de seguridad durante la Cena de Corresponsales a pesar de las dudas sobre el protocolo utilizado",
+      "url": "https://www.elconfidencial.com/mundo/2026-04-28/eeuu-defiende-protocolo-seguridad-intento-magnicidio-trump_4346094/",
+      "scraped_at": "2026-04-28T08:38:40Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Guerra electoral en el sur de Madrid: cada vez menos rojo y con la inmigración en máximos",
-      "subtitle": "Todos los partidos políticos, sin excepción, dedican desde hace meses una atención especial al sur de la región, que será clave en las elecciones del año que viene, con distintos anuncios, actos y proyectos de futuro",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-04-27/tambores-guerra-electoral-sur-madrid-cinturon-rojo-inmigracion-maximos_4338111/",
-      "scraped_at": "2026-04-27T08:40:20Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Frente Polisario",
-      "subtitle": "Las autoridades del Frente Polisario cada vez optan más por una mayor apertura dentro de las negociaciones para poner fin al conflicto, incluyendo &quot;debatir cualquier propuesta y cualquier escenario que sea una solución&quot;",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-25/ejercito-peor-armado-mundo-explica-capitulacion-ultima-colonia_4338219/",
-      "scraped_at": "2026-04-27T08:40:20Z"
+      "title": "El no-orden mundial: \"El capitalismo es hoy más chino que occidental\"",
+      "subtitle": "El director y cofundador del European Council on Foreign Relations, defiende que ya no sirven los &quot;arquitectos&quot; que diseñan órdenes globales, sino los &quot;artesanos&quot; capaces de adaptarse a una era de policrisis",
+      "url": "https://www.elconfidencial.com/mundo/2026-04-28/entrevista-mark-leonard-unorder-c4-china-geopolitica-fragmentacion-1hms_4344843/",
+      "scraped_at": "2026-04-28T08:38:41Z"
     }
   ]
 }
