@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno afronta la derrota del decreto de alquileres pero Junts le señala la vía para reactivarlo: “Sumar lo ha entendido”: Fuentes de la formación independentista confirman el 'no' al texto que afecta a un millón de alquileres y se preguntan \"qué hará el PSOE\" y si aceptará exigencias como más ayudas fiscales a caseros o el IVA franquiciado para los autónomos, lo que abre la puerta a negociar un nuevo paquete; El Gobierno de Rajoy y el PP de la época compiten en desmemoria sobre su guerra sucia: Soraya Sáenz de Santamaría, exjefa del CNI, acude al juicio de Kitchen a decir que se enteró del espionaje al tesorero del PP \"por la prensa\" y Javier Arenas asegura que la publicación de la caja B del PP no causó \"inquietud\" en el partido; La UCO pone las cosas muy difíciles a Ábalos y Koldo: El teniente coronel Balas declara en el juicio que Ábalos y su asesor hacían todo lo que les pedía Aldama a cambio de dinero, incluidos los 88.000 euros del piso de la pareja del exministro: \"Lo que se quiere reflejar es el dominio que tiene Aldama sobre estas personas\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-28T08:38:33Z",
+  "summary": "Resumen del día en elDiario.es: El PNV amenaza con retirar su apoyo a Sánchez “si no cuida las formas”: El presidente intenta encauzar el diálogo con un socio clave tras la crisis de nacionalistas vascos con los socialistas en Euskadi; La muerte de un decreto, el fracaso de una sociedad: El decreto de prórroga de alquileres muere ante la mayoría de derecha del Congreso que apuesta por dejar que el mercado funcione por su cuenta sin limitaciones. \"Vivir de alquiler se ha convertido en un riesgo de exclusión social\", advierte el ministro Bustinduy; Sumar presiona al PSOE para recuperar el decreto de los alquileres tras ser enterrado en el Congreso: El ministro Bustinduy pide a los socialistas \"volver a traer\" la prórroga de los contratos al Congreso lo antes posible después de que PP, Vox y Junts sumaran fuerzas para derogarla, pero el PSOE por ahora no contesta y se limita a prometer que \"intensificará los contactos\" para impulsar otras leyes de vivienda. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-29T08:31:39Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno afronta la derrota del decreto de alquileres pero Junts le señala la vía para reactivarlo: “Sumar lo ha entendido”",
-      "subtitle": "Fuentes de la formación independentista confirman el 'no' al texto que afecta a un millón de alquileres y se preguntan \"qué hará el PSOE\" y si aceptará exigencias como más ayudas fiscales a caseros o el IVA franquiciado para los autónomos, lo que abre la puerta a negociar un nuevo paquete",
-      "url": "https://www.eldiario.es/politica/gobierno-afronta-derrota-decreto-alquileres-junts-le-senala-via-reactivarlo-sumar-entendido_1_13176388.html",
-      "scraped_at": "2026-04-28T08:38:29Z"
+      "title": "El PNV amenaza con retirar su apoyo a Sánchez “si no cuida las formas”",
+      "subtitle": "El presidente intenta encauzar el diálogo con un socio clave tras la crisis de nacionalistas vascos con los socialistas en Euskadi",
+      "url": "https://www.eldiario.es/politica/pnv-amenaza-retirar-apoyo-sanchez-si-no-cuida-formas-agradece-posicion-constructiva_1_13180866.html",
+      "scraped_at": "2026-04-29T08:31:37Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno de Rajoy y el PP de la época compiten en desmemoria sobre su guerra sucia",
-      "subtitle": "Soraya Sáenz de Santamaría, exjefa del CNI, acude al juicio de Kitchen a decir que se enteró del espionaje al tesorero del PP \"por la prensa\" y Javier Arenas asegura que la publicación de la caja B del PP no causó \"inquietud\" en el partido",
-      "url": "https://www.eldiario.es/politica/gobierno-rajoy-pp-epoca-compiten-desmemoria-guerra-sucia_1_13176871.html",
-      "scraped_at": "2026-04-28T08:38:30Z"
+      "title": "La muerte de un decreto, el fracaso de una sociedad",
+      "subtitle": "El decreto de prórroga de alquileres muere ante la mayoría de derecha del Congreso que apuesta por dejar que el mercado funcione por su cuenta sin limitaciones. \"Vivir de alquiler se ha convertido en un riesgo de exclusión social\", advierte el ministro Bustinduy",
+      "url": "https://www.eldiario.es/politica/muerte-decreto-fracaso-sociedad_129_13179878.html",
+      "scraped_at": "2026-04-29T08:31:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO pone las cosas muy difíciles a Ábalos y Koldo",
-      "subtitle": "El teniente coronel Balas declara en el juicio que Ábalos y su asesor hacían todo lo que les pedía Aldama a cambio de dinero, incluidos los 88.000 euros del piso de la pareja del exministro: \"Lo que se quiere reflejar es el dominio que tiene Aldama sobre estas personas\"",
-      "url": "https://www.eldiario.es/politica/uco-pone-cosas-dificiles-abalos-koldo_129_13176193.html",
-      "scraped_at": "2026-04-28T08:38:30Z"
+      "title": "Sumar presiona al PSOE para recuperar el decreto de los alquileres tras ser enterrado en el Congreso",
+      "subtitle": "El ministro Bustinduy pide a los socialistas \"volver a traer\" la prórroga de los contratos al Congreso lo antes posible después de que PP, Vox y Junts sumaran fuerzas para derogarla, pero el PSOE por ahora no contesta y se limita a prometer que \"intensificará los contactos\" para impulsar otras leyes de vivienda",
+      "url": "https://www.eldiario.es/politica/congreso-rechazara-prorroga-alquileres-voto-pp-vox-junts-abstencion-pnv_1_13180051.html",
+      "scraped_at": "2026-04-29T08:31:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El ataque de la cena de corresponsales pone en la diana las políticas de seguridad de la Casa Blanca",
-      "subtitle": "La cena de corresponsales no recibió la clasificación de máxima seguridad que habría permitido movilizar todos los recursos federales disponibles, a pesar de la presencia de decenas de altos cargos, incluido la mayoría del Gabinete de Trump",
-      "url": "https://www.eldiario.es/internacional/ataque-cena-corresponsales-pone-diana-politicas-seguridad-casa-blanca_1_13176750.html",
-      "scraped_at": "2026-04-28T08:38:31Z"
+      "title": "El caso mascarillas llega a su final: Ábalos y Koldo, obligados a persuadir frente a un Aldama al que le vale con asentir",
+      "subtitle": "La Fiscalía repasará cada uno de los hechos delictivos de la mano del empresario mientras que las defensas del exministro y su asesor combatirán el incremento patrimonial y decidirán si van juntos hasta el final o rompen la estrategia",
+      "url": "https://www.eldiario.es/politica/caso-mascarillas-llega-final-abalos-koldo-obligados-persuadir-frente-aldama-le-vale-asentir_1_13180091.html",
+      "scraped_at": "2026-04-29T08:31:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez",
-      "subtitle": "Un informe remitido al juez Peinado y elaborado por un catedrático de la Complutense concluye que \"resulta necesario para el cónyuge\" del jefe del Ejecutivo \"contar con el apoyo de asistentes de extrema confianza\"",
-      "url": "https://www.eldiario.es/politica/defensa-begona-gomez-cita-boda-hija-aznar-tareas-privadas-asistentes-moncloa_1_13176510.html",
-      "scraped_at": "2026-04-28T08:38:33Z"
+      "title": "Prórroga alquiler",
+      "subtitle": "Los inquilinos que hayan remitido a sus caseros un burofax acogiéndose a la prórroga tendrán derecho a disfrutarla aunque la derecha haya tumbado el decreto este martes",
+      "url": "https://www.eldiario.es/economia/pasa-si-has-pedido-prorroga-alquileres-decae-mayoria-juristas-ve-blindada-dudas_1_13178065.html",
+      "scraped_at": "2026-04-29T08:31:39Z"
     }
   ]
 }

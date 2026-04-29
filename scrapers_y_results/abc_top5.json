@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Justicia embarga el Instituto Cervantes en Países Bajos: Fue autorizado por el Tribunal de Distrito de La Haya el pasado 19 de marzo; Peramato planea el ascenso de la mujer de García Ortiz a la fiscalía superior de Galicia: Lastra tiene complicada su reelección en Madrid y Pilar Rodríguez aspira al Supremo pese a su relación con la filtración; El publirreportaje de Corredor sobre el apagón: sin afectados y la culpa, a las empresas: En el primer aniversario del cero eléctrico, en el vídeo se intenta no involucrar al Gobierno con las decisiones, y aseguran que no ha habido interferencias. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-28T08:38:35Z",
+  "summary": "Resumen del día en ABC.es: Ábalos basará hoy su defensa en que su patrimonio no se multiplicó con la trama: El ex responsable de Organización del PSOE y Koldo García llegan al día clave de la causa cercados por Aldama y por los testigos; Sánchez se ensaña con Feijóo y corteja al PNV tras el choque con Esteban: El presidente se zafa de la huelga de médicos e ignora las alusiones al juicio a Ábalos por el caso Mascarillas; Dos de los peritos que investigan Adamuz trabajaron para las empresas que reformaron la vía: La magistrada de Montoro aceptó la designación de estos tres expertos que han recibido el expediente digital con la documentación del procedimiento judicial. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-29T08:31:41Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Justicia embarga el Instituto Cervantes en Países Bajos",
-      "subtitle": "Fue autorizado por el Tribunal de Distrito de La Haya el pasado 19 de marzo",
-      "url": "https://www.abc.es/economia/justicia-embarga-sede-instituto-cervantes-paises-bajos-20260428035227-nt.html",
-      "scraped_at": "2026-04-28T08:38:34Z"
+      "title": "Ábalos basará hoy su defensa en que su patrimonio no se multiplicó con la trama",
+      "subtitle": "El ex responsable de Organización del PSOE y Koldo García llegan al día clave de la causa cercados por Aldama y por los testigos",
+      "url": "https://www.abc.es/espana/abalos-koldo-garcia-llegan-dia-declaracion-cercados-20260429040028-nt.html",
+      "scraped_at": "2026-04-29T08:31:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Peramato planea el ascenso de la mujer de García Ortiz a la fiscalía superior de Galicia",
-      "subtitle": "Lastra tiene complicada su reelección en Madrid y Pilar Rodríguez aspira al Supremo pese a su relación con la filtración",
-      "url": "https://www.abc.es/espana/peramato-encarrila-ascenso-mujer-garcia-ortiz-fiscalia-20260428035244-nt.html",
-      "scraped_at": "2026-04-28T08:38:34Z"
+      "title": "Sánchez se ensaña con Feijóo y corteja al PNV tras el choque con Esteban",
+      "subtitle": "El presidente se zafa de la huelga de médicos e ignora las alusiones al juicio a Ábalos por el caso Mascarillas",
+      "url": "https://www.abc.es/espana/sanchez-ensana-feijoo-corteja-pnv-tras-choque-20260429102000-nt.html",
+      "scraped_at": "2026-04-29T08:31:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "El publirreportaje de Corredor sobre el apagón: sin afectados y la culpa, a las empresas",
-      "subtitle": "En el primer aniversario del cero eléctrico, en el vídeo se intenta no involucrar al Gobierno con las decisiones, y aseguran que no ha habido interferencias",
-      "url": "https://www.abc.es/economia/publirreportaje-corredor-sobre-apagon-directivos-ningun-afectado-20260428035429-nt.html",
-      "scraped_at": "2026-04-28T08:38:34Z"
+      "title": "Dos de los peritos que investigan Adamuz trabajaron para las empresas que reformaron la vía",
+      "subtitle": "La magistrada de Montoro aceptó la designación de estos tres expertos que han recibido el expediente digital con la documentación del procedimiento judicial",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/dos-peritos-adamuz-confesaron-juez-haber-trabajado-20260429035552-nts.html",
+      "scraped_at": "2026-04-29T08:31:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Guardia Civil amonesta a varios agentes por hacerse selfies con Koldo y Ábalos en la cárcel",
-      "subtitle": "Los guardias civiles se tomaron varias fotografías con el exministro y su asesor antes de trasladarles al Tribunal Supremo. Recibieron la bronca de sus mandos",
-      "url": "https://www.abc.es/espana/guardia-civil-amonesta-varios-agentes-hacerse-selfies-20260428035635-nt.html",
-      "scraped_at": "2026-04-28T08:38:35Z"
+      "title": "El presidente planea otro decreto sobre Irán por miedo a que la guerra le rompa la estrategia",
+      "subtitle": "Renuncia ya a los presupuestos de 2026 y se da hasta junio para armar el esqueleto de las futuras cuentas",
+      "url": "https://www.abc.es/espana/sanchez-planea-segundo-decreto-sobre-iran-miedo-20260429035622-nt.html",
+      "scraped_at": "2026-04-29T08:31:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-04-28T08:38:35Z"
+      "title": "«Sin ellos será imposible garantizar fármacos que son tan básicos como el paracetamol o el ibuprofeno en caso de crisis»",
+      "subtitle": "La Unión Europea depende en un 70% de China e India para fabricar fármacos genéricos, una vulnerabilidad estratégica que Bruselas busca atajar",
+      "url": "https://www.cope.es/actualidad/economia/noticias/sera-imposible-garantizar-farmacos-son-basicos-paracetamol-ibuprofeno-caso-crisis-ue-depende-70-asia-obtener-principios-fabricar-medicamentos-genericos-20260429_3350244.html",
+      "scraped_at": "2026-04-29T08:31:41Z"
     }
   ]
 }
