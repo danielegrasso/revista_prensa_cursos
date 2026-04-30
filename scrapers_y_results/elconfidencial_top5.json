@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: España destruye empleo tecnológico a ritmo récord en pleno auge de la IA: Las cifras sugieren dos fases diferenciadas en la rama de información y comunicaciones: creció mucho más que el conjunto del mercado laboral tras la pandemia, pero el diferencial positivo se agotó a partir de 2024; La idea noruega para subir la natalidad que no le gusta a nadie (pero puede funcionar): Ninguna de las medidas para fomentar la natalidad han funcionado, así que hay que probar algo nuevo: ¿y si los Estados le dan recursos a las mujeres para que sean madres solteras?; Ya sabíamos que a Donald Trump le gustaba el dinero, pero esto ya es otro nivel: Dos académicos han analizado cómo el Gobierno de Estados Unidos se parece cada vez a un sistema en el que el gobernante busca el enriquecimiento propio y el de su círculo íntimo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-29T08:31:46Z",
+  "summary": "Resumen del día en El Confidencial: ¿Nos escuchamos menos? Carlos Alsina, en Pausa: \"Nos da miedo que nos convenzan\": Esta es una Pausa muy especial, una que hemos compartido con más de 300 amigos. Todos ellos se dieron cita en el teatro Fernando de Rojas para compartir un rato en el que hablamos de... escuchar; Los 100 códigos postales donde comprar casa cerca de la playa por menos de 1.000 €/m²: En un mercado inmobiliario marcado por la subida de precios en las grandes capitales y zonas costeras, aún existen pequeños reductos a menos de 5 kilómetros; Gabriel Cruz: Patricia Ramírez amplía su última acusación contra la asesina de su hijo por las presiones que sufrió al denunciar que estaba grabando desde prisión un documental sobre el crimen. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-04-30T08:34:45Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "España destruye empleo tecnológico a ritmo récord en pleno auge de la IA",
-      "subtitle": "Las cifras sugieren dos fases diferenciadas en la rama de información y comunicaciones: creció mucho más que el conjunto del mercado laboral tras la pandemia, pero el diferencial positivo se agotó a partir de 2024",
-      "url": "https://www.elconfidencial.com/economia/2026-04-29/destruccion-empleo-ritmo-record-tecnologico-ia_4346780/",
-      "scraped_at": "2026-04-29T08:31:45Z"
+      "title": "¿Nos escuchamos menos? Carlos Alsina, en Pausa: \"Nos da miedo que nos convenzan\"",
+      "subtitle": "Esta es una Pausa muy especial, una que hemos compartido con más de 300 amigos. Todos ellos se dieron cita en el teatro Fernando de Rojas para compartir un rato en el que hablamos de... escuchar",
+      "url": "https://www.elconfidencial.com/espana/2026-04-30/tenemos-escucharnos-pausa_4347006/",
+      "scraped_at": "2026-04-30T08:34:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La idea noruega para subir la natalidad que no le gusta a nadie (pero puede funcionar)",
-      "subtitle": "Ninguna de las medidas para fomentar la natalidad han funcionado, así que hay que probar algo nuevo: ¿y si los Estados le dan recursos a las mujeres para que sean madres solteras?",
-      "url": "https://www.elconfidencial.com/mundo/europa/2026-04-29/mads-larsen-natalidad-reproduccion-individualista_4346625/",
-      "scraped_at": "2026-04-29T08:31:46Z"
+      "title": "Los 100 códigos postales donde comprar casa cerca de la playa por menos de 1.000 €/m²",
+      "subtitle": "En un mercado inmobiliario marcado por la subida de precios en las grandes capitales y zonas costeras, aún existen pequeños reductos a menos de 5 kilómetros",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-04-30/portal-estadistico-notariado-notarios-costa-datos-precio-vivienda_4339395/",
+      "scraped_at": "2026-04-30T08:34:45Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ya sabíamos que a Donald Trump le gustaba el dinero, pero esto ya es otro nivel",
-      "subtitle": "Dos académicos han analizado cómo el Gobierno de Estados Unidos se parece cada vez a un sistema en el que el gobernante busca el enriquecimiento propio y el de su círculo íntimo",
-      "url": "https://www.elconfidencial.com/mundo/2026-04-29/trump-corrupcion-cleptocracia-desinstitucionalizacion-1hms_4345145/",
-      "scraped_at": "2026-04-29T08:31:46Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Natalia de Santiago, experta en finanzas: “Una vez hayamos terminado de cubrir la hipoteca, aumentaremos la capacidad de ahorro significativamente”",
-      "subtitle": "Si contamos con la posibilidad de adquirir un bien inmueble, el alivio económico que supondrá en el futuro será verdaderamente notorio.",
-      "url": "https://www.elconfidencial.com/economia/2026-04-29/natalia-santiago-experta-finanzas-terminado-cubrir-hipoteca-aumento-ahorro_4346439/",
-      "scraped_at": "2026-04-29T08:31:46Z"
+      "title": "Gabriel Cruz",
+      "subtitle": "Patricia Ramírez amplía su última acusación contra la asesina de su hijo por las presiones que sufrió al denunciar que estaba grabando desde prisión un documental sobre el crimen",
+      "url": "https://www.elconfidencial.com/espana/2026-04-30/madre-gabriel-cruz-denuncia-lesiones-psiquicas-amenazas-ana-julia-quezada_4347312/",
+      "scraped_at": "2026-04-30T08:34:45Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Ábalos basará hoy su defensa en que su patrimonio no se multiplicó con la trama: El ex responsable de Organización del PSOE y Koldo García llegan al día clave de la causa cercados por Aldama y por los testigos; Sánchez se ensaña con Feijóo y corteja al PNV tras el choque con Esteban: El presidente se zafa de la huelga de médicos e ignora las alusiones al juicio a Ábalos por el caso Mascarillas; Dos de los peritos que investigan Adamuz trabajaron para las empresas que reformaron la vía: La magistrada de Montoro aceptó la designación de estos tres expertos que han recibido el expediente digital con la documentación del procedimiento judicial. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-29T08:31:41Z",
+  "summary": "Resumen del día en ABC.es: Aldama asegura que el viaje de Delcy en 2020 fue consensuado entre Ábalos y Sánchez: El empresario afirma que recibió presiones del entorno de Zapatero «por hacer de enviado del Gobierno, pisándole»; Moncloa reduce el enfrentamiento con el PNV a una pelea entre socios vascos: El lendakari Pradales saca la cuestión en el Consejo de Gobierno y airea su pacto por una «política ejemplar» ante los cargos socialistas de la coalición; Un fallo en la cotización del Ibex arrojaba una caída de casi un 6% cuando era menos de un 0,3%: La Bolsa ha sufrido los estragos del petróleo Brent, que superó los 120 dólares el barril por el temor a la prolongación del bloqueo del estrecho de Ormuz. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-04-30T08:34:41Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Ábalos basará hoy su defensa en que su patrimonio no se multiplicó con la trama",
-      "subtitle": "El ex responsable de Organización del PSOE y Koldo García llegan al día clave de la causa cercados por Aldama y por los testigos",
-      "url": "https://www.abc.es/espana/abalos-koldo-garcia-llegan-dia-declaracion-cercados-20260429040028-nt.html",
-      "scraped_at": "2026-04-29T08:31:40Z"
+      "title": "Aldama asegura que el viaje de Delcy en 2020 fue consensuado entre Ábalos y Sánchez",
+      "subtitle": "El empresario afirma que recibió presiones del entorno de Zapatero «por hacer de enviado del Gobierno, pisándole»",
+      "url": "https://www.abc.es/espana/koldo-aldama-sobre-zapatero-quejarse-pisarle-terreno-20260430021326-nt.html",
+      "scraped_at": "2026-04-30T08:34:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez se ensaña con Feijóo y corteja al PNV tras el choque con Esteban",
-      "subtitle": "El presidente se zafa de la huelga de médicos e ignora las alusiones al juicio a Ábalos por el caso Mascarillas",
-      "url": "https://www.abc.es/espana/sanchez-ensana-feijoo-corteja-pnv-tras-choque-20260429102000-nt.html",
-      "scraped_at": "2026-04-29T08:31:40Z"
+      "title": "Moncloa reduce el enfrentamiento con el PNV a una pelea entre socios vascos",
+      "subtitle": "El lendakari Pradales saca la cuestión en el Consejo de Gobierno y airea su pacto por una «política ejemplar» ante los cargos socialistas de la coalición",
+      "url": "https://www.abc.es/espana/moncloa-trata-encapsular-crisis-pnv-malas-relaciones-20260430021312-nt.html",
+      "scraped_at": "2026-04-30T08:34:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Dos de los peritos que investigan Adamuz trabajaron para las empresas que reformaron la vía",
-      "subtitle": "La magistrada de Montoro aceptó la designación de estos tres expertos que han recibido el expediente digital con la documentación del procedimiento judicial",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/dos-peritos-adamuz-confesaron-juez-haber-trabajado-20260429035552-nts.html",
-      "scraped_at": "2026-04-29T08:31:40Z"
+      "title": "Un fallo en la cotización del Ibex arrojaba una caída de casi un 6% cuando era menos de un 0,3%",
+      "subtitle": "La Bolsa ha sufrido los estragos del petróleo Brent, que superó los 120 dólares el barril por el temor a la prolongación del bloqueo del estrecho de Ormuz",
+      "url": "https://www.abc.es/economia/ibex-desploma-apertura-subida-precios-petroleo-20260430093855-nt.html",
+      "scraped_at": "2026-04-30T08:34:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "El presidente planea otro decreto sobre Irán por miedo a que la guerra le rompa la estrategia",
-      "subtitle": "Renuncia ya a los presupuestos de 2026 y se da hasta junio para armar el esqueleto de las futuras cuentas",
-      "url": "https://www.abc.es/espana/sanchez-planea-segundo-decreto-sobre-iran-miedo-20260429035622-nt.html",
-      "scraped_at": "2026-04-29T08:31:41Z"
+      "title": "La compraventa de viviendas sigue cayendo por quinto mes consecutivo",
+      "subtitle": "Los datos del Consejo General del Notariado han registrado, sin embargo, un ascenso de más del 5% del precio del metro cuadrado",
+      "url": "https://www.abc.es/economia/compraventa-viviendas-sigue-cayendo-quinto-mes-consecutivo-20260430094643-nt.html",
+      "scraped_at": "2026-04-30T08:34:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Sin ellos será imposible garantizar fármacos que son tan básicos como el paracetamol o el ibuprofeno en caso de crisis»",
-      "subtitle": "La Unión Europea depende en un 70% de China e India para fabricar fármacos genéricos, una vulnerabilidad estratégica que Bruselas busca atajar",
-      "url": "https://www.cope.es/actualidad/economia/noticias/sera-imposible-garantizar-farmacos-son-basicos-paracetamol-ibuprofeno-caso-crisis-ue-depende-70-asia-obtener-principios-fabricar-medicamentos-genericos-20260429_3350244.html",
-      "scraped_at": "2026-04-29T08:31:41Z"
+      "title": "«Un vecino con una finca colindante puede quedarse con la tuya aunque ya la hayas vendido a otra persona»",
+      "subtitle": "La venta de una finca rústica de menos de una hectárea puede activar un derecho de adquisición preferente para los propietarios de los terrenos...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/vecino-finca-colindante-quedarse-hayas-vendido-persona-trata-finca-rustica-1-hectarea-9-dias-ejercer-retracto-colindantes-20260430_3355406.html",
+      "scraped_at": "2026-04-30T08:34:41Z"
     }
   ]
 }
