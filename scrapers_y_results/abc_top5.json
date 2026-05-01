@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Aldama asegura que el viaje de Delcy en 2020 fue consensuado entre Ábalos y Sánchez: El empresario afirma que recibió presiones del entorno de Zapatero «por hacer de enviado del Gobierno, pisándole»; Moncloa reduce el enfrentamiento con el PNV a una pelea entre socios vascos: El lendakari Pradales saca la cuestión en el Consejo de Gobierno y airea su pacto por una «política ejemplar» ante los cargos socialistas de la coalición; Un fallo en la cotización del Ibex arrojaba una caída de casi un 6% cuando era menos de un 0,3%: La Bolsa ha sufrido los estragos del petróleo Brent, que superó los 120 dólares el barril por el temor a la prolongación del bloqueo del estrecho de Ormuz. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-04-30T08:34:41Z",
+  "summary": "Resumen del día en ABC.es: El PSOE triplicó las donaciones recibidas en el periodo denunciado por Aldama: Los socialistas sostuvieron su situación económica durante la pandemia con ingresos privados y con las aportaciones de los afiliados y los cargos públicos; Las revelaciones de Aldama sobre la financiación del PSOE irán a la Audiencia Nacional: El empresario ya se refirió ante el magistrado instructor Leopoldo Puente al «negocio de las constructoras y Transportes»; Ormuz, el bloqueo que hace temblar la economía mundial: La subida del combustible fue solo el inicio. La crisis en oriente Próximo amenaza ya a las hipotecas, la cesta de la compra e incluso a vuelos comerciales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-01T08:24:09Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Aldama asegura que el viaje de Delcy en 2020 fue consensuado entre Ábalos y Sánchez",
-      "subtitle": "El empresario afirma que recibió presiones del entorno de Zapatero «por hacer de enviado del Gobierno, pisándole»",
-      "url": "https://www.abc.es/espana/koldo-aldama-sobre-zapatero-quejarse-pisarle-terreno-20260430021326-nt.html",
-      "scraped_at": "2026-04-30T08:34:40Z"
+      "title": "El PSOE triplicó las donaciones recibidas en el periodo denunciado por Aldama",
+      "subtitle": "Los socialistas sostuvieron su situación económica durante la pandemia con ingresos privados y con las aportaciones de los afiliados y los cargos públicos",
+      "url": "https://www.abc.es/espana/cuentas-psoe-reflejan-aumento-donaciones-similar-revelado-20260501024241-nt.html",
+      "scraped_at": "2026-05-01T08:24:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa reduce el enfrentamiento con el PNV a una pelea entre socios vascos",
-      "subtitle": "El lendakari Pradales saca la cuestión en el Consejo de Gobierno y airea su pacto por una «política ejemplar» ante los cargos socialistas de la coalición",
-      "url": "https://www.abc.es/espana/moncloa-trata-encapsular-crisis-pnv-malas-relaciones-20260430021312-nt.html",
-      "scraped_at": "2026-04-30T08:34:40Z"
+      "title": "Las revelaciones de Aldama sobre la financiación del PSOE irán a la Audiencia Nacional",
+      "subtitle": "El empresario ya se refirió ante el magistrado instructor Leopoldo Puente al «negocio de las constructoras y Transportes»",
+      "url": "https://www.abc.es/espana/revelaciones-aldama-sobre-financiacion-psoe-pueden-parar-20260501024259-nt.html",
+      "scraped_at": "2026-05-01T08:24:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un fallo en la cotización del Ibex arrojaba una caída de casi un 6% cuando era menos de un 0,3%",
-      "subtitle": "La Bolsa ha sufrido los estragos del petróleo Brent, que superó los 120 dólares el barril por el temor a la prolongación del bloqueo del estrecho de Ormuz",
-      "url": "https://www.abc.es/economia/ibex-desploma-apertura-subida-precios-petroleo-20260430093855-nt.html",
-      "scraped_at": "2026-04-30T08:34:40Z"
+      "title": "Ormuz, el bloqueo que hace temblar la economía mundial",
+      "subtitle": "La subida del combustible fue solo el inicio. La crisis en oriente Próximo amenaza ya a las hipotecas, la cesta de la compra e incluso a vuelos comerciales",
+      "url": "https://www.abc.es/economia/cierre-ormuz-bloqueo-temblar-economia-mundial-20260502200728-nt.html",
+      "scraped_at": "2026-05-01T08:24:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "La compraventa de viviendas sigue cayendo por quinto mes consecutivo",
-      "subtitle": "Los datos del Consejo General del Notariado han registrado, sin embargo, un ascenso de más del 5% del precio del metro cuadrado",
-      "url": "https://www.abc.es/economia/compraventa-viviendas-sigue-cayendo-quinto-mes-consecutivo-20260430094643-nt.html",
-      "scraped_at": "2026-04-30T08:34:40Z"
+      "title": "Florentino asume personalmente la operación Mourinho",
+      "subtitle": "El presidente agenda cita con el entrenador luso después de que José Ángel Sánchez le convenza de que sea la primera opción para el banquillo del Madrid",
+      "url": "https://www.abc.es/deportes/real-madrid/jose-angel-junta-florentino-mourinho-20260430024402-nt.html",
+      "scraped_at": "2026-05-01T08:24:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Un vecino con una finca colindante puede quedarse con la tuya aunque ya la hayas vendido a otra persona»",
-      "subtitle": "La venta de una finca rústica de menos de una hectárea puede activar un derecho de adquisición preferente para los propietarios de los terrenos...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/vecino-finca-colindante-quedarse-hayas-vendido-persona-trata-finca-rustica-1-hectarea-9-dias-ejercer-retracto-colindantes-20260430_3355406.html",
-      "scraped_at": "2026-04-30T08:34:41Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-05-01T08:24:09Z"
     }
   ]
 }

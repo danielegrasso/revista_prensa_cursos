@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: ¿Nos escuchamos menos? Carlos Alsina, en Pausa: \"Nos da miedo que nos convenzan\": Esta es una Pausa muy especial, una que hemos compartido con más de 300 amigos. Todos ellos se dieron cita en el teatro Fernando de Rojas para compartir un rato en el que hablamos de... escuchar; Los 100 códigos postales donde comprar casa cerca de la playa por menos de 1.000 €/m²: En un mercado inmobiliario marcado por la subida de precios en las grandes capitales y zonas costeras, aún existen pequeños reductos a menos de 5 kilómetros; Gabriel Cruz: Patricia Ramírez amplía su última acusación contra la asesina de su hijo por las presiones que sufrió al denunciar que estaba grabando desde prisión un documental sobre el crimen. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-04-30T08:34:45Z",
+  "summary": "Resumen del día en El Confidencial: Koldo alienta la tesis de la financiación ilegal del PSOE con su relato sobre las 'chistorras' en Ferraz: Desmintió la versión del exgerente Mariano Moreno de que esos billetes no existían para la formación y habló de pagos no reconocidos que añaden varios miles a la declaración oficial que realizó el partido socialista; \"Pedí la prórroga y mi casero no acepta\". Así asesora el teléfono del Gobierno  para el alquiler: El Ministerio de Vivienda ha habilitado el número 047 para resolver dudas telefónicas a raíz del debate legal que existe en torno al decreto de alquileres. Esto es lo que responden; El petróleo no es ruso, pero la tubería sí: cómo Moscú vuelve a exprimir a Alemania: A partir de este 1 de mayo, Rusia dejará de permitir el tránsito de crudo desde Kazajistán hacia Alemania por el oleoducto Druzhba, citando &quot;limitaciones técnicas&quot;. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-01T08:24:16Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "¿Nos escuchamos menos? Carlos Alsina, en Pausa: \"Nos da miedo que nos convenzan\"",
-      "subtitle": "Esta es una Pausa muy especial, una que hemos compartido con más de 300 amigos. Todos ellos se dieron cita en el teatro Fernando de Rojas para compartir un rato en el que hablamos de... escuchar",
-      "url": "https://www.elconfidencial.com/espana/2026-04-30/tenemos-escucharnos-pausa_4347006/",
-      "scraped_at": "2026-04-30T08:34:44Z"
+      "title": "Koldo alienta la tesis de la financiación ilegal del PSOE con su relato sobre las 'chistorras' en Ferraz",
+      "subtitle": "Desmintió la versión del exgerente Mariano Moreno de que esos billetes no existían para la formación y habló de pagos no reconocidos que añaden varios miles a la declaración oficial que realizó el partido socialista",
+      "url": "https://www.elconfidencial.com/espana/2026-05-01/koldo-garcia-financiacion-ilegal-psoe-chistorras-ferraz_4348247/",
+      "scraped_at": "2026-05-01T08:24:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los 100 códigos postales donde comprar casa cerca de la playa por menos de 1.000 €/m²",
-      "subtitle": "En un mercado inmobiliario marcado por la subida de precios en las grandes capitales y zonas costeras, aún existen pequeños reductos a menos de 5 kilómetros",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-04-30/portal-estadistico-notariado-notarios-costa-datos-precio-vivienda_4339395/",
-      "scraped_at": "2026-04-30T08:34:45Z"
+      "title": "\"Pedí la prórroga y mi casero no acepta\". Así asesora el teléfono del Gobierno  para el alquiler",
+      "subtitle": "El Ministerio de Vivienda ha habilitado el número 047 para resolver dudas telefónicas a raíz del debate legal que existe en torno al decreto de alquileres. Esto es lo que responden",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-01/que-puedo-hacer-si-mi-casero-me-denuncia_4347810/",
+      "scraped_at": "2026-05-01T08:24:14Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Gabriel Cruz",
-      "subtitle": "Patricia Ramírez amplía su última acusación contra la asesina de su hijo por las presiones que sufrió al denunciar que estaba grabando desde prisión un documental sobre el crimen",
-      "url": "https://www.elconfidencial.com/espana/2026-04-30/madre-gabriel-cruz-denuncia-lesiones-psiquicas-amenazas-ana-julia-quezada_4347312/",
-      "scraped_at": "2026-04-30T08:34:45Z"
+      "title": "El petróleo no es ruso, pero la tubería sí: cómo Moscú vuelve a exprimir a Alemania",
+      "subtitle": "A partir de este 1 de mayo, Rusia dejará de permitir el tránsito de crudo desde Kazajistán hacia Alemania por el oleoducto Druzhba, citando &quot;limitaciones técnicas&quot;",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-01/petroleo-tuberia-rusia-exprimir-alemania_4347198/",
+      "scraped_at": "2026-05-01T08:24:15Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "'El diablo viste de Prada 2': los nuevos idiotas son los 'tecnobros'",
+      "subtitle": "Sorprendentemente, la película dirigida por David Frankel y coescrita por Aline Brosh McKenna y Lauren Weisberger tiene personalidad y mordida, a pesar de retratar un lujo vacío e irritante",
+      "url": "https://www.elconfidencial.com/cultura/cine/premios-goya/2026-05-01/diablo-viste-prada-2-anne-athaway-mery-streep_4345607/",
+      "scraped_at": "2026-05-01T08:24:16Z"
     }
   ]
 }

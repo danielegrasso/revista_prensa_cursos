@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El PSOE ofrecerá a Junts y PNV medidas fiscales para los arrendadores: El Gobierno reactiva la regulación de contratos temporales buscando un pacto transversal; ¿Qué pasará con los 2,7 millones de personas pendientes de la renovación del alquiler?: La anulación en el Congreso de los Diputados del decreto ley del Gobierno que permitía prorrogar dos años los contratos de arrendamiento en España ha dejado en el limbo a propietarios e inquilinos que pueden verse abocados a pleitar en los juzgados; El catálogo de acusaciones de Aldama para salpicar a Pedro Sánchez: El comisionista mencionó en varias ocasiones al presidente del Gobierno durante su declaración, que se alargó siete horas y media. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-04-30T08:34:43Z",
+  "summary": "Resumen del día en La Vanguardia: El PP busca una mayoría absoluta en Andalucía que frene a Vox: Montero, la candidata socialista, llama a las clases medias a defender sus intereses frente al programa privatizador del PP en el inicio de la campaña electoral; Día uno, entusiasmo cero: La primera ilusión es óptica. Consiste en creer que una campaña electoral en Andalucía implica tensión ambiental, activismo social y movimientos de masas (de inspiración jornalera), que es el sueño húmedo en las cancillerías de todos los partidos políticos. No es; Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”: El acto central del Día Internacional del Trabajo se traslada a Málaga justo en el inicio de campaña de las elecciones andaluzas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-01T08:24:11Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El PSOE ofrecerá a Junts y PNV medidas fiscales para los arrendadores",
-      "subtitle": "El Gobierno reactiva la regulación de contratos temporales buscando un pacto transversal",
-      "url": "https://www.lavanguardia.com/economia/20260430/11525944/vivienda-ofrece-junts-pnv-rebajas-irpf-caseros-congelen-alquiler.html",
-      "scraped_at": "2026-04-30T08:34:42Z"
+      "title": "El PP busca una mayoría absoluta en Andalucía que frene a Vox",
+      "subtitle": "Montero, la candidata socialista, llama a las clases medias a defender sus intereses frente al programa privatizador del PP en el inicio de la campaña electoral",
+      "url": "https://www.lavanguardia.com/politica/20260430/11527112/moreno-inicia-campana-sevilla-reto-preservar-mayoria-absoluta.html",
+      "scraped_at": "2026-05-01T08:24:10Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Qué pasará con los 2,7 millones de personas pendientes de la renovación del alquiler?",
-      "subtitle": "La anulación en el Congreso de los Diputados del decreto ley del Gobierno que permitía prorrogar dos años los contratos de arrendamiento en España ha dejado en el limbo a propietarios e inquilinos que pueden verse abocados a pleitar en los juzgados",
-      "url": "https://www.lavanguardia.com/economia/20260430/11525689/que-pasara-2-7-millones-personas-pendientes-renovacion-alquiler.html",
-      "scraped_at": "2026-04-30T08:34:42Z"
+      "title": "Día uno, entusiasmo cero",
+      "subtitle": "La primera ilusión es óptica. Consiste en creer que una campaña electoral en Andalucía implica tensión ambiental, activismo social y movimientos de masas (de inspiración jornalera), que es el sueño húmedo en las cancillerías de todos los partidos políticos. No es",
+      "url": "https://www.lavanguardia.com/politica/20260501/11527076/dia-entusiasmo-cero.html",
+      "scraped_at": "2026-05-01T08:24:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El catálogo de acusaciones de Aldama para salpicar a Pedro Sánchez",
-      "subtitle": "El comisionista mencionó en varias ocasiones al presidente del Gobierno durante su declaración, que se alargó siete horas y media",
-      "url": "https://www.lavanguardia.com/politica/20260430/11525828/ocho-intentos-aldama-salpicar-pedro-sanchez.html",
-      "scraped_at": "2026-04-30T08:34:42Z"
+      "title": "Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”",
+      "subtitle": "El acto central del Día Internacional del Trabajo se traslada a Málaga justo en el inicio de campaña de las elecciones andaluzas",
+      "url": "https://www.lavanguardia.com/economia/20260501/11527392/sindicatos-toman-calle-primero-mayo-guerras-fascismo.html",
+      "scraped_at": "2026-05-01T08:24:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La kriptonita de Juanma Moreno",
-      "subtitle": "Hoy empieza la campaña electoral andaluza y el PP es el partido hegemónico indiscutible. ¿Era Andalucía de izquierdas y ahora se ha vuelto de derechas?",
-      "url": "https://www.lavanguardia.com/politica/20260430/11525943/kriptonita-juanma-moreno.html",
-      "scraped_at": "2026-04-30T08:34:43Z"
+      "title": "Koldo García, el escudero de Ábalos, protege a su exjefe",
+      "subtitle": "El exasesor del ministro dice haber recibido billetes de 500 del PSOE en concepto de gastos y niega financiación ilegal del partido",
+      "url": "https://www.lavanguardia.com/politica/20260501/11527081/koldo-garcia-escudero-abalos-protege-exjefe.html",
+      "scraped_at": "2026-05-01T08:24:11Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El PIB crece un 0,6% en el primer trimestre gracias al consumo de los hogares",
-      "subtitle": "Supone una moderación de dos décimas respecto al periodo anterior, pero menos pronunciada de lo que se esperaba",
-      "url": "https://www.lavanguardia.com/economia/20260430/11526333/pib-crece-0-6-primer-trimestre-gracias-consumo-hogares.html",
-      "scraped_at": "2026-04-30T08:34:43Z"
+      "title": "El desconocido “café Manolín”: el café con soda que se sirve desde hace más de medio siglo",
+      "subtitle": "Cuesta encontrar algo de información sobre este producto pese a que tiene tantos años como el propio bar El Velódromo",
+      "url": "https://www.lavanguardia.com/comer/sitios/20260501/11524416/desconocido-cafe-manolin-cafe-soda-sirve-mas-medio-siglo-barcelona.html",
+      "scraped_at": "2026-05-01T08:24:11Z"
     }
   ]
 }
