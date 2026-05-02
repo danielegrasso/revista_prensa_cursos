@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El PP busca una mayoría absoluta en Andalucía que frene a Vox: Montero, la candidata socialista, llama a las clases medias a defender sus intereses frente al programa privatizador del PP en el inicio de la campaña electoral; Día uno, entusiasmo cero: La primera ilusión es óptica. Consiste en creer que una campaña electoral en Andalucía implica tensión ambiental, activismo social y movimientos de masas (de inspiración jornalera), que es el sueño húmedo en las cancillerías de todos los partidos políticos. No es; Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”: El acto central del Día Internacional del Trabajo se traslada a Málaga justo en el inicio de campaña de las elecciones andaluzas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-01T08:24:11Z",
+  "summary": "Resumen del día en La Vanguardia: EE.UU. eleva el choque con Europa al anunciar la retirada de 5.000 de sus efectivos de Alemania: La medida afecta a una parte de los 35.000 efectivos destinados a la zona y se ejecutará dentro de seis meses durante un año; La cuestión de Alemania: Los recortes del estado social alemán por el rearme nos incumben; Trump erosiona sin cesar la relación con Europa: El presidente multiplica sus muestras de desprecio y las amenazas a los aliados de la OTAN. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-02T07:58:03Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El PP busca una mayoría absoluta en Andalucía que frene a Vox",
-      "subtitle": "Montero, la candidata socialista, llama a las clases medias a defender sus intereses frente al programa privatizador del PP en el inicio de la campaña electoral",
-      "url": "https://www.lavanguardia.com/politica/20260430/11527112/moreno-inicia-campana-sevilla-reto-preservar-mayoria-absoluta.html",
-      "scraped_at": "2026-05-01T08:24:10Z"
+      "title": "EE.UU. eleva el choque con Europa al anunciar la retirada de 5.000 de sus efectivos de Alemania",
+      "subtitle": "La medida afecta a una parte de los 35.000 efectivos destinados a la zona y se ejecutará dentro de seis meses durante un año",
+      "url": "https://www.lavanguardia.com/internacional/20260501/11527802/ee-uu-anuncia-retirada-tropas-alemania.html",
+      "scraped_at": "2026-05-02T07:58:02Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Día uno, entusiasmo cero",
-      "subtitle": "La primera ilusión es óptica. Consiste en creer que una campaña electoral en Andalucía implica tensión ambiental, activismo social y movimientos de masas (de inspiración jornalera), que es el sueño húmedo en las cancillerías de todos los partidos políticos. No es",
-      "url": "https://www.lavanguardia.com/politica/20260501/11527076/dia-entusiasmo-cero.html",
-      "scraped_at": "2026-05-01T08:24:11Z"
+      "title": "La cuestión de Alemania",
+      "subtitle": "Los recortes del estado social alemán por el rearme nos incumben",
+      "url": "https://www.lavanguardia.com/internacional/20260502/11527699/cuestion-alemania.html",
+      "scraped_at": "2026-05-02T07:58:02Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”",
-      "subtitle": "El acto central del Día Internacional del Trabajo se traslada a Málaga justo en el inicio de campaña de las elecciones andaluzas",
-      "url": "https://www.lavanguardia.com/economia/20260501/11527392/sindicatos-toman-calle-primero-mayo-guerras-fascismo.html",
-      "scraped_at": "2026-05-01T08:24:11Z"
+      "title": "Trump erosiona sin cesar la relación con Europa",
+      "subtitle": "El presidente multiplica sus muestras de desprecio y las amenazas a los aliados de la OTAN",
+      "url": "https://www.lavanguardia.com/internacional/20260501/11527640/trump-erosiona-cesar-relacion-europa.html",
+      "scraped_at": "2026-05-02T07:58:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Koldo García, el escudero de Ábalos, protege a su exjefe",
-      "subtitle": "El exasesor del ministro dice haber recibido billetes de 500 del PSOE en concepto de gastos y niega financiación ilegal del partido",
-      "url": "https://www.lavanguardia.com/politica/20260501/11527081/koldo-garcia-escudero-abalos-protege-exjefe.html",
-      "scraped_at": "2026-05-01T08:24:11Z"
+      "title": "El presidente dice que EE.UU. tomará Cuba “casi de inmediato” tras el capítulo de Irán",
+      "subtitle": "La afirmación de Trump, que sostuvo sería el próximo trabajo tras concluir el de Irán, se produjo solo unas horas después de que su administración redoblará las sanciones contra la isla",
+      "url": "https://www.lavanguardia.com/internacional/20260502/11527966/trump-dice-ee-uu-tomara-control-cuba-inmediatamente-discurso-florida.html",
+      "scraped_at": "2026-05-02T07:58:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El desconocido “café Manolín”: el café con soda que se sirve desde hace más de medio siglo",
-      "subtitle": "Cuesta encontrar algo de información sobre este producto pese a que tiene tantos años como el propio bar El Velódromo",
-      "url": "https://www.lavanguardia.com/comer/sitios/20260501/11524416/desconocido-cafe-manolin-cafe-soda-sirve-mas-medio-siglo-barcelona.html",
-      "scraped_at": "2026-05-01T08:24:11Z"
+      "title": "Trump rechaza la nueva propuesta de Irán y vuelve a amenazar con destruir el país",
+      "subtitle": "El presidente de EE.UU. asegura que en Teherán hay un galimatías con varios grupos que se disputan el poder aunque hasta los de la línea más dura quieren pactar",
+      "url": "https://www.lavanguardia.com/internacional/20260501/11527716/trump-rechaza-nueva-propuesta-iran-vuelve-amenazar-destruir-pais.html",
+      "scraped_at": "2026-05-02T07:58:03Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE triplicó las donaciones recibidas en el periodo denunciado por Aldama: Los socialistas sostuvieron su situación económica durante la pandemia con ingresos privados y con las aportaciones de los afiliados y los cargos públicos; Las revelaciones de Aldama sobre la financiación del PSOE irán a la Audiencia Nacional: El empresario ya se refirió ante el magistrado instructor Leopoldo Puente al «negocio de las constructoras y Transportes»; Ormuz, el bloqueo que hace temblar la economía mundial: La subida del combustible fue solo el inicio. La crisis en oriente Próximo amenaza ya a las hipotecas, la cesta de la compra e incluso a vuelos comerciales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-01T08:24:09Z",
+  "summary": "Resumen del día en ABC.es: Bildu intenta imponer por ley su plan de «euskaldunes integrales»: El partido de Arnaldo Otegi quiere pasar de incidir en la «euskaldunización individual» a la «euskaldunización de los espacios» en el País Vasco y Navarra; La renta de los recién jubilados supera a la de los jóvenes por primera vez: Un hogar de 'boomers' ingresa casi 32.000 euros tras crecer un 40% en una década, frente al estancamiento de quienes acceden al mercado laboral; Trump ordena la retirada de 5.000 soldados de Alemania tras las amenazas a España: La decisión ocurre después de comentarios críticos del canciller Friedrich Merz sobre el desempeño de EE.UU. en la guerra de Irán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-02T07:58:01Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE triplicó las donaciones recibidas en el periodo denunciado por Aldama",
-      "subtitle": "Los socialistas sostuvieron su situación económica durante la pandemia con ingresos privados y con las aportaciones de los afiliados y los cargos públicos",
-      "url": "https://www.abc.es/espana/cuentas-psoe-reflejan-aumento-donaciones-similar-revelado-20260501024241-nt.html",
-      "scraped_at": "2026-05-01T08:24:07Z"
+      "title": "Bildu intenta imponer por ley su plan de «euskaldunes integrales»",
+      "subtitle": "El partido de Arnaldo Otegi quiere pasar de incidir en la «euskaldunización individual» a la «euskaldunización de los espacios» en el País Vasco y Navarra",
+      "url": "https://www.abc.es/espana/pais-vasco/bildu-cuela-plan-crear-euskaldunes-integrales-pulso-20260502020534-nt.html",
+      "scraped_at": "2026-05-02T07:58:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las revelaciones de Aldama sobre la financiación del PSOE irán a la Audiencia Nacional",
-      "subtitle": "El empresario ya se refirió ante el magistrado instructor Leopoldo Puente al «negocio de las constructoras y Transportes»",
-      "url": "https://www.abc.es/espana/revelaciones-aldama-sobre-financiacion-psoe-pueden-parar-20260501024259-nt.html",
-      "scraped_at": "2026-05-01T08:24:07Z"
+      "title": "La renta de los recién jubilados supera a la de los jóvenes por primera vez",
+      "subtitle": "Un hogar de 'boomers' ingresa casi 32.000 euros tras crecer un 40% en una década, frente al estancamiento de quienes acceden al mercado laboral",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/renta-recien-jubilados-supera-jovenes-primera-vez-20260502020545-nt.html",
+      "scraped_at": "2026-05-02T07:58:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ormuz, el bloqueo que hace temblar la economía mundial",
-      "subtitle": "La subida del combustible fue solo el inicio. La crisis en oriente Próximo amenaza ya a las hipotecas, la cesta de la compra e incluso a vuelos comerciales",
-      "url": "https://www.abc.es/economia/cierre-ormuz-bloqueo-temblar-economia-mundial-20260502200728-nt.html",
-      "scraped_at": "2026-05-01T08:24:08Z"
+      "title": "Trump ordena la retirada de 5.000 soldados de Alemania tras las amenazas a España",
+      "subtitle": "La decisión ocurre después de comentarios críticos del canciller Friedrich Merz sobre el desempeño de EE.UU. en la guerra de Irán",
+      "url": "https://www.abc.es/internacional/tras-amenazas-espana-trump-ordena-retirada-5000-20260502074423-nt.html",
+      "scraped_at": "2026-05-02T07:58:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Florentino asume personalmente la operación Mourinho",
-      "subtitle": "El presidente agenda cita con el entrenador luso después de que José Ángel Sánchez le convenza de que sea la primera opción para el banquillo del Madrid",
-      "url": "https://www.abc.es/deportes/real-madrid/jose-angel-junta-florentino-mourinho-20260430024402-nt.html",
-      "scraped_at": "2026-05-01T08:24:09Z"
+      "title": "Vendajes llenos de enigma",
+      "subtitle": "Los expertos ven justificaciones mentales en la nueva moda de exhibir protecciones en las muñecas de los futbolistas; algunos piensan peor",
+      "url": "https://www.abc.es/deportes/futbol/vendajes-llenos-supersticion-20260331020822-nt.html",
+      "scraped_at": "2026-05-02T07:58:01Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-01T08:24:09Z"
+      "scraped_at": "2026-05-02T07:58:01Z"
     }
   ]
 }
