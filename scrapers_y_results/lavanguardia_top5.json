@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: EE.UU. eleva el choque con Europa al anunciar la retirada de 5.000 de sus efectivos de Alemania: La medida afecta a una parte de los 35.000 efectivos destinados a la zona y se ejecutará dentro de seis meses durante un año; La cuestión de Alemania: Los recortes del estado social alemán por el rearme nos incumben; Trump erosiona sin cesar la relación con Europa: El presidente multiplica sus muestras de desprecio y las amenazas a los aliados de la OTAN. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-02T07:58:03Z",
+  "summary": "Resumen del día en La Vanguardia: Las amenazas de Trump sobre Rota y Morón chocan con la inversión en las bases: EE.UU. considera el enclave gaditano un punto estratégico para sus operaciones; El año perdido de Friedrich Merz: La valoración del canciller de Alemania se desploma por las reformas que no llegan; Sagrada Familia: la iglesia más alta se prepara para  deslumbrar al mundo: La basílica recibe un alud de peticiones para asistir a la bendición del pináculo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-03T08:14:56Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "EE.UU. eleva el choque con Europa al anunciar la retirada de 5.000 de sus efectivos de Alemania",
-      "subtitle": "La medida afecta a una parte de los 35.000 efectivos destinados a la zona y se ejecutará dentro de seis meses durante un año",
-      "url": "https://www.lavanguardia.com/internacional/20260501/11527802/ee-uu-anuncia-retirada-tropas-alemania.html",
-      "scraped_at": "2026-05-02T07:58:02Z"
+      "title": "Las amenazas de Trump sobre Rota y Morón chocan con la inversión en las bases",
+      "subtitle": "EE.UU. considera el enclave gaditano un punto estratégico para sus operaciones",
+      "url": "https://www.lavanguardia.com/politica/20260503/11528220/amenazas-trump-sobre-rota-moron-chocan-inversion-bases.html",
+      "scraped_at": "2026-05-03T08:14:55Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La cuestión de Alemania",
-      "subtitle": "Los recortes del estado social alemán por el rearme nos incumben",
-      "url": "https://www.lavanguardia.com/internacional/20260502/11527699/cuestion-alemania.html",
-      "scraped_at": "2026-05-02T07:58:02Z"
+      "title": "El año perdido de Friedrich Merz",
+      "subtitle": "La valoración del canciller de Alemania se desploma por las reformas que no llegan",
+      "url": "https://www.lavanguardia.com/internacional/20260503/11528149/alemania-ano-perdido-friedrich-merz-reformas-desploma-sondeos-ultraderecha.html",
+      "scraped_at": "2026-05-03T08:14:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump erosiona sin cesar la relación con Europa",
-      "subtitle": "El presidente multiplica sus muestras de desprecio y las amenazas a los aliados de la OTAN",
-      "url": "https://www.lavanguardia.com/internacional/20260501/11527640/trump-erosiona-cesar-relacion-europa.html",
-      "scraped_at": "2026-05-02T07:58:03Z"
+      "title": "Sagrada Familia: la iglesia más alta se prepara para  deslumbrar al mundo",
+      "subtitle": "La basílica recibe un alud de peticiones para asistir a la bendición del pináculo",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260503/11528180/finalizacion-torre-jesus-dispara-interes-sagrada-familia.html",
+      "scraped_at": "2026-05-03T08:14:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El presidente dice que EE.UU. tomará Cuba “casi de inmediato” tras el capítulo de Irán",
-      "subtitle": "La afirmación de Trump, que sostuvo sería el próximo trabajo tras concluir el de Irán, se produjo solo unas horas después de que su administración redoblará las sanciones contra la isla",
-      "url": "https://www.lavanguardia.com/internacional/20260502/11527966/trump-dice-ee-uu-tomara-control-cuba-inmediatamente-discurso-florida.html",
-      "scraped_at": "2026-05-02T07:58:03Z"
+      "title": "Un orgullo para Barcelona",
+      "subtitle": "La majestuosa imagen de la Sagrada Família que luce hoy en nuestra portada es todo un homenaje a Antoni Gaudí, en el centenario de su muerte, y a la propia ciudad de Barcelona por disponer de esta fabulosa joya arquitectónica. Quedan pocos días hasta el 10 de junio, cuando,",
+      "url": "https://www.lavanguardia.com/opinion/20260503/11528347/orgullo-barcelona.html",
+      "scraped_at": "2026-05-03T08:14:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump rechaza la nueva propuesta de Irán y vuelve a amenazar con destruir el país",
-      "subtitle": "El presidente de EE.UU. asegura que en Teherán hay un galimatías con varios grupos que se disputan el poder aunque hasta los de la línea más dura quieren pactar",
-      "url": "https://www.lavanguardia.com/internacional/20260501/11527716/trump-rechaza-nueva-propuesta-iran-vuelve-amenazar-destruir-pais.html",
-      "scraped_at": "2026-05-02T07:58:03Z"
+      "title": "Eugenia Martínez de Irujo y Gabriela Cortese, una amistad tejida entre viajes, arte y flores",
+      "subtitle": "Ambas amigas colaboran en una colección que transforma su amistad en momentos de verano",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260503/11525877/eugenia-martinez-irujo-gabriela-cortese-amistad-tejida-viajes-arte-flores.html",
+      "scraped_at": "2026-05-03T08:14:56Z"
     }
   ]
 }

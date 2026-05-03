@@ -1,21 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: ELA: solo dos CCAA pagan las ayudas a los enfermos un año después de aprobada la ley: De las quince comunidades autónomas que no conceden las ayudas todavía a estos pacientes, cuatro no han empezado ni siquiera a tramitar el reconocimiento del grado III+ de dependencia; El día que el ser humano se dio de bruces con la idea de la extinción: Hasta 1802 no supimos que millones de años antes de nosotros existieron unos seres gigantescos sobre la Tierra. El libro &#039;Dinosaurios en la cena&#039; cuenta aquellos descubrimientos y su impacto: igual que vinieron, se fueron. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-02T07:58:05Z",
+  "summary": "Resumen del día en El Confidencial: El caos urbanístico frena la construcción de más de dos millones de viviendas: Hay suelo y, lo más importante, ya está incluido en el planeamiento urbanístico. Sin embargo, sostiene un estudio, no se construye porque el mercado inmobiliario ha colapsado. Se sugiere volver a las leyes de edificaciones forzosas; Del \"rey soldado\" a la princesa universitaria: la formación de la heredera de la Corona: Leonor de Borbón sigue el itinerario de su padre, aunque ella ha optado por Políticas. En los años 80, don Juan Carlos le ganó el pulso a Felipe González para diseñar la formación de su hijo: primero las academias, luego la universidad; La niña bien que destruyó (sin querer) la institución familiar española: Las memorias de Felicidad Blanc desvelan el último gran misterio emocional de la Transición. ¿Qué se le pasaba por la cabeza a la madre de los Panero mientras sus hijos aireaban los trapos sucios en ‘El desencanto’?. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-03T08:14:59Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "ELA: solo dos CCAA pagan las ayudas a los enfermos un año después de aprobada la ley",
-      "subtitle": "De las quince comunidades autónomas que no conceden las ayudas todavía a estos pacientes, cuatro no han empezado ni siquiera a tramitar el reconocimiento del grado III+ de dependencia",
-      "url": "https://www.elconfidencial.com/espana/2026-05-02/ela-solo-dos-comunidades-pagan-ayudas-enfermos_4347783/",
-      "scraped_at": "2026-05-02T07:58:05Z"
+      "title": "El caos urbanístico frena la construcción de más de dos millones de viviendas",
+      "subtitle": "Hay suelo y, lo más importante, ya está incluido en el planeamiento urbanístico. Sin embargo, sostiene un estudio, no se construye porque el mercado inmobiliario ha colapsado. Se sugiere volver a las leyes de edificaciones forzosas",
+      "url": "https://www.elconfidencial.com/economia/2026-05-03/construccion-inmobiliaria-pisos-vivienda-estudio-suelo_4347831/",
+      "scraped_at": "2026-05-03T08:14:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El día que el ser humano se dio de bruces con la idea de la extinción",
-      "subtitle": "Hasta 1802 no supimos que millones de años antes de nosotros existieron unos seres gigantescos sobre la Tierra. El libro &#039;Dinosaurios en la cena&#039; cuenta aquellos descubrimientos y su impacto: igual que vinieron, se fueron",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-02/dinosaurios_4342991/",
-      "scraped_at": "2026-05-02T07:58:05Z"
+      "title": "Del \"rey soldado\" a la princesa universitaria: la formación de la heredera de la Corona",
+      "subtitle": "Leonor de Borbón sigue el itinerario de su padre, aunque ella ha optado por Políticas. En los años 80, don Juan Carlos le ganó el pulso a Felipe González para diseñar la formación de su hijo: primero las academias, luego la universidad",
+      "url": "https://www.elconfidencial.com/espana/2026-05-03/rey-soldado-princesa-universitaria-formacion-leonor_4348365/",
+      "scraped_at": "2026-05-03T08:14:58Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "La niña bien que destruyó (sin querer) la institución familiar española",
+      "subtitle": "Las memorias de Felicidad Blanc desvelan el último gran misterio emocional de la Transición. ¿Qué se le pasaba por la cabeza a la madre de los Panero mientras sus hijos aireaban los trapos sucios en ‘El desencanto’?",
+      "url": "https://www.elconfidencial.com/cultura/2026-05-03/desencanto-panero-felicidad-blanc_4343601/",
+      "scraped_at": "2026-05-03T08:14:59Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Este español busca edificios ilegales por satélite desde Estonia: en Algete hay 750",
+      "subtitle": "Un proyecto que cuenta con el respaldo de la Agencia Espacial Europea (ESA) y que está liderado por el español Mateo Ricart López, quien coordina una solución que promete revolucionar la recaudación municipal",
+      "url": "https://www.elconfidencial.com/inmobiliario/2026-05-03/ilegalidades-irregularidades-urbanistica-catanova-datel-agencia-espacial-europea-cbtrgrf_4346388/",
+      "scraped_at": "2026-05-03T08:14:59Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "¿Regular el producto o el canal para frenar el vapeo en menores?",
+      "subtitle": "Tras la entrada en vigor de la ley en Galicia y el avance de la normativa en Asturias para restringir el acceso de menores a productos de consumo adulto, el foco sobre las alternativas al tabaco tradicional ha dado un giro hacia los puntos de venta",
+      "url": "https://www.elconfidencial.com/espana/2026-04-30/vapeo-regulacion-puntos-venta-producto_4339446/",
+      "scraped_at": "2026-05-03T08:14:59Z"
     }
   ]
 }
