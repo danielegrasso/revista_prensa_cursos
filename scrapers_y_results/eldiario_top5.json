@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Ábalos mantendrá ante el Supremo que la causa de las mascarillas nace de un montaje orquestado por el PP: El exministro negará haber hecho \"lo más grande\" para la trama y haber sido pieza \"instrumental\" para la misma, rechazará la aseveración de Aldama de que recibió abonos en efectivo y sostendrá que su asesor no siempre le comunicaba las gestiones que hacía; Bolaños demanda a Aldama por vulnerar su derecho al honor al afirmar en varios programas que le intentó sobornar: El ministro de Justicia reclama al delincuente confeso 70.000 euros por daños y perjuicios. \"El demandante no conoce ni ha hablado nunca, ni tiene ni ha tenido relación personal alguna\" con el empresario corrupto ni con quien dice ser su portavoz; La Audiencia de Madrid rebaja a 10.000 euros la condena contra Alvise Pérez por un tuit contra Ábalos: Estima parcialmente un recurso del eurodiputado y no cree que vulnerase su derecho a la propia imagen cuando publicó una fotografía del exministro y le llamó \"mafia\". Mantiene la condena por vulnerar su honor. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-04T08:41:23Z",
+  "summary": "Resumen del día en elDiario.es: España supera por primera vez los 22 millones de trabajadores y el paro cae por debajo de 2,4 millones de personas: Abril sumó 223.700 afiliados al mercado laboral, en un mes empujado por la Semana Santa, y el paro registrado descendió en 62.700 personas y se sitúa en su nivel más bajo en 18 años; El PP rebaja la petición de pena a Aldama para intentar que no entre en prisión: La Fiscalía mantiene la solicitud de siete años de cárcel para el empresario, 24 años para Ábalos y 19 años y medio para Koldo García después de tratar el asunto con la fiscal general, Teresa Peramato; El Ábalos melancólico: carne de meme, víctima de Aldama y resignado a la condena: Abandonado por su novia, con su reputación malparada por las relaciones de Aldama con su Ministerio y pagando con creces el error de haber confiado en alguien como Koldo García, las expectativas de Ábalos de cara a la sentencia no son las mejores. El PP ya se ha ocupado de intentar salvar a Aldama. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-05T08:25:33Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Ábalos mantendrá ante el Supremo que la causa de las mascarillas nace de un montaje orquestado por el PP",
-      "subtitle": "El exministro negará haber hecho \"lo más grande\" para la trama y haber sido pieza \"instrumental\" para la misma, rechazará la aseveración de Aldama de que recibió abonos en efectivo y sostendrá que su asesor no siempre le comunicaba las gestiones que hacía",
-      "url": "https://www.eldiario.es/politica/abalos-mantendra-supremo-causa-mascarillas-nace-montaje-orquestado-pp_1_13190794.html",
-      "scraped_at": "2026-05-04T08:41:21Z"
+      "title": "España supera por primera vez los 22 millones de trabajadores y el paro cae por debajo de 2,4 millones de personas",
+      "subtitle": "Abril sumó 223.700 afiliados al mercado laboral, en un mes empujado por la Semana Santa, y el paro registrado descendió en 62.700 personas y se sitúa en su nivel más bajo en 18 años",
+      "url": "https://www.eldiario.es/economia/espana-supera-primera-vez-22-millones-trabajadores-paro-cae-debajo-2-4-millones-personas_1_13195144.html",
+      "scraped_at": "2026-05-05T08:25:29Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Bolaños demanda a Aldama por vulnerar su derecho al honor al afirmar en varios programas que le intentó sobornar",
-      "subtitle": "El ministro de Justicia reclama al delincuente confeso 70.000 euros por daños y perjuicios. \"El demandante no conoce ni ha hablado nunca, ni tiene ni ha tenido relación personal alguna\" con el empresario corrupto ni con quien dice ser su portavoz",
-      "url": "https://www.eldiario.es/politica/bolanos-demanda-aldama-vulnerar-derecho-honor-afirmar-programas-le-sobornar_1_13188307.html",
-      "scraped_at": "2026-05-04T08:41:21Z"
+      "title": "El PP rebaja la petición de pena a Aldama para intentar que no entre en prisión",
+      "subtitle": "La Fiscalía mantiene la solicitud de siete años de cárcel para el empresario, 24 años para Ábalos y 19 años y medio para Koldo García después de tratar el asunto con la fiscal general, Teresa Peramato",
+      "url": "https://www.eldiario.es/politica/pp-rebaja-peticion-pena-aldama-manera-evitaria-prision_1_13194542.html",
+      "scraped_at": "2026-05-05T08:25:31Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia de Madrid rebaja a 10.000 euros la condena contra Alvise Pérez por un tuit contra Ábalos",
-      "subtitle": "Estima parcialmente un recurso del eurodiputado y no cree que vulnerase su derecho a la propia imagen cuando publicó una fotografía del exministro y le llamó \"mafia\". Mantiene la condena por vulnerar su honor",
-      "url": "https://www.eldiario.es/politica/audiencia-madrid-rebaja-10-000-euros-condena-alvise-perez-tuit-abalos_1_13168807.html",
-      "scraped_at": "2026-05-04T08:41:22Z"
+      "title": "El Ábalos melancólico: carne de meme, víctima de Aldama y resignado a la condena",
+      "subtitle": "Abandonado por su novia, con su reputación malparada por las relaciones de Aldama con su Ministerio y pagando con creces el error de haber confiado en alguien como Koldo García, las expectativas de Ábalos de cara a la sentencia no son las mejores. El PP ya se ha ocupado de intentar salvar a Aldama",
+      "url": "https://www.eldiario.es/politica/abalos-melancolico-carne-meme-victima-aldama-resignado-condena_129_13193882.html",
+      "scraped_at": "2026-05-05T08:25:31Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia una operación para sacar “de forma segura” a “barcos y tripulaciones” de Ormuz",
-      "subtitle": "\"Se trata de buques procedentes de zonas del mundo que no están involucradas en modo alguno en lo que está ocurriendo actualmente en Oriente Medio\", afrima el presidente de Estados Unidos, quien asegura que \"el Proyecto Libertad comenzará el lunes por la mañana, hora de Oriente Medio\"",
-      "url": "https://www.eldiario.es/internacional/trump-anuncia-operacion-sacar-forma-segura-barcos-tripulaciones-bloqueados-estrecho-ormuz_1_13191919.html",
-      "scraped_at": "2026-05-04T08:41:22Z"
+      "title": "El doble juego del PP con las televisiones públicas: fiscaliza a RTVE mientras purga y politiza las autonómicas que controla",
+      "subtitle": "Las quejas de los trabajadores por manipulación, la difusión de varios bulos y la ocultación de causas que implican a sus mandatarios marcan la gestión de los populares de los medios públicos",
+      "url": "https://www.eldiario.es/politica/doble-juego-pp-televisiones-publicas-fiscaliza-rtve-purga-politiza-autonomicas-controla_1_13164937.html",
+      "scraped_at": "2026-05-05T08:25:32Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Sánchez",
-      "subtitle": "El presidente del Gobierno retoma su viaje a Armenia este lunes tras haber tenido que aterrizar en Ankara por un imprevisto técnico en el Airbus A310 que le transportaba a la Cumbre de la Comunidad Política Europea ha tenido que aterrizar en Ankara",
-      "url": "https://www.eldiario.es/politica/problema-tecnico-obliga-pedro-sanchez-delegacion-espanola-noche-turquia_1_13191852.html",
-      "scraped_at": "2026-05-04T08:41:23Z"
+      "title": "Hantavirus",
+      "subtitle": "El barco viaja con dos enfermos a bordo y se plantea atracar en Tenerife o en Gran Canaria después de que Cabo Verde no haya autorizado su desembarco en el país. El navío está a la espera de la decisión de la OMS y los gobiernos para conocer su próximo paso",
+      "url": "https://www.eldiario.es/canariasahora/sociedad/ahora-brote-hantavirus-crucero-lujo-baraja-atracar-canarias_1_13194684.html",
+      "scraped_at": "2026-05-05T08:25:33Z"
     }
   ]
 }

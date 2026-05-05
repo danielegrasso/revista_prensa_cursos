@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La UDEF halla ingentes pruebas del «entramado delictivo» del caso Plus Ultra: La UDEF detecta transferencias de dinero al extranjero y pide más diligencias para localizar fondos ocultos; Tensión entre el CNI y la inteligencia militar por choques con las competencias: En el centro ven las quejas recurrentes y se asegura que hay colaboración con el Cifas; Caos en las oposiciones: miles de funcionarios sin plaza y cobrando un sueldo por estar en casa: Más de 4.000 opositores superaron hace un año los procesos selectivos, perciben 1.060 euros y desconocen cuándo saldrán publicados sus destinos, lo que está provocando situaciones límite. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-04T08:41:24Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno asigna 69.000 millones a Defensa de espaldas al Congreso: Datos de la Intervención de Hacienda revelan que el Ejecutivo ha más que duplicado la carga de créditos comprometidos para presupuestos futuros desde 2024; Las empresas retrasan compras, adelantan pedidos y se preparan para subir precios: Industria, alimentación y turismo fraguan planes de contingencia para amortiguar la escalada de los costes energéticos; Alivio en Moncloa y Ferraz por que Ábalos no tira de la manta: Creen que, siendo un caso de «extrema gravedad», queda circunscrito a «algunas personas» en Transportes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-05T08:25:35Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La UDEF halla ingentes pruebas del «entramado delictivo» del caso Plus Ultra",
-      "subtitle": "La UDEF detecta transferencias de dinero al extranjero y pide más diligencias para localizar fondos ocultos",
-      "url": "https://www.abc.es/espana/plus-ultra-vilo-cantidad-ingente-documentacion-intervenida-20260428021850-nt.html",
-      "scraped_at": "2026-05-04T08:41:24Z"
+      "title": "El Gobierno asigna 69.000 millones a Defensa de espaldas al Congreso",
+      "subtitle": "Datos de la Intervención de Hacienda revelan que el Ejecutivo ha más que duplicado la carga de créditos comprometidos para presupuestos futuros desde 2024",
+      "url": "https://www.abc.es/economia/gobierno-reserva-defensa-espaldas-congreso-gasto-comprometido-20260505062016-nt.html",
+      "scraped_at": "2026-05-05T08:25:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Tensión entre el CNI y la inteligencia militar por choques con las competencias",
-      "subtitle": "En el centro ven las quejas recurrentes y se asegura que hay colaboración con el Cifas",
-      "url": "https://www.abc.es/espana/tension-inteligencia-militar-cni-choques-competencias-20260504022033-nt.html",
-      "scraped_at": "2026-05-04T08:41:24Z"
+      "title": "Las empresas retrasan compras, adelantan pedidos y se preparan para subir precios",
+      "subtitle": "Industria, alimentación y turismo fraguan planes de contingencia para amortiguar la escalada de los costes energéticos",
+      "url": "https://www.abc.es/economia/gran-empresa-prepara-planes-contingencia-escenario-belico-20260505062038-nt.html",
+      "scraped_at": "2026-05-05T08:25:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Caos en las oposiciones: miles de funcionarios sin plaza y cobrando un sueldo por estar en casa",
-      "subtitle": "Más de 4.000 opositores superaron hace un año los procesos selectivos, perciben 1.060 euros y desconocen cuándo saldrán publicados sus destinos, lo que está provocando situaciones límite",
-      "url": "https://www.abc.es/economia/caos-oposiciones-miles-funcionarios-plaza-cobrando-estar-20260504022236-nt.html",
-      "scraped_at": "2026-05-04T08:41:24Z"
+      "title": "Alivio en Moncloa y Ferraz por que Ábalos no tira de la manta",
+      "subtitle": "Creen que, siendo un caso de «extrema gravedad», queda circunscrito a «algunas personas» en Transportes",
+      "url": "https://www.abc.es/espana/alivio-psoe-abalos-tirado-manta-20260504062106-nt.html",
+      "scraped_at": "2026-05-05T08:25:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "García Ortiz se victimiza e intenta ganar ante la opinión pública «el relato» que perdió en el Supremo",
-      "subtitle": "Reaparece en una amable entrevista con Évole que ambos aprovechan para imputar 'lawfare' a la Sala Segunda",
-      "url": "https://www.abc.es/espana/garcia-ortiz-victimiza-intenta-ganar-ante-opinion-20260504001031-nt.html",
-      "scraped_at": "2026-05-04T08:41:24Z"
+      "title": "Peramato impide al fiscal rebajar su petición de cárcel para Aldama por colaborar con la justicia",
+      "subtitle": "La fiscal general trata de no incomodar al Gobierno, molesto tras aludir el empresario a Sánchez como 'número uno' de la trama juzgada",
+      "url": "https://www.abc.es/espana/fiscal-anticorrupcion-rebajar-peticion-anos-carcel-aldama-20260504191814-nt.html",
+      "scraped_at": "2026-05-05T08:25:34Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-04T08:41:24Z"
+      "scraped_at": "2026-05-05T08:25:35Z"
     }
   ]
 }

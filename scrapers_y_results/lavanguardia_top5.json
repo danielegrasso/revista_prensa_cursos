@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: “Las clases medias de Andalucía están en riesgo con el PP de Moreno Bonilla”: Entrevista a la candidata de los socialistas andaluces a la presidencia de la Junta de Andalucía; El espadachín del sur: Casi 1,5 millones de votos obtuvo en las elecciones andaluzas Juanma Moreno, solo 9.900 menos que Isabel Díaz Ayuso en las madrileñas. Entre ambos, tres millones de electores. Moreno (1970) y Ayuso (1978) han sabido adaptarse como un guante a la idiosincrasia de su comunidad.; García Ortiz revela que supo por una filtración judicial que iban ya a imputarle: El ex fiscal general dice que tres meses antes de su procesamiento ya tenía noticias al respecto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-04T08:41:26Z",
+  "summary": "Resumen del día en La Vanguardia: España supera por primera vez la barrera de los 22 millones de empleados: La hostelería crea la mitad de los 224.000 nuevos empleos del mes de abril, que permiten rebasar la barrera simbólica de los 22 millones de cotizantes; Los ataques entre EE.UU. e Irán intensifican la crisis en Ormuz: Tras un intercambio de bombardeos entre Washington y Teherán, las navieras siguen reacias a transitar el estrecho y el alto el fuego se tambalea; Petróleo: lo peor puede estar por llegar: Pese al optimismo de los mercados, que siguen instalados en el país de las maravillas, el panorama es preocupante. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-05T08:25:37Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "“Las clases medias de Andalucía están en riesgo con el PP de Moreno Bonilla”",
-      "subtitle": "Entrevista a la candidata de los socialistas andaluces a la presidencia de la Junta de Andalucía",
-      "url": "https://www.lavanguardia.com/politica/20260504/11528702/maria-jesus-montero-clases-medias-andalucia-riesgo-pp-moreno-bonilla.html",
-      "scraped_at": "2026-05-04T08:41:25Z"
+      "title": "España supera por primera vez la barrera de los 22 millones de empleados",
+      "subtitle": "La hostelería crea la mitad de los 224.000 nuevos empleos del mes de abril, que permiten rebasar la barrera simbólica de los 22 millones de cotizantes",
+      "url": "https://www.lavanguardia.com/economia/20260505/11530050/empleo-supera-primera-vez-22-1-millones-afiliados.html",
+      "scraped_at": "2026-05-05T08:25:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El espadachín del sur",
-      "subtitle": "Casi 1,5 millones de votos obtuvo en las elecciones andaluzas Juanma Moreno, solo 9.900 menos que Isabel Díaz Ayuso en las madrileñas. Entre ambos, tres millones de electores. Moreno (1970) y Ayuso (1978) han sabido adaptarse como un guante a la idiosincrasia de su comunidad.",
-      "url": "https://www.lavanguardia.com/opinion/20260504/11528797/espadachin-sur.html",
-      "scraped_at": "2026-05-04T08:41:25Z"
+      "title": "Los ataques entre EE.UU. e Irán intensifican la crisis en Ormuz",
+      "subtitle": "Tras un intercambio de bombardeos entre Washington y Teherán, las navieras siguen reacias a transitar el estrecho y el alto el fuego se tambalea",
+      "url": "https://www.lavanguardia.com/internacional/20260504/11529657/incertidumbre-apodera-ormuz.html",
+      "scraped_at": "2026-05-05T08:25:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "García Ortiz revela que supo por una filtración judicial que iban ya a imputarle",
-      "subtitle": "El ex fiscal general dice que tres meses antes de su procesamiento ya tenía noticias al respecto",
-      "url": "https://www.lavanguardia.com/politica/20260503/11528757/garcia-ortiz-revela-supo-filtracion-judicial-iban-imputarle.html",
-      "scraped_at": "2026-05-04T08:41:25Z"
+      "title": "Petróleo: lo peor puede estar por llegar",
+      "subtitle": "Pese al optimismo de los mercados, que siguen instalados en el país de las maravillas, el panorama es preocupante",
+      "url": "https://www.lavanguardia.com/economia/20260505/11529659/guerra-iran-ee-uu-golfo-persico-trump-petroleo-inflacion.html",
+      "scraped_at": "2026-05-05T08:25:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Irán dice que atacará a las fuerzas de EE.UU. que entren en  Ormuz",
-      "subtitle": "El despliegue militar específico para este proyecto incluirá destructores con misiles guiados, más de 100 aeronaves basadas en tierra y en el mar, y 15.000 efectivos",
-      "url": "https://www.lavanguardia.com/internacional/20260504/11528956/trump-anuncia-operacion-conjunta-liberar-barcos-varados-estrecho-ormuz.html",
-      "scraped_at": "2026-05-04T08:41:26Z"
+      "title": "Primer debate de las elecciones andaluzas: la noche más incómoda de Juanma Moreno",
+      "subtitle": "Los grupos de la oposición, en especial los de la izquierda, censuran la gestión del presidente andaluz que ha tenido dificultades para hilvanar respuestas sólidas a los embates",
+      "url": "https://www.lavanguardia.com/politica/20260504/11529957/primer-debate-elecciones-andaluzas-noche-mas-incomoda-juanma-moreno.html",
+      "scraped_at": "2026-05-05T08:25:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El imperativo existencial de una Europa unida",
-      "subtitle": "El ex alto representante de la Unión Europea para Asuntos Exteriores y Política de Seguridad Josep Borrell ha declarado que la UE es esencialmente un proyecto de paz que no está pensado para un mundo imperial y multipolar, sino para un mundo de posguerra. Reconoce el éxito",
-      "url": "https://www.lavanguardia.com/opinion/20260504/11528203/imperativo-existencial-europa-unida.html",
-      "scraped_at": "2026-05-04T08:41:26Z"
+      "title": "De Anne Hathaway a Hailey Bieber, estos son los mejores vestidos de la Gala Met 2026",
+      "subtitle": "En una celebración que unió la moda con el arte, las estrellas estuvieron a la altura en la noche más importante de la moda",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260505/11529631/hathaway-bieber-gala-met-mejor-vestido.html",
+      "scraped_at": "2026-05-05T08:25:37Z"
     }
   ]
 }
