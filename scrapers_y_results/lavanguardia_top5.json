@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: España supera por primera vez la barrera de los 22 millones de empleados: La hostelería crea la mitad de los 224.000 nuevos empleos del mes de abril, que permiten rebasar la barrera simbólica de los 22 millones de cotizantes; Los ataques entre EE.UU. e Irán intensifican la crisis en Ormuz: Tras un intercambio de bombardeos entre Washington y Teherán, las navieras siguen reacias a transitar el estrecho y el alto el fuego se tambalea; Petróleo: lo peor puede estar por llegar: Pese al optimismo de los mercados, que siguen instalados en el país de las maravillas, el panorama es preocupante. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-05T08:25:37Z",
+  "summary": "Resumen del día en La Vanguardia: Trump suspende la operación de escolta en Ormuz para buscar un acuerdo de paz con Irán: El presidente afirma que pausa el Proyecto Libertad “a petición de Pakistán”, aunque mantendrá el bloqueo naval contra Teherán; El Papa, a Trump: “Si alguien quiere criticarme, que lo haga con la verdad”: El presidente afirma que para León XIV está bien que Irán tenga el arma nuclear; Sánchez pide a Bruselas proteger a miembros de la Corte Penal Internacional sancionados por Trump: El presidente del Gobierno solicita la activación del Estatuto de Bloqueo, el principal instrumento de la UE para neutralizar los efectos de sanciones extranjeras en territorio europeo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-06T08:39:55Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "España supera por primera vez la barrera de los 22 millones de empleados",
-      "subtitle": "La hostelería crea la mitad de los 224.000 nuevos empleos del mes de abril, que permiten rebasar la barrera simbólica de los 22 millones de cotizantes",
-      "url": "https://www.lavanguardia.com/economia/20260505/11530050/empleo-supera-primera-vez-22-1-millones-afiliados.html",
-      "scraped_at": "2026-05-05T08:25:36Z"
+      "title": "Trump suspende la operación de escolta en Ormuz para buscar un acuerdo de paz con Irán",
+      "subtitle": "El presidente afirma que pausa el Proyecto Libertad “a petición de Pakistán”, aunque mantendrá el bloqueo naval contra Teherán",
+      "url": "https://www.lavanguardia.com/internacional/20260506/11531006/trump-suspende-operacion-escolta-ormuz-buscar-acuerdo-paz-iran.html",
+      "scraped_at": "2026-05-06T08:39:54Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los ataques entre EE.UU. e Irán intensifican la crisis en Ormuz",
-      "subtitle": "Tras un intercambio de bombardeos entre Washington y Teherán, las navieras siguen reacias a transitar el estrecho y el alto el fuego se tambalea",
-      "url": "https://www.lavanguardia.com/internacional/20260504/11529657/incertidumbre-apodera-ormuz.html",
-      "scraped_at": "2026-05-05T08:25:36Z"
+      "title": "El Papa, a Trump: “Si alguien quiere criticarme, que lo haga con la verdad”",
+      "subtitle": "El presidente afirma que para León XIV está bien que Irán tenga el arma nuclear",
+      "url": "https://www.lavanguardia.com/internacional/20260506/11531002/papa-trump-alguien-quiere-criticarme-haga-verdad.html",
+      "scraped_at": "2026-05-06T08:39:54Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Petróleo: lo peor puede estar por llegar",
-      "subtitle": "Pese al optimismo de los mercados, que siguen instalados en el país de las maravillas, el panorama es preocupante",
-      "url": "https://www.lavanguardia.com/economia/20260505/11529659/guerra-iran-ee-uu-golfo-persico-trump-petroleo-inflacion.html",
-      "scraped_at": "2026-05-05T08:25:36Z"
+      "title": "Sánchez pide a Bruselas proteger a miembros de la Corte Penal Internacional sancionados por Trump",
+      "subtitle": "El presidente del Gobierno solicita la activación del Estatuto de Bloqueo, el principal instrumento de la UE para neutralizar los efectos de sanciones extranjeras en territorio europeo",
+      "url": "https://www.lavanguardia.com/politica/20260506/11531053/sanchez-pide-bruselas-proteger-miembros-corte-penal-internacional-sancionados-trump.html",
+      "scraped_at": "2026-05-06T08:39:55Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Primer debate de las elecciones andaluzas: la noche más incómoda de Juanma Moreno",
-      "subtitle": "Los grupos de la oposición, en especial los de la izquierda, censuran la gestión del presidente andaluz que ha tenido dificultades para hilvanar respuestas sólidas a los embates",
-      "url": "https://www.lavanguardia.com/politica/20260504/11529957/primer-debate-elecciones-andaluzas-noche-mas-incomoda-juanma-moreno.html",
-      "scraped_at": "2026-05-05T08:25:36Z"
+      "title": "Robles: “Invertir en defensa es invertir en paz, seguridad y puestos de trabajo”",
+      "subtitle": "La ministra reivindica la posición española, contraria a las dos guerras que afectan hoy a Europa, la de Ucrania y la de Irán",
+      "url": "https://www.lavanguardia.com/politica/20260505/11530673/robles-espana-dice-guerras-ataque-ilegales-paraguas-internacional.html",
+      "scraped_at": "2026-05-06T08:39:55Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "De Anne Hathaway a Hailey Bieber, estos son los mejores vestidos de la Gala Met 2026",
-      "subtitle": "En una celebración que unió la moda con el arte, las estrellas estuvieron a la altura en la noche más importante de la moda",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260505/11529631/hathaway-bieber-gala-met-mejor-vestido.html",
-      "scraped_at": "2026-05-05T08:25:37Z"
+      "title": "Madrid abre el primer centro para hombres víctimas de agresión sexual",
+      "subtitle": "El maltrato se produce por practicar el chemsex , consumo de sustancias en contextos sexuales",
+      "url": "https://www.lavanguardia.com/local/madrid/20260506/11530490/madrid-abre-primer-centro-hombres-victimas-agresion-sexual-atiende-7-primer-mes-funcionamiento.html",
+      "scraped_at": "2026-05-06T08:39:55Z"
     }
   ]
 }

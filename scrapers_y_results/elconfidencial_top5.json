@@ -1,42 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Ejecutivo admite el fracaso de la reforma para cobrar el paro y trabajar y pide ayuda: Solo el 2,3% de los parados de marzo usaron el complemento de apoyo al empleo para compaginar el desempleo con un salario. El diseño de la herramienta y su cuantía desincentivan volver al mercado; La izquierda se lanza en bloque contra un Moreno de perfil bajo que aprieta con la financiación: Montero, Maíllo y García coordinan sus andanadas en sanidad y vivienda para criticar al candidato popular, que pasó a la ofensiva con el pacto del PSOE con los independentistas para erosionar a la líder socialista; Por qué los trasteros son un negocio tan atractivo: lo que hay tras su 'boom' en España: Fueron un refugio para emprendedores durante la crisis y hoy son la consecuencia perfecta de los cambios sociales, demográficos y de hábitos que se están produciendo en nuestro país. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-05T08:25:40Z",
+  "summary": "Resumen del día en El Confidencial: El desastre arbitral que condenó al Atlético, le perseguirá para siempre y afecta a España: Daniel Siebert se equivocó a favor del Arsenal al no señalar un penalti muy claro sobre Griezmann. El VAR, donde había otro colegiado alemán, se lavó las manos en Londres; Audio | Zarrías admitió al juez que pagó a Leire sin revisar su trabajo y tras verla \"tres veces\": El histórico dirigente del PSOE explicó que le dio dinero durante meses, pero las citas las tenía fuera de la empresa, que no tuvo contacto con otros empleados y que tampoco le dio un correo corporativo; Andalucía: Los de Santiago Abascal explotan la \"prioridad nacional\" y la regularización del Gobierno para intentar darle la vuelta a las encuestas, que anticipan un frenazo en la provincia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-06T08:39:56Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Ejecutivo admite el fracaso de la reforma para cobrar el paro y trabajar y pide ayuda",
-      "subtitle": "Solo el 2,3% de los parados de marzo usaron el complemento de apoyo al empleo para compaginar el desempleo con un salario. El diseño de la herramienta y su cuantía desincentivan volver al mercado",
-      "url": "https://www.elconfidencial.com/economia/2026-05-05/sepe-pide-ayuda-ocde-reforma-incentivo-parados-trabajo_4349483/",
-      "scraped_at": "2026-05-05T08:25:38Z"
+      "title": "El desastre arbitral que condenó al Atlético, le perseguirá para siempre y afecta a España",
+      "subtitle": "Daniel Siebert se equivocó a favor del Arsenal al no señalar un penalti muy claro sobre Griezmann. El VAR, donde había otro colegiado alemán, se lavó las manos en Londres",
+      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2026-05-06/arsenal-atletico-arbitro-simeone-champions-penalti_4350433/",
+      "scraped_at": "2026-05-06T08:39:56Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La izquierda se lanza en bloque contra un Moreno de perfil bajo que aprieta con la financiación",
-      "subtitle": "Montero, Maíllo y García coordinan sus andanadas en sanidad y vivienda para criticar al candidato popular, que pasó a la ofensiva con el pacto del PSOE con los independentistas para erosionar a la líder socialista",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-05-04/la-izquierda-se-lanza-en-bloque-contra-un-moreno-de-perfil-bajo-que-aprieta-con-la-financiacion_4349771/",
-      "scraped_at": "2026-05-05T08:25:38Z"
+      "title": "Audio | Zarrías admitió al juez que pagó a Leire sin revisar su trabajo y tras verla \"tres veces\"",
+      "subtitle": "El histórico dirigente del PSOE explicó que le dio dinero durante meses, pero las citas las tenía fuera de la empresa, que no tuvo contacto con otros empleados y que tampoco le dio un correo corporativo",
+      "url": "https://www.elconfidencial.com/espana/2026-05-05/audio-zarrias-admitio-juez-pagos-leire-diez-sin-revisar-trabajo_4350214/",
+      "scraped_at": "2026-05-06T08:39:56Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Por qué los trasteros son un negocio tan atractivo: lo que hay tras su 'boom' en España",
-      "subtitle": "Fueron un refugio para emprendedores durante la crisis y hoy son la consecuencia perfecta de los cambios sociales, demográficos y de hábitos que se están produciendo en nuestro país",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-05-05/trasteros-negocio-atractivo-boom_4349569/",
-      "scraped_at": "2026-05-05T08:25:39Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Expulsado de Emiratos por una foto de un ataque: cerrojazo del Golfo a la 'mala imagen'",
-      "subtitle": "El control de la imagen ha sido siempre un elemento central en el funcionamiento del país, donde la seguridad es, en sí misma, un producto",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-05/emiratos-miedo-censura-guerra-represion-1hms_4341591/",
-      "scraped_at": "2026-05-05T08:25:40Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "A quién le dedicó David Summers la canción de Hombres G: esta es la historia de 'Devuélveme a mi chica'",
-      "subtitle": "Este viernes, 8 de mayo, se estrena en cines &#039;Los mejores años de nuestra vida&#039;, documental sobre la popular banda que marcó a tantas generaciones en España",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-04/honbres-g-devuelveme-a-mi-chica-historia-1qrt_4349214/",
-      "scraped_at": "2026-05-05T08:25:40Z"
+      "title": "Andalucía",
+      "subtitle": "Los de Santiago Abascal explotan la \"prioridad nacional\" y la regularización del Gobierno para intentar darle la vuelta a las encuestas, que anticipan un frenazo en la provincia",
+      "url": "https://www.elconfidencial.com/espana/andalucia/",
+      "scraped_at": "2026-05-06T08:39:56Z"
     }
   ]
 }

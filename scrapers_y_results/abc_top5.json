@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno asigna 69.000 millones a Defensa de espaldas al Congreso: Datos de la Intervención de Hacienda revelan que el Ejecutivo ha más que duplicado la carga de créditos comprometidos para presupuestos futuros desde 2024; Las empresas retrasan compras, adelantan pedidos y se preparan para subir precios: Industria, alimentación y turismo fraguan planes de contingencia para amortiguar la escalada de los costes energéticos; Alivio en Moncloa y Ferraz por que Ábalos no tira de la manta: Creen que, siendo un caso de «extrema gravedad», queda circunscrito a «algunas personas» en Transportes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-05T08:25:35Z",
+  "summary": "Resumen del día en ABC.es: Canarias, indignada con Moncloa al negociar a sus espaldas la llegada del crucero del hantavirus: La decisión del Ejecutivo ha generado un fuerte malestar en la administración autonómica por las consecuencias que pueda tener sobre el turismo; Koldo aporta al Supremo 14 justificantes de pagos en efectivo del PSOE: El exasesor recibió una indemnización del seguro de más de 60.000 euros por un accidente por un jabalí; «Voy a sufrir mucho con los seis toros, pero para ser grande no puedes ser conservador»: El torero de Espartinas recorre la Residencia de Estudiantes donde se inspiró la Generación del 27 antes de su gran apuesta de San Isidro en memoria de Sánchez Mejías: «Diga lo que diga el ministro, la Fiesta es Cultura». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-06T08:39:53Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno asigna 69.000 millones a Defensa de espaldas al Congreso",
-      "subtitle": "Datos de la Intervención de Hacienda revelan que el Ejecutivo ha más que duplicado la carga de créditos comprometidos para presupuestos futuros desde 2024",
-      "url": "https://www.abc.es/economia/gobierno-reserva-defensa-espaldas-congreso-gasto-comprometido-20260505062016-nt.html",
-      "scraped_at": "2026-05-05T08:25:34Z"
+      "title": "Canarias, indignada con Moncloa al negociar a sus espaldas la llegada del crucero del hantavirus",
+      "subtitle": "La decisión del Ejecutivo ha generado un fuerte malestar en la administración autonómica por las consecuencias que pueda tener sobre el turismo",
+      "url": "https://www.abc.es/espana/canarias/enfado-canarias-moncloa-dijo-crucero-hantavirus-llegaria-20260506093914-nt.html",
+      "scraped_at": "2026-05-06T08:39:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las empresas retrasan compras, adelantan pedidos y se preparan para subir precios",
-      "subtitle": "Industria, alimentación y turismo fraguan planes de contingencia para amortiguar la escalada de los costes energéticos",
-      "url": "https://www.abc.es/economia/gran-empresa-prepara-planes-contingencia-escenario-belico-20260505062038-nt.html",
-      "scraped_at": "2026-05-05T08:25:34Z"
+      "title": "Koldo aporta al Supremo 14 justificantes de pagos en efectivo del PSOE",
+      "subtitle": "El exasesor recibió una indemnización del seguro de más de 60.000 euros por un accidente por un jabalí",
+      "url": "https://www.abc.es/espana/koldo-aporta-supremo-justificantes-pagos-efectivo-psoe-20260506015205-nt.html",
+      "scraped_at": "2026-05-06T08:39:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alivio en Moncloa y Ferraz por que Ábalos no tira de la manta",
-      "subtitle": "Creen que, siendo un caso de «extrema gravedad», queda circunscrito a «algunas personas» en Transportes",
-      "url": "https://www.abc.es/espana/alivio-psoe-abalos-tirado-manta-20260504062106-nt.html",
-      "scraped_at": "2026-05-05T08:25:34Z"
+      "title": "«Voy a sufrir mucho con los seis toros, pero para ser grande no puedes ser conservador»",
+      "subtitle": "El torero de Espartinas recorre la Residencia de Estudiantes donde se inspiró la Generación del 27 antes de su gran apuesta de San Isidro en memoria de Sánchez Mejías: «Diga lo que diga el ministro, la Fiesta es Cultura»",
+      "url": "https://www.abc.es/cultura/toros/borja-jimenez-sufrir-grande-puedes-conservador-20260505015150-nt.html",
+      "scraped_at": "2026-05-06T08:39:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Peramato impide al fiscal rebajar su petición de cárcel para Aldama por colaborar con la justicia",
-      "subtitle": "La fiscal general trata de no incomodar al Gobierno, molesto tras aludir el empresario a Sánchez como 'número uno' de la trama juzgada",
-      "url": "https://www.abc.es/espana/fiscal-anticorrupcion-rebajar-peticion-anos-carcel-aldama-20260504191814-nt.html",
-      "scraped_at": "2026-05-05T08:25:34Z"
+      "title": "¿El lado correcto? Justo el contrario a Delcy",
+      "subtitle": "Sánchez nunca estará en ningún lugar correcto, pero siempre hará todo lo que haga falta para poner al otro lado de donde esté él a cualquiera que ose señalar sus miserias",
+      "url": "https://www.abc.es/opinion/agustin-pery-lado-correcto-justo-enfrente-tuyo-20260505121814-nt.html",
+      "scraped_at": "2026-05-06T08:39:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-05T08:25:35Z"
+      "title": "«Cuando alquilas no tributan los ingresos sino el beneficio. Hacienda permite deducir el 3% del valor de la construcción»",
+      "subtitle": "Muchos propietarios desconocen que pueden deducirse la amortización del inmueble, un ahorro de hasta 5.000 euros anuales que no aparece en el borrador",
+      "url": "https://www.cope.es/actualidad/economia/noticias/alquilas-no-tributan-ingresos-beneficio-hacienda-permite-deducir-3-valor-construccion-2-000-5-000-euros-ano-reduccion-base-imponible-20260506_3357045.html",
+      "scraped_at": "2026-05-06T08:39:53Z"
     }
   ]
 }
