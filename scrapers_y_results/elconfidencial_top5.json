@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El desastre arbitral que condenó al Atlético, le perseguirá para siempre y afecta a España: Daniel Siebert se equivocó a favor del Arsenal al no señalar un penalti muy claro sobre Griezmann. El VAR, donde había otro colegiado alemán, se lavó las manos en Londres; Audio | Zarrías admitió al juez que pagó a Leire sin revisar su trabajo y tras verla \"tres veces\": El histórico dirigente del PSOE explicó que le dio dinero durante meses, pero las citas las tenía fuera de la empresa, que no tuvo contacto con otros empleados y que tampoco le dio un correo corporativo; Andalucía: Los de Santiago Abascal explotan la \"prioridad nacional\" y la regularización del Gobierno para intentar darle la vuelta a las encuestas, que anticipan un frenazo en la provincia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-06T08:39:56Z",
+  "summary": "Resumen del día en El Confidencial: El Supremo busca una sentencia exprés y unánime que fije si hubo trama criminal dentro del Gobierno: Alejandro Luzón, con el grueso del peso de la acusación sobre los hombros, no defraudó y supo condensar ante los magistrados toda la gravedad de los hechos y la necesidad de que la respuesta esté en consonancia; Por fin, un libro a favor de los viejos: \"A los 45 te ven como si tu currículo llevara amianto\": Iñaki Larrimbe carga contra el edadismo en &#039;La dictadura de lo joven&#039;. Ensayo sobre (y contra) la guerra generacional. La resistencia carroza; \"No habrá acuerdo de paz en Ormuz. Como mucho, un cese de hostilidades\": La ex ministra de Exteriores dice que las negociaciones que se están llevando a cabo entre Irán y Estados Unidos no son profesionales y desconfía de que logren alcanzar un acuerdo de paz duradero. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-07T08:46:58Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El desastre arbitral que condenó al Atlético, le perseguirá para siempre y afecta a España",
-      "subtitle": "Daniel Siebert se equivocó a favor del Arsenal al no señalar un penalti muy claro sobre Griezmann. El VAR, donde había otro colegiado alemán, se lavó las manos en Londres",
-      "url": "https://www.elconfidencial.com/deportes/futbol/champions/2026-05-06/arsenal-atletico-arbitro-simeone-champions-penalti_4350433/",
-      "scraped_at": "2026-05-06T08:39:56Z"
+      "title": "El Supremo busca una sentencia exprés y unánime que fije si hubo trama criminal dentro del Gobierno",
+      "subtitle": "Alejandro Luzón, con el grueso del peso de la acusación sobre los hombros, no defraudó y supo condensar ante los magistrados toda la gravedad de los hechos y la necesidad de que la respuesta esté en consonancia",
+      "url": "https://www.elconfidencial.com/espana/2026-05-07/supremo-busca-sentencia-expres-unanime-trama-criminal-mascarillas-gobierno_4350890/",
+      "scraped_at": "2026-05-07T08:46:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Audio | Zarrías admitió al juez que pagó a Leire sin revisar su trabajo y tras verla \"tres veces\"",
-      "subtitle": "El histórico dirigente del PSOE explicó que le dio dinero durante meses, pero las citas las tenía fuera de la empresa, que no tuvo contacto con otros empleados y que tampoco le dio un correo corporativo",
-      "url": "https://www.elconfidencial.com/espana/2026-05-05/audio-zarrias-admitio-juez-pagos-leire-diez-sin-revisar-trabajo_4350214/",
-      "scraped_at": "2026-05-06T08:39:56Z"
+      "title": "Por fin, un libro a favor de los viejos: \"A los 45 te ven como si tu currículo llevara amianto\"",
+      "subtitle": "Iñaki Larrimbe carga contra el edadismo en &#039;La dictadura de lo joven&#039;. Ensayo sobre (y contra) la guerra generacional. La resistencia carroza",
+      "url": "https://www.elconfidencial.com/cultura/2026-05-07/dictadura-joven-libro-edadismo_4350272/",
+      "scraped_at": "2026-05-07T08:46:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Andalucía",
-      "subtitle": "Los de Santiago Abascal explotan la \"prioridad nacional\" y la regularización del Gobierno para intentar darle la vuelta a las encuestas, que anticipan un frenazo en la provincia",
-      "url": "https://www.elconfidencial.com/espana/andalucia/",
-      "scraped_at": "2026-05-06T08:39:56Z"
+      "title": "\"No habrá acuerdo de paz en Ormuz. Como mucho, un cese de hostilidades\"",
+      "subtitle": "La ex ministra de Exteriores dice que las negociaciones que se están llevando a cabo entre Irán y Estados Unidos no son profesionales y desconfía de que logren alcanzar un acuerdo de paz duradero",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-07/entrevista-gonzalez-laya-ormuz-iran-trump_4351049/",
+      "scraped_at": "2026-05-07T08:46:58Z"
     }
   ]
 }

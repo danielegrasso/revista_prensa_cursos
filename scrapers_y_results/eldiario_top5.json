@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Anticorrupción defenderá en su informe una rebaja de la pena a Aldama mayor que la que pide en su escrito: Confía en una sentencia del Tribunal Supremo que sea sensible con la \"relevante\" aportación de pruebas del comisionista; Miguel Ángel Rodríguez declara como imputado por señalar a dos periodistas que informaban sobre Ayuso: El jefe de gabinete de la Comunidad de Madrid difundió en un chat la fotografía y las identidades de dos profesionales de El País que habían sido identificados por la escolta de la presidenta, unas datos que luego fueron difundidos por varios medios y agitadores ultras; El Gobierno renuncia a la reducción de jornada en 2026 y prevé Presupuestos sin aclarar para qué año: El Plan Normativo recoge solo el decreto para endurecer el registro de jornada, en el que hay diferencias entre Trabajo y Economía, y contempla aprobar la reforma del sistema de financiación autonómica. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-06T08:39:51Z",
+  "summary": "Resumen del día en elDiario.es: Los científicos avalan que el barco del hantavirus atraque en España: es una decisión “razonable, correcta y lógica”: El presidente de Canarias alude a la pandemia del coronavirus y dice que \"hará todo lo posible para evitar el desembarco\", pero todos los expertos coinciden en que España tiene los medios y no puede rechazar una solicitud de este tipo; Sanidad afirma que tiene “instrumentos legales” si los pasajeros del barco del hantavirus se niegan a hacer cuarentena: Mónica García ha apelado al \"sentido común y la responsabilidad\" de los afectados, mientras la ministra de Defensa, Margarita Robles, aseguró que la cuarentena sería \"voluntaria\"; Repatriación, aislamiento y cuarentena: así será el protocolo para los pasajeros: España ultima un operativo dirigido por la Comisión Europea, con el apoyo de la OMS y el ECDC, para evacuar a 144 personas del crucero 'MV Hondius'. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-07T08:46:51Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Anticorrupción defenderá en su informe una rebaja de la pena a Aldama mayor que la que pide en su escrito",
-      "subtitle": "Confía en una sentencia del Tribunal Supremo que sea sensible con la \"relevante\" aportación de pruebas del comisionista",
-      "url": "https://www.eldiario.es/politica/anticorrupcion-informe-aldama_1_13197789.html",
-      "scraped_at": "2026-05-06T08:39:49Z"
+      "title": "Los científicos avalan que el barco del hantavirus atraque en España: es una decisión “razonable, correcta y lógica”",
+      "subtitle": "El presidente de Canarias alude a la pandemia del coronavirus y dice que \"hará todo lo posible para evitar el desembarco\", pero todos los expertos coinciden en que España tiene los medios y no puede rechazar una solicitud de este tipo",
+      "url": "https://www.eldiario.es/sociedad/cientificos-avalan-barco-hantavirus-atraque-espana-decision-razonable-correcta-logica_1_13201148.html",
+      "scraped_at": "2026-05-07T08:46:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez declara como imputado por señalar a dos periodistas que informaban sobre Ayuso",
-      "subtitle": "El jefe de gabinete de la Comunidad de Madrid difundió en un chat la fotografía y las identidades de dos profesionales de El País que habían sido identificados por la escolta de la presidenta, unas datos que luego fueron difundidos por varios medios y agitadores ultras",
-      "url": "https://www.eldiario.es/politica/miguel-angel-rodriguez-declara-imputado-senalar-periodistas-informaban-ayuso_1_13197379.html",
-      "scraped_at": "2026-05-06T08:39:50Z"
+      "title": "Sanidad afirma que tiene “instrumentos legales” si los pasajeros del barco del hantavirus se niegan a hacer cuarentena",
+      "subtitle": "Mónica García ha apelado al \"sentido común y la responsabilidad\" de los afectados, mientras la ministra de Defensa, Margarita Robles, aseguró que la cuarentena sería \"voluntaria\"",
+      "url": "https://www.eldiario.es/sociedad/sanidad-afirma-instrumentos-legales-si-pasajeros-barco-hantavirus-niegan-cuarentena_1_13201845.html",
+      "scraped_at": "2026-05-07T08:46:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno renuncia a la reducción de jornada en 2026 y prevé Presupuestos sin aclarar para qué año",
-      "subtitle": "El Plan Normativo recoge solo el decreto para endurecer el registro de jornada, en el que hay diferencias entre Trabajo y Economía, y contempla aprobar la reforma del sistema de financiación autonómica",
-      "url": "https://www.eldiario.es/economia/gobierno-renuncia-reduccion-jornada-plan-2026-preve-presupuestos-aclarar-ano_1_13197091.html",
-      "scraped_at": "2026-05-06T08:39:50Z"
+      "title": "Repatriación, aislamiento y cuarentena: así será el protocolo para los pasajeros",
+      "subtitle": "España ultima un operativo dirigido por la Comisión Europea, con el apoyo de la OMS y el ECDC, para evacuar a 144 personas del crucero 'MV Hondius'",
+      "url": "https://www.eldiario.es/sociedad/repatriacion-aislamiento-cuarentena-sera-protocolo-pasajeros-barco-hantavirus_1_13200439.html",
+      "scraped_at": "2026-05-07T08:46:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El crucero del hantavirus desembarcará en Canarias tras una solicitud formal de la OMS a España",
-      "subtitle": "El presidente de la OMS, Tedros Adhanom, ha enviado una carta directamente al presidente del Gobierno, Pedro Sánchez, en la que le pide \"con carácter urgente\" la colaboración para \"el desembarque de los pasajeros y la aplicación de medidas de salud pública basadas en un enfoque de riesgo\"",
-      "url": "https://www.eldiario.es/sociedad/espana-permitira-desembarcar-crucero-hantavirus-despues-oms-haya-solicitado-oficialmente_1_13198201.html",
-      "scraped_at": "2026-05-06T08:39:51Z"
+      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: “Esperábamos más lealtad y menos politiqueo”",
+      "subtitle": "El Ejecutivo de Sánchez desecha las críticas del presidente canario por falta de información, le afea su postura ante un mandato de la OMS sobre un barco en el que también hay 14 ciudadanos españoles y le acusan incluso de mentir sobre sus capacidades sanitarias para impedir que atraque",
+      "url": "https://www.eldiario.es/politica/gobierno-estalla-clavijo-crisis-hantavirus-esperabamos-lealtad-politiqueo_1_13201021.html",
+      "scraped_at": "2026-05-07T08:46:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Crucero Canarias",
-      "subtitle": "No descartan paros preventivos “si se vulnera el derecho a la salud” de los empleados “en beneficio de la operatividad comercial del puerto”",
-      "url": "https://www.eldiario.es/canariasahora/sociedad/calma-tensa-trabajadores-puertos-canarios-posible-llegada-crucero-infectado-hantavirus_1_13197853.html",
-      "scraped_at": "2026-05-06T08:39:51Z"
+      "title": "OEP 2026",
+      "subtitle": "El Gobierno quiere impulsar las plazas tecnológicas, con puestos especializados en IA y ciberseguridad, y también empleos ante emergencias climáticas",
+      "url": "https://www.eldiario.es/economia/oferta-empleo-publico-2026-reparten-37-000-plazas-convocatoria-cuerpo-destino_1_13201693.html",
+      "scraped_at": "2026-05-07T08:46:51Z"
     }
   ]
 }
