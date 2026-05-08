@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Choque entre Sanidad y Defensa por la cuarentena de los pasajeros del crucero con hantavirus: El PP critica que el aislamiento pueda ser voluntario: «No hay nadie al volante»; Hantavirus: la enfermedad que ahora nos preocupa: Qué es, cómo se contagia, los síntomas, el tratamiento o el estado del brote de un virus que convirtió un crucero de ensueño en una crisis sanitaria; El avión con un infectado con hantavirus abandona Gran Canaria de madrugada: A última hora se decidió que ninguno de los dos aviones medicalizados hicieran escala en Málaga como estaba previsto y se optó por Valencia para repostar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-07T08:46:54Z",
+  "summary": "Resumen del día en ABC.es: Fernando Clavijo: «No había ninguna necesidad de que España acogiese ese crucero»: El presidente de Canarias cree que «después de este caso, habrá que pedir responsabilidades políticas»; Los papeles de Aldama amenazan al Gobierno en tres casos más: La confesión del empresario ha sido clave para que se abra el caso Cerdán, la próxima semana declarará en el caso Koldo y asegura que hubo financiación irregular en el PSOE con pagos de constructoras; Vómitos y angustia: el mes de juicio que ha castigado a Ábalos: El exministro ha sufrido un desgaste físico y mental considerable en el últimos mes en el Supremo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-08T07:55:56Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Choque entre Sanidad y Defensa por la cuarentena de los pasajeros del crucero con hantavirus",
-      "subtitle": "El PP critica que el aislamiento pueda ser voluntario: «No hay nadie al volante»",
-      "url": "https://www.abc.es/sociedad/choque-sanidad-defensa-cuarentena-pasajeros-crucero-hantavirus-20260507095109-nt.html",
-      "scraped_at": "2026-05-07T08:46:52Z"
+      "title": "Fernando Clavijo: «No había ninguna necesidad de que España acogiese ese crucero»",
+      "subtitle": "El presidente de Canarias cree que «después de este caso, habrá que pedir responsabilidades políticas»",
+      "url": "https://www.abc.es/espana/canarias/fernando-clavijo-ninguna-necesidad-espana-acogiese-buque-20260507012917-nt.html",
+      "scraped_at": "2026-05-08T07:55:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Hantavirus: la enfermedad que ahora nos preocupa",
-      "subtitle": "Qué es, cómo se contagia, los síntomas, el tratamiento o el estado del brote de un virus que convirtió un crucero de ensueño en una crisis sanitaria",
-      "url": "https://www.abc.es/sociedad/brote-hantavirus-enfermedad-roedores-puede-letal-20260506014216-nt.html",
-      "scraped_at": "2026-05-07T08:46:53Z"
+      "title": "Los papeles de Aldama amenazan al Gobierno en tres casos más",
+      "subtitle": "La confesión del empresario ha sido clave para que se abra el caso Cerdán, la próxima semana declarará en el caso Koldo y asegura que hubo financiación irregular en el PSOE con pagos de constructoras",
+      "url": "https://www.abc.es/espana/papeles-aldama-amenazan-gobierno-tres-casos-20260508012931-nt.html",
+      "scraped_at": "2026-05-08T07:55:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "El avión con un infectado con hantavirus abandona Gran Canaria de madrugada",
-      "subtitle": "A última hora se decidió que ninguno de los dos aviones medicalizados hicieran escala en Málaga como estaba previsto y se optó por Valencia para repostar",
-      "url": "https://www.abc.es/sociedad/avion-infectados-hantavirus-abandona-gran-canaria-madrugada-20260507071851-nt.html",
-      "scraped_at": "2026-05-07T08:46:53Z"
+      "title": "Vómitos y angustia: el mes de juicio que ha castigado a Ábalos",
+      "subtitle": "El exministro ha sufrido un desgaste físico y mental considerable en el últimos mes en el Supremo",
+      "url": "https://www.abc.es/espana/drama-abalos-juicio-supremo-vomitos-traslados-ganado-20260508012934-nt.html",
+      "scraped_at": "2026-05-08T07:55:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "La unidad de aislamiento del Gómez Ulla, una cámara segura creada tras la crisis del ébola",
-      "subtitle": "Ha acogido a afectados por la fiebre hemorrágica de Crimea-Congo o a los evacuados de Wuhan en 2020",
-      "url": "https://www.abc.es/sociedad/unidad-aislamiento-gomez-ulla-camara-segura-creada-20260506014246-nt.html",
-      "scraped_at": "2026-05-07T08:46:54Z"
+      "title": "La agonía de la democracia peruana",
+      "subtitle": "El Salto de la Reja en el Rocío rezuma racionalidad y orden en comparación con estos comicios peruanos",
+      "url": "https://www.abc.es/opinion/carlos-granes-agonia-democracia-peruana-20260507124230-nt.html",
+      "scraped_at": "2026-05-08T07:55:56Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-07T08:46:54Z"
+      "scraped_at": "2026-05-08T07:55:56Z"
     }
   ]
 }

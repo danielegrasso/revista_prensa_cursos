@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El Supremo busca una sentencia exprés y unánime que fije si hubo trama criminal dentro del Gobierno: Alejandro Luzón, con el grueso del peso de la acusación sobre los hombros, no defraudó y supo condensar ante los magistrados toda la gravedad de los hechos y la necesidad de que la respuesta esté en consonancia; Por fin, un libro a favor de los viejos: \"A los 45 te ven como si tu currículo llevara amianto\": Iñaki Larrimbe carga contra el edadismo en &#039;La dictadura de lo joven&#039;. Ensayo sobre (y contra) la guerra generacional. La resistencia carroza; \"No habrá acuerdo de paz en Ormuz. Como mucho, un cese de hostilidades\": La ex ministra de Exteriores dice que las negociaciones que se están llevando a cabo entre Irán y Estados Unidos no son profesionales y desconfía de que logren alcanzar un acuerdo de paz duradero. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-07T08:46:58Z",
+  "summary": "Resumen del día en El Confidencial: Los fondos se saltan el tope de alquiler en Cataluña con el visto bueno del Gobierno: Vivienda se desdice de lo afirmado hace dos años, cuando Cataluña declaró zonas tensionadas, y respalda interpretar que el tope de rentas no aplica a la obra nueva; A palos e ingobernable: el vestuario del Madrid traspasa las líneas rojas en una crisis insólita: Valverde acaba en el hospital tras su segunda pelea con Tchouaméni. El Real Madrid abre expediente a ambos. Demasiados frentes abiertos en un club que colecciona problemas internos, con una temporada para el olvido; Teherán decide: EEUU e Irán intercambian fuego en Ormuz, pero \"no se reanuda la guerra\": Al menos 22.500 marineros embarcados en más de 1.550 buques mercantes han quedado atrapados en el Golfo Pérsico, entre ellos, el petrolero español Monte Urbasa. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-08T07:56:00Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El Supremo busca una sentencia exprés y unánime que fije si hubo trama criminal dentro del Gobierno",
-      "subtitle": "Alejandro Luzón, con el grueso del peso de la acusación sobre los hombros, no defraudó y supo condensar ante los magistrados toda la gravedad de los hechos y la necesidad de que la respuesta esté en consonancia",
-      "url": "https://www.elconfidencial.com/espana/2026-05-07/supremo-busca-sentencia-expres-unanime-trama-criminal-mascarillas-gobierno_4350890/",
-      "scraped_at": "2026-05-07T08:46:57Z"
+      "title": "Los fondos se saltan el tope de alquiler en Cataluña con el visto bueno del Gobierno",
+      "subtitle": "Vivienda se desdice de lo afirmado hace dos años, cuando Cataluña declaró zonas tensionadas, y respalda interpretar que el tope de rentas no aplica a la obra nueva",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-08/ley-vivienda-tope-rentas-cataluna_4349405/",
+      "scraped_at": "2026-05-08T07:55:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Por fin, un libro a favor de los viejos: \"A los 45 te ven como si tu currículo llevara amianto\"",
-      "subtitle": "Iñaki Larrimbe carga contra el edadismo en &#039;La dictadura de lo joven&#039;. Ensayo sobre (y contra) la guerra generacional. La resistencia carroza",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-07/dictadura-joven-libro-edadismo_4350272/",
-      "scraped_at": "2026-05-07T08:46:57Z"
+      "title": "A palos e ingobernable: el vestuario del Madrid traspasa las líneas rojas en una crisis insólita",
+      "subtitle": "Valverde acaba en el hospital tras su segunda pelea con Tchouaméni. El Real Madrid abre expediente a ambos. Demasiados frentes abiertos en un club que colecciona problemas internos, con una temporada para el olvido",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-05-08/real-madrid-crisis-florentino-valverde-tchouameni_4351264/",
+      "scraped_at": "2026-05-08T07:55:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"No habrá acuerdo de paz en Ormuz. Como mucho, un cese de hostilidades\"",
-      "subtitle": "La ex ministra de Exteriores dice que las negociaciones que se están llevando a cabo entre Irán y Estados Unidos no son profesionales y desconfía de que logren alcanzar un acuerdo de paz duradero",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-07/entrevista-gonzalez-laya-ormuz-iran-trump_4351049/",
-      "scraped_at": "2026-05-07T08:46:58Z"
+      "title": "Teherán decide: EEUU e Irán intercambian fuego en Ormuz, pero \"no se reanuda la guerra\"",
+      "subtitle": "Al menos 22.500 marineros embarcados en más de 1.550 buques mercantes han quedado atrapados en el Golfo Pérsico, entre ellos, el petrolero español Monte Urbasa",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-08/marineros-bloqueo-golfo-persico-1hms_4351694/",
+      "scraped_at": "2026-05-08T07:55:59Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Camps esgrime otro sondeo contra Llorca y reclama convocar un congreso",
+      "subtitle": "El expresidente de la Generalitat enseña una encuesta en la que se mide también con Catalá en Valencia. Asegura contar con 300 avales y da por hecho que Feijóo convocará el cónclave: &quot;No puede no haberlo&quot;",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-05-07/camps-sondeo-llorca-presiona-genova-congreso_4351510/",
+      "scraped_at": "2026-05-08T07:56:00Z"
     }
   ]
 }
