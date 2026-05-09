@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: 23 países coordinados por la UE y la OMS: un dispositivo sin precedentes para evitar la propagación del hantavirus: Sanidad explica que todos los pasajeros serán evaluados cuando el MV Hondius llegue al archipiélago y, si continúan asintomáticos, inmediatamente evacuados a sus países de origen; El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hantavirus: Expertos señalan que la legislación sanitaria da cobertura al \"internamiento forzoso\" de los viajeros en caso de que no accedan voluntariamente porque prima la protección de la salud colectiva; Pedro Gullón: “Hay mucha épica en la historia, pero el riesgo de transmisión es extremadamente bajo”: El director general de Salud Pública del Ministerio de Sanidad afirma que el Gobierno tomará \"las medidas adecuadas\" para llevar a cabo el desembarco del pasaje del crucero con un brote de hantavirus \"con la máxima seguridad posible\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-08T07:55:55Z",
+  "summary": "Resumen del día en elDiario.es: 'Odisea Atlántica': el crucero de lujo que acabó en una crisis sanitaria internacional: Oceanwide Expedition ofrece esta travesía, con una pátina científica, por un precio que ronda los 20.000 euros: viajaban 88 cruceristas y 59 tripulantes, ha habido tres fallecidos y España prepara una operación internacional para desembarcar a los pasajeros; Hantavirus contra coronavirus: cinco razones por las que este brote no es equiparable a la pandemia: Algunas personas han manifestado sus dudas sobre una posible mutación del hantavirus y temen que se repita lo sucedido con el coronavirus en 2020. Los expertos explican de forma clara por qué el impacto potencial de ambos patógenos es muy diferente; Los 30 de Santa Elena: de dónde son los pasajeros que bajaron del barco: El crucero hizo escala en la remota isla del Atlántico, en la que desembarcaron el cuerpo del primer hombre fallecido y de su mujer junto a otras 28 personas de las que 15 son de origen europeo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-09T08:08:17Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "23 países coordinados por la UE y la OMS: un dispositivo sin precedentes para evitar la propagación del hantavirus",
-      "subtitle": "Sanidad explica que todos los pasajeros serán evaluados cuando el MV Hondius llegue al archipiélago y, si continúan asintomáticos, inmediatamente evacuados a sus países de origen",
-      "url": "https://www.eldiario.es/sociedad/23-paises-coordinados-ue-oms-dispositivo-precedentes-evitar-propagacion-hantavirus_1_13203608.html",
-      "scraped_at": "2026-05-08T07:55:52Z"
+      "title": "'Odisea Atlántica': el crucero de lujo que acabó en una crisis sanitaria internacional",
+      "subtitle": "Oceanwide Expedition ofrece esta travesía, con una pátina científica, por un precio que ronda los 20.000 euros: viajaban 88 cruceristas y 59 tripulantes, ha habido tres fallecidos y España prepara una operación internacional para desembarcar a los pasajeros",
+      "url": "https://www.eldiario.es/sociedad/odisea-atlantica-crucero-lujo-termino-crisis-sanitaria-internacional_1_13205208.html",
+      "scraped_at": "2026-05-09T08:08:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hantavirus",
-      "subtitle": "Expertos señalan que la legislación sanitaria da cobertura al \"internamiento forzoso\" de los viajeros en caso de que no accedan voluntariamente porque prima la protección de la salud colectiva",
-      "url": "https://www.eldiario.es/politica/gobierno-podra-obligar-cuarentena-14-espanoles-buque-hantavirus_1_13203891.html",
-      "scraped_at": "2026-05-08T07:55:53Z"
+      "title": "Hantavirus contra coronavirus: cinco razones por las que este brote no es equiparable a la pandemia",
+      "subtitle": "Algunas personas han manifestado sus dudas sobre una posible mutación del hantavirus y temen que se repita lo sucedido con el coronavirus en 2020. Los expertos explican de forma clara por qué el impacto potencial de ambos patógenos es muy diferente",
+      "url": "https://www.eldiario.es/sociedad/hantavirus-coronavirus-cinco-razones-claras-brote-no-equiparable-pandemia_1_13204480.html",
+      "scraped_at": "2026-05-09T08:08:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Gullón: “Hay mucha épica en la historia, pero el riesgo de transmisión es extremadamente bajo”",
-      "subtitle": "El director general de Salud Pública del Ministerio de Sanidad afirma que el Gobierno tomará \"las medidas adecuadas\" para llevar a cabo el desembarco del pasaje del crucero con un brote de hantavirus \"con la máxima seguridad posible\"",
-      "url": "https://www.eldiario.es/sociedad/pedro-gullon-hay-epica-historia-riesgo-transmision-hantavirus-extremadamente_128_13204105.html",
-      "scraped_at": "2026-05-08T07:55:53Z"
+      "title": "Los 30 de Santa Elena: de dónde son los pasajeros que bajaron del barco",
+      "subtitle": "El crucero hizo escala en la remota isla del Atlántico, en la que desembarcaron el cuerpo del primer hombre fallecido y de su mujer junto a otras 28 personas de las que 15 son de origen europeo",
+      "url": "https://www.eldiario.es/sociedad/30-santa-elena-son-pasajeros-bajaron-barco-hantavirus-24-abril_1_13206150.html",
+      "scraped_at": "2026-05-09T08:08:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Investigaciones, rastreos y aislamientos: cómo están actuando otros países ante el brote de hantavirus",
-      "subtitle": "Los principales países afectados por el brote, como Países Bajos, Reino Unido y Argentina, toman acciones para evitar posibles contagios y colaborar con las autoridades sanitarias",
-      "url": "https://www.eldiario.es/internacional/investigaciones-rastreos-aislamientos-actuando-paises-brote-hantavirus_1_13203692.html",
-      "scraped_at": "2026-05-08T07:55:54Z"
+      "title": "Xugó con fuego en México, señora Ayuso: por qué hablarnos “con amor” de la conquista no era buena idea",
+      "subtitle": "Soy el sueño húmedo de la hispanidad de Ayuso: una persona hija de español y mexicana. Pero no soy la “Malinche en el metro” de la que la presidenta madrileña ha hablado en su frustrada visita a México",
+      "url": "https://www.eldiario.es/desalambre/xugo-fuego-mexico-senora-ayuso-hablarnos-amor-conquista-no-buena-idea_129_13207479.html",
+      "scraped_at": "2026-05-09T08:08:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Aranceles Trump",
-      "subtitle": "El CIT falla a favor de las pequeñas empresas que impugnaron los aranceles, que entraron en vigor el 24 de febrero",
-      "url": "https://www.eldiario.es/internacional/tribunal-comercio-internacional-eeuu-falla-ilegal-arancel-global-10-impuesto-trump-reves-supremo_1_13204753.html",
-      "scraped_at": "2026-05-08T07:55:55Z"
+      "title": "Colilargo",
+      "subtitle": "El Oligoryzomys longicaudatus es un pequeño roedor silvestre de color café claro, que vive principalmente en Chile y el sur de Argentina y que es el principal transmisor de la cepa Andes, la variante de hantavirus responsable del brote en el crucero MV Hondius",
+      "url": "https://www.eldiario.es/sociedad/colilargo-raton-silvestre-transmite-cepa-hantavirus-andes_1_13205084.html",
+      "scraped_at": "2026-05-09T08:08:17Z"
     }
   ]
 }

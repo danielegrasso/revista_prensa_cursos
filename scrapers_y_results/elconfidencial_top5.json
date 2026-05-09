@@ -1,35 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los fondos se saltan el tope de alquiler en Cataluña con el visto bueno del Gobierno: Vivienda se desdice de lo afirmado hace dos años, cuando Cataluña declaró zonas tensionadas, y respalda interpretar que el tope de rentas no aplica a la obra nueva; A palos e ingobernable: el vestuario del Madrid traspasa las líneas rojas en una crisis insólita: Valverde acaba en el hospital tras su segunda pelea con Tchouaméni. El Real Madrid abre expediente a ambos. Demasiados frentes abiertos en un club que colecciona problemas internos, con una temporada para el olvido; Teherán decide: EEUU e Irán intercambian fuego en Ormuz, pero \"no se reanuda la guerra\": Al menos 22.500 marineros embarcados en más de 1.550 buques mercantes han quedado atrapados en el Golfo Pérsico, entre ellos, el petrolero español Monte Urbasa. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-08T07:56:00Z",
+  "summary": "Resumen del día en El Confidencial: Hay un nuevo enemigo en los barrios: \"Queremos un polideportivo, no un museo\": En ciudades como Madrid o Barcelona ha surgido un nuevo conflicto por el espacio público. El miedo a la turistificación y la escasez de equipamientos han convertido estas entidades en proyectos a evitar; Los antecedentes de la pelea: la toxicidad del vestuario viene de lejos y ya arrastró a Xabi Alonso: El episodio protagonizado por Valverde y Tchouaméni demuestra el desgobierno que hay en el Real Madrid, donde algunos jugadores no respetan al entrenador y el club no lo respalda; Feria de San Isidro | ¡Todos a sus puestos!: La corrida se abrió hoy con un público masivo que premió con generosidad a Alejandro Talavante, hasta hacerle pasear las dos orejas que le abrieron la Puerta Grande, pero por debajo de la gran calidad de las embestidas de un toro de Núñez del Cuvill. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-09T08:08:26Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los fondos se saltan el tope de alquiler en Cataluña con el visto bueno del Gobierno",
-      "subtitle": "Vivienda se desdice de lo afirmado hace dos años, cuando Cataluña declaró zonas tensionadas, y respalda interpretar que el tope de rentas no aplica a la obra nueva",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-08/ley-vivienda-tope-rentas-cataluna_4349405/",
-      "scraped_at": "2026-05-08T07:55:58Z"
+      "title": "Hay un nuevo enemigo en los barrios: \"Queremos un polideportivo, no un museo\"",
+      "subtitle": "En ciudades como Madrid o Barcelona ha surgido un nuevo conflicto por el espacio público. El miedo a la turistificación y la escasez de equipamientos han convertido estas entidades en proyectos a evitar",
+      "url": "https://www.elconfidencial.com/espana/2026-05-09/museos-turistificacion-problemas-manifestaciones_4351519/",
+      "scraped_at": "2026-05-09T08:08:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "A palos e ingobernable: el vestuario del Madrid traspasa las líneas rojas en una crisis insólita",
-      "subtitle": "Valverde acaba en el hospital tras su segunda pelea con Tchouaméni. El Real Madrid abre expediente a ambos. Demasiados frentes abiertos en un club que colecciona problemas internos, con una temporada para el olvido",
-      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-05-08/real-madrid-crisis-florentino-valverde-tchouameni_4351264/",
-      "scraped_at": "2026-05-08T07:55:59Z"
+      "title": "Los antecedentes de la pelea: la toxicidad del vestuario viene de lejos y ya arrastró a Xabi Alonso",
+      "subtitle": "El episodio protagonizado por Valverde y Tchouaméni demuestra el desgobierno que hay en el Real Madrid, donde algunos jugadores no respetan al entrenador y el club no lo respalda",
+      "url": "https://www.elconfidencial.com/deportes/futbol/2026-05-09/real-madrid-xabi-alonso-vinicius-valverde-tchouameni-florentino-perez_4352164/",
+      "scraped_at": "2026-05-09T08:08:25Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Teherán decide: EEUU e Irán intercambian fuego en Ormuz, pero \"no se reanuda la guerra\"",
-      "subtitle": "Al menos 22.500 marineros embarcados en más de 1.550 buques mercantes han quedado atrapados en el Golfo Pérsico, entre ellos, el petrolero español Monte Urbasa",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-08/marineros-bloqueo-golfo-persico-1hms_4351694/",
-      "scraped_at": "2026-05-08T07:55:59Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Camps esgrime otro sondeo contra Llorca y reclama convocar un congreso",
-      "subtitle": "El expresidente de la Generalitat enseña una encuesta en la que se mide también con Catalá en Valencia. Asegura contar con 300 avales y da por hecho que Feijóo convocará el cónclave: &quot;No puede no haberlo&quot;",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-05-07/camps-sondeo-llorca-presiona-genova-congreso_4351510/",
-      "scraped_at": "2026-05-08T07:56:00Z"
+      "title": "Feria de San Isidro | ¡Todos a sus puestos!",
+      "subtitle": "La corrida se abrió hoy con un público masivo que premió con generosidad a Alejandro Talavante, hasta hacerle pasear las dos orejas que le abrieron la Puerta Grande, pero por debajo de la gran calidad de las embestidas de un toro de Núñez del Cuvill",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-05-08/san-isidro-talavante-cubillo-toros-1hms_4352549/",
+      "scraped_at": "2026-05-09T08:08:26Z"
     }
   ]
 }
