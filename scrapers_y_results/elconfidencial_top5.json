@@ -1,28 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Hay un nuevo enemigo en los barrios: \"Queremos un polideportivo, no un museo\": En ciudades como Madrid o Barcelona ha surgido un nuevo conflicto por el espacio público. El miedo a la turistificación y la escasez de equipamientos han convertido estas entidades en proyectos a evitar; Los antecedentes de la pelea: la toxicidad del vestuario viene de lejos y ya arrastró a Xabi Alonso: El episodio protagonizado por Valverde y Tchouaméni demuestra el desgobierno que hay en el Real Madrid, donde algunos jugadores no respetan al entrenador y el club no lo respalda; Feria de San Isidro | ¡Todos a sus puestos!: La corrida se abrió hoy con un público masivo que premió con generosidad a Alejandro Talavante, hasta hacerle pasear las dos orejas que le abrieron la Puerta Grande, pero por debajo de la gran calidad de las embestidas de un toro de Núñez del Cuvill. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-09T08:08:26Z",
+  "summary": "Resumen del día en El Confidencial: El 'boom' migratorio se enfría en Madrid y Barcelona: llega un tercio menos de extranjeros en 2025: La inmigración hacia España se está reduciendo y descentralizando desde mediados de 2025, coincidiendo con un agravamiento del déficit de vivienda. La ralentización se concentra en las dos provincias más pobladas y con más problemas habitacionales; Antonio Maíllo: \"No tenemos ninguna esperanza en política de vivienda con el PSOE\": El candidato de Por Andalucía define a su coalición como &quot;la izquierda seria y con capacidad de gobierno&quot; y carga contra Juanma Moreno por &quot;chantajear&quot; a los votantes con la posibilidad de una parálisis en la Junta si no tiene mayoría; En este búnker cerca del Bernabéu los españoles ocultan su riqueza: El aumento de las inversiones en oro y relojes de lujo ha impulsado el negocio de las empresas de cajas de seguridad. Visitamos una de ellas, situada en un barrio céntrico de Madrid. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-10T08:21:00Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Hay un nuevo enemigo en los barrios: \"Queremos un polideportivo, no un museo\"",
-      "subtitle": "En ciudades como Madrid o Barcelona ha surgido un nuevo conflicto por el espacio público. El miedo a la turistificación y la escasez de equipamientos han convertido estas entidades en proyectos a evitar",
-      "url": "https://www.elconfidencial.com/espana/2026-05-09/museos-turistificacion-problemas-manifestaciones_4351519/",
-      "scraped_at": "2026-05-09T08:08:25Z"
+      "title": "El 'boom' migratorio se enfría en Madrid y Barcelona: llega un tercio menos de extranjeros en 2025",
+      "subtitle": "La inmigración hacia España se está reduciendo y descentralizando desde mediados de 2025, coincidiendo con un agravamiento del déficit de vivienda. La ralentización se concentra en las dos provincias más pobladas y con más problemas habitacionales",
+      "url": "https://www.elconfidencial.com/economia/2026-05-10/madrid-barcelona-reducen-tercio-llegada-extranjeros-ultimo-ano_4352534/",
+      "scraped_at": "2026-05-10T08:20:58Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los antecedentes de la pelea: la toxicidad del vestuario viene de lejos y ya arrastró a Xabi Alonso",
-      "subtitle": "El episodio protagonizado por Valverde y Tchouaméni demuestra el desgobierno que hay en el Real Madrid, donde algunos jugadores no respetan al entrenador y el club no lo respalda",
-      "url": "https://www.elconfidencial.com/deportes/futbol/2026-05-09/real-madrid-xabi-alonso-vinicius-valverde-tchouameni-florentino-perez_4352164/",
-      "scraped_at": "2026-05-09T08:08:25Z"
+      "title": "Antonio Maíllo: \"No tenemos ninguna esperanza en política de vivienda con el PSOE\"",
+      "subtitle": "El candidato de Por Andalucía define a su coalición como &quot;la izquierda seria y con capacidad de gobierno&quot; y carga contra Juanma Moreno por &quot;chantajear&quot; a los votantes con la posibilidad de una parálisis en la Junta si no tiene mayoría",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-05-10/antonio-maillo-vivienda-psoe-cbtrntrv_4351972/",
+      "scraped_at": "2026-05-10T08:20:59Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Feria de San Isidro | ¡Todos a sus puestos!",
-      "subtitle": "La corrida se abrió hoy con un público masivo que premió con generosidad a Alejandro Talavante, hasta hacerle pasear las dos orejas que le abrieron la Puerta Grande, pero por debajo de la gran calidad de las embestidas de un toro de Núñez del Cuvill",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-05-08/san-isidro-talavante-cubillo-toros-1hms_4352549/",
-      "scraped_at": "2026-05-09T08:08:26Z"
+      "title": "En este búnker cerca del Bernabéu los españoles ocultan su riqueza",
+      "subtitle": "El aumento de las inversiones en oro y relojes de lujo ha impulsado el negocio de las empresas de cajas de seguridad. Visitamos una de ellas, situada en un barrio céntrico de Madrid",
+      "url": "https://www.elconfidencial.com/espana/2026-05-10/bunker-cajas-seguridad-madrid-foto-reportaje_4351686/",
+      "scraped_at": "2026-05-10T08:20:59Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "La conversión de Sánchez:  potenciará su imagen anti-Trump en la visita del Papa",
+      "subtitle": "Su discurso a favor de la paz en Irán y el apoyo a la regularización de más de medio millón de inmigrantes lo alinea con el discurso del Papa León XIV, y puede airearlo para dañar a PP y Vox",
+      "url": "https://www.elconfidencial.com/espana/2026-05-10/la-conversion-de-sanchez-usara-la-visita-del-papa-para-potenciar-su-imagen-anti-trump-contra-la-derecha_4352186/",
+      "scraped_at": "2026-05-10T08:21:00Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Mónica García comparece para explicar los detalles del comienzo de la operativa",
+      "subtitle": "Sanidad, Interior y Política Territorial están desplegados en el puerto de Granadilla para coordinar el desembarco de los pasajeros del MV Hondius",
+      "url": "https://www.elconfidencial.com/espana/2026-05-10/la-ministra-de-sanidad-monica-garcia-comparece-_4352754/",
+      "scraped_at": "2026-05-10T08:21:00Z"
     }
   ]
 }

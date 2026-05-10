@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Salazar se refugia en Uruguay tras el escándalo machista en el PSOE: La UCO confirma en un atestado que quien fuera miembro del núcleo duro del presidente vive actualmente en este país sudamericano por motivos laborales; El hombre fuerte de Sánchez que iba a ganar galones tras la caída de Cerdán: Dejó la Ejecutiva del PSOE y su cargo en la Moncloa el mismo día de su nombramiento como adjunto a la Secretaría de Organización por presunto acoso sexual a compañeras del partido; El sindicato de Cañamero compró con una subvención la finca que su familia usaba como 'narco cortijo': El exdiputado de Podemos guarda silencio mientras en el SAT empiezan a pedir responsabilidades por convertir una cooperativa social en «un cortijo en manos de sus familiares» para cultivar marihuana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-09T08:08:21Z",
+  "summary": "Resumen del día en ABC.es: Larga noche de choques entre Clavijo y el Gobierno: Hoy salen hacia Madrid los 14 españoles que pasarán cuarentena en el Hospital Militar Gómez Ulla; El hospital de la Candelaria se prepara por si hubiera que atender de urgencia a pacientes de hantavirus en Tenerife: Decenas de profesionales de cuidados intensivos atenderían a los infectados en unidades de estricto aislamiento, como burbujas que recuerdan a la época del covid; «¿Que un jubilado alemán no se lo va a pensar?»: al turismo de Tenerife le preocupa que el miedo contagie más que el virus: Las cancelaciones de reservas son, de momento, aisladas y residuales, pero los hosteleros temen que el hantavirus sea un Covid 2.0: «Parece que los canarios siempre somos el culo del mundo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-10T08:20:54Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Salazar se refugia en Uruguay tras el escándalo machista en el PSOE",
-      "subtitle": "La UCO confirma en un atestado que quien fuera miembro del núcleo duro del presidente vive actualmente en este país sudamericano por motivos laborales",
-      "url": "https://www.abc.es/sevilla/provincia/dos-hermanas/salazar-exasesor-pedro-sanchez-refugia-uruguay-tras-20260508210018-nts.html",
-      "scraped_at": "2026-05-09T08:08:18Z"
+      "title": "Larga noche de choques entre Clavijo y el Gobierno",
+      "subtitle": "Hoy salen hacia Madrid los 14 españoles que pasarán cuarentena en el Hospital Militar Gómez Ulla",
+      "url": "https://www.abc.es/sociedad/crucero-hantavirus-llega-canarias-larga-noche-choques-20260510064341-nt.html",
+      "scraped_at": "2026-05-10T08:20:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "El hombre fuerte de Sánchez que iba a ganar galones tras la caída de Cerdán",
-      "subtitle": "Dejó la Ejecutiva del PSOE y su cargo en la Moncloa el mismo día de su nombramiento como adjunto a la Secretaría de Organización por presunto acoso sexual a compañeras del partido",
-      "url": "https://www.abc.es/espana/salazar-hombre-fuerte-sanchez-iba-ganar-galones-20260508210108-nt.html",
-      "scraped_at": "2026-05-09T08:08:18Z"
+      "title": "El hospital de la Candelaria se prepara por si hubiera que atender de urgencia a pacientes de hantavirus en Tenerife",
+      "subtitle": "Decenas de profesionales de cuidados intensivos atenderían a los infectados en unidades de estricto aislamiento, como burbujas que recuerdan a la época del covid",
+      "url": "https://www.abc.es/sociedad/hospital-candelaria-20260510064857-nt.html",
+      "scraped_at": "2026-05-10T08:20:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "El sindicato de Cañamero compró con una subvención la finca que su familia usaba como 'narco cortijo'",
-      "subtitle": "El exdiputado de Podemos guarda silencio mientras en el SAT empiezan a pedir responsabilidades por convertir una cooperativa social en «un cortijo en manos de sus familiares» para cultivar marihuana",
-      "url": "https://www.abc.es/espana/andalucia/finca-tierra-libertad-hoy-convertida-narco-cortijo-20260509020717-nts.html",
-      "scraped_at": "2026-05-09T08:08:19Z"
+      "title": "«¿Que un jubilado alemán no se lo va a pensar?»: al turismo de Tenerife le preocupa que el miedo contagie más que el virus",
+      "subtitle": "Las cancelaciones de reservas son, de momento, aisladas y residuales, pero los hosteleros temen que el hantavirus sea un Covid 2.0: «Parece que los canarios siempre somos el culo del mundo»",
+      "url": "https://www.abc.es/sociedad/jubilado-aleman-pensar-turismo-tenerife-preocupa-miedo-20260510033516-nt.html",
+      "scraped_at": "2026-05-10T08:20:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Granadilla, el puerto «de segunda» al que se dirige el crucero, «sin respuesta ante una emergencia»",
-      "subtitle": "En la zona sur de Tenerife, custodiado por pateras, caravanas y molinos eólicos, el escenario escogido para el fondeo no convence a los trabajadores del puerto",
-      "url": "https://www.abc.es/sociedad/granadilla-puerto-segunda-dirige-crucero-azotado-viento-20260509015805-nt.html",
-      "scraped_at": "2026-05-09T08:08:20Z"
+      "title": "El Gobierno bate récord al mover 15.000 millones con argucias contables",
+      "subtitle": "Información proporcionada al Parlamento revela una intensificación durante el año pasado de las maniobras cuestionadas por el Tribunal de Cuentas",
+      "url": "https://www.abc.es/economia/gobierno-movio-15000-millones-argucias-contables-2025-20260510033417-nt.html",
+      "scraped_at": "2026-05-10T08:20:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Álex (28), repartidor: “Vivo en un piso de 25 metros cuadrados que mis padres compraron hace diez años por 120.000 euros«»",
-      "subtitle": "El joven vive en una pequeña buhardilla en Madrid que sus padres compraron hace 10 años por 120.000 euros y que hoy se vendería por más de 220.000",
-      "url": "https://www.cope.es/actualidad/economia/noticias/alex-28-repartidor-vivo-piso-25-metros-cuadrados-mis-padres-compraron-diez-anos-120-000-euros-mi-imposible-asumir-entrada-60-000-euros-20260509_3360062.html",
-      "scraped_at": "2026-05-09T08:08:21Z"
+      "title": "María Piñero, abogada: “A veces, es más rentable aceptar la entrega de llaves que esperar 18 meses a una sentencia y que el okupa se declare insolvente”",
+      "subtitle": "Desde cláusulas antimorosos hasta seguros específicos, estas estrategias pueden ahorrarte un proceso judicial de más de un año y miles de euros en...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/maria-pinero-abogada-veces-rentable-aceptar-entrega-llaves-esperar-18-meses-sentencia-okupa-declare-insolvente-20260510_3360965.html",
+      "scraped_at": "2026-05-10T08:20:54Z"
     }
   ]
 }
