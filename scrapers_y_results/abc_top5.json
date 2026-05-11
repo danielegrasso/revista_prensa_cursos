@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Larga noche de choques entre Clavijo y el Gobierno: Hoy salen hacia Madrid los 14 españoles que pasarán cuarentena en el Hospital Militar Gómez Ulla; El hospital de la Candelaria se prepara por si hubiera que atender de urgencia a pacientes de hantavirus en Tenerife: Decenas de profesionales de cuidados intensivos atenderían a los infectados en unidades de estricto aislamiento, como burbujas que recuerdan a la época del covid; «¿Que un jubilado alemán no se lo va a pensar?»: al turismo de Tenerife le preocupa que el miedo contagie más que el virus: Las cancelaciones de reservas son, de momento, aisladas y residuales, pero los hosteleros temen que el hantavirus sea un Covid 2.0: «Parece que los canarios siempre somos el culo del mundo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-10T08:20:54Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno hace fijos a más de 300 encuestadores de Tezanos a través de la empresa en la que Ábalos colocó a Jésica: Han sacado un concurso público cuyas bases imposibilitan que una persona externa logre la plaza; Juanma Moreno, al borde de la mayoría absoluta a una semana de las elecciones andaluzas: El PP ganaría con claridad el 17 de mayo, pero sigue moviéndose en una horquilla que deja abierta la incógnita de los 55 escaños. El PSOE de María Jesús Montero continúa retrocediendo y podría caer por debajo de su peor resultado histórico; Sánchez se impone a Canarias y alarga la evacuación un día más de lo previsto: Cincuenta y ocho personas permanecen dentro del crucero: 34 tripulantes que llevarán el barco hasta el puerto de Róterdam y 24 pasajeros que serán evacuados en aviones de Australia y Países Bajos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-11T09:58:27Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Larga noche de choques entre Clavijo y el Gobierno",
-      "subtitle": "Hoy salen hacia Madrid los 14 españoles que pasarán cuarentena en el Hospital Militar Gómez Ulla",
-      "url": "https://www.abc.es/sociedad/crucero-hantavirus-llega-canarias-larga-noche-choques-20260510064341-nt.html",
-      "scraped_at": "2026-05-10T08:20:53Z"
+      "title": "El Gobierno hace fijos a más de 300 encuestadores de Tezanos a través de la empresa en la que Ábalos colocó a Jésica",
+      "subtitle": "Han sacado un concurso público cuyas bases imposibilitan que una persona externa logre la plaza",
+      "url": "https://www.abc.es/espana/gobierno-fijos-300-encuestadores-tezanos-traves-empresa-20260511023536-nt.html",
+      "scraped_at": "2026-05-11T09:58:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "El hospital de la Candelaria se prepara por si hubiera que atender de urgencia a pacientes de hantavirus en Tenerife",
-      "subtitle": "Decenas de profesionales de cuidados intensivos atenderían a los infectados en unidades de estricto aislamiento, como burbujas que recuerdan a la época del covid",
-      "url": "https://www.abc.es/sociedad/hospital-candelaria-20260510064857-nt.html",
-      "scraped_at": "2026-05-10T08:20:53Z"
+      "title": "Juanma Moreno, al borde de la mayoría absoluta a una semana de las elecciones andaluzas",
+      "subtitle": "El PP ganaría con claridad el 17 de mayo, pero sigue moviéndose en una horquilla que deja abierta la incógnita de los 55 escaños. El PSOE de María Jesús Montero continúa retrocediendo y podría caer por debajo de su peor resultado histórico",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-borde-mayoria-absoluta-semana-elecciones-20260511134555-nts.html",
+      "scraped_at": "2026-05-11T09:58:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "«¿Que un jubilado alemán no se lo va a pensar?»: al turismo de Tenerife le preocupa que el miedo contagie más que el virus",
-      "subtitle": "Las cancelaciones de reservas son, de momento, aisladas y residuales, pero los hosteleros temen que el hantavirus sea un Covid 2.0: «Parece que los canarios siempre somos el culo del mundo»",
-      "url": "https://www.abc.es/sociedad/jubilado-aleman-pensar-turismo-tenerife-preocupa-miedo-20260510033516-nt.html",
-      "scraped_at": "2026-05-10T08:20:53Z"
+      "title": "Sánchez se impone a Canarias y alarga la evacuación un día más de lo previsto",
+      "subtitle": "Cincuenta y ocho personas permanecen dentro del crucero: 34 tripulantes que llevarán el barco hasta el puerto de Róterdam y 24 pasajeros que serán evacuados en aviones de Australia y Países Bajos",
+      "url": "https://www.abc.es/sociedad/gobierno-impone-canarias-mantiene-operativo-previsto-lunes-20260511024737-nt.html",
+      "scraped_at": "2026-05-11T09:58:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno bate récord al mover 15.000 millones con argucias contables",
-      "subtitle": "Información proporcionada al Parlamento revela una intensificación durante el año pasado de las maniobras cuestionadas por el Tribunal de Cuentas",
-      "url": "https://www.abc.es/economia/gobierno-movio-15000-millones-argucias-contables-2025-20260510033417-nt.html",
-      "scraped_at": "2026-05-10T08:20:54Z"
+      "title": "La cuarentena de los españoles contará desde el 6 de mayo y durará hasta 42 días",
+      "subtitle": "Sanidad estudia si el positivo francés modifica la fecha de inicio del aislamiento para los españoles",
+      "url": "https://www.abc.es/sociedad/cuarentena-espanoles-hantavirus-contara-mayo-durara-dias-20260511103321-nt.html",
+      "scraped_at": "2026-05-11T09:58:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "María Piñero, abogada: “A veces, es más rentable aceptar la entrega de llaves que esperar 18 meses a una sentencia y que el okupa se declare insolvente”",
-      "subtitle": "Desde cláusulas antimorosos hasta seguros específicos, estas estrategias pueden ahorrarte un proceso judicial de más de un año y miles de euros en...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/maria-pinero-abogada-veces-rentable-aceptar-entrega-llaves-esperar-18-meses-sentencia-okupa-declare-insolvente-20260510_3360965.html",
-      "scraped_at": "2026-05-10T08:20:54Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-05-11T09:58:27Z"
     }
   ]
 }
