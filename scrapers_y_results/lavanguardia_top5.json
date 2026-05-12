@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Las claves del Barça para ganarle la Liga al Real Madrid: solidaridad, barcelonismo y Masia: El conjunto barcelonista conquista su segundo campeonato consecutivo con golazos de Rashford y Ferran; El barcelonismo adora a Flick y el madridismo, desorientado, invoca a Mourinho: La segunda Liga consecutiva de un mismo grupo de jugadores siempre es más importante que la primera. Remite a la constancia, reafirma el camino andado y ratifica el trabajo hecho. El Barça de Hansi Flick (el proyecto lleva el nombre y el apellido del alemán como el PSG los de...; Del baño de masas de Balde y Casadó con la afición al paseo en Bicing de Olmo, Pedri y Eric: Los jugadores blaugrana repiten tradición, con más o diferente compañía, respecto al título de hace un año. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-11T09:58:29Z",
+  "summary": "Resumen del día en La Vanguardia: Israel construyó una base militar secreta en Irak para la guerra contra Irán: El ejército israelí llegó a atacar a las fuerzas iraquíes después de que estas fueran alertadas por un pastor de actividad inusual en la zona; Se estrecha el cerco a Starmer en Reino Unido: goteo de dimisiones para intentar forzar su salida: Llegan las primeras dimisiones y más de 60 diputados piden que se vaya en septiembre; Generación Farah Diba: La emperatriz persa advirtió al Sha que su gobierno podía acabar mal; la CIA no detectó la revolución en ciernes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-05-12T08:52:17Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Las claves del Barça para ganarle la Liga al Real Madrid: solidaridad, barcelonismo y Masia",
-      "subtitle": "El conjunto barcelonista conquista su segundo campeonato consecutivo con golazos de Rashford y Ferran",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260510/11534696/barca-lleva-extasis-camp-nou-coronarse-campeon-liga-madrid.html",
-      "scraped_at": "2026-05-11T09:58:28Z"
+      "title": "Israel construyó una base militar secreta en Irak para la guerra contra Irán",
+      "subtitle": "El ejército israelí llegó a atacar a las fuerzas iraquíes después de que estas fueran alertadas por un pastor de actividad inusual en la zona",
+      "url": "https://www.lavanguardia.com/internacional/20260512/11535350/israel-construyo-base-militar-secreta-irak-guerra-iran.html",
+      "scraped_at": "2026-05-12T08:52:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El barcelonismo adora a Flick y el madridismo, desorientado, invoca a Mourinho",
-      "subtitle": "La segunda Liga consecutiva de un mismo grupo de jugadores siempre es más importante que la primera. Remite a la constancia, reafirma el camino andado y ratifica el trabajo hecho. El Barça de Hansi Flick (el proyecto lleva el nombre y el apellido del alemán como el PSG los de...",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260510/11534818/barcelonismo-adora-flick-madridismo-desorientado-invoca-mourinho.html",
-      "scraped_at": "2026-05-11T09:58:29Z"
+      "title": "Se estrecha el cerco a Starmer en Reino Unido: goteo de dimisiones para intentar forzar su salida",
+      "subtitle": "Llegan las primeras dimisiones y más de 60 diputados piden que se vaya en septiembre",
+      "url": "https://www.lavanguardia.com/internacional/20260512/11535805/estrecha-cerco-starmer.html",
+      "scraped_at": "2026-05-12T08:52:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Del baño de masas de Balde y Casadó con la afición al paseo en Bicing de Olmo, Pedri y Eric",
-      "subtitle": "Los jugadores blaugrana repiten tradición, con más o diferente compañía, respecto al título de hace un año",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260511/11535030/bano-masas-abde-casado-placa-catalunya-paseo-bicing-olmo-gavi-eric-garcia-laporta-despechao.html",
-      "scraped_at": "2026-05-11T09:58:29Z"
+      "title": "Generación Farah Diba",
+      "subtitle": "La emperatriz persa advirtió al Sha que su gobierno podía acabar mal; la CIA no detectó la revolución en ciernes",
+      "url": "https://www.lavanguardia.com/internacional/20260512/11535826/generacion-farah-diba.html",
+      "scraped_at": "2026-05-12T08:52:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Hansi Flick festeja su segunda Liga en su jornada más triste: “Nunca olvidaré este día”",
-      "subtitle": "El entrenador agradeció el apoyo de la afición, del equipo y de la directiva tras el fallecimiento de su padre",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260510/11534817/hansi-flick-festeja-segunda-liga-barca-jornada-mas-triste-nunca-olvidare-dia.html",
-      "scraped_at": "2026-05-11T09:58:29Z"
+      "title": "Trump, debilitado en Irán, busca vender desde China una victoria comercial",
+      "subtitle": "El presidente viaja hoy a Pekín acompañado de 16 altos ejecutivos, incluido Elon Musk, en busca de inversiones y ayuda en Ormuz",
+      "url": "https://www.lavanguardia.com/internacional/20260512/11536026/trump-debilitado-iran-busca-vender-china-victoria-comercial.html",
+      "scraped_at": "2026-05-12T08:52:17Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Arbeloa, más solo que la una",
-      "subtitle": "El entrenador del Real Madrid, más fuera que dentro, es el único miembro de la expedición blanca que habla tras la derrota ante el Barcelona",
-      "url": "https://www.lavanguardia.com/deportes/20260511/11534830/arbeloa-mas.html",
-      "scraped_at": "2026-05-11T09:58:29Z"
+      "title": "Jofre Bardagí: “Me hice fan de Serrat con 15 años, entonces ya no era solo Joan”",
+      "subtitle": "El músico catalán presenta este miércoles en el Paral·lel 62 su nuevo trabajo, 'Jofre Bardagí interpreta Serrat', un homenaje al 'Noi del Poble Sec' y a su padre, el 'Mestre' Bardagí",
+      "url": "https://www.lavanguardia.com/cultura/musica/20260512/11534103/jofre-bardagi-me-hice-fan-serrat-15-anos-joan.html",
+      "scraped_at": "2026-05-12T08:52:17Z"
     }
   ]
 }
