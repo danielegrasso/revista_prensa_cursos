@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Un informe previo alertó del «riesgo grave» de las narcolanchas: Un escrito elevado a los mandos de la Guardia Civil advertía que los medios navales empleados no reunían las condiciones mínimas de seguridad; El director de la OMS: «Dado el largo periodo de incubación, es posible que veamos más casos»: Sigue en directo la última hora del hantavirus, con el estado de los contagiados, el número de muertos y casos y todas las noticias sobre el brote; El español que dio positivo desarrolla los primeros síntomas de la enfermedad: Presenta febrícula y síntomas respiratorios durante la noche, aunque por el momento está estable y sin empeoramiento clínico evidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-12T08:52:15Z",
+  "summary": "Resumen del día en ABC.es: Florentino Pérez tapa los fracasos del Real Madrid con un ataque desaforado contra ABC: El presidente convoca elecciones y desafía a sus enemigos a presentarse al tiempo que culpa a la Prensa de confabularse para acabar con él y con el club blanco; Respetar al Real Madrid desde dentro: La comparecencia del presidente blanco confirmó que el club atraviesa una crisis más profunda que una mala temporada; ABC y Florentino Pérez: ABC va a seguir haciendo su trabajo, con rigor, con veracidad, con autonomía y sin rebajarse ni acobardarse. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-13T09:17:35Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Un informe previo alertó del «riesgo grave» de las narcolanchas",
-      "subtitle": "Un escrito elevado a los mandos de la Guardia Civil advertía que los medios navales empleados no reunían las condiciones mínimas de seguridad",
-      "url": "https://www.abc.es/espana/andalucia/huelva/companeros-agentes-fallecidos-alertaron-mandos-peligros-persecuciones-20260512020536-nts.html",
-      "scraped_at": "2026-05-12T08:52:15Z"
+      "title": "Florentino Pérez tapa los fracasos del Real Madrid con un ataque desaforado contra ABC",
+      "subtitle": "El presidente convoca elecciones y desafía a sus enemigos a presentarse al tiempo que culpa a la Prensa de confabularse para acabar con él y con el club blanco",
+      "url": "https://www.abc.es/deportes/real-madrid/florentino-perez-tapa-fracasos-real-madrid-ataque-20260512202920-nt.html",
+      "scraped_at": "2026-05-13T09:17:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "El director de la OMS: «Dado el largo periodo de incubación, es posible que veamos más casos»",
-      "subtitle": "Sigue en directo la última hora del hantavirus, con el estado de los contagiados, el número de muertos y casos y todas las noticias sobre el brote",
-      "url": "https://www.abc.es/sociedad/hantavirus-ultima-hora-estado-salud-pasajeros-espanoles-evacuacion-crucero-contagiados-muertos-brote-casos-20260511091149-di.html",
-      "scraped_at": "2026-05-12T08:52:15Z"
+      "title": "Respetar al Real Madrid desde dentro",
+      "subtitle": "La comparecencia del presidente blanco confirmó que el club atraviesa una crisis más profunda que una mala temporada",
+      "url": "https://www.abc.es/opinion/editorial-respetar-real-madrid-dentro-20260512212501-nt.html",
+      "scraped_at": "2026-05-13T09:17:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "El español que dio positivo desarrolla los primeros síntomas de la enfermedad",
-      "subtitle": "Presenta febrícula y síntomas respiratorios durante la noche, aunque por el momento está estable y sin empeoramiento clínico evidente",
-      "url": "https://www.abc.es/sociedad/espanol-hantavirus-desarrolla-primeros-sintomas-enfermedad-20260512090653-nt.html",
-      "scraped_at": "2026-05-12T08:52:15Z"
+      "title": "ABC y Florentino Pérez",
+      "subtitle": "ABC va a seguir haciendo su trabajo, con rigor, con veracidad, con autonomía y sin rebajarse ni acobardarse",
+      "url": "https://www.abc.es/opinion/julian-quiros-abc-florentino-perez-20260512211939-nt.html",
+      "scraped_at": "2026-05-13T09:17:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "El médico que trató el primer caso en 2017: «Fue grave, pero entonces no había alarma social»",
-      "subtitle": "El paciente se infectó en Nepal por la variante asiática, pero el cuadro clínico era compatible con la americana, más letal",
-      "url": "https://www.abc.es/sociedad/medico-trato-2017-hantavirus-relevante-espana-respiramos-20260511013108-nt.html",
-      "scraped_at": "2026-05-12T08:52:15Z"
+      "title": "Este es Florentino",
+      "subtitle": "«Es increíble cómo una cabeza tan privilegiada, tan capaz, tan envidiable para los negocios, puede llegar a maquinar algo tan absurdo»",
+      "url": "https://www.abc.es/deportes/futbol/florentino-20260512215754-nt.html",
+      "scraped_at": "2026-05-13T09:17:34Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-12T08:52:15Z"
+      "title": "«Cuando una baja se acerca a los 18 meses muchos descubren un punto legal: los 545 días de incapacidad temporal»",
+      "subtitle": "Alcanzar el año y medio de incapacidad temporal no implica un despido, pero sí el inicio de un proceso decisivo por parte de la Seguridad Social",
+      "url": "https://www.cope.es/actualidad/economia/noticias/pablo-rodenas-abogado-baja-medica-acerca-18-meses-descubren-punto-legal-concreto-545-dias-incapacidad-temporal-20260513_3357988.html",
+      "scraped_at": "2026-05-13T09:17:35Z"
     }
   ]
 }
