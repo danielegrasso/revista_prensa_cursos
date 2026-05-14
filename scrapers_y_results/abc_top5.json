@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Florentino Pérez tapa los fracasos del Real Madrid con un ataque desaforado contra ABC: El presidente convoca elecciones y desafía a sus enemigos a presentarse al tiempo que culpa a la Prensa de confabularse para acabar con él y con el club blanco; Respetar al Real Madrid desde dentro: La comparecencia del presidente blanco confirmó que el club atraviesa una crisis más profunda que una mala temporada; ABC y Florentino Pérez: ABC va a seguir haciendo su trabajo, con rigor, con veracidad, con autonomía y sin rebajarse ni acobardarse. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-13T09:17:35Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno esquiva el efecto Montero: «No es un plebiscito para Sánchez»: El Gobierno marca distancias ante la expectativa de una debacle el 17-M y niega consecuencias a nivel nacional; Sánchez busca un experto en guerra híbrida para su gabinete: Moncloa refuerza su defensa frente a la manipulación extranjera y los ciberataques en un contexto en el que la OTAN y la UE piden a sus miembros mayor preparación; Dos partidos para que el Bernabéu mida a Florentino: Primer paso por Chamartín del presidente tras su anuncio de elecciones, de Mbappé tras su pulso y de la plantilla tras sus peleas y su derrota en el clásico. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-14T08:49:26Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Florentino Pérez tapa los fracasos del Real Madrid con un ataque desaforado contra ABC",
-      "subtitle": "El presidente convoca elecciones y desafía a sus enemigos a presentarse al tiempo que culpa a la Prensa de confabularse para acabar con él y con el club blanco",
-      "url": "https://www.abc.es/deportes/real-madrid/florentino-perez-tapa-fracasos-real-madrid-ataque-20260512202920-nt.html",
-      "scraped_at": "2026-05-13T09:17:33Z"
+      "title": "El Gobierno esquiva el efecto Montero: «No es un plebiscito para Sánchez»",
+      "subtitle": "El Gobierno marca distancias ante la expectativa de una debacle el 17-M y niega consecuencias a nivel nacional",
+      "url": "https://www.abc.es/espana/andalucia/moncloa-desvincula-resultado-andalucia-plebiscito-sanchez-20260514021824-nts.html",
+      "scraped_at": "2026-05-14T08:49:24Z"
     },
     {
       "source": "ABC.es",
-      "title": "Respetar al Real Madrid desde dentro",
-      "subtitle": "La comparecencia del presidente blanco confirmó que el club atraviesa una crisis más profunda que una mala temporada",
-      "url": "https://www.abc.es/opinion/editorial-respetar-real-madrid-dentro-20260512212501-nt.html",
-      "scraped_at": "2026-05-13T09:17:34Z"
+      "title": "Sánchez busca un experto en guerra híbrida para su gabinete",
+      "subtitle": "Moncloa refuerza su defensa frente a la manipulación extranjera y los ciberataques en un contexto en el que la OTAN y la UE piden a sus miembros mayor preparación",
+      "url": "https://www.abc.es/espana/sanchez-busca-experto-guerra-hibrida-gabinete-20260514021743-nt.html",
+      "scraped_at": "2026-05-14T08:49:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "ABC y Florentino Pérez",
-      "subtitle": "ABC va a seguir haciendo su trabajo, con rigor, con veracidad, con autonomía y sin rebajarse ni acobardarse",
-      "url": "https://www.abc.es/opinion/julian-quiros-abc-florentino-perez-20260512211939-nt.html",
-      "scraped_at": "2026-05-13T09:17:34Z"
+      "title": "Dos partidos para que el Bernabéu mida a Florentino",
+      "subtitle": "Primer paso por Chamartín del presidente tras su anuncio de elecciones, de Mbappé tras su pulso y de la plantilla tras sus peleas y su derrota en el clásico",
+      "url": "https://www.abc.es/deportes/real-madrid/campana-electoral-empieza-madridoviedo-20260513204543-nt.html",
+      "scraped_at": "2026-05-14T08:49:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Este es Florentino",
-      "subtitle": "«Es increíble cómo una cabeza tan privilegiada, tan capaz, tan envidiable para los negocios, puede llegar a maquinar algo tan absurdo»",
-      "url": "https://www.abc.es/deportes/futbol/florentino-20260512215754-nt.html",
-      "scraped_at": "2026-05-13T09:17:34Z"
+      "title": "El presidente concede solo 10 días: «Que se presente el que quiera, yo tampoco tuve más tiempo»",
+      "subtitle": "El presidente blanco asegura que el origen de la pésima campaña es el Mundial de clubes, la falta de una pretemporada y 28 lesiones",
+      "url": "https://www.abc.es/deportes/real-madrid/florentino-solo-concede-dias-presente-quiera-tampoco-20260513223605-nt.html",
+      "scraped_at": "2026-05-14T08:49:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Cuando una baja se acerca a los 18 meses muchos descubren un punto legal: los 545 días de incapacidad temporal»",
-      "subtitle": "Alcanzar el año y medio de incapacidad temporal no implica un despido, pero sí el inicio de un proceso decisivo por parte de la Seguridad Social",
-      "url": "https://www.cope.es/actualidad/economia/noticias/pablo-rodenas-abogado-baja-medica-acerca-18-meses-descubren-punto-legal-concreto-545-dias-incapacidad-temporal-20260513_3357988.html",
-      "scraped_at": "2026-05-13T09:17:35Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-05-14T08:49:26Z"
     }
   ]
 }

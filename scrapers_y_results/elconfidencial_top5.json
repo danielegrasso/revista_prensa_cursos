@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Montero indigna a policías y guardias civiles en vísperas de ir a las urnas: 30.000 sirven en Andalucía: La candidata socialista tropieza en la recta final de campaña con su comentario sobre los dos agentes muertos en Huelva y las críticas le obligan a matizar sus palabras; El enigma Lorca: expertos cuestionan que el inédito descubierto por Poveda sea del poeta: El cantaor Miguel Poveda y la filóloga Pepa Merlo presentaron hace unas semanas un poema que atribuyeron al granadino al cien por cien, pero varios especialistas señalan que es imposible porque no es su letra; Hacienda lo confirma: los mayores de 65 años pueden obtener dinero por su vivienda sin pagar IRPF: La Agencia Tributaria recoge en su manual de 2025 una ventaja que puede afectar directamente a quienes tienen una vivienda habitual en propiedad. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-13T09:17:39Z",
+  "summary": "Resumen del día en El Confidencial: Seguridad Nacional detecta campañas para radicalizar a las fuerzas de seguridad: Extremistas, antieuropeos y afines a Rusia intentan socavar su neutralidad institucional con el relato del supuesto &quot;declive moral&quot; de la sociedad europea y que abracen las tesis desestabilizadoras; El aviso de bienvenida a Trump: Xi anuncia \"conflictos\" con EEUU si no se gestiona bien Taiwán: La cumbre se celebra apenas unas horas después de que otras dos delegaciones mantuvieran en Seúl unas conversaciones económicas &quot;constructivas&quot;; Falcon Crest judicial en Neguri:  Santiago Ybarra denuncia a sus 4 sobrinos por daños de 40 M: El hermano del fallecido expresidente del BBVA acusa a sus cuatro sobrinos de urdir un plan para acaparar Mezouna y provocar perjuicios de más de 40 millones de euros mientras Ignacio Ybarra abandona la presidencia de Vocento. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-14T08:49:31Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Montero indigna a policías y guardias civiles en vísperas de ir a las urnas: 30.000 sirven en Andalucía",
-      "subtitle": "La candidata socialista tropieza en la recta final de campaña con su comentario sobre los dos agentes muertos en Huelva y las críticas le obligan a matizar sus palabras",
-      "url": "https://www.elconfidencial.com/espana/2026-05-13/montero-indigna-policias-guardias-civiles-accidente-laboral-huelva-narcolancha_4354121/",
-      "scraped_at": "2026-05-13T09:17:38Z"
+      "title": "Seguridad Nacional detecta campañas para radicalizar a las fuerzas de seguridad",
+      "subtitle": "Extremistas, antieuropeos y afines a Rusia intentan socavar su neutralidad institucional con el relato del supuesto &quot;declive moral&quot; de la sociedad europea y que abracen las tesis desestabilizadoras",
+      "url": "https://www.elconfidencial.com/espana/2026-05-14/seguridad-nacional-detecta-campanas-desinformacion-radicalizar-policia-ejercito-guardia-civil_4354777/",
+      "scraped_at": "2026-05-14T08:49:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El enigma Lorca: expertos cuestionan que el inédito descubierto por Poveda sea del poeta",
-      "subtitle": "El cantaor Miguel Poveda y la filóloga Pepa Merlo presentaron hace unas semanas un poema que atribuyeron al granadino al cien por cien, pero varios especialistas señalan que es imposible porque no es su letra",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-13/enigma-lorca-expertos-cuestionan-autoria-poema-poveda_4353122/",
-      "scraped_at": "2026-05-13T09:17:38Z"
+      "title": "El aviso de bienvenida a Trump: Xi anuncia \"conflictos\" con EEUU si no se gestiona bien Taiwán",
+      "subtitle": "La cumbre se celebra apenas unas horas después de que otras dos delegaciones mantuvieran en Seúl unas conversaciones económicas &quot;constructivas&quot;",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-14/trump-llega-pekin-abrazo-jinping-honores_4355035/",
+      "scraped_at": "2026-05-14T08:49:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hacienda lo confirma: los mayores de 65 años pueden obtener dinero por su vivienda sin pagar IRPF",
-      "subtitle": "La Agencia Tributaria recoge en su manual de 2025 una ventaja que puede afectar directamente a quienes tienen una vivienda habitual en propiedad",
-      "url": "https://www.elconfidencial.com/economia/declaracion-renta/2026-05-13/hacienda-confirma-mayores-65-anos-obtener-dinero-vivienda-sin-pagar-irpf-1qrt_4353550/",
-      "scraped_at": "2026-05-13T09:17:39Z"
+      "title": "Falcon Crest judicial en Neguri:  Santiago Ybarra denuncia a sus 4 sobrinos por daños de 40 M",
+      "subtitle": "El hermano del fallecido expresidente del BBVA acusa a sus cuatro sobrinos de urdir un plan para acaparar Mezouna y provocar perjuicios de más de 40 millones de euros mientras Ignacio Ybarra abandona la presidencia de Vocento",
+      "url": "https://www.elconfidencial.com/espana/2026-05-14/denuncia-familia-ybarra-apropiacion-indebida-vocento-audiencia-nacional_4351987/",
+      "scraped_at": "2026-05-14T08:49:30Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Trump comparte una imagen del mapa de Venezuela pintado con la bandera de Estados Unidos",
+      "subtitle": "Trump difunde mapa con bandera estadounidense y “Estado 51”; Casa Blanca replica. Caracas rechaza la anexión y destaca soberanía, mientras persiste la polémica por el Esequibo y el plan de transición en Venezuela",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-13/trump-venezuela-estado-51-anexion-1tps_4354315/",
+      "scraped_at": "2026-05-14T08:49:31Z"
     }
   ]
 }
