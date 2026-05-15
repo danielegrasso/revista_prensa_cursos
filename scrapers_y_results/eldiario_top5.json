@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Congreso abre la vía para expulsar a los agitadores Vito Quiles y Bertrand Ndongo de manera permanente: La Mesa de la Cámara aprobó este miércoles la suspensión cautelar de las acreditaciones de ambos ultras que se enfrentan en las próximas semanas y meses a un goteo de expedientes, algunos de carácter grave o muy grave, que podrían traducirse en su expulsión definitiva del Congreso; Cuando la foto del candidato la pone otro partido: lo que cuentan las cartas en el buzón para los electores: Los principales partidos políticos con representación en el Parlamento andaluz -PP, PSOE, Vox, Por Andalucía y Adelante Andalucía- han remitido a la ciudadanía sus mensajes en formato postal, con sensibles diferencias en la forma y el fondo de cada uno de ellos; La Audiencia Nacional investiga a un mando de la Guardia Civil en un caso contra el prostíbulo Vive Madrid: El juez De Jorge ha dejado en libertad con medidas cautelares al teniente coronel y ha enviado a prisión provisional a su pareja y al dueño del local por sus presuntos papeles de liderazgo en una trama de explotación sexual y blanqueo de capitales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-14T08:49:23Z",
+  "summary": "Resumen del día en elDiario.es: La guerra civil del laborismo paraliza el Gobierno de Starmer: El ministro de Sanidad y el acalde de Manchester desafían al primer ministro de su partido y dan los primeros pasos para lanzar unas primarias y sustituirlo en medio de la incertidumbre que anticipa un proceso de meses; Quién es Wes Streeting, el ambicioso ministro centrista que ha tirado la primera piedra contra Starmer: El hasta ahora ministro de Sanidad se crió en una casa de protección oficial con una madre que no llegaba a fin de mes, fue el primero de su familia en ir a la universidad y ha destacado en el partido de la mano del primer ministro del que ahora reniega; Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: Kevin Warsh, el nuevo presidente de la Fed: Warsh, que fue incapaz de desmarcarse ante el Congreso de la teoría trumpista del supuesto robo electoral de 2020, sucede a Jerome Powell. Tiene ante sí el desafío de lidiar con la presión del presidente de EEUU para bajar los tipos de interés en un momento en el que la inflación está en el 3,8%, el máximo desde 2023. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-15T09:22:48Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Congreso abre la vía para expulsar a los agitadores Vito Quiles y Bertrand Ndongo de manera permanente",
-      "subtitle": "La Mesa de la Cámara aprobó este miércoles la suspensión cautelar de las acreditaciones de ambos ultras que se enfrentan en las próximas semanas y meses a un goteo de expedientes, algunos de carácter grave o muy grave, que podrían traducirse en su expulsión definitiva del Congreso",
-      "url": "https://www.eldiario.es/politica/congreso-abre-via-expulsar-agitadores-vito-quiles-bertrand-ndongo-manera-permanente_1_13219336.html",
-      "scraped_at": "2026-05-14T08:49:21Z"
+      "title": "La guerra civil del laborismo paraliza el Gobierno de Starmer",
+      "subtitle": "El ministro de Sanidad y el acalde de Manchester desafían al primer ministro de su partido y dan los primeros pasos para lanzar unas primarias y sustituirlo en medio de la incertidumbre que anticipa un proceso de meses",
+      "url": "https://www.eldiario.es/internacional/guerra-civil-laborismo-paraliza-gobierno-starmer_1_13222817.html",
+      "scraped_at": "2026-05-15T09:22:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cuando la foto del candidato la pone otro partido: lo que cuentan las cartas en el buzón para los electores",
-      "subtitle": "Los principales partidos políticos con representación en el Parlamento andaluz -PP, PSOE, Vox, Por Andalucía y Adelante Andalucía- han remitido a la ciudadanía sus mensajes en formato postal, con sensibles diferencias en la forma y el fondo de cada uno de ellos",
-      "url": "https://cordopolis.eldiario.es/cordoba-hoy/sociedad/foto-candidato-pone-partido-cuentan-cartas-buzon-electores_1_13216873.html",
-      "scraped_at": "2026-05-14T08:49:22Z"
+      "title": "Quién es Wes Streeting, el ambicioso ministro centrista que ha tirado la primera piedra contra Starmer",
+      "subtitle": "El hasta ahora ministro de Sanidad se crió en una casa de protección oficial con una madre que no llegaba a fin de mes, fue el primero de su familia en ir a la universidad y ha destacado en el partido de la mano del primer ministro del que ahora reniega",
+      "url": "https://www.eldiario.es/internacional/wes-streeting-ambicioso-ministro-centrista-tirado-primera-piedra-starmer_1_13222308.html",
+      "scraped_at": "2026-05-15T09:22:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional investiga a un mando de la Guardia Civil en un caso contra el prostíbulo Vive Madrid",
-      "subtitle": "El juez De Jorge ha dejado en libertad con medidas cautelares al teniente coronel y ha enviado a prisión provisional a su pareja y al dueño del local por sus presuntos papeles de liderazgo en una trama de explotación sexual y blanqueo de capitales",
-      "url": "https://www.eldiario.es/politica/audiencia-nacional-investiga-mando-guardia-civil-caso-prostibulo-vive-madrid_1_13216809.html",
-      "scraped_at": "2026-05-14T08:49:22Z"
+      "title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: Kevin Warsh, el nuevo presidente de la Fed",
+      "subtitle": "Warsh, que fue incapaz de desmarcarse ante el Congreso de la teoría trumpista del supuesto robo electoral de 2020, sucede a Jerome Powell. Tiene ante sí el desafío de lidiar con la presión del presidente de EEUU para bajar los tipos de interés en un momento en el que la inflación está en el 3,8%, el máximo desde 2023",
+      "url": "https://www.eldiario.es/economia/vive-rodeado-ricos-viene-wall-street-elegido-trump-kevin-warsh-nuevo-presidente-fed_1_13219704.html",
+      "scraped_at": "2026-05-15T09:22:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La caída del precio de la luz y el gas en abril levanta la rebaja del IVA por la guerra a partir del 1 de junio",
-      "subtitle": "El INE confirma que la inflación se moderó al 3,2% en abril, con la electricidad y el gas natural cayendo un 4,3% y un 9,6%, respectivamente, en comparación con el año pasado. Siguen en vigor los alivios fiscales en las gasolinas",
-      "url": "https://www.eldiario.es/economia/caida-precio-luz-gas-abril-levanta-rebaja-iva-guerra-partir-1-junio_1_13219894.html",
-      "scraped_at": "2026-05-14T08:49:23Z"
+      "title": "La ocupación comercial, el lado oculto de la expansión israelí para eliminar la identidad palestina de Jerusalén Este",
+      "subtitle": "\"No solo duele en el bolsillo, también es una cuestión moral”, denuncian los palestinos de la parte oriental de la ciudad, que este jueves cumple 59 años bajo ocupación",
+      "url": "https://www.eldiario.es/internacional/ocupacion-comercial-lado-oculto-expansion-israeli-eliminar-identidad-palestina-jerusalen_1_13215643.html",
+      "scraped_at": "2026-05-15T09:22:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump China",
-      "subtitle": "El presidente de China y de EEUU se reúnen en el Palacio del Pueblo, de Pekín con numerosos frentes abiertos, desde la guerra en Irán hasta la arancelaria y comercial, el conflicto de Taiwán y el empuje chino en la geopolítica mundial así como en los desarrollos tecnológicos y la IA",
-      "url": "https://www.eldiario.es/internacional/xi-jinping-recibe-trump-pleno-desorden-mundial_1_13219782.html",
-      "scraped_at": "2026-05-14T08:49:23Z"
+      "title": "15M Vivienda",
+      "subtitle": "elDiario.es organiza un debate por el 15 aniversario del 15M entre Alicia del Río, portavoz del Sindicato de Inquilinas, y Lucía Delgado, que fue portavoz y fundadora de la Plataforma de Afectados en 2009",
+      "url": "https://www.eldiario.es/economia/15-anos-15m-mayor-legado-pah-sindicato-inquilinas-poner-cuerpo-parar-desahucios_1_13216773.html",
+      "scraped_at": "2026-05-15T09:22:48Z"
     }
   ]
 }

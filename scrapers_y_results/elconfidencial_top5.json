@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Seguridad Nacional detecta campañas para radicalizar a las fuerzas de seguridad: Extremistas, antieuropeos y afines a Rusia intentan socavar su neutralidad institucional con el relato del supuesto &quot;declive moral&quot; de la sociedad europea y que abracen las tesis desestabilizadoras; El aviso de bienvenida a Trump: Xi anuncia \"conflictos\" con EEUU si no se gestiona bien Taiwán: La cumbre se celebra apenas unas horas después de que otras dos delegaciones mantuvieran en Seúl unas conversaciones económicas &quot;constructivas&quot;; Falcon Crest judicial en Neguri:  Santiago Ybarra denuncia a sus 4 sobrinos por daños de 40 M: El hermano del fallecido expresidente del BBVA acusa a sus cuatro sobrinos de urdir un plan para acaparar Mezouna y provocar perjuicios de más de 40 millones de euros mientras Ignacio Ybarra abandona la presidencia de Vocento. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-14T08:49:31Z",
+  "summary": "Resumen del día en El Confidencial: El Gobierno y Junts negocian bonificar a hipotecados y caseros para desbloquear la prórroga del alquiler: El Ejecutivo sigue peleando un acuerdo con los catalanes que permita recuperar la prórroga obligatoria de alquileres. La moneda de cambio sería una batería de medidas fiscales; \"Gestión y soberbia tumbaron al PSOE y ese espacio lo hemos ocupado desde la moderación\": El barón popular confía en lograr los 55 escaños para evitar a Vox porque sus decisiones &quot;las toma un señor en Madrid&quot;. Defiende su gestión económica y de la crisis de los cribados y elude descartar su marcha al final de la legislatura; Olvídate de llevar una navaja por la calle, España está a punto de prohibirlas: Gobierno y Oposición preparan diferentes propuestas para endurecer la tenencia y uso de armas blancas ante el aumento de la delincuencia juvenil. Los expertos dudan del impacto de esta medida. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-15T09:22:57Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Seguridad Nacional detecta campañas para radicalizar a las fuerzas de seguridad",
-      "subtitle": "Extremistas, antieuropeos y afines a Rusia intentan socavar su neutralidad institucional con el relato del supuesto &quot;declive moral&quot; de la sociedad europea y que abracen las tesis desestabilizadoras",
-      "url": "https://www.elconfidencial.com/espana/2026-05-14/seguridad-nacional-detecta-campanas-desinformacion-radicalizar-policia-ejercito-guardia-civil_4354777/",
-      "scraped_at": "2026-05-14T08:49:30Z"
+      "title": "El Gobierno y Junts negocian bonificar a hipotecados y caseros para desbloquear la prórroga del alquiler",
+      "subtitle": "El Ejecutivo sigue peleando un acuerdo con los catalanes que permita recuperar la prórroga obligatoria de alquileres. La moneda de cambio sería una batería de medidas fiscales",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-15/gobierno-junts-bonificar-hipotecas-deducciones-caseros-prorroga-alquiler_4355526/",
+      "scraped_at": "2026-05-15T09:22:55Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El aviso de bienvenida a Trump: Xi anuncia \"conflictos\" con EEUU si no se gestiona bien Taiwán",
-      "subtitle": "La cumbre se celebra apenas unas horas después de que otras dos delegaciones mantuvieran en Seúl unas conversaciones económicas &quot;constructivas&quot;",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-14/trump-llega-pekin-abrazo-jinping-honores_4355035/",
-      "scraped_at": "2026-05-14T08:49:30Z"
+      "title": "\"Gestión y soberbia tumbaron al PSOE y ese espacio lo hemos ocupado desde la moderación\"",
+      "subtitle": "El barón popular confía en lograr los 55 escaños para evitar a Vox porque sus decisiones &quot;las toma un señor en Madrid&quot;. Defiende su gestión económica y de la crisis de los cribados y elude descartar su marcha al final de la legislatura",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-05-15/entrevista-juanma-moreno-elecciones-andalucia-17m-moderacion_4354514/",
+      "scraped_at": "2026-05-15T09:22:55Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Falcon Crest judicial en Neguri:  Santiago Ybarra denuncia a sus 4 sobrinos por daños de 40 M",
-      "subtitle": "El hermano del fallecido expresidente del BBVA acusa a sus cuatro sobrinos de urdir un plan para acaparar Mezouna y provocar perjuicios de más de 40 millones de euros mientras Ignacio Ybarra abandona la presidencia de Vocento",
-      "url": "https://www.elconfidencial.com/espana/2026-05-14/denuncia-familia-ybarra-apropiacion-indebida-vocento-audiencia-nacional_4351987/",
-      "scraped_at": "2026-05-14T08:49:30Z"
+      "title": "Olvídate de llevar una navaja por la calle, España está a punto de prohibirlas",
+      "subtitle": "Gobierno y Oposición preparan diferentes propuestas para endurecer la tenencia y uso de armas blancas ante el aumento de la delincuencia juvenil. Los expertos dudan del impacto de esta medida",
+      "url": "https://www.elconfidencial.com/espana/2026-05-15/espana-prohibir-navajas-acabar-delincuencia-juvenil_4355213/",
+      "scraped_at": "2026-05-15T09:22:56Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump comparte una imagen del mapa de Venezuela pintado con la bandera de Estados Unidos",
-      "subtitle": "Trump difunde mapa con bandera estadounidense y “Estado 51”; Casa Blanca replica. Caracas rechaza la anexión y destaca soberanía, mientras persiste la polémica por el Esequibo y el plan de transición en Venezuela",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-13/trump-venezuela-estado-51-anexion-1tps_4354315/",
-      "scraped_at": "2026-05-14T08:49:31Z"
+      "title": "Mbappé carga contra Arbeloa tras la gran pitada: \"Me dijo que soy el cuarto delantero\"",
+      "subtitle": "Mientras tanto, y en una rueda de prensa casi simultánea a las declaraciones del francés, el entrenador del club, Álvaro Arbeloa, negaba haberle dicho eso: &quot;No me habrá entendido&quot;",
+      "url": "https://www.elconfidencial.com/deportes/2026-05-15/mbappe-real-madrid-suplencia-reacciones-1tps_4355812/",
+      "scraped_at": "2026-05-15T09:22:56Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Lydia entra en 'EP': de la multa de confidencialidad a su gran guiño a Antena 3",
+      "subtitle": "La popular colaboradora de Telecinco intervino con total naturalidad en el magacín de la cadena rival",
+      "url": "https://www.elconfidencial.com/television/programas-tv/2026-05-14/espejo-publica-lydia-lozano-interviene-mask-singer-multa-antena3_4355616/",
+      "scraped_at": "2026-05-15T09:22:57Z"
     }
   ]
 }
