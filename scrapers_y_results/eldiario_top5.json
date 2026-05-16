@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La guerra civil del laborismo paraliza el Gobierno de Starmer: El ministro de Sanidad y el acalde de Manchester desafían al primer ministro de su partido y dan los primeros pasos para lanzar unas primarias y sustituirlo en medio de la incertidumbre que anticipa un proceso de meses; Quién es Wes Streeting, el ambicioso ministro centrista que ha tirado la primera piedra contra Starmer: El hasta ahora ministro de Sanidad se crió en una casa de protección oficial con una madre que no llegaba a fin de mes, fue el primero de su familia en ir a la universidad y ha destacado en el partido de la mano del primer ministro del que ahora reniega; Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: Kevin Warsh, el nuevo presidente de la Fed: Warsh, que fue incapaz de desmarcarse ante el Congreso de la teoría trumpista del supuesto robo electoral de 2020, sucede a Jerome Powell. Tiene ante sí el desafío de lidiar con la presión del presidente de EEUU para bajar los tipos de interés en un momento en el que la inflación está en el 3,8%, el máximo desde 2023. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-15T09:22:48Z",
+  "summary": "Resumen del día en elDiario.es: La crisis de la sanidad pone en riesgo la mayoría absoluta de Juanma Moreno: Los últimos 'trackings' electorales señalan la posibilidad de que Adelante Andalucía recoja el descontento por la gestión del PP y esté en disposición de competir los últimos escaños de hasta seis provincias, algo que alejaría a los populares de la absoluta; China confirma que Xi Jinping visitará Estados Unidos y pide “acciones concretas” para garantizar la paz en Taiwán: El canciller chino, Wang Yi, dijo este viernes que Estados Unidos \"comprende\" la posición de Pekín y rechaza \"la independencia de Taiwán\", y pidió a Washington que adopte \"acciones concretas\" para garantizar la estabilidad de las relaciones bilaterales y la paz en el estrecho; Pensiones pagadas con fondos europeos: una polémica inflada por la derecha que ha topado con la Comisión Europea: El PP baja el tono tras semanas inflando una falsa controversia y prefiere poner el foco en las prórrogras presupuestarias, mientras Alemania y País Bajos piden explicaciones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-16T08:19:04Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La guerra civil del laborismo paraliza el Gobierno de Starmer",
-      "subtitle": "El ministro de Sanidad y el acalde de Manchester desafían al primer ministro de su partido y dan los primeros pasos para lanzar unas primarias y sustituirlo en medio de la incertidumbre que anticipa un proceso de meses",
-      "url": "https://www.eldiario.es/internacional/guerra-civil-laborismo-paraliza-gobierno-starmer_1_13222817.html",
-      "scraped_at": "2026-05-15T09:22:47Z"
+      "title": "La crisis de la sanidad pone en riesgo la mayoría absoluta de Juanma Moreno",
+      "subtitle": "Los últimos 'trackings' electorales señalan la posibilidad de que Adelante Andalucía recoja el descontento por la gestión del PP y esté en disposición de competir los últimos escaños de hasta seis provincias, algo que alejaría a los populares de la absoluta",
+      "url": "https://www.eldiario.es/politica/crisis-sanidad-publica-agita-campana-andalucia-pone-riesgo-mayoria-absoluta-juanma-moreno_1_13225019.html",
+      "scraped_at": "2026-05-16T08:19:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Quién es Wes Streeting, el ambicioso ministro centrista que ha tirado la primera piedra contra Starmer",
-      "subtitle": "El hasta ahora ministro de Sanidad se crió en una casa de protección oficial con una madre que no llegaba a fin de mes, fue el primero de su familia en ir a la universidad y ha destacado en el partido de la mano del primer ministro del que ahora reniega",
-      "url": "https://www.eldiario.es/internacional/wes-streeting-ambicioso-ministro-centrista-tirado-primera-piedra-starmer_1_13222308.html",
-      "scraped_at": "2026-05-15T09:22:47Z"
+      "title": "China confirma que Xi Jinping visitará Estados Unidos y pide “acciones concretas” para garantizar la paz en Taiwán",
+      "subtitle": "El canciller chino, Wang Yi, dijo este viernes que Estados Unidos \"comprende\" la posición de Pekín y rechaza \"la independencia de Taiwán\", y pidió a Washington que adopte \"acciones concretas\" para garantizar la estabilidad de las relaciones bilaterales y la paz en el estrecho",
+      "url": "https://www.eldiario.es/internacional/china-confirma-xi-jinping-visitara-estados-unidos-pide-acciones-concretas-garantizar-paz-taiwan_1_13225877.html",
+      "scraped_at": "2026-05-16T08:19:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: Kevin Warsh, el nuevo presidente de la Fed",
-      "subtitle": "Warsh, que fue incapaz de desmarcarse ante el Congreso de la teoría trumpista del supuesto robo electoral de 2020, sucede a Jerome Powell. Tiene ante sí el desafío de lidiar con la presión del presidente de EEUU para bajar los tipos de interés en un momento en el que la inflación está en el 3,8%, el máximo desde 2023",
-      "url": "https://www.eldiario.es/economia/vive-rodeado-ricos-viene-wall-street-elegido-trump-kevin-warsh-nuevo-presidente-fed_1_13219704.html",
-      "scraped_at": "2026-05-15T09:22:48Z"
+      "title": "Pensiones pagadas con fondos europeos: una polémica inflada por la derecha que ha topado con la Comisión Europea",
+      "subtitle": "El PP baja el tono tras semanas inflando una falsa controversia y prefiere poner el foco en las prórrogras presupuestarias, mientras Alemania y País Bajos piden explicaciones",
+      "url": "https://www.eldiario.es/economia/pensiones-pagadas-fondos-europeos-polemica-inflada-derecha-topado-comision-europea_1_13221943.html",
+      "scraped_at": "2026-05-16T08:19:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La ocupación comercial, el lado oculto de la expansión israelí para eliminar la identidad palestina de Jerusalén Este",
-      "subtitle": "\"No solo duele en el bolsillo, también es una cuestión moral”, denuncian los palestinos de la parte oriental de la ciudad, que este jueves cumple 59 años bajo ocupación",
-      "url": "https://www.eldiario.es/internacional/ocupacion-comercial-lado-oculto-expansion-israeli-eliminar-identidad-palestina-jerusalen_1_13215643.html",
-      "scraped_at": "2026-05-15T09:22:48Z"
+      "title": "“Gastarbeiter”, los españoles que sufrieron la xenofobia y la “prioridad nacional” que ahora defienden PP y Vox",
+      "subtitle": "Franco promovió la emigración laboral de 3,5 millones de españoles en los 60. El estigma de que eran sucios o que delinquían más se repitió en la prensa de la época. Con la crisis del 73 se instaló la idea de que robaban el trabajo",
+      "url": "https://www.eldiario.es/sociedad/gastarbeiter-espanoles-sufrieron-xenofobia-prioridad-nacional-ahora-defienden-pp-vox_1_13202195.html",
+      "scraped_at": "2026-05-16T08:19:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "15M Vivienda",
-      "subtitle": "elDiario.es organiza un debate por el 15 aniversario del 15M entre Alicia del Río, portavoz del Sindicato de Inquilinas, y Lucía Delgado, que fue portavoz y fundadora de la Plataforma de Afectados en 2009",
-      "url": "https://www.eldiario.es/economia/15-anos-15m-mayor-legado-pah-sindicato-inquilinas-poner-cuerpo-parar-desahucios_1_13216773.html",
-      "scraped_at": "2026-05-15T09:22:48Z"
+      "title": "Prórroga alquileres",
+      "subtitle": "El ministerio de Isabel Rodríguez sitúa como prioridad la regulación de los alquileres de temporada, pero los de Yolanda Díaz, que comparten esa medida, se niegan a dejar caer la extensión de los contratos y Junts pone el acento en las exenciones fiscales por alquiler y compra de vivienda",
+      "url": "https://www.eldiario.es/politica/vivienda-junts-sumar-toman-posiciones-reimpulsar-negociacion-alquileres-prorroga-aire_1_13222314.html",
+      "scraped_at": "2026-05-16T08:19:04Z"
     }
   ]
 }
