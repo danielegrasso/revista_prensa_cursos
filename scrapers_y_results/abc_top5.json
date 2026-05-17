@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Correos tardó semanas en comprobar falsedades en la regularización de inmigrantes: El conjunto de las oficinas de la empresa pública han registrado durante dos semanas unas 3.500 solicitudes diarias, sin tener en su manual de apoyo esta nueva medida que busca ayudar a detectar a los inmigrantes que quieran acceder al proceso de forma fraudulenta; Moncloa saca la inmigración ilegal de los mayores riesgos contra la seguridad nacional: Desde 2023 ocupaba el tercer lugar y ahora desciende al noveno puesto; Farruquito, ante el precipicio de sí mismo: Más artículos del autor. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-16T08:19:06Z",
+  "summary": "Resumen del día en ABC.es: El PP espera un «efecto arrastre» para Feijóo con la mayoría absoluta de Moreno: Máxima expectación ante la noche electoral clave para el PP: en juego, la lectura nacional de Andalucía; Preguntas para las urnas de hoy: La imagen final del ciclo electoral de 2026 va a establecerse con lo que salga de Andalucía; Alex Saab, testaferro de Maduro, deportado por segunda vez a EE.UU.: Se ha abierto un segundo caso en Miami que tiene que ver con corrupción con Pdvsa, la petrolera estatal, y que estaba bajo secreto se sumario. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-17T08:31:44Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Correos tardó semanas en comprobar falsedades en la regularización de inmigrantes",
-      "subtitle": "El conjunto de las oficinas de la empresa pública han registrado durante dos semanas unas 3.500 solicitudes diarias, sin tener en su manual de apoyo esta nueva medida que busca ayudar a detectar a los inmigrantes que quieran acceder al proceso de forma fraudulenta",
-      "url": "https://www.abc.es/espana/correos-activo-protocolo-documentacion-falsa-medio-mes-20260515010950-nt.html",
-      "scraped_at": "2026-05-16T08:19:05Z"
+      "title": "El PP espera un «efecto arrastre» para Feijóo con la mayoría absoluta de Moreno",
+      "subtitle": "Máxima expectación ante la noche electoral clave para el PP: en juego, la lectura nacional de Andalucía",
+      "url": "https://www.abc.es/espana/andalucia/genova-espera-efecto-arrastre-feijoo-mayoria-absoluta-20260517015339-nts.html",
+      "scraped_at": "2026-05-17T08:31:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa saca la inmigración ilegal de los mayores riesgos contra la seguridad nacional",
-      "subtitle": "Desde 2023 ocupaba el tercer lugar y ahora desciende al noveno puesto",
-      "url": "https://www.abc.es/espana/moncloa-saca-inmigracion-ilegal-mayores-riesgos-seguridad-20260516011038-nt.html",
-      "scraped_at": "2026-05-16T08:19:05Z"
+      "title": "Preguntas para las urnas de hoy",
+      "subtitle": "La imagen final del ciclo electoral de 2026 va a establecerse con lo que salga de Andalucía",
+      "url": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-preguntas-urnas-hoy-20260517191921-nts.html",
+      "scraped_at": "2026-05-17T08:31:43Z"
     },
     {
       "source": "ABC.es",
-      "title": "Farruquito, ante el precipicio de sí mismo",
-      "subtitle": "Más artículos del autor",
-      "url": "https://www.abc.es/opinion/farruquito-ante-precipicio-20260515143754-nt.html",
-      "scraped_at": "2026-05-16T08:19:05Z"
+      "title": "Alex Saab, testaferro de Maduro, deportado por segunda vez a EE.UU.",
+      "subtitle": "Se ha abierto un segundo caso en Miami que tiene que ver con corrupción con Pdvsa, la petrolera estatal, y que estaba bajo secreto se sumario",
+      "url": "https://www.abc.es/internacional/alex-saab-deportado-venezuela-estados-unidos-20260517012750-nt.html",
+      "scraped_at": "2026-05-17T08:31:43Z"
     },
     {
       "source": "ABC.es",
-      "title": "«El secuestro de Di Stéfano tuvo en vilo a Franco»",
-      "subtitle": "El 23 agosto de 1963, Alfredo fue capturado en Caracas por las Fuerzas Armadas de Liberación Nacional. 56 horas de angustia, y un antes y un después, que relata con detalle el escritor venezolano Jimeno Hernández",
-      "url": "https://www.abc.es/deportes/real-madrid/secuestro-stefano-vilo-gobierno-franco-20260512010940-nt.html",
-      "scraped_at": "2026-05-16T08:19:06Z"
+      "title": "Los desastres electorales del PSOE y otra crisis local ponen en la diana a Morant",
+      "subtitle": "Los socialistas valencianos discrepan sobre el momento en el que su líder debe dejar el Gobierno de Sánchez mientras asumen la pérdida de su segundo feudo en militantes",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/crisis-local-desastres-electorales-psoe-ponen-diana-20260517015342-nt.html",
+      "scraped_at": "2026-05-17T08:31:44Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-16T08:19:06Z"
+      "title": "Juanma Lorente, abogado: «Lo que jamás haría sería quejarme a mi empresa de cualquier derecho que esté incumpliendo de forma verbal»",
+      "subtitle": "Grabar conversaciones o dejar constancia por escrito son las únicas vías para protegerte ante un posible despido nulo por represalias, según un...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/juanma-lorente-abogado-laboralista-haria-seria-quejarme-mi-empresa-derecho-incumpliendo-forma-verbal-grabar-conversacion-20260517_3354825.html",
+      "scraped_at": "2026-05-17T08:31:44Z"
     }
   ]
 }
