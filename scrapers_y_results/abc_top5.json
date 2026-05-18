@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PP espera un «efecto arrastre» para Feijóo con la mayoría absoluta de Moreno: Máxima expectación ante la noche electoral clave para el PP: en juego, la lectura nacional de Andalucía; Preguntas para las urnas de hoy: La imagen final del ciclo electoral de 2026 va a establecerse con lo que salga de Andalucía; Alex Saab, testaferro de Maduro, deportado por segunda vez a EE.UU.: Se ha abierto un segundo caso en Miami que tiene que ver con corrupción con Pdvsa, la petrolera estatal, y que estaba bajo secreto se sumario. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-17T08:31:44Z",
+  "summary": "Resumen del día en ABC.es: Moreno arrolla, pero se queda a dos escaños de renovar su mayoría absoluta: El PP, que tendrá que hablar con Vox, pierde cinco escaños sobre 2022 y se queda en 53, a dos de la «mayoría de estabilidad» que anhelaba. El PSOE se hunde y se queda con su peor registro histórico, sólo 28 actas; Andalucía prefiere seguir a la derecha: Es la hora de los acuerdos, no solo necesarios en Andalucía, sino imprescindibles en cualquier proyecto de alternancia nacional; «¿Alguien piensa asumir responsabilidades por el mayor hostión electoral?»: El catedrático Luis Ángel Hierro reclama cambios después de sacar el peor resultado de la historia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-18T10:39:17Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PP espera un «efecto arrastre» para Feijóo con la mayoría absoluta de Moreno",
-      "subtitle": "Máxima expectación ante la noche electoral clave para el PP: en juego, la lectura nacional de Andalucía",
-      "url": "https://www.abc.es/espana/andalucia/genova-espera-efecto-arrastre-feijoo-mayoria-absoluta-20260517015339-nts.html",
-      "scraped_at": "2026-05-17T08:31:42Z"
+      "title": "Moreno arrolla, pero se queda a dos escaños de renovar su mayoría absoluta",
+      "subtitle": "El PP, que tendrá que hablar con Vox, pierde cinco escaños sobre 2022 y se queda en 53, a dos de la «mayoría de estabilidad» que anhelaba. El PSOE se hunde y se queda con su peor registro histórico, sólo 28 actas",
+      "url": "https://www.abc.es/espana/andalucia/resultados-elecciones-andalucia-2026-20260517194843-nts.html",
+      "scraped_at": "2026-05-18T10:39:16Z"
     },
     {
       "source": "ABC.es",
-      "title": "Preguntas para las urnas de hoy",
-      "subtitle": "La imagen final del ciclo electoral de 2026 va a establecerse con lo que salga de Andalucía",
-      "url": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-preguntas-urnas-hoy-20260517191921-nts.html",
-      "scraped_at": "2026-05-17T08:31:43Z"
+      "title": "Andalucía prefiere seguir a la derecha",
+      "subtitle": "Es la hora de los acuerdos, no solo necesarios en Andalucía, sino imprescindibles en cualquier proyecto de alternancia nacional",
+      "url": "https://www.abc.es/opinion/editorial-andalucia-prefiere-seguir-derecha-20260517234359-nt.html",
+      "scraped_at": "2026-05-18T10:39:16Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alex Saab, testaferro de Maduro, deportado por segunda vez a EE.UU.",
-      "subtitle": "Se ha abierto un segundo caso en Miami que tiene que ver con corrupción con Pdvsa, la petrolera estatal, y que estaba bajo secreto se sumario",
-      "url": "https://www.abc.es/internacional/alex-saab-deportado-venezuela-estados-unidos-20260517012750-nt.html",
-      "scraped_at": "2026-05-17T08:31:43Z"
+      "title": "«¿Alguien piensa asumir responsabilidades por el mayor hostión electoral?»",
+      "subtitle": "El catedrático Luis Ángel Hierro reclama cambios después de sacar el peor resultado de la historia",
+      "url": "https://www.abc.es/espana/andalucia/surgen-primeras-criticas-psoe-andaluz-maria-jesus-20260518091530-nts.html",
+      "scraped_at": "2026-05-18T10:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los desastres electorales del PSOE y otra crisis local ponen en la diana a Morant",
-      "subtitle": "Los socialistas valencianos discrepan sobre el momento en el que su líder debe dejar el Gobierno de Sánchez mientras asumen la pérdida de su segundo feudo en militantes",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/crisis-local-desastres-electorales-psoe-ponen-diana-20260517015342-nt.html",
-      "scraped_at": "2026-05-17T08:31:44Z"
+      "title": "«Que escuche al medio millón que cree en la 'prioridad nacional'»",
+      "subtitle": "El líder de Vox confirma que Andalucía será un «bastión» contra el Gobierno de Sánchez",
+      "url": "https://www.abc.es/espana/andalucia/abascal-avisa-moreno-confiamos-escuche-medio-millon-20260517234200-nts.html",
+      "scraped_at": "2026-05-18T10:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Juanma Lorente, abogado: «Lo que jamás haría sería quejarme a mi empresa de cualquier derecho que esté incumpliendo de forma verbal»",
-      "subtitle": "Grabar conversaciones o dejar constancia por escrito son las únicas vías para protegerte ante un posible despido nulo por represalias, según un...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/juanma-lorente-abogado-laboralista-haria-seria-quejarme-mi-empresa-derecho-incumpliendo-forma-verbal-grabar-conversacion-20260517_3354825.html",
-      "scraped_at": "2026-05-17T08:31:44Z"
+      "title": "El Supremo ordena indemnizar con 300 euros al vecino de enfrente de un propietario que tenía instalada en su puerta una mirilla electrónica",
+      "subtitle": "El Alto Tribunal considera que estos dispositivos suponen una intromisión ilegítima en el derecho a la intimidad si graban la entrada de otra vivienda",
+      "url": "https://www.cope.es/actualidad/sociedad/noticias/supremo-ordena-indemnizar-300-euros-vecino-enfrente-propietario-tenia-instalada-puerta-mirilla-electronica-camara-20260518_3366292.html",
+      "scraped_at": "2026-05-18T10:39:17Z"
     }
   ]
 }

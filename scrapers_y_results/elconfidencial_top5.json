@@ -1,42 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: La tasa de paro se estancará cerca del 10% hasta 2030 y no habrá pleno empleo: La AIReF calcula que la tasa de desempleo seguirá por encima del 10% en 2027 y apenas bajará hasta el 9,6% hacia el final de la década; León vs Trump: la estrategia del Papa para cambiar el rostro de la Iglesia en Estados Unidos: El Papa León XIV ha sido blanco de los ataques de Trump por sus críticas a la guerra en Irán, pero el líder religioso de una comunidad transnacional y multiétnica de 1.400 millones de personas no es un objetivo fácil; El hombre que montó un negocio con rojos y pornógrafos y le salió bien (salvo alguna cosa): Jerónimo Andreu cuenta en un libro cómo Antonio Asensio convirtió una revista escandalosa en un conglomerado de poder e influencia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-17T08:31:49Z",
+  "summary": "Resumen del día en El Confidencial: Rusia ha perdido su influencia en Venezuela. Va a perderla en Cuba. Solo le queda Nicaragua: Putin ha firmado un nuevo acuerdo con el régimen de Ortega después de la caída de Nicolás Maduro y de la presión económica de EEUU sobre Cuba; Pedro Sánchez: Ante el panorama perdedor, como el de ayer en Andalucía, Sánchez ejecutará la segunda parte de su plan: tras desactivar el sistema constitucional plantear la confederación y la república. No lo logrará, pero lo intentará. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-18T10:39:21Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La tasa de paro se estancará cerca del 10% hasta 2030 y no habrá pleno empleo",
-      "subtitle": "La AIReF calcula que la tasa de desempleo seguirá por encima del 10% en 2027 y apenas bajará hasta el 9,6% hacia el final de la década",
-      "url": "https://www.elconfidencial.com/economia/2026-05-17/tasa-paro-espana-apenas-bajara-del-10_4356012/",
-      "scraped_at": "2026-05-17T08:31:47Z"
+      "title": "Rusia ha perdido su influencia en Venezuela. Va a perderla en Cuba. Solo le queda Nicaragua",
+      "subtitle": "Putin ha firmado un nuevo acuerdo con el régimen de Ortega después de la caída de Nicolás Maduro y de la presión económica de EEUU sobre Cuba",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-18/rusia-perdido-influencia-venezuela-y-cuba-solo-le-queda-nicaragua_4356460/",
+      "scraped_at": "2026-05-18T10:39:21Z"
     },
     {
       "source": "El Confidencial",
-      "title": "León vs Trump: la estrategia del Papa para cambiar el rostro de la Iglesia en Estados Unidos",
-      "subtitle": "El Papa León XIV ha sido blanco de los ataques de Trump por sus críticas a la guerra en Irán, pero el líder religioso de una comunidad transnacional y multiétnica de 1.400 millones de personas no es un objetivo fácil",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-17/con-la-iglesia-hemos-topado-trump-leon-xiv_4355522/",
-      "scraped_at": "2026-05-17T08:31:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El hombre que montó un negocio con rojos y pornógrafos y le salió bien (salvo alguna cosa)",
-      "subtitle": "Jerónimo Andreu cuenta en un libro cómo Antonio Asensio convirtió una revista escandalosa en un conglomerado de poder e influencia",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-17/intervie-asensio-libro_4355615/",
-      "scraped_at": "2026-05-17T08:31:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Condenado un ultra de extrema izquierda que pidió asesinar a Feijóo, Ayuso y Dani Carvajal",
-      "subtitle": "Un radical de 54 años de Zaragoza, Ricardo I.B., difundió propaganda de ETA y abogó por ejecutar a dirigentes de PP y VOX, jueces y el capitán del Real Madrid para frenar el &quot;fascismo&quot;. &quot;Un poco de amosal en una olla y listo&quot;, escribió",
-      "url": "https://www.elconfidencial.com/espana/2026-05-17/ultra-izquierda-carvajal-feijoo-ayuso-pp-vox-abascal_4355009/",
-      "scraped_at": "2026-05-17T08:31:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Pulla frontal a Eurovisión: TVE abre su gran apuesta con un grito por la paz",
-      "subtitle": "Con bandera blanca en alto, la oferta de la cadena pública contra Eurovisión arrancó con un reivindicativo mensaje: &quot;La música vale para unir a las personas&quot;",
-      "url": "https://www.elconfidencial.com/television/eurovision/2026-05-16/eurovision-2026-tve-apuesta-musical-grito-paz-jesus-vazquez-manuel-carrasco_4356379/",
-      "scraped_at": "2026-05-17T08:31:49Z"
+      "title": "Pedro Sánchez",
+      "subtitle": "Ante el panorama perdedor, como el de ayer en Andalucía, Sánchez ejecutará la segunda parte de su plan: tras desactivar el sistema constitucional plantear la confederación y la república. No lo logrará, pero lo intentará",
+      "url": "https://www.elconfidencial.com/espana/notebook/2026-05-18/sanchez-elecciones-psoe-andalucia-ruptura-1hms_4356651/",
+      "scraped_at": "2026-05-18T10:39:21Z"
     }
   ]
 }
