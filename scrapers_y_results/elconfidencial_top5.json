@@ -1,21 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Rusia ha perdido su influencia en Venezuela. Va a perderla en Cuba. Solo le queda Nicaragua: Putin ha firmado un nuevo acuerdo con el régimen de Ortega después de la caída de Nicolás Maduro y de la presión económica de EEUU sobre Cuba; Pedro Sánchez: Ante el panorama perdedor, como el de ayer en Andalucía, Sánchez ejecutará la segunda parte de su plan: tras desactivar el sistema constitucional plantear la confederación y la república. No lo logrará, pero lo intentará. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-18T10:39:21Z",
+  "summary": "Resumen del día en El Confidencial: El informe de los economistas de élite catalanes que no ha gustado a ningún partido de Cataluña: La productividad es el talón de Aquiles de la economía catalana. Y de la española. Un grupo de economistas señalas al turismo y a la industria cárnica y piden cambiar el modelo; Hacienda trató de cazar a Shakira siguiendo el rastro del inicio de su relación con Piqué: La Agencia Tributaria defendía que en 2011 ya se había producido el inicio de una residencia de la cantante en España ya que &quot;mantenía una relación sentimental con un residente&quot; nacional; Internacional: Con las cumbres de Trump y Putin, Xi quiere mostrar su papel diplomático en un panorama geopolítico fragmentado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-19T10:04:28Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Rusia ha perdido su influencia en Venezuela. Va a perderla en Cuba. Solo le queda Nicaragua",
-      "subtitle": "Putin ha firmado un nuevo acuerdo con el régimen de Ortega después de la caída de Nicolás Maduro y de la presión económica de EEUU sobre Cuba",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-18/rusia-perdido-influencia-venezuela-y-cuba-solo-le-queda-nicaragua_4356460/",
-      "scraped_at": "2026-05-18T10:39:21Z"
+      "title": "El informe de los economistas de élite catalanes que no ha gustado a ningún partido de Cataluña",
+      "subtitle": "La productividad es el talón de Aquiles de la economía catalana. Y de la española. Un grupo de economistas señalas al turismo y a la industria cárnica y piden cambiar el modelo",
+      "url": "https://www.elconfidencial.com/economia/2026-05-19/informe-economista-candidato-nobel-incomoda_4357145/",
+      "scraped_at": "2026-05-19T10:04:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Pedro Sánchez",
-      "subtitle": "Ante el panorama perdedor, como el de ayer en Andalucía, Sánchez ejecutará la segunda parte de su plan: tras desactivar el sistema constitucional plantear la confederación y la república. No lo logrará, pero lo intentará",
-      "url": "https://www.elconfidencial.com/espana/notebook/2026-05-18/sanchez-elecciones-psoe-andalucia-ruptura-1hms_4356651/",
-      "scraped_at": "2026-05-18T10:39:21Z"
+      "title": "Hacienda trató de cazar a Shakira siguiendo el rastro del inicio de su relación con Piqué",
+      "subtitle": "La Agencia Tributaria defendía que en 2011 ya se había producido el inicio de una residencia de la cantante en España ya que &quot;mantenía una relación sentimental con un residente&quot; nacional",
+      "url": "https://www.elconfidencial.com/espana/2026-05-19/hacienda-cazar-shakira-rastro-inicios-relacion-pique_4357111/",
+      "scraped_at": "2026-05-19T10:04:28Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Internacional",
+      "subtitle": "Con las cumbres de Trump y Putin, Xi quiere mostrar su papel diplomático en un panorama geopolítico fragmentado",
+      "url": "https://www.elconfidencial.com/mundo/",
+      "scraped_at": "2026-05-19T10:04:28Z"
     }
   ]
 }
