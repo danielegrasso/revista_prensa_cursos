@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Zapatero, imputado por corrupción en el caso Plus Ultra: Se investigarían supuestos cargos de organización criminal, tráfico de influencias y falsedad documental en una causa de blanqueo; La Udef registra el despacho del expresidente y la empresa de sus hijas: Los investigadores buscan volcar el contenido de los dispositivos electrónicos del expresidente para conocer sus negocios; El PSOE, entre la conmoción y el 'lawfare': Los socialistas entran en shock y pasan del silencio prudente a la conspiración judicial: «No pararán». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-19T10:04:24Z",
+  "summary": "Resumen del día en ABC.es: Zapatero presionó a la Sepi a favor de Plus Ultra a través de su socio y su secretaria: La investigación apunta a que el expresidente ejerció su influencia política para conseguir una ayuda «ilícita» enmascarado tras sus colaboradores; Sánchez lanza una defensa cerrada de Zapatero tras su imputación ante el asedio de Feijóo: Evita hacer cualquier valoración del auto que sitúa al expresidente como líder de una trama delictiva vinculada al rescate de Plus Ultra; El cuartel general de la organización era la casa del líder socialista en Almería: La UDEF sospecha que un chalet que fue propiedad del expresidente era la base de las reuniones clandestinas de la trama. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-20T09:52:21Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Zapatero, imputado por corrupción en el caso Plus Ultra",
-      "subtitle": "Se investigarían supuestos cargos de organización criminal, tráfico de influencias y falsedad documental en una causa de blanqueo",
-      "url": "https://www.abc.es/espana/zapatero-primer-presidente-gobierno-imputado-blanqueo-plus-20260519090841-nt.html",
-      "scraped_at": "2026-05-19T10:04:22Z"
+      "title": "Zapatero presionó a la Sepi a favor de Plus Ultra a través de su socio y su secretaria",
+      "subtitle": "La investigación apunta a que el expresidente ejerció su influencia política para conseguir una ayuda «ilícita» enmascarado tras sus colaboradores",
+      "url": "https://www.abc.es/espana/zapatero-influyo-sepi-mediante-testaferros-cortafuegos-lograr-20260520015229-nt.html",
+      "scraped_at": "2026-05-20T09:52:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Udef registra el despacho del expresidente y la empresa de sus hijas",
-      "subtitle": "Los investigadores buscan volcar el contenido de los dispositivos electrónicos del expresidente para conocer sus negocios",
-      "url": "https://www.abc.es/espana/udef-registra-despacho-zapatero-tres-mercantiles-20260519094102-nt.html",
-      "scraped_at": "2026-05-19T10:04:23Z"
+      "title": "Sánchez lanza una defensa cerrada de Zapatero tras su imputación ante el asedio de Feijóo",
+      "subtitle": "Evita hacer cualquier valoración del auto que sitúa al expresidente como líder de una trama delictiva vinculada al rescate de Plus Ultra",
+      "url": "https://www.abc.es/espana/sanchez-lanza-defensa-cerrada-zapatero-tras-imputacion-20260520092810-nt.html",
+      "scraped_at": "2026-05-20T09:52:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE, entre la conmoción y el 'lawfare'",
-      "subtitle": "Los socialistas entran en shock y pasan del silencio prudente a la conspiración judicial: «No pararán»",
-      "url": "https://www.abc.es/espana/psoe-conmocion-lawfare-tras-imputacion-zapatero-20260519110217-nt.html",
-      "scraped_at": "2026-05-19T10:04:23Z"
+      "title": "El cuartel general de la organización era la casa del líder socialista en Almería",
+      "subtitle": "La UDEF sospecha que un chalet que fue propiedad del expresidente era la base de las reuniones clandestinas de la trama",
+      "url": "https://www.abc.es/espana/cuartel-general-organizacion-era-casa-expresidente-almeria-20260520015318-nt.html",
+      "scraped_at": "2026-05-20T09:52:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "De estrella electoral del PSOE a imputado en cuestión de días",
-      "subtitle": "El expresidente fue uno de los grandes protagonistas de la reciente campaña andaluza y uno de los referentes del partido",
-      "url": "https://www.abc.es/espana/zapatero-estrella-electoral-psoe-imputado-corrupcion-cuestion-20260519104344-nt.html",
-      "scraped_at": "2026-05-19T10:04:24Z"
+      "title": "La imputación del expresidente le pone en el punto de mira de EE.UU.",
+      "subtitle": "El auto de la Audiencia Nacional le relaciona con una trama por la que acaba de ser imputado el testaferro de Maduro, Alex Saab",
+      "url": "https://www.abc.es/internacional/imputacion-zapatero-pone-punto-mira-eeuu-20260518015252-nt.html",
+      "scraped_at": "2026-05-20T09:52:21Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-19T10:04:24Z"
+      "scraped_at": "2026-05-20T09:52:21Z"
     }
   ]
 }

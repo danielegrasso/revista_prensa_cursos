@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: El informe de los economistas de élite catalanes que no ha gustado a ningún partido de Cataluña: La productividad es el talón de Aquiles de la economía catalana. Y de la española. Un grupo de economistas señalas al turismo y a la industria cárnica y piden cambiar el modelo; Hacienda trató de cazar a Shakira siguiendo el rastro del inicio de su relación con Piqué: La Agencia Tributaria defendía que en 2011 ya se había producido el inicio de una residencia de la cantante en España ya que &quot;mantenía una relación sentimental con un residente&quot; nacional; Internacional: Con las cumbres de Trump y Putin, Xi quiere mostrar su papel diplomático en un panorama geopolítico fragmentado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-19T10:04:28Z",
+  "summary": "Resumen del día en El Confidencial: Los chistes de rumanos con los que arrasan estos 'influencers' riéndose de sí mismos: Con una diáspora de más de medio millón de personas, los rumanos afincados en España se hacen un hueco en redes. El Confidencial charla con Bianca Kovacs, Valeriu Valentin (&quot;Truco Rumano&quot;) y Alex Rosu sobre bromas y prejuicios; Impugnado el plan Bolaños para el juez español del TEDH por falta de transparencia: El abogado Leonardo Cervera impugna en la Audiencia Nacional que las bases son confusas y no respetan &quot;los criterios efectivos de selección&quot;. El Consejo de Europa, que tomará la decisión, advierte de la politización del proceso; Jubilación: El abogado laboralista Ignacio Solsona explica los años cotizados, la edad mínima y las condiciones que debe cumplir el trabajador para acceder a esta modalidad. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-20T09:52:24Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El informe de los economistas de élite catalanes que no ha gustado a ningún partido de Cataluña",
-      "subtitle": "La productividad es el talón de Aquiles de la economía catalana. Y de la española. Un grupo de economistas señalas al turismo y a la industria cárnica y piden cambiar el modelo",
-      "url": "https://www.elconfidencial.com/economia/2026-05-19/informe-economista-candidato-nobel-incomoda_4357145/",
-      "scraped_at": "2026-05-19T10:04:27Z"
+      "title": "Los chistes de rumanos con los que arrasan estos 'influencers' riéndose de sí mismos",
+      "subtitle": "Con una diáspora de más de medio millón de personas, los rumanos afincados en España se hacen un hueco en redes. El Confidencial charla con Bianca Kovacs, Valeriu Valentin (&quot;Truco Rumano&quot;) y Alex Rosu sobre bromas y prejuicios",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-20/humor-inmigracion-rumanos-espana-1hms-cbtrntrv_4356784/",
+      "scraped_at": "2026-05-20T09:52:23Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Hacienda trató de cazar a Shakira siguiendo el rastro del inicio de su relación con Piqué",
-      "subtitle": "La Agencia Tributaria defendía que en 2011 ya se había producido el inicio de una residencia de la cantante en España ya que &quot;mantenía una relación sentimental con un residente&quot; nacional",
-      "url": "https://www.elconfidencial.com/espana/2026-05-19/hacienda-cazar-shakira-rastro-inicios-relacion-pique_4357111/",
-      "scraped_at": "2026-05-19T10:04:28Z"
+      "title": "Impugnado el plan Bolaños para el juez español del TEDH por falta de transparencia",
+      "subtitle": "El abogado Leonardo Cervera impugna en la Audiencia Nacional que las bases son confusas y no respetan &quot;los criterios efectivos de selección&quot;. El Consejo de Europa, que tomará la decisión, advierte de la politización del proceso",
+      "url": "https://www.elconfidencial.com/espana/2026-05-20/plan-bolanos-elegir-juez-espanol-estrasburgo-impugnado-tribunales-falta-transparencia_4357865/",
+      "scraped_at": "2026-05-20T09:52:24Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Internacional",
-      "subtitle": "Con las cumbres de Trump y Putin, Xi quiere mostrar su papel diplomático en un panorama geopolítico fragmentado",
-      "url": "https://www.elconfidencial.com/mundo/",
-      "scraped_at": "2026-05-19T10:04:28Z"
+      "title": "Jubilación",
+      "subtitle": "El abogado laboralista Ignacio Solsona explica los años cotizados, la edad mínima y las condiciones que debe cumplir el trabajador para acceder a esta modalidad",
+      "url": "https://www.elconfidencial.com/economia/2026-05-16/ignacio-solsona-abogado-cotizas-38-5-anos_4355180/",
+      "scraped_at": "2026-05-20T09:52:24Z"
     }
   ]
 }
