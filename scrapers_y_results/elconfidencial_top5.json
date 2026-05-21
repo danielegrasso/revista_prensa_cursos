@@ -1,28 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los chistes de rumanos con los que arrasan estos 'influencers' riéndose de sí mismos: Con una diáspora de más de medio millón de personas, los rumanos afincados en España se hacen un hueco en redes. El Confidencial charla con Bianca Kovacs, Valeriu Valentin (&quot;Truco Rumano&quot;) y Alex Rosu sobre bromas y prejuicios; Impugnado el plan Bolaños para el juez español del TEDH por falta de transparencia: El abogado Leonardo Cervera impugna en la Audiencia Nacional que las bases son confusas y no respetan &quot;los criterios efectivos de selección&quot;. El Consejo de Europa, que tomará la decisión, advierte de la politización del proceso; Jubilación: El abogado laboralista Ignacio Solsona explica los años cotizados, la edad mínima y las condiciones que debe cumplir el trabajador para acceder a esta modalidad. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-20T09:52:24Z",
+  "summary": "Resumen del día en El Confidencial: Klopp y Haaland, los dos cromos para construir el Madrid ganador de Riquelme: El empresario alicantino, que será rival de Florentino Pérez en las próximas elecciones a la presidencia del Real Madrid, ya sabe con qué piezas quiere contar en el plano deportivo; \"Un estudio maravillosamente cálido\": el inolvidable documental de Werner Herzog en Disney+, a la búsqueda del elefante más grande del mundo: La película pasó por el Festival de Cine D’A de Barcelona, y sigue al naturalista sudafricano Steve Boyes en una arriesgada búsqueda por el altiplano angoleño. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-21T10:01:16Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los chistes de rumanos con los que arrasan estos 'influencers' riéndose de sí mismos",
-      "subtitle": "Con una diáspora de más de medio millón de personas, los rumanos afincados en España se hacen un hueco en redes. El Confidencial charla con Bianca Kovacs, Valeriu Valentin (&quot;Truco Rumano&quot;) y Alex Rosu sobre bromas y prejuicios",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-20/humor-inmigracion-rumanos-espana-1hms-cbtrntrv_4356784/",
-      "scraped_at": "2026-05-20T09:52:23Z"
+      "title": "Klopp y Haaland, los dos cromos para construir el Madrid ganador de Riquelme",
+      "subtitle": "El empresario alicantino, que será rival de Florentino Pérez en las próximas elecciones a la presidencia del Real Madrid, ya sabe con qué piezas quiere contar en el plano deportivo",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-05-21/enrique-riquelme-real-madrid-proyecto-deportivo-haaland-fichaje-klopp_4358572/",
+      "scraped_at": "2026-05-21T10:01:16Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Impugnado el plan Bolaños para el juez español del TEDH por falta de transparencia",
-      "subtitle": "El abogado Leonardo Cervera impugna en la Audiencia Nacional que las bases son confusas y no respetan &quot;los criterios efectivos de selección&quot;. El Consejo de Europa, que tomará la decisión, advierte de la politización del proceso",
-      "url": "https://www.elconfidencial.com/espana/2026-05-20/plan-bolanos-elegir-juez-espanol-estrasburgo-impugnado-tribunales-falta-transparencia_4357865/",
-      "scraped_at": "2026-05-20T09:52:24Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Jubilación",
-      "subtitle": "El abogado laboralista Ignacio Solsona explica los años cotizados, la edad mínima y las condiciones que debe cumplir el trabajador para acceder a esta modalidad",
-      "url": "https://www.elconfidencial.com/economia/2026-05-16/ignacio-solsona-abogado-cotizas-38-5-anos_4355180/",
-      "scraped_at": "2026-05-20T09:52:24Z"
+      "title": "\"Un estudio maravillosamente cálido\": el inolvidable documental de Werner Herzog en Disney+, a la búsqueda del elefante más grande del mundo",
+      "subtitle": "La película pasó por el Festival de Cine D’A de Barcelona, y sigue al naturalista sudafricano Steve Boyes en una arriesgada búsqueda por el altiplano angoleño",
+      "url": "https://www.elconfidencial.com/cultura/cine/2026-05-21/documental-werner-herzog-disney-elefantes-1qrt_4357408/",
+      "scraped_at": "2026-05-21T10:01:16Z"
     }
   ]
 }
