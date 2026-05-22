@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: EE.UU. aporta información clave a España sobre la trama de Zapatero: La Fiscalía norteamericana ha proporcionado información esencial sobre comunicaciones telefónicas, o transferencias bancarias entre algunos de los investigados; El expresidente se reunió con el ministro Escrivá por la deuda de Plus Ultra con la Seguridad Social: El exsecretario de Estado de Transportes, Pedro Saura, también recibió al presidente y el CEO de la aerolínea por «altas recomendaciones»; El Gobierno releva al juez clave para perseguir delitos en Francia y Suiza, donde se destapó el caso: No ha cumplido ni dos años de mandato en un destino crucial en la lucha contra la delincuencia económica. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-21T10:01:13Z",
+  "summary": "Resumen del día en ABC.es: Un socialista madrileño que certifica alimentos 'halal', enlace de la trama de Zapatero en Dubái: Tomás Guerrero, experto en «fondos soberanos», fue la persona a la que recurrió el expresidente para abrir una sociedad instrumental en la zona franca del emirato; La trama de Zapatero intentó un 'pelotazo' urbanístico de 2.000 millones de euros en Cataluña: El proyecto, que se iba a desarrollar en Tarragona, fue motivo de discusión política porque el PSE exigió a Pere Aragonès que se llevara a cabo; El Congreso invitará a Zapatero al discurso del Papa ante el Parlamento: Las credenciales todavía no se han cursado, pero se enviarán a todos los expresidentes del Gobierno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-22T09:48:00Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "EE.UU. aporta información clave a España sobre la trama de Zapatero",
-      "subtitle": "La Fiscalía norteamericana ha proporcionado información esencial sobre comunicaciones telefónicas, o transferencias bancarias entre algunos de los investigados",
-      "url": "https://www.abc.es/internacional/eeuu-coopero-policia-seguir-pista-zapatero-venezuela-20260518022112-nt.html",
-      "scraped_at": "2026-05-21T10:01:12Z"
+      "title": "Un socialista madrileño que certifica alimentos 'halal', enlace de la trama de Zapatero en Dubái",
+      "subtitle": "Tomás Guerrero, experto en «fondos soberanos», fue la persona a la que recurrió el expresidente para abrir una sociedad instrumental en la zona franca del emirato",
+      "url": "https://www.abc.es/espana/socialista-getafe-certifica-alimentos-halal-enlace-trama-20260522020619-nt.html",
+      "scraped_at": "2026-05-22T09:47:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "El expresidente se reunió con el ministro Escrivá por la deuda de Plus Ultra con la Seguridad Social",
-      "subtitle": "El exsecretario de Estado de Transportes, Pedro Saura, también recibió al presidente y el CEO de la aerolínea por «altas recomendaciones»",
-      "url": "https://www.abc.es/espana/juez-recoge-mensaje-situa-zapatero-escriva-reunidos-20260520022330-nt.html",
-      "scraped_at": "2026-05-21T10:01:12Z"
+      "title": "La trama de Zapatero intentó un 'pelotazo' urbanístico de 2.000 millones de euros en Cataluña",
+      "subtitle": "El proyecto, que se iba a desarrollar en Tarragona, fue motivo de discusión política porque el PSE exigió a Pere Aragonès que se llevara a cabo",
+      "url": "https://www.abc.es/espana/trama-zapatero-busco-pelotazo-2000-millones-euros-20260522020638-nt.html",
+      "scraped_at": "2026-05-22T09:47:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno releva al juez clave para perseguir delitos en Francia y Suiza, donde se destapó el caso",
-      "subtitle": "No ha cumplido ni dos años de mandato en un destino crucial en la lucha contra la delincuencia económica",
-      "url": "https://www.abc.es/espana/gobierno-releva-sorpresa-juez-clave-perseguir-delitos-20260520022434-nt.html",
-      "scraped_at": "2026-05-21T10:01:12Z"
+      "title": "El Congreso invitará a Zapatero al discurso del Papa ante el Parlamento",
+      "subtitle": "Las credenciales todavía no se han cursado, pero se enviarán a todos los expresidentes del Gobierno",
+      "url": "https://www.abc.es/espana/congreso-invitara-zapatero-discurso-papa-ante-parlamento-20260522020647-nt.html",
+      "scraped_at": "2026-05-22T09:48:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez se ata a Zapatero, pero el PSOE niega en privado el 'lawfare'",
-      "subtitle": "La Moncloa reconoce que se precipitó, porque el auto es «serio», aunque subraya que «no tiene pruebas»",
-      "url": "https://www.abc.es/espana/sanchez-ata-zapatero-psoe-advierten-puede-final-20260521022537-nt.html",
-      "scraped_at": "2026-05-21T10:01:12Z"
+      "title": "Gertrudis Alcázar, la sombra de Zapatero ahora imputada: «Era mucho más que una secretaria»",
+      "subtitle": "A la mano derecha del expresidente, que formó parte de la Ejecutiva del Partido Socialista de Madrid, se le atribuye una gran influencia sobre su jefe al que acompaña desde antes de Moncloa",
+      "url": "https://www.abc.es/espana/gertrudis-alcazar-sombra-zapatero-imputada-era-secretaria-20260522020711-nt.html",
+      "scraped_at": "2026-05-22T09:48:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Tribunal Constitucional recuerda su aval al plan de Barcelona para prohibir los pisos turísticos en 2028",
-      "subtitle": "La ciudad no renovará las licencias de más de 10.000 apartamentos para frenar la subida de los alquileres y priorizar el derecho a la vivienda",
-      "url": "https://www.cope.es/actualidad/sociedad/noticias/tribunal-constitucional-recuerda-aval-plan-barcelona-prohibir-pisos-turisticos-2028-20260521_3368670.html",
-      "scraped_at": "2026-05-21T10:01:13Z"
+      "title": "Sebastián Ramírez, abogado: «Cuando estás de baja médica cobras desde el día siguiente al hecho causante el 75%»",
+      "subtitle": "Un experto legal detalla la cuantía que te corresponde según si el origen de tu incapacidad temporal es una enfermedad común o un accidente de trabajo",
+      "url": "https://www.cope.es/actualidad/economia/noticias/sebastian-ramirez-abogado-laboralista-baja-medica-cobras-dia-siguiente-hecho-causante-75-base-reguladora-accidente-20260522_3357820.html",
+      "scraped_at": "2026-05-22T09:48:00Z"
     }
   ]
 }

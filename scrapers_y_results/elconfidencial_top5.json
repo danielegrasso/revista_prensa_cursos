@@ -1,21 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Klopp y Haaland, los dos cromos para construir el Madrid ganador de Riquelme: El empresario alicantino, que será rival de Florentino Pérez en las próximas elecciones a la presidencia del Real Madrid, ya sabe con qué piezas quiere contar en el plano deportivo; \"Un estudio maravillosamente cálido\": el inolvidable documental de Werner Herzog en Disney+, a la búsqueda del elefante más grande del mundo: La película pasó por el Festival de Cine D’A de Barcelona, y sigue al naturalista sudafricano Steve Boyes en una arriesgada búsqueda por el altiplano angoleño. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-21T10:01:16Z",
+  "summary": "Resumen del día en El Confidencial: Bienvenido a casa de nuevo, Mr. Putin: la UE explora un acercamiento: La guerra interminable en Ucrania está generando un nuevo contexto. Europa, por primera vez desde el comienzo de la invasión, está explorando los primeros contactos con Moscú. Algunas sanciones se han levantado temporalmente; EEUU prepara el golpe final en Cuba: los pasos de Trump tras la acusación contra Castro: Washington ha incrementado sus vuelos de reconocimiento sobre Cuba, ha alertado sobre la amenaza de la compra de drones militares y ha acusado a Raúl Castro de asesinato y conspiración; \"Quiero desheredar a mi hijo\": el laberinto legal en el que entran cada vez más familias: Cada vez más personas, motivadas por una mala relación con sus hijos, se plantean la desheredación en España. Una decisión que despierta dilemas éticos, legales y emocionales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-22T09:48:06Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Klopp y Haaland, los dos cromos para construir el Madrid ganador de Riquelme",
-      "subtitle": "El empresario alicantino, que será rival de Florentino Pérez en las próximas elecciones a la presidencia del Real Madrid, ya sabe con qué piezas quiere contar en el plano deportivo",
-      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-05-21/enrique-riquelme-real-madrid-proyecto-deportivo-haaland-fichaje-klopp_4358572/",
-      "scraped_at": "2026-05-21T10:01:16Z"
+      "title": "Bienvenido a casa de nuevo, Mr. Putin: la UE explora un acercamiento",
+      "subtitle": "La guerra interminable en Ucrania está generando un nuevo contexto. Europa, por primera vez desde el comienzo de la invasión, está explorando los primeros contactos con Moscú. Algunas sanciones se han levantado temporalmente",
+      "url": "https://www.elconfidencial.com/economia/2026-05-22/rusia-eeuu-ucrania-putin-trump-moratinos-lavrov-xi-jinping_4359350/",
+      "scraped_at": "2026-05-22T09:48:05Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Un estudio maravillosamente cálido\": el inolvidable documental de Werner Herzog en Disney+, a la búsqueda del elefante más grande del mundo",
-      "subtitle": "La película pasó por el Festival de Cine D’A de Barcelona, y sigue al naturalista sudafricano Steve Boyes en una arriesgada búsqueda por el altiplano angoleño",
-      "url": "https://www.elconfidencial.com/cultura/cine/2026-05-21/documental-werner-herzog-disney-elefantes-1qrt_4357408/",
-      "scraped_at": "2026-05-21T10:01:16Z"
+      "title": "EEUU prepara el golpe final en Cuba: los pasos de Trump tras la acusación contra Castro",
+      "subtitle": "Washington ha incrementado sus vuelos de reconocimiento sobre Cuba, ha alertado sobre la amenaza de la compra de drones militares y ha acusado a Raúl Castro de asesinato y conspiración",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-22/duras-o-maduras-senales-eeuu-se-prepara-para-su-golpe-final-en-cuba_4359308/",
+      "scraped_at": "2026-05-22T09:48:05Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"Quiero desheredar a mi hijo\": el laberinto legal en el que entran cada vez más familias",
+      "subtitle": "Cada vez más personas, motivadas por una mala relación con sus hijos, se plantean la desheredación en España. Una decisión que despierta dilemas éticos, legales y emocionales",
+      "url": "https://www.elconfidencial.com/espana/2026-05-22/quiero-desheredar-hijo-laberinto-legal-familias_4356877/",
+      "scraped_at": "2026-05-22T09:48:05Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El FMI da un tirón de orejas a España por la lentitud en la construcción de vivienda",
+      "subtitle": "La crisis española de la vivienda llega hasta el FMI, quien advierte que existen problemas legales y burocráticos que frenan la construcción de vivienda y generan una gran inseguridad jurídica",
+      "url": "https://www.elconfidencial.com/economia/2026-05-22/fmi-tiron-orejas-espana-lentitud-construccion-vivienda_4359633/",
+      "scraped_at": "2026-05-22T09:48:06Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El Gobierno desguaza la Guardia Civil en Cataluña: ahora, la unidad del Mar",
+      "subtitle": "El ministerio eliminará la histórica base del GEAS en l’Estartit, en la Costa Brava, tras haber hecho lo propio con el Seprona en la región. La salida del Instituto Armado es una reivindicación histórica del independentismo",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-05-22/interior-desguaza-guardia-civil-cataluna-desmantela-unidad-mar_4359321/",
+      "scraped_at": "2026-05-22T09:48:06Z"
     }
   ]
 }
