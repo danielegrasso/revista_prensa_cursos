@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Bienvenido a casa de nuevo, Mr. Putin: la UE explora un acercamiento: La guerra interminable en Ucrania está generando un nuevo contexto. Europa, por primera vez desde el comienzo de la invasión, está explorando los primeros contactos con Moscú. Algunas sanciones se han levantado temporalmente; EEUU prepara el golpe final en Cuba: los pasos de Trump tras la acusación contra Castro: Washington ha incrementado sus vuelos de reconocimiento sobre Cuba, ha alertado sobre la amenaza de la compra de drones militares y ha acusado a Raúl Castro de asesinato y conspiración; \"Quiero desheredar a mi hijo\": el laberinto legal en el que entran cada vez más familias: Cada vez más personas, motivadas por una mala relación con sus hijos, se plantean la desheredación en España. Una decisión que despierta dilemas éticos, legales y emocionales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-22T09:48:06Z",
+  "summary": "Resumen del día en El Confidencial: Pisos turísticos, obra nueva y sintecho: el Gobierno 'transfiere'  el problema de la vivienda a las CCAA: Tras años de guerra de titulares por ver quien era más abanderado de la vivienda, se abre otra etapa. Las CCAA tienen los fondos y la competencia para combatir la crisis habitacional; Bad Bunny arrasa en su primera fecha europea en el Estadi Olímpic de Barcelona: Bad Bunny inaugura en Barcelona la pierna europea de su gira mundial DeBÍ TiRAR MáS FOToS World Tour ante más de 50.000 personas, con un show de casi tres horas, reivindicación latina y Bad Gyal como primera gran invitada de la noche; Rufián, el verso libre de ERC que busca ser un tótem de la izquierda española: Sus opciones de liderar una candidatura global a la izquierda del PSOE son escasas, pero él ya ha ganado: su marca personal crece en un espacio político carente de referentes, aún más tras la caída de Zapatero. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-23T08:30:06Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Bienvenido a casa de nuevo, Mr. Putin: la UE explora un acercamiento",
-      "subtitle": "La guerra interminable en Ucrania está generando un nuevo contexto. Europa, por primera vez desde el comienzo de la invasión, está explorando los primeros contactos con Moscú. Algunas sanciones se han levantado temporalmente",
-      "url": "https://www.elconfidencial.com/economia/2026-05-22/rusia-eeuu-ucrania-putin-trump-moratinos-lavrov-xi-jinping_4359350/",
-      "scraped_at": "2026-05-22T09:48:05Z"
+      "title": "Pisos turísticos, obra nueva y sintecho: el Gobierno 'transfiere'  el problema de la vivienda a las CCAA",
+      "subtitle": "Tras años de guerra de titulares por ver quien era más abanderado de la vivienda, se abre otra etapa. Las CCAA tienen los fondos y la competencia para combatir la crisis habitacional",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-23/vivienda-tercer-sector-plan-estatal_4360013/",
+      "scraped_at": "2026-05-23T08:30:04Z"
     },
     {
       "source": "El Confidencial",
-      "title": "EEUU prepara el golpe final en Cuba: los pasos de Trump tras la acusación contra Castro",
-      "subtitle": "Washington ha incrementado sus vuelos de reconocimiento sobre Cuba, ha alertado sobre la amenaza de la compra de drones militares y ha acusado a Raúl Castro de asesinato y conspiración",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-22/duras-o-maduras-senales-eeuu-se-prepara-para-su-golpe-final-en-cuba_4359308/",
-      "scraped_at": "2026-05-22T09:48:05Z"
+      "title": "Bad Bunny arrasa en su primera fecha europea en el Estadi Olímpic de Barcelona",
+      "subtitle": "Bad Bunny inaugura en Barcelona la pierna europea de su gira mundial DeBÍ TiRAR MáS FOToS World Tour ante más de 50.000 personas, con un show de casi tres horas, reivindicación latina y Bad Gyal como primera gran invitada de la noche",
+      "url": "https://www.elconfidencial.com/cultura/2026-05-23/bad-bunny-barcelona-concierto-2026-1hms_4360269/",
+      "scraped_at": "2026-05-23T08:30:04Z"
     },
     {
       "source": "El Confidencial",
-      "title": "\"Quiero desheredar a mi hijo\": el laberinto legal en el que entran cada vez más familias",
-      "subtitle": "Cada vez más personas, motivadas por una mala relación con sus hijos, se plantean la desheredación en España. Una decisión que despierta dilemas éticos, legales y emocionales",
-      "url": "https://www.elconfidencial.com/espana/2026-05-22/quiero-desheredar-hijo-laberinto-legal-familias_4356877/",
-      "scraped_at": "2026-05-22T09:48:05Z"
+      "title": "Rufián, el verso libre de ERC que busca ser un tótem de la izquierda española",
+      "subtitle": "Sus opciones de liderar una candidatura global a la izquierda del PSOE son escasas, pero él ya ha ganado: su marca personal crece en un espacio político carente de referentes, aún más tras la caída de Zapatero",
+      "url": "https://www.elconfidencial.com/espana/2026-05-23/gabriel-rufian-verso-libre-erc-totem-izquierda-espanola_4360253/",
+      "scraped_at": "2026-05-23T08:30:05Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El FMI da un tirón de orejas a España por la lentitud en la construcción de vivienda",
-      "subtitle": "La crisis española de la vivienda llega hasta el FMI, quien advierte que existen problemas legales y burocráticos que frenan la construcción de vivienda y generan una gran inseguridad jurídica",
-      "url": "https://www.elconfidencial.com/economia/2026-05-22/fmi-tiron-orejas-espana-lentitud-construccion-vivienda_4359633/",
-      "scraped_at": "2026-05-22T09:48:06Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "El Gobierno desguaza la Guardia Civil en Cataluña: ahora, la unidad del Mar",
-      "subtitle": "El ministerio eliminará la histórica base del GEAS en l’Estartit, en la Costa Brava, tras haber hecho lo propio con el Seprona en la región. La salida del Instituto Armado es una reivindicación histórica del independentismo",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-05-22/interior-desguaza-guardia-civil-cataluna-desmantela-unidad-mar_4359321/",
-      "scraped_at": "2026-05-22T09:48:06Z"
+      "title": "José Antonio Zarzalejos",
+      "subtitle": "El verdadero 'Efecto ZP' alcanza de lleno al PSOE, al que el expresidente asesta una puñalada mortal. Y a Sánchez, su mentor, que ha tenido la rara 'habilidad' de rodearse de presuntos delincuentes. Es la degradación del poder",
+      "url": "https://www.elconfidencial.com/espana/notebook/",
+      "scraped_at": "2026-05-23T08:30:06Z"
     }
   ]
 }
