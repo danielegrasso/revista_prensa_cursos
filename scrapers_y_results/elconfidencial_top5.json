@@ -1,28 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: Solo hay 115 coches de hidrógeno en España: la eterna promesa sigue sin arrancar: La crisis del petróleo de los años 70 popularizó la idea de que el coche de hidrógeno iba a ser la solución a los problemas energéticos. 50 años después aún se espera su despegue; Fortunas de Oriente Medio buscan 'mansiones refugio' en la Costa del Sol por la guerra: Familias y empresarios de Emiratos Árabes, Catar, Arabia Saudí, Kuwait e Irán buscan un entorno seguro ante el conflicto en la región. Firmas inmobiliarias aprecian un repunte de clientes de un 30%; Quiénes somos: Hace 25 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-24T08:43:47Z",
+  "summary": "Resumen del día en El Confidencial: Así será el menú del día en los restaurantes dentro de diez años (si es que aún existe): Hay quien vaticina la muerte del menú, pero aún funciona: solo necesita retoques. Hacemos un ejercicio de periodismo ficción para saber qué, cómo, cuándo y por cuánto comeremos; Amenabar, la promotora que conquistó el norte, dobla apuesta por el sureste: La promotora vasca ha sido uno de los grandes protagonistas de todos los nuevos ámbitos del norte de Madrid y, ahora, apuesta con fuerzas por el sur con otra compra en Berrocales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-25T10:45:37Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Solo hay 115 coches de hidrógeno en España: la eterna promesa sigue sin arrancar",
-      "subtitle": "La crisis del petróleo de los años 70 popularizó la idea de que el coche de hidrógeno iba a ser la solución a los problemas energéticos. 50 años después aún se espera su despegue",
-      "url": "https://www.elconfidencial.com/economia/2026-05-24/coches-espana-funcionan-hidrogeno-promesa-energia-sigue-sin-arrancar_4357740/",
-      "scraped_at": "2026-05-24T08:43:46Z"
+      "title": "Así será el menú del día en los restaurantes dentro de diez años (si es que aún existe)",
+      "subtitle": "Hay quien vaticina la muerte del menú, pero aún funciona: solo necesita retoques. Hacemos un ejercicio de periodismo ficción para saber qué, cómo, cuándo y por cuánto comeremos",
+      "url": "https://www.elconfidencial.com/espana/2026-05-25/asi-sera-menu-dia-diez-anos-si-aun-existe_4360110/",
+      "scraped_at": "2026-05-25T10:45:37Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Fortunas de Oriente Medio buscan 'mansiones refugio' en la Costa del Sol por la guerra",
-      "subtitle": "Familias y empresarios de Emiratos Árabes, Catar, Arabia Saudí, Kuwait e Irán buscan un entorno seguro ante el conflicto en la región. Firmas inmobiliarias aprecian un repunte de clientes de un 30%",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-05-24/fortunas-de-oriente-medio-buscan-mansiones-refugio-en-la-costa-del-sol-por-la-guerra_4358309/",
-      "scraped_at": "2026-05-24T08:43:47Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Quiénes somos",
-      "subtitle": "Hace 25 años se creó El Confidencial con el propósito de defender el derecho de los ciudadanos a saber la verdad. Hoy, ese principio es más necesario que nunca.",
-      "url": "https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/",
-      "scraped_at": "2026-05-24T08:43:47Z"
+      "title": "Amenabar, la promotora que conquistó el norte, dobla apuesta por el sureste",
+      "subtitle": "La promotora vasca ha sido uno de los grandes protagonistas de todos los nuevos ámbitos del norte de Madrid y, ahora, apuesta con fuerzas por el sur con otra compra en Berrocales",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-25/obra-nueva-amenabar-berrocales_4360268/",
+      "scraped_at": "2026-05-25T10:45:37Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para entregárselos en mano antes de que aterrice en Madrid; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; La UDEF detecta que Zapatero canceló de golpe una hipoteca de medio millón de euros: Los agentes analizaron las cuentas del expresidente del Gobierno y su familia, en las que recibieron los fondos del asesor de Plus Ultra, Julio Martínez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-24T08:43:42Z",
+  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; La exmujer de un hombre fuerte de Sánchez aparece relacionada con el 'think tank' de Zapatero: La UDEF destaca un pago a un 'lobby' prochino que compartía con la entonces pareja de Manuel de la Rocha, asesor económico del presidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-25T10:45:33Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
       "title": "Envía tu mensaje al Papa",
-      "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para entregárselos en mano antes de que aterrice en Madrid",
+      "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
       "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-05-24T08:43:41Z"
+      "scraped_at": "2026-05-25T10:45:33Z"
     },
     {
       "source": "ABC.es",
       "title": "Agenda completa",
       "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
       "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-05-24T08:43:41Z"
+      "scraped_at": "2026-05-25T10:45:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UDEF detecta que Zapatero canceló de golpe una hipoteca de medio millón de euros",
-      "subtitle": "Los agentes analizaron las cuentas del expresidente del Gobierno y su familia, en las que recibieron los fondos del asesor de Plus Ultra, Julio Martínez",
-      "url": "https://www.abc.es/espana/udef-detecta-zapatero-cancelo-anticipadamente-hipoteca-medio-20260523214210-nt.html",
-      "scraped_at": "2026-05-24T08:43:42Z"
+      "title": "La exmujer de un hombre fuerte de Sánchez aparece relacionada con el 'think tank' de Zapatero",
+      "subtitle": "La UDEF destaca un pago a un 'lobby' prochino que compartía con la entonces pareja de Manuel de la Rocha, asesor económico del presidente",
+      "url": "https://www.abc.es/espana/mujer-hombres-fuertes-sanchez-trabajo-think-tank-20260525023115-nt.html",
+      "scraped_at": "2026-05-25T10:45:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez se aferra al Papa para pasar página de los escándalos",
-      "subtitle": "El Gobierno exhibe sintonía con León XIV en la visión de la inmigración y su postura contra la guerra en Irán para tratar de retratar al PP y huir de la dinámica nacional",
-      "url": "https://www.abc.es/espana/sanchez-aferra-papa-pasar-pagina-escandalos-20260524025105-nt.html",
-      "scraped_at": "2026-05-24T08:43:42Z"
+      "title": "La SEPI eliminó documentos del rescate de Plus Ultra tras el comienzo de la investigación",
+      "subtitle": "La UDEF destacó que los responsables de la empresa pública entregaron «carpetas vacías» de los informes relativos al seguimiento del rescate anteriores a 2025 y otros archivos sin poder ser abiertos",
+      "url": "https://www.abc.es/espana/sepi-elimino-documentos-rescate-plus-ultra-tras-20260524180419-nt.html",
+      "scraped_at": "2026-05-25T10:45:33Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-24T08:43:42Z"
+      "scraped_at": "2026-05-25T10:45:33Z"
     }
   ]
 }
