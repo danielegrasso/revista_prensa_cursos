@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; La exmujer de un hombre fuerte de Sánchez aparece relacionada con el 'think tank' de Zapatero: La UDEF destaca un pago a un 'lobby' prochino que compartía con la entonces pareja de Manuel de la Rocha, asesor económico del presidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-25T10:45:33Z",
+  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; Las notas del amigo de Zapatero sobre cargos socialistas y Huawei cercaron al expresidente: La UDEF sospechaba ya desde el primer informe que Julio Martínez Martínez tenía detrás una personalidad influyente como José Luis Rodríguez Zapatero. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-26T10:16:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Envía tu mensaje al Papa",
       "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
       "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-05-25T10:45:33Z"
+      "scraped_at": "2026-05-26T10:16:39Z"
     },
     {
       "source": "ABC.es",
       "title": "Agenda completa",
       "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
       "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-05-25T10:45:33Z"
+      "scraped_at": "2026-05-26T10:16:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "La exmujer de un hombre fuerte de Sánchez aparece relacionada con el 'think tank' de Zapatero",
-      "subtitle": "La UDEF destaca un pago a un 'lobby' prochino que compartía con la entonces pareja de Manuel de la Rocha, asesor económico del presidente",
-      "url": "https://www.abc.es/espana/mujer-hombres-fuertes-sanchez-trabajo-think-tank-20260525023115-nt.html",
-      "scraped_at": "2026-05-25T10:45:33Z"
+      "title": "Las notas del amigo de Zapatero sobre cargos socialistas y Huawei cercaron al expresidente",
+      "subtitle": "La UDEF sospechaba ya desde el primer informe que Julio Martínez Martínez tenía detrás una personalidad influyente como José Luis Rodríguez Zapatero",
+      "url": "https://www.abc.es/espana/notas-amigo-zapatero-sobre-cargos-socialistas-huawei-20260526014128-nt.html",
+      "scraped_at": "2026-05-26T10:16:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "La SEPI eliminó documentos del rescate de Plus Ultra tras el comienzo de la investigación",
-      "subtitle": "La UDEF destacó que los responsables de la empresa pública entregaron «carpetas vacías» de los informes relativos al seguimiento del rescate anteriores a 2025 y otros archivos sin poder ser abiertos",
-      "url": "https://www.abc.es/espana/sepi-elimino-documentos-rescate-plus-ultra-tras-20260524180419-nt.html",
-      "scraped_at": "2026-05-25T10:45:33Z"
+      "title": "Puigdemont se une al PNV y aprieta al PSOE por el escándalo",
+      "subtitle": "Dirigentes de ambos partidos intensifican los contactos a medida que se van conociendo más detalles sobre la presunta corrupción del expresidente socialista",
+      "url": "https://www.abc.es/espana/puigdemont-une-pnv-aprieta-psoe-escandalo-zapatero-20260526014148-nt.html",
+      "scraped_at": "2026-05-26T10:16:39Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-25T10:45:33Z"
+      "scraped_at": "2026-05-26T10:16:39Z"
     }
   ]
 }

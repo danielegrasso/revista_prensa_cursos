@@ -1,21 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Así será el menú del día en los restaurantes dentro de diez años (si es que aún existe): Hay quien vaticina la muerte del menú, pero aún funciona: solo necesita retoques. Hacemos un ejercicio de periodismo ficción para saber qué, cómo, cuándo y por cuánto comeremos; Amenabar, la promotora que conquistó el norte, dobla apuesta por el sureste: La promotora vasca ha sido uno de los grandes protagonistas de todos los nuevos ámbitos del norte de Madrid y, ahora, apuesta con fuerzas por el sur con otra compra en Berrocales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-25T10:45:37Z",
+  "summary": "Resumen del día en El Confidencial: Alcaldes del PSOE riegan con decenas de contratos 'a dedo' a la exsecretaria general de Vivienda: Helena Beunza, secretaria de Vivienda hasta su relevo por David Lucas y actual presidenta de Asval, suma 68 contratos menores que le han permitido facturar 780.000 euros; El Gobierno concede una licencia de TDT al grupo de rebeldes de Prisa: El concurso está encabezado por los empresarios que apoyaron la puesta en marcha de ese canal de televisión dentro del Grupo Prisa; Eurovision: La gran triunfadora de Eurovisión 2026, la búlgara Dara, ha causado un enorme revuelo internacional al confesar que una emblemática cantante española fue la gran inspiración que despertó su sueño musical en la infancia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-26T10:16:44Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Así será el menú del día en los restaurantes dentro de diez años (si es que aún existe)",
-      "subtitle": "Hay quien vaticina la muerte del menú, pero aún funciona: solo necesita retoques. Hacemos un ejercicio de periodismo ficción para saber qué, cómo, cuándo y por cuánto comeremos",
-      "url": "https://www.elconfidencial.com/espana/2026-05-25/asi-sera-menu-dia-diez-anos-si-aun-existe_4360110/",
-      "scraped_at": "2026-05-25T10:45:37Z"
+      "title": "Alcaldes del PSOE riegan con decenas de contratos 'a dedo' a la exsecretaria general de Vivienda",
+      "subtitle": "Helena Beunza, secretaria de Vivienda hasta su relevo por David Lucas y actual presidenta de Asval, suma 68 contratos menores que le han permitido facturar 780.000 euros",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-26/helena-beunza-consultora-asval-contratos_4361293/",
+      "scraped_at": "2026-05-26T10:16:44Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Amenabar, la promotora que conquistó el norte, dobla apuesta por el sureste",
-      "subtitle": "La promotora vasca ha sido uno de los grandes protagonistas de todos los nuevos ámbitos del norte de Madrid y, ahora, apuesta con fuerzas por el sur con otra compra en Berrocales",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-25/obra-nueva-amenabar-berrocales_4360268/",
-      "scraped_at": "2026-05-25T10:45:37Z"
+      "title": "El Gobierno concede una licencia de TDT al grupo de rebeldes de Prisa",
+      "subtitle": "El concurso está encabezado por los empresarios que apoyaron la puesta en marcha de ese canal de televisión dentro del Grupo Prisa",
+      "url": "https://www.elconfidencial.com/comunicacion/2026-05-26/gobierno-concede-licencia-tdt-empresarios-afines_4361584/",
+      "scraped_at": "2026-05-26T10:16:44Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Eurovision",
+      "subtitle": "La gran triunfadora de Eurovisión 2026, la búlgara Dara, ha causado un enorme revuelo internacional al confesar que una emblemática cantante española fue la gran inspiración que despertó su sueño musical en la infancia",
+      "url": "https://www.elconfidencial.com/television/eurovision/",
+      "scraped_at": "2026-05-26T10:16:44Z"
     }
   ]
 }
