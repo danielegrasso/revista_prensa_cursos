@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Alcaldes del PSOE riegan con decenas de contratos 'a dedo' a la exsecretaria general de Vivienda: Helena Beunza, secretaria de Vivienda hasta su relevo por David Lucas y actual presidenta de Asval, suma 68 contratos menores que le han permitido facturar 780.000 euros; El Gobierno concede una licencia de TDT al grupo de rebeldes de Prisa: El concurso está encabezado por los empresarios que apoyaron la puesta en marcha de ese canal de televisión dentro del Grupo Prisa; Eurovision: La gran triunfadora de Eurovisión 2026, la búlgara Dara, ha causado un enorme revuelo internacional al confesar que una emblemática cantante española fue la gran inspiración que despertó su sueño musical en la infancia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-26T10:16:44Z",
+  "summary": "Resumen del día en El Confidencial: Este economista (casi) inventó la primera cronociudad del mundo en Alemania: Hace 15 años, el consultor alemán Michael Wieden soñó con una ciudad que se organizaría respecto a nuestros ritmos biológicos. Hoy está listo para intentarlo de nuevo; Sánchez y Ayuso compiten en el Vaticano por la foto con el Papa antes de su visita a España: El presidente del Gobierno se reúne este miércoles con León XIV en la Santa Sede, cuatro días antes de que la dirigente madrileña haga lo propio. Los viajes coinciden con el terremoto político por la imputación de Zapatero; Santos Cerdán y Gaspar Zarrías,  imputados en la investigación: se están registrando sus domicilios: Santiago Pedraz manda a la UCO a Ferraz, a los domicilios del exsecrestario de Organización del partido, el histórico dirigente andaluz y el empresario Javier Pérez Dolset, colaborador de la fontanera Leire Díez. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-27T10:17:39Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Alcaldes del PSOE riegan con decenas de contratos 'a dedo' a la exsecretaria general de Vivienda",
-      "subtitle": "Helena Beunza, secretaria de Vivienda hasta su relevo por David Lucas y actual presidenta de Asval, suma 68 contratos menores que le han permitido facturar 780.000 euros",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-05-26/helena-beunza-consultora-asval-contratos_4361293/",
-      "scraped_at": "2026-05-26T10:16:44Z"
+      "title": "Este economista (casi) inventó la primera cronociudad del mundo en Alemania",
+      "subtitle": "Hace 15 años, el consultor alemán Michael Wieden soñó con una ciudad que se organizaría respecto a nuestros ritmos biológicos. Hoy está listo para intentarlo de nuevo",
+      "url": "https://www.elconfidencial.com/mundo/europa/2026-05-27/michael-wieden-cronociudad-cronobiologia_4361849/",
+      "scraped_at": "2026-05-27T10:17:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El Gobierno concede una licencia de TDT al grupo de rebeldes de Prisa",
-      "subtitle": "El concurso está encabezado por los empresarios que apoyaron la puesta en marcha de ese canal de televisión dentro del Grupo Prisa",
-      "url": "https://www.elconfidencial.com/comunicacion/2026-05-26/gobierno-concede-licencia-tdt-empresarios-afines_4361584/",
-      "scraped_at": "2026-05-26T10:16:44Z"
+      "title": "Sánchez y Ayuso compiten en el Vaticano por la foto con el Papa antes de su visita a España",
+      "subtitle": "El presidente del Gobierno se reúne este miércoles con León XIV en la Santa Sede, cuatro días antes de que la dirigente madrileña haga lo propio. Los viajes coinciden con el terremoto político por la imputación de Zapatero",
+      "url": "https://www.elconfidencial.com/espana/2026-05-27/sanchez-ayuso-pugnan-foto-papa-vaticano-visita-espana_4361869/",
+      "scraped_at": "2026-05-27T10:17:39Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Eurovision",
-      "subtitle": "La gran triunfadora de Eurovisión 2026, la búlgara Dara, ha causado un enorme revuelo internacional al confesar que una emblemática cantante española fue la gran inspiración que despertó su sueño musical en la infancia",
-      "url": "https://www.elconfidencial.com/television/eurovision/",
-      "scraped_at": "2026-05-26T10:16:44Z"
+      "title": "Santos Cerdán y Gaspar Zarrías,  imputados en la investigación: se están registrando sus domicilios",
+      "subtitle": "Santiago Pedraz manda a la UCO a Ferraz, a los domicilios del exsecrestario de Organización del partido, el histórico dirigente andaluz y el empresario Javier Pérez Dolset, colaborador de la fontanera Leire Díez",
+      "url": "https://www.elconfidencial.com/espana/2026-05-27/juez-imputa-cerdan-zarrias-gerente-psoe-financiacion-cloacas-psoe_4362320/",
+      "scraped_at": "2026-05-27T10:17:39Z"
     }
   ]
 }
