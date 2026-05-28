@@ -1,28 +1,28 @@
 {
-  "summary": "Resumen del día en El Confidencial: Este economista (casi) inventó la primera cronociudad del mundo en Alemania: Hace 15 años, el consultor alemán Michael Wieden soñó con una ciudad que se organizaría respecto a nuestros ritmos biológicos. Hoy está listo para intentarlo de nuevo; Sánchez y Ayuso compiten en el Vaticano por la foto con el Papa antes de su visita a España: El presidente del Gobierno se reúne este miércoles con León XIV en la Santa Sede, cuatro días antes de que la dirigente madrileña haga lo propio. Los viajes coinciden con el terremoto político por la imputación de Zapatero; Santos Cerdán y Gaspar Zarrías,  imputados en la investigación: se están registrando sus domicilios: Santiago Pedraz manda a la UCO a Ferraz, a los domicilios del exsecrestario de Organización del partido, el histórico dirigente andaluz y el empresario Javier Pérez Dolset, colaborador de la fontanera Leire Díez. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-27T10:17:39Z",
+  "summary": "Resumen del día en El Confidencial: El arqueólogo obsesionado con jeroglíficos que ha reescrito la historia de los mayas: Hijo de arqueólogos, David Stuart creció en Centroamérica. Hoy es catedrático de Arte y Escritura Mesoamericanos en la Universidad de Texas y el mayor experto en la cultura maya. En &#039;Los cuatro cielos&#039; narra la historia de ese pueblo; Intercambio de ataques entre EEUU e Irán en medio de las inestables negociaciones de paz: EEUU ha atacado esta madrugada una base iraní en Bandar Abbás, tras derribar drones sobre el estrecho de Ormuz. Irán respondió con una ofensiva a la supuesta base estadounidense donde se iniciaron los ataques previos; ¿Y si cancelamos a todos los artistas? Por qué los situacionistas tenían razón sobre el futuro: A partir de un libro de lija en un museo, realizamos un viaje por la radical propuesta de los situacionistas dirigida a acabar con el arte. ¿Qué pensarían de la cultura de la cancelación, de la IA en el arte o de la soledad en caso de estar vivos?. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-28T10:22:41Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Este economista (casi) inventó la primera cronociudad del mundo en Alemania",
-      "subtitle": "Hace 15 años, el consultor alemán Michael Wieden soñó con una ciudad que se organizaría respecto a nuestros ritmos biológicos. Hoy está listo para intentarlo de nuevo",
-      "url": "https://www.elconfidencial.com/mundo/europa/2026-05-27/michael-wieden-cronociudad-cronobiologia_4361849/",
-      "scraped_at": "2026-05-27T10:17:39Z"
+      "title": "El arqueólogo obsesionado con jeroglíficos que ha reescrito la historia de los mayas",
+      "subtitle": "Hijo de arqueólogos, David Stuart creció en Centroamérica. Hoy es catedrático de Arte y Escritura Mesoamericanos en la Universidad de Texas y el mayor experto en la cultura maya. En &#039;Los cuatro cielos&#039; narra la historia de ese pueblo",
+      "url": "https://www.elconfidencial.com/cultura/2026-05-28/entrevista-david-stuart-mayas-experto-jeroglificos-civilizacion-libro_4362385/",
+      "scraped_at": "2026-05-28T10:22:40Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Sánchez y Ayuso compiten en el Vaticano por la foto con el Papa antes de su visita a España",
-      "subtitle": "El presidente del Gobierno se reúne este miércoles con León XIV en la Santa Sede, cuatro días antes de que la dirigente madrileña haga lo propio. Los viajes coinciden con el terremoto político por la imputación de Zapatero",
-      "url": "https://www.elconfidencial.com/espana/2026-05-27/sanchez-ayuso-pugnan-foto-papa-vaticano-visita-espana_4361869/",
-      "scraped_at": "2026-05-27T10:17:39Z"
+      "title": "Intercambio de ataques entre EEUU e Irán en medio de las inestables negociaciones de paz",
+      "subtitle": "EEUU ha atacado esta madrugada una base iraní en Bandar Abbás, tras derribar drones sobre el estrecho de Ormuz. Irán respondió con una ofensiva a la supuesta base estadounidense donde se iniciaron los ataques previos",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-27/trump-dice-que-todavia-no-esta_4362677/",
+      "scraped_at": "2026-05-28T10:22:40Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Santos Cerdán y Gaspar Zarrías,  imputados en la investigación: se están registrando sus domicilios",
-      "subtitle": "Santiago Pedraz manda a la UCO a Ferraz, a los domicilios del exsecrestario de Organización del partido, el histórico dirigente andaluz y el empresario Javier Pérez Dolset, colaborador de la fontanera Leire Díez",
-      "url": "https://www.elconfidencial.com/espana/2026-05-27/juez-imputa-cerdan-zarrias-gerente-psoe-financiacion-cloacas-psoe_4362320/",
-      "scraped_at": "2026-05-27T10:17:39Z"
+      "title": "¿Y si cancelamos a todos los artistas? Por qué los situacionistas tenían razón sobre el futuro",
+      "subtitle": "A partir de un libro de lija en un museo, realizamos un viaje por la radical propuesta de los situacionistas dirigida a acabar con el arte. ¿Qué pensarían de la cultura de la cancelación, de la IA en el arte o de la soledad en caso de estar vivos?",
+      "url": "https://www.elconfidencial.com/cultura/2026-05-27/arte-guy-debord-patrick-marcolini-situacionismo_4359304/",
+      "scraped_at": "2026-05-28T10:22:41Z"
     }
   ]
 }

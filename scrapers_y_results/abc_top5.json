@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; La UCO irrumpe en Ferraz en busca de pagos a las cloacas del PSOE: Los agentes se personan en la Dirección General de la Guardia Civil para pedir información. También han registrado las viviendas de Gaspar Zarrias y de Santos Cerdán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-27T10:17:35Z",
+  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; Santos Cerdán controlaba la SEPI para orientar los expedientes y recibir beneficios: El exdirigente socialista tenía poder en el ente público gracias a Vicente Fernández y después intentó 'enchufar' a Leire Díez como jefa de gabinete de la presidenta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-28T10:22:37Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Envía tu mensaje al Papa",
       "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
       "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-05-27T10:17:34Z"
+      "scraped_at": "2026-05-28T10:22:35Z"
     },
     {
       "source": "ABC.es",
       "title": "Agenda completa",
       "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
       "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-05-27T10:17:34Z"
+      "scraped_at": "2026-05-28T10:22:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO irrumpe en Ferraz en busca de pagos a las cloacas del PSOE",
-      "subtitle": "Los agentes se personan en la Dirección General de la Guardia Civil para pedir información. También han registrado las viviendas de Gaspar Zarrias y de Santos Cerdán",
-      "url": "https://www.abc.es/espana/uco-entra-sede-psoe-ferraz-marco-investigaciones-20260527085607-nt.html",
-      "scraped_at": "2026-05-27T10:17:34Z"
+      "title": "Santos Cerdán controlaba la SEPI para orientar los expedientes y recibir beneficios",
+      "subtitle": "El exdirigente socialista tenía poder en el ente público gracias a Vicente Fernández y después intentó 'enchufar' a Leire Díez como jefa de gabinete de la presidenta",
+      "url": "https://www.abc.es/espana/santos-cerdan-controlaba-sepi-orientar-expedientes-recibir-20260527011849-nt.html",
+      "scraped_at": "2026-05-28T10:22:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO también acude a la Dirección General de la Guardia Civil y registra las viviendas de Zarrías y Cerdán",
-      "subtitle": "La UCO ha acudido a la sede del PSOE en Ferraz para requerir información sobre el 'caso Leire Díez'",
-      "url": "https://www.abc.es/espana/uco-acude-direccion-general-guardia-civil-registra-20260527121116-nt.html",
-      "scraped_at": "2026-05-27T10:17:35Z"
+      "title": "Toda la corrupción es de Sánchez",
+      "subtitle": "La acumulación de sumarios, imputaciones y diligencias judiciales compromete políticamente al presidente del Gobierno",
+      "url": "https://www.abc.es/opinion/editorial-corrupcion-sanchez-20260527212756-nt.html",
+      "scraped_at": "2026-05-28T10:22:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-27T10:17:35Z"
+      "title": "Arnau, 24, dejó Barcelona para montar una granja: «No soy autosuficiente, pero podría serlo; produzco mis vegetales»",
+      "subtitle": "Con 24 años, este joven ha cambiado el asfalto por el campo, donde produce su comida, cría animales y ha encontrado un negocio de éxito en redes...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/arnau-24-dejo-barcelona-montar-granja-no-autosuficiente-serlo-produzco-mis-vegetales-carne-caza-ingresos-elevados-vivir-asi-satisfactorio-20260528_3373245.html",
+      "scraped_at": "2026-05-28T10:22:37Z"
     }
   ]
 }
