@@ -1,28 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: El arqueólogo obsesionado con jeroglíficos que ha reescrito la historia de los mayas: Hijo de arqueólogos, David Stuart creció en Centroamérica. Hoy es catedrático de Arte y Escritura Mesoamericanos en la Universidad de Texas y el mayor experto en la cultura maya. En &#039;Los cuatro cielos&#039; narra la historia de ese pueblo; Intercambio de ataques entre EEUU e Irán en medio de las inestables negociaciones de paz: EEUU ha atacado esta madrugada una base iraní en Bandar Abbás, tras derribar drones sobre el estrecho de Ormuz. Irán respondió con una ofensiva a la supuesta base estadounidense donde se iniciaron los ataques previos; ¿Y si cancelamos a todos los artistas? Por qué los situacionistas tenían razón sobre el futuro: A partir de un libro de lija en un museo, realizamos un viaje por la radical propuesta de los situacionistas dirigida a acabar con el arte. ¿Qué pensarían de la cultura de la cancelación, de la IA en el arte o de la soledad en caso de estar vivos?. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-05-28T10:22:41Z",
+  "summary": "Resumen del día en El Confidencial: El testaferro de ZP elige como abogada a una exfiscal para explorar un acuerdo y tirar de la manta: Julio Martínez Martínez, el empresario alicantino que pagó facturas de consultoría al expresidente del Gobierno, confía su defensa a María Dolores Márquez Prado, que ejerció como fiscal en la Audiencia Nacional durante 17 años; Pedro Sánchez, abocado a declarar ante el juez todo lo que sabía de las cloacas de Ferraz: Distintas fuentes jurídicas ven inevitable que se le cite &quot;al menos&quot; como testigo y apuntan a distintas referencias al jefe del Ejecutivo en las conversaciones incautadas a la trama de la fontanera; Que te limpien la casa, un tabú para los jóvenes: \"Te sientes como una burguesa\": Externalizar la limpieza era símbolo de estatus económico, algo que ya no está tan claro. Ahora, lo hacen por salud mental, para descansar más o evitar discusiones. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-05-29T10:12:31Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El arqueólogo obsesionado con jeroglíficos que ha reescrito la historia de los mayas",
-      "subtitle": "Hijo de arqueólogos, David Stuart creció en Centroamérica. Hoy es catedrático de Arte y Escritura Mesoamericanos en la Universidad de Texas y el mayor experto en la cultura maya. En &#039;Los cuatro cielos&#039; narra la historia de ese pueblo",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-28/entrevista-david-stuart-mayas-experto-jeroglificos-civilizacion-libro_4362385/",
-      "scraped_at": "2026-05-28T10:22:40Z"
+      "title": "El testaferro de ZP elige como abogada a una exfiscal para explorar un acuerdo y tirar de la manta",
+      "subtitle": "Julio Martínez Martínez, el empresario alicantino que pagó facturas de consultoría al expresidente del Gobierno, confía su defensa a María Dolores Márquez Prado, que ejerció como fiscal en la Audiencia Nacional durante 17 años",
+      "url": "https://www.elconfidencial.com/espana/2026-05-29/zapatero-martinez-fiscalia-blanqueo-anticorrupcion-1hms_4363596/",
+      "scraped_at": "2026-05-29T10:12:31Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Intercambio de ataques entre EEUU e Irán en medio de las inestables negociaciones de paz",
-      "subtitle": "EEUU ha atacado esta madrugada una base iraní en Bandar Abbás, tras derribar drones sobre el estrecho de Ormuz. Irán respondió con una ofensiva a la supuesta base estadounidense donde se iniciaron los ataques previos",
-      "url": "https://www.elconfidencial.com/mundo/2026-05-27/trump-dice-que-todavia-no-esta_4362677/",
-      "scraped_at": "2026-05-28T10:22:40Z"
+      "title": "Pedro Sánchez, abocado a declarar ante el juez todo lo que sabía de las cloacas de Ferraz",
+      "subtitle": "Distintas fuentes jurídicas ven inevitable que se le cite &quot;al menos&quot; como testigo y apuntan a distintas referencias al jefe del Ejecutivo en las conversaciones incautadas a la trama de la fontanera",
+      "url": "https://www.elconfidencial.com/espana/2026-05-29/pedro-sanchez-declarar-pagos-trama-leire-diez-fontanera-psoe_4363089/",
+      "scraped_at": "2026-05-29T10:12:31Z"
     },
     {
       "source": "El Confidencial",
-      "title": "¿Y si cancelamos a todos los artistas? Por qué los situacionistas tenían razón sobre el futuro",
-      "subtitle": "A partir de un libro de lija en un museo, realizamos un viaje por la radical propuesta de los situacionistas dirigida a acabar con el arte. ¿Qué pensarían de la cultura de la cancelación, de la IA en el arte o de la soledad en caso de estar vivos?",
-      "url": "https://www.elconfidencial.com/cultura/2026-05-27/arte-guy-debord-patrick-marcolini-situacionismo_4359304/",
-      "scraped_at": "2026-05-28T10:22:41Z"
+      "title": "Que te limpien la casa, un tabú para los jóvenes: \"Te sientes como una burguesa\"",
+      "subtitle": "Externalizar la limpieza era símbolo de estatus económico, algo que ya no está tan claro. Ahora, lo hacen por salud mental, para descansar más o evitar discusiones",
+      "url": "https://www.elconfidencial.com/espana/2026-05-29/limpieza-casa-tabu-jovenes-burguesia_4361987/",
+      "scraped_at": "2026-05-29T10:12:31Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"Tendremos que volarlos por los aires\": por qué Trump la ha tomado ahora con Omán",
+      "subtitle": "Donald Trump lanzó una severa advertencia a Omán por sus supuestas conversaciones con Irán sobre el control del estrecho de Ormuz",
+      "url": "https://www.elconfidencial.com/mundo/2026-05-28/tendremos-que-volarlos-por-los-aires-trump-la-ha-tomado-ahora-con-oman_4363172/",
+      "scraped_at": "2026-05-29T10:12:31Z"
     }
   ]
 }
