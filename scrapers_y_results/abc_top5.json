@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; Moncloa depura a la escolta de Begoña Gómez por miedo a las filtraciones: El equipo de seguridad de la esposa del presidente del Gobierno se ha renovado en los últimos meses por orden de los mandos y renuncias de los propios policías. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-05-29T10:12:26Z",
+  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; Sánchez evita limitar los negocios de los ex altos cargos pese a las peticiones de Europa: El Grupo de Estados contra la Corrupción lleva casi siete años instando a España, sin éxito, a endurecer esa normativa y regular la actividad del lobby. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-05-30T08:39:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Envía tu mensaje al Papa",
       "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
       "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-05-29T10:12:24Z"
+      "scraped_at": "2026-05-30T08:39:05Z"
     },
     {
       "source": "ABC.es",
       "title": "Agenda completa",
       "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
       "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-05-29T10:12:25Z"
+      "scraped_at": "2026-05-30T08:39:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa depura a la escolta de Begoña Gómez por miedo a las filtraciones",
-      "subtitle": "El equipo de seguridad de la esposa del presidente del Gobierno se ha renovado en los últimos meses por orden de los mandos y renuncias de los propios policías",
-      "url": "https://www.abc.es/espana/inspectora-policia-unica-superviviente-purgas-begona-gomez-20260512014347-nt.html",
-      "scraped_at": "2026-05-29T10:12:25Z"
+      "title": "Sánchez evita limitar los negocios de los ex altos cargos pese a las peticiones de Europa",
+      "subtitle": "El Grupo de Estados contra la Corrupción lleva casi siete años instando a España, sin éxito, a endurecer esa normativa y regular la actividad del lobby",
+      "url": "https://www.abc.es/espana/sanchez-evita-revisar-regulacion-actividades-privadas-exaltos-20260530012301-nt.html",
+      "scraped_at": "2026-05-30T08:39:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pedraz reclama la financiación de la campaña de Illa ante la sospecha de que hubo guerra sucia contra sus rivales",
-      "subtitle": "Los investigadores creen que la trama de Cerdán y Leire ordenó difamar contra los adversarios del president",
-      "url": "https://www.abc.es/espana/pedraz-reclama-financiacion-campana-illa-ante-sospecha-20260528014359-nt.html",
-      "scraped_at": "2026-05-29T10:12:26Z"
+      "title": "Cerdán despojó de sus equipos a sus antecesores para evitar que lo controlaran",
+      "subtitle": "El exsecretario de Organización del PSOE, explican trabajadores de Ferraz, convirtió la sede «en un infierno»",
+      "url": "https://www.abc.es/espana/cerdan-despojo-lastra-cerdan-parte-equipos-evitar-20260529012326-nt.html",
+      "scraped_at": "2026-05-30T08:39:06Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-05-29T10:12:26Z"
+      "scraped_at": "2026-05-30T08:39:07Z"
     }
   ]
 }
