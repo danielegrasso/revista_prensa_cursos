@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Aumentan los permisos a expolíticos para que trabajen con empresas: La Oficina de Conflictos de Intereses detecta un repunte tras las elecciones; ZP, entre la ‘sagacidad’ de la UDEF y el amor al dinero: La investigación contra José Luis Rodríguez Zapatero, un referente socialista, ha desencadenado una agria polémica sobre si se trata de una operación del aparato del Estado -jueces, fiscales y policías- para acabar con el Gobierno de Pedro Sánchez o es el resultado del normal...; ¿Cómo se llegó a Zapatero?: Los diecinueve meses de investigación para cercar al expresidente desde que se halló casualmente un “ZP” en el móvil de un abogado detenido. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-05-31T09:22:12Z",
+  "summary": "Resumen del día en La Vanguardia: Iglesia, sindicatos, empresarios y sector tecnológico piden actuar ya y unidos ante la IA: Argüello avanza en la presentación de la encíclica de León XIV que el Papa pedirá en España “romper la dialéctica de los contrarios”; La retirada de tropas de EE.UU. aboca a una OTAN más europea: Los aliados del continente estudian cómo afrontar la salida gradual de parte de los efectivos del Pentágono; Sánchez y Feijóo se examinan: Expectación en el Cercle d'Economia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-01T12:07:33Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Aumentan los permisos a expolíticos para que trabajen con empresas",
-      "subtitle": "La Oficina de Conflictos de Intereses detecta un repunte tras las elecciones",
-      "url": "https://www.lavanguardia.com/economia/20260531/11551800/expoliticos-actividad-sector-privado-suben-fuerza-dos-anos.html",
-      "scraped_at": "2026-05-31T09:22:11Z"
+      "title": "Iglesia, sindicatos, empresarios y sector tecnológico piden actuar ya y unidos ante la IA",
+      "subtitle": "Argüello avanza en la presentación de la encíclica de León XIV que el Papa pedirá en España “romper la dialéctica de los contrarios”",
+      "url": "https://www.lavanguardia.com/politica/20260601/11552704/iglesia-sindicatos-empresarios-sector-tecnologico-defienden-actuar-unidos-ia.html",
+      "scraped_at": "2026-06-01T12:07:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "ZP, entre la ‘sagacidad’ de la UDEF y el amor al dinero",
-      "subtitle": "La investigación contra José Luis Rodríguez Zapatero, un referente socialista, ha desencadenado una agria polémica sobre si se trata de una operación del aparato del Estado -jueces, fiscales y policías- para acabar con el Gobierno de Pedro Sánchez o es el resultado del normal...",
-      "url": "https://www.lavanguardia.com/economia/20260531/11551801/zp-sagacidad-udef-amor-dinero.html",
-      "scraped_at": "2026-05-31T09:22:11Z"
+      "title": "La retirada de tropas de EE.UU. aboca a una OTAN más europea",
+      "subtitle": "Los aliados del continente estudian cómo afrontar la salida gradual de parte de los efectivos del Pentágono",
+      "url": "https://www.lavanguardia.com/internacional/20260601/11552305/retirada-tropas-ee-uu-aboca-otan-mas-europea.html",
+      "scraped_at": "2026-06-01T12:07:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Cómo se llegó a Zapatero?",
-      "subtitle": "Los diecinueve meses de investigación para cercar al expresidente desde que se halló casualmente un “ZP” en el móvil de un abogado detenido",
-      "url": "https://www.lavanguardia.com/politica/20260531/11551795/como-llego-zapatero.html",
-      "scraped_at": "2026-05-31T09:22:11Z"
+      "title": "Sánchez y Feijóo se examinan",
+      "subtitle": "Expectación en el Cercle d'Economia",
+      "url": "https://www.lavanguardia.com/politica/20260601/11552664/sanchez-feijoo-examinan.html",
+      "scraped_at": "2026-06-01T12:07:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Medio mundo toma nota del shock del PSOE anti-Trump y abierto a China",
-      "subtitle": "El embajador de EE.UU. habla de ‘relaciones peligrosas’ entre España y Pekín",
-      "url": "https://www.lavanguardia.com/politica/20260531/11551872/medio-mundo-toma-nota-shock-psoe-anti-trump-abierto-china.html",
-      "scraped_at": "2026-05-31T09:22:12Z"
+      "title": "El trumpista De la Espriella gana la primera vuelta contra el candidato de la izquierda",
+      "subtitle": "El candidato populista obtiene el 44% del voto frente al 41% que obtiene Iván Cepeda, representante del continuismo del presidente Gustavo Petro",
+      "url": "https://www.lavanguardia.com/internacional/20260601/11552520/trumpista-espriella-gana-primera-vuelta-izquierda-cepeda.html",
+      "scraped_at": "2026-06-01T12:07:33Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las imágenes de una anterior caída de Isak Andic: Echevarría proporcionó el vídeo",
-      "subtitle": "‘La Vanguardia’ reconstruye paso a paso cómo las imágenes del incidente que diez meses antes de su muerte sufrió el fundador de Mango llegaron hasta el hijo del fallecido",
-      "url": "https://www.lavanguardia.com/economia/20260531/11551816/echevarria-andic-video-anterior-caida.html",
-      "scraped_at": "2026-05-31T09:22:12Z"
+      "title": "El Guggenheim Bilbao ilumina al Jasper Johns más “emocional y turbulento”",
+      "subtitle": "La retrospectiva recorre la trayectoria y evolución de uno de los artistas vivos más influyentes",
+      "url": "https://www.lavanguardia.com/cultura/20260531/11551278/guggenheim-bilbao-ilumina-jasper-johns-mas-emocional-turbulento.html",
+      "scraped_at": "2026-06-01T12:07:33Z"
     }
   ]
 }
