@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; Feijóo ofrece a PNV y Junts «activar la convocatoria electoral» con una moción de censura instrumental: El líder del PP insiste en pedir «coherencia» a los socios y da un paso más prometiendo elecciones «en poco tiempo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-01T12:07:32Z",
+  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; El PSOE pagó las defensas de Ábalos y Koldo: Para el asesor usaron a Ismael Oliver, investigado en el caso 'cloacas', y al exministro le ofrecieron costear su abogado «en cuanto lo imputaron». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-02T10:53:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Envía tu mensaje al Papa",
       "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
       "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-06-01T12:07:31Z"
+      "scraped_at": "2026-06-02T10:53:44Z"
     },
     {
       "source": "ABC.es",
       "title": "Agenda completa",
       "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
       "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-06-01T12:07:31Z"
+      "scraped_at": "2026-06-02T10:53:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo ofrece a PNV y Junts «activar la convocatoria electoral» con una moción de censura instrumental",
-      "subtitle": "El líder del PP insiste en pedir «coherencia» a los socios y da un paso más prometiendo elecciones «en poco tiempo»",
-      "url": "https://www.abc.es/espana/feijoo-ofrece-pnv-junts-activar-convocatoria-electoral-20260601105437-nt.html",
-      "scraped_at": "2026-06-01T12:07:31Z"
+      "title": "El PSOE pagó las defensas de Ábalos y Koldo",
+      "subtitle": "Para el asesor usaron a Ismael Oliver, investigado en el caso 'cloacas', y al exministro le ofrecieron costear su abogado «en cuanto lo imputaron»",
+      "url": "https://www.abc.es/espana/cloaca-psoe-pago-defensa-abalos-koldo-20260602013632-nt.html",
+      "scraped_at": "2026-06-02T10:53:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "La ola de escándalos del PSOE impulsa a PP y Vox a 201 escaños",
-      "subtitle": "Los socialistas mantienen los 107 diputados del anterior sondeo, pero la derecha arrasaría y se aseguraría gobernar sin la necesidad de terceros partidos",
-      "url": "https://www.abc.es/espana/pp-vox-superan-200-escanos-ante-psoe-20260601220125-nt.html",
-      "scraped_at": "2026-06-01T12:07:31Z"
+      "title": "El CGPJ se rebela contra los ataques del Gobierno a los jueces tras destaparse  el caso de las cloacas",
+      "subtitle": "Acusan a «representantes de altas instituciones del Estado» de erosionar la confianza de los ciudadanos",
+      "url": "https://www.abc.es/espana/cgpj-rebela-ataques-gobierno-jueces-tras-destaparse-20260602113755-nt.html",
+      "scraped_at": "2026-06-02T10:53:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Victoria Ballesteros, experta en economía: «En junio notaremos un aumento de entre 10 y 20 euros mensuales»",
-      "subtitle": "El IVA de la luz y el gas regresa al 21% y supondrá un gasto extra de hasta 20 euros al mes por hogar a las puertas de un verano que puede disparar...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/victoria-ballesteros-experta-economia-junio-notaremos-aumento-10-20-euros-mensuales-retirada-ayudas-no-pagaremos-impuestos-encarecera-factura-luz-20260601_3375380.html",
-      "scraped_at": "2026-06-01T12:07:32Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-06-02T10:53:46Z"
     }
   ]
 }

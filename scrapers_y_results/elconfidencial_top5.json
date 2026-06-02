@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Leire trata de anular la entrada en Ferraz de la UCO porque se usó \"información personal\" en el auto: La fontanera dice que reclamó que se apartara de la investigación todo aquello ajeno a los años 2021 a 2023 y toda &quot;la información personal&quot; pero los investigadores han utilizado mensajes que encajan en esa descripción; El tribunal exonera a David Sánchez de uno de los delitos, pero mantiene el juicio: También libra a Miguel Ángel Gallardo de la responsabilidad en la contratación del acusado que se dirigía  como &quot;hermanito&quot; al familiar del presidente; La España que sueña con ser santa: así se pelea una canonización en pleno 2026: Nuestro país es uno de los que tiene más ciudadanos considerados santos por la Iglesia Católica. Lejos de bajar el ritmo, muchos grupos y asociaciones trabajan para colocar a nuevos venerables en la lista. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-01T12:07:36Z",
+  "summary": "Resumen del día en El Confidencial: Feijóo avisa al Cercle de que llegará a la Moncloa con o sin su apoyo: \"No estoy buscando atajos\": El líder del PP sorprendió a todos en su participación en la 41 Reunión del Cercle. No buscó su apoyo. No ofreció rebajas fiscales. Ignoró las peticiones que le hicieron; Una aspirante al puesto de David Sánchez: \"Antes de la entrevista me dijeron que la plaza era suya\": Cristina de Frutos ratifica en el juicio al hermano del presidente lo que desveló en su entrevista para El Confidencial: “Sentí que no había igualdad de oportunidades”; Qué hay detrás del 'boom' de la venta ilegal de comida callejera en el metro: Recorremos varias estaciones de metro en las que se acumulan vendedores ambulantes irregulares de origen latinoamericano. La Policía los multa y les decomisa su mercancía, pero eso no les detiene. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-02T10:53:52Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Leire trata de anular la entrada en Ferraz de la UCO porque se usó \"información personal\" en el auto",
-      "subtitle": "La fontanera dice que reclamó que se apartara de la investigación todo aquello ajeno a los años 2021 a 2023 y toda &quot;la información personal&quot; pero los investigadores han utilizado mensajes que encajan en esa descripción",
-      "url": "https://www.elconfidencial.com/espana/2026-06-01/leire-diez-trata-de-anular-la-entrada-en-ferraz-porque-el-juez-se-basa-en_4365254/",
-      "scraped_at": "2026-06-01T12:07:35Z"
+      "title": "Feijóo avisa al Cercle de que llegará a la Moncloa con o sin su apoyo: \"No estoy buscando atajos\"",
+      "subtitle": "El líder del PP sorprendió a todos en su participación en la 41 Reunión del Cercle. No buscó su apoyo. No ofreció rebajas fiscales. Ignoró las peticiones que le hicieron",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-06-02/nunez-feijoo-avisa-cercle-llegara-moncloa-ayuda_4365818/",
+      "scraped_at": "2026-06-02T10:53:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El tribunal exonera a David Sánchez de uno de los delitos, pero mantiene el juicio",
-      "subtitle": "También libra a Miguel Ángel Gallardo de la responsabilidad en la contratación del acusado que se dirigía  como &quot;hermanito&quot; al familiar del presidente",
-      "url": "https://www.elconfidencial.com/espana/2026-06-01/tribunal-juicio-david-sanchez-nombramiento-ilegal_4365042/",
-      "scraped_at": "2026-06-01T12:07:35Z"
+      "title": "Una aspirante al puesto de David Sánchez: \"Antes de la entrevista me dijeron que la plaza era suya\"",
+      "subtitle": "Cristina de Frutos ratifica en el juicio al hermano del presidente lo que desveló en su entrevista para El Confidencial: “Sentí que no había igualdad de oportunidades”",
+      "url": "https://www.elconfidencial.com/espana/2026-06-02/candidata-plaza-de-david-sanchez-la-plaza-era-suya_4365806/",
+      "scraped_at": "2026-06-02T10:53:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La España que sueña con ser santa: así se pelea una canonización en pleno 2026",
-      "subtitle": "Nuestro país es uno de los que tiene más ciudadanos considerados santos por la Iglesia Católica. Lejos de bajar el ritmo, muchos grupos y asociaciones trabajan para colocar a nuevos venerables en la lista",
-      "url": "https://www.elconfidencial.com/espana/2026-06-01/espana-ser-santa-gaudi-ignacio-echeverria-papa-leon-cbtrgrf_4362579/",
-      "scraped_at": "2026-06-01T12:07:36Z"
+      "title": "Qué hay detrás del 'boom' de la venta ilegal de comida callejera en el metro",
+      "subtitle": "Recorremos varias estaciones de metro en las que se acumulan vendedores ambulantes irregulares de origen latinoamericano. La Policía los multa y les decomisa su mercancía, pero eso no les detiene",
+      "url": "https://www.elconfidencial.com/espana/2026-06-02/venta-ambulante-alimentos-comida-madrid-barcelona_4364103/",
+      "scraped_at": "2026-06-02T10:53:50Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Avance del capítulo de 'La Promesa' del lunes, 1 de junio: a Santos le quedan horas de vida",
-      "subtitle": "Los disparos del duque de Carril han afectado gravemente al lacayo y a Julieta, quienes serán trasladados a dormitorios durante el nuevo episodio de la serie diaria de La 1 de TVE",
-      "url": "https://www.elconfidencial.com/television/series-tv/2026-06-01/la-promesa-avance-capitulo-846-lunes-1-junio_4364986/",
-      "scraped_at": "2026-06-01T12:07:36Z"
+      "title": "Trump carga contra Netanyahu por su ataque a Líbano: \"¿Qué haces? Estás jodidamente loco\"",
+      "subtitle": "Teherán ha paralizado las negociaciones de un acuerdo de paz con Washington ante la ofensiva israelí, lo que ha provocado la airada reacción del mandatario estadounidense, según ha informado el portal Axios",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-02/trump-netanyahu-israel-libano-1tps_4365648/",
+      "scraped_at": "2026-06-02T10:53:51Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El lío colombiano: por qué Petro apunta contra la empresa del recuento",
+      "subtitle": "La negativa del presidente colombiano a reconocer el preconteo no parte de la nada: lleva años atacando a esta &quot;firma privada de los hermanos Bautista&quot;, cuyo nombre es Thomas Greg &amp; Sons",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-02/quilombo-electoral-colombia-por-que-petro-apunta-empresa-recuento_4365429/",
+      "scraped_at": "2026-06-02T10:53:52Z"
     }
   ]
 }
