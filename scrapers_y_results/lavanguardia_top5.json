@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Junts reta a Feijóo a plantear la moción de censura en Waterloo: Jordi Turull afea al líder del PP que haga propuestas a través de los medios en lugar de reunirse con ellos; Feijóo dice que no viene “a pedir favores”, pero defiende una mayoría alternativa: El Cercle ha reclamado al líder del PP reforzar la transparencia y la rendición de cuentas; Los primeros testigos desinflan las acusaciones contra David Sánchez: Las acusaciones ponen el acento en que se reformara el puesto del hermano del presidente para “quitarle la incompatibilidad”, aunque eso era legalmente imposible. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-02T10:53:48Z",
+  "summary": "Resumen del día en La Vanguardia: Sánchez clausura las jornadas del Cercle d'Economía: Desde la Moncloa aseguran que el presidente “va con ganas” a este foro en Barcelona; La UCO halló en casa de Gaspar Zarrías 19.850 euros en fajos de billetes de 20 y 50: La Guardia Civil apunta a que el exsenador se habría hecho cargo de los asuntos de carácter jurídico de la trama para “desestabilizar” procedimientos judiciales abiertos contra el PSOE o el Gobierno; La jueza del caso Andic investiga si la terapeuta familiar influyó en la muerte del empresario: La profesional medió entre padre e hijo a favor de que el fallecido cediera en vida al acusado parte de la herencia en vida. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-03T11:21:28Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Junts reta a Feijóo a plantear la moción de censura en Waterloo",
-      "subtitle": "Jordi Turull afea al líder del PP que haga propuestas a través de los medios en lugar de reunirse con ellos",
-      "url": "https://www.lavanguardia.com/politica/20260602/11553624/junts-reta-feijoo-plantear-mocion-censura-instrumental-puigdemont-waterloo.html",
-      "scraped_at": "2026-06-02T10:53:47Z"
+      "title": "Sánchez clausura las jornadas del Cercle d'Economía",
+      "subtitle": "Desde la Moncloa aseguran que el presidente “va con ganas” a este foro en Barcelona",
+      "url": "https://www.lavanguardia.com/politica/20260603/11554573/sanchez-asiste-cercle-d-economia-dia-feijoo-defensa-autonomia-europa.html",
+      "scraped_at": "2026-06-03T11:21:27Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Feijóo dice que no viene “a pedir favores”, pero defiende una mayoría alternativa",
-      "subtitle": "El Cercle ha reclamado al líder del PP reforzar la transparencia y la rendición de cuentas",
-      "url": "https://www.lavanguardia.com/economia/20260602/11553734/feijoo-dice-vengo-pedir-favores-defiende-mayoria-alternativa.html",
-      "scraped_at": "2026-06-02T10:53:47Z"
+      "title": "La UCO halló en casa de Gaspar Zarrías 19.850 euros en fajos de billetes de 20 y 50",
+      "subtitle": "La Guardia Civil apunta a que el exsenador se habría hecho cargo de los asuntos de carácter jurídico de la trama para “desestabilizar” procedimientos judiciales abiertos contra el PSOE o el Gobierno",
+      "url": "https://www.lavanguardia.com/politica/20260603/11554882/uco-hallo-casa-gaspar-zarrias-19-850-euros-fajos-billetes-20-50-euros.html",
+      "scraped_at": "2026-06-03T11:21:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los primeros testigos desinflan las acusaciones contra David Sánchez",
-      "subtitle": "Las acusaciones ponen el acento en que se reformara el puesto del hermano del presidente para “quitarle la incompatibilidad”, aunque eso era legalmente imposible",
-      "url": "https://www.lavanguardia.com/politica/20260602/11553300/primeros-testigos-desinflan-acusaciones-david-sanchez.html",
-      "scraped_at": "2026-06-02T10:53:48Z"
+      "title": "La jueza del caso Andic investiga si la terapeuta familiar influyó en la muerte del empresario",
+      "subtitle": "La profesional medió entre padre e hijo a favor de que el fallecido cediera en vida al acusado parte de la herencia en vida",
+      "url": "https://www.lavanguardia.com/sucesos/20260603/11554852/jueza-caso-andic-investiga-terapeuta-familiar-influyo-muerte-empresario.html",
+      "scraped_at": "2026-06-03T11:21:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los testigos dicen que el pistolero de Sant Roc disparó a las menores",
-      "subtitle": "Los Mossos refuerzan la vigilancia en el barrio badalonés por temor a represalias",
-      "url": "https://www.lavanguardia.com/sucesos/20260602/11553344/testigos-dicen-pistolero-sant-roc-disparo-menores.html",
-      "scraped_at": "2026-06-02T10:53:48Z"
+      "title": "El ataque de Irán en represalia contra el aeropuerto de Kuwait deja un muerto",
+      "subtitle": "Teherán golpea las instalaciones aeroportuarias del país del Golfo, que ha suspendido vuelos comerciales, en respuesta a un ataque de EE.UU. contra una torre de telecomunicaciones de la isla iraní de Qeshm",
+      "url": "https://www.lavanguardia.com/internacional/20260603/11554596/iran-responde-ataques-ee-uu-disparando-drones-misiles-aeropuerto-kuwait.html",
+      "scraped_at": "2026-06-03T11:21:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Catalunya mejora el récord de empleo con 3,97 millones de afiliados en mayo",
-      "subtitle": "El desempleo se reduce en 6.900 personas y queda en mínimos desde el 2008",
-      "url": "https://www.lavanguardia.com/economia/20260602/11553597/catalunya-empleo-afiliacion-paro-mayo-record.html",
-      "scraped_at": "2026-06-02T10:53:48Z"
+      "title": "Scaloni: “Messi va a jugar hasta que él quiera”",
+      "subtitle": "El seleccionador argentino dice en una entrevista en 'Olé' que él convocará siempre al diez hasta que le diga que ya no",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260603/11554677/scaloni-messi-jugar-quiera.html",
+      "scraped_at": "2026-06-03T11:21:28Z"
     }
   ]
 }

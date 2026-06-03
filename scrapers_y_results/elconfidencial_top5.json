@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Feijóo avisa al Cercle de que llegará a la Moncloa con o sin su apoyo: \"No estoy buscando atajos\": El líder del PP sorprendió a todos en su participación en la 41 Reunión del Cercle. No buscó su apoyo. No ofreció rebajas fiscales. Ignoró las peticiones que le hicieron; Una aspirante al puesto de David Sánchez: \"Antes de la entrevista me dijeron que la plaza era suya\": Cristina de Frutos ratifica en el juicio al hermano del presidente lo que desveló en su entrevista para El Confidencial: “Sentí que no había igualdad de oportunidades”; Qué hay detrás del 'boom' de la venta ilegal de comida callejera en el metro: Recorremos varias estaciones de metro en las que se acumulan vendedores ambulantes irregulares de origen latinoamericano. La Policía los multa y les decomisa su mercancía, pero eso no les detiene. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-02T10:53:52Z",
+  "summary": "Resumen del día en El Confidencial: Bruselas reclama a España que elimine el IVA reducido a los bares, hoteles y restaurantes: El Ejecutivo comunitario recomienda limitar las exenciones fiscales y señala en concreto el caso del IVA reducido a la restauración y hoteles, que aumentaría unos 7.000 millones los ingresos; La Guardia Civil dice que la plaza de David Sánchez se gestó a un alto nivel y señala a Gallardo: El teniente coronel Balas detalla ante el tribunal su análisis de los correos de los investigados por los que concluye que fue necesaria una &quot;capacidad política&quot; para crear el puesto; Ayuso planea declarar de interés general los grandes conciertos para volver al Bernabéu: El Gobierno autonómico trabaja para que el nuevo marco legal esté listo antes de que acabe la legislatura. El objetivo es compaginar la seguridad jurídica de los promotores y el bienestar y el descanso de los vecinos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-03T11:21:31Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Feijóo avisa al Cercle de que llegará a la Moncloa con o sin su apoyo: \"No estoy buscando atajos\"",
-      "subtitle": "El líder del PP sorprendió a todos en su participación en la 41 Reunión del Cercle. No buscó su apoyo. No ofreció rebajas fiscales. Ignoró las peticiones que le hicieron",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-06-02/nunez-feijoo-avisa-cercle-llegara-moncloa-ayuda_4365818/",
-      "scraped_at": "2026-06-02T10:53:50Z"
+      "title": "Bruselas reclama a España que elimine el IVA reducido a los bares, hoteles y restaurantes",
+      "subtitle": "El Ejecutivo comunitario recomienda limitar las exenciones fiscales y señala en concreto el caso del IVA reducido a la restauración y hoteles, que aumentaría unos 7.000 millones los ingresos",
+      "url": "https://www.elconfidencial.com/economia/2026-06-03/bruselas-anima-a-espana-a-eliminar-el-iva_4366543/",
+      "scraped_at": "2026-06-03T11:21:29Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Una aspirante al puesto de David Sánchez: \"Antes de la entrevista me dijeron que la plaza era suya\"",
-      "subtitle": "Cristina de Frutos ratifica en el juicio al hermano del presidente lo que desveló en su entrevista para El Confidencial: “Sentí que no había igualdad de oportunidades”",
-      "url": "https://www.elconfidencial.com/espana/2026-06-02/candidata-plaza-de-david-sanchez-la-plaza-era-suya_4365806/",
-      "scraped_at": "2026-06-02T10:53:50Z"
+      "title": "La Guardia Civil dice que la plaza de David Sánchez se gestó a un alto nivel y señala a Gallardo",
+      "subtitle": "El teniente coronel Balas detalla ante el tribunal su análisis de los correos de los investigados por los que concluye que fue necesaria una &quot;capacidad política&quot; para crear el puesto",
+      "url": "https://www.elconfidencial.com/espana/2026-06-03/uco-plaza-david-sanchez-gesto-nivel-superior-atribuye-gallardo_4366466/",
+      "scraped_at": "2026-06-03T11:21:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Qué hay detrás del 'boom' de la venta ilegal de comida callejera en el metro",
-      "subtitle": "Recorremos varias estaciones de metro en las que se acumulan vendedores ambulantes irregulares de origen latinoamericano. La Policía los multa y les decomisa su mercancía, pero eso no les detiene",
-      "url": "https://www.elconfidencial.com/espana/2026-06-02/venta-ambulante-alimentos-comida-madrid-barcelona_4364103/",
-      "scraped_at": "2026-06-02T10:53:50Z"
+      "title": "Ayuso planea declarar de interés general los grandes conciertos para volver al Bernabéu",
+      "subtitle": "El Gobierno autonómico trabaja para que el nuevo marco legal esté listo antes de que acabe la legislatura. El objetivo es compaginar la seguridad jurídica de los promotores y el bienestar y el descanso de los vecinos",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-06-03/ayuso-estudia-declarar-interes-general-grandes-conciertos-bernabeu_4365916/",
+      "scraped_at": "2026-06-03T11:21:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Trump carga contra Netanyahu por su ataque a Líbano: \"¿Qué haces? Estás jodidamente loco\"",
-      "subtitle": "Teherán ha paralizado las negociaciones de un acuerdo de paz con Washington ante la ofensiva israelí, lo que ha provocado la airada reacción del mandatario estadounidense, según ha informado el portal Axios",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-02/trump-netanyahu-israel-libano-1tps_4365648/",
-      "scraped_at": "2026-06-02T10:53:51Z"
+      "title": "La brecha social se muda a la costa: alquileres de 3.800 € en Marbella y de 560 € en Asturias",
+      "subtitle": "Existe una brecha, cada vez más grande, entre quienes pueden comprar o tienen que vivir de alquiler y entre quienes pueden permitirse unas vacaciones u otras",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/costa-alquiler-vacacional-playa-vacaciones-tecnitasa_4365733/",
+      "scraped_at": "2026-06-03T11:21:30Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El lío colombiano: por qué Petro apunta contra la empresa del recuento",
-      "subtitle": "La negativa del presidente colombiano a reconocer el preconteo no parte de la nada: lleva años atacando a esta &quot;firma privada de los hermanos Bautista&quot;, cuyo nombre es Thomas Greg &amp; Sons",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-02/quilombo-electoral-colombia-por-que-petro-apunta-empresa-recuento_4365429/",
-      "scraped_at": "2026-06-02T10:53:52Z"
+      "title": "Juicio a David Sánchez: cargos del PSOE citados como 'técnicos' para...",
+      "subtitle": "Uno de los funcionarios de la Diputación admitió su reciente incorporación al Comité Regional del partido en Extremadura y su relación con uno de los procesados: &quot;Somos militantes&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-06-03/juicio-david-sanchez-cargos-psoe-citados-tecnicos-salvar-hermanisimo_4366291/",
+      "scraped_at": "2026-06-03T11:21:31Z"
     }
   ]
 }

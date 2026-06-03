@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Envía tu mensaje al Papa: Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre; Agenda completa: El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones; El PSOE pagó las defensas de Ábalos y Koldo: Para el asesor usaron a Ismael Oliver, investigado en el caso 'cloacas', y al exministro le ofrecieron costear su abogado «en cuanto lo imputaron». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-02T10:53:46Z",
+  "summary": "Resumen del día en ABC.es: La UCO sitúa a Cerdán y Leire Díez como líderes de una trama para «proteger los intereses» de Sánchez: Así se desprende del sumario del caso Leire, al que ha accedido ABC, en el que los investigadores afirman que, entre 2024 y 2025, un «grupo de personas» liderados por Cerdán -en un «nivel superior»- y Díez -en un «nivel ejecutivo»; El PSOE envió a la abogada de Koldo a sobornar a Pano «para salvarle el culo a él y a Ábalos»: Así se desprende del sumario del caso Leire, al que ha accedido ABC, en el que se recoge la declaración de Pano ante la UCO; Los mensajes de la fontanera con un colaborador cercano a Sánchez para 'enchufar' a una confidente: ABC accede al sumario del caso de las cloacas del PSOE que investiga la Audiencia Nacional. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-03T11:21:26Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Envía tu mensaje al Papa",
-      "subtitle": "Faltan pocos días para que León XIV llegue a España. Desde ABC te proponemos que escribas tu mensaje de bienvenida para el Pontífice. Seleccionaremos los mejores para publicarlos y hacérselos llegar al Santo Padre",
-      "url": "https://www.abc.es/sociedad/mensajes-bienvenida-papa-leon-xiv-20260521190950-nt.html",
-      "scraped_at": "2026-06-02T10:53:44Z"
+      "title": "La UCO sitúa a Cerdán y Leire Díez como líderes de una trama para «proteger los intereses» de Sánchez",
+      "subtitle": "Así se desprende del sumario del caso Leire, al que ha accedido ABC, en el que los investigadores afirman que, entre 2024 y 2025, un «grupo de personas» liderados por Cerdán -en un «nivel superior»- y Díez -en un «nivel ejecutivo»",
+      "url": "https://www.abc.es/espana/uco-situa-cerdan-leire-diez-lideres-trama-20260603125653-nt.html",
+      "scraped_at": "2026-06-03T11:21:24Z"
     },
     {
       "source": "ABC.es",
-      "title": "Agenda completa",
-      "subtitle": "El encuentro con los jóvenes el día 6 de junio y la celebración multitudinaria del Corpus Christi el domingo serán los grandes eventos en Madrid. En Barcelona, la clave será el homenaje a Gaudí y en Canarias, el desafío de las migraciones",
-      "url": "https://www.abc.es/sociedad/visita-papa-leon-xiv-espana-agenda-completa-20260512120257-nt.html",
-      "scraped_at": "2026-06-02T10:53:45Z"
+      "title": "El PSOE envió a la abogada de Koldo a sobornar a Pano «para salvarle el culo a él y a Ábalos»",
+      "subtitle": "Así se desprende del sumario del caso Leire, al que ha accedido ABC, en el que se recoge la declaración de Pano ante la UCO",
+      "url": "https://www.abc.es/espana/psoe-envio-abogada-koldo-sobornar-pano-salvar-20260603123137-nt.html",
+      "scraped_at": "2026-06-03T11:21:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE pagó las defensas de Ábalos y Koldo",
-      "subtitle": "Para el asesor usaron a Ismael Oliver, investigado en el caso 'cloacas', y al exministro le ofrecieron costear su abogado «en cuanto lo imputaron»",
-      "url": "https://www.abc.es/espana/cloaca-psoe-pago-defensa-abalos-koldo-20260602013632-nt.html",
-      "scraped_at": "2026-06-02T10:53:45Z"
+      "title": "Los mensajes de la fontanera con un colaborador cercano a Sánchez para 'enchufar' a una confidente",
+      "subtitle": "ABC accede al sumario del caso de las cloacas del PSOE que investiga la Audiencia Nacional",
+      "url": "https://www.abc.es/espana/mensajes-leire-diez-estrecho-colaborador-sanchez-enchufar-20260603124000-nt.html",
+      "scraped_at": "2026-06-03T11:21:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "El CGPJ se rebela contra los ataques del Gobierno a los jueces tras destaparse  el caso de las cloacas",
-      "subtitle": "Acusan a «representantes de altas instituciones del Estado» de erosionar la confianza de los ciudadanos",
-      "url": "https://www.abc.es/espana/cgpj-rebela-ataques-gobierno-jueces-tras-destaparse-20260602113755-nt.html",
-      "scraped_at": "2026-06-02T10:53:46Z"
+      "title": "El juez Peinado aplaza al día 15 de junio la audiencia preliminar de Begoña Gómez",
+      "subtitle": "Mantiene la obligación de acudir personalmente o, en caso contrario, serán conducidos por «la fuerza pública»",
+      "url": "https://www.abc.es/espana/juez-peinado-aplaza-dia-junio-audiencia-preliminar-20260603104312-nt.html",
+      "scraped_at": "2026-06-03T11:21:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-06-02T10:53:46Z"
+      "title": "La Ley de Propiedad Horizontal aclara que pueden obligar a un vecino a limpiar la escalera del edificio si la comunidad cumple un requisito",
+      "subtitle": "Administradores de fincas advierten de que ningún propietario puede imponer a otro la obligación de limpiar las zonas comunes de forma unilateral",
+      "url": "https://www.cope.es/actualidad/sociedad/noticias/ley-propiedad-horizontal-aclara-obligar-vecino-limpiar-escalera-edificio-comunidad-aprobado-junta-mayoria-20260603_3376971.html",
+      "scraped_at": "2026-06-03T11:21:26Z"
     }
   ]
 }
