@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Bruselas reclama a España que elimine el IVA reducido a los bares, hoteles y restaurantes: El Ejecutivo comunitario recomienda limitar las exenciones fiscales y señala en concreto el caso del IVA reducido a la restauración y hoteles, que aumentaría unos 7.000 millones los ingresos; La Guardia Civil dice que la plaza de David Sánchez se gestó a un alto nivel y señala a Gallardo: El teniente coronel Balas detalla ante el tribunal su análisis de los correos de los investigados por los que concluye que fue necesaria una &quot;capacidad política&quot; para crear el puesto; Ayuso planea declarar de interés general los grandes conciertos para volver al Bernabéu: El Gobierno autonómico trabaja para que el nuevo marco legal esté listo antes de que acabe la legislatura. El objetivo es compaginar la seguridad jurídica de los promotores y el bienestar y el descanso de los vecinos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-03T11:21:31Z",
+  "summary": "Resumen del día en El Confidencial: Las pymes buscan trabajadores fuera porque en España no encuentran: Un estudio de la Comisión Europea revela la dificultad de las empresas para encontrar trabajadores a pesar de la alta tasa de paro. Contratar en el extranjero impulsa el crecimiento de la inmigración; A los cristianos con más tirón en España les da igual la visita del Papa: Nuestro país se prepara para la gran visita de León XIV, pero mientras las ciudades se llenan de fieles del Pontífice, las iglesias evangélicas siguen su propio camino ganando más seguidores que nunca; Derrapa la mudanza del año: Moeve rompe con Montoro y se queda en Torre Foster: La compañía energética ha resuelto el acuerdo que tenía con Monthisa, inmobiliaria de la familia Montoro, y renueva con Pontegadea para continuar en la icónica Torre Foster. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-04T10:11:03Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Bruselas reclama a España que elimine el IVA reducido a los bares, hoteles y restaurantes",
-      "subtitle": "El Ejecutivo comunitario recomienda limitar las exenciones fiscales y señala en concreto el caso del IVA reducido a la restauración y hoteles, que aumentaría unos 7.000 millones los ingresos",
-      "url": "https://www.elconfidencial.com/economia/2026-06-03/bruselas-anima-a-espana-a-eliminar-el-iva_4366543/",
-      "scraped_at": "2026-06-03T11:21:29Z"
+      "title": "Las pymes buscan trabajadores fuera porque en España no encuentran",
+      "subtitle": "Un estudio de la Comisión Europea revela la dificultad de las empresas para encontrar trabajadores a pesar de la alta tasa de paro. Contratar en el extranjero impulsa el crecimiento de la inmigración",
+      "url": "https://www.elconfidencial.com/economia/2026-06-04/pymes-espanolas-buscan-trabajadores-extranjero_4366813/",
+      "scraped_at": "2026-06-04T10:11:01Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La Guardia Civil dice que la plaza de David Sánchez se gestó a un alto nivel y señala a Gallardo",
-      "subtitle": "El teniente coronel Balas detalla ante el tribunal su análisis de los correos de los investigados por los que concluye que fue necesaria una &quot;capacidad política&quot; para crear el puesto",
-      "url": "https://www.elconfidencial.com/espana/2026-06-03/uco-plaza-david-sanchez-gesto-nivel-superior-atribuye-gallardo_4366466/",
-      "scraped_at": "2026-06-03T11:21:30Z"
+      "title": "A los cristianos con más tirón en España les da igual la visita del Papa",
+      "subtitle": "Nuestro país se prepara para la gran visita de León XIV, pero mientras las ciudades se llenan de fieles del Pontífice, las iglesias evangélicas siguen su propio camino ganando más seguidores que nunca",
+      "url": "https://www.elconfidencial.com/espana/2026-06-04/cristianismo-crece-espana-evangelicos-visita-papa-cbtr_4366707/",
+      "scraped_at": "2026-06-04T10:11:02Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ayuso planea declarar de interés general los grandes conciertos para volver al Bernabéu",
-      "subtitle": "El Gobierno autonómico trabaja para que el nuevo marco legal esté listo antes de que acabe la legislatura. El objetivo es compaginar la seguridad jurídica de los promotores y el bienestar y el descanso de los vecinos",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-06-03/ayuso-estudia-declarar-interes-general-grandes-conciertos-bernabeu_4365916/",
-      "scraped_at": "2026-06-03T11:21:30Z"
+      "title": "Derrapa la mudanza del año: Moeve rompe con Montoro y se queda en Torre Foster",
+      "subtitle": "La compañía energética ha resuelto el acuerdo que tenía con Monthisa, inmobiliaria de la familia Montoro, y renueva con Pontegadea para continuar en la icónica Torre Foster",
+      "url": "https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-04/moeve-cancela-cambio-sede-monthisa-pontegadea_4367117/",
+      "scraped_at": "2026-06-04T10:11:02Z"
     },
     {
       "source": "El Confidencial",
-      "title": "La brecha social se muda a la costa: alquileres de 3.800 € en Marbella y de 560 € en Asturias",
-      "subtitle": "Existe una brecha, cada vez más grande, entre quienes pueden comprar o tienen que vivir de alquiler y entre quienes pueden permitirse unas vacaciones u otras",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-06-03/costa-alquiler-vacacional-playa-vacaciones-tecnitasa_4365733/",
-      "scraped_at": "2026-06-03T11:21:30Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Juicio a David Sánchez: cargos del PSOE citados como 'técnicos' para...",
-      "subtitle": "Uno de los funcionarios de la Diputación admitió su reciente incorporación al Comité Regional del partido en Extremadura y su relación con uno de los procesados: &quot;Somos militantes&quot;",
-      "url": "https://www.elconfidencial.com/espana/2026-06-03/juicio-david-sanchez-cargos-psoe-citados-tecnicos-salvar-hermanisimo_4366291/",
-      "scraped_at": "2026-06-03T11:21:31Z"
+      "title": "El viaje del papa León XIV se produce en el peor momento de la crisis de Estado que vive el país",
+      "subtitle": "La visita del Papa a España está generando controversia en una situación política deteriorada hasta el punto de cuestionarse por distintos sectores la oportunidad de su viaje y de su programa de actos",
+      "url": "https://www.elconfidencial.com/espana/2026-06-04/visita-papa-espana-politica-cataluna-1hms_4366483/",
+      "scraped_at": "2026-06-04T10:11:03Z"
     }
   ]
 }

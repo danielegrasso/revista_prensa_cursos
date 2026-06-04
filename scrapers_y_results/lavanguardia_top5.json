@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Sánchez clausura las jornadas del Cercle d'Economía: Desde la Moncloa aseguran que el presidente “va con ganas” a este foro en Barcelona; La UCO halló en casa de Gaspar Zarrías 19.850 euros en fajos de billetes de 20 y 50: La Guardia Civil apunta a que el exsenador se habría hecho cargo de los asuntos de carácter jurídico de la trama para “desestabilizar” procedimientos judiciales abiertos contra el PSOE o el Gobierno; La jueza del caso Andic investiga si la terapeuta familiar influyó en la muerte del empresario: La profesional medió entre padre e hijo a favor de que el fallecido cediera en vida al acusado parte de la herencia en vida. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-03T11:21:28Z",
+  "summary": "Resumen del día en La Vanguardia: Ucrania hace retroceder a Rusia en el frente por segundo mes consecutivo: Zelenski quiere aprovechar el momento para negociar, pero Putin todavía cree en la victoria; Muere un casco azul serbio y dos españoles resultan heridos en el sur de Líbano: Los militares de la misión de paz de la ONU sufrieron un ataque con morteros cerca de la sede del contingente español; La UCO registra Tubos Reunidos en Bilbao y requiere información sobre su rescate a la SEPI: Los agentes de la Guardia Civil buscan pruebas de la conexión entre las transferencias del rescate con dinero público y la trama liderada por el exsecretario de organización del PSOE Santos Cerdán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-04T10:11:00Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Sánchez clausura las jornadas del Cercle d'Economía",
-      "subtitle": "Desde la Moncloa aseguran que el presidente “va con ganas” a este foro en Barcelona",
-      "url": "https://www.lavanguardia.com/politica/20260603/11554573/sanchez-asiste-cercle-d-economia-dia-feijoo-defensa-autonomia-europa.html",
-      "scraped_at": "2026-06-03T11:21:27Z"
+      "title": "Ucrania hace retroceder a Rusia en el frente por segundo mes consecutivo",
+      "subtitle": "Zelenski quiere aprovechar el momento para negociar, pero Putin todavía cree en la victoria",
+      "url": "https://www.lavanguardia.com/internacional/20260604/11554991/ucrania-retroceder-rusia-frente-segundo-mes-consecutivo.html",
+      "scraped_at": "2026-06-04T10:10:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La UCO halló en casa de Gaspar Zarrías 19.850 euros en fajos de billetes de 20 y 50",
-      "subtitle": "La Guardia Civil apunta a que el exsenador se habría hecho cargo de los asuntos de carácter jurídico de la trama para “desestabilizar” procedimientos judiciales abiertos contra el PSOE o el Gobierno",
-      "url": "https://www.lavanguardia.com/politica/20260603/11554882/uco-hallo-casa-gaspar-zarrias-19-850-euros-fajos-billetes-20-50-euros.html",
-      "scraped_at": "2026-06-03T11:21:28Z"
+      "title": "Muere un casco azul serbio y dos españoles resultan heridos en el sur de Líbano",
+      "subtitle": "Los militares de la misión de paz de la ONU sufrieron un ataque con morteros cerca de la sede del contingente español",
+      "url": "https://www.lavanguardia.com/internacional/20260604/11555703/muere-casco-azul-serbio-dos-espanoles-resultan-heridos-sur-libano.html",
+      "scraped_at": "2026-06-04T10:10:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La jueza del caso Andic investiga si la terapeuta familiar influyó en la muerte del empresario",
-      "subtitle": "La profesional medió entre padre e hijo a favor de que el fallecido cediera en vida al acusado parte de la herencia en vida",
-      "url": "https://www.lavanguardia.com/sucesos/20260603/11554852/jueza-caso-andic-investiga-terapeuta-familiar-influyo-muerte-empresario.html",
-      "scraped_at": "2026-06-03T11:21:28Z"
+      "title": "La UCO registra Tubos Reunidos en Bilbao y requiere información sobre su rescate a la SEPI",
+      "subtitle": "Los agentes de la Guardia Civil buscan pruebas de la conexión entre las transferencias del rescate con dinero público y la trama liderada por el exsecretario de organización del PSOE Santos Cerdán",
+      "url": "https://www.lavanguardia.com/politica/20260604/11555675/uco-registra-tubos-reunidos-bilbao-requiere-informacion-sobre-rescate-sepi.html",
+      "scraped_at": "2026-06-04T10:10:59Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El ataque de Irán en represalia contra el aeropuerto de Kuwait deja un muerto",
-      "subtitle": "Teherán golpea las instalaciones aeroportuarias del país del Golfo, que ha suspendido vuelos comerciales, en respuesta a un ataque de EE.UU. contra una torre de telecomunicaciones de la isla iraní de Qeshm",
-      "url": "https://www.lavanguardia.com/internacional/20260603/11554596/iran-responde-ataques-ee-uu-disparando-drones-misiles-aeropuerto-kuwait.html",
-      "scraped_at": "2026-06-03T11:21:28Z"
+      "title": "Las maniobras de la trama de Leire Díez: Villarejo, guardias civiles y el fiscal general",
+      "subtitle": "La Guardia Civil apunta a posibles movimientos de Leire Díez en la Fiscalía General del Estado dirigida por Álvaro García Ortiz: “Te cuento. Te va a recibir el FGE. Ahora te digo lo que me ha dicho”",
+      "url": "https://www.lavanguardia.com/politica/20260604/11555282/maniobras-trama-leire-diez-salvar-sanchez-villarejo-guardias-civiles-fiscal-general.html",
+      "scraped_at": "2026-06-04T10:11:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Scaloni: “Messi va a jugar hasta que él quiera”",
-      "subtitle": "El seleccionador argentino dice en una entrevista en 'Olé' que él convocará siempre al diez hasta que le diga que ya no",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260603/11554677/scaloni-messi-jugar-quiera.html",
-      "scraped_at": "2026-06-03T11:21:28Z"
+      "title": "Mourinho asegura que su vídeo con la camiseta del Real Madrid está hecho con IA",
+      "subtitle": "El portugués se lo hizo saber al Benfica para evitar un conflicto con su club",
+      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260604/11555616/mourinho-video-camiseta-florentino-perez-real-madrid.html",
+      "scraped_at": "2026-06-04T10:11:00Z"
     }
   ]
 }
