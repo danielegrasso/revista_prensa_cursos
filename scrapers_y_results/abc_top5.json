@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El sumario de las 'cloacas' del PSOE apunta directamente a Pedro Sánchez: La UCO dice que el presidente tenía «conocimiento de la actividad», que buscaba «proteger» sus intereses; Los cinco indicios que apuntan al presidente: Las comunicaciones intervenidas a los investigados apuntan a que el presidente del Gobierno conocía los movimientos de la trama; Los audios de Leire Díez contra la juez Alaya: «Esta es muy perversa ¿Qué podemos destapar de ella?»: La fontanera del PSOE compartió con un interlocutor su «estrategia»: «Yo no la voy a matar». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-04T10:10:56Z",
+  "summary": "Resumen del día en ABC.es: El DAO forzó un ascenso para el jefe de la UCO con el fin de quitarle de en medio: Manuel Llamas abroncó al teniente coronel Antonio Balas por no informarle de las diligencias pendientes en los casos que afectaban al entorno del presidente del Gobierno; Cerdán arremete contra la UCO: «El objetivo no es investigar delitos, sino destrozar personas»: El exsecretario de Organización del PSOE, presunto cabecilla de dos tramas corruptas, niega cualquier delito en las cloacas socialistas que según la UCO lideraba; El juez pide al PSOE y al PSC parte de sus movimientos bancarios en 2024 y 2025: Busca rastrear el pago de 20.000 que el partido hizo a un medio presuntamente vinculado a Leire Díez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-05T10:13:18Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El sumario de las 'cloacas' del PSOE apunta directamente a Pedro Sánchez",
-      "subtitle": "La UCO dice que el presidente tenía «conocimiento de la actividad», que buscaba «proteger» sus intereses",
-      "url": "https://www.abc.es/espana/sumario-cloacas-psoe-apunta-directamente-moncloa-20260604014213-nt.html",
-      "scraped_at": "2026-06-04T10:10:56Z"
+      "title": "El DAO forzó un ascenso para el jefe de la UCO con el fin de quitarle de en medio",
+      "subtitle": "Manuel Llamas abroncó al teniente coronel Antonio Balas por no informarle de las diligencias pendientes en los casos que afectaban al entorno del presidente del Gobierno",
+      "url": "https://www.abc.es/espana/dao-forzo-ascenso-jefe-uco-quitarle-medio-20260605015754-nt.html",
+      "scraped_at": "2026-06-05T10:13:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los cinco indicios que apuntan al presidente",
-      "subtitle": "Las comunicaciones intervenidas a los investigados apuntan a que el presidente del Gobierno conocía los movimientos de la trama",
-      "url": "https://www.abc.es/espana/seis-indicios-apuntan-pedro-sanchez-20260604014248-nt.html",
-      "scraped_at": "2026-06-04T10:10:56Z"
+      "title": "Cerdán arremete contra la UCO: «El objetivo no es investigar delitos, sino destrozar personas»",
+      "subtitle": "El exsecretario de Organización del PSOE, presunto cabecilla de dos tramas corruptas, niega cualquier delito en las cloacas socialistas que según la UCO lideraba",
+      "url": "https://www.abc.es/espana/cerdan-arremete-uco-objetivo-investigar-delitos-destrozar-20260605113144-nt.html",
+      "scraped_at": "2026-06-05T10:13:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los audios de Leire Díez contra la juez Alaya: «Esta es muy perversa ¿Qué podemos destapar de ella?»",
-      "subtitle": "La fontanera del PSOE compartió con un interlocutor su «estrategia»: «Yo no la voy a matar»",
-      "url": "https://www.abc.es/espana/andalucia/audios-leire-diez-jueza-alaya-perversa-podemos-20260604114700-nts.html",
-      "scraped_at": "2026-06-04T10:10:56Z"
+      "title": "El juez pide al PSOE y al PSC parte de sus movimientos bancarios en 2024 y 2025",
+      "subtitle": "Busca rastrear el pago de 20.000 que el partido hizo a un medio presuntamente vinculado a Leire Díez",
+      "url": "https://www.abc.es/espana/juez-investiga-cloacas-pide-psoe-psc-parte-20260605103917-nt.html",
+      "scraped_at": "2026-06-05T10:13:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "La casita de las vanidades",
-      "subtitle": "Algunas se llevan las manos a la cabeza, ofendidas, porque en 'La Casita' hay poca diversidad. Que ni las hay gordas, ni feas, ni bajas, ni pobres, ni cojas",
-      "url": "https://www.abc.es/opinion/rebeca-argudo-casita-vanidades-20260603193253-nt.html",
-      "scraped_at": "2026-06-04T10:10:56Z"
+      "title": "Leire Díez formateó documentos sensibles del Parlamento de Cantabria cuando el PSOE la cesó",
+      "subtitle": "Los socialistas la contrataron como asesora parlamentaria mediante la fórmula de autónoma dependiente, indemnizándola con 2.000 euros al prescindir de ella",
+      "url": "https://www.abc.es/espana/leire-diez-formateo-documentos-sensibles-parlamento-cantabria-20260603015840-nt.html",
+      "scraped_at": "2026-06-05T10:13:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Serán unos 65 euros más al mes si tienes una hipoteca variable de 170.000 euros con revisión anual»",
-      "subtitle": "El indicador de referencia suma tres meses al alza y alcanza su nivel más alto desde septiembre de 2024, encareciendo las cuotas de los hipotecados",
-      "url": "https://www.cope.es/actualidad/economia/noticias/victoria-ballesteros-experta-economia-seran-65-euros-mes-tienes-hipoteca-variable-170-000-euros-revision-anual-6-meses-55-euros-cuota-20260604_3376213.html",
-      "scraped_at": "2026-06-04T10:10:56Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-06-05T10:13:18Z"
     }
   ]
 }

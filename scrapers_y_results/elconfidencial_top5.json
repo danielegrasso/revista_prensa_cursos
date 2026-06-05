@@ -1,35 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Las pymes buscan trabajadores fuera porque en España no encuentran: Un estudio de la Comisión Europea revela la dificultad de las empresas para encontrar trabajadores a pesar de la alta tasa de paro. Contratar en el extranjero impulsa el crecimiento de la inmigración; A los cristianos con más tirón en España les da igual la visita del Papa: Nuestro país se prepara para la gran visita de León XIV, pero mientras las ciudades se llenan de fieles del Pontífice, las iglesias evangélicas siguen su propio camino ganando más seguidores que nunca; Derrapa la mudanza del año: Moeve rompe con Montoro y se queda en Torre Foster: La compañía energética ha resuelto el acuerdo que tenía con Monthisa, inmobiliaria de la familia Montoro, y renueva con Pontegadea para continuar en la icónica Torre Foster. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-04T10:11:03Z",
+  "summary": "Resumen del día en El Confidencial: Mercedes González, la sanchista más fiel: de 'asaltar' Madrid a las cloacas del PSOE: La directora de la Guardia Civil, que según las investigaciones de la UCO se reunió hasta tres veces con Leire Díaz, ha desempeñado con disciplina varios cargos para el Gobierno y el partido durante los últimos años; Comprar casa en Madrid no es pertenecer a Madrid: así se mueve hoy la élite latina: Al bajar del avión, descubren un problema que no se resuelve con una transferencia bancaria: instalarse en Madrid es fácil; pertenecer a Madrid, no tanto.; La 'Texas canadiense' abre la puerta a su independencia y Trump se frota las manos: Alberta plantea una consulta previa sobre secesión mientras crece el apoyo, afloran filtraciones de datos electorales y voces en Washington alientan la ruptura, tensando la relación energética y geopolítica norteamericana. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-05T10:13:22Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Las pymes buscan trabajadores fuera porque en España no encuentran",
-      "subtitle": "Un estudio de la Comisión Europea revela la dificultad de las empresas para encontrar trabajadores a pesar de la alta tasa de paro. Contratar en el extranjero impulsa el crecimiento de la inmigración",
-      "url": "https://www.elconfidencial.com/economia/2026-06-04/pymes-espanolas-buscan-trabajadores-extranjero_4366813/",
-      "scraped_at": "2026-06-04T10:11:01Z"
+      "title": "Mercedes González, la sanchista más fiel: de 'asaltar' Madrid a las cloacas del PSOE",
+      "subtitle": "La directora de la Guardia Civil, que según las investigaciones de la UCO se reunió hasta tres veces con Leire Díaz, ha desempeñado con disciplina varios cargos para el Gobierno y el partido durante los últimos años",
+      "url": "https://www.elconfidencial.com/espana/2026-06-05/perfil-mercedes-gonzalez-sanchista-fiel-candidata-madrid-cloacas-psoe_4367327/",
+      "scraped_at": "2026-06-05T10:13:21Z"
     },
     {
       "source": "El Confidencial",
-      "title": "A los cristianos con más tirón en España les da igual la visita del Papa",
-      "subtitle": "Nuestro país se prepara para la gran visita de León XIV, pero mientras las ciudades se llenan de fieles del Pontífice, las iglesias evangélicas siguen su propio camino ganando más seguidores que nunca",
-      "url": "https://www.elconfidencial.com/espana/2026-06-04/cristianismo-crece-espana-evangelicos-visita-papa-cbtr_4366707/",
-      "scraped_at": "2026-06-04T10:11:02Z"
+      "title": "Comprar casa en Madrid no es pertenecer a Madrid: así se mueve hoy la élite latina",
+      "subtitle": "Al bajar del avión, descubren un problema que no se resuelve con una transferencia bancaria: instalarse en Madrid es fácil; pertenecer a Madrid, no tanto.",
+      "url": "https://www.elconfidencial.com/espana/2026-06-05/como-mueve-elite-latinoamericana-madrid_4365383/",
+      "scraped_at": "2026-06-05T10:13:21Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Derrapa la mudanza del año: Moeve rompe con Montoro y se queda en Torre Foster",
-      "subtitle": "La compañía energética ha resuelto el acuerdo que tenía con Monthisa, inmobiliaria de la familia Montoro, y renueva con Pontegadea para continuar en la icónica Torre Foster",
-      "url": "https://www.elconfidencial.com/inmobiliario/oficinas/2026-06-04/moeve-cancela-cambio-sede-monthisa-pontegadea_4367117/",
-      "scraped_at": "2026-06-04T10:11:02Z"
+      "title": "La 'Texas canadiense' abre la puerta a su independencia y Trump se frota las manos",
+      "subtitle": "Alberta plantea una consulta previa sobre secesión mientras crece el apoyo, afloran filtraciones de datos electorales y voces en Washington alientan la ruptura, tensando la relación energética y geopolítica norteamericana",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-05/alberta-independencia-canada-trump-eeuu-1hms_4366306/",
+      "scraped_at": "2026-06-05T10:13:22Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El viaje del papa León XIV se produce en el peor momento de la crisis de Estado que vive el país",
-      "subtitle": "La visita del Papa a España está generando controversia en una situación política deteriorada hasta el punto de cuestionarse por distintos sectores la oportunidad de su viaje y de su programa de actos",
-      "url": "https://www.elconfidencial.com/espana/2026-06-04/visita-papa-espana-politica-cataluna-1hms_4366483/",
-      "scraped_at": "2026-06-04T10:11:03Z"
+      "title": "Dos muertos y tres heridos en un accidente de tráfico en la M-410 en Humanes (Madrid)",
+      "subtitle": "Dos hombres mueren y tres resultan graves en choque frontal en la M-410 a primera hora; bomberos rescatan a ocupantes y limpian la vía mientras la Guardia Civil investiga lo ocurrido",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-06-05/colision-frontal-humanes-madrid-1tna-1tps_4367875/",
+      "scraped_at": "2026-06-05T10:13:22Z"
     }
   ]
 }
