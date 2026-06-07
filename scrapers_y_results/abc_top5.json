@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre inaugura su viaje apostólico a España el 6 de junio en Madrid, con encuentros con autoridades, personas sin hogar y jóvenes; Cortes e incidencias en Madrid: Son varias las vías de la ciudad que experimentan cortes y restricciones de movilidad por los actos del Papa León XIV; El Papa León XIV recibe los mensajes de bienvenida de los lectores de ABC: Durante el vuelo a Madrid, Javier Martínez-Brocal, corresponsal en El Vaticano, ha entregado en mano el regalo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-06T08:45:16Z",
+  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 7 de junio, con la misa del Corpus y encuentros con los agustinos y la cultura; Cortes e incidencias en Madrid: Son varias las vías de la ciudad que experimentan cortes y restricciones de movilidad por los actos del Papa León XIV; León XIV reivindica una fe que «sale al encuentro» ante más de un millón de fieles: Frente a 1.200.000 fieles, el Papa reclama que la religión no quede encerrada en los templos ni relegada al ámbito privado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-07T09:32:33Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
       "title": "Agenda del día",
-      "subtitle": "El Santo Padre inaugura su viaje apostólico a España el 6 de junio en Madrid, con encuentros con autoridades, personas sin hogar y jóvenes",
-      "url": "https://www.abc.es/espana/madrid/agenda-papa-leon-xiv-hoy-sabado-madrid-20260606050000-nt.html",
-      "scraped_at": "2026-06-06T08:45:15Z"
+      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 7 de junio, con la misa del Corpus y encuentros con los agustinos y la cultura",
+      "url": "https://www.abc.es/espana/madrid/agenda-papa-leon-xiv-hoy-domingo-madrid-20260607050000-nt.html",
+      "scraped_at": "2026-06-07T09:32:32Z"
     },
     {
       "source": "ABC.es",
       "title": "Cortes e incidencias en Madrid",
       "subtitle": "Son varias las vías de la ciudad que experimentan cortes y restricciones de movilidad por los actos del Papa León XIV",
-      "url": "https://www.abc.es/espana/madrid/cortes-trafico-visita-papa-madrid-hoy-sabado-20260606060000-nt.html",
-      "scraped_at": "2026-06-06T08:45:15Z"
+      "url": "https://www.abc.es/espana/madrid/cortes-trafico-visita-papa-madrid-hoy-domingo-20260607060000-nt.html",
+      "scraped_at": "2026-06-07T09:32:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Papa León XIV recibe los mensajes de bienvenida de los lectores de ABC",
-      "subtitle": "Durante el vuelo a Madrid, Javier Martínez-Brocal, corresponsal en El Vaticano, ha entregado en mano el regalo",
-      "url": "https://www.abc.es/sociedad/papa-leon-xiv-recibe-mensajes-bienvenida-lectores-20260606103851-nt.html",
-      "scraped_at": "2026-06-06T08:45:16Z"
+      "title": "León XIV reivindica una fe que «sale al encuentro» ante más de un millón de fieles",
+      "subtitle": "Frente a 1.200.000 fieles, el Papa reclama que la religión no quede encerrada en los templos ni relegada al ámbito privado",
+      "url": "https://www.abc.es/sociedad/supervivencia-folclorica-leon-xiv-reivindica-presencia-publica-20260607110945-nt.html",
+      "scraped_at": "2026-06-07T09:32:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Tercera del Cardenal y Arzobispo de Madrid por el viaje de León XIV",
-      "subtitle": "León XIV trae un mensaje trascendente. No plantea una cuestión confesional, sino profundamente humana: cómo reconstruir sociedades capaces de cuidar, dialogar, convivir y proteger la dignidad de todos",
-      "url": "https://www.abc.es/opinion/jose-cobo-cano-alzad-mirada-20260605013742-nt.html",
-      "scraped_at": "2026-06-06T08:45:16Z"
+      "title": "Las mejores imágenes",
+      "subtitle": "El Santo Padre celebra este domingo una multitudinaria misa en Cibeles, acompañado por miles de fieles",
+      "url": "https://www.abc.es/sociedad/segundo-dia-leon-xiv-madrid-imagenes-20260607084421-ga.html",
+      "scraped_at": "2026-06-07T09:32:33Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-06-06T08:45:16Z"
+      "title": "«Soy auxiliar administrativo y cobro 1.300 euros al mes. Por suerte, mi casera solo me cobra 615 euros de alquiler por un piso de 80 metros cuadrados»",
+      "subtitle": "El auge turístico y la llegada de grandes empresas disparan el coste de vida y expulsan a los trabajadores locales, que ya no pueden permitirse vivir...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/auxiliar-administrativo-cobro-1-300-euros-mes-suerte-mi-casera-me-cobra-615-euros-alquiler-piso-80-metros-cuadrados-20260607_3373388.html",
+      "scraped_at": "2026-06-07T09:32:33Z"
     }
   ]
 }

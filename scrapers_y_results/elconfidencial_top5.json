@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: El voto católico cae a su nivel más bajo, pero aún decide y el PP sigue a la cabeza: Francisco y León XIV han acercado la izquierda a la Iglesia y distanciado a Vox por la inmigración. Poco más de la mitad de los españoles se declara católico frente al 84% de inicios de siglo; Ascensores, un empleo de 4.000 euros mensuales donde nadie quiere trabajar: Las empresas del sector utilizan métodos variopintos para encontrar personal y evitar que sus servicios se vean afectados. El escaso personal disponible tiene que escoger a quién asistir primero en caso de emergencias; Laura L. Mendizábal, militante socialista: \"Hay riesgo de pasar del Gobierno a la irrelevancia\": Se afilió al PSOE tras la decepción que supuso Podemos, por lo que toda su trayectoria ha sido bajo el liderazgo de Sánchez. Ahora le pide que dé un paso a un lado y facilite una transición rápida hacia posiciones socialdemócratas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-06T08:45:20Z",
+  "summary": "Resumen del día en El Confidencial: Ya está comprando bolsa el limpiabotas de Rockefeller, el momento más temido: Cada vez más personas se lanzan a comprar activos financieros atraídos por las subidas. El BCE detecta que son perfiles más jóvenes, sin formación financiera, pocos ingresos y escasa tolerancia al riesgo: la peor combinación posible; Sánchez, el gran ausente del juicio a su hermano: 4 motivos para condenar y absolver: El tribunal impidió explorar la vía que llevaba hasta el presidente y desdeñó los rumores sobre el amaño de la plaza, pero escuchó atento las conclusiones de la UCO; Dos Real Madrid: descifrando las propuestas y claves del duelo Florentino vs. Riquelme: Este domingo se decidirá quién será el próximo mandatario del conjunto blanco, en las primeras elecciones del club en los últimos veinte años con dos candidaturas con ideas muy diferentes. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-07T09:32:49Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "El voto católico cae a su nivel más bajo, pero aún decide y el PP sigue a la cabeza",
-      "subtitle": "Francisco y León XIV han acercado la izquierda a la Iglesia y distanciado a Vox por la inmigración. Poco más de la mitad de los españoles se declara católico frente al 84% de inicios de siglo",
-      "url": "https://www.elconfidencial.com/espana/2026-06-06/voto-catolico-cae-niveles-mas-bajos-historia-pero-sigue-decidiendo-elecciones_4366685/",
-      "scraped_at": "2026-06-06T08:45:18Z"
+      "title": "Ya está comprando bolsa el limpiabotas de Rockefeller, el momento más temido",
+      "subtitle": "Cada vez más personas se lanzan a comprar activos financieros atraídos por las subidas. El BCE detecta que son perfiles más jóvenes, sin formación financiera, pocos ingresos y escasa tolerancia al riesgo: la peor combinación posible",
+      "url": "https://www.elconfidencial.com/economia/2026-06-07/el-limpiabotas-de-rockefeller-estaria-ahora-comprando-acciones_4368208/",
+      "scraped_at": "2026-06-07T09:32:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Ascensores, un empleo de 4.000 euros mensuales donde nadie quiere trabajar",
-      "subtitle": "Las empresas del sector utilizan métodos variopintos para encontrar personal y evitar que sus servicios se vean afectados. El escaso personal disponible tiene que escoger a quién asistir primero en caso de emergencias",
-      "url": "https://www.elconfidencial.com/espana/2026-06-05/trabajo-ascensores-empresas-salarios_4368160/",
-      "scraped_at": "2026-06-06T08:45:19Z"
+      "title": "Sánchez, el gran ausente del juicio a su hermano: 4 motivos para condenar y absolver",
+      "subtitle": "El tribunal impidió explorar la vía que llevaba hasta el presidente y desdeñó los rumores sobre el amaño de la plaza, pero escuchó atento las conclusiones de la UCO",
+      "url": "https://www.elconfidencial.com/espana/2026-06-07/pedro-sanchez-el-gran-ausente-del-juicio-a-su-hermano-4-motivos-para-condenar-y-absolver_4368236/",
+      "scraped_at": "2026-06-07T09:32:47Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Laura L. Mendizábal, militante socialista: \"Hay riesgo de pasar del Gobierno a la irrelevancia\"",
-      "subtitle": "Se afilió al PSOE tras la decepción que supuso Podemos, por lo que toda su trayectoria ha sido bajo el liderazgo de Sánchez. Ahora le pide que dé un paso a un lado y facilite una transición rápida hacia posiciones socialdemócratas",
-      "url": "https://www.elconfidencial.com/espana/2026-06-06/laura-militante-socialista-cbtrntrv_4368181/",
-      "scraped_at": "2026-06-06T08:45:19Z"
+      "title": "Dos Real Madrid: descifrando las propuestas y claves del duelo Florentino vs. Riquelme",
+      "subtitle": "Este domingo se decidirá quién será el próximo mandatario del conjunto blanco, en las primeras elecciones del club en los últimos veinte años con dos candidaturas con ideas muy diferentes",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-06-07/real-madrid-florentino-perez-enrique-riquelme-candidatos-propuestas-cbtrgrf_4366617/",
+      "scraped_at": "2026-06-07T09:32:48Z"
     },
     {
       "source": "El Confidencial",
-      "title": "José Yélamo (La Sexta), premiado por su trayectoria y excelencia profesional",
-      "subtitle": "El periodista de La Sexta será galardonado por sus compañeros de profesión en Andalucía por su contribución al periodismo televisivo",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-06-05/jose-yelamo-la-sexta-xplica-premiado-trayectoria-profesional-land-insitu-2026_4368213/",
-      "scraped_at": "2026-06-06T08:45:20Z"
+      "title": "Los precios de las entradas para los conciertos: algo que deberías saber sobre los ricos",
+      "subtitle": "El coste de las entradas de las actuaciones en directo dice mucho de nuestra sociedad. Su evolución en las últimas décadas subraya las tendencias dominantes. Y señala un desgaste",
+      "url": "https://www.elconfidencial.com/economia/2026-06-07/precios-conciertos-vip-experiencia-ricos_4367661/",
+      "scraped_at": "2026-06-07T09:32:48Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "\"Uno de las grandes documentales sobre la comida y la cocina\": está en 'streaming', y te dará la sensación de estar comiendo en el restaurante Troisgros",
+      "subtitle": "Las cámaras acompañan todo el recorrido que hace posible la experiencia gastronómica en el laureado local francés, de tres estrellas Michelin",
+      "url": "https://www.elconfidencial.com/cultura/2026-06-07/documental-restaurante-troisgros-francia-1qrt_4367426/",
+      "scraped_at": "2026-06-07T09:32:49Z"
     }
   ]
 }
