@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 7 de junio, con la misa del Corpus y encuentros con los agustinos y la cultura; Cortes e incidencias en Madrid: Son varias las vías de la ciudad que experimentan cortes y restricciones de movilidad por los actos del Papa León XIV; León XIV reivindica una fe que «sale al encuentro» ante más de un millón de fieles: Frente a 1.200.000 fieles, el Papa reclama que la religión no quede encerrada en los templos ni relegada al ámbito privado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-07T09:32:33Z",
+  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 8 de junio, con la visita al Congreso y los encuentros con Sánchez, los obispos y las diócesis; El trayecto del papamóvil: El pontífice afronta este lunes en la capital el día grande de su apretada agenda que concluye mañana martes; El Papa pide al Congreso una «renovación moral» y lanza ante Sánchez un mensaje contra el aborto y la eutanasia: El Pontífice dice que «toda vida humana debe ser reconocida y custodiada desde su concepción hasta su ocaso natural». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-08T11:18:54Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
       "title": "Agenda del día",
-      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 7 de junio, con la misa del Corpus y encuentros con los agustinos y la cultura",
-      "url": "https://www.abc.es/espana/madrid/agenda-papa-leon-xiv-hoy-domingo-madrid-20260607050000-nt.html",
-      "scraped_at": "2026-06-07T09:32:32Z"
+      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 8 de junio, con la visita al Congreso y los encuentros con Sánchez, los obispos y las diócesis",
+      "url": "https://www.abc.es/espana/madrid/agenda-papa-leon-xiv-hoy-lunes-madrid-20260608050000-nt.html",
+      "scraped_at": "2026-06-08T11:18:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cortes e incidencias en Madrid",
-      "subtitle": "Son varias las vías de la ciudad que experimentan cortes y restricciones de movilidad por los actos del Papa León XIV",
-      "url": "https://www.abc.es/espana/madrid/cortes-trafico-visita-papa-madrid-hoy-domingo-20260607060000-nt.html",
-      "scraped_at": "2026-06-07T09:32:33Z"
+      "title": "El trayecto del papamóvil",
+      "subtitle": "El pontífice afronta este lunes en la capital el día grande de su apretada agenda que concluye mañana martes",
+      "url": "https://www.abc.es/espana/madrid/recorrido-papamovil-madrid-hoy-lunes-calles-pasar-20260607060000-nt.html",
+      "scraped_at": "2026-06-08T11:18:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "León XIV reivindica una fe que «sale al encuentro» ante más de un millón de fieles",
-      "subtitle": "Frente a 1.200.000 fieles, el Papa reclama que la religión no quede encerrada en los templos ni relegada al ámbito privado",
-      "url": "https://www.abc.es/sociedad/supervivencia-folclorica-leon-xiv-reivindica-presencia-publica-20260607110945-nt.html",
-      "scraped_at": "2026-06-07T09:32:33Z"
+      "title": "El Papa pide al Congreso una «renovación moral» y lanza ante Sánchez un mensaje contra el aborto y la eutanasia",
+      "subtitle": "El Pontífice dice que «toda vida humana debe ser reconocida y custodiada desde su concepción hasta su ocaso natural»",
+      "url": "https://www.abc.es/sociedad/papa-pide-congreso-renovacion-moral-basar-decisiones-20260608112735-nt.html",
+      "scraped_at": "2026-06-08T11:18:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las mejores imágenes",
-      "subtitle": "El Santo Padre celebra este domingo una multitudinaria misa en Cibeles, acompañado por miles de fieles",
-      "url": "https://www.abc.es/sociedad/segundo-dia-leon-xiv-madrid-imagenes-20260607084421-ga.html",
-      "scraped_at": "2026-06-07T09:32:33Z"
+      "title": "El Papa reclama a los obispos españoles «verdad, justicia y reparación» ante la «plaga» de los abusos",
+      "subtitle": "El Pontífice exige en la sede de la Conferencia Episcopal una respuesta firme «basada en la escucha, la prevención y el cuidado»",
+      "url": "https://www.abc.es/sociedad/leon-xiv-reclama-obispos-espanoles-verdad-justicia-20260608122254-nt.html",
+      "scraped_at": "2026-06-08T11:18:54Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Soy auxiliar administrativo y cobro 1.300 euros al mes. Por suerte, mi casera solo me cobra 615 euros de alquiler por un piso de 80 metros cuadrados»",
-      "subtitle": "El auge turístico y la llegada de grandes empresas disparan el coste de vida y expulsan a los trabajadores locales, que ya no pueden permitirse vivir...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/auxiliar-administrativo-cobro-1-300-euros-mes-suerte-mi-casera-me-cobra-615-euros-alquiler-piso-80-metros-cuadrados-20260607_3373388.html",
-      "scraped_at": "2026-06-07T09:32:33Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-06-08T11:18:54Z"
     }
   ]
 }

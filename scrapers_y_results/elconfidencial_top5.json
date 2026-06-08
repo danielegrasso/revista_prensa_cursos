@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Confidencial: Ya está comprando bolsa el limpiabotas de Rockefeller, el momento más temido: Cada vez más personas se lanzan a comprar activos financieros atraídos por las subidas. El BCE detecta que son perfiles más jóvenes, sin formación financiera, pocos ingresos y escasa tolerancia al riesgo: la peor combinación posible; Sánchez, el gran ausente del juicio a su hermano: 4 motivos para condenar y absolver: El tribunal impidió explorar la vía que llevaba hasta el presidente y desdeñó los rumores sobre el amaño de la plaza, pero escuchó atento las conclusiones de la UCO; Dos Real Madrid: descifrando las propuestas y claves del duelo Florentino vs. Riquelme: Este domingo se decidirá quién será el próximo mandatario del conjunto blanco, en las primeras elecciones del club en los últimos veinte años con dos candidaturas con ideas muy diferentes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-07T09:32:49Z",
+  "summary": "Resumen del día en El Confidencial: El Papa reivindica en el Congreso la defensa de la vida, desde \"el no nacido\" al \"inmigrante\": León XIV pronuncia un inédito discurso en el que pidió a la clase política huir de la &quot;descalificación&quot; porque &quot;la discrepancia no conlleva humillación&quot;. Reclama dar &quot;respuesta&quot; ante el &quot;drama migratorio&quot; y rechaza el &quot;rearme europeo&quot;; De la Nunciatura a la Cámara Baja y su charla con Nogueras: las imágenes de su visita: El papa León XIV visita la capital del 6 al 9 de junio en un viaje que transforma la ciudad. La agenda del Pontífice combina actos multitudinarios, como el del Santiago Bernabéu o Cibeles, con encuentros institucionales y sociales; La pregunta del madridista: ¿sin elecciones no habría fichajes de Florentino?: Mourinho, Konaté y Dumfries son los primeros refuerzos del Madrid, que además hará una oferta de 150M por un centrocampista, pero... ¿por qué no se hizo ya el pasado verano?. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-08T11:18:58Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Ya está comprando bolsa el limpiabotas de Rockefeller, el momento más temido",
-      "subtitle": "Cada vez más personas se lanzan a comprar activos financieros atraídos por las subidas. El BCE detecta que son perfiles más jóvenes, sin formación financiera, pocos ingresos y escasa tolerancia al riesgo: la peor combinación posible",
-      "url": "https://www.elconfidencial.com/economia/2026-06-07/el-limpiabotas-de-rockefeller-estaria-ahora-comprando-acciones_4368208/",
-      "scraped_at": "2026-06-07T09:32:47Z"
+      "title": "El Papa reivindica en el Congreso la defensa de la vida, desde \"el no nacido\" al \"inmigrante\"",
+      "subtitle": "León XIV pronuncia un inédito discurso en el que pidió a la clase política huir de la &quot;descalificación&quot; porque &quot;la discrepancia no conlleva humillación&quot;. Reclama dar &quot;respuesta&quot; ante el &quot;drama migratorio&quot; y rechaza el &quot;rearme europeo&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-06-08/el-papa-reivindica-en-el-congreso-la-defensa-de-la-vida-desde_4368998/",
+      "scraped_at": "2026-06-08T11:18:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Sánchez, el gran ausente del juicio a su hermano: 4 motivos para condenar y absolver",
-      "subtitle": "El tribunal impidió explorar la vía que llevaba hasta el presidente y desdeñó los rumores sobre el amaño de la plaza, pero escuchó atento las conclusiones de la UCO",
-      "url": "https://www.elconfidencial.com/espana/2026-06-07/pedro-sanchez-el-gran-ausente-del-juicio-a-su-hermano-4-motivos-para-condenar-y-absolver_4368236/",
-      "scraped_at": "2026-06-07T09:32:47Z"
+      "title": "De la Nunciatura a la Cámara Baja y su charla con Nogueras: las imágenes de su visita",
+      "subtitle": "El papa León XIV visita la capital del 6 al 9 de junio en un viaje que transforma la ciudad. La agenda del Pontífice combina actos multitudinarios, como el del Santiago Bernabéu o Cibeles, con encuentros institucionales y sociales",
+      "url": "https://www.elconfidencial.com/espana/2026-06-06/un-papa-visita-espana-por-primera-vez-desde-2011-las-imagenes-mas-destacadas-de-su-visita-a-madrid_4368292/",
+      "scraped_at": "2026-06-08T11:18:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Dos Real Madrid: descifrando las propuestas y claves del duelo Florentino vs. Riquelme",
-      "subtitle": "Este domingo se decidirá quién será el próximo mandatario del conjunto blanco, en las primeras elecciones del club en los últimos veinte años con dos candidaturas con ideas muy diferentes",
-      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-06-07/real-madrid-florentino-perez-enrique-riquelme-candidatos-propuestas-cbtrgrf_4366617/",
-      "scraped_at": "2026-06-07T09:32:48Z"
+      "title": "La pregunta del madridista: ¿sin elecciones no habría fichajes de Florentino?",
+      "subtitle": "Mourinho, Konaté y Dumfries son los primeros refuerzos del Madrid, que además hará una oferta de 150M por un centrocampista, pero... ¿por qué no se hizo ya el pasado verano?",
+      "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-06-08/real-madrid-florentino-perez-nueva-plantilla-pregunta-aficion_4368947/",
+      "scraped_at": "2026-06-08T11:18:57Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los precios de las entradas para los conciertos: algo que deberías saber sobre los ricos",
-      "subtitle": "El coste de las entradas de las actuaciones en directo dice mucho de nuestra sociedad. Su evolución en las últimas décadas subraya las tendencias dominantes. Y señala un desgaste",
-      "url": "https://www.elconfidencial.com/economia/2026-06-07/precios-conciertos-vip-experiencia-ricos_4367661/",
-      "scraped_at": "2026-06-07T09:32:48Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "\"Uno de las grandes documentales sobre la comida y la cocina\": está en 'streaming', y te dará la sensación de estar comiendo en el restaurante Troisgros",
-      "subtitle": "Las cámaras acompañan todo el recorrido que hace posible la experiencia gastronómica en el laureado local francés, de tres estrellas Michelin",
-      "url": "https://www.elconfidencial.com/cultura/2026-06-07/documental-restaurante-troisgros-francia-1qrt_4367426/",
-      "scraped_at": "2026-06-07T09:32:49Z"
+      "title": "\"Hay que preparar la próxima crisis\": el otro plan de la izquierda",
+      "subtitle": "El anuncio del XXII Congreso del Partido Comunista de España, para el que ya hay una candidatura presentada, subraya algunas dudas de la izquierda sobre el camino que seguir",
+      "url": "https://www.elconfidencial.com/espana/2026-06-08/ira-crisis-elecciones-comunismo-izquierda_4368174/",
+      "scraped_at": "2026-06-08T11:18:58Z"
     }
   ]
 }

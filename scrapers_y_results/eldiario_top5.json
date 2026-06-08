@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El ex número dos de Fernández Díaz, en un audio con Leire Díez: “La cuenta de Trias era todo falso. A Jorge le chiflaba filtrar”: Francisco Martínez reveló a Leire Díez los detalles de las pruebas falsas contra el exalcalde de Barcelona que difundió Fernández Díaz a través de medios afines al PP; La trama conspiranoica de Leire Díez, un torpedo en los cimientos del PSOE: La investigación del juez Pedraz, que avanza a la espera de si realiza nuevas imputaciones, apunta a la existencia de un grupo que enraizó en Ferraz pero fracasó en su boicot a los casos más comprometidos para el entorno del partido y el Gobierno; Sánchez gana tiempo para llegar al verano del 2027 con la bandera de la sentencia europea sobre la amnistía y la financiación: La Moncloa busca hitos en el calendario con los que apretar el botón electoral, pero descarta el superdomingo y llamar a las urnas en otoño. El Gobierno rechaza también que el plan B sea convertir un hipotético rechazo a los Presupuestos en pistoletazo de salida para unas elecciones en febrero o marzo: “Una derrota del PSOE no librará dos meses después a los alcaldes y barones autonómicos de una posible hecatombe”. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-07T09:32:31Z",
+  "summary": "Resumen del día en elDiario.es: El Papa defiende la “acogida respetuosa” de migrantes y critica el rearme: “La seguridad nace de la justicia”: León XIV ofrece un discurso ante diputados y senadores en el que pide abrir \"vías seguras y legales\" y \"posibilidades reales de integración\" para los inmigrantes. También carga contra la \"descalificación permanente del adversario\" en política; El Papa carga en el Congreso contra el aborto y la eutanasia: León XIV reclama que la \"dignidad inviolable de la persona humana\" no quede \"subordinada a consensos sociales mudables o al vaivén de las mayorías de cada momento\"; Víctimas de pederastia en la Iglesia exigen al Papa “una escucha real”: “No nos evite, dialogue con nosotros”: Tras el polémico anuncio de que León XIV se reunirá hoy con víctimas de abusos, varias asociaciones denuncian que estas no representan a su totalidad, dando voz a un grupo muy reducido. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-08T11:18:53Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El ex número dos de Fernández Díaz, en un audio con Leire Díez: “La cuenta de Trias era todo falso. A Jorge le chiflaba filtrar”",
-      "subtitle": "Francisco Martínez reveló a Leire Díez los detalles de las pruebas falsas contra el exalcalde de Barcelona que difundió Fernández Díaz a través de medios afines al PP",
-      "url": "https://www.eldiario.es/politica/ex-numero-fernandez-diaz-audio-leire-diez-cuenta-trias-falso-jorge-le-chiflaba-filtrar_1_13277803.html",
-      "scraped_at": "2026-06-07T09:32:29Z"
+      "title": "El Papa defiende la “acogida respetuosa” de migrantes y critica el rearme: “La seguridad nace de la justicia”",
+      "subtitle": "León XIV ofrece un discurso ante diputados y senadores en el que pide abrir \"vías seguras y legales\" y \"posibilidades reales de integración\" para los inmigrantes. También carga contra la \"descalificación permanente del adversario\" en política",
+      "url": "https://www.eldiario.es/politica/papa-defiende-congreso-acogida-respetuosa-migrantes-critica-rearme-seguridad-nace-justicia_1_13283353.html",
+      "scraped_at": "2026-06-08T11:18:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La trama conspiranoica de Leire Díez, un torpedo en los cimientos del PSOE",
-      "subtitle": "La investigación del juez Pedraz, que avanza a la espera de si realiza nuevas imputaciones, apunta a la existencia de un grupo que enraizó en Ferraz pero fracasó en su boicot a los casos más comprometidos para el entorno del partido y el Gobierno",
-      "url": "https://www.eldiario.es/politica/trama-conspiranoica-leire-diez-torpedo-cimientos-psoe_1_13279982.html",
-      "scraped_at": "2026-06-07T09:32:30Z"
+      "title": "El Papa carga en el Congreso contra el aborto y la eutanasia",
+      "subtitle": "León XIV reclama que la \"dignidad inviolable de la persona humana\" no quede \"subordinada a consensos sociales mudables o al vaivén de las mayorías de cada momento\"",
+      "url": "https://www.eldiario.es/sociedad/papa-carga-aborto-eutanasia-vida-debe-reconocida-concepcion-ocaso-natural_1_13283310.html",
+      "scraped_at": "2026-06-08T11:18:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez gana tiempo para llegar al verano del 2027 con la bandera de la sentencia europea sobre la amnistía y la financiación",
-      "subtitle": "La Moncloa busca hitos en el calendario con los que apretar el botón electoral, pero descarta el superdomingo y llamar a las urnas en otoño. El Gobierno rechaza también que el plan B sea convertir un hipotético rechazo a los Presupuestos en pistoletazo de salida para unas elecciones en febrero o marzo: “Una derrota del PSOE no librará dos meses después a los alcaldes y barones autonómicos de una posible hecatombe”",
-      "url": "https://www.eldiario.es/politica/sanchez-gana-tiempo-llegar-verano-2027-bandera-sentencia-europea-amnistia-financiacion-autonomica_129_13279673.html",
-      "scraped_at": "2026-06-07T09:32:30Z"
+      "title": "Víctimas de pederastia en la Iglesia exigen al Papa “una escucha real”: “No nos evite, dialogue con nosotros”",
+      "subtitle": "Tras el polémico anuncio de que León XIV se reunirá hoy con víctimas de abusos, varias asociaciones denuncian que estas no representan a su totalidad, dando voz a un grupo muy reducido",
+      "url": "https://www.eldiario.es/sociedad/victimas-pederastia-iglesia-exigen-papa-escucha-real-e-inclusiva-no-evite-dialogue_1_13283868.html",
+      "scraped_at": "2026-06-08T11:18:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Diana Morant: “Las notas de corte suben porque las autonomías han decidido no crear plazas en la universidad pública”",
-      "subtitle": "La ministra de Ciencia, Innovación y Universidades admite que el PSOE pasa \"un momento complejo\" tras los presuntos casos de corrupción, pero considera que el Gobierno tiene apoyo de la sociedad \"y no hay alternativa\"",
-      "url": "https://www.eldiario.es/sociedad/diana-morant-notas-corte-suben-autonomias-han-decidido-no-crear-plazas-universidad-publica_128_13281907.html",
-      "scraped_at": "2026-06-07T09:32:31Z"
+      "title": "El Sindicato de Inquilinas entrega una carta al Papa en la que le pide que frene los desahucios de la Iglesia",
+      "subtitle": "La plataforma reclama que se impidan las ventas de viviendas de la Fundación Fusara a un fondo buitre y afean a la Iglesia la expulsión de Mariano",
+      "url": "https://www.eldiario.es/economia/sindicato-inquilinas-entrega-carta-papa-le-pide-frene-desahucios-iglesia_1_13283599.html",
+      "scraped_at": "2026-06-08T11:18:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Papa León XIV",
-      "subtitle": "Multitudinaria misa del Corpus en Cibeles horas antes de que León XIV se reúna con algunas víctimas de abusos este lunes en la Nunciatura",
-      "url": "https://www.eldiario.es/sociedad/papa-lanza-recado-ultras-denuncia-arrodillan-senor-desprecian-hermanos_1_13281997.html",
-      "scraped_at": "2026-06-07T09:32:31Z"
+      "title": "Pareja de Ayuso",
+      "subtitle": "El actual magistrado del caso, Antonio Viejo, prometió el 30 de abril al fiscal y los investigadores policiales que libraría los mandamientos para acceder a cuentas y sociedades de Alberto Gonzalez Amador por el presunto soborno a un directivo de Quirón, pero cinco semanas después aún no lo ha hecho",
+      "url": "https://www.eldiario.es/politica/operacion-cirbelia-investigacion-uco-pareja-ayuso-no-arranca-falta-autorizacion-juez_1_13278471.html",
+      "scraped_at": "2026-06-08T11:18:53Z"
     }
   ]
 }
