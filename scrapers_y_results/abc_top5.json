@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 8 de junio, con la visita al Congreso y los encuentros con Sánchez, los obispos y las diócesis; El trayecto del papamóvil: El pontífice afronta este lunes en la capital el día grande de su apretada agenda que concluye mañana martes; El Papa pide al Congreso una «renovación moral» y lanza ante Sánchez un mensaje contra el aborto y la eutanasia: El Pontífice dice que «toda vida humana debe ser reconocida y custodiada desde su concepción hasta su ocaso natural». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-08T11:18:54Z",
+  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 9 de junio, con el encuentro con los voluntarios, la vigilia y el rezo de Sexta en Barcelona; Cortes e incidencias: El pontífice llega a la Ciudad Condal este martes para continuar con su viaje apostólico en España; La UCO desvela correos de David Sánchez a su hermano y a Begoña Gómez informándoles de gestiones: La acusación popular Iustitia Europa alude a los documentos en los informes finales del juicio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-09T10:01:15Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
       "title": "Agenda del día",
-      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 8 de junio, con la visita al Congreso y los encuentros con Sánchez, los obispos y las diócesis",
-      "url": "https://www.abc.es/espana/madrid/agenda-papa-leon-xiv-hoy-lunes-madrid-20260608050000-nt.html",
-      "scraped_at": "2026-06-08T11:18:54Z"
+      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 9 de junio, con el encuentro con los voluntarios, la vigilia y el rezo de Sexta en Barcelona",
+      "url": "https://www.abc.es/espana/cataluna/agenda-papa-leon-xiv-hoy-martes-madrid-20260609050000-nt.html",
+      "scraped_at": "2026-06-09T10:01:13Z"
     },
     {
       "source": "ABC.es",
-      "title": "El trayecto del papamóvil",
-      "subtitle": "El pontífice afronta este lunes en la capital el día grande de su apretada agenda que concluye mañana martes",
-      "url": "https://www.abc.es/espana/madrid/recorrido-papamovil-madrid-hoy-lunes-calles-pasar-20260607060000-nt.html",
-      "scraped_at": "2026-06-08T11:18:54Z"
+      "title": "Cortes e incidencias",
+      "subtitle": "El pontífice llega a la Ciudad Condal este martes para continuar con su viaje apostólico en España",
+      "url": "https://www.abc.es/espana/cataluna/cortes-trafico-barcelona-llegada-papa-hoy-martes-20260609053000-nt.html",
+      "scraped_at": "2026-06-09T10:01:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Papa pide al Congreso una «renovación moral» y lanza ante Sánchez un mensaje contra el aborto y la eutanasia",
-      "subtitle": "El Pontífice dice que «toda vida humana debe ser reconocida y custodiada desde su concepción hasta su ocaso natural»",
-      "url": "https://www.abc.es/sociedad/papa-pide-congreso-renovacion-moral-basar-decisiones-20260608112735-nt.html",
-      "scraped_at": "2026-06-08T11:18:54Z"
+      "title": "La UCO desvela correos de David Sánchez a su hermano y a Begoña Gómez informándoles de gestiones",
+      "subtitle": "La acusación popular Iustitia Europa alude a los documentos en los informes finales del juicio",
+      "url": "https://www.abc.es/espana/extremadura/acusaciones-desvelan-correos-david-pedro-sanchez-claves-20260608015258-nt.html",
+      "scraped_at": "2026-06-09T10:01:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Papa reclama a los obispos españoles «verdad, justicia y reparación» ante la «plaga» de los abusos",
-      "subtitle": "El Pontífice exige en la sede de la Conferencia Episcopal una respuesta firme «basada en la escucha, la prevención y el cuidado»",
-      "url": "https://www.abc.es/sociedad/leon-xiv-reclama-obispos-espanoles-verdad-justicia-20260608122254-nt.html",
-      "scraped_at": "2026-06-08T11:18:54Z"
+      "title": "Pardo de Vera: «Supe de la relación de Jésica y Ábalos y le dije que no se podía prorrogar el contrato»",
+      "subtitle": "La expresidenta de Adif relató al juez los intereses del exministro y Koldo con empresas de la trama",
+      "url": "https://www.abc.es/espana/pardo-vera-supe-relacion-jesica-abalos-dije-20260608015304-nt.html",
+      "scraped_at": "2026-06-09T10:01:14Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-06-08T11:18:54Z"
+      "scraped_at": "2026-06-09T10:01:15Z"
     }
   ]
 }
