@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 9 de junio, con el encuentro con los voluntarios, la vigilia y el rezo de Sexta en Barcelona; Cortes e incidencias: El pontífice llega a la Ciudad Condal este martes para continuar con su viaje apostólico en España; La UCO desvela correos de David Sánchez a su hermano y a Begoña Gómez informándoles de gestiones: La acusación popular Iustitia Europa alude a los documentos en los informes finales del juicio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-09T10:01:15Z",
+  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 10 de junio, con la visita a Monserrat y la Sagrada Familia y el encuentro con el Rey Felipe VI y la realidad penitenciaria; El Papamóvil en Barcelona: Este miércoles es el día más importante del Pontífice en la Ciudad Condal; El antiguo jefe de la Guardia Civil censuró los correos entre David Sánchez y su hermano: Los mensajes de David Sánchez a 'pedrosanchez1212' y al mail institucional del presidente informándole sobre su situación laboral que se han desvelado en la causa del 'hermanísimo' no fueron investigados. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-10T10:20:22Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
       "title": "Agenda del día",
-      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 9 de junio, con el encuentro con los voluntarios, la vigilia y el rezo de Sexta en Barcelona",
-      "url": "https://www.abc.es/espana/cataluna/agenda-papa-leon-xiv-hoy-martes-madrid-20260609050000-nt.html",
-      "scraped_at": "2026-06-09T10:01:13Z"
+      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 10 de junio, con la visita a Monserrat y la Sagrada Familia y el encuentro con el Rey Felipe VI y la realidad penitenciaria",
+      "url": "https://www.abc.es/espana/cataluna/agenda-papa-leon-xiv-hoy-miercoles-barcelona-20260610050000-nt.html",
+      "scraped_at": "2026-06-10T10:20:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cortes e incidencias",
-      "subtitle": "El pontífice llega a la Ciudad Condal este martes para continuar con su viaje apostólico en España",
-      "url": "https://www.abc.es/espana/cataluna/cortes-trafico-barcelona-llegada-papa-hoy-martes-20260609053000-nt.html",
-      "scraped_at": "2026-06-09T10:01:14Z"
+      "title": "El Papamóvil en Barcelona",
+      "subtitle": "Este miércoles es el día más importante del Pontífice en la Ciudad Condal",
+      "url": "https://www.abc.es/espana/cataluna/recorrido-papamovil-barcelona-hoy-miercoles-calles-pasar-20260610124632-nt.html",
+      "scraped_at": "2026-06-10T10:20:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO desvela correos de David Sánchez a su hermano y a Begoña Gómez informándoles de gestiones",
-      "subtitle": "La acusación popular Iustitia Europa alude a los documentos en los informes finales del juicio",
-      "url": "https://www.abc.es/espana/extremadura/acusaciones-desvelan-correos-david-pedro-sanchez-claves-20260608015258-nt.html",
-      "scraped_at": "2026-06-09T10:01:14Z"
+      "title": "El antiguo jefe de la Guardia Civil censuró los correos entre David Sánchez y su hermano",
+      "subtitle": "Los mensajes de David Sánchez a 'pedrosanchez1212' y al mail institucional del presidente informándole sobre su situación laboral que se han desvelado en la causa del 'hermanísimo' no fueron investigados",
+      "url": "https://www.abc.es/espana/antiguo-jefe-guardia-civil-ordeno-uco-ponerse-20260610012726-nt.html",
+      "scraped_at": "2026-06-10T10:20:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pardo de Vera: «Supe de la relación de Jésica y Ábalos y le dije que no se podía prorrogar el contrato»",
-      "subtitle": "La expresidenta de Adif relató al juez los intereses del exministro y Koldo con empresas de la trama",
-      "url": "https://www.abc.es/espana/pardo-vera-supe-relacion-jesica-abalos-dije-20260608015304-nt.html",
-      "scraped_at": "2026-06-09T10:01:14Z"
+      "title": "Cuando el Estado es cómplice",
+      "subtitle": "El imperio de la ley se resquebraja cuando quienes tienen la responsabilidad de preservarlo son sospechosos de traicionarlo",
+      "url": "https://www.abc.es/opinion/editorial-estado-complice-20260609013043-nt.html",
+      "scraped_at": "2026-06-10T10:20:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-06-09T10:01:15Z"
+      "title": "Cynthia García, abogada: «El problema de una herencia surge cuando hay bienes inmuebles indivisibles»",
+      "subtitle": "La principal problemática en las herencias surge con los bienes inmuebles que no se pueden dividir, lo que obliga a la intervención judicial para su...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/cynthia-garcia-abogada-problema-herencia-surge-hay-bienes-inmuebles-indivisibles-herederos-no-ponen-acuerdo-tendran-acudir-juez-20260610_3374040.html",
+      "scraped_at": "2026-06-10T10:20:22Z"
     }
   ]
 }

@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: La imputación de Sánchez depende del móvil requisado por la UCO a su amigo Juanma Serrano: La UCO incautó un móvil y un ordenador del hombre de confianza del presidente y analiza su contenido para establecer si le informaba de los planes de la trama de Leire Díez; Por qué Adidas sale ganando aunque todo el mundo falsifique su camiseta más vendida: El fervor por la segunda equipación de la selección española es un fenómeno sin precedentes. Un bombazo que habla del tirón de las camisetas de fútbol, pero también de luxurización; Los nuevos ataques de Irán contra Israel te revelan la nueva doctrina militar de Teherán: Todo indica que el régimen iraní está dejando atrás su doctrina de la contención a raíz de la guerra contra EEUU e Israel. El nuevo Iran que empieza a asomar es uno mucho más dispuesto a usar la fuerza. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-09T10:01:19Z",
+  "summary": "Resumen del día en El Confidencial: El juez rastrea las dos reuniones de las cloacas con la mano derecha del exfiscal general García Ortiz: En los encuentros se abordaron aspectos en los que en aquel momento trabajaba en el entramado. Desde el recorrido de algunas causas ya judicializadas que afectaban al entorno del PSOE hasta su intención de presentar diferentes denuncias.; El precio de la vivienda en el mundo se modera, pero España y Portugal son la anomalía: Los precios reales de la vivienda a nivel mundial cayeron un 0,6% interanual en 2025. En el caso de las economías avanzadas, el aumento fue del 0,4. En España y Portugal, por el contrario, los incrementos son de dos dígitos; Esta es la última novela que el franquismo censuró y narra la agonía del dictador: En marzo de 1976, cuatro meses después de la muerte del dictador, el régimen ordenó la destrucción de ese libro de Jesús Torbado. Fue la última obra narrativa prohibida por la censura, y ahora Chamán Ediciones la reedita. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-10T10:20:28Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La imputación de Sánchez depende del móvil requisado por la UCO a su amigo Juanma Serrano",
-      "subtitle": "La UCO incautó un móvil y un ordenador del hombre de confianza del presidente y analiza su contenido para establecer si le informaba de los planes de la trama de Leire Díez",
-      "url": "https://www.elconfidencial.com/espana/2026-06-09/imputacion-pedro-sanchez-contenido-movil-requisado-juanma-serrano_4367973/",
-      "scraped_at": "2026-06-09T10:01:18Z"
+      "title": "El juez rastrea las dos reuniones de las cloacas con la mano derecha del exfiscal general García Ortiz",
+      "subtitle": "En los encuentros se abordaron aspectos en los que en aquel momento trabajaba en el entramado. Desde el recorrido de algunas causas ya judicializadas que afectaban al entorno del PSOE hasta su intención de presentar diferentes denuncias.",
+      "url": "https://www.elconfidencial.com/espana/2026-06-10/leire-diez-pedraz-villarejo-fiscalia-pacto-disparar-rajoy_4370079/",
+      "scraped_at": "2026-06-10T10:20:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Por qué Adidas sale ganando aunque todo el mundo falsifique su camiseta más vendida",
-      "subtitle": "El fervor por la segunda equipación de la selección española es un fenómeno sin precedentes. Un bombazo que habla del tirón de las camisetas de fútbol, pero también de luxurización",
-      "url": "https://www.elconfidencial.com/deportes/2026-06-09/adidas-camiseta-espana-segunda-equipacion-china_4367858/",
-      "scraped_at": "2026-06-09T10:01:18Z"
+      "title": "El precio de la vivienda en el mundo se modera, pero España y Portugal son la anomalía",
+      "subtitle": "Los precios reales de la vivienda a nivel mundial cayeron un 0,6% interanual en 2025. En el caso de las economías avanzadas, el aumento fue del 0,4. En España y Portugal, por el contrario, los incrementos son de dos dígitos",
+      "url": "https://www.elconfidencial.com/economia/2026-06-10/espana-portugal-rompen-tendencia-moderacion-precio-vivienda_4370072/",
+      "scraped_at": "2026-06-10T10:20:26Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Los nuevos ataques de Irán contra Israel te revelan la nueva doctrina militar de Teherán",
-      "subtitle": "Todo indica que el régimen iraní está dejando atrás su doctrina de la contención a raíz de la guerra contra EEUU e Israel. El nuevo Iran que empieza a asomar es uno mucho más dispuesto a usar la fuerza",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-09/nueva-doctrina-militar-iran_4369100/",
-      "scraped_at": "2026-06-09T10:01:19Z"
+      "title": "Esta es la última novela que el franquismo censuró y narra la agonía del dictador",
+      "subtitle": "En marzo de 1976, cuatro meses después de la muerte del dictador, el régimen ordenó la destrucción de ese libro de Jesús Torbado. Fue la última obra narrativa prohibida por la censura, y ahora Chamán Ediciones la reedita",
+      "url": "https://www.elconfidencial.com/cultura/2026-06-10/sobresalto-espanol-ultima-novela-censurada-franquismo_4370009/",
+      "scraped_at": "2026-06-10T10:20:27Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Putin apagó su sistema de vigilancia después del asesinato de Jamenei",
-      "subtitle": "Los servicios de seguridad de Moscú suspendieron temporalmente el sistema de seguridad de Putin por miedo a que hubiera sido hackeado como en Teherán",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-08/putin-suspendio-sistema-vigilancia-despues-del-asesinato-jamenei-en-iran_4369452/",
-      "scraped_at": "2026-06-09T10:01:19Z"
+      "title": "Violentos disturbios en Belfast tras el intento de decapitación de un ciudadano de Sudán",
+      "subtitle": "Varias casas y vehículos han sido arrasados después de que figuras muy seguidas en la ultraderecha como Elon Musk o Tommy Robinson hayan pedido en redes salir a las calles",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-10/calles-belfast-arden-llamada-ultraderecha-protestas-ataque-cuchillo_4370292/",
+      "scraped_at": "2026-06-10T10:20:27Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "El vínculo secreto que une al papa León XIV con la Moreneta ante la que rezará el Santo Rosario en su visita a Barcelona",
+      "subtitle": "El papa León XIV visitará la Abadía de Montserrat para rezar el Santo Rosario ante la Moreneta, un reencuentro cargado de emoción que conecta su pasado misionero en Perú con el corazón espiritual catalán",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-06-10/vinculo-secreto-une-leon-xiv-con-moreneta-a-miles-kilometros-catalunya_4370158/",
+      "scraped_at": "2026-06-10T10:20:28Z"
     }
   ]
 }
