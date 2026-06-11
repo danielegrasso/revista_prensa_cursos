@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Agenda del día: El Santo Padre continúa su viaje apostólico a España este 10 de junio, con la visita a Monserrat y la Sagrada Familia y el encuentro con el Rey Felipe VI y la realidad penitenciaria; El Papamóvil en Barcelona: Este miércoles es el día más importante del Pontífice en la Ciudad Condal; El antiguo jefe de la Guardia Civil censuró los correos entre David Sánchez y su hermano: Los mensajes de David Sánchez a 'pedrosanchez1212' y al mail institucional del presidente informándole sobre su situación laboral que se han desvelado en la causa del 'hermanísimo' no fueron investigados. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-10T10:20:22Z",
+  "summary": "Resumen del día en ABC.es: David Sánchez escribía al correo institucional de Begoña sobre «cartas de recomendación»: Una captura recogida en un informe de la UCO revela que el músico escribió tres mensajes en menos de un día al correo de Moncloa de la mujer del presidente; «No le tiraremos piedras a Sánchez por respeto al Papa»: El Papa visita hoy el muelle de la vergüenza del sur de Gran Canaria, donde el Gobierno llegó a hacinar a casi 4.000 inmigrantes; León XIV bendice la torre más alta de la Sagrada Familia como «signo de unidad»: Los barceloneses vieron este miércoles por primera vez brillar su torre más alta como imaginó Gaudí, en todo su esplendor. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-11T10:56:33Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Agenda del día",
-      "subtitle": "El Santo Padre continúa su viaje apostólico a España este 10 de junio, con la visita a Monserrat y la Sagrada Familia y el encuentro con el Rey Felipe VI y la realidad penitenciaria",
-      "url": "https://www.abc.es/espana/cataluna/agenda-papa-leon-xiv-hoy-miercoles-barcelona-20260610050000-nt.html",
-      "scraped_at": "2026-06-10T10:20:21Z"
+      "title": "David Sánchez escribía al correo institucional de Begoña sobre «cartas de recomendación»",
+      "subtitle": "Una captura recogida en un informe de la UCO revela que el músico escribió tres mensajes en menos de un día al correo de Moncloa de la mujer del presidente",
+      "url": "https://www.abc.es/espana/david-sanchez-utilizo-correo-institucional-begona-gomez-20260610012632-nt.html",
+      "scraped_at": "2026-06-11T10:56:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Papamóvil en Barcelona",
-      "subtitle": "Este miércoles es el día más importante del Pontífice en la Ciudad Condal",
-      "url": "https://www.abc.es/espana/cataluna/recorrido-papamovil-barcelona-hoy-miercoles-calles-pasar-20260610124632-nt.html",
-      "scraped_at": "2026-06-10T10:20:22Z"
+      "title": "«No le tiraremos piedras a Sánchez por respeto al Papa»",
+      "subtitle": "El Papa visita hoy el muelle de la vergüenza del sur de Gran Canaria, donde el Gobierno llegó a hacinar a casi 4.000 inmigrantes",
+      "url": "https://www.abc.es/sociedad/arguineguin-postal-tragedia-20260610012652-nt.html",
+      "scraped_at": "2026-06-11T10:56:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "El antiguo jefe de la Guardia Civil censuró los correos entre David Sánchez y su hermano",
-      "subtitle": "Los mensajes de David Sánchez a 'pedrosanchez1212' y al mail institucional del presidente informándole sobre su situación laboral que se han desvelado en la causa del 'hermanísimo' no fueron investigados",
-      "url": "https://www.abc.es/espana/antiguo-jefe-guardia-civil-ordeno-uco-ponerse-20260610012726-nt.html",
-      "scraped_at": "2026-06-10T10:20:22Z"
+      "title": "León XIV bendice la torre más alta de la Sagrada Familia como «signo de unidad»",
+      "subtitle": "Los barceloneses vieron este miércoles por primera vez brillar su torre más alta como imaginó Gaudí, en todo su esplendor",
+      "url": "https://www.abc.es/sociedad/leon-xiv-bendice-torre-alta-sagrada-familia-20260610215329-nt.html",
+      "scraped_at": "2026-06-11T10:56:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cuando el Estado es cómplice",
-      "subtitle": "El imperio de la ley se resquebraja cuando quienes tienen la responsabilidad de preservarlo son sospechosos de traicionarlo",
-      "url": "https://www.abc.es/opinion/editorial-estado-complice-20260609013043-nt.html",
-      "scraped_at": "2026-06-10T10:20:22Z"
+      "title": "Tiene décimas",
+      "subtitle": "Hay una clara inflación de sobresalientes en las notas de bachillerato",
+      "url": "https://www.abc.es/opinion/berta-gonzalez-de-vega-decimas-20260610124541-nt.html",
+      "scraped_at": "2026-06-11T10:56:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cynthia García, abogada: «El problema de una herencia surge cuando hay bienes inmuebles indivisibles»",
-      "subtitle": "La principal problemática en las herencias surge con los bienes inmuebles que no se pueden dividir, lo que obliga a la intervención judicial para su...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/cynthia-garcia-abogada-problema-herencia-surge-hay-bienes-inmuebles-indivisibles-herederos-no-ponen-acuerdo-tendran-acudir-juez-20260610_3374040.html",
-      "scraped_at": "2026-06-10T10:20:22Z"
+      "title": "Sebastián Ramírez, abogado laboralista: «Revisa en tu nómina antes de que sea tarde la antigüedad»",
+      "subtitle": "La antigüedad y la categoría profesional son claves a la hora de exigir una indemnización o revisar un despido, y no siempre son correctas",
+      "url": "https://www.cope.es/actualidad/economia/noticias/sebastian-ramirez-abogado-laboralista-revisa-nomina-sea-tarde-antigueedad-categoria-sea-adecuada-fundamental-quieres-indemnizacion-revisar-despido-20260611_3381164.html",
+      "scraped_at": "2026-06-11T10:56:33Z"
     }
   ]
 }

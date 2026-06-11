@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Quién controla el espacio aéreo: Hay muchas diferencias entre Madrid y Barcelona, y una de ellas suele ser poco comentada. El cielo de Madrid lo preside el capital financiero. El cielo de Barcelona lo preside la Iglesia católica. Cuando te acercas a Madrid por la meseta, lo primero que ves son las torres de la...; Sagrada Família (★★★★★): obra maestra con algún reparo: La basílica posee hoy dos pieles, una más orgánica y otra más reiterativa; ¿Era necesario acabar la Sagrada Família?: En torno a 1930, la Sagrada Família ofrecía una estampa capaz de fascinar al observador más romántico. Entonces solo estaba en pie una de las fachadas, la del Nacimiento. En la parte más baja se insinuaban los claustros de las vírgenes de Montserrat y del Roser y, al lado, el.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-10T10:20:25Z",
+  "summary": "Resumen del día en La Vanguardia: El Papa pasa 48 horas en Catalunya imbuido del espíritu de Gaudí y el misticismo de Montserrat: La diplomacia vaticana afina al milímetro; el Papa se va de Barcelona sin ruido y sin polémica; Volvió el espíritu olímpico: Barcelona revivió ayer la magia olímpica 34 años después. La emoción que se sintió en 1992 cuando la flecha de Antonio Rebollo surcaba el cielo hacia el pe­betero de Montjuïc es la misma que estremeció ayer a todos los que pudieron ver cómo la fachada de la Sagrada Família se...; El Papa llega a Canarias donde se centrará en la inmigración: León XIV ha sido recibido por Pedro Sánchez en una visita histórica, porque nunca antes un pontífice se había desplazado hasta las islas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-11T10:56:35Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Quién controla el espacio aéreo",
-      "subtitle": "Hay muchas diferencias entre Madrid y Barcelona, y una de ellas suele ser poco comentada. El cielo de Madrid lo preside el capital financiero. El cielo de Barcelona lo preside la Iglesia católica. Cuando te acercas a Madrid por la meseta, lo primero que ves son las torres de la...",
-      "url": "https://www.lavanguardia.com/politica/20260610/11560615/controla-espacio-aereo.html",
-      "scraped_at": "2026-06-10T10:20:24Z"
+      "title": "El Papa pasa 48 horas en Catalunya imbuido del espíritu de Gaudí y el misticismo de Montserrat",
+      "subtitle": "La diplomacia vaticana afina al milímetro; el Papa se va de Barcelona sin ruido y sin polémica",
+      "url": "https://www.lavanguardia.com/politica/20260611/11561487/papa-pasa-48-horas-imbuido-espiritu-gaudi-misticismo-montserrat.html",
+      "scraped_at": "2026-06-11T10:56:34Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sagrada Família (★★★★★): obra maestra con algún reparo",
-      "subtitle": "La basílica posee hoy dos pieles, una más orgánica y otra más reiterativa",
-      "url": "https://www.lavanguardia.com/cultura/20260610/11560413/sagrada-familia-critica-papa-moix.html",
-      "scraped_at": "2026-06-10T10:20:24Z"
+      "title": "Volvió el espíritu olímpico",
+      "subtitle": "Barcelona revivió ayer la magia olímpica 34 años después. La emoción que se sintió en 1992 cuando la flecha de Antonio Rebollo surcaba el cielo hacia el pe­betero de Montjuïc es la misma que estremeció ayer a todos los que pudieron ver cómo la fachada de la Sagrada Família se...",
+      "url": "https://www.lavanguardia.com/opinion/20260611/11561480/volvio-espiritu-olimpico.html",
+      "scraped_at": "2026-06-11T10:56:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Era necesario acabar la Sagrada Família?",
-      "subtitle": "En torno a 1930, la Sagrada Família ofrecía una estampa capaz de fascinar al observador más romántico. Entonces solo estaba en pie una de las fachadas, la del Nacimiento. En la parte más baja se insinuaban los claustros de las vírgenes de Montserrat y del Roser y, al lado, el...",
-      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260610/11547877/elogio-basilica-inacabada.html",
-      "scraped_at": "2026-06-10T10:20:24Z"
+      "title": "El Papa llega a Canarias donde se centrará en la inmigración",
+      "subtitle": "León XIV ha sido recibido por Pedro Sánchez en una visita histórica, porque nunca antes un pontífice se había desplazado hasta las islas",
+      "url": "https://www.lavanguardia.com/politica/20260611/11561956/papa-llega-canarias-centrara-inmigracion.html",
+      "scraped_at": "2026-06-11T10:56:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Gaudí, sobre la construcción de la Sagrada Família: “El amo de la obra no tiene prisa”",
-      "subtitle": "El templo, impulsado por devotos, creció entre dificultades económicas y hoy, todavía en construcción, es uno de los grandes iconos globales",
-      "url": "https://www.lavanguardia.com/magazine/20260610/11550073/gaudi-sobre-construccion-sagrada-familia-amo-obra-prisa.html",
-      "scraped_at": "2026-06-10T10:20:24Z"
+      "title": "Así ha sido el espectáculo de música, drones y luces en la Sagrada Família",
+      "subtitle": "Barcelona vive una noche histórica que insufla autoestima y orgullo a la ciudad; la ceremonia concluye con el rostro de Gaudí proyectado en el cielo con drones, contemplando su obra, y la frase: “Primero el amor, después la técnica”",
+      "url": "https://www.lavanguardia.com/politica/20260610/11561465/papa-corona-sagrada-familia-bendicion-torre-jesus.html",
+      "scraped_at": "2026-06-11T10:56:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Mundial 2026",
-      "subtitle": "Consulta los partidos y resultados de hoy del Mundial de EE.UU., México y Canadá 2026. Horarios y dónde ver los partidos del Mundial de EE.UU., México y Canadá 2026",
-      "url": "https://www.lavanguardia.com/deportes/resultados/mundial-2026",
-      "scraped_at": "2026-06-10T10:20:25Z"
+      "title": "Julian Barnes, la profundidad suave, humorística y elegante",
+      "subtitle": "El escritor británico gana el premio Princesa de Asturias de las Letras 2026",
+      "url": "https://www.lavanguardia.com/cultura/20260611/11561496/julian-barnes-profundidad-suave-humoristica-elegante.html",
+      "scraped_at": "2026-06-11T10:56:35Z"
     }
   ]
 }
