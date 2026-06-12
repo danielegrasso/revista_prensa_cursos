@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El juez autoriza a la UCO a acceder a las cuentas de la pareja de Ayuso seis meses después de que se lo pidiera: El magistrado Antonio Viejo sigue sin considerar \"prioritario\" que la Guardia Civil acceda a la información societaria y tributaria de González Amador un año después de que su antecesora en el juzgado decidiera implicar a la UCO en la investigación; La defensa de Zapatero denuncia que no tiene acceso íntegro a los dispositivos incautados: “Genera indefensión”: Afirma en un escrito del 2 de junio que “hay evidencias que no constan en la causa” porque no puede consultar dos dispositivos de los que se han extraído mensajes para sustentar los atestados de la UDEF; El CIS hunde la ventaja del PSOE sobre el PP a cuatro puntos tras el estallido de los casos de Zapatero y Leire Díez: Los socialistas logran un 31,3% de los votos, el PP, un 27,1%, Vox, un 15,8%, Sumar, un 6,4%, y Podemos, el 2,8%, según el barómetro de mayo del instituto que dirige José Félix Tezanos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-11T10:56:31Z",
+  "summary": "Resumen del día en elDiario.es: El nuevo juez adormece la investigación a la pareja de Ayuso por el presunto soborno a un directivo de Quirón: Antonio Viejo tarda seis meses en autorizar el acceso a las cuentas de Alberto González Amador y rechaza el resto de peticiones de la UCO, pese a que los agentes se guiaban por las directrices de la anterior magistada y su sospecha de la existencia de un grupo criminal que blanqueó dinero; El PP se encomienda a la Virgen de la Bien Aparecida para mantener el bloqueo a la renovación del Tribunal Constitucional: El Senado vuelve a posponer, ahora a petición del Parlamento de Cantabria, la elección de los candidatos al tribunal de garantías, que acumula ya medio año con cuatro magistrados en funciones, entre ellos el presidente, Cándido Conde-Pumpido; Las joyas de Zapatero están valoradas en 1,3 millones, según la tasación que encargó el juez: Luis Arroyo, portavoz autorizado del expresidente del Gobierno, aseguró que estarían valoradas en \"entre 30.000 y 50.000 euros\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-12T10:38:44Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El juez autoriza a la UCO a acceder a las cuentas de la pareja de Ayuso seis meses después de que se lo pidiera",
-      "subtitle": "El magistrado Antonio Viejo sigue sin considerar \"prioritario\" que la Guardia Civil acceda a la información societaria y tributaria de González Amador un año después de que su antecesora en el juzgado decidiera implicar a la UCO en la investigación",
-      "url": "https://www.eldiario.es/politica/juez-autoriza-uco-acceder-cuentas-pareja-ayuso-seis-meses-despues_1_13293456.html",
-      "scraped_at": "2026-06-11T10:56:28Z"
+      "title": "El nuevo juez adormece la investigación a la pareja de Ayuso por el presunto soborno a un directivo de Quirón",
+      "subtitle": "Antonio Viejo tarda seis meses en autorizar el acceso a las cuentas de Alberto González Amador y rechaza el resto de peticiones de la UCO, pese a que los agentes se guiaban por las directrices de la anterior magistada y su sospecha de la existencia de un grupo criminal que blanqueó dinero",
+      "url": "https://www.eldiario.es/politica/nuevo-juez-adormece-investigacion-pareja-ayuso-presunto-soborno-directivo-quiron_1_13294929.html",
+      "scraped_at": "2026-06-12T10:38:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La defensa de Zapatero denuncia que no tiene acceso íntegro a los dispositivos incautados: “Genera indefensión”",
-      "subtitle": "Afirma en un escrito del 2 de junio que “hay evidencias que no constan en la causa” porque no puede consultar dos dispositivos de los que se han extraído mensajes para sustentar los atestados de la UDEF",
-      "url": "https://www.eldiario.es/politica/defensa-zapatero-denuncia-no-acceso-integro-dispositivos-incautados-genera-indefension_1_13292995.html",
-      "scraped_at": "2026-06-11T10:56:29Z"
+      "title": "El PP se encomienda a la Virgen de la Bien Aparecida para mantener el bloqueo a la renovación del Tribunal Constitucional",
+      "subtitle": "El Senado vuelve a posponer, ahora a petición del Parlamento de Cantabria, la elección de los candidatos al tribunal de garantías, que acumula ya medio año con cuatro magistrados en funciones, entre ellos el presidente, Cándido Conde-Pumpido",
+      "url": "https://www.eldiario.es/politica/pp-encomienda-virgen-aparecida-mantener-bloqueo-renovacion-tribunal-constitucional_1_13279283.html",
+      "scraped_at": "2026-06-12T10:38:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El CIS hunde la ventaja del PSOE sobre el PP a cuatro puntos tras el estallido de los casos de Zapatero y Leire Díez",
-      "subtitle": "Los socialistas logran un 31,3% de los votos, el PP, un 27,1%, Vox, un 15,8%, Sumar, un 6,4%, y Podemos, el 2,8%, según el barómetro de mayo del instituto que dirige José Félix Tezanos",
-      "url": "https://www.eldiario.es/politica/cis-hundea-ventaja-psoe-pp-cuatro-puntos-estallido-casos-zapatero-leire-diez_1_13293051.html",
-      "scraped_at": "2026-06-11T10:56:29Z"
+      "title": "Las joyas de Zapatero están valoradas en 1,3 millones, según la tasación que encargó el juez",
+      "subtitle": "Luis Arroyo, portavoz autorizado del expresidente del Gobierno, aseguró que estarían valoradas en \"entre 30.000 y 50.000 euros\"",
+      "url": "https://www.eldiario.es/politica/tasacion-encargada-juez-estima-1-3-millones-euros-joyas-intervenidas-zapatero_1_13295614.html",
+      "scraped_at": "2026-06-12T10:38:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El cardenal Bolaños tiene claro quién acabará en el infierno",
-      "subtitle": "La visita del Papa ha hecho que el Gobierno se aficione a las metáforas religiosas y eso le permite condenar a la oposición a las llamas eternas del infierno. Al PP le sirve con empezar a rentabilizar las noticias sobre Leire Díez",
-      "url": "https://www.eldiario.es/politica/cardenal-bolanos-claro-acabara-infierno_129_13291370.html",
-      "scraped_at": "2026-06-11T10:56:30Z"
+      "title": "La autoridad disciplinaria del Poder Judicial propone de nuevo archivar las quejas de Bolaños contra Peinado",
+      "subtitle": "El pasado abril, la Comisión Permanente rechazó la propuesta del Promotor de no expedientar al instructor del caso contra Begoña Gómez y le instó a seguir investigando",
+      "url": "https://www.eldiario.es/politica/autoridad-disciplinaria-judicial-propone-nuevo-archivar-quejas-bolanos-peinado_1_13296316.html",
+      "scraped_at": "2026-06-12T10:38:44Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero",
-      "subtitle": "Quiere conocer la autorización administrativa que amparó la incautación del teléfono, el alcance de la extracción que se practicó o  los mecanismos de verificación de la integridad de la  información ofrecida",
-      "url": "https://www.eldiario.es/politica/zapatero-pide-juez-reclame-informacion-eeuu-prueba-clave-imputacion_1_13291569.html",
-      "scraped_at": "2026-06-11T10:56:31Z"
+      "title": "Joyas Zapatero",
+      "subtitle": "Luis Arroyo afirma que el expresidente \"dará explicaciones\" ante el juez después de que la joyería a la que solicitó una tasación haya valorado los objetos que había en la caja fuerte de su despacho en 1,3 millones de euros",
+      "url": "https://www.eldiario.es/politica/portavoz-zapatero-disculpa-haber-inducido-error-decir-joyas-valian-30-000-50-000-euros_1_13296040.html",
+      "scraped_at": "2026-06-12T10:38:44Z"
     }
   ]
 }

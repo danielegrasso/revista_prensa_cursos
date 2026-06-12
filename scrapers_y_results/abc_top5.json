@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: David Sánchez escribía al correo institucional de Begoña sobre «cartas de recomendación»: Una captura recogida en un informe de la UCO revela que el músico escribió tres mensajes en menos de un día al correo de Moncloa de la mujer del presidente; «No le tiraremos piedras a Sánchez por respeto al Papa»: El Papa visita hoy el muelle de la vergüenza del sur de Gran Canaria, donde el Gobierno llegó a hacinar a casi 4.000 inmigrantes; León XIV bendice la torre más alta de la Sagrada Familia como «signo de unidad»: Los barceloneses vieron este miércoles por primera vez brillar su torre más alta como imaginó Gaudí, en todo su esplendor. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-11T10:56:33Z",
+  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partidos de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, viernes 12 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-12T10:38:47Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "David Sánchez escribía al correo institucional de Begoña sobre «cartas de recomendación»",
-      "subtitle": "Una captura recogida en un informe de la UCO revela que el músico escribió tres mensajes en menos de un día al correo de Moncloa de la mujer del presidente",
-      "url": "https://www.abc.es/espana/david-sanchez-utilizo-correo-institucional-begona-gomez-20260610012632-nt.html",
-      "scraped_at": "2026-06-11T10:56:32Z"
+      "title": "Calendario completo",
+      "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
+      "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
+      "scraped_at": "2026-06-12T10:38:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "«No le tiraremos piedras a Sánchez por respeto al Papa»",
-      "subtitle": "El Papa visita hoy el muelle de la vergüenza del sur de Gran Canaria, donde el Gobierno llegó a hacinar a casi 4.000 inmigrantes",
-      "url": "https://www.abc.es/sociedad/arguineguin-postal-tragedia-20260610012652-nt.html",
-      "scraped_at": "2026-06-11T10:56:32Z"
+      "title": "Partidos de la jornada",
+      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, viernes 12 de junio",
+      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-viernes-mundial-horarios-donde-ver-gratis-20260612215512-nt.html",
+      "scraped_at": "2026-06-12T10:38:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "León XIV bendice la torre más alta de la Sagrada Familia como «signo de unidad»",
-      "subtitle": "Los barceloneses vieron este miércoles por primera vez brillar su torre más alta como imaginó Gaudí, en todo su esplendor",
-      "url": "https://www.abc.es/sociedad/leon-xiv-bendice-torre-alta-sagrada-familia-20260610215329-nt.html",
-      "scraped_at": "2026-06-11T10:56:32Z"
+      "title": "Clasificación",
+      "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
+      "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
+      "scraped_at": "2026-06-12T10:38:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Tiene décimas",
-      "subtitle": "Hay una clara inflación de sobresalientes en las notas de bachillerato",
-      "url": "https://www.abc.es/opinion/berta-gonzalez-de-vega-decimas-20260610124541-nt.html",
-      "scraped_at": "2026-06-11T10:56:32Z"
+      "title": "Todos los equipos",
+      "subtitle": "las selecciones de Mundial 2026. Toda la información acerca de las selecciones que participan en Mundial 2026, jugadores, entrenador y mucho más",
+      "url": "https://www.abc.es/deportes/futbol/mundial/2026/equipos-sd.html",
+      "scraped_at": "2026-06-12T10:38:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sebastián Ramírez, abogado laboralista: «Revisa en tu nómina antes de que sea tarde la antigüedad»",
-      "subtitle": "La antigüedad y la categoría profesional son claves a la hora de exigir una indemnización o revisar un despido, y no siempre son correctas",
-      "url": "https://www.cope.es/actualidad/economia/noticias/sebastian-ramirez-abogado-laboralista-revisa-nomina-sea-tarde-antigueedad-categoria-sea-adecuada-fundamental-quieres-indemnizacion-revisar-despido-20260611_3381164.html",
-      "scraped_at": "2026-06-11T10:56:33Z"
+      "title": "Beatriz Murillo, abogada: «Puedes viajar y cobrar el paro por 30 días naturales pero debes estar disponible»",
+      "subtitle": "Beatriz Murillo, abogada: \"Puedes viajar cobrando el paro por un máximo de 30 días naturales, continuados o no, dentro de un mismo año natural; lo...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/beatriz-murillo-abogada-puedes-viajar-cobrar-paro-30-dias-naturales-debes-disponible-incorporarte-puesto-atender-requerimiento-sepe-20260612_3377772.html",
+      "scraped_at": "2026-06-12T10:38:47Z"
     }
   ]
 }
