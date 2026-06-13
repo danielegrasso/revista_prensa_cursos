@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: García Ortiz tramitó una denuncia contra la jueza del 'hermano' tal y como Leire Díez planeó en su agenda: El fiscal general movió en persona el escrito contra Biedma 48 horas después de que imputase a David Sánchez. La cloaca se le quejó porque una subordinada suya había rechazado un primer intento; El hombre al que Rusia intentó matar cinco veces: \"Me divierte ver el colapso de Moscú\": Ucrania nunca fue la víctima perfecta. Serhii Sternenko, tampoco. Es el mayor donante privado de Ucrania y asesor del ministro de Defensa, Mykhailo Fedorov; El error que la FIFA no va a cometer esta vez con España: radiografía del aspirante: La Selección Española llega al Mundial de Estados Unidos, Canadá y México como una de las grandes favoritas, pero con incógnitas por el estado físico de algunas de sus estrellas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-12T10:38:52Z",
+  "summary": "Resumen del día en El Confidencial: La UDEF encuentra mensajes personales entre la fiscal jefe de Madrid y el abogado de Plus Ultra: La Policía Nacional localiza conversaciones que evidencian la relación fluida entre Pilar Rodríguez, a cargo hasta hace unas semanas de la Fiscalía Provincial, y el letrado Miguel Palomero, responsable legal de la compañía; Las joyas de Zapatero dinamitan su defensa y nublan el horizonte penal del \"faro del PSOE\": El expresidente del Gobierno se enfrenta el miércoles a un interrogatorio más complejo y a una investigación más ágil al separar el juez dos nuevos delitos de la causa principal; Gavi vale más que Messi y Cristiano juntos: el precio de cada jugador del Mundial: Cada edición de la Copa del Mundo se convierte en el escaparate perfecto de los futbolistas para relanzar sus carreras o, directamente, convertirse en grandes estrellas. ¿Quién pegará el pelotazo?. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-13T09:32:14Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "García Ortiz tramitó una denuncia contra la jueza del 'hermano' tal y como Leire Díez planeó en su agenda",
-      "subtitle": "El fiscal general movió en persona el escrito contra Biedma 48 horas después de que imputase a David Sánchez. La cloaca se le quejó porque una subordinada suya había rechazado un primer intento",
-      "url": "https://www.elconfidencial.com/espana/2026-06-12/garcia-ortiz-tramito-denuncia-jueza-hermanisimo-planeo-leire-agenda_4371526/",
-      "scraped_at": "2026-06-12T10:38:51Z"
+      "title": "La UDEF encuentra mensajes personales entre la fiscal jefe de Madrid y el abogado de Plus Ultra",
+      "subtitle": "La Policía Nacional localiza conversaciones que evidencian la relación fluida entre Pilar Rodríguez, a cargo hasta hace unas semanas de la Fiscalía Provincial, y el letrado Miguel Palomero, responsable legal de la compañía",
+      "url": "https://www.elconfidencial.com/espana/2026-06-13/udef-exfiscal-jefe-madrid-pilar-rodriguez-plus-ultra_4370766/",
+      "scraped_at": "2026-06-13T09:32:11Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El hombre al que Rusia intentó matar cinco veces: \"Me divierte ver el colapso de Moscú\"",
-      "subtitle": "Ucrania nunca fue la víctima perfecta. Serhii Sternenko, tampoco. Es el mayor donante privado de Ucrania y asesor del ministro de Defensa, Mykhailo Fedorov",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-12/entrevista-serhii-sternenko-guerra-drones-ucrania-1hms_4367876/",
-      "scraped_at": "2026-06-12T10:38:52Z"
+      "title": "Las joyas de Zapatero dinamitan su defensa y nublan el horizonte penal del \"faro del PSOE\"",
+      "subtitle": "El expresidente del Gobierno se enfrenta el miércoles a un interrogatorio más complejo y a una investigación más ágil al separar el juez dos nuevos delitos de la causa principal",
+      "url": "https://www.elconfidencial.com/espana/2026-06-13/joyas-zapatero-detonan-defensa-complican-horizonte-penal-referente-psoe_4371898/",
+      "scraped_at": "2026-06-13T09:32:12Z"
     },
     {
       "source": "El Confidencial",
-      "title": "El error que la FIFA no va a cometer esta vez con España: radiografía del aspirante",
-      "subtitle": "La Selección Española llega al Mundial de Estados Unidos, Canadá y México como una de las grandes favoritas, pero con incógnitas por el estado físico de algunas de sus estrellas",
-      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-06-12/seleccion-espanola-lamine-yamal-nico-williams-peru_4369081/",
-      "scraped_at": "2026-06-12T10:38:52Z"
+      "title": "Gavi vale más que Messi y Cristiano juntos: el precio de cada jugador del Mundial",
+      "subtitle": "Cada edición de la Copa del Mundo se convierte en el escaparate perfecto de los futbolistas para relanzar sus carreras o, directamente, convertirse en grandes estrellas. ¿Quién pegará el pelotazo?",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-06-13/mundial-mercado-gangas-analisis_4371122/",
+      "scraped_at": "2026-06-13T09:32:13Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Mary Beard salva a los clásicos de su propia mortaja",
-      "subtitle": "El nuevo ensayo de la arqueóloga británica reivindica una lectura de la Antigüedad desprovista de tanto incienso y estilizacón",
-      "url": "https://www.elconfidencial.com/cultura/2026-06-12/clasicos-mary-beard-antiguedad-humanidad-1hms_4369798/",
-      "scraped_at": "2026-06-12T10:38:52Z"
+      "title": "¿Ha abierto Velzia la Caja de Pandora? Quizás, pero el mercado ya flojeaba",
+      "subtitle": "Desde finales del año pasado, el mercado residencial muestra algunos síntomas de agotamiento. Los datos a cierre de 2025 del INE revelan una caída de las ventas de casi el 10% en todo Madrid en el cuarto trimestre del año",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-06-13/velzia-casas-de-lujo-mercado-residencial-cambio-de-ciclo-agotamiento_4371452/",
+      "scraped_at": "2026-06-13T09:32:13Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Jurídico",
+      "subtitle": "En una misiva, la Comisión recuerda que el Ejecutivo tiene dos meses para responder al dictamen enviado el 29 de abril y que el proceso se encamina al TJUE",
+      "url": "https://www.elconfidencial.com/juridico/",
+      "scraped_at": "2026-06-13T09:32:14Z"
     }
   ]
 }

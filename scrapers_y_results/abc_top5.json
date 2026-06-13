@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partidos de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, viernes 12 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-12T10:38:47Z",
+  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, sábado 13 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-13T09:32:08Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Calendario completo",
       "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
-      "scraped_at": "2026-06-12T10:38:46Z"
+      "scraped_at": "2026-06-13T09:32:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Partidos de la jornada",
-      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, viernes 12 de junio",
-      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-viernes-mundial-horarios-donde-ver-gratis-20260612215512-nt.html",
-      "scraped_at": "2026-06-12T10:38:46Z"
+      "title": "Partido de la jornada",
+      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, sábado 13 de junio",
+      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-sabado-mundial-horarios-donde-ver-gratis-online-20260613220255-nt.html",
+      "scraped_at": "2026-06-13T09:32:06Z"
     },
     {
       "source": "ABC.es",
       "title": "Clasificación",
       "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-06-12T10:38:46Z"
+      "scraped_at": "2026-06-13T09:32:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Todos los equipos",
-      "subtitle": "las selecciones de Mundial 2026. Toda la información acerca de las selecciones que participan en Mundial 2026, jugadores, entrenador y mucho más",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/equipos-sd.html",
-      "scraped_at": "2026-06-12T10:38:46Z"
+      "title": "Zarrías hizo un contrato opaco a Leire Díez mientras ambos trabajaban en las cloacas",
+      "subtitle": "ABC accede al documento con el que el exdirigente del PSOE andaluz dio forma de legalidad a su relación laboral con la 'fontanera' socialista",
+      "url": "https://www.abc.es/espana/zarrias-hizo-contrato-generico-especificar-sueldo-leire-20260613014434-nt.html",
+      "scraped_at": "2026-06-13T09:32:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Beatriz Murillo, abogada: «Puedes viajar y cobrar el paro por 30 días naturales pero debes estar disponible»",
-      "subtitle": "Beatriz Murillo, abogada: \"Puedes viajar cobrando el paro por un máximo de 30 días naturales, continuados o no, dentro de un mismo año natural; lo...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/beatriz-murillo-abogada-puedes-viajar-cobrar-paro-30-dias-naturales-debes-disponible-incorporarte-puesto-atender-requerimiento-sepe-20260612_3377772.html",
-      "scraped_at": "2026-06-12T10:38:47Z"
+      "title": "«Los trabajadores de la empresa van a poder conocer la media salarial del resto de compañeros de la misma categoría»",
+      "subtitle": "La normativa europea, que entra en vigor el 7 de junio, congelará los aumentos, generará conflictos y perjudicará a los trabajadores más productivos,...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/david-canales-empresario-trabajadores-empresa-conocer-media-salarial-resto-companeros-categoria-20260613_3377056.html",
+      "scraped_at": "2026-06-13T09:32:08Z"
     }
   ]
 }
