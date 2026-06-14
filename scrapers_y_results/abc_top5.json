@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, sábado 13 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-13T09:32:08Z",
+  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, domingo 14 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-14T09:54:15Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Calendario completo",
       "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
-      "scraped_at": "2026-06-13T09:32:06Z"
+      "scraped_at": "2026-06-14T09:54:14Z"
     },
     {
       "source": "ABC.es",
       "title": "Partido de la jornada",
-      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, sábado 13 de junio",
-      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-sabado-mundial-horarios-donde-ver-gratis-online-20260613220255-nt.html",
-      "scraped_at": "2026-06-13T09:32:06Z"
+      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, domingo 14 de junio",
+      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-domingo-mundial-horarios-donde-ver-television-online-20260614183136-nt.html",
+      "scraped_at": "2026-06-14T09:54:14Z"
     },
     {
       "source": "ABC.es",
       "title": "Clasificación",
       "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-06-13T09:32:07Z"
+      "scraped_at": "2026-06-14T09:54:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Zarrías hizo un contrato opaco a Leire Díez mientras ambos trabajaban en las cloacas",
-      "subtitle": "ABC accede al documento con el que el exdirigente del PSOE andaluz dio forma de legalidad a su relación laboral con la 'fontanera' socialista",
-      "url": "https://www.abc.es/espana/zarrias-hizo-contrato-generico-especificar-sueldo-leire-20260613014434-nt.html",
-      "scraped_at": "2026-06-13T09:32:07Z"
+      "title": "El PSOE se prepara para la imputación del partido como persona jurídica: «Sería el final»",
+      "subtitle": "Fuentes socialistas muestran su preocupación por el «agujero» en la credibilidad de las siglas en vísperas del ciclo electoral de 2027",
+      "url": "https://www.abc.es/espana/psoe-prepara-imputacion-partido-persona-juridica-final-20260609020541-nt.html",
+      "scraped_at": "2026-06-14T09:54:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Los trabajadores de la empresa van a poder conocer la media salarial del resto de compañeros de la misma categoría»",
-      "subtitle": "La normativa europea, que entra en vigor el 7 de junio, congelará los aumentos, generará conflictos y perjudicará a los trabajadores más productivos,...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/david-canales-empresario-trabajadores-empresa-conocer-media-salarial-resto-companeros-categoria-20260613_3377056.html",
-      "scraped_at": "2026-06-13T09:32:08Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-06-14T09:54:15Z"
     }
   ]
 }

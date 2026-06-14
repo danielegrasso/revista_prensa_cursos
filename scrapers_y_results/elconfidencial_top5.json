@@ -1,42 +1,21 @@
 {
-  "summary": "Resumen del día en El Confidencial: La UDEF encuentra mensajes personales entre la fiscal jefe de Madrid y el abogado de Plus Ultra: La Policía Nacional localiza conversaciones que evidencian la relación fluida entre Pilar Rodríguez, a cargo hasta hace unas semanas de la Fiscalía Provincial, y el letrado Miguel Palomero, responsable legal de la compañía; Las joyas de Zapatero dinamitan su defensa y nublan el horizonte penal del \"faro del PSOE\": El expresidente del Gobierno se enfrenta el miércoles a un interrogatorio más complejo y a una investigación más ágil al separar el juez dos nuevos delitos de la causa principal; Gavi vale más que Messi y Cristiano juntos: el precio de cada jugador del Mundial: Cada edición de la Copa del Mundo se convierte en el escaparate perfecto de los futbolistas para relanzar sus carreras o, directamente, convertirse en grandes estrellas. ¿Quién pegará el pelotazo?. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-13T09:32:14Z",
+  "summary": "Resumen del día en El Confidencial: Los jueces sospechan que Pedro Sánchez se atrincherará  tras el Congreso si llega a ser imputado: La deriva de los últimos meses ha hecho sospechar a la judicatura que ese permiso obligatorio que debe solicitar el alto tribunal puede dejar de ser un trámite para convertirse en un último desafío del presidente a la Justicia; Malditas cifras: la alerta humanista del Papa Prevost: La narrativa de los números altera la percepción de la realidad. Sirve para los migrantes, pero también para las joyas de Zapatero, los saldos del novio de Ayuso y las encuestas de Tezanos. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-14T09:54:19Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "La UDEF encuentra mensajes personales entre la fiscal jefe de Madrid y el abogado de Plus Ultra",
-      "subtitle": "La Policía Nacional localiza conversaciones que evidencian la relación fluida entre Pilar Rodríguez, a cargo hasta hace unas semanas de la Fiscalía Provincial, y el letrado Miguel Palomero, responsable legal de la compañía",
-      "url": "https://www.elconfidencial.com/espana/2026-06-13/udef-exfiscal-jefe-madrid-pilar-rodriguez-plus-ultra_4370766/",
-      "scraped_at": "2026-06-13T09:32:11Z"
+      "title": "Los jueces sospechan que Pedro Sánchez se atrincherará  tras el Congreso si llega a ser imputado",
+      "subtitle": "La deriva de los últimos meses ha hecho sospechar a la judicatura que ese permiso obligatorio que debe solicitar el alto tribunal puede dejar de ser un trámite para convertirse en un último desafío del presidente a la Justicia",
+      "url": "https://www.elconfidencial.com/espana/2026-06-14/suplicatorio-pedro-sanchez-congreso-imputacion-supremo_4371063/",
+      "scraped_at": "2026-06-14T09:54:19Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Las joyas de Zapatero dinamitan su defensa y nublan el horizonte penal del \"faro del PSOE\"",
-      "subtitle": "El expresidente del Gobierno se enfrenta el miércoles a un interrogatorio más complejo y a una investigación más ágil al separar el juez dos nuevos delitos de la causa principal",
-      "url": "https://www.elconfidencial.com/espana/2026-06-13/joyas-zapatero-detonan-defensa-complican-horizonte-penal-referente-psoe_4371898/",
-      "scraped_at": "2026-06-13T09:32:12Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Gavi vale más que Messi y Cristiano juntos: el precio de cada jugador del Mundial",
-      "subtitle": "Cada edición de la Copa del Mundo se convierte en el escaparate perfecto de los futbolistas para relanzar sus carreras o, directamente, convertirse en grandes estrellas. ¿Quién pegará el pelotazo?",
-      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-06-13/mundial-mercado-gangas-analisis_4371122/",
-      "scraped_at": "2026-06-13T09:32:13Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "¿Ha abierto Velzia la Caja de Pandora? Quizás, pero el mercado ya flojeaba",
-      "subtitle": "Desde finales del año pasado, el mercado residencial muestra algunos síntomas de agotamiento. Los datos a cierre de 2025 del INE revelan una caída de las ventas de casi el 10% en todo Madrid en el cuarto trimestre del año",
-      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-06-13/velzia-casas-de-lujo-mercado-residencial-cambio-de-ciclo-agotamiento_4371452/",
-      "scraped_at": "2026-06-13T09:32:13Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Jurídico",
-      "subtitle": "En una misiva, la Comisión recuerda que el Ejecutivo tiene dos meses para responder al dictamen enviado el 29 de abril y que el proceso se encamina al TJUE",
-      "url": "https://www.elconfidencial.com/juridico/",
-      "scraped_at": "2026-06-13T09:32:14Z"
+      "title": "Malditas cifras: la alerta humanista del Papa Prevost",
+      "subtitle": "La narrativa de los números altera la percepción de la realidad. Sirve para los migrantes, pero también para las joyas de Zapatero, los saldos del novio de Ayuso y las encuestas de Tezanos",
+      "url": "https://www.elconfidencial.com/espana/al-grano/2026-06-13/personas-migrantes-cifras-dignidad-1hms_4372145/",
+      "scraped_at": "2026-06-14T09:54:19Z"
     }
   ]
 }
