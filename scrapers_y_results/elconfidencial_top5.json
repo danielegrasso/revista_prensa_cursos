@@ -1,21 +1,42 @@
 {
-  "summary": "Resumen del día en El Confidencial: Los jueces sospechan que Pedro Sánchez se atrincherará  tras el Congreso si llega a ser imputado: La deriva de los últimos meses ha hecho sospechar a la judicatura que ese permiso obligatorio que debe solicitar el alto tribunal puede dejar de ser un trámite para convertirse en un último desafío del presidente a la Justicia; Malditas cifras: la alerta humanista del Papa Prevost: La narrativa de los números altera la percepción de la realidad. Sirve para los migrantes, pero también para las joyas de Zapatero, los saldos del novio de Ayuso y las encuestas de Tezanos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-14T09:54:19Z",
+  "summary": "Resumen del día en El Confidencial: Zapatero pide aplazar su declaración ante el juez para reunir documentación relativa a las joyas: El expresidente tendrá que comparecer también por un presunto delito fiscal y otro de contrabando tras el hallazgo de un botín valorado en 1,3 millones de euros en su despacho; EEUU e Irán llegan a un acuerdo: Ormuz, sanciones y otras claves del pacto de los \"60 días\": EEUU e Irán anuncian un memorandum de entendimiento para poner fin a la guerra en la región que se firmará el viernes en Ginebra. Fuera del acuerdo quedan el programa nuclear y de misiles iraní e Israel; ¡Topuria muerde el polvo! El español cae en la gala de la testosterona de Trump: Gaethje se convirtió en el primer hombre en tumbar a Topuria. Después de un gran castigo, el árbitro paró la pelea antes de comenzar el último asalto. Fiesta estadounidense en la Casa Blanca. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-15T12:39:07Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Los jueces sospechan que Pedro Sánchez se atrincherará  tras el Congreso si llega a ser imputado",
-      "subtitle": "La deriva de los últimos meses ha hecho sospechar a la judicatura que ese permiso obligatorio que debe solicitar el alto tribunal puede dejar de ser un trámite para convertirse en un último desafío del presidente a la Justicia",
-      "url": "https://www.elconfidencial.com/espana/2026-06-14/suplicatorio-pedro-sanchez-congreso-imputacion-supremo_4371063/",
-      "scraped_at": "2026-06-14T09:54:19Z"
+      "title": "Zapatero pide aplazar su declaración ante el juez para reunir documentación relativa a las joyas",
+      "subtitle": "El expresidente tendrá que comparecer también por un presunto delito fiscal y otro de contrabando tras el hallazgo de un botín valorado en 1,3 millones de euros en su despacho",
+      "url": "https://www.elconfidencial.com/espana/2026-06-15/zapatero-pide-aplazar-su-declaracion-ante-el-juez-para-reunir-documentacion-de-las-joyas_4372988/",
+      "scraped_at": "2026-06-15T12:39:05Z"
     },
     {
       "source": "El Confidencial",
-      "title": "Malditas cifras: la alerta humanista del Papa Prevost",
-      "subtitle": "La narrativa de los números altera la percepción de la realidad. Sirve para los migrantes, pero también para las joyas de Zapatero, los saldos del novio de Ayuso y las encuestas de Tezanos",
-      "url": "https://www.elconfidencial.com/espana/al-grano/2026-06-13/personas-migrantes-cifras-dignidad-1hms_4372145/",
-      "scraped_at": "2026-06-14T09:54:19Z"
+      "title": "EEUU e Irán llegan a un acuerdo: Ormuz, sanciones y otras claves del pacto de los \"60 días\"",
+      "subtitle": "EEUU e Irán anuncian un memorandum de entendimiento para poner fin a la guerra en la región que se firmará el viernes en Ginebra. Fuera del acuerdo quedan el programa nuclear y de misiles iraní e Israel",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-15/reabre-ormuz-eeuu-retira-tropas-las-claves-del-acuerdo_4372742/",
+      "scraped_at": "2026-06-15T12:39:06Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "¡Topuria muerde el polvo! El español cae en la gala de la testosterona de Trump",
+      "subtitle": "Gaethje se convirtió en el primer hombre en tumbar a Topuria. Después de un gran castigo, el árbitro paró la pelea antes de comenzar el último asalto. Fiesta estadounidense en la Casa Blanca",
+      "url": "https://www.elconfidencial.com/deportes/boxeo-y-artes-marciales/2026-06-15/ilia-topuria-justin-gaethje-pelea-ufc-casa-blanca_4372669/",
+      "scraped_at": "2026-06-15T12:39:06Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "La línea roja de Junts para la moción de censura: Feijóo no puede ser el candidato",
+      "subtitle": "Los independentistas tienen claro el perfil del candidato al que apoyarían para que convocara inmediatamente elecciones. En Génova siguen firmes: &quot;¿Queréis tener protagonismo en el cambio o no?&quot;",
+      "url": "https://www.elconfidencial.com/espana/2026-06-15/la-linea-roja-de-junts-para-la-mocion-de-censura-feijoo-no-puede-ser-el-candidato_4372539/",
+      "scraped_at": "2026-06-15T12:39:06Z"
+    },
+    {
+      "source": "El Confidencial",
+      "title": "Andalucía",
+      "subtitle": "Emergencias coordina actuación tras hallar un varón sin vida en aguas junto al monumento de la Virgen del Carmen en Garrucha; Guardia Civil activa protocolo judicial y se desconocen circunstancias",
+      "url": "https://www.elconfidencial.com/espana/andalucia/",
+      "scraped_at": "2026-06-15T12:39:07Z"
     }
   ]
 }

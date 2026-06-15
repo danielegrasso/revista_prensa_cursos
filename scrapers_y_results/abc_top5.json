@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, domingo 14 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-14T09:54:15Z",
+  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 15 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-15T12:39:02Z",
   "source": "https://www.abc.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Calendario completo",
       "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
-      "scraped_at": "2026-06-14T09:54:14Z"
+      "scraped_at": "2026-06-15T12:39:00Z"
     },
     {
       "source": "ABC.es",
       "title": "Partido de la jornada",
-      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, domingo 14 de junio",
-      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-domingo-mundial-horarios-donde-ver-television-online-20260614183136-nt.html",
-      "scraped_at": "2026-06-14T09:54:14Z"
+      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 15 de junio",
+      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-lunes-mundial-horarios-donde-ver-gratis-television-20260615184616-nt.html",
+      "scraped_at": "2026-06-15T12:39:00Z"
     },
     {
       "source": "ABC.es",
       "title": "Clasificación",
       "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
       "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-06-14T09:54:15Z"
+      "scraped_at": "2026-06-15T12:39:01Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE se prepara para la imputación del partido como persona jurídica: «Sería el final»",
-      "subtitle": "Fuentes socialistas muestran su preocupación por el «agujero» en la credibilidad de las siglas en vísperas del ciclo electoral de 2027",
-      "url": "https://www.abc.es/espana/psoe-prepara-imputacion-partido-persona-juridica-final-20260609020541-nt.html",
-      "scraped_at": "2026-06-14T09:54:15Z"
+      "title": "La UCO localiza en el ordenador de Cerdán un listado de objetivos de Leire Díez que incluye al juez Marchena",
+      "subtitle": "Los investigados usaron un «piso franco del PSOE» en Madrid para «organizar encuentros»",
+      "url": "https://www.abc.es/espana/uco-localiza-ordenador-cerdan-listado-objetivos-leire-20260615112651-nt.html",
+      "scraped_at": "2026-06-15T12:39:02Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-14T09:54:15Z"
+      "scraped_at": "2026-06-15T12:39:02Z"
     }
   ]
 }
