@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 15 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-15T12:39:02Z",
+  "summary": "Resumen del día en ABC.es: Junts registra una enmienda para que el Congreso exija a Sánchez convocar elecciones: El partido de Puigdemont usa una moción del PP para aumentar la presión sobre el Gobierno; El juez del caso Plus Ultra rechaza retrasar la declaración de Zapatero sobre el origen de sus joyas: Sostiene que ha tenido tiempo suficiente para prepararlo sin que haya «merma en su derecho de defensa»; El PSOE mantiene contacto directo con Zapatero para anticipar su declaración: La ansiedad se dispara en el partido por la cita del expresidente ante el juez, en la que esperan que dé todas las explicaciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-16T11:31:48Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Calendario completo",
-      "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
-      "scraped_at": "2026-06-15T12:39:00Z"
+      "title": "Junts registra una enmienda para que el Congreso exija a Sánchez convocar elecciones",
+      "subtitle": "El partido de Puigdemont usa una moción del PP para aumentar la presión sobre el Gobierno",
+      "url": "https://www.abc.es/espana/junts-registra-enmienda-forzar-votacion-sobre-anticipo-20260616123556-nt.html",
+      "scraped_at": "2026-06-16T11:31:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Partido de la jornada",
-      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 15 de junio",
-      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-lunes-mundial-horarios-donde-ver-gratis-television-20260615184616-nt.html",
-      "scraped_at": "2026-06-15T12:39:00Z"
+      "title": "El juez del caso Plus Ultra rechaza retrasar la declaración de Zapatero sobre el origen de sus joyas",
+      "subtitle": "Sostiene que ha tenido tiempo suficiente para prepararlo sin que haya «merma en su derecho de defensa»",
+      "url": "https://www.abc.es/espana/juez-plus-ultra-rechaza-retrasar-declaracion-zapatero-20260616102120-nt.html",
+      "scraped_at": "2026-06-16T11:31:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Clasificación",
-      "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-06-15T12:39:01Z"
+      "title": "El PSOE mantiene contacto directo con Zapatero para anticipar su declaración",
+      "subtitle": "La ansiedad se dispara en el partido por la cita del expresidente ante el juez, en la que esperan que dé todas las explicaciones",
+      "url": "https://www.abc.es/espana/psoe-mantiene-contactos-zapatero-declaracion-entrar-20260616021244-nt.html",
+      "scraped_at": "2026-06-16T11:31:47Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO localiza en el ordenador de Cerdán un listado de objetivos de Leire Díez que incluye al juez Marchena",
-      "subtitle": "Los investigados usaron un «piso franco del PSOE» en Madrid para «organizar encuentros»",
-      "url": "https://www.abc.es/espana/uco-localiza-ordenador-cerdan-listado-objetivos-leire-20260615112651-nt.html",
-      "scraped_at": "2026-06-15T12:39:02Z"
+      "title": "Iraníes enfadados y decepcionados con Trump: «Pensó que podía ganar pero ha perdido»",
+      "subtitle": "Tras anunciarse un acuerdo entre Washington y Teherán, el pueblo iraní se siente traicionado por el presidente americano que prometió acabar con los ayatolás",
+      "url": "https://www.abc.es/internacional/iranies-enfadados-decepcionados-trump-tras-alto-fuego-20260615021317-nt.html",
+      "scraped_at": "2026-06-16T11:31:47Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-15T12:39:02Z"
+      "scraped_at": "2026-06-16T11:31:48Z"
     }
   ]
 }
