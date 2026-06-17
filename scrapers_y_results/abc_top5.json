@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Junts registra una enmienda para que el Congreso exija a Sánchez convocar elecciones: El partido de Puigdemont usa una moción del PP para aumentar la presión sobre el Gobierno; El juez del caso Plus Ultra rechaza retrasar la declaración de Zapatero sobre el origen de sus joyas: Sostiene que ha tenido tiempo suficiente para prepararlo sin que haya «merma en su derecho de defensa»; El PSOE mantiene contacto directo con Zapatero para anticipar su declaración: La ansiedad se dispara en el partido por la cita del expresidente ante el juez, en la que esperan que dé todas las explicaciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-16T11:31:48Z",
+  "summary": "Resumen del día en ABC.es: Zapatero no declara sobre las joyas y dice que trabajó para Martínez pero no para Plus Ultra: El expresidente ha descartado dar explicaciones sobre el ajuar incautado en su despacho y dice que sus hijas hicieron trabajos de marketing; Zapatero en la Audiencia y una España que puede volver a perder la virginidad: Mientras el expresidente se dirigía a la escalera, noté una cadencia en su paso de no haber pasado una buena noche. La sonrisa no era la misma de siempre. Su pelo tampoco. Su cara, denotaba sueño, arrugas y cansancio; Feijóo, el PNV y Podemos retratan el hartazgo contra Sánchez y la corrupción: El presidente se refugia en la economía ante una triple pinza por los casos que lo cercan, y el líder de la oposición se cobra su 'vendetta': «Ánimo, Pedro». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-17T11:15:50Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Junts registra una enmienda para que el Congreso exija a Sánchez convocar elecciones",
-      "subtitle": "El partido de Puigdemont usa una moción del PP para aumentar la presión sobre el Gobierno",
-      "url": "https://www.abc.es/espana/junts-registra-enmienda-forzar-votacion-sobre-anticipo-20260616123556-nt.html",
-      "scraped_at": "2026-06-16T11:31:46Z"
+      "title": "Zapatero no declara sobre las joyas y dice que trabajó para Martínez pero no para Plus Ultra",
+      "subtitle": "El expresidente ha descartado dar explicaciones sobre el ajuar incautado en su despacho y dice que sus hijas hicieron trabajos de marketing",
+      "url": "https://www.abc.es/espana/zapatero-niega-ante-juez-influyera-rescate-plus-20260617113640-nt.html",
+      "scraped_at": "2026-06-17T11:15:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez del caso Plus Ultra rechaza retrasar la declaración de Zapatero sobre el origen de sus joyas",
-      "subtitle": "Sostiene que ha tenido tiempo suficiente para prepararlo sin que haya «merma en su derecho de defensa»",
-      "url": "https://www.abc.es/espana/juez-plus-ultra-rechaza-retrasar-declaracion-zapatero-20260616102120-nt.html",
-      "scraped_at": "2026-06-16T11:31:46Z"
+      "title": "Zapatero en la Audiencia y una España que puede volver a perder la virginidad",
+      "subtitle": "Mientras el expresidente se dirigía a la escalera, noté una cadencia en su paso de no haber pasado una buena noche. La sonrisa no era la misma de siempre. Su pelo tampoco. Su cara, denotaba sueño, arrugas y cansancio",
+      "url": "https://www.abc.es/espana/zapatero-audiencia-espana-puede-volver-perder-virginidad-20260617101941-nt.html",
+      "scraped_at": "2026-06-17T11:15:50Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE mantiene contacto directo con Zapatero para anticipar su declaración",
-      "subtitle": "La ansiedad se dispara en el partido por la cita del expresidente ante el juez, en la que esperan que dé todas las explicaciones",
-      "url": "https://www.abc.es/espana/psoe-mantiene-contactos-zapatero-declaracion-entrar-20260616021244-nt.html",
-      "scraped_at": "2026-06-16T11:31:47Z"
+      "title": "Feijóo, el PNV y Podemos retratan el hartazgo contra Sánchez y la corrupción",
+      "subtitle": "El presidente se refugia en la economía ante una triple pinza por los casos que lo cercan, y el líder de la oposición se cobra su 'vendetta': «Ánimo, Pedro»",
+      "url": "https://www.abc.es/espana/feijoo-pnv-podemos-retratan-hartazgo-sanchez-corrupcion-20260617093543-nt.html",
+      "scraped_at": "2026-06-17T11:15:50Z"
     },
     {
       "source": "ABC.es",
-      "title": "Iraníes enfadados y decepcionados con Trump: «Pensó que podía ganar pero ha perdido»",
-      "subtitle": "Tras anunciarse un acuerdo entre Washington y Teherán, el pueblo iraní se siente traicionado por el presidente americano que prometió acabar con los ayatolás",
-      "url": "https://www.abc.es/internacional/iranies-enfadados-decepcionados-trump-tras-alto-fuego-20260615021317-nt.html",
-      "scraped_at": "2026-06-16T11:31:47Z"
+      "title": "Mismo perro con distinto collar",
+      "subtitle": "A cada pregunta del PP, la misma respuesta del PSOE; y a cada respuesta del PSOE, el mismo reproche del PP",
+      "url": "https://www.abc.es/espana/perro-distinto-collar-20260617122826-nt.html",
+      "scraped_at": "2026-06-17T11:15:50Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-16T11:31:48Z"
+      "scraped_at": "2026-06-17T11:15:50Z"
     }
   ]
 }

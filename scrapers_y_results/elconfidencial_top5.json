@@ -1,42 +1,14 @@
 {
-  "summary": "Resumen del día en El Confidencial: Junts aprieta al Gobierno y lleva al Congreso una iniciativa para exigir elecciones generales: El partido de Puigdemont enmienda una moción del PP para presionar al Ejecutivo con la disolución de las Cortes. La votación, que se producirá el jueves, implica una cuestión de confianza encubierta. Todo apunta a que saldrá adelante; Los chats del móvil clave de Plus Ultra al que teme Zapatero: \"Viva la izquierda, carajo\": El Confidencial accede a decenas de miles de mensajes incautados por EEUU al principal accionista de la aerolínea y que el expresidente busca anular; En este pueblo, una de cada tres casas está vacía, pero nadie puede encontrar piso: El mercado inmobiliario ha llegado a niveles tan extremos que se dan paradojas como la de Sant Joan de Labritja. Los vecinos lamentan que ya no saben quién vive en la casa de al lado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-16T11:31:54Z",
+  "summary": "Resumen del día en El Confidencial: El doble laberinto que mueve los cimientos del Colegio de Arquitectos de Madrid: una crisis de difícil solución: Un bando habla de asalto al Capitolio, el otro de okupas en la Junta de Gobierno, y en medio, miles de arquitectos asisten atónitos a una auténtica crisis institucional del COAM. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-17T11:15:54Z",
   "source": "https://www.elconfidencial.com/",
   "items": [
     {
       "source": "El Confidencial",
-      "title": "Junts aprieta al Gobierno y lleva al Congreso una iniciativa para exigir elecciones generales",
-      "subtitle": "El partido de Puigdemont enmienda una moción del PP para presionar al Ejecutivo con la disolución de las Cortes. La votación, que se producirá el jueves, implica una cuestión de confianza encubierta. Todo apunta a que saldrá adelante",
-      "url": "https://www.elconfidencial.com/espana/2026-06-16/junts-aprieta-al-gobierno-y-lleva-al-congreso-una-iniciativa-para-exigir-elecciones-generales_4373518/",
-      "scraped_at": "2026-06-16T11:31:52Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Los chats del móvil clave de Plus Ultra al que teme Zapatero: \"Viva la izquierda, carajo\"",
-      "subtitle": "El Confidencial accede a decenas de miles de mensajes incautados por EEUU al principal accionista de la aerolínea y que el expresidente busca anular",
-      "url": "https://www.elconfidencial.com/espana/2026-06-16/chats-movil-clave-plus-ultra-zapatero_4373172/",
-      "scraped_at": "2026-06-16T11:31:52Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "En este pueblo, una de cada tres casas está vacía, pero nadie puede encontrar piso",
-      "subtitle": "El mercado inmobiliario ha llegado a niveles tan extremos que se dan paradojas como la de Sant Joan de Labritja. Los vecinos lamentan que ya no saben quién vive en la casa de al lado",
-      "url": "https://www.elconfidencial.com/inmobiliario/2026-06-16/vivienda-vacia-baleares-ibiza_4371792/",
-      "scraped_at": "2026-06-16T11:31:53Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "La capitulación de EEUU: Trump llega al G7 con mucho que explicar sobre su pacto",
-      "subtitle": "El presidente estadounidense ha celebrado el acuerdo preliminar de paz, pero los líderes europeos actúan con cautela por la naturaleza híbrida del pacto",
-      "url": "https://www.elconfidencial.com/mundo/2026-06-16/trump-llega-g7-pildora-amarga-bajo-el-brazo-la-capitulacion-de-eeuu_4373336/",
-      "scraped_at": "2026-06-16T11:31:53Z"
-    },
-    {
-      "source": "El Confidencial",
-      "title": "Grison desaparece de 'La revuelta' y tiran de un sustituto recurrente en TVE",
-      "subtitle": "Fue el mismísimo David Broncano quien anunció el motivo por el que su compañero se ausentaría durante unos días del &#039;access&#039; de TVE",
-      "url": "https://www.elconfidencial.com/television/programas-tv/2026-06-15/la-revuelta-grison-desaparece-motivo-sustituirle_4373345/",
-      "scraped_at": "2026-06-16T11:31:54Z"
+      "title": "El doble laberinto que mueve los cimientos del Colegio de Arquitectos de Madrid: una crisis de difícil solución",
+      "subtitle": "Un bando habla de asalto al Capitolio, el otro de okupas en la Junta de Gobierno, y en medio, miles de arquitectos asisten atónitos a una auténtica crisis institucional del COAM",
+      "url": "https://www.elconfidencial.com/inmobiliario/residencial/2026-06-17/crisis-colegio-arquitectos-madrid_4373888/",
+      "scraped_at": "2026-06-17T11:15:54Z"
     }
   ]
 }
