@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Tres horas de evasivas de Zapatero ante el juez: silencio con las joyas, no recuerda una cita clave y no usa Excel ni el 'email': Múltiples fuentes presentes en el interrogatorio coinciden en que las explicaciones dadas por el ex presidente ante las preguntas de Calama fueron inconsistentes o vagas; El momento más comprometido del interrogatorio a Zapatero sobre China: El juez exhibió un correo electrónico incautado en el que una sociedad del país asiático le remite un documento legal destinado a la compra de petróleo; Carta de ZP a su portavoz: Esto va más allá de un triste proceso judicial. Estamos hablando de proteger la alianza de las civilizaciones. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-06-18T10:45:29Z",
+  "summary": "Resumen del día en El Mundo: Peinado investiga una de las adjudicaciones a Barrabés  tras detectar la Fiscalía Europea una posible prevaricación: El magistrado activa una pieza separada que no afecta a la causa principal ya concluida contra la esposa del presidente del Gobierno; Zapatero daba por descontada la imputación de sus hijas, pero está \"dolido\": \"Trabajábamos con ese escenario\": El ex presidente del Gobierno lo \"preveía\", pero trasladó a su entorno que le preocupaba \"mucho\"; El 'milagro' de las hijas de Zapatero: su mejor cliente, una empresa ruinosa de venezolanos, paga vídeos a 10.000 euros el segundo: Inteligencia Prospectiva abonó 561.440 euros a Whathefav por su material audiovisual mientras perdía dinero todos los años. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-06-19T10:55:00Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Tres horas de evasivas de Zapatero ante el juez: silencio con las joyas, no recuerda una cita clave y no usa Excel ni el 'email'",
-      "subtitle": "Múltiples fuentes presentes en el interrogatorio coinciden en que las explicaciones dadas por el ex presidente ante las preguntas de Calama fueron inconsistentes o vagas",
-      "url": "https://www.elmundo.es/espana/2026/06/17/6a32db1de4d4d8cc058b4584.html",
-      "scraped_at": "2026-06-18T10:45:28Z"
+      "title": "Peinado investiga una de las adjudicaciones a Barrabés  tras detectar la Fiscalía Europea una posible prevaricación",
+      "subtitle": "El magistrado activa una pieza separada que no afecta a la causa principal ya concluida contra la esposa del presidente del Gobierno",
+      "url": "https://www.elmundo.es/espana/2026/06/19/6a34f94e21efa054348b45a0.html",
+      "scraped_at": "2026-06-19T10:55:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "El momento más comprometido del interrogatorio a Zapatero sobre China",
-      "subtitle": "El juez exhibió un correo electrónico incautado en el que una sociedad del país asiático le remite un documento legal destinado a la compra de petróleo",
-      "url": "https://www.elmundo.es/espana/2026/06/17/6a32db53e4d4d8634d8b4585.html",
-      "scraped_at": "2026-06-18T10:45:28Z"
+      "title": "Zapatero daba por descontada la imputación de sus hijas, pero está \"dolido\": \"Trabajábamos con ese escenario\"",
+      "subtitle": "El ex presidente del Gobierno lo \"preveía\", pero trasladó a su entorno que le preocupaba \"mucho\"",
+      "url": "https://www.elmundo.es/espana/2026/06/18/6a3449defc6c8368498b4573.html",
+      "scraped_at": "2026-06-19T10:55:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "Carta de ZP a su portavoz",
-      "subtitle": "Esto va más allá de un triste proceso judicial. Estamos hablando de proteger la alianza de las civilizaciones",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/06/17/6a32bccde4d4d836028b45aa.html",
-      "scraped_at": "2026-06-18T10:45:29Z"
+      "title": "El 'milagro' de las hijas de Zapatero: su mejor cliente, una empresa ruinosa de venezolanos, paga vídeos a 10.000 euros el segundo",
+      "subtitle": "Inteligencia Prospectiva abonó 561.440 euros a Whathefav por su material audiovisual mientras perdía dinero todos los años",
+      "url": "https://www.elmundo.es/espana/2026/06/18/6a344113fc6c83b7468b45d6.html",
+      "scraped_at": "2026-06-19T10:55:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "Ucrania castiga a Moscú con la mayor tormenta de drones",
-      "subtitle": "La mayor oleada de drones contra la capital rusa golpea la refinería de Kapotnya, obliga a cerrar los cuatro aeropuertos y lleva la guerra al cinturón industrial y comercial de la capital rusa",
-      "url": "https://www.elmundo.es/internacional/2026/06/18/6a3390d221efa017188b45c5.html",
-      "scraped_at": "2026-06-18T10:45:29Z"
+      "title": "Los drones del futuro están en Ucrania: \"Este año produciremos cinco millones de drones, Europa miles; pelearían dos días con Rusia y se rendirían\"",
+      "subtitle": "El liderazgo del país en drones confirma la evolución de su industria militar, que ha subvertido la dinámica de un estado que durante años sobrevivió en parte gracias a la asistencia de Europa",
+      "url": "https://www.elmundo.es/internacional/2026/06/18/6a33dccbfc6c83c37c8b45ba.html",
+      "scraped_at": "2026-06-19T10:55:00Z"
     },
     {
       "source": "El Mundo",
-      "title": "Acuerdo EEUU Iran",
-      "subtitle": "Con la firma, el estrecho de Ormuz será reabierto \"al instante\" y el bloqueo estadounidense de los puertos iraníes será levantado \"de inmediato\", indicó el jueves el primer ministro de Pakistán, Shehbaz Sharif, que ha actuado como mediado",
-      "url": "https://www.elmundo.es/internacional/2026/06/18/6a3380e2e85ece2b1b8b45aa.html",
-      "scraped_at": "2026-06-18T10:45:29Z"
+      "title": "Felipe VI",
+      "subtitle": "Padre e hija compartieron jornada manejando dos Pilatus PC-21 sobre la costa del Mar Menor",
+      "url": "https://www.elmundo.es/espana/2026/06/19/6a34fc45e9cf4a686b8b4587.html",
+      "scraped_at": "2026-06-19T10:55:00Z"
     }
   ]
 }

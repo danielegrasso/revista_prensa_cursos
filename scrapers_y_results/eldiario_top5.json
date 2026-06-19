@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La UCO advierte de que una empresa de la pareja de Ayuso facturó a Quirón por trabajos que le era imposible hacer: La Guardia Civil entregó al juez un informe en diciembre en el que destacaba que la empresa del supuesto soborno a un directivo de Quirón tenía \"medios relacionados con tratamientos de belleza\" y que, sin embargo, facturó a la empresa sanitaria por trabajos de consultoría; Hacienda investiga a un directivo de Quirón por el supuesto reparto de una comisión por mascarillas con la pareja de Ayuso: La Agencia Tributaria pide al juez Antonio Viejo que paralice el procedimiento inspector contra Fernando Camino al constatar que esos hechos ya se están investigando en su juzgado; Un Trump desesperado por salir de la guerra llena de cesiones su acuerdo de paz con Irán: La proximidad de las elecciones legislativas de noviembre, el precio desorbitado de la gasolina en EEUU y la imposibilidad de reabrir el estrecho de Ormuz llevan a Trump a cerrar un acuerdo lleno de concesiones a Irán, cuyo régimen sigue siendo el de los ayatolás. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-18T10:45:33Z",
+  "summary": "Resumen del día en elDiario.es: El juez Peinado abre una nueva investigación en el caso de Begoña Gómez: El magistrado investigará un contrato en el que participó una empresa del empresario Barrabés y en el que la Fiscalía Europea considera que pudo incurrirse en delitos de prevaricación y fraude; La pareja de Ayuso llegó a multiplicar por siete sus ingresos de Quirón tras iniciar su relación con la presidenta madrileña: La carrera de Alberto González Amador despegó con una comisión de dos millones bajo sospecha; luego defraudó a Hacienda siendo pareja de la presidenta y ya nunca regresó a sus ingresos anteriores gracias a los encargos de la empresa que ingresa mil millones al año de la Comunidad de Madrid; Sánchez abre la puerta a que las generales sean en el primer trimestre de 2027 si caen los Presupuestos como pide el PNV: \"Si se tienen que tomar decisiones, pues las tomaremos cuando se produzcan estas hipótesis\", respondió el presidente en Bruselas a preguntas de la prensa sobre la posible convocatoria de elecciones cuando decaigan las cuentas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-19T10:55:05Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La UCO advierte de que una empresa de la pareja de Ayuso facturó a Quirón por trabajos que le era imposible hacer",
-      "subtitle": "La Guardia Civil entregó al juez un informe en diciembre en el que destacaba que la empresa del supuesto soborno a un directivo de Quirón tenía \"medios relacionados con tratamientos de belleza\" y que, sin embargo, facturó a la empresa sanitaria por trabajos de consultoría",
-      "url": "https://www.eldiario.es/politica/uco-advierte-empresa-pareja-ayuso-facturo-quiron-trabajos-le-imposible_1_13314199.html",
-      "scraped_at": "2026-06-18T10:45:31Z"
+      "title": "El juez Peinado abre una nueva investigación en el caso de Begoña Gómez",
+      "subtitle": "El magistrado investigará un contrato en el que participó una empresa del empresario Barrabés y en el que la Fiscalía Europea considera que pudo incurrirse en delitos de prevaricación y fraude",
+      "url": "https://www.eldiario.es/politica/juez-peinado-abre-nueva-investigacion-caso-begona-gomez-nuevos-delitos_1_13316919.html",
+      "scraped_at": "2026-06-19T10:55:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Hacienda investiga a un directivo de Quirón por el supuesto reparto de una comisión por mascarillas con la pareja de Ayuso",
-      "subtitle": "La Agencia Tributaria pide al juez Antonio Viejo que paralice el procedimiento inspector contra Fernando Camino al constatar que esos hechos ya se están investigando en su juzgado",
-      "url": "https://www.eldiario.es/politica/hacienda-investiga-directivo-quiron-supuesto-reparto-comision-mascarillas-pareja-ayuso_1_13314241.html",
-      "scraped_at": "2026-06-18T10:45:31Z"
+      "title": "La pareja de Ayuso llegó a multiplicar por siete sus ingresos de Quirón tras iniciar su relación con la presidenta madrileña",
+      "subtitle": "La carrera de Alberto González Amador despegó con una comisión de dos millones bajo sospecha; luego defraudó a Hacienda siendo pareja de la presidenta y ya nunca regresó a sus ingresos anteriores gracias a los encargos de la empresa que ingresa mil millones al año de la Comunidad de Madrid",
+      "url": "https://www.eldiario.es/politica/pareja-ayuso-llego-multiplicar-siete-ingresos-quiron-iniciar-relacion-presidenta-madrilena_1_13315747.html",
+      "scraped_at": "2026-06-19T10:55:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Un Trump desesperado por salir de la guerra llena de cesiones su acuerdo de paz con Irán",
-      "subtitle": "La proximidad de las elecciones legislativas de noviembre, el precio desorbitado de la gasolina en EEUU y la imposibilidad de reabrir el estrecho de Ormuz llevan a Trump a cerrar un acuerdo lleno de concesiones a Irán, cuyo régimen sigue siendo el de los ayatolás",
-      "url": "https://www.eldiario.es/internacional/trump-desesperado-salir-guerra-llena-cesiones-acuerdo-iran_1_13313324.html",
-      "scraped_at": "2026-06-18T10:45:32Z"
+      "title": "Sánchez abre la puerta a que las generales sean en el primer trimestre de 2027 si caen los Presupuestos como pide el PNV",
+      "subtitle": "\"Si se tienen que tomar decisiones, pues las tomaremos cuando se produzcan estas hipótesis\", respondió el presidente en Bruselas a preguntas de la prensa sobre la posible convocatoria de elecciones cuando decaigan las cuentas",
+      "url": "https://www.eldiario.es/politica/sanchez-abre-puerta-generales-sean-primer-trimestre-2027-si-caen-presupuestos-pide-pnv_1_13316004.html",
+      "scraped_at": "2026-06-19T10:55:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Estos son los 14 puntos del acuerdo entre Irán y EEUU",
-      "subtitle": "El articulado incluye disposiciones para la reapertura del estrecho de Ormuz y el levantamiento de ciertas restricciones económicas impuestas a Teherán, mientras que deja para futuras conversaciones técnicas el futuro del programa nuclear iraní",
-      "url": "https://www.eldiario.es/internacional/son-14-puntos-acuerdo-iran-eeuu_1_13313688.html",
-      "scraped_at": "2026-06-18T10:45:33Z"
+      "title": "Los audios de la declaración de Zapatero ante el juez: “No intervine en el rescate de Plus Ultra y eso es una verdad incuestionable”",
+      "subtitle": "El expresidente argumentó durante el interrogatorio que su “actividad profesional” se ha desarrollado “conforme a la legalidad” y defendió la labor de la empresa de sus hijas, según los audios a los que ha tenido acceso elDiario.es",
+      "url": "https://www.eldiario.es/politica/audios-declaracion-zapatero-juez-no-intervine-rescate-plus-ultra-incuestionable_1_13315287.html",
+      "scraped_at": "2026-06-19T10:55:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Firma paz",
-      "subtitle": "El primer ministro de Pakistán, Shehbaz Sharif, ha declarado que el acuerdo \"entra en vigor con efecto inmediato y, como primer paso, la República Islámica de Irán reabrirá al instante el estrecho de Ormuz y EEUU levantará de inmediato el bloqueo naval\"",
-      "url": "https://www.eldiario.es/internacional/trump-pezeshkian-estampan-firma-digitalmente-acuerdo-paz-iran-eeuu-entra-vigor-inmediatamente_1_13313489.html",
-      "scraped_at": "2026-06-18T10:45:33Z"
+      "title": "González Amador",
+      "subtitle": "Hacienda y la UCO investigan si el novio de la presidenta sobornó con 500.000 euros a un directivo de Quirón por facilitarle un pelotazo de dos millones en la venta de mascarillas",
+      "url": "https://www.eldiario.es/politica/enriquecimiento-sospecha-alberto-quiron-protegido-bulos-pareja-isabel-diaz-ayuso_129_13316049.html",
+      "scraped_at": "2026-06-19T10:55:05Z"
     }
   ]
 }
