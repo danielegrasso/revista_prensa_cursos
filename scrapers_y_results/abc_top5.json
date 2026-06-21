@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE abre el debate sobre la necesidad de 'soltarle la mano' a Zapatero: Sánchez ordena no aflojar el apoyo, mientras en sectores del partido comienzan a plantear un «desacople» paulatino del expresidente: «No puede arrastrarnos con él»; El juez espera un informe más exhaustivo del patrimonio del expresidente: Las primeras investigaciones de la UDEF permitieron concluir que el expresidente y su esposa liquidaron una hipoteca de medio millón de euros en once meses; Las cinco claves que llevaron a Ilia Topuria a la derrota y sus consecuencias: El excampeón del peso ligero perdió su cetro ante Justin Gaethje en la Casa Blanca por KO técnico al final del cuarto asalto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-20T09:35:55Z",
+  "summary": "Resumen del día en ABC.es: La Audiencia Provincial decidirá si Begoña Gómez es juzgada por un jurado popular: Los magistrados tienen que resolver recursos: podrían archivar la causa o avalar la celebración de vista oral; Riesgo de «colapso» en servicios básicos ante el millón de inmigrantes que busca regularizarse: Los nuevos datos duplican las previsiones iniciales del Gobierno y plantean un dilema en necesidades como la vivienda, la sanidad o la educación; «Mamá, voy a hacer FP»: La rebelión que necesita la economía española: La 'titulitis' universitaria y el desprestigio de la formación profesional pese a sus amplias salidas laborales hacen de España el país más sobrecualificado de la UE y líder en paro juvenil. ABC recaba datos, opiniones de expertos y el testimonio de seis jóvenes para separar el mito de la realidad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-21T10:03:26Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE abre el debate sobre la necesidad de 'soltarle la mano' a Zapatero",
-      "subtitle": "Sánchez ordena no aflojar el apoyo, mientras en sectores del partido comienzan a plantear un «desacople» paulatino del expresidente: «No puede arrastrarnos con él»",
-      "url": "https://www.abc.es/espana/psoe-abre-debate-sobre-necesidad-soltarle-mano-20260620020736-nt.html",
-      "scraped_at": "2026-06-20T09:35:53Z"
+      "title": "La Audiencia Provincial decidirá si Begoña Gómez es juzgada por un jurado popular",
+      "subtitle": "Los magistrados tienen que resolver recursos: podrían archivar la causa o avalar la celebración de vista oral",
+      "url": "https://www.abc.es/espana/audiencia-provincial-ultima-palabra-decidira-gomez-juzgada-20260621015949-nt.html",
+      "scraped_at": "2026-06-21T10:03:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez espera un informe más exhaustivo del patrimonio del expresidente",
-      "subtitle": "Las primeras investigaciones de la UDEF permitieron concluir que el expresidente y su esposa liquidaron una hipoteca de medio millón de euros en once meses",
-      "url": "https://www.abc.es/espana/juez-espera-informe-udef-sobre-patrimonio-zapatero-20260620020757-nt.html",
-      "scraped_at": "2026-06-20T09:35:54Z"
+      "title": "Riesgo de «colapso» en servicios básicos ante el millón de inmigrantes que busca regularizarse",
+      "subtitle": "Los nuevos datos duplican las previsiones iniciales del Gobierno y plantean un dilema en necesidades como la vivienda, la sanidad o la educación",
+      "url": "https://www.abc.es/espana/expertos-auguran-colapso-servicios-basicos-ante-millon-20260620020030-nt.html",
+      "scraped_at": "2026-06-21T10:03:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las cinco claves que llevaron a Ilia Topuria a la derrota y sus consecuencias",
-      "subtitle": "El excampeón del peso ligero perdió su cetro ante Justin Gaethje en la Casa Blanca por KO técnico al final del cuarto asalto",
-      "url": "https://www.abc.es/deportes/mma/cinco-claves-llevaron-ilia-topuria-derrota-consecuencias-20260621191313-nt.html",
-      "scraped_at": "2026-06-20T09:35:54Z"
+      "title": "«Mamá, voy a hacer FP»: La rebelión que necesita la economía española",
+      "subtitle": "La 'titulitis' universitaria y el desprestigio de la formación profesional pese a sus amplias salidas laborales hacen de España el país más sobrecualificado de la UE y líder en paro juvenil. ABC recaba datos, opiniones de expertos y el testimonio de seis jóvenes para separar el mito de la realidad",
+      "url": "https://www.abc.es/economia/mama-rebelion-necesita-economia-espanola-20260621165518-nt.html",
+      "scraped_at": "2026-06-21T10:03:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "De la Fuente: «Tener dudas de esta selección es una barbaridad»",
-      "subtitle": "El riojano rechaza cualquier atisbo de alarmismo tras el empate de España ante Cabo Verde: «A veces el fútbol no te da lo que mereces»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/entrevista-fuente-tener-dudas-seleccion-barbaridad-20260619001737-ntrc.html",
-      "scraped_at": "2026-06-20T09:35:54Z"
+      "title": "Los dos precios de las joyas: el que tú crees y el que pone Hacienda",
+      "subtitle": "Los españoles tienen 1.228 millones de euros en todo tipo de objetos valiosos cuya tributación depende de si se compraron, se heredaron o fueron un regalo",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/valor-joyas-genera-grandes-discrepancias-contribuyente-hacienda-20260621015923-nt.html",
+      "scraped_at": "2026-06-21T10:03:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Juan Vidal, inversor: «He visto personas con sueldos más modestos vivir tranquilas y otras con ingresos altos estar preocupadas»",
-      "subtitle": "Un inversor a largo plazo desmonta el mito de los altos ingresos y revela los hábitos para alcanzar la estabilidad económica sin importar cuánto ganes",
-      "url": "https://www.cope.es/actualidad/economia/noticias/juan-vidal-inversor-he-visto-personas-sueldos-modestos-vivir-tranquilas-ingresos-altos-preocupadas-diferencia-no-ganas-dinero-20260620_3383729.html",
-      "scraped_at": "2026-06-20T09:35:55Z"
+      "title": "Ignacio Solsona, abogado: «A una persona con más de 40 años cotizados se le aplica una penalización máxima del 28%»",
+      "subtitle": "El Congreso frena la eliminación de los coeficientes reductores para largas carreras de cotización, pero la asociación ASJUBI 40 no se rinde y exige...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/ignacio-solsona-abogado-persona-40-anos-cotizados-adelanta-jubilacion-cuatro-anos-le-aplica-penalizacion-maxima-28-20260621_3387209.html",
+      "scraped_at": "2026-06-21T10:03:26Z"
     }
   ]
 }

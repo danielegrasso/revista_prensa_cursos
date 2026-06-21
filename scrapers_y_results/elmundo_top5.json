@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La Fiscalía Europea ve delitos en otro contrato del empresario amigo de Begoña para el que firmaba cartas de recomendación: Peinado investiga una adjudicación a Barrabés en la que la Fiscalía Europea ve prevaricación y fraude; El hundimiento del 'mito Zapatero': cinco meses que destruyeron un icono que ya sólo resiste para los sanchistas puros: Frente a los \"rotundos\" indicios de delito, Sánchez dispensa al ex presidente, un imputado, trato familiar y habla con él \"todos los días\"; Las explicaciones de Zapatero: \"Si se reafirma en la tesis del regalo institucional de las joyas, estaría asumiendo la apropiación ilícita y la no declaración ante Hacienda\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-06-20T09:35:49Z",
+  "summary": "Resumen del día en El Mundo: Indicios que señalan a Begoña Gómez: del \"cambio radical en su trayectoria tras la investidura\" a usar la \"proximidad a Sánchez para impulsar\" su carrera: El juez Peinado sienta en el banquillo a la esposa del presidente del Gobierno, su asesora en Presidencia y el empresario Barrabés. Le retira el pasaporte, le impide salir del país y le obliga a presentarse cada 15 días; El CGPJ se reúne para estudiar si abrir un expediente al juez Peinado por el auto en el que apuntaba a que los escoltas podían ayudar a Begoña Gómez en una fuga: La Comisión Permanente del órgano de los jueces ha celebrado este domingo una reunión telemática y la decisión final se tomará este lunes a las 9.00 horas; El plebiscito de Begoña: Por encima de todo late una grave anomalía: la ausencia de explicaciones y de responsabilidad política. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-06-21T10:03:19Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La Fiscalía Europea ve delitos en otro contrato del empresario amigo de Begoña para el que firmaba cartas de recomendación",
-      "subtitle": "Peinado investiga una adjudicación a Barrabés en la que la Fiscalía Europea ve prevaricación y fraude",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358044e9cf4a947d8b45a4.html",
-      "scraped_at": "2026-06-20T09:35:48Z"
+      "title": "Indicios que señalan a Begoña Gómez: del \"cambio radical en su trayectoria tras la investidura\" a usar la \"proximidad a Sánchez para impulsar\" su carrera",
+      "subtitle": "El juez Peinado sienta en el banquillo a la esposa del presidente del Gobierno, su asesora en Presidencia y el empresario Barrabés. Le retira el pasaporte, le impide salir del país y le obliga a presentarse cada 15 días",
+      "url": "https://www.elmundo.es/espana/2026/06/20/6a36ece3e85ecef37e8b4580.html",
+      "scraped_at": "2026-06-21T10:03:18Z"
     },
     {
       "source": "El Mundo",
-      "title": "El hundimiento del 'mito Zapatero': cinco meses que destruyeron un icono que ya sólo resiste para los sanchistas puros",
-      "subtitle": "Frente a los \"rotundos\" indicios de delito, Sánchez dispensa al ex presidente, un imputado, trato familiar y habla con él \"todos los días\"",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a353761e4d4d87e7a8b459f.html",
-      "scraped_at": "2026-06-20T09:35:49Z"
+      "title": "El CGPJ se reúne para estudiar si abrir un expediente al juez Peinado por el auto en el que apuntaba a que los escoltas podían ayudar a Begoña Gómez en una fuga",
+      "subtitle": "La Comisión Permanente del órgano de los jueces ha celebrado este domingo una reunión telemática y la decisión final se tomará este lunes a las 9.00 horas",
+      "url": "https://www.elmundo.es/espana/2026/06/21/6a37adaffdddff4c458b45a4.html",
+      "scraped_at": "2026-06-21T10:03:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las explicaciones de Zapatero",
-      "subtitle": "\"Si se reafirma en la tesis del regalo institucional de las joyas, estaría asumiendo la apropiación ilícita y la no declaración ante Hacienda\"",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358168fdddff3c348b45b1.html",
-      "scraped_at": "2026-06-20T09:35:49Z"
+      "title": "El plebiscito de Begoña",
+      "subtitle": "Por encima de todo late una grave anomalía: la ausencia de explicaciones y de responsabilidad política",
+      "url": "https://www.elmundo.es/opinion/2026/06/20/6a36f377fdddffd6108b459d.html",
+      "scraped_at": "2026-06-21T10:03:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Los líderes de la UE fuerzan una discusión sobre inmigración tras el choque de Sánchez con Merz, Meloni y Frederiksen",
-      "subtitle": "\"Lo que haces afecta a otros países\", le dijo la dirigente italiana al español",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358060e9cf4adf2f8b45b6.html",
-      "scraped_at": "2026-06-20T09:35:49Z"
+      "title": "Yohir Akerman, el 'espía' de los poderosos de América al que recurrió la cloaca del PSOE para hundir a la Fiscalía Anticorrupción: \"No puedo revelar cuánto me han pagado\"",
+      "subtitle": "Es el investigador que llevó hasta la sede del PSOE una prueba viva para usarla contra la Fiscalía Anticorrupción. Dice que \"esa operación nunca nos fue presentada como parte de una operación política\". Él lo niega pero fuentes judiciales lo vinculan a Nervis Villalobos. Su historial incluye la defensa de los intereses de bananeras y petroleras con métodos controvertidos",
+      "url": "https://www.elmundo.es/cronica/2026/06/20/6a3581f2fc6c83e8558b45ad.html",
+      "scraped_at": "2026-06-21T10:03:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Hijos enfermos",
-      "subtitle": "El Ministerio de Seguridad Social prepara un real decreto que endurece los requisitos para cobrar la prestación CUME, según denuncian los afectados",
-      "url": "https://www.elmundo.es/economia/2026/06/19/6a355d75e9cf4a47168b459b.html",
-      "scraped_at": "2026-06-20T09:35:49Z"
+      "title": "Juez Peinado",
+      "subtitle": "Desde el Gobierno y el PSOE creen que el auto del magistrado sobre Begoña Gómez avala el que \"hay jueces haciendo política\"",
+      "url": "https://www.elmundo.es/espana/2026/06/21/6a36e1aae85ece317c8b4587.html",
+      "scraped_at": "2026-06-21T10:03:19Z"
     }
   ]
 }
