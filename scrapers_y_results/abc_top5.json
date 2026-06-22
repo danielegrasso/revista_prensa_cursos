@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Audiencia Provincial decidirá si Begoña Gómez es juzgada por un jurado popular: Los magistrados tienen que resolver recursos: podrían archivar la causa o avalar la celebración de vista oral; Riesgo de «colapso» en servicios básicos ante el millón de inmigrantes que busca regularizarse: Los nuevos datos duplican las previsiones iniciales del Gobierno y plantean un dilema en necesidades como la vivienda, la sanidad o la educación; «Mamá, voy a hacer FP»: La rebelión que necesita la economía española: La 'titulitis' universitaria y el desprestigio de la formación profesional pese a sus amplias salidas laborales hacen de España el país más sobrecualificado de la UE y líder en paro juvenil. ABC recaba datos, opiniones de expertos y el testimonio de seis jóvenes para separar el mito de la realidad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-21T10:03:26Z",
+  "summary": "Resumen del día en ABC.es: 24 AÑOS DE CÁRCEL PARA ÁBALOS, EL EX NÚMERO DOS DE SÁNCHEZ: El Alto Tribunal impone la pena máxima que pedía la Fiscalía Anticorrupción para el exministro y su asesor y a cuatro años y medio sin ejecución al comisionista; Ábalos recibe la mayor condena por corrupción de la democracia: El Tribunal Supremo falla con 24 años de cárcel para una de las personas que llevó a Sánchez a la Secretaría General del PSOE y a la Moncloa; El Supremo premia sin cárcel la confesión de Aldama: Acoge la petición de la acusación popular y le suspende la pena a cambio de presentar un informe semestral de su actividad empresarial y un año de trabajos en beneficio de la comunidad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-22T12:23:30Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Audiencia Provincial decidirá si Begoña Gómez es juzgada por un jurado popular",
-      "subtitle": "Los magistrados tienen que resolver recursos: podrían archivar la causa o avalar la celebración de vista oral",
-      "url": "https://www.abc.es/espana/audiencia-provincial-ultima-palabra-decidira-gomez-juzgada-20260621015949-nt.html",
-      "scraped_at": "2026-06-21T10:03:25Z"
+      "title": "24 AÑOS DE CÁRCEL PARA ÁBALOS, EL EX NÚMERO DOS DE SÁNCHEZ",
+      "subtitle": "El Alto Tribunal impone la pena máxima que pedía la Fiscalía Anticorrupción para el exministro y su asesor y a cuatro años y medio sin ejecución al comisionista",
+      "url": "https://www.abc.es/espana/supremo-condena-abalos-koldo-maximo-pedia-fiscalia-20260622121736-nt.html",
+      "scraped_at": "2026-06-22T12:23:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "Riesgo de «colapso» en servicios básicos ante el millón de inmigrantes que busca regularizarse",
-      "subtitle": "Los nuevos datos duplican las previsiones iniciales del Gobierno y plantean un dilema en necesidades como la vivienda, la sanidad o la educación",
-      "url": "https://www.abc.es/espana/expertos-auguran-colapso-servicios-basicos-ante-millon-20260620020030-nt.html",
-      "scraped_at": "2026-06-21T10:03:25Z"
+      "title": "Ábalos recibe la mayor condena por corrupción de la democracia",
+      "subtitle": "El Tribunal Supremo falla con 24 años de cárcel para una de las personas que llevó a Sánchez a la Secretaría General del PSOE y a la Moncloa",
+      "url": "https://www.abc.es/espana/abalos-mano-derecha-sanchez-ministro-mayor-condena-20260622135458-nt.html",
+      "scraped_at": "2026-06-22T12:23:28Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Mamá, voy a hacer FP»: La rebelión que necesita la economía española",
-      "subtitle": "La 'titulitis' universitaria y el desprestigio de la formación profesional pese a sus amplias salidas laborales hacen de España el país más sobrecualificado de la UE y líder en paro juvenil. ABC recaba datos, opiniones de expertos y el testimonio de seis jóvenes para separar el mito de la realidad",
-      "url": "https://www.abc.es/economia/mama-rebelion-necesita-economia-espanola-20260621165518-nt.html",
-      "scraped_at": "2026-06-21T10:03:26Z"
+      "title": "El Supremo premia sin cárcel la confesión de Aldama",
+      "subtitle": "Acoge la petición de la acusación popular y le suspende la pena a cambio de presentar un informe semestral de su actividad empresarial y un año de trabajos en beneficio de la comunidad",
+      "url": "https://www.abc.es/espana/supremo-premia-confesion-aldama-cinco-anos-siete-20260622121823-nt.html",
+      "scraped_at": "2026-06-22T12:23:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los dos precios de las joyas: el que tú crees y el que pone Hacienda",
-      "subtitle": "Los españoles tienen 1.228 millones de euros en todo tipo de objetos valiosos cuya tributación depende de si se compraron, se heredaron o fueron un regalo",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/valor-joyas-genera-grandes-discrepancias-contribuyente-hacienda-20260621015923-nt.html",
-      "scraped_at": "2026-06-21T10:03:26Z"
+      "title": "El comisionista se muestra satisfecho y avisa: «Espero que los que vienen detrás colaboren»",
+      "subtitle": "El comisionista ha reaccionado tras conocer la sentencia del Tribunal Supremo que condena a 24 años de prisión al exministro José Luis Ábalos y 19 a su exasesor Koldo García",
+      "url": "https://www.abc.es/espana/aldama-muestra-satisfecho-sentencia-mascarillas-avisa-espero-20260622133001-nt.html",
+      "scraped_at": "2026-06-22T12:23:29Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ignacio Solsona, abogado: «A una persona con más de 40 años cotizados se le aplica una penalización máxima del 28%»",
-      "subtitle": "El Congreso frena la eliminación de los coeficientes reductores para largas carreras de cotización, pero la asociación ASJUBI 40 no se rinde y exige...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/ignacio-solsona-abogado-persona-40-anos-cotizados-adelanta-jubilacion-cuatro-anos-le-aplica-penalizacion-maxima-28-20260621_3387209.html",
-      "scraped_at": "2026-06-21T10:03:26Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-06-22T12:23:30Z"
     }
   ]
 }
