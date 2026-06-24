@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La sentencia del caso Mascarillas encumbra al fiscal anticorrupción y advierte de que la corrupción es generalizada: Los magistrados dan por probados los hechos del escrito del fiscal Luzón, desde la contratación de Jésica Rodríguez hasta la búsqueda de un chalet en Marbella por publicar un comunicado avanzando el rescate de Air Europa; Aldama, la figura del colaborador se abre paso ante el horizonte judicial del PSOE: La sentencia de la Sala Segunda destaca que el empresario «ha propiciado y favorecido otras investigaciones y procedimientos seguidos en distintos juzgados»; La UCO cree que la trama Leire usó al PNV para ejercer «presión ante el Gobierno»: «Economía pone pegas»: Como consecuencia directa de estas labores, los tres investigados «recibieron un total de 114.950 euros a través de facturación». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-23T10:00:22Z",
+  "summary": "Resumen del día en ABC.es: Sánchez no asume responsabilidades por la corrupción y pide «a la Justicia que sea justa»: El presidente se victimiza y carga contra la «opinión publicada» que busca generar «confusión» en la ciudadanía; Feijóo acusa a Sánchez de ser el «nexo político corruptor» de las tramas: «¿Qué hace todavía ahí sentado?»: El líder del Partido Popular exige a Sánchez convocar elecciones tras la condena de su exministro José Luis Ábalos: «Su defensa política es imposible»; Junts exige a Sánchez que dimita para que el Congreso invista a otro candidato del PSOE: «Hoy no tiene ni mayoría ni legitimidad para ocupar el poder y a veces es necesario que un hombre muera por un pueblo», le ha espetado Míriam Nogueras al presidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-24T09:49:36Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La sentencia del caso Mascarillas encumbra al fiscal anticorrupción y advierte de que la corrupción es generalizada",
-      "subtitle": "Los magistrados dan por probados los hechos del escrito del fiscal Luzón, desde la contratación de Jésica Rodríguez hasta la búsqueda de un chalet en Marbella por publicar un comunicado avanzando el rescate de Air Europa",
-      "url": "https://www.abc.es/espana/triunfo-anticorrupcion-sentencia-unanime-abalos-alerta-sobre-20260623013206-nt.html",
-      "scraped_at": "2026-06-23T10:00:20Z"
+      "title": "Sánchez no asume responsabilidades por la corrupción y pide «a la Justicia que sea justa»",
+      "subtitle": "El presidente se victimiza y carga contra la «opinión publicada» que busca generar «confusión» en la ciudadanía",
+      "url": "https://www.abc.es/espana/sanchez-asume-responsabilidades-corrupcion-pide-justica-justa-20260624094218-nt.html",
+      "scraped_at": "2026-06-24T09:49:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "Aldama, la figura del colaborador se abre paso ante el horizonte judicial del PSOE",
-      "subtitle": "La sentencia de la Sala Segunda destaca que el empresario «ha propiciado y favorecido otras investigaciones y procedimientos seguidos en distintos juzgados»",
-      "url": "https://www.abc.es/espana/aldama-figura-colaborador-abre-paso-ante-horizonte-20260623013354-nt.html",
-      "scraped_at": "2026-06-23T10:00:21Z"
+      "title": "Feijóo acusa a Sánchez de ser el «nexo político corruptor» de las tramas: «¿Qué hace todavía ahí sentado?»",
+      "subtitle": "El líder del Partido Popular exige a Sánchez convocar elecciones tras la condena de su exministro José Luis Ábalos: «Su defensa política es imposible»",
+      "url": "https://www.abc.es/espana/feijoo-presiona-sanchez-elecciones-insta-echarlo-nexo-20260624100510-nt.html",
+      "scraped_at": "2026-06-24T09:49:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UCO cree que la trama Leire usó al PNV para ejercer «presión ante el Gobierno»: «Economía pone pegas»",
-      "subtitle": "Como consecuencia directa de estas labores, los tres investigados «recibieron un total de 114.950 euros a través de facturación»",
-      "url": "https://www.abc.es/espana/uco-cree-trama-leire-uso-pnv-ejercer-20260623103553-nt.html",
-      "scraped_at": "2026-06-23T10:00:21Z"
+      "title": "Junts exige a Sánchez que dimita para que el Congreso invista a otro candidato del PSOE",
+      "subtitle": "«Hoy no tiene ni mayoría ni legitimidad para ocupar el poder y a veces es necesario que un hombre muera por un pueblo», le ha espetado Míriam Nogueras al presidente",
+      "url": "https://www.abc.es/espana/junts-exige-sanchez-dimita-congreso-invista-candidato-20260624113538-nt.html",
+      "scraped_at": "2026-06-24T09:49:35Z"
     },
     {
       "source": "ABC.es",
-      "title": "Begoña Gómez tendrá que entregar su pasaporte al margen de una posible sanción a Peinado",
-      "subtitle": "Las medidas cautelares del juez sólo pueden ser revocadas por la Audiencia de Madrid",
-      "url": "https://www.abc.es/espana/begona-gomez-entregar-pasaporte-margen-posible-sancion-20260623013448-nt.html",
-      "scraped_at": "2026-06-23T10:00:21Z"
+      "title": "Del PP al PSOE, la figura del colaborador: un clásico en la historia judicial",
+      "subtitle": "La suspensión de prisión de Aldama por colaborar con la investigación de la trama Mascarillas no es una novedad: el denunciante del caso Gürtel o imputados del 3% catalán evitaron la cárcel gracias a su apoyo a la Justicia",
+      "url": "https://www.abc.es/espana/figura-colaborador-clasico-juicios-corrupcion-20260624014652-nt.html",
+      "scraped_at": "2026-06-24T09:49:36Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mundial 2026",
-      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
-      "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-23T10:00:22Z"
+      "title": "Aitor Fernández, experto fiscal: «Muchos no saben que deben presentar la Renta de un fallecido»",
+      "subtitle": "El fallecimiento de una persona no extingue la obligación de presentar su declaración, un trámite que deben asumir los herederos para evitar errores...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/aitor-fernandez-experto-fiscal-no-deben-presentar-renta-fallecido-casos-derivar-errores-perdida-devoluciones-20260624_3387550.html",
+      "scraped_at": "2026-06-24T09:49:36Z"
     }
   ]
 }
