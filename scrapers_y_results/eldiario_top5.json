@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Sánchez desvincula el caso Zapatero de su Gobierno y defiende a su familia: “Le pido a la Justicia que sea justa”: El presidente comparece en el Congreso para dar explicaciones por los casos de corrupción que afectan al Gobierno y al PSOE: \"No debe haber impunidad para los corruptos, sean quienes sean\"; Feijóo, a Sánchez: “Usted es el nexo político corruptor”: El líder del PP reclama la dimisión del presidente y alienta a los socios a \"echar a este Gobierno con una moción de censura hoy mismo\", mientras Junts le exige dimitir sin convocar elecciones y designar a otro candidato para sustituirle al frente de la Moncloa; El Supremo contradice a Aldama en sus acusaciones de soborno contra un alto cargo de Hacienda: Los jueces rechazan la parte de su confesión en la que acusó al jefe de gabinete de María Jesús Montero de aceptar un sobre con 25.000 euros a cambio de aplazar la deuda de una de sus empresas: la deuda sigue vigente, el soborno no se produjo y una simple reunión no es un delito, según el tribunal. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-24T09:49:34Z",
+  "summary": "Resumen del día en elDiario.es: Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas: El Servicio Geológico de Estados Unidos (USGS) ha indicado que el primer terremoto fue de una magnitud de 7,2, y el segundo, aún más fuerte, de magnitud 7,5, se registró apenas un minuto después. El USGS calcula que puede haber hasta 100.000 fallecidos: en su primer cálculo inicial, el Gobierno de Venezuela habla de 32 muertos y 700 heridos; Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas: Los sismoa han dejado un primer balance oficial de 32 fallecidos y más de 700 heridos, en un recuento que aún no incluyen los informe del estado de La Guaira, uno de los estados más golpeados; Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela: Se trata de un fenómeno menos común con dos terremotos diferentes separados por poco tiempo y distancia en lugar del más habitual temblor con réplicas. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-25T09:41:01Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Sánchez desvincula el caso Zapatero de su Gobierno y defiende a su familia: “Le pido a la Justicia que sea justa”",
-      "subtitle": "El presidente comparece en el Congreso para dar explicaciones por los casos de corrupción que afectan al Gobierno y al PSOE: \"No debe haber impunidad para los corruptos, sean quienes sean\"",
-      "url": "https://www.eldiario.es/politica/sanchez-no-debe-haber-impunidad-corruptos-sean-sean_1_13328271.html",
-      "scraped_at": "2026-06-24T09:49:30Z"
+      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas",
+      "subtitle": "El Servicio Geológico de Estados Unidos (USGS) ha indicado que el primer terremoto fue de una magnitud de 7,2, y el segundo, aún más fuerte, de magnitud 7,5, se registró apenas un minuto después. El USGS calcula que puede haber hasta 100.000 fallecidos: en su primer cálculo inicial, el Gobierno de Venezuela habla de 32 muertos y 700 heridos",
+      "url": "https://www.eldiario.es/internacional/potentes-terremotos-consecutivos-sacuden-venezuela-provocan-derrumbe-edificios-caracas_1_13331206.html",
+      "scraped_at": "2026-06-25T09:40:58Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo, a Sánchez: “Usted es el nexo político corruptor”",
-      "subtitle": "El líder del PP reclama la dimisión del presidente y alienta a los socios a \"echar a este Gobierno con una moción de censura hoy mismo\", mientras Junts le exige dimitir sin convocar elecciones y designar a otro candidato para sustituirle al frente de la Moncloa",
-      "url": "https://www.eldiario.es/politica/feijoo-sanchez-nexo-politico-corruptor-puso-manos-gentuza_1_13328370.html",
-      "scraped_at": "2026-06-24T09:49:31Z"
+      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
+      "subtitle": "Los sismoa han dejado un primer balance oficial de 32 fallecidos y más de 700 heridos, en un recuento que aún no incluyen los informe del estado de La Guaira, uno de los estados más golpeados",
+      "url": "https://www.eldiario.es/internacional/mapas-terremotos-venezuela-son-zonas-afectadas_1_13331637.html",
+      "scraped_at": "2026-06-25T09:40:58Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo contradice a Aldama en sus acusaciones de soborno contra un alto cargo de Hacienda",
-      "subtitle": "Los jueces rechazan la parte de su confesión en la que acusó al jefe de gabinete de María Jesús Montero de aceptar un sobre con 25.000 euros a cambio de aplazar la deuda de una de sus empresas: la deuda sigue vigente, el soborno no se produjo y una simple reunión no es un delito, según el tribunal",
-      "url": "https://www.eldiario.es/politica/supremo-contradice-aldama-acusaciones-soborno-alto-cargo-hacienda_1_13327036.html",
-      "scraped_at": "2026-06-24T09:49:32Z"
+      "title": "Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela",
+      "subtitle": "Se trata de un fenómeno menos común con dos terremotos diferentes separados por poco tiempo y distancia en lugar del más habitual temblor con réplicas",
+      "url": "https://www.eldiario.es/sociedad/doblete-sismico-asola-venezuela-preguntas-respuestas_1_13331622.html",
+      "scraped_at": "2026-06-25T09:40:59Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama se queja de haber tenido que pagar impuestos por su comisión de seis millones del caso Mascarillas",
-      "subtitle": "Preguntado sobre su actividad actual, el empresario asegura que las empresas que tiene \"ahora mismo\" están \"paralizadas todas, porque están todas en cautelares\"",
-      "url": "https://www.eldiario.es/politica/aldama-queja-haber-tenido-pagar-impuestos-comision-seis-millones-caso-mascarillas_1_13328263.html",
-      "scraped_at": "2026-06-24T09:49:33Z"
+      "title": "Los efectos del terremoto en Venezuela, en imágenes",
+      "subtitle": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas",
+      "url": "https://www.eldiario.es/internacional/efectos-terremoto-venezuela-imagenes_3_13331396.html",
+      "scraped_at": "2026-06-25T09:41:00Z"
     },
     {
       "source": "elDiario.es",
-      "title": "PSOE Soria",
-      "subtitle": "La investigación se centra en la concejala de Turismo, que ha acabado detenida. Yolanda Santos se deshizo del 33% de participaciones de una empresa de educación ambiental y se las vendió a una alcaldesa, también socialista, de un pequeño municipio de la provincia, a la que apuntan como testaferro",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/seis-delitos-seis-detenidos-redada-ayuntamiento-soria-siembra-inquietud-psoe-carlos-martinez_1_13327486.html",
-      "scraped_at": "2026-06-24T09:49:34Z"
+      "title": "Zapatero",
+      "subtitle": "El último informe de la UDEF amplía las pesquisas más allá del rescate de Plus Ultra y de la consultora Análisis Relevante mientras el entorno del expresidente denuncia una “investigación prospectiva”",
+      "url": "https://www.eldiario.es/politica/causa-zapatero-cuestiona-negocios-privados-extranjero_1_13330811.html",
+      "scraped_at": "2026-06-25T09:41:01Z"
     }
   ]
 }

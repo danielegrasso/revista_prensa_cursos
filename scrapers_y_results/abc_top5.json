@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez no asume responsabilidades por la corrupción y pide «a la Justicia que sea justa»: El presidente se victimiza y carga contra la «opinión publicada» que busca generar «confusión» en la ciudadanía; Feijóo acusa a Sánchez de ser el «nexo político corruptor» de las tramas: «¿Qué hace todavía ahí sentado?»: El líder del Partido Popular exige a Sánchez convocar elecciones tras la condena de su exministro José Luis Ábalos: «Su defensa política es imposible»; Junts exige a Sánchez que dimita para que el Congreso invista a otro candidato del PSOE: «Hoy no tiene ni mayoría ni legitimidad para ocupar el poder y a veces es necesario que un hombre muera por un pueblo», le ha espetado Míriam Nogueras al presidente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-24T09:49:36Z",
+  "summary": "Resumen del día en ABC.es: Edificios colapsados y pánico en las calles, los testimonios tras la tragedia: «Sentíamos las réplicas a cada rato»: Miles de ciudadanos venezolanos salieron a las calles buscando refugio tras el doble terremoto de magnitud 7,2 y 7,5; La Guaira, el estado más afectado, aún no contabiliza víctimas: Hay al menos 32 fallecidos y más de 700 heridos, según los primeros datos. Los dos sismos se produjeron con 39 segundos de diferencia; Trump ofrece su ayuda: «Estaremos allí para nuestros nuevos amigos»: La mayoría de los países de América Latina se han volcado ante la grave situación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-25T09:41:03Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez no asume responsabilidades por la corrupción y pide «a la Justicia que sea justa»",
-      "subtitle": "El presidente se victimiza y carga contra la «opinión publicada» que busca generar «confusión» en la ciudadanía",
-      "url": "https://www.abc.es/espana/sanchez-asume-responsabilidades-corrupcion-pide-justica-justa-20260624094218-nt.html",
-      "scraped_at": "2026-06-24T09:49:35Z"
+      "title": "Edificios colapsados y pánico en las calles, los testimonios tras la tragedia: «Sentíamos las réplicas a cada rato»",
+      "subtitle": "Miles de ciudadanos venezolanos salieron a las calles buscando refugio tras el doble terremoto de magnitud 7,2 y 7,5",
+      "url": "https://www.abc.es/internacional/edificios-colapsados-panico-calles-testimonios-tras-terremoto-20260625103921-nt.html",
+      "scraped_at": "2026-06-25T09:41:02Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo acusa a Sánchez de ser el «nexo político corruptor» de las tramas: «¿Qué hace todavía ahí sentado?»",
-      "subtitle": "El líder del Partido Popular exige a Sánchez convocar elecciones tras la condena de su exministro José Luis Ábalos: «Su defensa política es imposible»",
-      "url": "https://www.abc.es/espana/feijoo-presiona-sanchez-elecciones-insta-echarlo-nexo-20260624100510-nt.html",
-      "scraped_at": "2026-06-24T09:49:35Z"
+      "title": "La Guaira, el estado más afectado, aún no contabiliza víctimas",
+      "subtitle": "Hay al menos 32 fallecidos y más de 700 heridos, según los primeros datos. Los dos sismos se produjeron con 39 segundos de diferencia",
+      "url": "https://www.abc.es/internacional/dos-potentes-terremotos-magnitud-golpean-venezuela-20260625060752-nt.html",
+      "scraped_at": "2026-06-25T09:41:02Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junts exige a Sánchez que dimita para que el Congreso invista a otro candidato del PSOE",
-      "subtitle": "«Hoy no tiene ni mayoría ni legitimidad para ocupar el poder y a veces es necesario que un hombre muera por un pueblo», le ha espetado Míriam Nogueras al presidente",
-      "url": "https://www.abc.es/espana/junts-exige-sanchez-dimita-congreso-invista-candidato-20260624113538-nt.html",
-      "scraped_at": "2026-06-24T09:49:35Z"
+      "title": "Trump ofrece su ayuda: «Estaremos allí para nuestros nuevos amigos»",
+      "subtitle": "La mayoría de los países de América Latina se han volcado ante la grave situación",
+      "url": "https://www.abc.es/internacional/trump-ofrece-ayuda-venezuela-tras-grave-terremoto-20260625080340-nt.html",
+      "scraped_at": "2026-06-25T09:41:02Z"
     },
     {
       "source": "ABC.es",
-      "title": "Del PP al PSOE, la figura del colaborador: un clásico en la historia judicial",
-      "subtitle": "La suspensión de prisión de Aldama por colaborar con la investigación de la trama Mascarillas no es una novedad: el denunciante del caso Gürtel o imputados del 3% catalán evitaron la cárcel gracias a su apoyo a la Justicia",
-      "url": "https://www.abc.es/espana/figura-colaborador-clasico-juicios-corrupcion-20260624014652-nt.html",
-      "scraped_at": "2026-06-24T09:49:36Z"
+      "title": "El terremoto, en imágenes",
+      "subtitle": "La comunidad internacional, incluidos España, América Latina y EE.UU. expresa su disposición a apoyar al país caribeño tras el desastre",
+      "url": "https://www.abc.es/internacional/dos-terremotos-golpean-venezuela-imagenes-20260625091335-ga.html",
+      "scraped_at": "2026-06-25T09:41:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Aitor Fernández, experto fiscal: «Muchos no saben que deben presentar la Renta de un fallecido»",
-      "subtitle": "El fallecimiento de una persona no extingue la obligación de presentar su declaración, un trámite que deben asumir los herederos para evitar errores...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/aitor-fernandez-experto-fiscal-no-deben-presentar-renta-fallecido-casos-derivar-errores-perdida-devoluciones-20260624_3387550.html",
-      "scraped_at": "2026-06-24T09:49:36Z"
+      "title": "El Banco de España limita la comisión por descubierto en tu cuenta a un máximo de dos veces y media el interés legal",
+      "subtitle": "La institución recuerda que la comisión por números rojos no puede superar dos veces y media el interés legal del dinero y solo puede cobrarse una...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/banco-espana-limita-comision-descubierto-cuenta-maximo-dos-veces-media-interes-legal-dinero-aplicarse-vez-periodo-liquidacion-20260625_3386934.html",
+      "scraped_at": "2026-06-25T09:41:03Z"
     }
   ]
 }
