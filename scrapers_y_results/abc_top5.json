@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Edificios colapsados y pánico en las calles, los testimonios tras la tragedia: «Sentíamos las réplicas a cada rato»: Miles de ciudadanos venezolanos salieron a las calles buscando refugio tras el doble terremoto de magnitud 7,2 y 7,5; La Guaira, el estado más afectado, aún no contabiliza víctimas: Hay al menos 32 fallecidos y más de 700 heridos, según los primeros datos. Los dos sismos se produjeron con 39 segundos de diferencia; Trump ofrece su ayuda: «Estaremos allí para nuestros nuevos amigos»: La mayoría de los países de América Latina se han volcado ante la grave situación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-25T09:41:03Z",
+  "summary": "Resumen del día en ABC.es: La Guaira, 24 horas después: saqueos, muertos sin contar y ninguna autoridad: ABC llega hasta el litoral venezolano, epicentro del doble terremoto, donde se vive un estado de abandono total mientras Delcy Rodríguez acepta por primera vez ayuda de Estados Unidos; Juntos por el renacer de Venezuela: La misma red ciudadana que fue capaz de burlar la persecución del régimen de Maduro y vencerlo en las urnas es la red que ahora se activa para desplegar un gigantesco operativo de solidaridad; Una falla sobre otra falla: Los venezolanos volverán a levantarse, porque lo han hecho muchas veces. Pero la fortaleza de un pueblo no puede seguir utilizándose para justificar la ausencia del Estado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-26T09:49:27Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Edificios colapsados y pánico en las calles, los testimonios tras la tragedia: «Sentíamos las réplicas a cada rato»",
-      "subtitle": "Miles de ciudadanos venezolanos salieron a las calles buscando refugio tras el doble terremoto de magnitud 7,2 y 7,5",
-      "url": "https://www.abc.es/internacional/edificios-colapsados-panico-calles-testimonios-tras-terremoto-20260625103921-nt.html",
-      "scraped_at": "2026-06-25T09:41:02Z"
+      "title": "La Guaira, 24 horas después: saqueos, muertos sin contar y ninguna autoridad",
+      "subtitle": "ABC llega hasta el litoral venezolano, epicentro del doble terremoto, donde se vive un estado de abandono total mientras Delcy Rodríguez acepta por primera vez ayuda de Estados Unidos",
+      "url": "https://www.abc.es/internacional/guaira-veinticuatro-horas-despues-saqueos-muertos-contar-20260626045912-nt.html",
+      "scraped_at": "2026-06-26T09:49:25Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Guaira, el estado más afectado, aún no contabiliza víctimas",
-      "subtitle": "Hay al menos 32 fallecidos y más de 700 heridos, según los primeros datos. Los dos sismos se produjeron con 39 segundos de diferencia",
-      "url": "https://www.abc.es/internacional/dos-potentes-terremotos-magnitud-golpean-venezuela-20260625060752-nt.html",
-      "scraped_at": "2026-06-25T09:41:02Z"
+      "title": "Juntos por el renacer de Venezuela",
+      "subtitle": "La misma red ciudadana que fue capaz de burlar la persecución del régimen de Maduro y vencerlo en las urnas es la red que ahora se activa para desplegar un gigantesco operativo de solidaridad",
+      "url": "https://www.abc.es/internacional/maria-corina-machado-juntos-renacer-venezuela-20260625214110-nt.html",
+      "scraped_at": "2026-06-26T09:49:26Z"
     },
     {
       "source": "ABC.es",
-      "title": "Trump ofrece su ayuda: «Estaremos allí para nuestros nuevos amigos»",
-      "subtitle": "La mayoría de los países de América Latina se han volcado ante la grave situación",
-      "url": "https://www.abc.es/internacional/trump-ofrece-ayuda-venezuela-tras-grave-terremoto-20260625080340-nt.html",
-      "scraped_at": "2026-06-25T09:41:02Z"
+      "title": "Una falla sobre otra falla",
+      "subtitle": "Los venezolanos volverán a levantarse, porque lo han hecho muchas veces. Pero la fortaleza de un pueblo no puede seguir utilizándose para justificar la ausencia del Estado",
+      "url": "https://www.abc.es/internacional/falla-sobre-falla-20260625021037-nt.html",
+      "scraped_at": "2026-06-26T09:49:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "El terremoto, en imágenes",
-      "subtitle": "La comunidad internacional, incluidos España, América Latina y EE.UU. expresa su disposición a apoyar al país caribeño tras el desastre",
-      "url": "https://www.abc.es/internacional/dos-terremotos-golpean-venezuela-imagenes-20260625091335-ga.html",
-      "scraped_at": "2026-06-25T09:41:03Z"
+      "title": "Noche eterna en La Guaira",
+      "subtitle": "Venezuela, con sus cuatros, sus Llanos, sus escritoras de ojos verdes y sus flamboyanes, demuestra que siempre puede llover sobre mojado, que incluso es posible derrumbar lo que ya parecía derruido",
+      "url": "https://www.abc.es/opinion/chapu-apaolaza-noche-eterna-guaira-20260625020642-nt.html",
+      "scraped_at": "2026-06-26T09:49:27Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Banco de España limita la comisión por descubierto en tu cuenta a un máximo de dos veces y media el interés legal",
-      "subtitle": "La institución recuerda que la comisión por números rojos no puede superar dos veces y media el interés legal del dinero y solo puede cobrarse una...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/banco-espana-limita-comision-descubierto-cuenta-maximo-dos-veces-media-interes-legal-dinero-aplicarse-vez-periodo-liquidacion-20260625_3386934.html",
-      "scraped_at": "2026-06-25T09:41:03Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-06-26T09:49:27Z"
     }
   ]
 }

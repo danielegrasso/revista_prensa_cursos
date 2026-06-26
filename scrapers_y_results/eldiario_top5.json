@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas: El Servicio Geológico de Estados Unidos (USGS) ha indicado que el primer terremoto fue de una magnitud de 7,2, y el segundo, aún más fuerte, de magnitud 7,5, se registró apenas un minuto después. El USGS calcula que puede haber hasta 100.000 fallecidos: en su primer cálculo inicial, el Gobierno de Venezuela habla de 32 muertos y 700 heridos; Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas: Los sismoa han dejado un primer balance oficial de 32 fallecidos y más de 700 heridos, en un recuento que aún no incluyen los informe del estado de La Guaira, uno de los estados más golpeados; Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela: Se trata de un fenómeno menos común con dos terremotos diferentes separados por poco tiempo y distancia en lugar del más habitual temblor con réplicas. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-25T09:41:01Z",
+  "summary": "Resumen del día en elDiario.es: Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos por los terremotos: La evacuación en la capital ha dejado escenas de gran conmoción, angustia e incertidumbre en las principales zonas afectadas por una catástrofe de la que todavía se desconoce su impacto real; Exteriores confirma dos españoles muertos y 80 desaparecidos: El Ministerio muestra sus condeolencias a las familias e informa que un venezolano que trabajaba para la embajada española en Caracas, también ha fallecido; Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de Caracas: Dos terremotos de magnitud 7,2 y 7,5 separados por 39 segundos dieron paso a horas de pánico, silencio de las autoridades y solidaridad vecinal en una ciudad sin refugios. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-26T09:49:24Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas",
-      "subtitle": "El Servicio Geológico de Estados Unidos (USGS) ha indicado que el primer terremoto fue de una magnitud de 7,2, y el segundo, aún más fuerte, de magnitud 7,5, se registró apenas un minuto después. El USGS calcula que puede haber hasta 100.000 fallecidos: en su primer cálculo inicial, el Gobierno de Venezuela habla de 32 muertos y 700 heridos",
-      "url": "https://www.eldiario.es/internacional/potentes-terremotos-consecutivos-sacuden-venezuela-provocan-derrumbe-edificios-caracas_1_13331206.html",
-      "scraped_at": "2026-06-25T09:40:58Z"
+      "title": "Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos por los terremotos",
+      "subtitle": "La evacuación en la capital ha dejado escenas de gran conmoción, angustia e incertidumbre en las principales zonas afectadas por una catástrofe de la que todavía se desconoce su impacto real",
+      "url": "https://www.eldiario.es/internacional/desolacion-e-incertidumbre-venezuela-terremotos-sentia-iba-morir_1_13332247.html",
+      "scraped_at": "2026-06-26T09:49:22Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
-      "subtitle": "Los sismoa han dejado un primer balance oficial de 32 fallecidos y más de 700 heridos, en un recuento que aún no incluyen los informe del estado de La Guaira, uno de los estados más golpeados",
+      "title": "Exteriores confirma dos españoles muertos y 80 desaparecidos",
+      "subtitle": "El Ministerio muestra sus condeolencias a las familias e informa que un venezolano que trabajaba para la embajada española en Caracas, también ha fallecido",
+      "url": "https://www.eldiario.es/internacional/exteriores-confirma-espanoles-muertos-80-desparecidos-terremotos-venezuela_1_13334896.html",
+      "scraped_at": "2026-06-26T09:49:22Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de Caracas",
+      "subtitle": "Dos terremotos de magnitud 7,2 y 7,5 separados por 39 segundos dieron paso a horas de pánico, silencio de las autoridades y solidaridad vecinal en una ciudad sin refugios",
+      "url": "https://www.eldiario.es/internacional/temblor-eterno-aterrador-he-vivido-terremotos-apartamento-caracas_129_13333426.html",
+      "scraped_at": "2026-06-26T09:49:23Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rodolfo Reyes, sobre el rescate de Plus Ultra: “Me dicen que García Legaz tiene control de mucha gente en la SEPI. Es PP”",
+      "subtitle": "Los mensajes extraídos del móvil del accionista mayoritario de la compañía aérea muestran cómo los directivos buscaron ayudas políticas de todo signo para lograr el rescate",
+      "url": "https://www.eldiario.es/politica/rodolfo-reyes-rescate-plus-ultra-dicen-garcia-legaz-control-gente-sepi-pp_1_13332049.html",
+      "scraped_at": "2026-06-26T09:49:24Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Mapa Venezuela",
+      "subtitle": "Los seísmos dejan de momento 235 muertos y 4.300 heridos, mientras continúan las operaciones de rescate",
       "url": "https://www.eldiario.es/internacional/mapas-terremotos-venezuela-son-zonas-afectadas_1_13331637.html",
-      "scraped_at": "2026-06-25T09:40:58Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela",
-      "subtitle": "Se trata de un fenómeno menos común con dos terremotos diferentes separados por poco tiempo y distancia en lugar del más habitual temblor con réplicas",
-      "url": "https://www.eldiario.es/sociedad/doblete-sismico-asola-venezuela-preguntas-respuestas_1_13331622.html",
-      "scraped_at": "2026-06-25T09:40:59Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los efectos del terremoto en Venezuela, en imágenes",
-      "subtitle": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de muertos en Caracas",
-      "url": "https://www.eldiario.es/internacional/efectos-terremoto-venezuela-imagenes_3_13331396.html",
-      "scraped_at": "2026-06-25T09:41:00Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero",
-      "subtitle": "El último informe de la UDEF amplía las pesquisas más allá del rescate de Plus Ultra y de la consultora Análisis Relevante mientras el entorno del expresidente denuncia una “investigación prospectiva”",
-      "url": "https://www.eldiario.es/politica/causa-zapatero-cuestiona-negocios-privados-extranjero_1_13330811.html",
-      "scraped_at": "2026-06-25T09:41:01Z"
+      "scraped_at": "2026-06-26T09:49:24Z"
     }
   ]
 }

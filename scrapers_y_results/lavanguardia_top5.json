@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Dos terremotos sacuden Venezuela y dejan al menos 32 muertos y 700 heridos: Los sismos, uno de magnitud 7,2 y otro de 7,5, dejan un rastro de caos y destrucción en el país; La franja costera de La Guaira, con 400.000 residentes, declarada “zona de desastre”: El estado alberga el principal aeropuerto internacional del país, el Internacional Simón Bolívar; Las imágenes más impactantes tras el doble terremoto en Venezuela: Varios usuarios de redes sociales comparten vídeos del estado en el país tras el doble seísmo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-25T09:41:05Z",
+  "summary": "Resumen del día en La Vanguardia: Las sanciones de EE.UU. dificultan la ayuda a Venezuela tras los seísmos: Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria; La destrucción en La Guaira: 100 edificios derrumbados, 70.000 familias afectadas...: El ministro del Interior anuncia que se ampliarán a 11.500 hombres y mujeres los efectivos desplegados en la zona para buscar supervivientes; La madrugada en la que el móvil empezó a vibrar: Muchos venezolanos en el exterior descubrieron la catástrofe a través de los mensajes de los grupos de Whatsapp. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-26T09:49:29Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Dos terremotos sacuden Venezuela y dejan al menos 32 muertos y 700 heridos",
-      "subtitle": "Los sismos, uno de magnitud 7,2 y otro de 7,5, dejan un rastro de caos y destrucción en el país",
-      "url": "https://www.lavanguardia.com/internacional/20260625/11574649/dos-potentes-terremotos-venezuela-provocan-derrumbe-edificios-numerosos-muertos.html",
-      "scraped_at": "2026-06-25T09:41:04Z"
+      "title": "Las sanciones de EE.UU. dificultan la ayuda a Venezuela tras los seísmos",
+      "subtitle": "Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria",
+      "url": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html",
+      "scraped_at": "2026-06-26T09:49:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La franja costera de La Guaira, con 400.000 residentes, declarada “zona de desastre”",
-      "subtitle": "El estado alberga el principal aeropuerto internacional del país, el Internacional Simón Bolívar",
-      "url": "https://www.lavanguardia.com/internacional/20260625/11574665/zona-costera-guaira-declarada-zona-desastre-doble-terremoto.html",
-      "scraped_at": "2026-06-25T09:41:05Z"
+      "title": "La destrucción en La Guaira: 100 edificios derrumbados, 70.000 familias afectadas...",
+      "subtitle": "El ministro del Interior anuncia que se ampliarán a 11.500 hombres y mujeres los efectivos desplegados en la zona para buscar supervivientes",
+      "url": "https://www.lavanguardia.com/internacional/20260626/11575898/terremoto-venezuela-devastacion-guaira-cifras-100-edificios-derrumbados-70-000-familias-afectadas.html",
+      "scraped_at": "2026-06-26T09:49:28Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las imágenes más impactantes tras el doble terremoto en Venezuela",
-      "subtitle": "Varios usuarios de redes sociales comparten vídeos del estado en el país tras el doble seísmo",
-      "url": "https://www.lavanguardia.com/internacional/20260625/11574662/doble-terremoto-venezuela-imagenes-desastre.html",
-      "scraped_at": "2026-06-25T09:41:05Z"
+      "title": "La madrugada en la que el móvil empezó a vibrar",
+      "subtitle": "Muchos venezolanos en el exterior descubrieron la catástrofe a través de los mensajes de los grupos de Whatsapp",
+      "url": "https://www.lavanguardia.com/internacional/20260626/11575379/madrugada-movil-empezo-vibrar.html",
+      "scraped_at": "2026-06-26T09:49:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Qué es el doblete sísmico que ha golpeado con dureza a Venezuela?",
-      "subtitle": "El fenómeno geológico extraordinario y poco frecuente que ha sacudido el centro-norte del país caribeño es una secuencia de sismos que multiplica la destrucción y desafía los modelos de predicción científica.",
-      "url": "https://www.lavanguardia.com/natural/20260625/11574727/dos-golpes-39-segundos-doblete-sismico-dejar-10-000-100-000-muertos-venezuela.html",
-      "scraped_at": "2026-06-25T09:41:05Z"
+      "title": "Las imágenes de la devastación en Venezuela: el antes y el después",
+      "subtitle": "El doble terremoto de este jueves ha dejado por el momento más de 230 muertos y 4.300 heridos, con una estimación de 35.000 desaparecidos",
+      "url": "https://www.lavanguardia.com/internacional/20260626/11575876/imagenes-devastacion-venezuela.html",
+      "scraped_at": "2026-06-26T09:49:29Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Fútbol hoy",
-      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
-      "url": "https://www.lavanguardia.com/deportes/resultados",
-      "scraped_at": "2026-06-25T09:41:05Z"
+      "title": "Eventos La Vanguardia",
+      "subtitle": "",
+      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
+      "scraped_at": "2026-06-26T09:49:29Z"
     }
   ]
 }
