@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Guaira, 24 horas después: saqueos, muertos sin contar y ninguna autoridad: ABC llega hasta el litoral venezolano, epicentro del doble terremoto, donde se vive un estado de abandono total mientras Delcy Rodríguez acepta por primera vez ayuda de Estados Unidos; Juntos por el renacer de Venezuela: La misma red ciudadana que fue capaz de burlar la persecución del régimen de Maduro y vencerlo en las urnas es la red que ahora se activa para desplegar un gigantesco operativo de solidaridad; Una falla sobre otra falla: Los venezolanos volverán a levantarse, porque lo han hecho muchas veces. Pero la fortaleza de un pueblo no puede seguir utilizándose para justificar la ausencia del Estado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-26T09:49:27Z",
+  "summary": "Resumen del día en ABC.es: Venezuela, sin medios para atender a los heridos del terremoto: En coche, moto o a pie, cubriéndose las lesiones con vendas caseras y trapos, los heridos por los derrumbes de edificios colapsan los centros médicos, que ya sufrían graves carencias antes de la catástrofe por la ruinosa gestión del chavismo; La diáspora venezolana, al rescate: «Pasado el impacto, la catástrofe empieza ahora»: Un despacho de abogados en Madrid se convierte a contra reloj en un centro de recogida de ayuda mientras el régimen confisca suministros en las zonas afectadas por el terremoto; España derriba a una trituradora y endulza su futuro: La selección se impone a Uruguay en un partido salvaje y durísimo, y se enfrentará en la próxima ronda a Austria o Argelia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-27T08:48:41Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Guaira, 24 horas después: saqueos, muertos sin contar y ninguna autoridad",
-      "subtitle": "ABC llega hasta el litoral venezolano, epicentro del doble terremoto, donde se vive un estado de abandono total mientras Delcy Rodríguez acepta por primera vez ayuda de Estados Unidos",
-      "url": "https://www.abc.es/internacional/guaira-veinticuatro-horas-despues-saqueos-muertos-contar-20260626045912-nt.html",
-      "scraped_at": "2026-06-26T09:49:25Z"
+      "title": "Venezuela, sin medios para atender a los heridos del terremoto",
+      "subtitle": "En coche, moto o a pie, cubriéndose las lesiones con vendas caseras y trapos, los heridos por los derrumbes de edificios colapsan los centros médicos, que ya sufrían graves carencias antes de la catástrofe por la ruinosa gestión del chavismo",
+      "url": "https://www.abc.es/internacional/medios-hospitales-heridos-terremoto-venezuela-20260626215702-nt.html",
+      "scraped_at": "2026-06-27T08:48:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "Juntos por el renacer de Venezuela",
-      "subtitle": "La misma red ciudadana que fue capaz de burlar la persecución del régimen de Maduro y vencerlo en las urnas es la red que ahora se activa para desplegar un gigantesco operativo de solidaridad",
-      "url": "https://www.abc.es/internacional/maria-corina-machado-juntos-renacer-venezuela-20260625214110-nt.html",
-      "scraped_at": "2026-06-26T09:49:26Z"
+      "title": "La diáspora venezolana, al rescate: «Pasado el impacto, la catástrofe empieza ahora»",
+      "subtitle": "Un despacho de abogados en Madrid se convierte a contra reloj en un centro de recogida de ayuda mientras el régimen confisca suministros en las zonas afectadas por el terremoto",
+      "url": "https://www.abc.es/internacional/diaspora-venezolana-rescate-pasado-impacto-catastrofe-empieza-20260626013854-nt.html",
+      "scraped_at": "2026-06-27T08:48:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Una falla sobre otra falla",
-      "subtitle": "Los venezolanos volverán a levantarse, porque lo han hecho muchas veces. Pero la fortaleza de un pueblo no puede seguir utilizándose para justificar la ausencia del Estado",
-      "url": "https://www.abc.es/internacional/falla-sobre-falla-20260625021037-nt.html",
-      "scraped_at": "2026-06-26T09:49:27Z"
+      "title": "España derriba a una trituradora y endulza su futuro",
+      "subtitle": "La selección se impone a Uruguay en un partido salvaje y durísimo, y se enfrentará en la próxima ronda a Austria o Argelia",
+      "url": "https://www.abc.es/deportes/futbol/mundial/espana-derriba-trituradora-endulza-futuro-20260626040841-nt.html",
+      "scraped_at": "2026-06-27T08:48:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Noche eterna en La Guaira",
-      "subtitle": "Venezuela, con sus cuatros, sus Llanos, sus escritoras de ojos verdes y sus flamboyanes, demuestra que siempre puede llover sobre mojado, que incluso es posible derrumbar lo que ya parecía derruido",
-      "url": "https://www.abc.es/opinion/chapu-apaolaza-noche-eterna-guaira-20260625020642-nt.html",
-      "scraped_at": "2026-06-26T09:49:27Z"
+      "title": "El Rey, rodeado de futbolistas históricos, vibró con la victoria de España",
+      "subtitle": "La selección, apoyada por la gran colonia española que reside en México, jugó como local ante Uruguay",
+      "url": "https://www.abc.es/deportes/futbol/mundial/rey-rodeado-futbolistas-historicos-vibro-victoria-espana-20260627043408-nt.html",
+      "scraped_at": "2026-06-27T08:48:40Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-26T09:49:27Z"
+      "scraped_at": "2026-06-27T08:48:41Z"
     }
   ]
 }

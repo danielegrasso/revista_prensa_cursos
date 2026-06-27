@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos por los terremotos: La evacuación en la capital ha dejado escenas de gran conmoción, angustia e incertidumbre en las principales zonas afectadas por una catástrofe de la que todavía se desconoce su impacto real; Exteriores confirma dos españoles muertos y 80 desaparecidos: El Ministerio muestra sus condeolencias a las familias e informa que un venezolano que trabajaba para la embajada española en Caracas, también ha fallecido; Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de Caracas: Dos terremotos de magnitud 7,2 y 7,5 separados por 39 segundos dieron paso a horas de pánico, silencio de las autoridades y solidaridad vecinal en una ciudad sin refugios. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-06-26T09:49:24Z",
+  "summary": "Resumen del día en elDiario.es: Venezuela se vuelca en una búsqueda de desaparecidos a contrarreloj: “Hemos encontrado a miles”: Los venezolanos se organizan para buscar supervivientes con plataformas en línea ante una tragedia cuya magnitud completa todavía no es posible precisar; Un vacío legal abre la puerta a filtraciones de chats privados como la denunciada por Zapatero: La ley prevé un trámite de \"expurgo\" en las escuchas telefónicas, no en el clonado de móviles u ordenadores; si bien juristas consultados sostienen que lo habitual es que se haga un cribado y apuntan a la responsabilidad del juzgado en el caso del expresidente; Sánchez busca el cierre de filas del PSOE ante el nuevo ciclo electoral en plena tormenta judicial: Los socialistas llegan al Comité Federal con la moral por los suelos, pero nadie espera más que unidad orgánica con la excepción de Page mientras algunos territorios perciben una respuesta \"de acción-reacción\" entre la militancia a lo que creen \"una campaña de acoso y derribo\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-06-27T08:48:38Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos por los terremotos",
-      "subtitle": "La evacuación en la capital ha dejado escenas de gran conmoción, angustia e incertidumbre en las principales zonas afectadas por una catástrofe de la que todavía se desconoce su impacto real",
-      "url": "https://www.eldiario.es/internacional/desolacion-e-incertidumbre-venezuela-terremotos-sentia-iba-morir_1_13332247.html",
-      "scraped_at": "2026-06-26T09:49:22Z"
+      "title": "Venezuela se vuelca en una búsqueda de desaparecidos a contrarreloj: “Hemos encontrado a miles”",
+      "subtitle": "Los venezolanos se organizan para buscar supervivientes con plataformas en línea ante una tragedia cuya magnitud completa todavía no es posible precisar",
+      "url": "https://www.eldiario.es/internacional/venezuela-vuelca-busqueda-desaparecidos-contrarreloj-hemos-encontrado-miles_1_13337395.html",
+      "scraped_at": "2026-06-27T08:48:36Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Exteriores confirma dos españoles muertos y 80 desaparecidos",
+      "title": "Un vacío legal abre la puerta a filtraciones de chats privados como la denunciada por Zapatero",
+      "subtitle": "La ley prevé un trámite de \"expurgo\" en las escuchas telefónicas, no en el clonado de móviles u ordenadores; si bien juristas consultados sostienen que lo habitual es que se haga un cribado y apuntan a la responsabilidad del juzgado en el caso del expresidente",
+      "url": "https://www.eldiario.es/politica/vacio-legal-abre-puerta-filtracion-agendas-mensajes-privados-denunciada-zapatero_1_13337417.html",
+      "scraped_at": "2026-06-27T08:48:36Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez busca el cierre de filas del PSOE ante el nuevo ciclo electoral en plena tormenta judicial",
+      "subtitle": "Los socialistas llegan al Comité Federal con la moral por los suelos, pero nadie espera más que unidad orgánica con la excepción de Page mientras algunos territorios perciben una respuesta \"de acción-reacción\" entre la militancia a lo que creen \"una campaña de acoso y derribo\"",
+      "url": "https://www.eldiario.es/politica/sanchez-llega-comite-federal-psoe-ciclo-dispuesto-cerrar-filas-calma-tensa-nuevo-electoral_1_13335154.html",
+      "scraped_at": "2026-06-27T08:48:37Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un traje de corrupción a la medida de José Luis Ábalos",
+      "subtitle": "La sentencia del Tribunal Supremo describe un sistema corrupto construido en torno a la figura del exministro con un doble propósito: satisfacer sus necesidades personales a cambio de su influencia y trato de favor",
+      "url": "https://www.eldiario.es/politica/traje-corrupcion-medida-jose-luis-abalos_1_13333214.html",
+      "scraped_at": "2026-06-27T08:48:37Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Españoles Venezuela",
       "subtitle": "El Ministerio muestra sus condeolencias a las familias e informa que un venezolano que trabajaba para la embajada española en Caracas, también ha fallecido",
       "url": "https://www.eldiario.es/internacional/exteriores-confirma-espanoles-muertos-80-desparecidos-terremotos-venezuela_1_13334896.html",
-      "scraped_at": "2026-06-26T09:49:22Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de Caracas",
-      "subtitle": "Dos terremotos de magnitud 7,2 y 7,5 separados por 39 segundos dieron paso a horas de pánico, silencio de las autoridades y solidaridad vecinal en una ciudad sin refugios",
-      "url": "https://www.eldiario.es/internacional/temblor-eterno-aterrador-he-vivido-terremotos-apartamento-caracas_129_13333426.html",
-      "scraped_at": "2026-06-26T09:49:23Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rodolfo Reyes, sobre el rescate de Plus Ultra: “Me dicen que García Legaz tiene control de mucha gente en la SEPI. Es PP”",
-      "subtitle": "Los mensajes extraídos del móvil del accionista mayoritario de la compañía aérea muestran cómo los directivos buscaron ayudas políticas de todo signo para lograr el rescate",
-      "url": "https://www.eldiario.es/politica/rodolfo-reyes-rescate-plus-ultra-dicen-garcia-legaz-control-gente-sepi-pp_1_13332049.html",
-      "scraped_at": "2026-06-26T09:49:24Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mapa Venezuela",
-      "subtitle": "Los seísmos dejan de momento 235 muertos y 4.300 heridos, mientras continúan las operaciones de rescate",
-      "url": "https://www.eldiario.es/internacional/mapas-terremotos-venezuela-son-zonas-afectadas_1_13331637.html",
-      "scraped_at": "2026-06-26T09:49:24Z"
+      "scraped_at": "2026-06-27T08:48:38Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Las sanciones de EE.UU. dificultan la ayuda a Venezuela tras los seísmos: Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria; La destrucción en La Guaira: 100 edificios derrumbados, 70.000 familias afectadas...: El ministro del Interior anuncia que se ampliarán a 11.500 hombres y mujeres los efectivos desplegados en la zona para buscar supervivientes; La madrugada en la que el móvil empezó a vibrar: Muchos venezolanos en el exterior descubrieron la catástrofe a través de los mensajes de los grupos de Whatsapp. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-26T09:49:29Z",
+  "summary": "Resumen del día en La Vanguardia: Venezuela busca a más de 50.000 desaparecidos y la cifra de muertos asciende a 920: Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados; Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto: Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria; Deportado por Trump y desaparecido a causa del doble seísmo: El venezolano Juan Erazo, del que no se sabe su paradero, ni el de su esposa y sus dos hijos, es el protagonista de una campaña de búsqueda lanzada en Doral (Florida) por aquellos que lo conocieron y que lo describen como un buen trabajador. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-27T08:48:43Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Las sanciones de EE.UU. dificultan la ayuda a Venezuela tras los seísmos",
+      "title": "Venezuela busca a más de 50.000 desaparecidos y la cifra de muertos asciende a 920",
+      "subtitle": "Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados",
+      "url": "https://www.lavanguardia.com/internacional/20260626/11576414/responsable-humanitario-onu-cifra-50-000-desaparecidos.html",
+      "scraped_at": "2026-06-27T08:48:42Z"
+    },
+    {
+      "source": "La Vanguardia",
+      "title": "Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto",
       "subtitle": "Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria",
       "url": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html",
-      "scraped_at": "2026-06-26T09:49:28Z"
+      "scraped_at": "2026-06-27T08:48:42Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La destrucción en La Guaira: 100 edificios derrumbados, 70.000 familias afectadas...",
-      "subtitle": "El ministro del Interior anuncia que se ampliarán a 11.500 hombres y mujeres los efectivos desplegados en la zona para buscar supervivientes",
-      "url": "https://www.lavanguardia.com/internacional/20260626/11575898/terremoto-venezuela-devastacion-guaira-cifras-100-edificios-derrumbados-70-000-familias-afectadas.html",
-      "scraped_at": "2026-06-26T09:49:28Z"
+      "title": "Deportado por Trump y desaparecido a causa del doble seísmo",
+      "subtitle": "El venezolano Juan Erazo, del que no se sabe su paradero, ni el de su esposa y sus dos hijos, es el protagonista de una campaña de búsqueda lanzada en Doral (Florida) por aquellos que lo conocieron y que lo describen como un buen trabajador",
+      "url": "https://www.lavanguardia.com/internacional/20260627/11576446/deportado-trump-desaparecido-causa-doble-seismo.html",
+      "scraped_at": "2026-06-27T08:48:42Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La madrugada en la que el móvil empezó a vibrar",
-      "subtitle": "Muchos venezolanos en el exterior descubrieron la catástrofe a través de los mensajes de los grupos de Whatsapp",
-      "url": "https://www.lavanguardia.com/internacional/20260626/11575379/madrugada-movil-empezo-vibrar.html",
-      "scraped_at": "2026-06-26T09:49:29Z"
+      "title": "Muslera le regala la victoria y también el primer puesto a una discreta España",
+      "subtitle": "Baena firmó el único gol de un partido para el olvido, que consumó la eliminación de los de Bielsa",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260627/11576826/uruguay-espana-mundial-2026-resumen.html",
+      "scraped_at": "2026-06-27T08:48:42Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las imágenes de la devastación en Venezuela: el antes y el después",
-      "subtitle": "El doble terremoto de este jueves ha dejado por el momento más de 230 muertos y 4.300 heridos, con una estimación de 35.000 desaparecidos",
-      "url": "https://www.lavanguardia.com/internacional/20260626/11575876/imagenes-devastacion-venezuela.html",
-      "scraped_at": "2026-06-26T09:49:29Z"
-    },
-    {
-      "source": "La Vanguardia",
-      "title": "Eventos La Vanguardia",
-      "subtitle": "",
-      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
-      "scraped_at": "2026-06-26T09:49:29Z"
+      "title": "El Barça empezará su defensa de la Champions ante el Montpellier, Dinamo y Aarhus",
+      "subtitle": "La máxima competición de clubs estrena un nuevo formato con 24 equipos que jugarán dos fases de grupos para pasar a cuartos",
+      "url": "https://www.lavanguardia.com/deportes/20260626/11576401/balonmano-sorteo-champions-barca-barcelona-defiende-corona-montpellier-aarhus-dinamo-bucarest.html",
+      "scraped_at": "2026-06-27T08:48:43Z"
     }
   ]
 }
