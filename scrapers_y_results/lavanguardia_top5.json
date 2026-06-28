@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Venezuela busca a más de 50.000 desaparecidos y la cifra de muertos asciende a 920: Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados; Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto: Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria; Deportado por Trump y desaparecido a causa del doble seísmo: El venezolano Juan Erazo, del que no se sabe su paradero, ni el de su esposa y sus dos hijos, es el protagonista de una campaña de búsqueda lanzada en Doral (Florida) por aquellos que lo conocieron y que lo describen como un buen trabajador. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-27T08:48:43Z",
+  "summary": "Resumen del día en La Vanguardia: La ola de calor  recortará hasta un 7% las economías europeas: El calentamiento global restará un tercio de los ingresos a las familias españolas; Alemania quiere jubilaciones a los 70 años y pensión privada obligatoria: El Gobierno de Merz defiende completar el sistema público según el modelo sueco; Los expresidentes del Gobierno, con licencia para todo tipo de negocios: Una asignación económica, personal a su disposición y transporte gratis. La imputación de José Luis Rodríguez Zapatero por presunto tráfico de influencias en el caso Plus Ultra ha reabierto una pregunta incómoda: ¿a qué se han dedicado el resto de expresidentes del.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-28T09:30:05Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Venezuela busca a más de 50.000 desaparecidos y la cifra de muertos asciende a 920",
-      "subtitle": "Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados",
-      "url": "https://www.lavanguardia.com/internacional/20260626/11576414/responsable-humanitario-onu-cifra-50-000-desaparecidos.html",
-      "scraped_at": "2026-06-27T08:48:42Z"
+      "title": "La ola de calor  recortará hasta un 7% las economías europeas",
+      "subtitle": "El calentamiento global restará un tercio de los ingresos a las familias españolas",
+      "url": "https://www.lavanguardia.com/economia/20260628/11577079/ola-calor-amenaza-recortar-7-economias-europeas.html",
+      "scraped_at": "2026-06-28T09:30:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto",
-      "subtitle": "Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria",
-      "url": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html",
-      "scraped_at": "2026-06-27T08:48:42Z"
+      "title": "Alemania quiere jubilaciones a los 70 años y pensión privada obligatoria",
+      "subtitle": "El Gobierno de Merz defiende completar el sistema público según el modelo sueco",
+      "url": "https://www.lavanguardia.com/economia/20260628/11577090/alemania-quiere-jubilaciones-70-anos-pension-privada-obligatoria.html",
+      "scraped_at": "2026-06-28T09:30:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Deportado por Trump y desaparecido a causa del doble seísmo",
-      "subtitle": "El venezolano Juan Erazo, del que no se sabe su paradero, ni el de su esposa y sus dos hijos, es el protagonista de una campaña de búsqueda lanzada en Doral (Florida) por aquellos que lo conocieron y que lo describen como un buen trabajador",
-      "url": "https://www.lavanguardia.com/internacional/20260627/11576446/deportado-trump-desaparecido-causa-doble-seismo.html",
-      "scraped_at": "2026-06-27T08:48:42Z"
+      "title": "Los expresidentes del Gobierno, con licencia para todo tipo de negocios",
+      "subtitle": "Una asignación económica, personal a su disposición y transporte gratis. La imputación de José Luis Rodríguez Zapatero por presunto tráfico de influencias en el caso Plus Ultra ha reabierto una pregunta incómoda: ¿a qué se han dedicado el resto de expresidentes del...",
+      "url": "https://www.lavanguardia.com/politica/20260628/11577102/ex-presidentes-gobierno-licencia-toda-clase-negocios.html",
+      "scraped_at": "2026-06-28T09:30:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Muslera le regala la victoria y también el primer puesto a una discreta España",
-      "subtitle": "Baena firmó el único gol de un partido para el olvido, que consumó la eliminación de los de Bielsa",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260627/11576826/uruguay-espana-mundial-2026-resumen.html",
-      "scraped_at": "2026-06-27T08:48:42Z"
+      "title": "El PSOE cierra filas con Sánchez para dar la batalla electoral en 2027",
+      "subtitle": "El presidente celebra el cierre de filas de los líderes territoriales y planta cara a Page",
+      "url": "https://www.lavanguardia.com/politica/20260628/11577132/sanchez-alinea-mayoria-psoe-dar-batalla-electoral-2027.html",
+      "scraped_at": "2026-06-28T09:30:05Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Barça empezará su defensa de la Champions ante el Montpellier, Dinamo y Aarhus",
-      "subtitle": "La máxima competición de clubs estrena un nuevo formato con 24 equipos que jugarán dos fases de grupos para pasar a cuartos",
-      "url": "https://www.lavanguardia.com/deportes/20260626/11576401/balonmano-sorteo-champions-barca-barcelona-defiende-corona-montpellier-aarhus-dinamo-bucarest.html",
-      "scraped_at": "2026-06-27T08:48:43Z"
+      "title": "Cuando los escoceses se pusieron a estudiar la lengua inglesa",
+      "subtitle": "A diferencia de Oxford o Cambridge, siempre elitistas y obsesionadas con la religión, la Universidad de Edimburgo era relativamente asequible y aceptaba estudiantes de todas partes",
+      "url": "https://www.lavanguardia.com/internacional/20260628/11574829/escoceses-pusieron-estudiar-lengua-inglesa.html",
+      "scraped_at": "2026-06-28T09:30:05Z"
     }
   ]
 }
