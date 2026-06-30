@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Venezuela suple con solidaridad ciudadana la lenta asistencia estatal: Las redes sociales van llenas de un clamor: la demanda de ayuda del Estado para rescatar a las víctimas; Rescatados un padre y un hijo después de cuatro días bajo los escombros de un edificio en Venezuela: Al menos 33 personas fueron halladas con vida durante el fin de semana, entre ellas dos niños de once años; Sin esperanza de hallar a personas vivas en Venezuela: “Ya sé que están muertos, pero necesito ver sus cuerpos”: Sin esperanza de hallar a personas vivas, los airados ciudadanos venezolanos insisten en sacar escombros en un país ya desventrado antes del seísmo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-06-29T11:22:00Z",
+  "summary": "Resumen del día en La Vanguardia: El Supremo abre la puerta a enviar la regularización de migrantes a la justicia europea: El alto tribunal da traslado a las partes para que informen sobre la opción de preguntar a la justicia ante la “duda” de la iniciativa “si podría entrar en colisión” con normativa comunitaria; Sánchez anuncia un plan de 505 millones para integrar inmigrantes: El proyecto anunciado por el presidente desplegará programas para el aprendizaje de idiomas cooficiales, el conocimiento de “normas y valores” de la democracia española, y la prevención de “discursos de odio”; Feijóo acusa a Sánchez de haber “mandado a Salazar a por votos a Argentina”: El líder del PP niega que vaya a haber “pucherazo” y pone en el foco la instrucción del Ministerio de Justicia que desarrolla la “ley de nietos”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-06-30T09:58:19Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Venezuela suple con solidaridad ciudadana la lenta asistencia estatal",
-      "subtitle": "Las redes sociales van llenas de un clamor: la demanda de ayuda del Estado para rescatar a las víctimas",
-      "url": "https://www.lavanguardia.com/internacional/20260629/11577717/venezuela-solidaridad-ciudadana-frente-lenta-obstructiva-maquinaria-estatal.html",
-      "scraped_at": "2026-06-29T11:21:59Z"
+      "title": "El Supremo abre la puerta a enviar la regularización de migrantes a la justicia europea",
+      "subtitle": "El alto tribunal da traslado a las partes para que informen sobre la opción de preguntar a la justicia ante la “duda” de la iniciativa “si podría entrar en colisión” con normativa comunitaria",
+      "url": "https://www.lavanguardia.com/politica/20260630/11579036/supremo-abre-puerta-plantear-cuestion-prejudicial-regularizacion.html",
+      "scraped_at": "2026-06-30T09:58:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Rescatados un padre y un hijo después de cuatro días bajo los escombros de un edificio en Venezuela",
-      "subtitle": "Al menos 33 personas fueron halladas con vida durante el fin de semana, entre ellas dos niños de once años",
-      "url": "https://www.lavanguardia.com/internacional/20260629/11577966/rescatados-padre-hijo-cuatro-dias-escombros-edificio-venezuela.html",
-      "scraped_at": "2026-06-29T11:21:59Z"
+      "title": "Sánchez anuncia un plan de 505 millones para integrar inmigrantes",
+      "subtitle": "El proyecto anunciado por el presidente desplegará programas para el aprendizaje de idiomas cooficiales, el conocimiento de “normas y valores” de la democracia española, y la prevención de “discursos de odio”",
+      "url": "https://www.lavanguardia.com/politica/20260630/11579088/sanchez-combate-prioridad-nacional-plan-integracion-inmigrantes-505-millones-euros.html",
+      "scraped_at": "2026-06-30T09:58:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sin esperanza de hallar a personas vivas en Venezuela: “Ya sé que están muertos, pero necesito ver sus cuerpos”",
-      "subtitle": "Sin esperanza de hallar a personas vivas, los airados ciudadanos venezolanos insisten en sacar escombros en un país ya desventrado antes del seísmo",
-      "url": "https://www.lavanguardia.com/internacional/20260629/11577703/dolor-tiempos-colera.html",
-      "scraped_at": "2026-06-29T11:21:59Z"
+      "title": "Feijóo acusa a Sánchez de haber “mandado a Salazar a por votos a Argentina”",
+      "subtitle": "El líder del PP niega que vaya a haber “pucherazo” y pone en el foco la instrucción del Ministerio de Justicia que desarrolla la “ley de nietos”",
+      "url": "https://www.lavanguardia.com/politica/20260630/11579048/feijoo-insiste-acusar-sanchez-ingenieria-electoral-mandado-salazar-buscar-votos-argentina.html",
+      "scraped_at": "2026-06-30T09:58:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España encara un gran salto hotelero con 500 aperturas hasta el 2030",
-      "subtitle": "El 80% de los proyectos ya definidos estarán en la categoría de alta gama",
-      "url": "https://www.lavanguardia.com/economia/20260629/11577690/espana-encara-gran-salto-hotelero-500-aperturas-ano-2030.html",
-      "scraped_at": "2026-06-29T11:21:59Z"
+      "title": "La psicoanalista amenazó a Isak Andic con dejar la terapia si no avanzaba dinero a Jonathan",
+      "subtitle": "La terapeuta y una hermana declaran este martes en los juzgados de Martorell",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260629/11578695/psicoanalista-amenazo-isak-andic-dejarla-terapia-avanzaba-dinero-jonathan.html",
+      "scraped_at": "2026-06-30T09:58:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Deporte y política",
-      "subtitle": "Días después de la celebración del día del Yoga, protagonizada por el veterano (y flexible) presidente indio, Narendra Modi; en pleno Campeonato del Mundo de fútbol, y días antes del comienzo del Tour de Francia, quizá sea el momento de glosar el nuevo sesgo político del...",
-      "url": "https://www.lavanguardia.com/opinion/20260629/11577705/deporte-politica.html",
-      "scraped_at": "2026-06-29T11:22:00Z"
+      "title": "Spencer Tunick, fotógrafo: “Hay algo terapéutico en posar desnudo para mis fotografías”",
+      "subtitle": "El artista visual prepara una acción multitudinaria en Gran Canaria",
+      "url": "https://www.lavanguardia.com/cultura/20260630/11578694/spencer-tunick-fotografo-hay-terapeutico-posar-desnudo-mis-fotografias.html",
+      "scraped_at": "2026-06-30T09:58:19Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Calendario completo: Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026; Partido de la jornada: Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 29 de junio; Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-29T11:21:58Z",
+  "summary": "Resumen del día en ABC.es: Bono controla cinco empresas en República Dominicana para hacer negocios: El exministro de Defensa dio de alta sus empresas en 2020 mientras el presidente del país latinoamericano le otorgaba la nacionalidad por «naturalización privilegiada»; Miles de extranjeros buscan regularizarse el último día pese a no cumplir con los requisitos: Más de 1.300.000 inmigrantes han registrado su solicitud a menos de 24 horas de que se cierre el plazo para adherirse a la medida impulsada por el Gobierno; El TS cree que la regularización masiva de inmigrantes vulnera el derecho de la UE: Da cinco días a las partes para que informen sobre la conveniencia de plantear una cuestión prejudicial al TJUE que paralizaría el decreto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-06-30T09:58:16Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Calendario completo",
-      "subtitle": "Calendario de partidos del Mundial 2026. Ya no tienes excusa para perderte del Mundial 2026",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/calendario-sd.html",
-      "scraped_at": "2026-06-29T11:21:56Z"
+      "title": "Bono controla cinco empresas en República Dominicana para hacer negocios",
+      "subtitle": "El exministro de Defensa dio de alta sus empresas en 2020 mientras el presidente del país latinoamericano le otorgaba la nacionalidad por «naturalización privilegiada»",
+      "url": "https://www.abc.es/espana/bono-socio-cinco-sociedades-dominicana-ciudadano-via-20260629022050-nt.html",
+      "scraped_at": "2026-06-30T09:58:14Z"
     },
     {
       "source": "ABC.es",
-      "title": "Partido de la jornada",
-      "subtitle": "Consulta los partidos de la Copa del Mundo de México, Canadá y Estados Unidos que se celebran hoy, lunes 29 de junio",
-      "url": "https://www.abc.es/deportes/futbol/mundial/partidos-hoy-lunes-mundial-2026-horarios-ver-20260629050000-nt.html",
-      "scraped_at": "2026-06-29T11:21:56Z"
+      "title": "Miles de extranjeros buscan regularizarse el último día pese a no cumplir con los requisitos",
+      "subtitle": "Más de 1.300.000 inmigrantes han registrado su solicitud a menos de 24 horas de que se cierre el plazo para adherirse a la medida impulsada por el Gobierno",
+      "url": "https://www.abc.es/espana/miles-extranjeros-regularizaran-ultimo-dia-pese-cumplir-20260629022220-nt.html",
+      "scraped_at": "2026-06-30T09:58:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Clasificación",
-      "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-06-29T11:21:57Z"
+      "title": "El TS cree que la regularización masiva de inmigrantes vulnera el derecho de la UE",
+      "subtitle": "Da cinco días a las partes para que informen sobre la conveniencia de plantear una cuestión prejudicial al TJUE que paralizaría el decreto",
+      "url": "https://www.abc.es/espana/supremo-cree-regularizacion-masiva-sanchez-vulnera-derecho-20260630233044-nt.html",
+      "scraped_at": "2026-06-30T09:58:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Anticorrupción pedirá más rebajas para Aldama si vuelve a colaborar",
-      "subtitle": "El juez de la Audiencia Nacional Ismael Moreno investiga si amañó contratos con Ábalos y Koldo García, quienes habrían competido con Santos Cerdán para llevarse mordidas",
-      "url": "https://www.abc.es/espana/anticorrupcion-pedira-maxima-rebaja-aldama-causa-obras-20260628025446-nt.html",
-      "scraped_at": "2026-06-29T11:21:57Z"
+      "title": "«No nos dejaron salir»: las 48 horas en que el Estado venezolano desapareció bajo los escombros",
+      "subtitle": "La Guaira lleva veintiocho años votando chavista. Todos sus gobernadores han sido del oficialismo. Pero cuando la tierra se abrió, quienes siempre creyeron descubrieron que estaban solos. Crónica de una lealtad rota entre escombros y falsas alertas de tsunami",
+      "url": "https://www.abc.es/internacional/criticas-venezolanos-mala-gestion-chavismo-20260629022403-nt.html",
+      "scraped_at": "2026-06-30T09:58:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mundial 2026",
-      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
-      "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-06-29T11:21:58Z"
+      "title": "Fernando, único habitante de su pueblo: «Gano 1.500, ahorro porque el alquiler son cero euros, la casa es de mi familia»",
+      "subtitle": "El único habitante de Benamira explica al comunicador Diego Revuelta cómo logra rentabilizar sus ingresos en la España vaciada sin pagar hipoteca",
+      "url": "https://www.cope.es/actualidad/economia/noticias/fernando-unico-habitante-pueblo-gano-1-500-euros-ahorro-alquiler-son-cero-euros-casa-mi-familia-luz-gasto-40-euros-300-gasolina-20260630_3394290.html",
+      "scraped_at": "2026-06-30T09:58:16Z"
     }
   ]
 }
