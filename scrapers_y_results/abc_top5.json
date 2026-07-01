@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Bono controla cinco empresas en República Dominicana para hacer negocios: El exministro de Defensa dio de alta sus empresas en 2020 mientras el presidente del país latinoamericano le otorgaba la nacionalidad por «naturalización privilegiada»; Miles de extranjeros buscan regularizarse el último día pese a no cumplir con los requisitos: Más de 1.300.000 inmigrantes han registrado su solicitud a menos de 24 horas de que se cierre el plazo para adherirse a la medida impulsada por el Gobierno; El TS cree que la regularización masiva de inmigrantes vulnera el derecho de la UE: Da cinco días a las partes para que informen sobre la conveniencia de plantear una cuestión prejudicial al TJUE que paralizaría el decreto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-06-30T09:58:16Z",
+  "summary": "Resumen del día en ABC.es: La Policía detecta movimientos de inmigrantes dentro de Europa a España para regularizarse: Las mafias han aprovechado estos meses la libertad del espacio Schengen para lucrarse de las personas que quieren legalizar su situación en la UE llevándolas a nuestro país; Unidad y lealtad, el debate pendiente del PSOE: La pregunta no es si hay que ser leal, sino a qué o a quién hay que serlo: ¿a un líder concreto, a una dirección, a un proyecto determinado o a los valores que compartimos y nos definen?; Aznar llama a una «mayoría nacional» para echar a Sánchez: «Supervivencia o liquidación»: El expresidente del Gobierno acusa a Sánchez de montar en Moncloa «una delegación madrileña del secesionismo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-01T10:09:19Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Bono controla cinco empresas en República Dominicana para hacer negocios",
-      "subtitle": "El exministro de Defensa dio de alta sus empresas en 2020 mientras el presidente del país latinoamericano le otorgaba la nacionalidad por «naturalización privilegiada»",
-      "url": "https://www.abc.es/espana/bono-socio-cinco-sociedades-dominicana-ciudadano-via-20260629022050-nt.html",
-      "scraped_at": "2026-06-30T09:58:14Z"
+      "title": "La Policía detecta movimientos de inmigrantes dentro de Europa a España para regularizarse",
+      "subtitle": "Las mafias han aprovechado estos meses la libertad del espacio Schengen para lucrarse de las personas que quieren legalizar su situación en la UE llevándolas a nuestro país",
+      "url": "https://www.abc.es/espana/policia-detecta-movimientos-inmigrantes-dentro-europa-espana-20260701013634-nt.html",
+      "scraped_at": "2026-07-01T10:09:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Miles de extranjeros buscan regularizarse el último día pese a no cumplir con los requisitos",
-      "subtitle": "Más de 1.300.000 inmigrantes han registrado su solicitud a menos de 24 horas de que se cierre el plazo para adherirse a la medida impulsada por el Gobierno",
-      "url": "https://www.abc.es/espana/miles-extranjeros-regularizaran-ultimo-dia-pese-cumplir-20260629022220-nt.html",
-      "scraped_at": "2026-06-30T09:58:15Z"
+      "title": "Unidad y lealtad, el debate pendiente del PSOE",
+      "subtitle": "La pregunta no es si hay que ser leal, sino a qué o a quién hay que serlo: ¿a un líder concreto, a una dirección, a un proyecto determinado o a los valores que compartimos y nos definen?",
+      "url": "https://new22-www.abc.es/espana/unidad-lealtad-debate-pendiente-psoe-20260630012908-nt.html",
+      "scraped_at": "2026-07-01T10:09:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "El TS cree que la regularización masiva de inmigrantes vulnera el derecho de la UE",
-      "subtitle": "Da cinco días a las partes para que informen sobre la conveniencia de plantear una cuestión prejudicial al TJUE que paralizaría el decreto",
-      "url": "https://www.abc.es/espana/supremo-cree-regularizacion-masiva-sanchez-vulnera-derecho-20260630233044-nt.html",
-      "scraped_at": "2026-06-30T09:58:15Z"
+      "title": "Aznar llama a una «mayoría nacional» para echar a Sánchez: «Supervivencia o liquidación»",
+      "subtitle": "El expresidente del Gobierno acusa a Sánchez de montar en Moncloa «una delegación madrileña del secesionismo»",
+      "url": "https://www.abc.es/espana/aznar-llama-mayoria-nacional-echar-sanchez-supervivencia-20260701105902-nt.html",
+      "scraped_at": "2026-07-01T10:09:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "«No nos dejaron salir»: las 48 horas en que el Estado venezolano desapareció bajo los escombros",
-      "subtitle": "La Guaira lleva veintiocho años votando chavista. Todos sus gobernadores han sido del oficialismo. Pero cuando la tierra se abrió, quienes siempre creyeron descubrieron que estaban solos. Crónica de una lealtad rota entre escombros y falsas alertas de tsunami",
-      "url": "https://www.abc.es/internacional/criticas-venezolanos-mala-gestion-chavismo-20260629022403-nt.html",
-      "scraped_at": "2026-06-30T09:58:15Z"
+      "title": "Bono es socio en República Dominicana de un español que recibió concesiones millonarias",
+      "subtitle": "El empresario inmobiliario valenciano Dimas de Andrés recibió adjudicaciones valoradas en más de 300 millones por proyectos fotovoltaicos en la isla del Caribe",
+      "url": "https://www.abc.es/espana/bono-socio-dominicana-empresario-logrado-contratos-pais-20260630013750-nt.html",
+      "scraped_at": "2026-07-01T10:09:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Fernando, único habitante de su pueblo: «Gano 1.500, ahorro porque el alquiler son cero euros, la casa es de mi familia»",
-      "subtitle": "El único habitante de Benamira explica al comunicador Diego Revuelta cómo logra rentabilizar sus ingresos en la España vaciada sin pagar hipoteca",
-      "url": "https://www.cope.es/actualidad/economia/noticias/fernando-unico-habitante-pueblo-gano-1-500-euros-ahorro-alquiler-son-cero-euros-casa-mi-familia-luz-gasto-40-euros-300-gasolina-20260630_3394290.html",
-      "scraped_at": "2026-06-30T09:58:16Z"
+      "title": "Lucía, se mudó a un pueblo gallego de 9 vecinos: «En lo que más gasto al mes es en mis animales, unos 150 euros»",
+      "subtitle": "Esta joven de 27 años dejó Madrid para ser autosuficiente, restaurar una casa centenaria y luchar contra la despoblación en un pueblo de 9 habitantes",
+      "url": "https://www.cope.es/actualidad/economia/noticias/lucia-mudo-pueblo-gallego-9-vecinos-gasto-mes-mis-animales-150-euros-mi-compra-ronda-50-huerto-recoleccion-gasto-poco-20260701_3395345.html",
+      "scraped_at": "2026-07-01T10:09:19Z"
     }
   ]
 }
