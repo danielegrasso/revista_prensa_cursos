@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los seis puntos que el Supremo advierte sobre la regularización “masiva” de inmigrantes: El alto tribunal abre la puerta a que la justicia de una Unión se pueda pronunciar; Bolaños alerta de la táctica del PP y Vox: “Esperamos que no disfracen a nadie de bisonte”: El ministro Bolaños denuncia un sometimiento de Feijóo a la estrategia de Abascal, y carga contra la pretensión de la ultraderecha “salvaje” de suprimir el voto exterior: “Su sueño es suspender la democracia”; ¿Pucherazos en el siglo XXI?: Conviene empezar aclarando una cuestión que a menudo se confunde. Una cosa es la regularización de inmigrantes que ya viven en España, trabajan de forma irregular, cobran en la economía sumergida y necesitan un permiso de residencia. Estas personas no podrán votar hasta que, si.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-01T10:09:20Z",
+  "summary": "Resumen del día en La Vanguardia: La Abogacía del Estado se persona contra Zapatero por el delito fiscal de las joyas: El juez Calama le ofreció pesonarse en representación de Hacienda; Vito Quiles desafía a la justicia: “No me voy a entregar a Sánchez”: El activista ultra acusa a Sánchez de orquestar una “cacería judicial” por preguntar a Begoña Gómez; La cifra de solicitudes de regularización va más allá de lo previsto, como alertaron los sindicatos: La Policía se desdobla con un plan de choque para atender las demandas de los 1.174.978 aspirantes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-02T09:30:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los seis puntos que el Supremo advierte sobre la regularización “masiva” de inmigrantes",
-      "subtitle": "El alto tribunal abre la puerta a que la justicia de una Unión se pueda pronunciar",
-      "url": "https://www.lavanguardia.com/politica/20260701/11579558/seis-puntos-polemicos-supremo-advierte-sobre-regularizacion-masiva-inmigrantes.html",
-      "scraped_at": "2026-07-01T10:09:20Z"
+      "title": "La Abogacía del Estado se persona contra Zapatero por el delito fiscal de las joyas",
+      "subtitle": "El juez Calama le ofreció pesonarse en representación de Hacienda",
+      "url": "https://www.lavanguardia.com/politica/20260702/11581709/abogacia-persona-zapatero-delito-fiscal-joyas.html",
+      "scraped_at": "2026-07-02T09:30:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Bolaños alerta de la táctica del PP y Vox: “Esperamos que no disfracen a nadie de bisonte”",
-      "subtitle": "El ministro Bolaños denuncia un sometimiento de Feijóo a la estrategia de Abascal, y carga contra la pretensión de la ultraderecha “salvaje” de suprimir el voto exterior: “Su sueño es suspender la democracia”",
-      "url": "https://www.lavanguardia.com/politica/20260701/11580934/gobierno-alerta-tactica-pp-vox-esperamos-disfracen-nadie-bisonte.html",
-      "scraped_at": "2026-07-01T10:09:20Z"
+      "title": "Vito Quiles desafía a la justicia: “No me voy a entregar a Sánchez”",
+      "subtitle": "El activista ultra acusa a Sánchez de orquestar una “cacería judicial” por preguntar a Begoña Gómez",
+      "url": "https://www.lavanguardia.com/politica/20260702/11581696/vito-quiles-desafia-justicia-me-entregar-sanchez.html",
+      "scraped_at": "2026-07-02T09:30:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Pucherazos en el siglo XXI?",
-      "subtitle": "Conviene empezar aclarando una cuestión que a menudo se confunde. Una cosa es la regularización de inmigrantes que ya viven en España, trabajan de forma irregular, cobran en la economía sumergida y necesitan un permiso de residencia. Estas personas no podrán votar hasta que, si...",
-      "url": "https://www.lavanguardia.com/politica/20260701/11579556/pucherazos-siglo-xxi.html",
-      "scraped_at": "2026-07-01T10:09:20Z"
+      "title": "La cifra de solicitudes de regularización va más allá de lo previsto, como alertaron los sindicatos",
+      "subtitle": "La Policía se desdobla con un plan de choque para atender las demandas de los 1.174.978 aspirantes",
+      "url": "https://www.lavanguardia.com/politica/20260702/11581379/cifra-solicitudes-regularizacion-mas-previsto-alertaron-sindicatos.html",
+      "scraped_at": "2026-07-02T09:30:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las grietas del muro",
-      "subtitle": "La confrontación política radical es moneda de cambio en todas las democracias. Empezando por la más emblemática, presidida por Donald Trump, hasta la británica gobernada por un primer ministro dimitido o la tensión en Francia unos meses antes de las elecciones presidenciales....",
-      "url": "https://www.lavanguardia.com/opinion/20260701/11579217/grietas-muro.html",
-      "scraped_at": "2026-07-01T10:09:20Z"
+      "title": "¿Cambiará el PP la ley electoral?",
+      "subtitle": "El revuelo sobre el voto exterior puede ser el prólogo de una modificación electoral a partir de una mayoría de 176 diputados de los populares con Vox",
+      "url": "https://www.lavanguardia.com/politica/20260702/11581372/cambiara-pp-ley-electoral.html",
+      "scraped_at": "2026-07-02T09:30:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Netflix censura el miembro viril de Santiago Segura en 'Torrente, presidente'",
-      "subtitle": "La plataforma de streaming ha optado por tapar la imagen de las partes íntimas del personaje con un emoji de un oso panda",
-      "url": "https://www.lavanguardia.com/cultura/20260630/11579439/netflix-censura-miembro-viril-santiago-segura-torrente-presidente.html",
-      "scraped_at": "2026-07-01T10:09:20Z"
+      "title": "La artista Dora García 'resucita' la voz de las personas trans en el Foyer del Liceu",
+      "subtitle": "Las performances 'Corocuerpo' y 'El Bicho' forman parte de un ambicioso proyecto impulsado por el Museu Tàpies que pasa también por el Grec o el cementerio de Montjuïc",
+      "url": "https://www.lavanguardia.com/cultura/20260702/11581376/artista-dora-garcia-resucita-voz-personas-trans-foyer-liceu.html",
+      "scraped_at": "2026-07-02T09:30:08Z"
     }
   ]
 }

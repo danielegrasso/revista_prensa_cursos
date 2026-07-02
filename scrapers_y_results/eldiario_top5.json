@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Tres jueces conservadores del Supremo abren la vía europea sin amenazar la mayor parte de la regularización: La futura decisión de elevar la medida hasta los tribunales europeos no implica la suspensión automática del proceso de regularización y sería tomada por jueces que ya han rechazado suspenderla de forma cautelar; Aznar reclama una “mayoría nacional” para echar a Pedro Sánchez y evitar “un cambio de sistema”: El expresidente conmina a Feijóo a lograr \"una amplia mayoría centrada, con capacidad de convocatoria a derecha e izquierda\" con \"un programa capaz de suscitar una adhesión masiva\"; Feijóo, Trump y las ventajas de denunciar un fraude electoral que no existe: El PP y Vox compiten para utilizar la conspiración del voto por correo, con el apoyo de algunos medios, confirmando que las estrategias de desinformación más efectivas son las que protagonizan partidos y medios de comunicación. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-01T10:09:17Z",
+  "summary": "Resumen del día en elDiario.es: La regularización de migrantes se cierra con casi 1,2 millones de solicitudes, la mayoría de latinoamericanos: El plazo ha cerrado con más de 1.174.978 peticiones, desbordando las previsiones iniciales del Gobierno. Del total, 608.000 expedientes han sido admitidos a trámite por ahora, lo que supone la recepción de un permiso de residencia provisional; La jueza archiva la causa contra Miguel Ángel Rodríguez por difundir la identidad de dos periodistas: La magistrada ha tomado la decisión sin tomar declaración a los policías nacionales que identificaron a los reporteros y después de escuchar las explicaciones de Rodríguez y de González Amador; Antonio Balas, en la rampa de ascenso a coronel de la Guardia Civil y su consiguiente salida de la UCO: El teniente coronel está baremado el sexto de su promoción y el ascenso de los cinco primeros acaba de ser firmado; cuando se jubile otro coronel, Balas tendrá que dejar la jefatura del Departamento de Investigación Criminal que dirige en la UCO, según el Reglamento del Cuerpo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-02T09:30:04Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Tres jueces conservadores del Supremo abren la vía europea sin amenazar la mayor parte de la regularización",
-      "subtitle": "La futura decisión de elevar la medida hasta los tribunales europeos no implica la suspensión automática del proceso de regularización y sería tomada por jueces que ya han rechazado suspenderla de forma cautelar",
-      "url": "https://www.eldiario.es/politica/providencia-tres-jueces-conservadores-supremo-abre-via-europea-no-pone-peligro-regularizacion_1_13345424.html",
-      "scraped_at": "2026-07-01T10:09:14Z"
+      "title": "La regularización de migrantes se cierra con casi 1,2 millones de solicitudes, la mayoría de latinoamericanos",
+      "subtitle": "El plazo ha cerrado con más de 1.174.978 peticiones, desbordando las previsiones iniciales del Gobierno. Del total, 608.000 expedientes han sido admitidos a trámite por ahora, lo que supone la recepción de un permiso de residencia provisional",
+      "url": "https://www.eldiario.es/desalambre/regularizacion-migrantes-cierra-1-2-millones-solicitudes-mayoria-latinoamericanos_1_13349786.html",
+      "scraped_at": "2026-07-02T09:30:01Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Aznar reclama una “mayoría nacional” para echar a Pedro Sánchez y evitar “un cambio de sistema”",
-      "subtitle": "El expresidente conmina a Feijóo a lograr \"una amplia mayoría centrada, con capacidad de convocatoria a derecha e izquierda\" con \"un programa capaz de suscitar una adhesión masiva\"",
-      "url": "https://www.eldiario.es/politica/aznar-reclama-mayoria-nacional-echar-sanchez-evitar-cambio-sistema_1_13346906.html",
-      "scraped_at": "2026-07-01T10:09:14Z"
+      "title": "La jueza archiva la causa contra Miguel Ángel Rodríguez por difundir la identidad de dos periodistas",
+      "subtitle": "La magistrada ha tomado la decisión sin tomar declaración a los policías nacionales que identificaron a los reporteros y después de escuchar las explicaciones de Rodríguez y de González Amador",
+      "url": "https://www.eldiario.es/politica/jueza-archiva-causa-miguel-angel-rodriguez-difundir-identidad-periodistas_1_13350090.html",
+      "scraped_at": "2026-07-02T09:30:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo, Trump y las ventajas de denunciar un fraude electoral que no existe",
-      "subtitle": "El PP y Vox compiten para utilizar la conspiración del voto por correo, con el apoyo de algunos medios, confirmando que las estrategias de desinformación más efectivas son las que protagonizan partidos y medios de comunicación",
-      "url": "https://www.eldiario.es/politica/inventarse-fraude-electoral-voto-correo-feijoo_129_13345373.html",
-      "scraped_at": "2026-07-01T10:09:15Z"
+      "title": "Antonio Balas, en la rampa de ascenso a coronel de la Guardia Civil y su consiguiente salida de la UCO",
+      "subtitle": "El teniente coronel está baremado el sexto de su promoción y el ascenso de los cinco primeros acaba de ser firmado; cuando se jubile otro coronel, Balas tendrá que dejar la jefatura del Departamento de Investigación Criminal que dirige en la UCO, según el Reglamento del Cuerpo",
+      "url": "https://www.eldiario.es/politica/antonio-balas-rampa-ascenso-coronel-guardia-civil-consiguiente-salida-uco_1_13345653.html",
+      "scraped_at": "2026-07-02T09:30:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Así funcionará la lista negra de gasolineras que se aprovechen de las ayudas públicas por Ormuz",
-      "subtitle": "La CNMC publicará las estaciones de servicio que registren comportamientos \"anómalos\" para que \"los consumidores puedan reclamar\", explica el Ministerio de Consumo, impulsor de esta medida",
-      "url": "https://www.eldiario.es/economia/funcionara-lista-negra-gasolineras-aprovechen-ayudas-publicas-ormuz_1_13345869.html",
-      "scraped_at": "2026-07-01T10:09:16Z"
+      "title": "PP y Vox callaron en las Cortes durante los 15 meses de tramitación de la ley de nietos sin cuestionar las nacionalizaciones",
+      "subtitle": "Ni los populares ni la ultraderecha hicieron crítica alguna durante los debates parlamentarios de la ley de memoria democrática a la posibilidad de conceder la nacionalidad española a los descendientes de los exiliados por el franquismo",
+      "url": "https://www.eldiario.es/politica/pp-vox-callaron-cortes-durante-15-meses-tramitacion-ley-nietos-cuestionar-nacionalizaciones_1_13349481.html",
+      "scraped_at": "2026-07-02T09:30:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Oposiciones Renfe",
-      "subtitle": "Parte de la prueba psicotécnica estaba colgada en una academia, lo que ha llevado a muchos aspirantes a denunciar el proceso, que ya habían superado 600 personas en esta primera fase",
-      "url": "https://www.eldiario.es/economia/renfe-paraliza-oposiciones-5-000-candidatos-filtracion-previa-parte-examen-sindios_1_13347170.html",
-      "scraped_at": "2026-07-01T10:09:17Z"
+      "title": "Joyas Zapatero",
+      "subtitle": "Lo hace siguiendo el criterio de la Agencia Tributaria porque es habitual en casos donde se investigan delitos contra la Hacienda Pública",
+      "url": "https://www.eldiario.es/politica/abogacia-personara-causa-joyas-zapatero_1_13350098.html",
+      "scraped_at": "2026-07-02T09:30:04Z"
     }
   ]
 }
