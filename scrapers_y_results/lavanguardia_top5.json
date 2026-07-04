@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La Fiscalía cree que el PSOE financió a la trama de Leire Díez para tumbar causas judiciales: Los fiscales advierten que ni Mercedes González, la directora de la Guardia Civil, ni el ministro Grande-Marlaska ordenaron investigar la campaña en curso contra la UCO; La justicia cerca a Sánchez: La tensión entre la judicatura y el Gobierno de Pedro Sánchez es cada vez más insostenible. La justicia no descansa y ayer dio a conocer otro nuevo frente contra el Ejecutivo socialista. La Audiencia Nacional, a petición de la Fiscalía Anticorrupción, ha citado como investigada...; Una España solvente minimiza a Austria y jugará contra Portugal en los octavos del Mundial: Oyarzábal (2) y Pedro Porro sellaron los goles de los de De la Fuente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-03T09:32:48Z",
+  "summary": "Resumen del día en La Vanguardia: Los Mossos detienen a uno de los presuntos autores del asesinato del menor en la Pegaso: La policía catalana lo arrestó el viernes por la noche en un piso de la Meridiana de Barcelona; Jonathan Andic quería crear una sastrería y emprender fuera de Mango: Las hijas de Isak Andic reafirman en el juzgado la confianza en su hermano; Trump “secuestra” las celebraciones del 250º aniversario de EE.UU.: Un informe del Congreso alerta que el presidente ha convertido la efeméride en “un foco de corrupción y enriquecimiento personal”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-04T08:49:03Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La Fiscalía cree que el PSOE financió a la trama de Leire Díez para tumbar causas judiciales",
-      "subtitle": "Los fiscales advierten que ni Mercedes González, la directora de la Guardia Civil, ni el ministro Grande-Marlaska ordenaron investigar la campaña en curso contra la UCO",
-      "url": "https://www.lavanguardia.com/politica/20260703/11583024/fiscalia-cree-psoe-financio-trama-leire-diez-tumbar-causas-judiciales.html",
-      "scraped_at": "2026-07-03T09:32:48Z"
+      "title": "Los Mossos detienen a uno de los presuntos autores del asesinato del menor en la Pegaso",
+      "subtitle": "La policía catalana lo arrestó el viernes por la noche en un piso de la Meridiana de Barcelona",
+      "url": "https://www.lavanguardia.com/sucesos/20260704/11584286/mossos-detienen-presuntos-autores-asesinato-menor-pegaso.html",
+      "scraped_at": "2026-07-04T08:49:02Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La justicia cerca a Sánchez",
-      "subtitle": "La tensión entre la judicatura y el Gobierno de Pedro Sánchez es cada vez más insostenible. La justicia no descansa y ayer dio a conocer otro nuevo frente contra el Ejecutivo socialista. La Audiencia Nacional, a petición de la Fiscalía Anticorrupción, ha citado como investigada...",
-      "url": "https://www.lavanguardia.com/opinion/20260703/11583049/justicia-cerca-sanchez.html",
-      "scraped_at": "2026-07-03T09:32:48Z"
+      "title": "Jonathan Andic quería crear una sastrería y emprender fuera de Mango",
+      "subtitle": "Las hijas de Isak Andic reafirman en el juzgado la confianza en su hermano",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260704/11584051/jonathan-andic-queria-crear-sastreria-emprender-fuera-mango.html",
+      "scraped_at": "2026-07-04T08:49:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una España solvente minimiza a Austria y jugará contra Portugal en los octavos del Mundial",
-      "subtitle": "Oyarzábal (2) y Pedro Porro sellaron los goles de los de De la Fuente",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260702/11583038/espana-solvente-minimiza-austria-planta-octavos-mundial.html",
-      "scraped_at": "2026-07-03T09:32:48Z"
+      "title": "Trump “secuestra” las celebraciones del 250º aniversario de EE.UU.",
+      "subtitle": "Un informe del Congreso alerta que el presidente ha convertido la efeméride en “un foco de corrupción y enriquecimiento personal”",
+      "url": "https://www.lavanguardia.com/internacional/20260704/11583921/trump-secuestra-celebraciones-250-aniversario-estados-unidos.html",
+      "scraped_at": "2026-07-04T08:49:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La virtud que distingue a España de la mayoría: marcar el primero e ir a por el segundo",
-      "subtitle": "Austria es a Uruguay lo que una flor de edelweiss a un cactus, pero empezar este comentario resaltando la dulzura del adversario de España no es del todo justo. En un Mundial hay de todo y lo importante es adaptarse a cada circunstancia. Además, a ambos países España venció, lo...",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260702/11583055/virtud-distingue-espana-mayoria-marcar-primero-e-segundo.html",
-      "scraped_at": "2026-07-03T09:32:48Z"
+      "title": "Polarización extrema en EE.UU.: ¿riesgo de guerra civil?",
+      "subtitle": "La violencia política, los indultos a los asaltantes del Capitolio, la radicalización ultra y el debilitamiento de las instituciones alimentan en el país el temor a una inestabilidad crónica",
+      "url": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260704/11569277/polarizacion-extrema-ee-uu-riesgo-guerra-civil.html",
+      "scraped_at": "2026-07-04T08:49:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las leyes de la hospitalidad",
-      "subtitle": "En una entrevista de promoción de su libro Bocabulario (Ed. Planeta), el crítico Pau Arenós contaba que la virtud más importante de un restaurante es lograr que el cliente se sienta a gusto. “No como en casa, sino mejor que en casa,” precisaba. El concepto que engloba los...",
-      "url": "https://www.lavanguardia.com/cultura/20260703/11583001/leyes-hospitalidad.html",
-      "scraped_at": "2026-07-03T09:32:48Z"
+      "title": "Cerdán achaca su imputación  a la negociación con Junts",
+      "subtitle": "El ex secretario de organización del PSOE publica un libro autoeditado en el que reitera que es inocente",
+      "url": "https://www.lavanguardia.com/politica/20260704/11583904/cerdan-relata-soledad-imputado-achaca-causas-negociacion-junts.html",
+      "scraped_at": "2026-07-04T08:49:03Z"
     }
   ]
 }
