@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los Mossos detienen a uno de los presuntos autores del asesinato del menor en la Pegaso: La policía catalana lo arrestó el viernes por la noche en un piso de la Meridiana de Barcelona; Jonathan Andic quería crear una sastrería y emprender fuera de Mango: Las hijas de Isak Andic reafirman en el juzgado la confianza en su hermano; Trump “secuestra” las celebraciones del 250º aniversario de EE.UU.: Un informe del Congreso alerta que el presidente ha convertido la efeméride en “un foco de corrupción y enriquecimiento personal”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-04T08:49:03Z",
+  "summary": "Resumen del día en La Vanguardia: El PSOE retrocede mientras el PP y Vox rozan los 200 diputados: Los socialistas caen casi cinco puntos y el PP dos, pero los ultras crecen más de seis; Vox ya no da tanto miedo: “El milagro de P. Sánchez” titulamos aquí el comentario de la anterior encuesta de Ipsos encargada en abril pasado. Entonces, el PP y Vox sumaban 194 escaños y se antojaba muy difícil que el PSOE pudiera cambiar la tendencia a no ser que se produjera algún prodigio divino. Hoy,...; Vox salta la barrera: La encuesta que hoy publica La Vanguardia otorga a Vox un 18,5% de los votos y una proyección en escaños de 64. Supera así el récord obtenido en su día por Ciudadanos. Debido al efecto que el sistema electoral español tiene en bastantes provincias poco pobladas, existe una.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-05T09:20:45Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los Mossos detienen a uno de los presuntos autores del asesinato del menor en la Pegaso",
-      "subtitle": "La policía catalana lo arrestó el viernes por la noche en un piso de la Meridiana de Barcelona",
-      "url": "https://www.lavanguardia.com/sucesos/20260704/11584286/mossos-detienen-presuntos-autores-asesinato-menor-pegaso.html",
-      "scraped_at": "2026-07-04T08:49:02Z"
+      "title": "El PSOE retrocede mientras el PP y Vox rozan los 200 diputados",
+      "subtitle": "Los socialistas caen casi cinco puntos y el PP dos, pero los ultras crecen más de seis",
+      "url": "https://www.lavanguardia.com/politica/20260705/11584509/psoe-retrocede-lentamente-populares-vox-rozan-200-escanos.html",
+      "scraped_at": "2026-07-05T09:20:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Jonathan Andic quería crear una sastrería y emprender fuera de Mango",
-      "subtitle": "Las hijas de Isak Andic reafirman en el juzgado la confianza en su hermano",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260704/11584051/jonathan-andic-queria-crear-sastreria-emprender-fuera-mango.html",
-      "scraped_at": "2026-07-04T08:49:03Z"
+      "title": "Vox ya no da tanto miedo",
+      "subtitle": "“El milagro de P. Sánchez” titulamos aquí el comentario de la anterior encuesta de Ipsos encargada en abril pasado. Entonces, el PP y Vox sumaban 194 escaños y se antojaba muy difícil que el PSOE pudiera cambiar la tendencia a no ser que se produjera algún prodigio divino. Hoy,...",
+      "url": "https://www.lavanguardia.com/opinion/20260705/11584608/vox-da-tanto-miedo.html",
+      "scraped_at": "2026-07-05T09:20:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Trump “secuestra” las celebraciones del 250º aniversario de EE.UU.",
-      "subtitle": "Un informe del Congreso alerta que el presidente ha convertido la efeméride en “un foco de corrupción y enriquecimiento personal”",
-      "url": "https://www.lavanguardia.com/internacional/20260704/11583921/trump-secuestra-celebraciones-250-aniversario-estados-unidos.html",
-      "scraped_at": "2026-07-04T08:49:03Z"
+      "title": "Vox salta la barrera",
+      "subtitle": "La encuesta que hoy publica La Vanguardia otorga a Vox un 18,5% de los votos y una proyección en escaños de 64. Supera así el récord obtenido en su día por Ciudadanos. Debido al efecto que el sistema electoral español tiene en bastantes provincias poco pobladas, existe una...",
+      "url": "https://www.lavanguardia.com/politica/20260705/11584502/vox-salta-barrera.html",
+      "scraped_at": "2026-07-05T09:20:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Polarización extrema en EE.UU.: ¿riesgo de guerra civil?",
-      "subtitle": "La violencia política, los indultos a los asaltantes del Capitolio, la radicalización ultra y el debilitamiento de las instituciones alimentan en el país el temor a una inestabilidad crónica",
-      "url": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260704/11569277/polarizacion-extrema-ee-uu-riesgo-guerra-civil.html",
-      "scraped_at": "2026-07-04T08:49:03Z"
+      "title": "Los inmigrantes latinos votan más a la derecha",
+      "subtitle": "Los inmigrantes latinoamericanos en España que se hallan en el censo electoral de sus respectivos países han votado más a la derecha que a la izquierda en las últimas elecciones presidenciales celebradas en Hispanoamérica. Colombia, Perú, Costa Rica, Chile, Bolivia, Ecuador y...",
+      "url": "https://www.lavanguardia.com/politica/20260705/11584607/inmigrantes-latinos-votan-mas-derecha.html",
+      "scraped_at": "2026-07-05T09:20:45Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cerdán achaca su imputación  a la negociación con Junts",
-      "subtitle": "El ex secretario de organización del PSOE publica un libro autoeditado en el que reitera que es inocente",
-      "url": "https://www.lavanguardia.com/politica/20260704/11583904/cerdan-relata-soledad-imputado-achaca-causas-negociacion-junts.html",
-      "scraped_at": "2026-07-04T08:49:03Z"
+      "title": "“Barcelona no perderá porque Madrid crezca, podemos competir con cualquier ciudad”",
+      "subtitle": "El fundador de la promotora The Project apuesta por contener los precios para que la música no pierda fuelle",
+      "url": "https://www.lavanguardia.com/cultura/20260704/11581395/tito-ramoneda-barcelona-perdera-madrid-crezca-competir-ciudad.html",
+      "scraped_at": "2026-07-05T09:20:45Z"
     }
   ]
 }
