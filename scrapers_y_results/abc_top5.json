@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La corrupción en torno a Sánchez se generaliza en seis empresas públicas: El caso Leire apunta a irregularidades dentro de la SEPI, en Enusa y Mercasa, el caso Begoña Gómez, en Red.es y la sentencia del caso Ábalos confirmó el enchufe de Jésica Rodríguez en Ineco y Tragsatec; El Banco de España busca salidas ante el FMI para no limitar el crédito hipotecario a los jóvenes: El supervisor estudia excluir de la limitación que ultima a algunos colectivos que podrían quedarse sin opciones de financiación; La frontera blindada de Donald Trump: La caída histórica de los cruces irregulares en Arizona y California convierte antiguos corredores migratorios en territorios bajo vigilancia extrema. Un viaje al corazón de la estrategia migratoria de la Administración estadounidense. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-05T09:20:44Z",
+  "summary": "Resumen del día en ABC.es: El guardia civil de las 'cloacas' del PSOE mediaba para dejar salir de España a investigados: Asuntos Internos sostiene en un informe que este guardia civil se nutrió de tarjetas prepago sufragadas por los miembros de una trama de hidrocarburos; Moncloa llenará su agenda de debates y negociaciones para esquivar la corrupción: Moncloa trata de recuperar la iniciativa política y llena la agenda de hitos y negociaciones para desviar el foco de las investigaciones judiciales; Delcy Rodríguez insta a Aldama a retractarse bajo la amenaza de querella por injurias: La presidenta encargada de Venezuela escoge al despacho de Baltasar Garzón tras decir el comisionista que le dio información que probaría la financiación irregular del PSOE. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-06T10:58:44Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La corrupción en torno a Sánchez se generaliza en seis empresas públicas",
-      "subtitle": "El caso Leire apunta a irregularidades dentro de la SEPI, en Enusa y Mercasa, el caso Begoña Gómez, en Red.es y la sentencia del caso Ábalos confirmó el enchufe de Jésica Rodríguez en Ineco y Tragsatec",
-      "url": "https://www.abc.es/espana/escandalos-psoe-revelan-corrupcion-generalizada-seis-empresa-20260705020700-nt.html",
-      "scraped_at": "2026-07-05T09:20:43Z"
+      "title": "El guardia civil de las 'cloacas' del PSOE mediaba para dejar salir de España a investigados",
+      "subtitle": "Asuntos Internos sostiene en un informe que este guardia civil se nutrió de tarjetas prepago sufragadas por los miembros de una trama de hidrocarburos",
+      "url": "https://www.abc.es/espana/capitan-cloacas-psoe-intercedio-juez-facilitar-viaje-20260617021134-nt.html",
+      "scraped_at": "2026-07-06T10:58:44Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Banco de España busca salidas ante el FMI para no limitar el crédito hipotecario a los jóvenes",
-      "subtitle": "El supervisor estudia excluir de la limitación que ultima a algunos colectivos que podrían quedarse sin opciones de financiación",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/banco-espana-suavizara-restricciones-hipotecas-dificultar-acceso-20260705020917-nt.html",
-      "scraped_at": "2026-07-05T09:20:43Z"
+      "title": "Moncloa llenará su agenda de debates y negociaciones para esquivar la corrupción",
+      "subtitle": "Moncloa trata de recuperar la iniciativa política y llena la agenda de hitos y negociaciones para desviar el foco de las investigaciones judiciales",
+      "url": "https://www.abc.es/espana/amnistia-presupuestos-vivienda-plan-sanchez-acabar-curso-20260702021229-nt.html",
+      "scraped_at": "2026-07-06T10:58:44Z"
     },
     {
       "source": "ABC.es",
-      "title": "La frontera blindada de Donald Trump",
-      "subtitle": "La caída histórica de los cruces irregulares en Arizona y California convierte antiguos corredores migratorios en territorios bajo vigilancia extrema. Un viaje al corazón de la estrategia migratoria de la Administración estadounidense",
-      "url": "https://www.abc.es/internacional/frontera-blindada-donald-trump-20260705020849-nt.html",
-      "scraped_at": "2026-07-05T09:20:43Z"
+      "title": "Delcy Rodríguez insta a Aldama a retractarse bajo la amenaza de querella por injurias",
+      "subtitle": "La presidenta encargada de Venezuela escoge al despacho de Baltasar Garzón tras decir el comisionista que le dio información que probaría la financiación irregular del PSOE",
+      "url": "https://www.abc.es/espana/delcy-rodriguez-insta-aldama-retractarse-bajo-amenaza-20260706120544-nt.html",
+      "scraped_at": "2026-07-06T10:58:44Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cucurella: «Al fichar por el Real Madrid he llegado a la cima»",
-      "subtitle": "El defensa asegura que hacer público el autismo de su hijo sirve para ayudar a los demás y «hacer ver que los futbolistas tenemos los mismos problemas que cualquier persona»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/cucurella-fichar-real-madrid-llegado-cima-20260704193321-nt.html",
-      "scraped_at": "2026-07-05T09:20:43Z"
+      "title": "Bildu cuela al lendakari en el chupinazo para euskaldunizar San Fermín",
+      "subtitle": "La plaza del Ayuntamiento de Pamplona se convierte de nuevo en un espacio de lucha dentro de la izquierda aberzale con banderas pidiendo la excarcelación de los presos de ETA",
+      "url": "https://www.abc.es/espana/navarra/bildu-cuela-lendakari-chupinazo-euskaldunizar-san-fermin-20260706120659-nt.html",
+      "scraped_at": "2026-07-06T10:58:44Z"
     },
     {
       "source": "ABC.es",
-      "title": "Lucía, se mudó a una casa gallega de 100 años: «Vivir en un pueblo es muy barato si tienes tus propios animales»",
-      "subtitle": "Con tan solo 27 años, Lucía ha dejado&nbsp; la ciudad para restaurar una casa de 100 años en una aldea gallega y cumplir su sueño de ser...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/lucia-mudo-casa-gallega-100-anos-vivir-pueblo-barato-tienes-tus-propios-animales-huerto-tenga-grande-mi-intencion-comprar-minimo-posible-arroz-aceite-poco-20260705_3395395.html",
-      "scraped_at": "2026-07-05T09:20:44Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-06T10:58:44Z"
     }
   ]
 }
