@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Feijóo anuncia una “ley nacional del concebido no nacido” como la de Ayuso si gobierna: El líder del PP se dice \"absolutamente orgulloso\" del pacto de Moreno con Vox en Andalucía y exige explicaciones al Gobierno por no acudir a la toma de posesión a la que él mismo no fue; La gran transferencia: quién paga y quién recibe 28.000 millones de euros en alquileres cada año en España: Cerca del 1,6% del PIB español cambia de manos cada año con el alquiler de viviendas: un movimiento de dinero que se ha duplicado en una década y que está marcado por la desigualdad de renta y la brecha generacional; El juzgado admite la demanda de Bolaños contra Aldama por decir en televisión que le intentó sobornar: La resolución judicial da un plazo de veinte días hábiles para que Aldama responda a las acusaciones, que se cumplen este mismo lunes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-06T10:58:43Z",
+  "summary": "Resumen del día en elDiario.es: La Audiencia de Madrid decidirá el futuro judicial de Begoña Gómez tras las resoluciones contradictorias sobre sus viajes: Tres magistrados deliberan dentro de una semana sobre los recursos presentados contra la decisión de Peinado de que sea juzgada por un jurado popular; La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la citación porque está de vacaciones: La decisión queda pendiente de una nueva fecha tras cancelarse la prevista para este lunes \"por razones de reorganización de la agenda\" dado que la Sala designada está \"disfrutando de periodo vacacional\"; La acusación popular pide que se investigue a Quirón por delito fiscal en el caso de la pareja de Ayuso: PSOE y Más Madrid vuelven a pedir al juzgado que llame a declarar a Fernando Camino, directivo de la empresa sanitaria y socio de González Amador, y advierten al magistrado Antonio Viejo de que \"el proceso está estancado\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-07T09:58:35Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Feijóo anuncia una “ley nacional del concebido no nacido” como la de Ayuso si gobierna",
-      "subtitle": "El líder del PP se dice \"absolutamente orgulloso\" del pacto de Moreno con Vox en Andalucía y exige explicaciones al Gobierno por no acudir a la toma de posesión a la que él mismo no fue",
-      "url": "https://www.eldiario.es/politica/feijoo-anuncia-ley-nacional-concebido-ayuso-si-gobierna_1_13358644.html",
-      "scraped_at": "2026-07-06T10:58:41Z"
+      "title": "La Audiencia de Madrid decidirá el futuro judicial de Begoña Gómez tras las resoluciones contradictorias sobre sus viajes",
+      "subtitle": "Tres magistrados deliberan dentro de una semana sobre los recursos presentados contra la decisión de Peinado de que sea juzgada por un jurado popular",
+      "url": "https://www.eldiario.es/politica/audiencia-madrid-decidira-futuro-judicial-begona-gomez-resoluciones-contradictorias-viajes_1_13360255.html",
+      "scraped_at": "2026-07-07T09:58:33Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La gran transferencia: quién paga y quién recibe 28.000 millones de euros en alquileres cada año en España",
-      "subtitle": "Cerca del 1,6% del PIB español cambia de manos cada año con el alquiler de viviendas: un movimiento de dinero que se ha duplicado en una década y que está marcado por la desigualdad de renta y la brecha generacional",
-      "url": "https://www.eldiario.es/economia/gran-transferencia-paga-recibe-28-000-millones-euros-alquileres-ano-espana_1_13336879.html",
-      "scraped_at": "2026-07-06T10:58:41Z"
+      "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la citación porque está de vacaciones",
+      "subtitle": "La decisión queda pendiente de una nueva fecha tras cancelarse la prevista para este lunes \"por razones de reorganización de la agenda\" dado que la Sala designada está \"disfrutando de periodo vacacional\"",
+      "url": "https://www.eldiario.es/politica/sala-resolvera-recurso-begona-gomez-vito-quiles-suspende-citacion-vacaciones_1_13361285.html",
+      "scraped_at": "2026-07-07T09:58:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juzgado admite la demanda de Bolaños contra Aldama por decir en televisión que le intentó sobornar",
-      "subtitle": "La resolución judicial da un plazo de veinte días hábiles para que Aldama responda a las acusaciones, que se cumplen este mismo lunes",
-      "url": "https://www.eldiario.es/politica/juzgado-admite-demanda-bolanos-aldama-decir-television-le-sobornar_1_13358990.html",
-      "scraped_at": "2026-07-06T10:58:42Z"
+      "title": "La acusación popular pide que se investigue a Quirón por delito fiscal en el caso de la pareja de Ayuso",
+      "subtitle": "PSOE y Más Madrid vuelven a pedir al juzgado que llame a declarar a Fernando Camino, directivo de la empresa sanitaria y socio de González Amador, y advierten al magistrado Antonio Viejo de que \"el proceso está estancado\"",
+      "url": "https://www.eldiario.es/politica/acusacion-popular-pide-investigue-quiron-delito-fiscal-caso-pareja-ayuso_1_13361121.html",
+      "scraped_at": "2026-07-07T09:58:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Delcy Rodríguez niega haber entregado un sobre de PDVSA a Aldama y pide que se retracte antes de querellarse por injurias",
-      "subtitle": "El acto de conciliación se celebrará en los juzgados madrileños el 16 de julio com acto previo a la presentación de una querella: \"Es inveraz y falsa\" la afirmación de que entregó un sobre",
-      "url": "https://www.eldiario.es/politica/delcy-rodriguez-niega-haber-entragado-pdvsa-aldama-le-pide-retracte-querellarse-injurias_1_13358802.html",
-      "scraped_at": "2026-07-06T10:58:42Z"
+      "title": "¿Se pueden ganar unas elecciones autonómicas desde un despacho de ministra?",
+      "subtitle": "No les fue muy bien a Montero y Alegría cuando apuraron su presencia en el Gobierno antes de centrarse en sus candidaturas a las autonómicas. De momento, Diana Morant va por el mismo camino y no cree que deba centrarse aún en Valencia",
+      "url": "https://www.eldiario.es/politica/ganar-elecciones-autonomicas-despacho-ministra_129_13359964.html",
+      "scraped_at": "2026-07-07T09:58:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Caso Leire",
-      "subtitle": "La defensa se dirige a la Sala de lo Penal y acusa a la UCO de actuar sin órden judicial para buscar información de cientos de personas que, si no está relacionada con la causa, le permita abrir otras nuevas líneas de investigación \"adornadas de preocupantes sesgos supuestamente delictivos\"",
-      "url": "https://www.eldiario.es/politica/trabajadoras-psoe-recurren-decision-pedraz-no-anular-incautacion-telefonos-moviles-caso-leire_1_13358833.html",
-      "scraped_at": "2026-07-06T10:58:43Z"
+      "title": "Alquiler",
+      "subtitle": "Un informe del Ministerio de Derechos Sociales, Consumo y Agenda 2030 y el CSIC concluye que la principal línea de desigualdad económica en España no pasa por la edad, sino por la vivienda",
+      "url": "https://www.eldiario.es/economia/multiarrendadores-multiplican-cuatro-renta-inquilinos-atesoran-patrimonio-450-veces-mayor_1_13359398.html",
+      "scraped_at": "2026-07-07T09:58:35Z"
     }
   ]
 }
