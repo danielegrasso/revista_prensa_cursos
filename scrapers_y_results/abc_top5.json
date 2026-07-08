@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez blinda a la directora de la Guardia Civil y abre una guerra con Defensa e Interior: El presidente impide a Marlaska prescindir de la directora de la Guardia Civil y a Robles tomar medidas contra el DAO; 'Ley de nietos': hasta 13 escaños quedaron a menos de 3.000 votos de cambiar de manos el 23J: El análisis de los resultados de las últimas generales muestra en qué provincias habrían bastado menos votos para alterar el último diputado y sirve como referencia del potencial impacto de un aumento del censo; España se hace camino para soñar: La selección se impone a Portugal en un partido muy igualado con un gol de Mikel Merino en el minuto 91 y avanza a cuartos de final. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-07T09:58:37Z",
+  "summary": "Resumen del día en ABC.es: Trump ordena suspender el comercio con España por ser un «socio pésimo» en la OTAN por el gasto en defensa: El presidente estadounidense sostiene que España es un «aliado terrible» con el que no quiere tener transacciones comerciales al negarse a subir el gasto en defensa al 5%; Los contactos de Leire Díez con altos cargos abren la vía para imputar al PSOE: Los investigadores abordan si el PSOE conocía las maniobras que la militante aseguraba desplegar por orden de su cúpula y el encaje en el artículo 31 bis del Código Penal sobre la responsabilidad de las personas jurídicas; Zapatero cancela sus vacaciones en plena investigación judicial y por primera vez no viajará a Lanzarote: El expresidente, que tiene un chalé en la playa de Famara, permanecerá en su vivienda de Las Rozas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-08T08:42:09Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez blinda a la directora de la Guardia Civil y abre una guerra con Defensa e Interior",
-      "subtitle": "El presidente impide a Marlaska prescindir de la directora de la Guardia Civil y a Robles tomar medidas contra el DAO",
-      "url": "https://www.abc.es/espana/proteccion-sanchez-mercedes-gonzalez-enfrenta-moncloa-interior-20260707020409-nt.html",
-      "scraped_at": "2026-07-07T09:58:36Z"
+      "title": "Trump ordena suspender el comercio con España por ser un «socio pésimo» en la OTAN por el gasto en defensa",
+      "subtitle": "El presidente estadounidense sostiene que España es un «aliado terrible» con el que no quiere tener transacciones comerciales al negarse a subir el gasto en defensa al 5%",
+      "url": "https://www.abc.es/internacional/trump-ordena-suspender-comercio-espana-socio-pesimo-20260708102523-nt.html",
+      "scraped_at": "2026-07-08T08:42:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "'Ley de nietos': hasta 13 escaños quedaron a menos de 3.000 votos de cambiar de manos el 23J",
-      "subtitle": "El análisis de los resultados de las últimas generales muestra en qué provincias habrían bastado menos votos para alterar el último diputado y sirve como referencia del potencial impacto de un aumento del censo",
-      "url": "https://www.abc.es/espana/provincias-susceptibles-cambiar-voto-ley-nietos-20260706231325-nt.html",
-      "scraped_at": "2026-07-07T09:58:36Z"
+      "title": "Los contactos de Leire Díez con altos cargos abren la vía para imputar al PSOE",
+      "subtitle": "Los investigadores abordan si el PSOE conocía las maniobras que la militante aseguraba desplegar por orden de su cúpula y el encaje en el artículo 31 bis del Código Penal sobre la responsabilidad de las personas jurídicas",
+      "url": "https://www.abc.es/espana/contactos-leire-altos-cargos-psoe-acercan-imputacion-20260707014348-nt.html",
+      "scraped_at": "2026-07-08T08:42:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "España se hace camino para soñar",
-      "subtitle": "La selección se impone a Portugal en un partido muy igualado con un gol de Mikel Merino en el minuto 91 y avanza a cuartos de final",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-camino-sonar-20260706230509-nt.html",
-      "scraped_at": "2026-07-07T09:58:37Z"
+      "title": "Zapatero cancela sus vacaciones en plena investigación judicial y por primera vez no viajará a Lanzarote",
+      "subtitle": "El expresidente, que tiene un chalé en la playa de Famara, permanecerá en su vivienda de Las Rozas",
+      "url": "https://www.abc.es/espana/zapatero-cancela-vacaciones-plena-investigacion-judicial-primera-20260708014400-nt.html",
+      "scraped_at": "2026-07-08T08:42:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "La sufrida victoria ante Portugal, en datos",
-      "subtitle": "Un gol de Mikel Merino en el tramo final desatasca un choque muy igualado (0-1) y premia a una selección que supo competir para alcanzar los cuartos de final del Mundial",
-      "url": "https://www.abc.es/deportes/futbol/mundial/sufrida-victoria-espana-ante-portugal-datos-20260707111157-nt.html",
-      "scraped_at": "2026-07-07T09:58:37Z"
+      "title": "Los funcionarios no quieren trabajar en el ministerio de Bolaños",
+      "subtitle": "Recortes en el trabajo a distancia, imposiciones de jornada y ausencia de negociación hacen perder al departamento el atractivo que le distinguía en la Administración",
+      "url": "https://www.abc.es/economia/funcionarios-quieren-trabajar-ministerio-bolanos-plazas-quedan-20260707014413-nt.html",
+      "scraped_at": "2026-07-08T08:42:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sandra y Jose viven con sus 4 hijos en el bosque: «Medimos el gasto, nuestros hijos no tienen tres pares de zapatos»",
-      "subtitle": "Sandra y Jose dejaron su vida en la ciudad por una profunda insatisfacción para criar a sus hijos en una masía de 80 metros cuadrados en medio de la...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/sandra-jose-viven-4-hijos-bosque-medimos-gasto-hijos-no-tres-pares-zapatos-importante-alimentacion-pocos-zapatos-buenos-20260707_3399768.html",
-      "scraped_at": "2026-07-07T09:58:37Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-08T08:42:09Z"
     }
   ]
 }
