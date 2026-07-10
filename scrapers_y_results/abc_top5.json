@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Trump dice ahora que España «se ha redimido por completo» al prometer «numerosos pagos» a la OTAN: Las palabras del presidente norteamericano contrastan con la dureza con la que se refirió a España este miércoles: «Es un socio terrible»; Moncloa recibe los ataques del presidente de EE.UU. como un balón de oxígeno: Sánchez revela una conversación informal con el presidente de EE.UU. sobre fútbol y receta «paciencia y tranquilidad» para lidiar con sus habituales invectivas; Pedro Porro: «En casa hemos sufrido mucho económicamente»: El lateral derecho de España es el quinto jugador de Extremadura en un Mundial. «No se me olvida que mi familia durmió en furgoneta para verme jugar». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-09T10:00:32Z",
+  "summary": "Resumen del día en ABC.es: Al menos once muertos en el incendio de Los Gallardos, en Almería: Las muertes se han producido en una pedanía de Bédar y, algunas de ellas han sido hallados en vehículos; Las víctimas serían en su mayoría extranjeros: Cuatro personas se encontraban en un coche con el volante a la derecha, por lo que podrían ser británicos, un dato aún sin confirmar; «Buscaron una salida que no era la de evacuación»: Cuatro de los fallecidos se encontraron dentro de su propio vehículo, el resto caminando por vías que no eran las propuestas por los servicios de Emergencia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-10T09:51:05Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Trump dice ahora que España «se ha redimido por completo» al prometer «numerosos pagos» a la OTAN",
-      "subtitle": "Las palabras del presidente norteamericano contrastan con la dureza con la que se refirió a España este miércoles: «Es un socio terrible»",
-      "url": "https://www.abc.es/espana/trump-sostiene-espana-redimido-completo-tras-acceder-20260709072223-nt.html",
-      "scraped_at": "2026-07-09T10:00:30Z"
+      "title": "Al menos once muertos en el incendio de Los Gallardos, en Almería",
+      "subtitle": "Las muertes se han producido en una pedanía de Bédar y, algunas de ellas han sido hallados en vehículos",
+      "url": "https://www.abc.es/espana/andalucia/seis-personas-muertas-incendio-almeria-20260710005517-nts.html",
+      "scraped_at": "2026-07-10T09:51:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa recibe los ataques del presidente de EE.UU. como un balón de oxígeno",
-      "subtitle": "Sánchez revela una conversación informal con el presidente de EE.UU. sobre fútbol y receta «paciencia y tranquilidad» para lidiar con sus habituales invectivas",
-      "url": "https://www.abc.es/espana/moncloa-ataques-trump-balon-oxigeno-pleno-asedio-20260709020132-nt.html",
-      "scraped_at": "2026-07-09T10:00:31Z"
+      "title": "Las víctimas serían en su mayoría extranjeros",
+      "subtitle": "Cuatro personas se encontraban en un coche con el volante a la derecha, por lo que podrían ser británicos, un dato aún sin confirmar",
+      "url": "https://www.abc.es/espana/andalucia/victimas-incendio-murieron-intentando-huir-topografia-malisima-20260710091858-nts.html",
+      "scraped_at": "2026-07-10T09:51:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Pedro Porro: «En casa hemos sufrido mucho económicamente»",
-      "subtitle": "El lateral derecho de España es el quinto jugador de Extremadura en un Mundial. «No se me olvida que mi familia durmió en furgoneta para verme jugar»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/pedro-porro-casa-sufrido-economicamente-20260708000342-nt.html",
-      "scraped_at": "2026-07-09T10:00:31Z"
+      "title": "«Buscaron una salida que no era la de evacuación»",
+      "subtitle": "Cuatro de los fallecidos se encontraron dentro de su propio vehículo, el resto caminando por vías que no eran las propuestas por los servicios de Emergencia",
+      "url": "https://www.abc.es/espana/andalucia/almeria/trampa-mortal-incendio-almeria-once-victimas-buscaron-20260710090655-nts.html",
+      "scraped_at": "2026-07-10T09:51:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Así murió el proyecto que pudo cambiar el mundo rural en España",
-      "subtitle": "El cambio de postura del PSOE, principal impulsor de la unión, ha terminado por dar la puntilla a un proceso que llevaba años agonizando",
-      "url": "https://www.abc.es/espana/extremadura/don-benito-entierra-definitivamente-fusion-villanueva-serena-20260702014826-nt.html",
-      "scraped_at": "2026-07-09T10:00:31Z"
+      "title": "Los Reyes, «profundamente consternados», trasladan el pésame a los familiares de las víctimas",
+      "subtitle": "El presidente de la Junta detalla que se está trabajando en la identificación de las víctimas, en su mayoría extranjeras, para trasladar los datos al Gobierno de España",
+      "url": "https://www.abc.es/espana/andalucia/reyes-profundamente-consternados-trasladan-pesame-familiares-victimas-20260710101306-nts.html",
+      "scraped_at": "2026-07-10T09:51:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "«La gasolinera tradicional da combustible aditivado y eso hace que el producto sea de mayor calidad»",
-      "subtitle": "La clave está en los aditivos que mejoran la calidad del combustible, una diferencia fundamental más allá del precio que ofrecen los modelos 'low...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/cardenal-experta-combustible-gasolinera-tradicional-da-combustible-aditivado-producto-sea-mayor-calidad-modelo-low-cost-busca-ofrecer-precio-barato-20260709_3399974.html",
-      "scraped_at": "2026-07-09T10:00:32Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-10T09:51:05Z"
     }
   ]
 }
