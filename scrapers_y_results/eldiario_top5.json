@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El juez encarga a Asuntos Internos retomar la pista de Rajoy y Cospedal y recuperar audios en Kitchen: El magistrado instructor del caso Villarejo requiere a RAC1 unas grabaciones publicadas en marzo de 2025 en las que Cospedal reconoce que la Policía \"limpió\" de material comprometedor a Luis Bárcenas, según le había confesado \"el presidente\"; Bolaños, al presidente de los obispos tras atacar al Gobierno: “¿Y si calificásemos a la Iglesia como banda de agresores sexuales?”: El ministro de Presidencia envía una carta a Luis Argüello en la que le afea sus ataques al Gobierno y le pide que las relaciones estén \"marcadas por la moderación, el respeto y la justicia en lugar de por la exageración y el partidismo en favor de la derecha y la ultraderecha\"; El Supremo deja en papel mojado decenas de negativas del Gobierno al registro de pisos turísticos: El Tribunal deja sin efecto 40 denegaciones a viviendas turísticas publicadas por el BOE, pero los pisos siguen siendo ilegales y las Comunidades Autónomas deben preservar la ley. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-10T09:51:03Z",
+  "summary": "Resumen del día en elDiario.es: El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España: El cambio climático genera un nuevo patrón meteorológico: tras una primavera seca y muy calurosa, las olas de calor severo han terminado por crear la condiciones para una secuencia casi continuada de incendios forestales; Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería: Las llamas han calcinado 3.800 hectáreas. Los expertos recomiendan permanecer \"en un refugio adecuado\" o evacuar \"de forma temprana siguiendo exclusivamente las instrucciones\" de los servicios de emergencias; Infantino: la Tierra es redonda como una pelota de fútbol: Se exhibe una y otra vez ante las 211 federaciones de fútbol de los distintos países del mundo que integran la FIFA para llenar sus arcas a cambio de un voto. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-11T08:11:52Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El juez encarga a Asuntos Internos retomar la pista de Rajoy y Cospedal y recuperar audios en Kitchen",
-      "subtitle": "El magistrado instructor del caso Villarejo requiere a RAC1 unas grabaciones publicadas en marzo de 2025 en las que Cospedal reconoce que la Policía \"limpió\" de material comprometedor a Luis Bárcenas, según le había confesado \"el presidente\"",
-      "url": "https://www.eldiario.es/politica/juez-encarga-asuntos-internos-volver-pista-rajoy-cospedal-recuperar-audios-kitchen_1_13369585.html",
-      "scraped_at": "2026-07-10T09:51:01Z"
+      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España",
+      "subtitle": "El cambio climático genera un nuevo patrón meteorológico: tras una primavera seca y muy calurosa, las olas de calor severo han terminado por crear la condiciones para una secuencia casi continuada de incendios forestales",
+      "url": "https://www.eldiario.es/sociedad/calor-extremo-deja-30-000-hectareas-arrasadas-miles-evacuados-12-muertos-incendios-espana_1_13372118.html",
+      "scraped_at": "2026-07-11T08:11:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Bolaños, al presidente de los obispos tras atacar al Gobierno: “¿Y si calificásemos a la Iglesia como banda de agresores sexuales?”",
-      "subtitle": "El ministro de Presidencia envía una carta a Luis Argüello en la que le afea sus ataques al Gobierno y le pide que las relaciones estén \"marcadas por la moderación, el respeto y la justicia en lugar de por la exageración y el partidismo en favor de la derecha y la ultraderecha\"",
-      "url": "https://www.eldiario.es/sociedad/bolanos-presidente-obispos-ataques-gobierno-si-calificasemos-iglesia-banda-agresores-sexuales_1_13369890.html",
-      "scraped_at": "2026-07-10T09:51:02Z"
+      "title": "Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería",
+      "subtitle": "Las llamas han calcinado 3.800 hectáreas. Los expertos recomiendan permanecer \"en un refugio adecuado\" o evacuar \"de forma temprana siguiendo exclusivamente las instrucciones\" de los servicios de emergencias",
+      "url": "https://www.eldiario.es/sociedad/hay-actuar-no-incendio-forestal-almeria_1_13372538.html",
+      "scraped_at": "2026-07-11T08:11:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo deja en papel mojado decenas de negativas del Gobierno al registro de pisos turísticos",
-      "subtitle": "El Tribunal deja sin efecto 40 denegaciones a viviendas turísticas publicadas por el BOE, pero los pisos siguen siendo ilegales y las Comunidades Autónomas deben preservar la ley",
-      "url": "https://www.eldiario.es/economia/supremo-deja-papel-mojado-decenas-negativas-gobierno-registro-pisos-turisticos_1_13369773.html",
-      "scraped_at": "2026-07-10T09:51:02Z"
+      "title": "Infantino: la Tierra es redonda como una pelota de fútbol",
+      "subtitle": "Se exhibe una y otra vez ante las 211 federaciones de fútbol de los distintos países del mundo que integran la FIFA para llenar sus arcas a cambio de un voto",
+      "url": "https://www.eldiario.es/opinion/gianni-infantino-tierra-redonda-pelota-futbol_129_13371505.html",
+      "scraped_at": "2026-07-11T08:11:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP vota en contra de que el Gobierno asuma el 50% del gasto en dependencia, pese a exigirlo",
-      "subtitle": "Los de Feijóo votan en contra de una medida que llevan años reclamando al Gobierno, pero que continúa su trámite parlamentario gracias al apoyo de los socios de investidura, incluido Junts",
-      "url": "https://www.eldiario.es/sociedad/pp-vota-gobierno-asuma-50-gasto-dependencia-pese-llevar-anos-exigiendolo_1_13369371.html",
-      "scraped_at": "2026-07-10T09:51:03Z"
+      "title": "El presidente de los obispos revienta la sintonía del Gobierno y la Iglesia: “Se cargó el discurso del Papa”",
+      "subtitle": "Negociadores de ambas partes, que tratan de forma informal de rebajar los decibelios, consideran “incomprensibles” las palabras del presidente de la CEE: \"Siempre que el Gobierno está contra las cuerdas, hay alguna declaración de nuestro lado que le da oxígeno”",
+      "url": "https://www.eldiario.es/sociedad/presidente-obispos-revienta-buena-sintonia-gobierno-iglesia-cargado-discurso-papa_1_13371225.html",
+      "scraped_at": "2026-07-11T08:11:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Rosco Pasapalabra",
-      "subtitle": "MC&F, la productora propietaria de 'El Rosco', iniciará acciones legales contra Atresmedia por las \"similitudes insalvables\" que considera que guarda con su juego 'AlaZ', la nueva prueba de 'Pasapalabra'. Así lo ha anunciado este jueves Mediaset España, que tiene actualmente los derechos de 'El Rosco' y prepara un nuevo concurso a su alrededor",
-      "url": "https://www.eldiario.es/vertele/noticias/mediaset-anuncia-demanda-atresmedia-alaz-prueba-sustituye-rosco-pasapalabra-diferencias-similitudes-antena-3-telecinco_1_13368709.html",
-      "scraped_at": "2026-07-10T09:51:03Z"
+      "title": "Incendios España",
+      "subtitle": "Consulta en directo las últimas cifras de los fuegos que arrasan hectáreas forestales y de terreno en esta temporada de incendios de 2026 a partir de los datos más actualizados a partir de imágenes de satélite",
+      "url": "https://www.eldiario.es/sociedad/mapa-incendios-activos-espana-2026-avanzan-zonas-han-quemado_1_13369396.html",
+      "scraped_at": "2026-07-11T08:11:52Z"
     }
   ]
 }

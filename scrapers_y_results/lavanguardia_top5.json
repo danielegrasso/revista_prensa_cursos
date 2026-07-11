@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Al menos 11 muertos y 19 personas sin localizar en un grave incendio en Almería: “Es un horror”: Algunas víctimas han sido halladas en el interior de vehículos alcanzados por las llamas, otro grupo de nueve personas trató de huir a pie, siete de ellas fallecieron; La prensa internacional lamenta la tragedia “sin precedentes”: El consejero de Sanidad, Presidencia y Emergencias de la Junta de Andalucía afirma que “la mayoría o la totalidad” de las once víctimas mortales del incendio forestal son extranjeras; España quiere enterrar definitivamente el recuerdo del KO en el Mundial '86 ante Bélgica: La selección española se vuelve a cruzar con los belgas en unos cuartos de final. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-10T09:51:08Z",
+  "summary": "Resumen del día en La Vanguardia: Aprender de las tragedias: Es posible que haya un antes y un después en la prevención de incendios después de la tragedia de Los Gallardos, en Almería, como ha sucedido con tantos sucesos dramáticos en la historia de este país. Después de la dana de Valencia, las autoridades de Protección Civil han...; Por qué no se envió el ES-Alert en el incendio de los Gallardos: El presidente de la Junta asegura que un mensaje ES-Alert hubiera “generado más confusión”; España está en semifinales del Mundial gracias a otro gol de fábula de Merino: La selección española se cita con Francia tras sudar de lo lindo ante Bélgica. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-11T08:11:57Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Al menos 11 muertos y 19 personas sin localizar en un grave incendio en Almería: “Es un horror”",
-      "subtitle": "Algunas víctimas han sido halladas en el interior de vehículos alcanzados por las llamas, otro grupo de nueve personas trató de huir a pie, siete de ellas fallecieron",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260710/11588570/mueren-seis-personas-incendio-forestal-gallardos.html",
-      "scraped_at": "2026-07-10T09:51:06Z"
+      "title": "Aprender de las tragedias",
+      "subtitle": "Es posible que haya un antes y un después en la prevención de incendios después de la tragedia de Los Gallardos, en Almería, como ha sucedido con tantos sucesos dramáticos en la historia de este país. Después de la dana de Valencia, las autoridades de Protección Civil han...",
+      "url": "https://www.lavanguardia.com/opinion/20260711/11589513/aprender-tragedias.html",
+      "scraped_at": "2026-07-11T08:11:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La prensa internacional lamenta la tragedia “sin precedentes”",
-      "subtitle": "El consejero de Sanidad, Presidencia y Emergencias de la Junta de Andalucía afirma que “la mayoría o la totalidad” de las once víctimas mortales del incendio forestal son extranjeras",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260710/11588845/prensa-internacional-lamenta-tragedia-precedentes-incendio-almeria.html",
-      "scraped_at": "2026-07-10T09:51:07Z"
+      "title": "Por qué no se envió el ES-Alert en el incendio de los Gallardos",
+      "subtitle": "El presidente de la Junta asegura que un mensaje ES-Alert hubiera “generado más confusión”",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260710/11589328/mensaje-alert-hubiera-generado-mas-confusion-dice-moreno.html",
+      "scraped_at": "2026-07-11T08:11:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España quiere enterrar definitivamente el recuerdo del KO en el Mundial '86 ante Bélgica",
-      "subtitle": "La selección española se vuelve a cruzar con los belgas en unos cuartos de final",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260710/11588530/espana-belgica-mundial-2026-cuartos-de-final.html",
-      "scraped_at": "2026-07-10T09:51:07Z"
+      "title": "España está en semifinales del Mundial gracias a otro gol de fábula de Merino",
+      "subtitle": "La selección española se cita con Francia tras sudar de lo lindo ante Bélgica",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260710/11589472/espana-belgica-cuartos-de-final-mundial-2026-resumen.html",
+      "scraped_at": "2026-07-11T08:11:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Francia, un poder absolutista que arrolla lo que encuentra a su paso",
-      "subtitle": "El conjunto 'bleu' ejerce de favorito desde el minuto 1, minimiza a un Marruecos muy cohibido y lo elimina con goles de Mbappé y Dembélé",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260710/11588567/francia-poder-absolutista-arrolla-encuentra-paso-marruecos.html",
-      "scraped_at": "2026-07-10T09:51:07Z"
+      "title": "España cambia su historia",
+      "subtitle": "La selección suma ya 36 partidos sin perder, su mejor racha de siempre, y se cita con una Francia a la que ha ganado dos veces seguidas",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260711/11589516/espana-cambia-historia.html",
+      "scraped_at": "2026-07-11T08:11:56Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Díaz carga contra Feijóo: “Es un radical que siempre ha gobernado contra los trabajadores”",
-      "subtitle": "La vicepresidenta del Gobierno critica que sus afirmaciones “le inhabilitan para gobernar España”",
-      "url": "https://www.lavanguardia.com/economia/20260709/11588222/diaz-carga-feijoo-bajas-laborales-radical-economico-siempre-gobernado-trabajadores.html",
-      "scraped_at": "2026-07-10T09:51:08Z"
+      "title": "GasN2, Pyme del año 2026 de Barcelona",
+      "subtitle": "El Premio convocado por el Banco Santander y Cámara de Comercio de España reconoce aspectos esenciales en la contribución de las pymes a la sociedad",
+      "url": "https://www.lavanguardia.com/economia/20260711/11588915/gasn2-pyme-ano-2026-barcelona-brl.html",
+      "scraped_at": "2026-07-11T08:11:57Z"
     }
   ]
 }
