@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Silencio y olor a quemado: en el epicentro del incendio de Almería: La zona cero del incendio entre Los Gallardos y Bédar (Almería) muestra un paisaje de ceniza, casas marcadas por la Guardia Civil y vecinos que regresan para descubrir los estragos del fuego; El idioma complica la atención psicológica a los familiares de la tragedia: La mayoría de las llamadas que atienden son de ciudadanos británicos que no saben cómo proceder ante la situación; La mala fortuna de Jérôme y Stéphanie: «Llegaron dos días antes del incendio»: La pareja francesa, que había llegado dos días antes para pasar sus vacaciones en la localidad almeriense, intentó escapar del incendio que rodeó su vivienda. Jérôme logró huir a pie entre las llamas, mientras Stéphanie quedó atrapada en el coche, donde falleció. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-11T08:11:55Z",
+  "summary": "Resumen del día en ABC.es: Los vecinos que decidieron resistir en Bédar: «Si se hubieran quedado en las casas ahora estarían vivos»: Las comunicaciones están totalmente cerradas. El incendio destruyó la fibra óptica y repetidores, no hay red wifi y apenas cobertura; «Estoy convencido de que amañó el voto por correo»: El exalcalde de Vega de Pas, Víctor Gómez Arroyo, y otros vecinos del pueblo relatan algunos de los más «sucios» episodios de la 'fontanera' de Ferraz en su época cántabra; Los jueces ven el 'lawfare' como un «invento político inoculado» a la sociedad: Alertan de que Moncloa ha lanzado un «misil» para «demoler» la confianza ciudadana en la justicia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-12T08:29:37Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Silencio y olor a quemado: en el epicentro del incendio de Almería",
-      "subtitle": "La zona cero del incendio entre Los Gallardos y Bédar (Almería) muestra un paisaje de ceniza, casas marcadas por la Guardia Civil y vecinos que regresan para descubrir los estragos del fuego",
-      "url": "https://www.abc.es/espana/andalucia/almeria/segunda-croni-20260710020630-nts.html",
-      "scraped_at": "2026-07-11T08:11:53Z"
+      "title": "Los vecinos que decidieron resistir en Bédar: «Si se hubieran quedado en las casas ahora estarían vivos»",
+      "subtitle": "Las comunicaciones están totalmente cerradas. El incendio destruyó la fibra óptica y repetidores, no hay red wifi y apenas cobertura",
+      "url": "https://www.abc.es/espana/andalucia/almeria/vecinos-decidieron-resistir-bedar-quedado-casas-vivos-20260712013456-nts.html",
+      "scraped_at": "2026-07-12T08:29:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "El idioma complica la atención psicológica a los familiares de la tragedia",
-      "subtitle": "La mayoría de las llamadas que atienden son de ciudadanos británicos que no saben cómo proceder ante la situación",
-      "url": "https://www.abc.es/espana/andalucia/almeria/idioma-complica-atencion-psicologica-familiares-incendio-almeria-20260711020847-nts.html",
-      "scraped_at": "2026-07-11T08:11:53Z"
+      "title": "«Estoy convencido de que amañó el voto por correo»",
+      "subtitle": "El exalcalde de Vega de Pas, Víctor Gómez Arroyo, y otros vecinos del pueblo relatan algunos de los más «sucios» episodios de la 'fontanera' de Ferraz en su época cántabra",
+      "url": "https://www.abc.es/espana/cantabria/primera-cloaca-leire-diez-inicios-cantabria-convencido-20260712014041-nt.html",
+      "scraped_at": "2026-07-12T08:29:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "La mala fortuna de Jérôme y Stéphanie: «Llegaron dos días antes del incendio»",
-      "subtitle": "La pareja francesa, que había llegado dos días antes para pasar sus vacaciones en la localidad almeriense, intentó escapar del incendio que rodeó su vivienda. Jérôme logró huir a pie entre las llamas, mientras Stéphanie quedó atrapada en el coche, donde falleció",
-      "url": "https://www.abc.es/espana/andalucia/almeria/mala-fortuna-gerome-stephanie-llegaron-bedar-dos-20260710201037-nts.html",
-      "scraped_at": "2026-07-11T08:11:54Z"
+      "title": "Los jueces ven el 'lawfare' como un «invento político inoculado» a la sociedad",
+      "subtitle": "Alertan de que Moncloa ha lanzado un «misil» para «demoler» la confianza ciudadana en la justicia",
+      "url": "https://www.abc.es/espana/judicatura-lawfare-invento-politico-inoculado-sociedad-20260712014118-nt.html",
+      "scraped_at": "2026-07-12T08:29:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "España, perfecta para arder: «Entramos en julio en condiciones de finales de agosto»",
-      "subtitle": "El calor adelantado e intenso de los últimos meses provoca que la península tenga índices de humedad y sequedad en suelo y vegetación equivalentes al periodo de máximo riesgo",
-      "url": "https://www.abc.es/sociedad/espana-perfectas-condiciones-arder-entrado-julio-situacion-20260710020939-nt.html",
-      "scraped_at": "2026-07-11T08:11:54Z"
+      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
+      "subtitle": "Durante su declaración en la Audiencia Nacional, el magistrado le preguntó en distintas ocasiones por ese encuentro que dijo no recordar",
+      "url": "https://www.abc.es/espana/juez-sospecha-zapatero-comio-sanchez-tratar-rescate-20260709014050-nt.html",
+      "scraped_at": "2026-07-12T08:29:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Rosa, quesera de Cabrales: «Es difícil encontrar trabajadores. Mi hijo continuará mientras tenga leche»",
-      "subtitle": "Una de las últimas maestras queseras de Asturias alerta sobre la falta de relevo generacional y las dificultades que amenazan la supervivencia del...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/rosa-quesera-cabrales-dificil-encontrar-trabajadores-mi-hijo-continuara-tenga-leche-no-incorporan-ganaderos-piden-cuadras-500-000-euros-20260711_3384731.html",
-      "scraped_at": "2026-07-11T08:11:55Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-12T08:29:37Z"
     }
   ]
 }

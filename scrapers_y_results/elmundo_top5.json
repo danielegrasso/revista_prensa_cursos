@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: En la trampa mortal de los que huían por el camino equivocado: \"Parece que ha pasado el demonio\": Al menos 12 personas, la mayoría británicos y belgas, perdieron la vida cuando huían de un incendio que se generó en la cuneta de una carretera en Los Gallardos (Almería); Evacuados de sus casas por el incendio de Los Gallardos: \"Mi madre vivió la dana en Paiporta, yo recién operado y ahora esto\": Agradecen el altruismo de los ayuntamientos y la labor de la UME y los bomberos, pero muestran malestar por la información desactualizada de la Junta de Andalucía; Anatomía del trágico incendio de Almería: de la rotura del tendido eléctrico a la ratonera de coches que dejó 12 muertos: El fuego, que aún no ha sido extinguido, ha arrasado 3.150 hectáreas y provocado la evacuación de 1.405 vecinos de la zona. Hasta 23 personas siguen sin localizar y los cuatro heridos muy graves continúan hospitalizados. La principal hipótesis que estudian las autoridades es una rotura del tendido eléctrico. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-11T08:11:48Z",
+  "summary": "Resumen del día en El Mundo: Cientos de vecinos salvaron la vida por minutos en una evacuación dramática: \"Todo fue muy rápido. Desde el coche miramos hacia abajo y en media hora todo estaba ardiendo\": Habitantes de Los Gallardos, Bédar o Lubrín se preguntan por los que dejaron atrás, mientras la evolución del incendio comienza a ser positiva y se plantean las primeras dudas sobre los planes de protección; Sebastián luchó contra el fuego con su manguera: \"Traté de apagar las llamas también con cubos, pero avanzaban rapidísimo\": Las llamas rodearon la casa de este vecino de Bédar, que fue desalojado a causa del incendio y que ahora pide volver \"aunque sea a pie\" para cuidar de sus animales, a los que dejó dentro de la vivienda; Los dos supervivientes de la caravana mortal de Bédar se encuentran en la unidad de quemados: Se salvaron de la trampa de fuego donde murieron sus siete compañeros y están ingresados, junto a otros dos heridos muy graves, en el Virgen del Rocío de Sevilla. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-07-12T08:29:32Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "En la trampa mortal de los que huían por el camino equivocado: \"Parece que ha pasado el demonio\"",
-      "subtitle": "Al menos 12 personas, la mayoría británicos y belgas, perdieron la vida cuando huían de un incendio que se generó en la cuneta de una carretera en Los Gallardos (Almería)",
-      "url": "https://www.elmundo.es/espana/2026/07/10/6a51581721efa03e378b45bc.html",
-      "scraped_at": "2026-07-11T08:11:47Z"
+      "title": "Cientos de vecinos salvaron la vida por minutos en una evacuación dramática: \"Todo fue muy rápido. Desde el coche miramos hacia abajo y en media hora todo estaba ardiendo\"",
+      "subtitle": "Habitantes de Los Gallardos, Bédar o Lubrín se preguntan por los que dejaron atrás, mientras la evolución del incendio comienza a ser positiva y se plantean las primeras dudas sobre los planes de protección",
+      "url": "https://www.elmundo.es/andalucia/2026/07/11/6a52844ce85ecea6218b45bd.html",
+      "scraped_at": "2026-07-12T08:29:31Z"
     },
     {
       "source": "El Mundo",
-      "title": "Evacuados de sus casas por el incendio de Los Gallardos: \"Mi madre vivió la dana en Paiporta, yo recién operado y ahora esto\"",
-      "subtitle": "Agradecen el altruismo de los ayuntamientos y la labor de la UME y los bomberos, pero muestran malestar por la información desactualizada de la Junta de Andalucía",
-      "url": "https://www.elmundo.es/espana/2026/07/11/6a515494fdddffcc448b4599.html",
-      "scraped_at": "2026-07-11T08:11:47Z"
+      "title": "Sebastián luchó contra el fuego con su manguera: \"Traté de apagar las llamas también con cubos, pero avanzaban rapidísimo\"",
+      "subtitle": "Las llamas rodearon la casa de este vecino de Bédar, que fue desalojado a causa del incendio y que ahora pide volver \"aunque sea a pie\" para cuidar de sus animales, a los que dejó dentro de la vivienda",
+      "url": "https://www.elmundo.es/andalucia/2026/07/12/6a52876821efa0d56a8b457e.html",
+      "scraped_at": "2026-07-12T08:29:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Anatomía del trágico incendio de Almería: de la rotura del tendido eléctrico a la ratonera de coches que dejó 12 muertos",
-      "subtitle": "El fuego, que aún no ha sido extinguido, ha arrasado 3.150 hectáreas y provocado la evacuación de 1.405 vecinos de la zona. Hasta 23 personas siguen sin localizar y los cuatro heridos muy graves continúan hospitalizados. La principal hipótesis que estudian las autoridades es una rotura del tendido eléctrico",
-      "url": "https://www.elmundo.es/andalucia/2026/07/10/6a50ed8ce9cf4a80578b45a5.html",
-      "scraped_at": "2026-07-11T08:11:47Z"
+      "title": "Los dos supervivientes de la caravana mortal de Bédar se encuentran en la unidad de quemados",
+      "subtitle": "Se salvaron de la trampa de fuego donde murieron sus siete compañeros y están ingresados, junto a otros dos heridos muy graves, en el Virgen del Rocío de Sevilla",
+      "url": "https://www.elmundo.es/andalucia/2026/07/12/6a5242ee21efa03c3a8b4582.html",
+      "scraped_at": "2026-07-12T08:29:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "\"Nos quedamos aquí, no tenemos a donde ir\", jubilados británicos que resisten en el cámping de Los Gallardos pese al desalojo",
-      "subtitle": "El recinto está prácticamente vacío y no hay ninguna actividad. Las caravanas están cerradas y en las terrazas de las viviendas no hay niños jugando ni grupos de amigos charlando animadamente",
-      "url": "https://www.elmundo.es/espana/2026/07/11/6a515a84e9cf4a0e1a8b458b.html",
-      "scraped_at": "2026-07-11T08:11:48Z"
+      "title": "La mediación de Zapatero en la guerra contra las universidades privadas: el Gobierno suavizó la 'ley antichiringuitos' tras atender el ex presidente las quejas de campus de Planeta",
+      "subtitle": "Mauricio Casals le remitió las \"prioridades\" de la UNIE y de la VIU para mejorar el borrador del decreto",
+      "url": "https://www.elmundo.es/espana/2026/07/11/6a5271b9e85ececa7c8b45b3.html",
+      "scraped_at": "2026-07-12T08:29:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "España Bélgica",
-      "subtitle": "Empuja un rechace del portero en el minuto 88 y lleva a España al penúltimo escalón tras otro ejercicio de competitividad contra Bélgica. El próximo martes, en Dallas, espera Francia",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/10/6a513e27fdddffa3518b4578.html",
-      "scraped_at": "2026-07-11T08:11:48Z"
+      "title": "Carta del director",
+      "subtitle": "La cumbre de la OTAN en Ankara mostró hasta qué punto el vínculo transatlántico se ha degradado y ha dejado de ser una comunidad reconocible de valores y confianza para convertirse en la administración cautelosa del temperamento histriónico del inquilino de la Casa Blanca",
+      "url": "https://www.elmundo.es/opinion/columnistas/2026/07/11/6a52780ee85ece25728b4572.html",
+      "scraped_at": "2026-07-12T08:29:32Z"
     }
   ]
 }

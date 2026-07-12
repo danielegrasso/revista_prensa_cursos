@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España: El cambio climático genera un nuevo patrón meteorológico: tras una primavera seca y muy calurosa, las olas de calor severo han terminado por crear la condiciones para una secuencia casi continuada de incendios forestales; Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería: Las llamas han calcinado 3.800 hectáreas. Los expertos recomiendan permanecer \"en un refugio adecuado\" o evacuar \"de forma temprana siguiendo exclusivamente las instrucciones\" de los servicios de emergencias; Infantino: la Tierra es redonda como una pelota de fútbol: Se exhibe una y otra vez ante las 211 federaciones de fútbol de los distintos países del mundo que integran la FIFA para llenar sus arcas a cambio de un voto. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-11T08:11:52Z",
+  "summary": "Resumen del día en elDiario.es: El calor dispara las muertes en España a cifras sin precedentes y amenaza al sistema sanitario: Este ha sido el junio mas mortífero por las altas temperaturas desde 2017; el mes de mayo sumó más decesos atribuidos al calor que en los cinco años anteriores juntos; y en los primeros nueve días de julio se han registrado 622 fallecimientos relacionados; El antes y después del incendio de Almería, con imágenes de satélite: El territorio calcinado en Los Gallardos ya supera las 6.600 hectáreas; El desinterés de jueces y fiscales deja impunes las principales operaciones ilegales de las cloacas del PP: Las investigaciones de las maniobras de la policía política contra los adversarios del Gobierno de Mariano Rajoy siguen paralizadas, olvidadas o al borde del archivo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-12T08:29:36Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y 12 muertos por los incendios en España",
-      "subtitle": "El cambio climático genera un nuevo patrón meteorológico: tras una primavera seca y muy calurosa, las olas de calor severo han terminado por crear la condiciones para una secuencia casi continuada de incendios forestales",
-      "url": "https://www.eldiario.es/sociedad/calor-extremo-deja-30-000-hectareas-arrasadas-miles-evacuados-12-muertos-incendios-espana_1_13372118.html",
-      "scraped_at": "2026-07-11T08:11:49Z"
+      "title": "El calor dispara las muertes en España a cifras sin precedentes y amenaza al sistema sanitario",
+      "subtitle": "Este ha sido el junio mas mortífero por las altas temperaturas desde 2017; el mes de mayo sumó más decesos atribuidos al calor que en los cinco años anteriores juntos; y en los primeros nueve días de julio se han registrado 622 fallecimientos relacionados",
+      "url": "https://www.eldiario.es/sociedad/calor-dispara-muertes-espana-cifras-precedentes-amenaza-sistema-sanitario_1_13368785.html",
+      "scraped_at": "2026-07-12T08:29:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería",
-      "subtitle": "Las llamas han calcinado 3.800 hectáreas. Los expertos recomiendan permanecer \"en un refugio adecuado\" o evacuar \"de forma temprana siguiendo exclusivamente las instrucciones\" de los servicios de emergencias",
-      "url": "https://www.eldiario.es/sociedad/hay-actuar-no-incendio-forestal-almeria_1_13372538.html",
-      "scraped_at": "2026-07-11T08:11:50Z"
+      "title": "El antes y después del incendio de Almería, con imágenes de satélite",
+      "subtitle": "El territorio calcinado en Los Gallardos ya supera las 6.600 hectáreas",
+      "url": "https://www.eldiario.es/sociedad/despues-incendio-almeria-imagenes-satelite_1_13373561.html",
+      "scraped_at": "2026-07-12T08:29:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Infantino: la Tierra es redonda como una pelota de fútbol",
-      "subtitle": "Se exhibe una y otra vez ante las 211 federaciones de fútbol de los distintos países del mundo que integran la FIFA para llenar sus arcas a cambio de un voto",
-      "url": "https://www.eldiario.es/opinion/gianni-infantino-tierra-redonda-pelota-futbol_129_13371505.html",
-      "scraped_at": "2026-07-11T08:11:50Z"
+      "title": "El desinterés de jueces y fiscales deja impunes las principales operaciones ilegales de las cloacas del PP",
+      "subtitle": "Las investigaciones de las maniobras de la policía política contra los adversarios del Gobierno de Mariano Rajoy siguen paralizadas, olvidadas o al borde del archivo",
+      "url": "https://www.eldiario.es/politica/desinteres-jueces-fiscales-deja-impunes-principales-operaciones-ilegales-cloacas-pp_129_13372214.html",
+      "scraped_at": "2026-07-12T08:29:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El presidente de los obispos revienta la sintonía del Gobierno y la Iglesia: “Se cargó el discurso del Papa”",
-      "subtitle": "Negociadores de ambas partes, que tratan de forma informal de rebajar los decibelios, consideran “incomprensibles” las palabras del presidente de la CEE: \"Siempre que el Gobierno está contra las cuerdas, hay alguna declaración de nuestro lado que le da oxígeno”",
-      "url": "https://www.eldiario.es/sociedad/presidente-obispos-revienta-buena-sintonia-gobierno-iglesia-cargado-discurso-papa_1_13371225.html",
-      "scraped_at": "2026-07-11T08:11:51Z"
+      "title": "Sánchez se prepara para un tórrido julio judicial pero recibe como un balón de oxígeno el recelo a la actuación de algunos togados",
+      "subtitle": "El Gobierno se recrea en “los patinazos” de Feijóo sobre el absentismo y los derechos laborales mientras espera esta semana la sentencia sobre el hermano del presidente, la resolución de la Audiencia Provincial sobre el caso Begoña Gomez y un revés del Congreso al techo de gasto",
+      "url": "https://www.eldiario.es/politica/sanchez-prepara-torrido-julio-judicial-recibe-balon-oxigeno-recelo-ciudadano-actuacion-togados_129_13372117.html",
+      "scraped_at": "2026-07-12T08:29:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Incendios España",
-      "subtitle": "Consulta en directo las últimas cifras de los fuegos que arrasan hectáreas forestales y de terreno en esta temporada de incendios de 2026 a partir de los datos más actualizados a partir de imágenes de satélite",
-      "url": "https://www.eldiario.es/sociedad/mapa-incendios-activos-espana-2026-avanzan-zonas-han-quemado_1_13369396.html",
-      "scraped_at": "2026-07-11T08:11:52Z"
+      "title": "Experimentos republicanos",
+      "subtitle": "El Gobierno acaba de retirar la Gran Cruz de la Sanidad al psiquiatra oficial de la dictadura, que convirtió en laboratorios un campo de concentración y una cárcel de mujeres para intentar demostrar \"las raíces biopsíquicas del marxismo\", una teoría que legitimó prácticas represivas durante el franquismo",
+      "url": "https://www.eldiario.es/sociedad/experimentos-vallejo-najera-presos-republicanos-autorizo-franco-hay-aprovechar-material-humano_1_13361578.html",
+      "scraped_at": "2026-07-12T08:29:36Z"
     }
   ]
 }
