@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Los vecinos que decidieron resistir en Bédar: «Si se hubieran quedado en las casas ahora estarían vivos»: Las comunicaciones están totalmente cerradas. El incendio destruyó la fibra óptica y repetidores, no hay red wifi y apenas cobertura; «Estoy convencido de que amañó el voto por correo»: El exalcalde de Vega de Pas, Víctor Gómez Arroyo, y otros vecinos del pueblo relatan algunos de los más «sucios» episodios de la 'fontanera' de Ferraz en su época cántabra; Los jueces ven el 'lawfare' como un «invento político inoculado» a la sociedad: Alertan de que Moncloa ha lanzado un «misil» para «demoler» la confianza ciudadana en la justicia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-12T08:29:37Z",
+  "summary": "Resumen del día en ABC.es: Uno de los empresarios del caso Leire tiene conversaciones con la 'fontanera' que ponen en aprietos al PSOE: Joaquín Parra asegura que se le presentó como una enviada del Gobierno y que \"hay más\" información que aportará al juez; Leire Díez, la sorprendente defensora del empleo femenino: Recomendó incluir estos datos en el informe del escrito de Tubos Reunidos para conseguir el rescate de la SEPI; El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera: La mayoría de las viviendas afectadas por el incendio de Los Gallardos, así como las víctimas mortales, se encontraban en caminos rurales de difícil acceso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-13T09:45:40Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Los vecinos que decidieron resistir en Bédar: «Si se hubieran quedado en las casas ahora estarían vivos»",
-      "subtitle": "Las comunicaciones están totalmente cerradas. El incendio destruyó la fibra óptica y repetidores, no hay red wifi y apenas cobertura",
-      "url": "https://www.abc.es/espana/andalucia/almeria/vecinos-decidieron-resistir-bedar-quedado-casas-vivos-20260712013456-nts.html",
-      "scraped_at": "2026-07-12T08:29:37Z"
+      "title": "Uno de los empresarios del caso Leire tiene conversaciones con la 'fontanera' que ponen en aprietos al PSOE",
+      "subtitle": "Joaquín Parra asegura que se le presentó como una enviada del Gobierno y que \"hay más\" información que aportará al juez",
+      "url": "https://www.abc.es/espana/empresario-leire-grabo-varias-conversaciones-ponen-aprietos-20260713013309-nt.html",
+      "scraped_at": "2026-07-13T09:45:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Estoy convencido de que amañó el voto por correo»",
-      "subtitle": "El exalcalde de Vega de Pas, Víctor Gómez Arroyo, y otros vecinos del pueblo relatan algunos de los más «sucios» episodios de la 'fontanera' de Ferraz en su época cántabra",
-      "url": "https://www.abc.es/espana/cantabria/primera-cloaca-leire-diez-inicios-cantabria-convencido-20260712014041-nt.html",
-      "scraped_at": "2026-07-12T08:29:37Z"
+      "title": "Leire Díez, la sorprendente defensora del empleo femenino",
+      "subtitle": "Recomendó incluir estos datos en el informe del escrito de Tubos Reunidos para conseguir el rescate de la SEPI",
+      "url": "https://www.abc.es/espana/leire-diez-asesora-sombra-empleo-femenino-20260701013556-nt.html",
+      "scraped_at": "2026-07-13T09:45:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los jueces ven el 'lawfare' como un «invento político inoculado» a la sociedad",
-      "subtitle": "Alertan de que Moncloa ha lanzado un «misil» para «demoler» la confianza ciudadana en la justicia",
-      "url": "https://www.abc.es/espana/judicatura-lawfare-invento-politico-inoculado-sociedad-20260712014118-nt.html",
-      "scraped_at": "2026-07-12T08:29:37Z"
+      "title": "El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera",
+      "subtitle": "La mayoría de las viviendas afectadas por el incendio de Los Gallardos, así como las víctimas mortales, se encontraban en caminos rurales de difícil acceso",
+      "url": "https://www.abc.es/espana/andalucia/almeria/incendio-bedar-saca-luz-decadas-urbanismo-ilegal-20260713020231-nts.html",
+      "scraped_at": "2026-07-13T09:45:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
-      "subtitle": "Durante su declaración en la Audiencia Nacional, el magistrado le preguntó en distintas ocasiones por ese encuentro que dijo no recordar",
-      "url": "https://www.abc.es/espana/juez-sospecha-zapatero-comio-sanchez-tratar-rescate-20260709014050-nt.html",
-      "scraped_at": "2026-07-12T08:29:37Z"
+      "title": "Telefónica se concentra en cuatro países europeos para hacer una gran operación",
+      "subtitle": "La operadora, obligada a crecer en un mercado saturado, no descarta tampoco más alianzas de negocios en España, Alemania, Italia y Reino Unido, precisamente siguiendo el modelo instalado en este último país",
+      "url": "https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt.html",
+      "scraped_at": "2026-07-13T09:45:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mundial 2026",
-      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
-      "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-12T08:29:37Z"
+      "title": "Yaya Bushcraft, construye en la montaña una cabaña aislada: «No creo que haya gastado más de 5.000 euros»",
+      "subtitle": "A sus 71 años, esta mujer levanta su futuro hogar en la montaña de Gerona para dejar de pagar alquiler y vivir \"sola\"&nbsp;",
+      "url": "https://www.cope.es/actualidad/economia/noticias/yaya-bushcraft-construye-montana-cabana-aislada-no-creo-haya-gastado-5-000-euros-troncos-me-regalaron-mi-69-cumpleanos-ue-he-pagado-sido-arena-cal-herramientas-20260713_3394456.html",
+      "scraped_at": "2026-07-13T09:45:40Z"
     }
   ]
 }
