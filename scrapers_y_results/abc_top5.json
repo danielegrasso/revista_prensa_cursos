@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Uno de los empresarios del caso Leire tiene conversaciones con la 'fontanera' que ponen en aprietos al PSOE: Joaquín Parra asegura que se le presentó como una enviada del Gobierno y que \"hay más\" información que aportará al juez; Leire Díez, la sorprendente defensora del empleo femenino: Recomendó incluir estos datos en el informe del escrito de Tubos Reunidos para conseguir el rescate de la SEPI; El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera: La mayoría de las viviendas afectadas por el incendio de Los Gallardos, así como las víctimas mortales, se encontraban en caminos rurales de difícil acceso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-13T09:45:40Z",
+  "summary": "Resumen del día en ABC.es: Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC; Las semifinales: Consulta los equipos clasificados, los emparejamientos del cuadro y cuándo son los partidos de semifinales y la final del Mundial 2026; El PSOE usa una empresa pública de Defensa como agencia de colocación: Isdefe, una sociedad estratégica en la tecnología militar, ha sido convertida en refugio para perfiles vinculados a Ferraz y a Moncloa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-14T08:25:52Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Uno de los empresarios del caso Leire tiene conversaciones con la 'fontanera' que ponen en aprietos al PSOE",
-      "subtitle": "Joaquín Parra asegura que se le presentó como una enviada del Gobierno y que \"hay más\" información que aportará al juez",
-      "url": "https://www.abc.es/espana/empresario-leire-grabo-varias-conversaciones-ponen-aprietos-20260713013309-nt.html",
-      "scraped_at": "2026-07-13T09:45:39Z"
+      "title": "Clasificación",
+      "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
+      "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
+      "scraped_at": "2026-07-14T08:25:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Leire Díez, la sorprendente defensora del empleo femenino",
-      "subtitle": "Recomendó incluir estos datos en el informe del escrito de Tubos Reunidos para conseguir el rescate de la SEPI",
-      "url": "https://www.abc.es/espana/leire-diez-asesora-sombra-empleo-femenino-20260701013556-nt.html",
-      "scraped_at": "2026-07-13T09:45:39Z"
+      "title": "Las semifinales",
+      "subtitle": "Consulta los equipos clasificados, los emparejamientos del cuadro y cuándo son los partidos de semifinales y la final del Mundial 2026",
+      "url": "https://www.abc.es/deportes/futbol/mundial/cuadro-mundial-2026-cruces-semifinales-calendario-equipos-20260713060000-nt.html",
+      "scraped_at": "2026-07-14T08:25:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera",
-      "subtitle": "La mayoría de las viviendas afectadas por el incendio de Los Gallardos, así como las víctimas mortales, se encontraban en caminos rurales de difícil acceso",
-      "url": "https://www.abc.es/espana/andalucia/almeria/incendio-bedar-saca-luz-decadas-urbanismo-ilegal-20260713020231-nts.html",
-      "scraped_at": "2026-07-13T09:45:39Z"
+      "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
+      "subtitle": "Isdefe, una sociedad estratégica en la tecnología militar, ha sido convertida en refugio para perfiles vinculados a Ferraz y a Moncloa",
+      "url": "https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html",
+      "scraped_at": "2026-07-14T08:25:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Telefónica se concentra en cuatro países europeos para hacer una gran operación",
-      "subtitle": "La operadora, obligada a crecer en un mercado saturado, no descarta tampoco más alianzas de negocios en España, Alemania, Italia y Reino Unido, precisamente siguiendo el modelo instalado en este último país",
-      "url": "https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt.html",
-      "scraped_at": "2026-07-13T09:45:40Z"
+      "title": "El abogado de Puigdemont le aconseja no volver a España aunque el TJUE le dé la razón",
+      "subtitle": "La defensa del expresidente catalán, que no acudirá a la lectura de la sentencia a Luxemburgo el próximo 16, no confía en las promesas de Sánchez",
+      "url": "https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html",
+      "scraped_at": "2026-07-14T08:25:52Z"
     },
     {
       "source": "ABC.es",
-      "title": "Yaya Bushcraft, construye en la montaña una cabaña aislada: «No creo que haya gastado más de 5.000 euros»",
-      "subtitle": "A sus 71 años, esta mujer levanta su futuro hogar en la montaña de Gerona para dejar de pagar alquiler y vivir \"sola\"&nbsp;",
-      "url": "https://www.cope.es/actualidad/economia/noticias/yaya-bushcraft-construye-montana-cabana-aislada-no-creo-haya-gastado-5-000-euros-troncos-me-regalaron-mi-69-cumpleanos-ue-he-pagado-sido-arena-cal-herramientas-20260713_3394456.html",
-      "scraped_at": "2026-07-13T09:45:40Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-14T08:25:52Z"
     }
   ]
 }
