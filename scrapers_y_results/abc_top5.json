@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Clasificación: Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC; Las semifinales: Consulta los equipos clasificados, los emparejamientos del cuadro y cuándo son los partidos de semifinales y la final del Mundial 2026; El PSOE usa una empresa pública de Defensa como agencia de colocación: Isdefe, una sociedad estratégica en la tecnología militar, ha sido convertida en refugio para perfiles vinculados a Ferraz y a Moncloa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-14T08:25:52Z",
+  "summary": "Resumen del día en ABC.es: UNA ESPAÑA COLOSAL, A LA FINAL: La selección disputará la final del Mundial después de un enorme esfuerzo colectivo y un derroche de ideas en ataque que culminaron Oyarzabal y Pedro Porro; Vídeo | Los históricos goles de Oyarzabal y Porro a Francia; Mbappé sufre hasta la vulgaridad: El delantero galo y sus cómplices, Dembélé, Olise, Barcola y Doué, se marchan del Mundial tras un partido gris en el que apenas inquietaron. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-15T08:33:05Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Clasificación",
-      "subtitle": "Consulta aquí todos los resultados de los partidos del Mundial 2026. Todos los goles y datos de los partidos de Mundial 2026 en ABC",
-      "url": "https://www.abc.es/deportes/futbol/mundial/2026/clasificacion-resultados-sd.html",
-      "scraped_at": "2026-07-14T08:25:51Z"
+      "title": "UNA ESPAÑA COLOSAL, A LA FINAL",
+      "subtitle": "La selección disputará la final del Mundial después de un enorme esfuerzo colectivo y un derroche de ideas en ataque que culminaron Oyarzabal y Pedro Porro",
+      "url": "https://www.abc.es/deportes/futbol/mundial/xx-20260714220915-nt.html",
+      "scraped_at": "2026-07-15T08:33:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las semifinales",
-      "subtitle": "Consulta los equipos clasificados, los emparejamientos del cuadro y cuándo son los partidos de semifinales y la final del Mundial 2026",
-      "url": "https://www.abc.es/deportes/futbol/mundial/cuadro-mundial-2026-cruces-semifinales-calendario-equipos-20260713060000-nt.html",
-      "scraped_at": "2026-07-14T08:25:51Z"
+      "title": "Vídeo | Los históricos goles de Oyarzabal y Porro a Francia",
+      "subtitle": "",
+      "url": "https://www.abc.es/deportes/futbol/mundial/video-resumen-goles-francia-espana-mundial-2026-20260714232320-ntrc.html",
+      "scraped_at": "2026-07-15T08:33:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
-      "subtitle": "Isdefe, una sociedad estratégica en la tecnología militar, ha sido convertida en refugio para perfiles vinculados a Ferraz y a Moncloa",
-      "url": "https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html",
-      "scraped_at": "2026-07-14T08:25:51Z"
+      "title": "Mbappé sufre hasta la vulgaridad",
+      "subtitle": "El delantero galo y sus cómplices, Dembélé, Olise, Barcola y Doué, se marchan del Mundial tras un partido gris en el que apenas inquietaron",
+      "url": "https://www.abc.es/deportes/futbol/mundial/maquina-perfecta-eclipsa-mbappe-complices-20260714230153-nt.html",
+      "scraped_at": "2026-07-15T08:33:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "El abogado de Puigdemont le aconseja no volver a España aunque el TJUE le dé la razón",
-      "subtitle": "La defensa del expresidente catalán, que no acudirá a la lectura de la sentencia a Luxemburgo el próximo 16, no confía en las promesas de Sánchez",
-      "url": "https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html",
-      "scraped_at": "2026-07-14T08:25:52Z"
+      "title": "Así vivió el mundo la «lección» de España, que «apagó las estrellas y tocó el cielo»",
+      "subtitle": "En Argentina destacan cómo la selección española «paró la máquina de Francia» mientras que en Italia analizan la «desaparición» de Mbappé y su equipo en el momento crucial",
+      "url": "https://www.abc.es/deportes/futbol/mundial/contemplo-mundo-bano-espana-francia-ganarse-final-20260715081155-nt.html",
+      "scraped_at": "2026-07-15T08:33:04Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-14T08:25:52Z"
+      "scraped_at": "2026-07-15T08:33:05Z"
     }
   ]
 }
