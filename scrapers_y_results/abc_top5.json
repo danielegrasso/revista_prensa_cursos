@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: UNA ESPAÑA COLOSAL, A LA FINAL: La selección disputará la final del Mundial después de un enorme esfuerzo colectivo y un derroche de ideas en ataque que culminaron Oyarzabal y Pedro Porro; Vídeo | Los históricos goles de Oyarzabal y Porro a Francia; Mbappé sufre hasta la vulgaridad: El delantero galo y sus cómplices, Dembélé, Olise, Barcola y Doué, se marchan del Mundial tras un partido gris en el que apenas inquietaron. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-15T08:33:05Z",
+  "summary": "Resumen del día en ABC.es: El TJUE avala la ley de Amnistía: La Justicia europea se pronuncia sobre los fondos europeos y el terrorismo, pero el destino de Puigdemont depende del Tribunal Constitucional y del Supremo; Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso: El teniente general Luis del Castillo transmitió al general jefe de la zona de Madrid, Fernando Mora, la «instrucción política» de Mercedes González de plantar al gobierno regional en el Día de la Comunidad de 2025; «El audio revela la operación de Sánchez para controlar a la Benemérita y conquistar Madrid»: La adjunta a la dirección en investigación de ABC da las claves de la exclusiva en la que un general denuncia a la cúpula de la Benemérita por coaccionarle para boicotear a Ayuso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-16T08:30:11Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "UNA ESPAÑA COLOSAL, A LA FINAL",
-      "subtitle": "La selección disputará la final del Mundial después de un enorme esfuerzo colectivo y un derroche de ideas en ataque que culminaron Oyarzabal y Pedro Porro",
-      "url": "https://www.abc.es/deportes/futbol/mundial/xx-20260714220915-nt.html",
-      "scraped_at": "2026-07-15T08:33:03Z"
+      "title": "El TJUE avala la ley de Amnistía",
+      "subtitle": "La Justicia europea se pronuncia sobre los fondos europeos y el terrorismo, pero el destino de Puigdemont depende del Tribunal Constitucional y del Supremo",
+      "url": "https://www.abc.es/espana/tjue-avala-ley-amnistia-20260716191306-nt.html",
+      "scraped_at": "2026-07-16T08:30:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vídeo | Los históricos goles de Oyarzabal y Porro a Francia",
-      "subtitle": "",
-      "url": "https://www.abc.es/deportes/futbol/mundial/video-resumen-goles-francia-espana-mundial-2026-20260714232320-ntrc.html",
-      "scraped_at": "2026-07-15T08:33:04Z"
+      "title": "Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso",
+      "subtitle": "El teniente general Luis del Castillo transmitió al general jefe de la zona de Madrid, Fernando Mora, la «instrucción política» de Mercedes González de plantar al gobierno regional en el Día de la Comunidad de 2025",
+      "url": "https://www.abc.es/espana/general-denuncia-cupula-guardia-civil-coaccionarle-boicotear-20260716192228-nt.html",
+      "scraped_at": "2026-07-16T08:30:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mbappé sufre hasta la vulgaridad",
-      "subtitle": "El delantero galo y sus cómplices, Dembélé, Olise, Barcola y Doué, se marchan del Mundial tras un partido gris en el que apenas inquietaron",
-      "url": "https://www.abc.es/deportes/futbol/mundial/maquina-perfecta-eclipsa-mbappe-complices-20260714230153-nt.html",
-      "scraped_at": "2026-07-15T08:33:04Z"
+      "title": "«El audio revela la operación de Sánchez para controlar a la Benemérita y conquistar Madrid»",
+      "subtitle": "La adjunta a la dirección en investigación de ABC da las claves de la exclusiva en la que un general denuncia a la cúpula de la Benemérita por coaccionarle para boicotear a Ayuso",
+      "url": "https://www.abc.es/espana/ketty-garat-audio-demuestra-operacion-pedro-sanchez-20260716021042-nt.html",
+      "scraped_at": "2026-07-16T08:30:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Así vivió el mundo la «lección» de España, que «apagó las estrellas y tocó el cielo»",
-      "subtitle": "En Argentina destacan cómo la selección española «paró la máquina de Francia» mientras que en Italia analizan la «desaparición» de Mbappé y su equipo en el momento crucial",
-      "url": "https://www.abc.es/deportes/futbol/mundial/contemplo-mundo-bano-espana-francia-ganarse-final-20260715081155-nt.html",
-      "scraped_at": "2026-07-15T08:33:04Z"
+      "title": "Madrid exige explicaciones al Gobierno por el «inaudito» boicot a Ayuso en el Dos de Mayo",
+      "subtitle": "El Ejecutivo regional reclama aclaraciones tras la información publicada por ABC sobre un presunto intento de perjudicar a la presidenta y expresa su respaldo a la Guardia Civil",
+      "url": "https://www.abc.es/espana/madrid-exige-explicaciones-gobierno-supuesto-boicot-ayuso-20260716095914-nt.html",
+      "scraped_at": "2026-07-16T08:30:11Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-15T08:33:05Z"
+      "scraped_at": "2026-07-16T08:30:11Z"
     }
   ]
 }
