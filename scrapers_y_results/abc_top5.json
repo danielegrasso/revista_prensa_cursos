@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El TJUE avala la ley de Amnistía: La Justicia europea se pronuncia sobre los fondos europeos y el terrorismo, pero el destino de Puigdemont depende del Tribunal Constitucional y del Supremo; Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso: El teniente general Luis del Castillo transmitió al general jefe de la zona de Madrid, Fernando Mora, la «instrucción política» de Mercedes González de plantar al gobierno regional en el Día de la Comunidad de 2025; «El audio revela la operación de Sánchez para controlar a la Benemérita y conquistar Madrid»: La adjunta a la dirección en investigación de ABC da las claves de la exclusiva en la que un general denuncia a la cúpula de la Benemérita por coaccionarle para boicotear a Ayuso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-16T08:30:11Z",
+  "summary": "Resumen del día en ABC.es: «¡No me toques los cojones!»: el 'dos' del DAO amenazó con cesar al general que se negó al boicot: El jefe del Mando de Operaciones de la Guardia Civil, Luis del Castillo, le espetó al máximo responsable jefe de la zona de Madrid y denunciante, Fernando Mora: «No te meto dos hostias porque no te tengo delante»; El mando coaccionado, en su discurso de jubilación: «No vendáis vuestra alma al diablo»: Fernando Mora, el mando que plantó cara a las presiones del Gobierno desveladas por ABC, alertó en su retiro sobre «ciertas derivas» e instó a huir de los intentos de instrumentalizar a la Benemérita; El Supremo tendrá la última palabra sobre Puigdemont tras el aval del TJUE a la amnistía: Lo hará cuando el Constitucional resuelva, a finales de año, los recursos de amparo del prófugo y de los condenados por la inaplicación de la ley a la malversación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-17T08:25:21Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El TJUE avala la ley de Amnistía",
-      "subtitle": "La Justicia europea se pronuncia sobre los fondos europeos y el terrorismo, pero el destino de Puigdemont depende del Tribunal Constitucional y del Supremo",
-      "url": "https://www.abc.es/espana/tjue-avala-ley-amnistia-20260716191306-nt.html",
-      "scraped_at": "2026-07-16T08:30:11Z"
+      "title": "«¡No me toques los cojones!»: el 'dos' del DAO amenazó con cesar al general que se negó al boicot",
+      "subtitle": "El jefe del Mando de Operaciones de la Guardia Civil, Luis del Castillo, le espetó al máximo responsable jefe de la zona de Madrid y denunciante, Fernando Mora: «No te meto dos hostias porque no te tengo delante»",
+      "url": "https://www.abc.es/espana/numero-dos-dao-amenazo-cesar-general-nego-20260717015124-nt.html",
+      "scraped_at": "2026-07-17T08:25:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso",
-      "subtitle": "El teniente general Luis del Castillo transmitió al general jefe de la zona de Madrid, Fernando Mora, la «instrucción política» de Mercedes González de plantar al gobierno regional en el Día de la Comunidad de 2025",
-      "url": "https://www.abc.es/espana/general-denuncia-cupula-guardia-civil-coaccionarle-boicotear-20260716192228-nt.html",
-      "scraped_at": "2026-07-16T08:30:11Z"
+      "title": "El mando coaccionado, en su discurso de jubilación: «No vendáis vuestra alma al diablo»",
+      "subtitle": "Fernando Mora, el mando que plantó cara a las presiones del Gobierno desveladas por ABC, alertó en su retiro sobre «ciertas derivas» e instó a huir de los intentos de instrumentalizar a la Benemérita",
+      "url": "https://www.abc.es/espana/general-coaccionado-boicotear-ayuso-discurso-jubilacion-vendais-20260716015143-nt.html",
+      "scraped_at": "2026-07-17T08:25:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "«El audio revela la operación de Sánchez para controlar a la Benemérita y conquistar Madrid»",
-      "subtitle": "La adjunta a la dirección en investigación de ABC da las claves de la exclusiva en la que un general denuncia a la cúpula de la Benemérita por coaccionarle para boicotear a Ayuso",
-      "url": "https://www.abc.es/espana/ketty-garat-audio-demuestra-operacion-pedro-sanchez-20260716021042-nt.html",
-      "scraped_at": "2026-07-16T08:30:11Z"
+      "title": "El Supremo tendrá la última palabra sobre Puigdemont tras el aval del TJUE a la amnistía",
+      "subtitle": "Lo hará cuando el Constitucional resuelva, a finales de año, los recursos de amparo del prófugo y de los condenados por la inaplicación de la ley a la malversación",
+      "url": "https://www.abc.es/espana/supremo-ultima-palabra-sobre-puigdemont-tras-aval-20260716015153-nt.html",
+      "scraped_at": "2026-07-17T08:25:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "Madrid exige explicaciones al Gobierno por el «inaudito» boicot a Ayuso en el Dos de Mayo",
-      "subtitle": "El Ejecutivo regional reclama aclaraciones tras la información publicada por ABC sobre un presunto intento de perjudicar a la presidenta y expresa su respaldo a la Guardia Civil",
-      "url": "https://www.abc.es/espana/madrid-exige-explicaciones-gobierno-supuesto-boicot-ayuso-20260716095914-nt.html",
-      "scraped_at": "2026-07-16T08:30:11Z"
+      "title": "La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»",
+      "subtitle": "Los magistrados dicen que basta con que existan «indicios de criminalidad» para proponer el juicio",
+      "url": "https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html",
+      "scraped_at": "2026-07-17T08:25:21Z"
     },
     {
       "source": "ABC.es",
       "title": "Mundial 2026",
       "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
       "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-16T08:30:11Z"
+      "scraped_at": "2026-07-17T08:25:21Z"
     }
   ]
 }

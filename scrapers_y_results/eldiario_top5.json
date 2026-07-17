@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La detención en Ibiza de un filántropo reclamado por EEUU enciende las alarmas sobre la represión de Trump a la causa palestina: El caso de James 'Fergie' Chambers el primero conocido en el que Estados Unidos solicita la extradición de un ciudadano acusado de apoyar a Hamás tras donar más de un millón de dólares a proyectos humanitarios para las víctimas del genocidio en Gaza; La ultraderecha usa el calor del cambio climático que niega para convertir el aire acondicionado en guerra cultural: Ha bastado que la ONU pida una \"política matizada\" para estos aparatos ya considerados herramientas muy útiles de adaptación al calor para que los negacionistas como Marine Le Pen o AfD acusen de “hacernos morir de calor” a la políticas verdes; Feijóo intenta ensuciar la imagen internacional de España mientras Sánchez intensifica relaciones en París y Gibraltar: \"España, más pronto que tarde, se incorporará al despertar democrático que permita reconstruir nuestras instituciones, nuestras libertades individuales y nuestras alianzas históricas\", afirma el líder del PP ante representantes conservadores de 42 países. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-16T08:30:10Z",
+  "summary": "Resumen del día en elDiario.es: Lo que la sentencia europea nos dice de Marchena y del Tribunal Supremo: La derecha judicial ha sufrido otra derrota en Europa, esta vez por la amnistía contra la que se manifestaron los jueces ante sus juzgados. No quiere renunciar a la victoria que supuso la decisión del Tribunal Supremo de olvidarse de la sentencia del procés para asumir todo el discurso del PP; La Audiencia Provincial suspende en casi todo al juez Peinado pero bendice su cacería contra Begoña Gómez: Cinco magistrados anulan dos de los cuatro delitos y las medidas cautelares contra la mujer del presidente pero avalan abrir juicio por tráfico de influencias y malversación; La trama civil y militar detrás del golpe de Estado de 1936 que no iba a liderar Franco: “Todo está ya en marcha”: Este 17 de julio se cumplen 90 años del golpe: las conspiraciones para derrocar la democracia se intensificaron a medida que lo hacía el descontento de una parte del Ejército y de las élites conservadoras, un clima que acabó cristalizando en el levantamiento militar dirigido por Mola y que debía encabezar Sanjurjo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-17T08:25:18Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La detención en Ibiza de un filántropo reclamado por EEUU enciende las alarmas sobre la represión de Trump a la causa palestina",
-      "subtitle": "El caso de James 'Fergie' Chambers el primero conocido en el que Estados Unidos solicita la extradición de un ciudadano acusado de apoyar a Hamás tras donar más de un millón de dólares a proyectos humanitarios para las víctimas del genocidio en Gaza",
-      "url": "https://www.eldiario.es/internacional/theguardian/detencion-ibiza-filantropo-reclamado-eeuu-enciende-alarmas-represion-trump-causa-palestina_1_13383342.html",
-      "scraped_at": "2026-07-16T08:30:07Z"
+      "title": "Lo que la sentencia europea nos dice de Marchena y del Tribunal Supremo",
+      "subtitle": "La derecha judicial ha sufrido otra derrota en Europa, esta vez por la amnistía contra la que se manifestaron los jueces ante sus juzgados. No quiere renunciar a la victoria que supuso la decisión del Tribunal Supremo de olvidarse de la sentencia del procés para asumir todo el discurso del PP",
+      "url": "https://www.eldiario.es/politica/sentencia-europea-dice-marchena-tribunal-supremo_129_13384744.html",
+      "scraped_at": "2026-07-17T08:25:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La ultraderecha usa el calor del cambio climático que niega para convertir el aire acondicionado en guerra cultural",
-      "subtitle": "Ha bastado que la ONU pida una \"política matizada\" para estos aparatos ya considerados herramientas muy útiles de adaptación al calor para que los negacionistas como Marine Le Pen o AfD acusen de “hacernos morir de calor” a la políticas verdes",
-      "url": "https://www.eldiario.es/sociedad/ultraderecha-calor-extremo-cambio-climatico-niega-convertir-aire-acondicionado-guerra-cultural_1_13380494.html",
-      "scraped_at": "2026-07-16T08:30:08Z"
+      "title": "La Audiencia Provincial suspende en casi todo al juez Peinado pero bendice su cacería contra Begoña Gómez",
+      "subtitle": "Cinco magistrados anulan dos de los cuatro delitos y las medidas cautelares contra la mujer del presidente pero avalan abrir juicio por tráfico de influencias y malversación",
+      "url": "https://www.eldiario.es/politica/audiencia-provincial-suspende-juez-peinado-bendice-caceria-begona-gomez_129_13385600.html",
+      "scraped_at": "2026-07-17T08:25:16Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo intenta ensuciar la imagen internacional de España mientras Sánchez intensifica relaciones en París y Gibraltar",
-      "subtitle": "\"España, más pronto que tarde, se incorporará al despertar democrático que permita reconstruir nuestras instituciones, nuestras libertades individuales y nuestras alianzas históricas\", afirma el líder del PP ante representantes conservadores de 42 países",
-      "url": "https://www.eldiario.es/politica/feijoo-ensuciar-imagen-internacional-espana-sanchez-intensifica-relaciones-paris-gibraltar_1_13382985.html",
-      "scraped_at": "2026-07-16T08:30:08Z"
+      "title": "La trama civil y militar detrás del golpe de Estado de 1936 que no iba a liderar Franco: “Todo está ya en marcha”",
+      "subtitle": "Este 17 de julio se cumplen 90 años del golpe: las conspiraciones para derrocar la democracia se intensificaron a medida que lo hacía el descontento de una parte del Ejército y de las élites conservadoras, un clima que acabó cristalizando en el levantamiento militar dirigido por Mola y que debía encabezar Sanjurjo",
+      "url": "https://www.eldiario.es/sociedad/trama-civil-militar-detras-golpe-1936-no-iba-liderar-franco-marcha_1_13381424.html",
+      "scraped_at": "2026-07-17T08:25:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "PSPV y Compromís denunciarán la “filtración” de datos de una investigación que aireó Vox",
-      "subtitle": "Los partidos anuncian acciones judiciales después de que un diputado de Vox sea pillado presumiendo de tener \"información privilegiada\" sobre una operación contra la trata de personas en Castellón, que usó para reforzar su discurso xenófobo: \"Esto no lo sabe nadie. Lo sé porque me lo ha dicho la fiscal\"",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pspv-compromis-denunciaran-filtracion-datos-investigacion-judicial-aireo-diputado-vox_1_13383267.html",
-      "scraped_at": "2026-07-16T08:30:09Z"
+      "title": "Trump mina el sistema electoral de EEUU recuperando el bulo del fraude de 2020 y acusando a China de hacerle perder",
+      "subtitle": "El presidente de EEUU, en una comparecencia sin preguntas, afirma: \"Esto es peor que en cualquier país del tercer mundo. No hay ningún país del tercer mundo con elecciones como las nuestras\"",
+      "url": "https://www.eldiario.es/internacional/trump-mina-sistema-electoral-eeuu-recuperando-bulo-fraude-acusando-china-hacerle-perder_1_13386831.html",
+      "scraped_at": "2026-07-17T08:25:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Audiencias TV",
-      "subtitle": "El pase de Argentina a la final del Mundial arrasa en RTVE con un 63.1% de share y 9.036.000 espectadores en su emisión en simulcast en La 1, Teledeporte y La2Cat. En la 1, el partido firma un enorme 57% de share y 8.171.000 televidentes. El encuentro, donde los de Leo Messi protagonizaron otra épica remontada ante Inglaterra, eleva a 'Maestros de la costura Celebrity' a un gran 17.2% de share y una media de 935.000 espectadores. El talent de moda logra su mejor cuota histórica en RTVE, incluyendo sus ediciones con anónimos, y se impone con rotundidad al resto de ofertas de la noche",
-      "url": "https://www.eldiario.es/vertele/audiencias-tv/argentina-deslumbra-rtve-pase-final-mundial-57-lleva-record-historico-maestros-costura_1_13383943.html",
-      "scraped_at": "2026-07-16T08:30:10Z"
+      "title": "Pedro Sánchez",
+      "subtitle": "Aunque el jefe del Ejecutivo tiene previsto otro viaje a Argelia el lunes Sánchez acudirá al partido en Nueva York",
+      "url": "https://www.eldiario.es/politica/pedro-sanchez-acudira-finalmente-final-mundial-espana-argentina_1_13387016.html",
+      "scraped_at": "2026-07-17T08:25:18Z"
     }
   ]
 }
