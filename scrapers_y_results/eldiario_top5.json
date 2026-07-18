@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Lo que la sentencia europea nos dice de Marchena y del Tribunal Supremo: La derecha judicial ha sufrido otra derrota en Europa, esta vez por la amnistía contra la que se manifestaron los jueces ante sus juzgados. No quiere renunciar a la victoria que supuso la decisión del Tribunal Supremo de olvidarse de la sentencia del procés para asumir todo el discurso del PP; La Audiencia Provincial suspende en casi todo al juez Peinado pero bendice su cacería contra Begoña Gómez: Cinco magistrados anulan dos de los cuatro delitos y las medidas cautelares contra la mujer del presidente pero avalan abrir juicio por tráfico de influencias y malversación; La trama civil y militar detrás del golpe de Estado de 1936 que no iba a liderar Franco: “Todo está ya en marcha”: Este 17 de julio se cumplen 90 años del golpe: las conspiraciones para derrocar la democracia se intensificaron a medida que lo hacía el descontento de una parte del Ejército y de las élites conservadoras, un clima que acabó cristalizando en el levantamiento militar dirigido por Mola y que debía encabezar Sanjurjo. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-17T08:25:18Z",
+  "summary": "Resumen del día en elDiario.es: La conjura de la derecha judicial contra el Gobierno y la ley de amnistía fracasa en Europa: Jueces y magistrados conservadores del Supremo, la Audiencia Nacional, audiencias provinciales, tribunales superiores y juzgados de instrucción usaron distintas vías para tumbar la norma avalada ahora por el Tribunal de Justicia de la Unión Europea; Feijóo pide pasar página del procés tras haber intentado tumbar la amnistía hasta el aval del TJUE: El PP ha pasado de calificar como “terroristas” a los independentistas y “prófugo” al expresidente de la Generalitat a relegar los hechos de 2017 al cajón de la historia; Las dos caras de la inversión del Estado: Murcia acapara seis veces más que Canarias y Madrid el triple que Catalunya: Una persona de Murcia recibió 590 euros en inversiones estatales en 2025, muy lejos de los 101 euros de los que se benefició un habitante del archipiélago canario. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-18T08:05:53Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Lo que la sentencia europea nos dice de Marchena y del Tribunal Supremo",
-      "subtitle": "La derecha judicial ha sufrido otra derrota en Europa, esta vez por la amnistía contra la que se manifestaron los jueces ante sus juzgados. No quiere renunciar a la victoria que supuso la decisión del Tribunal Supremo de olvidarse de la sentencia del procés para asumir todo el discurso del PP",
-      "url": "https://www.eldiario.es/politica/sentencia-europea-dice-marchena-tribunal-supremo_129_13384744.html",
-      "scraped_at": "2026-07-17T08:25:15Z"
+      "title": "La conjura de la derecha judicial contra el Gobierno y la ley de amnistía fracasa en Europa",
+      "subtitle": "Jueces y magistrados conservadores del Supremo, la Audiencia Nacional, audiencias provinciales, tribunales superiores y juzgados de instrucción usaron distintas vías para tumbar la norma avalada ahora por el Tribunal de Justicia de la Unión Europea",
+      "url": "https://www.eldiario.es/politica/conjura-derecha-judicial-gobierno-ley-amnistia-fracasa-europa_1_13386940.html",
+      "scraped_at": "2026-07-18T08:05:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Provincial suspende en casi todo al juez Peinado pero bendice su cacería contra Begoña Gómez",
-      "subtitle": "Cinco magistrados anulan dos de los cuatro delitos y las medidas cautelares contra la mujer del presidente pero avalan abrir juicio por tráfico de influencias y malversación",
-      "url": "https://www.eldiario.es/politica/audiencia-provincial-suspende-juez-peinado-bendice-caceria-begona-gomez_129_13385600.html",
-      "scraped_at": "2026-07-17T08:25:16Z"
+      "title": "Feijóo pide pasar página del procés tras haber intentado tumbar la amnistía hasta el aval del TJUE",
+      "subtitle": "El PP ha pasado de calificar como “terroristas” a los independentistas y “prófugo” al expresidente de la Generalitat a relegar los hechos de 2017 al cajón de la historia",
+      "url": "https://www.eldiario.es/politica/feijoo-pide-pasar-pagina-proces-haber-intentado-tumbar-amnistia-aval-tjue_1_13387782.html",
+      "scraped_at": "2026-07-18T08:05:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La trama civil y militar detrás del golpe de Estado de 1936 que no iba a liderar Franco: “Todo está ya en marcha”",
-      "subtitle": "Este 17 de julio se cumplen 90 años del golpe: las conspiraciones para derrocar la democracia se intensificaron a medida que lo hacía el descontento de una parte del Ejército y de las élites conservadoras, un clima que acabó cristalizando en el levantamiento militar dirigido por Mola y que debía encabezar Sanjurjo",
-      "url": "https://www.eldiario.es/sociedad/trama-civil-militar-detras-golpe-1936-no-iba-liderar-franco-marcha_1_13381424.html",
-      "scraped_at": "2026-07-17T08:25:17Z"
+      "title": "Las dos caras de la inversión del Estado: Murcia acapara seis veces más que Canarias y Madrid el triple que Catalunya",
+      "subtitle": "Una persona de Murcia recibió 590 euros en inversiones estatales en 2025, muy lejos de los 101 euros de los que se benefició un habitante del archipiélago canario",
+      "url": "https://www.eldiario.es/economia/caras-inversion-murcia-acapara-seis-veces-canarias-madrid-triple-catalunya_1_13388622.html",
+      "scraped_at": "2026-07-18T08:05:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump mina el sistema electoral de EEUU recuperando el bulo del fraude de 2020 y acusando a China de hacerle perder",
-      "subtitle": "El presidente de EEUU, en una comparecencia sin preguntas, afirma: \"Esto es peor que en cualquier país del tercer mundo. No hay ningún país del tercer mundo con elecciones como las nuestras\"",
-      "url": "https://www.eldiario.es/internacional/trump-mina-sistema-electoral-eeuu-recuperando-bulo-fraude-acusando-china-hacerle-perder_1_13386831.html",
-      "scraped_at": "2026-07-17T08:25:17Z"
+      "title": "Qué puede cambiar en el Reino Unido con Andy Burnham como nuevo primer ministro",
+      "subtitle": "El laborista que relevará este lunes a Keir Starmer se centrará en aliviar el coste de la vida, pero las estrecheces fiscales limitarán su acción. El nuevo líder promete presentar un mensaje más claro ante los decepcionados ciudadanos",
+      "url": "https://www.eldiario.es/internacional/cambiar-reino-unido-andy-burnham-nuevo-primer-ministro_1_13385888.html",
+      "scraped_at": "2026-07-18T08:05:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Sánchez",
-      "subtitle": "Aunque el jefe del Ejecutivo tiene previsto otro viaje a Argelia el lunes Sánchez acudirá al partido en Nueva York",
-      "url": "https://www.eldiario.es/politica/pedro-sanchez-acudira-finalmente-final-mundial-espana-argentina_1_13387016.html",
-      "scraped_at": "2026-07-17T08:25:18Z"
+      "title": "Última hora incendios",
+      "subtitle": "La  ola de incendios forestales está afectando con especial intensidad a varios puntos de España, siendo el foco más crítico el que avanza por la comarca de las Cinco Villas en Zaragoza. Convertido ya en el peor fuego de lo que va de verano, ha calcinado más de 15.000 hectáreas y ha forzado la evacuación de seis municipios. El dispositivo de emergencia reconoce que las llamas superan actualmente la capacidad de extinción, por lo que los trabajos se concentran en proteger los pueblos y mantener las líneas de defensa, con el temor añadido de que el impredecible \"viento loco\" racheado complique aún más la situación durante la noche.",
+      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-incendio-cinco-villas-supera-15-000-hectareas_133_13389919.html",
+      "scraped_at": "2026-07-18T08:05:53Z"
     }
   ]
 }
