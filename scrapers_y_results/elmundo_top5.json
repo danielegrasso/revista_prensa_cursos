@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos: La UCO destapa que el 'ex número dos' del PSOE gastó 323.000 euros en Servinabar en 10 años y movió mucho \"efectivo\" en la época de Ábalos en Transportes. Su mujer cobró 18.700 euros sin trabajar; El rastro del dinero de Cerdán: del Toyota RAV4 a los pagos de Acciona: La UCO ejemplifica con el 'renting' de un coche los pagos de la empresa al político; Zapatero rompe su silencio en EL MUNDO para defender la amnistía: \"Refuerza nuestro Estado de Derecho\": El ex presidente del Gobierno califica el fallo de \"histórico\" y aventura que zanjará \"la grave crisis política, institucional y social\" iniciada por el 'procés'. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-18T08:05:50Z",
+  "summary": "Resumen del día en El Mundo: España-Argentina, final para la Historia: Lamine y Messi lideran un partido con ingredientes para ser recordado siempre; \"A Argentina mucho respeto pero ningún miedo\": El hombre de moda en la selección charla con EL MUNDO horas antes de la final contra Argentina. Alegre, educado, mira a Messi con respeto, pero sin miedo. Con la sensación de que falta terminar la misión para la que están aquí; Inglaterra, bronce y Mbappé se resigna al pichichi provisional: Francia no pudo reponerse de una pésima primera parte que terminó 0-4. La reacción tras el descanso no fue suficiente, pese a los dos goles del madridista.. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-07-19T08:31:53Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
-      "subtitle": "La UCO destapa que el 'ex número dos' del PSOE gastó 323.000 euros en Servinabar en 10 años y movió mucho \"efectivo\" en la época de Ábalos en Transportes. Su mujer cobró 18.700 euros sin trabajar",
-      "url": "https://www.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html",
-      "scraped_at": "2026-07-18T08:05:48Z"
+      "title": "España-Argentina, final para la Historia",
+      "subtitle": "Lamine y Messi lideran un partido con ingredientes para ser recordado siempre",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b9a25fc6c83d20f8b459b.html",
+      "scraped_at": "2026-07-19T08:31:51Z"
     },
     {
       "source": "El Mundo",
-      "title": "El rastro del dinero de Cerdán: del Toyota RAV4 a los pagos de Acciona",
-      "subtitle": "La UCO ejemplifica con el 'renting' de un coche los pagos de la empresa al político",
-      "url": "https://www.elmundo.es/espana/2026/07/17/6a5a7dece85ece05068b458a.html",
-      "scraped_at": "2026-07-18T08:05:49Z"
+      "title": "\"A Argentina mucho respeto pero ningún miedo\"",
+      "subtitle": "El hombre de moda en la selección charla con EL MUNDO horas antes de la final contra Argentina. Alegre, educado, mira a Messi con respeto, pero sin miedo. Con la sensación de que falta terminar la misión para la que están aquí",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b8bffe9cf4aa26b8b45a2.html",
+      "scraped_at": "2026-07-19T08:31:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "Zapatero rompe su silencio en EL MUNDO para defender la amnistía: \"Refuerza nuestro Estado de Derecho\"",
-      "subtitle": "El ex presidente del Gobierno califica el fallo de \"histórico\" y aventura que zanjará \"la grave crisis política, institucional y social\" iniciada por el 'procés'",
-      "url": "https://www.elmundo.es/espana/2026/07/17/6a5a668721efa024788b45a1.html",
-      "scraped_at": "2026-07-18T08:05:49Z"
+      "title": "Inglaterra, bronce y Mbappé se resigna al pichichi provisional",
+      "subtitle": "Francia no pudo reponerse de una pésima primera parte que terminó 0-4. La reacción tras el descanso no fue suficiente, pese a los dos goles del madridista.",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ac482e85ece6b4d8b4570.html",
+      "scraped_at": "2026-07-19T08:31:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "Iniesta: ''Quiero que marque otro español y pueda sentir esa sensación indescriptible de silencio que yo viví''",
-      "subtitle": "El ex futbolista aconseja a España, ante su enfrentamiento con Argentina, que sea ''fiel a su identidad y estilo''. ''Que ganen y vivan lo que vivimos nosotros'', señala el ídolo que ahora reside en Dubái",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a5a7dc6fc6c83936e8b45a2.html",
-      "scraped_at": "2026-07-18T08:05:49Z"
+      "title": "Una final para abrazarse y una excepción: las pantallas gigantes que unirán a España",
+      "subtitle": "Madrid, Andalucía, Barcelona y multitud de ciudades y municipios reunirán a sus vecinos en plazas y auditorios para disfrutar del España-Argentina",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5a509321efa059768b458e.html",
+      "scraped_at": "2026-07-19T08:31:52Z"
     },
     {
       "source": "El Mundo",
-      "title": "Terremoto México",
-      "subtitle": "Las zonas de mayor afectación son las que están en el litoral de Chiapas y Oaxaca, en el sur mexicano",
-      "url": "https://www.elmundo.es/internacional/2026/07/17/6a5a4719fc6c832a098b4594.html",
-      "scraped_at": "2026-07-18T08:05:50Z"
+      "title": "Vivienda",
+      "subtitle": "Rafael García ha vivido 27 años con sus padres y ha retrasado sus proyectos de vida por no poder comprar un piso. Es parte del 85,5% de jóvenes que no han podido salir de la casa familiar en uno de los países con la edad de emancipación más altas de toda Europa",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/07/18/6a5b4f4afdddff8f768b457a.html",
+      "scraped_at": "2026-07-19T08:31:53Z"
     }
   ]
 }
