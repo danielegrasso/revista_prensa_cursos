@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Ganas de repetir: La final del Mundial convoca al arte colectivo de la selección española y a la esencia del fútbol, Argentina con Messi al frente; Lo que gana España: El Mundial ha dado un respiro al país, un paréntesis en medio de la consternación diaria y de una duda continua sobre la autoestima nacional; Ser o no ser: Argentina, el país de los tangos, las llanuras infinitas, el peronismo, el bife de chorizo y la hierba mate, se juega el alma. La derrota para nosotros será una amarga decepción, pero para los argentinos será una humillación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-19T08:32:00Z",
+  "summary": "Resumen del día en ABC.es: España invencible: Dieciséis años después, la selección conquista su segundo Mundial con un gol de Ferran en un partido memorable ante Argentina; España es eterna, España es campeona: los gráficos de la victoria ante Argentina: La Roja consigue su segundo Mundial con un gol de Ferran Torres en la prórroga (1-0) ante una selección argentina que no tiró a puerta en la final; De la Fuente, el gestor de grupos que aprovechó su oportunidad: Iñaki Sáez fue fundamental en la llegada de Luis de la Fuente a las categorías inferiores de la selección y su apuesta fue un acierto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-20T09:31:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Ganas de repetir",
-      "subtitle": "La final del Mundial convoca al arte colectivo de la selección española y a la esencia del fútbol, Argentina con Messi al frente",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-llama-puerta-paraiso-20260718000530-nt.html",
-      "scraped_at": "2026-07-19T08:31:58Z"
+      "title": "España invencible",
+      "subtitle": "Dieciséis años después, la selección conquista su segundo Mundial con un gol de Ferran en un partido memorable ante Argentina",
+      "url": "https://www.abc.es/deportes/futbol/mundial/espana-alcanza-eternidad-20260719000307-nt.html",
+      "scraped_at": "2026-07-20T09:31:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Lo que gana España",
-      "subtitle": "El Mundial ha dado un respiro al país, un paréntesis en medio de la consternación diaria y de una duda continua sobre la autoestima nacional",
-      "url": "https://www.abc.es/opinion/editorial-gana-espana-20260718193316-nt.html",
-      "scraped_at": "2026-07-19T08:31:59Z"
+      "title": "España es eterna, España es campeona: los gráficos de la victoria ante Argentina",
+      "subtitle": "La Roja consigue su segundo Mundial con un gol de Ferran Torres en la prórroga (1-0) ante una selección argentina que no tiró a puerta en la final",
+      "url": "https://www.abc.es/deportes/futbol/mundial/espana-eterna-espana-campeona-graficos-victoria-ante-20260720103234-nt.html",
+      "scraped_at": "2026-07-20T09:31:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ser o no ser",
-      "subtitle": "Argentina, el país de los tangos, las llanuras infinitas, el peronismo, el bife de chorizo y la hierba mate, se juega el alma. La derrota para nosotros será una amarga decepción, pero para los argentinos será una humillación",
-      "url": "https://www.abc.es/deportes/futbol/mundial/pedro-garcia-cuartango-ser-o-no-ser-20260718013259-nt.html",
-      "scraped_at": "2026-07-19T08:31:59Z"
+      "title": "De la Fuente, el gestor de grupos que aprovechó su oportunidad",
+      "subtitle": "Iñaki Sáez fue fundamental en la llegada de Luis de la Fuente a las categorías inferiores de la selección y su apuesta fue un acierto",
+      "url": "https://www.abc.es/deportes/futbol/mundial/gestor-grupos-aprovecho-oportunidad-20260719000437-ntrc.html",
+      "scraped_at": "2026-07-20T09:31:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "La balada de Yamal",
-      "subtitle": "El mérito de De la Fuente ha consistido precisamente en llevar a España hasta la final del Mundial sin el concurso de su teórico jugador franquicia",
-      "url": "https://www.abc.es/deportes/futbol/mundial/balada-yamal-20260718013313-nt.html",
-      "scraped_at": "2026-07-19T08:31:59Z"
+      "title": "Puñetazos, patadas, llaves de judo y amenazas: la rastrera forma de perder de Argentina",
+      "subtitle": "El ya subcampeón tuvo un comportamiento macarra tras el pitido final con varias agresiones a jugadores de la selección y la negativa a verle levantar la Copa del Mundo",
+      "url": "https://www.abc.es/deportes/futbol/mundial/punetazos-patadas-llaves-judo-amenazas-espaldas-campeon-20260720104320-nt.html",
+      "scraped_at": "2026-07-20T09:31:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mundial 2026",
-      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
-      "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-19T08:32:00Z"
+      "title": "Cristina Clemente, notaria: «Las joyas deben incluirse en el testamento, eso va a evitar que haya múltiples conflictos»",
+      "subtitle": "La experta Cristina Clemente detalla por qué es fundamental especificar el reparto de estas piezas y qué implicaciones fiscales tiene tanto para...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/cristina-clemente-notaria-joyas-deben-incluirse-testamento-evitar-haya-multiples-conflictos-familiares-posteriores-permitir-decidir-joya-sera-hijo-nieto-20260720_3401134.html",
+      "scraped_at": "2026-07-20T09:31:46Z"
     }
   ]
 }
