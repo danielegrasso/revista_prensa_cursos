@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: España invencible: Dieciséis años después, la selección conquista su segundo Mundial con un gol de Ferran en un partido memorable ante Argentina; España es eterna, España es campeona: los gráficos de la victoria ante Argentina: La Roja consigue su segundo Mundial con un gol de Ferran Torres en la prórroga (1-0) ante una selección argentina que no tiró a puerta en la final; De la Fuente, el gestor de grupos que aprovechó su oportunidad: Iñaki Sáez fue fundamental en la llegada de Luis de la Fuente a las categorías inferiores de la selección y su apuesta fue un acierto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-20T09:31:46Z",
+  "summary": "Resumen del día en ABC.es: Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra: En su declaración como investigado negó ejercer «absolutamente ninguna influencia en el rescate», mientras el intermediario habla de que pactaron cobrar una comisión de medio millón; Cargos del PSOE urgen a distanciarse del expresidente: «No podemos ser un escudo político»: La confesión de 'Julito' Martínez compromete al Gobierno que aprobó el rescate de Plus Ultra y defiende la inocencia del expresidente; «Juntos somos más fuertes: ¡Viva España!»: La selección culminó en el centro de Madrid la celebración del Mundial ante dos millones de personas. Merino, Cucurella, Lamine y Rodri, los más ovacionados. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-21T08:42:04Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "España invencible",
-      "subtitle": "Dieciséis años después, la selección conquista su segundo Mundial con un gol de Ferran en un partido memorable ante Argentina",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-alcanza-eternidad-20260719000307-nt.html",
-      "scraped_at": "2026-07-20T09:31:45Z"
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+      "subtitle": "En su declaración como investigado negó ejercer «absolutamente ninguna influencia en el rescate», mientras el intermediario habla de que pactaron cobrar una comisión de medio millón",
+      "url": "https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html",
+      "scraped_at": "2026-07-21T08:42:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "España es eterna, España es campeona: los gráficos de la victoria ante Argentina",
-      "subtitle": "La Roja consigue su segundo Mundial con un gol de Ferran Torres en la prórroga (1-0) ante una selección argentina que no tiró a puerta en la final",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-eterna-espana-campeona-graficos-victoria-ante-20260720103234-nt.html",
-      "scraped_at": "2026-07-20T09:31:45Z"
+      "title": "Cargos del PSOE urgen a distanciarse del expresidente: «No podemos ser un escudo político»",
+      "subtitle": "La confesión de 'Julito' Martínez compromete al Gobierno que aprobó el rescate de Plus Ultra y defiende la inocencia del expresidente",
+      "url": "https://www.abc.es/espana/dirigentes-psoe-urgen-distanciarse-zapatero-podemos-escudo-20260721014830-nt.html",
+      "scraped_at": "2026-07-21T08:42:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "De la Fuente, el gestor de grupos que aprovechó su oportunidad",
-      "subtitle": "Iñaki Sáez fue fundamental en la llegada de Luis de la Fuente a las categorías inferiores de la selección y su apuesta fue un acierto",
-      "url": "https://www.abc.es/deportes/futbol/mundial/gestor-grupos-aprovecho-oportunidad-20260719000437-ntrc.html",
-      "scraped_at": "2026-07-20T09:31:46Z"
+      "title": "«Juntos somos más fuertes: ¡Viva España!»",
+      "subtitle": "La selección culminó en el centro de Madrid la celebración del Mundial ante dos millones de personas. Merino, Cucurella, Lamine y Rodri, los más ovacionados",
+      "url": "https://www.abc.es/deportes/futbol/mundial/extasis-final-cibeles-campeones-mundo-juntos-fuertes-20260720233400-nt.html",
+      "scraped_at": "2026-07-21T08:42:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Puñetazos, patadas, llaves de judo y amenazas: la rastrera forma de perder de Argentina",
-      "subtitle": "El ya subcampeón tuvo un comportamiento macarra tras el pitido final con varias agresiones a jugadores de la selección y la negativa a verle levantar la Copa del Mundo",
-      "url": "https://www.abc.es/deportes/futbol/mundial/punetazos-patadas-llaves-judo-amenazas-espaldas-campeon-20260720104320-nt.html",
-      "scraped_at": "2026-07-20T09:31:46Z"
+      "title": "Complicidad con el Rey, frialdad con Sánchez y una rúa para la historia",
+      "subtitle": "Los jugadores de la selección celebraron por todo lo alto y ante más de dos millones de personas el título mundialista en las calles de Madrid",
+      "url": "https://www.abc.es/deportes/futbol/mundial/complicidad-rey-frialdad-sanchez-rua-historia-20260720215130-nt.html",
+      "scraped_at": "2026-07-21T08:42:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cristina Clemente, notaria: «Las joyas deben incluirse en el testamento, eso va a evitar que haya múltiples conflictos»",
-      "subtitle": "La experta Cristina Clemente detalla por qué es fundamental especificar el reparto de estas piezas y qué implicaciones fiscales tiene tanto para...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/cristina-clemente-notaria-joyas-deben-incluirse-testamento-evitar-haya-multiples-conflictos-familiares-posteriores-permitir-decidir-joya-sera-hijo-nieto-20260720_3401134.html",
-      "scraped_at": "2026-07-20T09:31:46Z"
+      "title": "Mundial 2026",
+      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
+      "url": "https://www.abc.es/deportes/futbol/mundial/",
+      "scraped_at": "2026-07-21T08:42:04Z"
     }
   ]
 }
