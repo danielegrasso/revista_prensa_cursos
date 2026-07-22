@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Los empresarios del caso Plus Ultra entregan al juez la cabeza de Zapatero al situarlo en el centro del rescate: Julio Martínez Martínez y los directivos de Plus Ultra señalan al expresidente como la persona que ofreció influir para lograr los 53 millones del préstamo público y detallan que la comisión del 1% se pagó a través de decenas de facturas mendaces desde tres mercantiles del comisionista; Plus Ultra duda que las gestiones de Zapatero influyeran realmente en la concesión del rescate: El presidente de la compañía aclara que pagó la mordida a un supuesto testaferro del expresidente \"desesperado\" ante la tardanza en aprobar la ayuda por parte de la SEPI; El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: “Ha borrado mensajes”: Los socialistas recurren directamente a la Audiencia Provincial y acusan a la magistrada Raquel Robles de una investigación \"sesgada\" después de evitar el testimonio clave de los policías que identificaron a dos periodistas de El País y luego le entregaron los datos presuntamente al jefe de gabinete de Ayuso. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-21T08:42:02Z",
+  "summary": "Resumen del día en elDiario.es: Las delaciones de los empresarios contra Zapatero fuerzan al Gobierno a defender la limpieza del rescate a Plus Ultra: La portavoz Elma Saiz argumenta que el expediente pasó por las manos de varias instituciones y ninguna encontró irregularidades. Fuentes del Gobierno admiten que, en parte, su cierre de filas con Zapatero se debe a razones \"sentimentales\", aunque insisten en que no se han encontrado nuevos indicios contra él; Zapatero ya tiene a su propio Aldama: La declaración de Julio Martínez ante el juez cuestiona elementos básicos de lo que Zapatero testificó hace un mes en la Audiencia Nacional. El Gobierno mantiene su confianza en él, pero no sabe qué más puede aparecer en las próximas semanas o meses; El Gobierno de Guardiola modifica la plantilla de Educación para subir la categoría de la hermana del 'número dos' de la consejería: La orden que modifica la RPT intercambia la categoría salarial entre dos jefaturas de servicio, una decisión que beneficia a la familiar del secretario general de Educación, recién llegado al puesto. La consejería aduce que el objetivo es \"igualar\" los servicios. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-22T08:41:41Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Los empresarios del caso Plus Ultra entregan al juez la cabeza de Zapatero al situarlo en el centro del rescate",
-      "subtitle": "Julio Martínez Martínez y los directivos de Plus Ultra señalan al expresidente como la persona que ofreció influir para lograr los 53 millones del préstamo público y detallan que la comisión del 1% se pagó a través de decenas de facturas mendaces desde tres mercantiles del comisionista",
-      "url": "https://www.eldiario.es/politica/empresarios-caso-plus-ultra-entregan-juez-cabeza-zapatero-situarlo-centro-rescate_1_13394382.html",
-      "scraped_at": "2026-07-21T08:42:00Z"
+      "title": "Las delaciones de los empresarios contra Zapatero fuerzan al Gobierno a defender la limpieza del rescate a Plus Ultra",
+      "subtitle": "La portavoz Elma Saiz argumenta que el expediente pasó por las manos de varias instituciones y ninguna encontró irregularidades. Fuentes del Gobierno admiten que, en parte, su cierre de filas con Zapatero se debe a razones \"sentimentales\", aunque insisten en que no se han encontrado nuevos indicios contra él",
+      "url": "https://www.eldiario.es/politica/delaciones-empresarios-zapatero-fuerzan-gobierno-defender-limpieza-rescate-plus-ultra_1_13397254.html",
+      "scraped_at": "2026-07-22T08:41:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Plus Ultra duda que las gestiones de Zapatero influyeran realmente en la concesión del rescate",
-      "subtitle": "El presidente de la compañía aclara que pagó la mordida a un supuesto testaferro del expresidente \"desesperado\" ante la tardanza en aprobar la ayuda por parte de la SEPI",
-      "url": "https://www.eldiario.es/politica/plus-ultra-duda-gestiones-zapatero-influyeran-realmente-concesion-rescate_1_13394164.html",
-      "scraped_at": "2026-07-21T08:42:00Z"
+      "title": "Zapatero ya tiene a su propio Aldama",
+      "subtitle": "La declaración de Julio Martínez ante el juez cuestiona elementos básicos de lo que Zapatero testificó hace un mes en la Audiencia Nacional. El Gobierno mantiene su confianza en él, pero no sabe qué más puede aparecer en las próximas semanas o meses",
+      "url": "https://www.eldiario.es/politica/zapatero-propio-aldama_129_13396719.html",
+      "scraped_at": "2026-07-22T08:41:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: “Ha borrado mensajes”",
-      "subtitle": "Los socialistas recurren directamente a la Audiencia Provincial y acusan a la magistrada Raquel Robles de una investigación \"sesgada\" después de evitar el testimonio clave de los policías que identificaron a dos periodistas de El País y luego le entregaron los datos presuntamente al jefe de gabinete de Ayuso",
-      "url": "https://www.eldiario.es/politica/psoe-recupera-condena-fiscal-general-recurrir-archivo-miguel-angel-rodriguez-borrado-mensajes_1_13392980.html",
-      "scraped_at": "2026-07-21T08:42:01Z"
+      "title": "El Gobierno de Guardiola modifica la plantilla de Educación para subir la categoría de la hermana del 'número dos' de la consejería",
+      "subtitle": "La orden que modifica la RPT intercambia la categoría salarial entre dos jefaturas de servicio, una decisión que beneficia a la familiar del secretario general de Educación, recién llegado al puesto. La consejería aduce que el objetivo es \"igualar\" los servicios",
+      "url": "https://www.eldiario.es/extremadura/politica/gobierno-guardiola-modifica-plantilla-educacion-subir-categoria-hermana-numero-consejeria_1_13395244.html",
+      "scraped_at": "2026-07-22T08:41:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Trump recrudece la guerra comercial con Canadá y anuncia aranceles del 50%",
-      "subtitle": "Trump recurre al artículo 338 de la Ley de Comercio de 1930, que permite aranceles cuando el presidente de EEUU determina que un país extranjero discrimina o perjudica el comercio estadounidense, en este caso, según él, a los automóviles, el alcohol y los productos lácteos: ahora hay un plazo de 30 días tras la proclamación presidencial antes de entrar en vigor",
-      "url": "https://www.eldiario.es/internacional/trump-recrudece-guerra-comercial-canada-anuncia-aranceles-50_1_13394738.html",
-      "scraped_at": "2026-07-21T08:42:01Z"
+      "title": "Entrada gratis y sin agenda oficial hasta el martes: la escapada de Pérez Llorca para ver la final del mundial en Nueva York",
+      "subtitle": "El presidente de la Generalitat Valenciana asistió invitado por la Federación y pidió pagar su entrada, sin que en el Portal de Transparencia conste el viaje ni el obsequio, por encima de los 7.000 euros",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/entrada-gratis-agenda-oficial-martes-escapada-perez-llorca-ver-final-mundial-nueva-york_1_13395872.html",
+      "scraped_at": "2026-07-22T08:41:40Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ola de calor",
-      "subtitle": "El país vive el tercer episodio de calor extremo del año antes de que llegue el mes de agosto, una situación que no se había dado nunca antes de 2017 y que desde entonces ha sucedido tres veces; en 33 provincias este 2026 está siendo el año más cálido desde que existen registros",
-      "url": "https://www.eldiario.es/sociedad/espana-entra-ola-calor-inedita-temperaturas-45-grados_1_13392964.html",
-      "scraped_at": "2026-07-21T08:42:02Z"
+      "title": "Julio Iglesias",
+      "subtitle": "La querella presentada por el abogado del cantante denuncia conductas de los periodistas que nunca se produjeron y numerosos hechos inveraces",
+      "url": "https://www.eldiario.es/politica/querella-julio-iglesias-eldiario-falsedades-acusaciones-fundamento_129_13397281.html",
+      "scraped_at": "2026-07-22T08:41:41Z"
     }
   ]
 }
