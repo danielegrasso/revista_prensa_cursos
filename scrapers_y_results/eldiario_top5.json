@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Las delaciones de los empresarios contra Zapatero fuerzan al Gobierno a defender la limpieza del rescate a Plus Ultra: La portavoz Elma Saiz argumenta que el expediente pasó por las manos de varias instituciones y ninguna encontró irregularidades. Fuentes del Gobierno admiten que, en parte, su cierre de filas con Zapatero se debe a razones \"sentimentales\", aunque insisten en que no se han encontrado nuevos indicios contra él; Zapatero ya tiene a su propio Aldama: La declaración de Julio Martínez ante el juez cuestiona elementos básicos de lo que Zapatero testificó hace un mes en la Audiencia Nacional. El Gobierno mantiene su confianza en él, pero no sabe qué más puede aparecer en las próximas semanas o meses; El Gobierno de Guardiola modifica la plantilla de Educación para subir la categoría de la hermana del 'número dos' de la consejería: La orden que modifica la RPT intercambia la categoría salarial entre dos jefaturas de servicio, una decisión que beneficia a la familiar del secretario general de Educación, recién llegado al puesto. La consejería aduce que el objetivo es \"igualar\" los servicios. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-22T08:41:41Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT: El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\"; El Gobierno cierra el curso con opciones de aprobar el escudo anticrisis pero con una nueva derrota presupuestaria: El Congreso celebra este jueves la última sesión antes del parón de verano con un pleno escoba con el que dejará encarrilado el camino para la presentación de las nuevas cuentas aunque sin el aval a la senda de estabilidad; Ábalos denuncia ante Marlaska y el juez de Vigilancia Penitenciaria “represalias y sanciones indirectas” en prisión: El exministro explica en el escrito que se impidió el acceso a su pareja a un vis a vis solo por el \"marcaje\" de un perro policía y lamenta que no se realizara un cacheo de comprobación. Instituciones Penitenciarias asegura que si uno de los canes hace un \"marcaje lapa\" es porque huele o detecta una sustancia prohibida. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-23T08:42:42Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Las delaciones de los empresarios contra Zapatero fuerzan al Gobierno a defender la limpieza del rescate a Plus Ultra",
-      "subtitle": "La portavoz Elma Saiz argumenta que el expediente pasó por las manos de varias instituciones y ninguna encontró irregularidades. Fuentes del Gobierno admiten que, en parte, su cierre de filas con Zapatero se debe a razones \"sentimentales\", aunque insisten en que no se han encontrado nuevos indicios contra él",
-      "url": "https://www.eldiario.es/politica/delaciones-empresarios-zapatero-fuerzan-gobierno-defender-limpieza-rescate-plus-ultra_1_13397254.html",
-      "scraped_at": "2026-07-22T08:41:38Z"
+      "title": "El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT",
+      "subtitle": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\"",
+      "url": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html",
+      "scraped_at": "2026-07-23T08:42:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero ya tiene a su propio Aldama",
-      "subtitle": "La declaración de Julio Martínez ante el juez cuestiona elementos básicos de lo que Zapatero testificó hace un mes en la Audiencia Nacional. El Gobierno mantiene su confianza en él, pero no sabe qué más puede aparecer en las próximas semanas o meses",
-      "url": "https://www.eldiario.es/politica/zapatero-propio-aldama_129_13396719.html",
-      "scraped_at": "2026-07-22T08:41:39Z"
+      "title": "El Gobierno cierra el curso con opciones de aprobar el escudo anticrisis pero con una nueva derrota presupuestaria",
+      "subtitle": "El Congreso celebra este jueves la última sesión antes del parón de verano con un pleno escoba con el que dejará encarrilado el camino para la presentación de las nuevas cuentas aunque sin el aval a la senda de estabilidad",
+      "url": "https://www.eldiario.es/politica/gobierno-cierra-curso-opciones-aprobar-escudo-anticrisis-nueva-derrota-presupuestaria_1_13400109.html",
+      "scraped_at": "2026-07-23T08:42:40Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno de Guardiola modifica la plantilla de Educación para subir la categoría de la hermana del 'número dos' de la consejería",
-      "subtitle": "La orden que modifica la RPT intercambia la categoría salarial entre dos jefaturas de servicio, una decisión que beneficia a la familiar del secretario general de Educación, recién llegado al puesto. La consejería aduce que el objetivo es \"igualar\" los servicios",
-      "url": "https://www.eldiario.es/extremadura/politica/gobierno-guardiola-modifica-plantilla-educacion-subir-categoria-hermana-numero-consejeria_1_13395244.html",
-      "scraped_at": "2026-07-22T08:41:39Z"
+      "title": "Ábalos denuncia ante Marlaska y el juez de Vigilancia Penitenciaria “represalias y sanciones indirectas” en prisión",
+      "subtitle": "El exministro explica en el escrito que se impidió el acceso a su pareja a un vis a vis solo por el \"marcaje\" de un perro policía y lamenta que no se realizara un cacheo de comprobación. Instituciones Penitenciarias asegura que si uno de los canes hace un \"marcaje lapa\" es porque huele o detecta una sustancia prohibida",
+      "url": "https://www.eldiario.es/politica/abalos-denuncia-marlaska-juez-vigilancia-penitenciaria-represalias-sanciones-indirectas-prision_1_13399545.html",
+      "scraped_at": "2026-07-23T08:42:41Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Entrada gratis y sin agenda oficial hasta el martes: la escapada de Pérez Llorca para ver la final del mundial en Nueva York",
-      "subtitle": "El presidente de la Generalitat Valenciana asistió invitado por la Federación y pidió pagar su entrada, sin que en el Portal de Transparencia conste el viaje ni el obsequio, por encima de los 7.000 euros",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/entrada-gratis-agenda-oficial-martes-escapada-perez-llorca-ver-final-mundial-nueva-york_1_13395872.html",
-      "scraped_at": "2026-07-22T08:41:40Z"
+      "title": "Feijoomán, Arcadi Espada y la España siempre cabreada",
+      "subtitle": "Feijóo se presenta como un superhéroe para anunciar una \"limpieza a fondo\" si gana las elecciones que no se limitará a \"una gestión de los escombros heredados\", como si el país estuviera hundido en el fondo del precipicio",
+      "url": "https://www.eldiario.es/politica/feijooman-arcadi-espada-espana-cabreada_129_13399550.html",
+      "scraped_at": "2026-07-23T08:42:41Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Julio Iglesias",
-      "subtitle": "La querella presentada por el abogado del cantante denuncia conductas de los periodistas que nunca se produjeron y numerosos hechos inveraces",
-      "url": "https://www.eldiario.es/politica/querella-julio-iglesias-eldiario-falsedades-acusaciones-fundamento_129_13397281.html",
-      "scraped_at": "2026-07-22T08:41:41Z"
+      "title": "Incendios España",
+      "subtitle": "El avance de las llamas en Almorox afectó anoche a la cercana localidad madrileña de Villa del Prado, donde se tuvo que evacuar a la ultabización El Encinar del Alberche. Con este incendio aumentan las comunidades afectadas por los principales fuegos en lo que va de verano, con puntos activos en Castilla y León, Castilla-La Mancha, Aragón o Andalucía, entre otros.",
+      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-llamas-toledo-llegan-madrid-levantan-desalojos-mierla_133_13400528.html",
+      "scraped_at": "2026-07-23T08:42:42Z"
     }
   ]
 }
