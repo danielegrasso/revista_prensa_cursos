@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Moncloa ordena sostener a Zapatero para que no arrastre al Gobierno en el rescate: Dirigentes socialistas explican la defensa del expresidente en la necesidad de que las responsabilidades no escalen a la aprobación del préstamo; La UDEF sospechó de la conexión de Zapatero y Julio Martínez por una agenda de Plus Ultra: La investigadores destacaron que los movimientos políticos internacionales del amigo del expresidente no se correspondían con los de un empresario normal; Un Consejo de Ministros bajo sospecha por el caso: En ese cónclave que autorizó el rescate, el 9 de marzo del 2021, estaban sentadas, junto al PSOE, las actuales cúpulas de Podemos y Sumar. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-07-23T08:42:44Z",
+  "summary": "Resumen del día en ABC.es: Las explicaciones de Zapatero solo convencen a una parte del PSOE: En el partido creen que la entrevista obedece a la necesidad de proteger al Gobierno y «dar la cara»: «El silencio era ya insoportable»; Negativas ante un cúmulo de indicios: todos los temas que ha eludido el expresidente: Los informes de la UDEF y la investigación del juez José Luis Calama de la Audiencia Nacional apuntan a la comisión de hasta siete delitos por parte de José Luis Rodríguez Zapatero; El Gobierno declara la emergencia de interés nacional en Madrid y Ávila por los incendios: La decisión se ha tomado por la necesidad de movilizar un importante volumen de recursos de administraciones públicas diferentes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-07-24T08:39:18Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Moncloa ordena sostener a Zapatero para que no arrastre al Gobierno en el rescate",
-      "subtitle": "Dirigentes socialistas explican la defensa del expresidente en la necesidad de que las responsabilidades no escalen a la aprobación del préstamo",
-      "url": "https://www.abc.es/espana/moncloa-utiliza-zapatero-cortafuegos-gobierno-rescate-plus-20260723014022-nt.html",
-      "scraped_at": "2026-07-23T08:42:43Z"
+      "title": "Las explicaciones de Zapatero solo convencen a una parte del PSOE",
+      "subtitle": "En el partido creen que la entrevista obedece a la necesidad de proteger al Gobierno y «dar la cara»: «El silencio era ya insoportable»",
+      "url": "https://www.abc.es/espana/zapatero-convence-sectores-psoe-exigen-explicaciones-aclarado-20260724013026-nt.html",
+      "scraped_at": "2026-07-24T08:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "La UDEF sospechó de la conexión de Zapatero y Julio Martínez por una agenda de Plus Ultra",
-      "subtitle": "La investigadores destacaron que los movimientos políticos internacionales del amigo del expresidente no se correspondían con los de un empresario normal",
-      "url": "https://www.abc.es/espana/agenda-plus-ultra-clave-confesion-julio-martinez-20260723014039-nt.html",
-      "scraped_at": "2026-07-23T08:42:43Z"
+      "title": "Negativas ante un cúmulo de indicios: todos los temas que ha eludido el expresidente",
+      "subtitle": "Los informes de la UDEF y la investigación del juez José Luis Calama de la Audiencia Nacional apuntan a la comisión de hasta siete delitos por parte de José Luis Rodríguez Zapatero",
+      "url": "https://www.abc.es/espana/simples-negativas-ante-cumulo-indicios-temas-eludido-20260723013043-nt.html",
+      "scraped_at": "2026-07-24T08:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un Consejo de Ministros bajo sospecha por el caso",
-      "subtitle": "En ese cónclave que autorizó el rescate, el 9 de marzo del 2021, estaban sentadas, junto al PSOE, las actuales cúpulas de Podemos y Sumar",
-      "url": "https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html",
-      "scraped_at": "2026-07-23T08:42:43Z"
+      "title": "El Gobierno declara la emergencia de interés nacional en Madrid y Ávila por los incendios",
+      "subtitle": "La decisión se ha tomado por la necesidad de movilizar un importante volumen de recursos de administraciones públicas diferentes",
+      "url": "https://www.abc.es/sociedad/gobierno-declara-emergencia-interes-nacional-madrid-avila-20260724071256-nt.html",
+      "scraped_at": "2026-07-24T08:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
-      "subtitle": "Pedro Sánchez se felicita en redes sociales de la propuesta: «Es un honor anunciar la candidatura» de su vicepresidenta segunda",
-      "url": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html",
-      "scraped_at": "2026-07-23T08:42:43Z"
+      "title": "Los vecinos de La Mierla vuelven a casa: «Era mi pesadilla de cada verano y este año llegó»",
+      "subtitle": "La carretera de acceso al municipio se ha reabierto después de una semana cerrada, tras el incendio forestal que ha calcinado cerca de 32.000 hectáreas en la Sierra Norte de Guadalajara",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/vecinos-mierla-regresan-casas-tras-incendio-era-20260723073927-nt.html",
+      "scraped_at": "2026-07-24T08:39:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mundial 2026",
-      "subtitle": "Toda la información y actualidad sobre el Mundial de Fútbol 2026 que se celebra en Estados Unidos, México y Canadá. Resultados, calendarios, horarios y la última hora en ABC.",
-      "url": "https://www.abc.es/deportes/futbol/mundial/",
-      "scraped_at": "2026-07-23T08:42:44Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-07-24T08:39:18Z"
     }
   ]
 }

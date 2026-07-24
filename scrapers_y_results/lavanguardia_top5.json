@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno propone a Yolanda Díaz para dirigir la OIT: La decisión se tomará en octubre, pero si gana, la vicepresidenta no tomará posesión hasta octubre del 2027.; Zapatero se explica en televisión tras la declaración acusatoria de su amigo: Será la primera intervención del ex presidente del Gobierno desde que fue imputado por el juez José Luis Calama y después de que esta semana su amigo y socio, Julio Martínez, le señalara como el auténtico cerebro de los negocios que le han llevado ante los tribunales ...; Los turrones de Sánchez: Anda el Madrid político mucho más calentito de lo normal, y no tanto por las olas de calor, sino por las investigaciones judiciales que afectan a Pedro Sánchez y a su entorno. Los mentideros de la capital están llenos de especulaciones sobre los siguientes pasos que se van a.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-23T08:42:45Z",
+  "summary": "Resumen del día en La Vanguardia: El Gobierno declara la emergencia nacional en Madrid por los incendios: Esto ocurre después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, haya solicitado la medida, con la que el Ejecutivo central asume la dirección de todas las operaciones; Decenas de miles de personas evacuadas por el incendio cerca de Burdeos: Macron anuncia la llegada de aviones y helicópteros de extinción desde Croacia, Portugal, la República Checa y Eslovaquia; El calor extremo desborda a Europa. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-24T08:39:20Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno propone a Yolanda Díaz para dirigir la OIT",
-      "subtitle": "La decisión se tomará en octubre, pero si gana, la vicepresidenta no tomará posesión hasta octubre del 2027.",
-      "url": "https://www.lavanguardia.com/economia/20260723/11599117/gobierno-propone-yolanda-diaz-dirigir-oit.html",
-      "scraped_at": "2026-07-23T08:42:45Z"
+      "title": "El Gobierno declara la emergencia nacional en Madrid por los incendios",
+      "subtitle": "Esto ocurre después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, haya solicitado la medida, con la que el Ejecutivo central asume la dirección de todas las operaciones",
+      "url": "https://www.lavanguardia.com/politica/20260723/11599740/ayuso-pide-declarar-emergencia-interes-nacional-incendios-comunidad-madrid-servimedia20260723.html",
+      "scraped_at": "2026-07-24T08:39:19Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Zapatero se explica en televisión tras la declaración acusatoria de su amigo",
-      "subtitle": "Será la primera intervención del ex presidente del Gobierno desde que fue imputado por el juez José Luis Calama y después de que esta semana su amigo y socio, Julio Martínez, le señalara como el auténtico cerebro de los negocios que le han llevado ante los tribunales ...",
-      "url": "https://www.lavanguardia.com/politica/20260722/11598826/zapatero-concede-primera-entrevista-television-publica-imputacion.html",
-      "scraped_at": "2026-07-23T08:42:45Z"
+      "title": "Decenas de miles de personas evacuadas por el incendio cerca de Burdeos",
+      "subtitle": "Macron anuncia la llegada de aviones y helicópteros de extinción desde Croacia, Portugal, la República Checa y Eslovaquia",
+      "url": "https://www.lavanguardia.com/internacional/20260724/11600015/francia-pide-apoyo-aereo-ue-tres-grandes-incendios-azotan-pais.html",
+      "scraped_at": "2026-07-24T08:39:19Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los turrones de Sánchez",
-      "subtitle": "Anda el Madrid político mucho más calentito de lo normal, y no tanto por las olas de calor, sino por las investigaciones judiciales que afectan a Pedro Sánchez y a su entorno. Los mentideros de la capital están llenos de especulaciones sobre los siguientes pasos que se van a...",
-      "url": "https://www.lavanguardia.com/opinion/20260723/11598851/turrones-sanchez.html",
-      "scraped_at": "2026-07-23T08:42:45Z"
+      "title": "El calor extremo desborda a Europa",
+      "subtitle": "",
+      "url": "https://www.lavanguardia.com/natural/20260724/11598765/cambio-climatico-ola-calor-europa-alerta-temperatura.html",
+      "scraped_at": "2026-07-24T08:39:19Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El gordo y los monos sabios",
-      "subtitle": "Ya está a la venta la lotería de Navidad. El apresuramiento del presente no da tregua y procrastinar es de holgazanes. Lo que pueda hacerse hoy, no se deje para mañana. Si compramos las entradas de los conciertos a uno y dos años vista, nada de raro tiene hacerse con los décimos...",
-      "url": "https://www.lavanguardia.com/politica/20260723/11598821/gordo-monos-sabios.html",
-      "scraped_at": "2026-07-23T08:42:45Z"
+      "title": "Miquel Sàmper: “Hay que flexibilizar los horarios ante las olas de calor”",
+      "subtitle": "“Al final, habrá que recoger la fruta por la noche por culpa del calor”, apunta el conseller de Empresa i Treball",
+      "url": "https://www.lavanguardia.com/natural/20260724/11599635/miquel-samper-hay-flexibilizar-horarios-olas-calor.html",
+      "scraped_at": "2026-07-24T08:39:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Castigo europeo a la Bienal de Venecia",
-      "subtitle": "La Comisión Europea retira la subvención de dos millones de euros por permitir la reapertura del pabellón de Rusia",
-      "url": "https://www.lavanguardia.com/internacional/20260723/11598766/castigo-europeo-bienal-venecia.html",
-      "scraped_at": "2026-07-23T08:42:45Z"
+      "title": "¿Es mejor beber agua osmotizada?",
+      "subtitle": "La filtración por ósmosis produce un agua muy pura y neutra, pero eso no significa que sea más saludable que la del grifo o el agua mineral",
+      "url": "https://www.lavanguardia.com/comer/tendencias/20260724/11599171/mejor-beber-agua-osmotizada.html",
+      "scraped_at": "2026-07-24T08:39:20Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT: El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\"; El Gobierno cierra el curso con opciones de aprobar el escudo anticrisis pero con una nueva derrota presupuestaria: El Congreso celebra este jueves la última sesión antes del parón de verano con un pleno escoba con el que dejará encarrilado el camino para la presentación de las nuevas cuentas aunque sin el aval a la senda de estabilidad; Ábalos denuncia ante Marlaska y el juez de Vigilancia Penitenciaria “represalias y sanciones indirectas” en prisión: El exministro explica en el escrito que se impidió el acceso a su pareja a un vis a vis solo por el \"marcaje\" de un perro policía y lamenta que no se realizara un cacheo de comprobación. Instituciones Penitenciarias asegura que si uno de los canes hace un \"marcaje lapa\" es porque huele o detecta una sustancia prohibida. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-23T08:42:42Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez preside hoy la reunión de coordinación de emergencias tras complicarse los incendios: El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectación a Aldea del Fresno; otro en San Martín de Valdeiglesias, con afectación a Pelayos de la Presa, y otro en Almorox (Toledo), que se encuentra en fase de estabilización.; Bernie Sanders: “Trump está socavando la democracia”: \"No quiero que nadie en España piense que Trump habla en nombre del pueblo estadounidense cuando ataca a España\", afirma el senador por Vermont; Trump anuncia nuevos aranceles para más de 80 países, incluida España y sus socios europeos: Estos nuevos aranceles, entre el 10% y el 12,5%, llegan ante el inminente vencimiento de los gravámenes del 10% impuestos tras el varapalo del Supremo contra el mecanismo legal utilzado por el presidente de EEUU para su guerra comercial mundial desatada en abril de 2025. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-24T08:39:16Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno propone a Yolanda Díaz como candidata a dirigir la OIT",
-      "subtitle": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\"",
-      "url": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html",
-      "scraped_at": "2026-07-23T08:42:39Z"
+      "title": "Sánchez preside hoy la reunión de coordinación de emergencias tras complicarse los incendios",
+      "subtitle": "El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectación a Aldea del Fresno; otro en San Martín de Valdeiglesias, con afectación a Pelayos de la Presa, y otro en Almorox (Toledo), que se encuentra en fase de estabilización.",
+      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html",
+      "scraped_at": "2026-07-24T08:39:13Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno cierra el curso con opciones de aprobar el escudo anticrisis pero con una nueva derrota presupuestaria",
-      "subtitle": "El Congreso celebra este jueves la última sesión antes del parón de verano con un pleno escoba con el que dejará encarrilado el camino para la presentación de las nuevas cuentas aunque sin el aval a la senda de estabilidad",
-      "url": "https://www.eldiario.es/politica/gobierno-cierra-curso-opciones-aprobar-escudo-anticrisis-nueva-derrota-presupuestaria_1_13400109.html",
-      "scraped_at": "2026-07-23T08:42:40Z"
+      "title": "Bernie Sanders: “Trump está socavando la democracia”",
+      "subtitle": "\"No quiero que nadie en España piense que Trump habla en nombre del pueblo estadounidense cuando ataca a España\", afirma el senador por Vermont",
+      "url": "https://www.eldiario.es/internacional/bernie-sanders-trump-intentando-socavar-democracia_128_13400332.html",
+      "scraped_at": "2026-07-24T08:39:13Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ábalos denuncia ante Marlaska y el juez de Vigilancia Penitenciaria “represalias y sanciones indirectas” en prisión",
-      "subtitle": "El exministro explica en el escrito que se impidió el acceso a su pareja a un vis a vis solo por el \"marcaje\" de un perro policía y lamenta que no se realizara un cacheo de comprobación. Instituciones Penitenciarias asegura que si uno de los canes hace un \"marcaje lapa\" es porque huele o detecta una sustancia prohibida",
-      "url": "https://www.eldiario.es/politica/abalos-denuncia-marlaska-juez-vigilancia-penitenciaria-represalias-sanciones-indirectas-prision_1_13399545.html",
-      "scraped_at": "2026-07-23T08:42:41Z"
+      "title": "Trump anuncia nuevos aranceles para más de 80 países, incluida España y sus socios europeos",
+      "subtitle": "Estos nuevos aranceles, entre el 10% y el 12,5%, llegan ante el inminente vencimiento de los gravámenes del 10% impuestos tras el varapalo del Supremo contra el mecanismo legal utilzado por el presidente de EEUU para su guerra comercial mundial desatada en abril de 2025",
+      "url": "https://www.eldiario.es/economia/trump-anuncia-nuevos-aranceles-80-paises_1_13403341.html",
+      "scraped_at": "2026-07-24T08:39:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijoomán, Arcadi Espada y la España siempre cabreada",
-      "subtitle": "Feijóo se presenta como un superhéroe para anunciar una \"limpieza a fondo\" si gana las elecciones que no se limitará a \"una gestión de los escombros heredados\", como si el país estuviera hundido en el fondo del precipicio",
-      "url": "https://www.eldiario.es/politica/feijooman-arcadi-espada-espana-cabreada_129_13399550.html",
-      "scraped_at": "2026-07-23T08:42:41Z"
+      "title": "Qué se sabe del acuerdo nuclear entre EEUU y Arabia Saudí y por qué causa preocupación",
+      "subtitle": "EEUU ayudará a Arabia Saudí a establecer un programa nuclear con fines civiles, pero los críticos creen que puede permitir que enriquezca uranio y dispare la carrera armamentística en la región",
+      "url": "https://www.eldiario.es/internacional/theguardian/acuerdo-nuclear-eeuu-arabia-saudi-causa-preocupacion_1_13400747.html",
+      "scraped_at": "2026-07-24T08:39:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Incendios España",
-      "subtitle": "El avance de las llamas en Almorox afectó anoche a la cercana localidad madrileña de Villa del Prado, donde se tuvo que evacuar a la ultabización El Encinar del Alberche. Con este incendio aumentan las comunidades afectadas por los principales fuegos en lo que va de verano, con puntos activos en Castilla y León, Castilla-La Mancha, Aragón o Andalucía, entre otros.",
-      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-llamas-toledo-llegan-madrid-levantan-desalojos-mierla_133_13400528.html",
-      "scraped_at": "2026-07-23T08:42:42Z"
+      "title": "Zapatero",
+      "subtitle": "El desgaste del expresidente merece leerse con algo de humanidad, pero la empatía por el sufrimiento acumulado, los derechos vulnerados o el daño familiar no pueden sustituir el escrutinio sobre lo que sigue sin aclarar. Puede repetir cuantas veces quiera que es inocente  -tiene todo el derecho a decirlo mientras no se demuestre lo contrario—, pero una negación reiterada no es una prueba como, por cierto, tampoco lo es el testimonio de un empresario hasta que se contraste documentalmente",
+      "url": "https://www.eldiario.es/opinion/zona-critica/zapatero-rompe-silencio-no-dudas_129_13402552.html",
+      "scraped_at": "2026-07-24T08:39:16Z"
     }
   ]
 }
