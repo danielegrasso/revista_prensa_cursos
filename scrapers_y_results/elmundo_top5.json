@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Mandos de la Guardia Civil ante el fuego: \"Es un desastre, estamos desbordados\": Coinciden con los bomberos al concluir que se trata de una emergencia sin precedentes y \"de extrema gravedad\"; Eduardo Tolosana, experto en incendios: \"Los políticos no están reaccionando a la nueva situación, nos enfrentamos a auténticos monstruos\": El decano del Colegio Oficial de Ingenieros de Montes reclama un Pacto de Estado frente a incendios y denuncia que con frecuencia, los planes de actuación municipal obligatorios no se cumplen en España: \"Es algo que nos va a acabar trayendo una tragedia mayor que la de Almería\"; El desalojo de Sotillo de la Adrada en primera persona: \"No va a pasar nada, que está la Virgen de los Remedios con nosotros\": El humo obliga a evacuar Sotillo de la Adrada y, horas después, Cenicientos, mientras miles de vecinos ven como sus hogares se convierten en pueblos fantasma. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-26T08:37:49Z",
+  "summary": "Resumen del día en El Mundo: El éxodo de unos fuegos descontrolados: \"Nunca nos habíamos enfrentado a tantos desalojos\": La Guardia Civil despliega un cuerpo de élite para llevar a cabo las evacuaciones, que superan las 75.000. Los políticos entran en escena y llevan ya la reconstrucción al primer plano; El detenido por el incendio de Ávila llevaba varios días usando la maquinaria prohibida para abrir caminos en la zona: EL MUNDO accede a la declaración del operario, que dice que sólo movía el vehículo de sitio; El Gobierno declaró \"urgente\" modernizar los hidroaviones  en 2022, pero no ha renovado ni uno: El Ministerio reconoció que no actualizar las aeronaves anfibias de élite supondría \"una disminución relevante en la capacidad de extinción de incendios\", pero cuatro años después ha tenido que cancelar el contrato. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-07-27T10:06:19Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Mandos de la Guardia Civil ante el fuego: \"Es un desastre, estamos desbordados\"",
-      "subtitle": "Coinciden con los bomberos al concluir que se trata de una emergencia sin precedentes y \"de extrema gravedad\"",
-      "url": "https://www.elmundo.es/espana/2026/07/25/6a6510dafdddfff3038b4572.html",
-      "scraped_at": "2026-07-26T08:37:48Z"
+      "title": "El éxodo de unos fuegos descontrolados: \"Nunca nos habíamos enfrentado a tantos desalojos\"",
+      "subtitle": "La Guardia Civil despliega un cuerpo de élite para llevar a cabo las evacuaciones, que superan las 75.000. Los políticos entran en escena y llevan ya la reconstrucción al primer plano",
+      "url": "https://www.elmundo.es/espana/2026/07/26/6a666481e85ecef0408b4588.html",
+      "scraped_at": "2026-07-27T10:06:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Eduardo Tolosana, experto en incendios: \"Los políticos no están reaccionando a la nueva situación, nos enfrentamos a auténticos monstruos\"",
-      "subtitle": "El decano del Colegio Oficial de Ingenieros de Montes reclama un Pacto de Estado frente a incendios y denuncia que con frecuencia, los planes de actuación municipal obligatorios no se cumplen en España: \"Es algo que nos va a acabar trayendo una tragedia mayor que la de Almería\"",
-      "url": "https://www.elmundo.es/ciencia/2026/07/26/6a63565fe4d4d8da218b4587.html",
-      "scraped_at": "2026-07-26T08:37:48Z"
+      "title": "El detenido por el incendio de Ávila llevaba varios días usando la maquinaria prohibida para abrir caminos en la zona",
+      "subtitle": "EL MUNDO accede a la declaración del operario, que dice que sólo movía el vehículo de sitio",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a6665f1fdddff4f348b45a1.html",
+      "scraped_at": "2026-07-27T10:06:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "El desalojo de Sotillo de la Adrada en primera persona: \"No va a pasar nada, que está la Virgen de los Remedios con nosotros\"",
-      "subtitle": "El humo obliga a evacuar Sotillo de la Adrada y, horas después, Cenicientos, mientras miles de vecinos ven como sus hogares se convierten en pueblos fantasma",
-      "url": "https://www.elmundo.es/espana/2026/07/26/6a650988fdddff5d308b4575.html",
-      "scraped_at": "2026-07-26T08:37:49Z"
+      "title": "El Gobierno declaró \"urgente\" modernizar los hidroaviones  en 2022, pero no ha renovado ni uno",
+      "subtitle": "El Ministerio reconoció que no actualizar las aeronaves anfibias de élite supondría \"una disminución relevante en la capacidad de extinción de incendios\", pero cuatro años después ha tenido que cancelar el contrato",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a66393421efa0fc128b4583.html",
+      "scraped_at": "2026-07-27T10:06:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Éxodo de los caballos entre las llamas: \"Venían muy alterados, relinchando como locos\"",
-      "subtitle": "Tras una noche angustiosa para la comunidad ecuestre, Carlos Bernad recuerda que \"no sabía que hacer con los animales\".",
-      "url": "https://www.elmundo.es/espana/2026/07/26/6a65039ce9cf4a4b498b4587.html",
-      "scraped_at": "2026-07-26T08:37:49Z"
+      "title": "Los bomberos libran una \"carrera contrarreloj\" para sofocar el megaincendio de la Gironda",
+      "subtitle": "El avance de las llamas ya ha forzado la evacuación de 220.000 personas y ha arrasado 42.000 hectáreas de bosque a las puertas de Burdeos",
+      "url": "https://www.elmundo.es/ciencia/2026/07/27/6a672aa4e4d4d8fa058b4581.html",
+      "scraped_at": "2026-07-27T10:06:19Z"
     },
     {
       "source": "El Mundo",
-      "title": "Oscar Puente",
-      "subtitle": "\"Ellos ven bandos y muros donde nosotros solo vemos fuego\", dice el PP, que pide cooperación / El ministro eleva el choque político contra Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a633966fdddff03078b458b.html",
-      "scraped_at": "2026-07-26T08:37:49Z"
+      "title": "Begoña Gómez",
+      "subtitle": "El escrito presentado por Hazte Oír atribuye a la esposa del presidente del Gobierno un delito de tráfico de influencias y dos de malversación",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a671f21e4d4d8c8268b45a0.html",
+      "scraped_at": "2026-07-27T10:06:19Z"
     }
   ]
 }
