@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El éxodo de unos fuegos descontrolados: \"Nunca nos habíamos enfrentado a tantos desalojos\": La Guardia Civil despliega un cuerpo de élite para llevar a cabo las evacuaciones, que superan las 75.000. Los políticos entran en escena y llevan ya la reconstrucción al primer plano; El detenido por el incendio de Ávila llevaba varios días usando la maquinaria prohibida para abrir caminos en la zona: EL MUNDO accede a la declaración del operario, que dice que sólo movía el vehículo de sitio; El Gobierno declaró \"urgente\" modernizar los hidroaviones  en 2022, pero no ha renovado ni uno: El Ministerio reconoció que no actualizar las aeronaves anfibias de élite supondría \"una disminución relevante en la capacidad de extinción de incendios\", pero cuatro años después ha tenido que cancelar el contrato. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-27T10:06:19Z",
+  "summary": "Resumen del día en El Mundo: La gran evacuación de la historia de España: 73.000 desplazados por los incendios que devoran cuatro provincias: Los primeros vecinos que fueron desplazados de su casa, el pasado jueves, aún no han podido regresar: el desalojo masivo se alarga ya más de 100 horas; \"No da tiempo a nada. Los vecinos que no tenemos el fuego cerca estamos pensando: '¿Por qué nos desalojan?'\": La solidaridad y las actividades organizadas intentan aliviar una espera que empieza a hacerse insoportable; Chapinería, la 'zona cero': muros negros y objetos abandonados en el jardín entre nubes de ceniza: Las llamas avanzaron impulsadas por las altas temperaturas, la baja humedad y rachas de viento superiores a 50 kilómetros por hora, lo que hizo muy difícil su control. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-07-28T08:48:41Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El éxodo de unos fuegos descontrolados: \"Nunca nos habíamos enfrentado a tantos desalojos\"",
-      "subtitle": "La Guardia Civil despliega un cuerpo de élite para llevar a cabo las evacuaciones, que superan las 75.000. Los políticos entran en escena y llevan ya la reconstrucción al primer plano",
-      "url": "https://www.elmundo.es/espana/2026/07/26/6a666481e85ecef0408b4588.html",
-      "scraped_at": "2026-07-27T10:06:19Z"
+      "title": "La gran evacuación de la historia de España: 73.000 desplazados por los incendios que devoran cuatro provincias",
+      "subtitle": "Los primeros vecinos que fueron desplazados de su casa, el pasado jueves, aún no han podido regresar: el desalojo masivo se alarga ya más de 100 horas",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a67bf74fdddfff8058b456d.html",
+      "scraped_at": "2026-07-28T08:48:40Z"
     },
     {
       "source": "El Mundo",
-      "title": "El detenido por el incendio de Ávila llevaba varios días usando la maquinaria prohibida para abrir caminos en la zona",
-      "subtitle": "EL MUNDO accede a la declaración del operario, que dice que sólo movía el vehículo de sitio",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a6665f1fdddff4f348b45a1.html",
-      "scraped_at": "2026-07-27T10:06:19Z"
+      "title": "\"No da tiempo a nada. Los vecinos que no tenemos el fuego cerca estamos pensando: '¿Por qué nos desalojan?'\"",
+      "subtitle": "La solidaridad y las actividades organizadas intentan aliviar una espera que empieza a hacerse insoportable",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a67b96621efa061738b4586.html",
+      "scraped_at": "2026-07-28T08:48:40Z"
     },
     {
       "source": "El Mundo",
-      "title": "El Gobierno declaró \"urgente\" modernizar los hidroaviones  en 2022, pero no ha renovado ni uno",
-      "subtitle": "El Ministerio reconoció que no actualizar las aeronaves anfibias de élite supondría \"una disminución relevante en la capacidad de extinción de incendios\", pero cuatro años después ha tenido que cancelar el contrato",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a66393421efa0fc128b4583.html",
-      "scraped_at": "2026-07-27T10:06:19Z"
+      "title": "Chapinería, la 'zona cero': muros negros y objetos abandonados en el jardín entre nubes de ceniza",
+      "subtitle": "Las llamas avanzaron impulsadas por las altas temperaturas, la baja humedad y rachas de viento superiores a 50 kilómetros por hora, lo que hizo muy difícil su control",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a67b4d121efa027628b4570.html",
+      "scraped_at": "2026-07-28T08:48:41Z"
     },
     {
       "source": "El Mundo",
-      "title": "Los bomberos libran una \"carrera contrarreloj\" para sofocar el megaincendio de la Gironda",
-      "subtitle": "El avance de las llamas ya ha forzado la evacuación de 220.000 personas y ha arrasado 42.000 hectáreas de bosque a las puertas de Burdeos",
-      "url": "https://www.elmundo.es/ciencia/2026/07/27/6a672aa4e4d4d8fa058b4581.html",
-      "scraped_at": "2026-07-27T10:06:19Z"
+      "title": "El malestar de los agentes del Seprona: \"Los montes no se limpian y 2026 es un año complicado\"",
+      "subtitle": "La unidad advierte de que la maleza acumulada tras las lluvias ha alimentado la virulencia de los fuegos",
+      "url": "https://www.elmundo.es/espana/2026/07/27/6a67a36afdddffc43a8b45a0.html",
+      "scraped_at": "2026-07-28T08:48:41Z"
     },
     {
       "source": "El Mundo",
-      "title": "Begoña Gómez",
-      "subtitle": "El escrito presentado por Hazte Oír atribuye a la esposa del presidente del Gobierno un delito de tráfico de influencias y dos de malversación",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a671f21e4d4d8c8268b45a0.html",
-      "scraped_at": "2026-07-27T10:06:19Z"
+      "title": "Ábalos y Koldo",
+      "subtitle": "La Fiscalía sostiene que ambos condenados se limitan a reiterar argumentos ya rechazados por el Supremo y pide que asuman las costas",
+      "url": "https://www.elmundo.es/espana/2026/07/28/6a679e56fc6c8399658b45b8.html",
+      "scraped_at": "2026-07-28T08:48:41Z"
     }
   ]
 }

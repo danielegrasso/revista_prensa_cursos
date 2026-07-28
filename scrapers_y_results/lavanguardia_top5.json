@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El incendio incontrolado de la política: Cuando escribo este artículo, el ministro Óscar Puente hace 24 horas que no ha publicado un mensaje en X del que debería arrepentirse después, aunque no lo haga. No es que no haya seguido atizando a la presidenta madrileña, no, pero lo ha hecho sin escribir él las palabras. Solo...; El incendio de Burdeos da un respiro antes de la nueva ola de calor: El Gobierno francés habla de “un mazazo ecónomico” por culpa de los múltiples fuegos; El bajón de las renovables acrecienta la dependencia exterior de Catalunya: La energía limpia cubrió en el 2025 el 15,3% de la demanda y se aleja de los objetivos para el 2030. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-27T10:06:28Z",
+  "summary": "Resumen del día en La Vanguardia: Los afectados podrán cobrar una prestación durante cuatro meses: Incluye el cuidado de familiares, no exige cotización previa ni consume prestaciones futuras; Francia teme el “mazazo económico” por los incendios forestales: El fuego da un respiro en Burdeos antes de la nueva ola de calor; El paro cae de nuevo por debajo del 10% y queda en su nivel más bajo desde 2008: El mercado laboral suma 486.000 nuevos empleos y el paro cae en 231.000 personas en el segundo trimestre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-28T08:48:50Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El incendio incontrolado de la política",
-      "subtitle": "Cuando escribo este artículo, el ministro Óscar Puente hace 24 horas que no ha publicado un mensaje en X del que debería arrepentirse después, aunque no lo haga. No es que no haya seguido atizando a la presidenta madrileña, no, pero lo ha hecho sin escribir él las palabras. Solo...",
-      "url": "https://www.lavanguardia.com/politica/20260727/11601522/incendio-incontrolado-politica.html",
-      "scraped_at": "2026-07-27T10:06:27Z"
+      "title": "Los afectados podrán cobrar una prestación durante cuatro meses",
+      "subtitle": "Incluye el cuidado de familiares, no exige cotización previa ni consume prestaciones futuras",
+      "url": "https://www.lavanguardia.com/economia/20260728/11602679/nueva-prestacion-afectados-incendios-podra-cobrar-cuatro-meses.html",
+      "scraped_at": "2026-07-28T08:48:49Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El incendio de Burdeos da un respiro antes de la nueva ola de calor",
-      "subtitle": "El Gobierno francés habla de “un mazazo ecónomico” por culpa de los múltiples fuegos",
-      "url": "https://www.lavanguardia.com/internacional/20260727/11601805/incendio-burdeos-da-respiro-nueva-ola-calor.html",
-      "scraped_at": "2026-07-27T10:06:27Z"
+      "title": "Francia teme el “mazazo económico” por los incendios forestales",
+      "subtitle": "El fuego da un respiro en Burdeos antes de la nueva ola de calor",
+      "url": "https://www.lavanguardia.com/internacional/20260728/11602398/francia-teme-mazazo-economico-incendios-forestales.html",
+      "scraped_at": "2026-07-28T08:48:49Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El bajón de las renovables acrecienta la dependencia exterior de Catalunya",
-      "subtitle": "La energía limpia cubrió en el 2025 el 15,3% de la demanda y se aleja de los objetivos para el 2030",
-      "url": "https://www.lavanguardia.com/economia/20260727/11601527/bajon-renovables-acrecienta-dependencia-exterior-catalunya.html",
-      "scraped_at": "2026-07-27T10:06:27Z"
+      "title": "El paro cae de nuevo por debajo del 10% y queda en su nivel más bajo desde 2008",
+      "subtitle": "El mercado laboral suma 486.000 nuevos empleos y el paro cae en 231.000 personas en el segundo trimestre",
+      "url": "https://www.lavanguardia.com/economia/20260728/11602625/paro-cae-nuevo-debajo-10-queda-nivel-mas-2008.html",
+      "scraped_at": "2026-07-28T08:48:49Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Dos errores que Barcelona paga muy caro",
-      "subtitle": "La ciudad de los prodigios como definió a Barcelona el gran Eduardo Mendoza, también tiene defectos. Unos vienen del carácter milenario de la ciudad y poco se puede hacer. Pero otros, surgen de la tozudez de algunos de sus dirigentes que ejercen un aire de superioridad porque...",
-      "url": "https://www.lavanguardia.com/opinion/20260727/11601505/dos-errores-barcelona-paga-caro.html",
-      "scraped_at": "2026-07-27T10:06:27Z"
+      "title": "Sánchez defiende impulsar la agenda reformista",
+      "subtitle": "“El Gobierno no está paralizado”, advierten en la Moncloa ante el augurio de Feijóo de que la legislatura está agotada y solo pendiente de la disolución de las Cortes y la convocatoria de elecciones generales",
+      "url": "https://www.lavanguardia.com/politica/20260728/11602379/sanchez-defiende-impulsar-agenda-reformista-pese-posponer-decreto-vivienda.html",
+      "scraped_at": "2026-07-28T08:48:50Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El vino de la semana: Nace La Sierra 2024 de Carlos Mazo",
-      "subtitle": "De un proyecto desbordante en ilusión que reivindica lo mejor de la Rioja Oriental nace este vino de factura artesanal y de mínima intervención. Es aterciopelado y muy elegante",
-      "url": "https://www.lavanguardia.com/comer/20260726/11579186/vino-semana-nace-sierra-2024-carlos-mazo.html",
-      "scraped_at": "2026-07-27T10:06:28Z"
+      "title": "Margot Robbie recupera la controvertida moda de salir a la calle en pijama",
+      "subtitle": "La actriz se deja ver en París con un cómodo conjunto amarillo que confirma el regreso de esta tendencia que no gusta a todas",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260727/11602178/margot-robbie-recupera-controvertida-moda-salir-calle-pijama.html",
+      "scraped_at": "2026-07-28T08:48:50Z"
     }
   ]
 }
