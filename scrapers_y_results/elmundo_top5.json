@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La gran evacuación de la historia de España: 73.000 desplazados por los incendios que devoran cuatro provincias: Los primeros vecinos que fueron desplazados de su casa, el pasado jueves, aún no han podido regresar: el desalojo masivo se alarga ya más de 100 horas; \"No da tiempo a nada. Los vecinos que no tenemos el fuego cerca estamos pensando: '¿Por qué nos desalojan?'\": La solidaridad y las actividades organizadas intentan aliviar una espera que empieza a hacerse insoportable; Chapinería, la 'zona cero': muros negros y objetos abandonados en el jardín entre nubes de ceniza: Las llamas avanzaron impulsadas por las altas temperaturas, la baja humedad y rachas de viento superiores a 50 kilómetros por hora, lo que hizo muy difícil su control. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-28T08:48:41Z",
+  "summary": "Resumen del día en El Mundo: 'El Perejil' desató el mayor incendio de España contratado por los ganaderos: Un operario contratado por los ganaderos de Burgohondo inició el fuego picando piedra sin permiso con una máquina de ocho toneladas; Iván, propietario de siete casas rurales donde comenzó el incendio: \"Ayudadnos a contar que aquí está todo bien\": Los alojamientos rurales sufren una oleada de cancelaciones pese a que las llamas no alcanzaron el pueblo; Yo necesito un hidroavión, tú me das un eslogan: Tan dura como la lucha contra el fuego está siéndolo la de apuntalar un marco discursivo para sacar ventaja electoral. Ni la \"emergencia climática\" de Sánchez ni el bucólico regreso al pastoreo de Vox dan solución a un problema complejo y angustioso. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-07-29T09:05:49Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La gran evacuación de la historia de España: 73.000 desplazados por los incendios que devoran cuatro provincias",
-      "subtitle": "Los primeros vecinos que fueron desplazados de su casa, el pasado jueves, aún no han podido regresar: el desalojo masivo se alarga ya más de 100 horas",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a67bf74fdddfff8058b456d.html",
-      "scraped_at": "2026-07-28T08:48:40Z"
+      "title": "'El Perejil' desató el mayor incendio de España contratado por los ganaderos",
+      "subtitle": "Un operario contratado por los ganaderos de Burgohondo inició el fuego picando piedra sin permiso con una máquina de ocho toneladas",
+      "url": "https://www.elmundo.es/espana/2026/07/28/6a68ebc0e9cf4aa8728b457c.html",
+      "scraped_at": "2026-07-29T09:05:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "\"No da tiempo a nada. Los vecinos que no tenemos el fuego cerca estamos pensando: '¿Por qué nos desalojan?'\"",
-      "subtitle": "La solidaridad y las actividades organizadas intentan aliviar una espera que empieza a hacerse insoportable",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a67b96621efa061738b4586.html",
-      "scraped_at": "2026-07-28T08:48:40Z"
+      "title": "Iván, propietario de siete casas rurales donde comenzó el incendio: \"Ayudadnos a contar que aquí está todo bien\"",
+      "subtitle": "Los alojamientos rurales sufren una oleada de cancelaciones pese a que las llamas no alcanzaron el pueblo",
+      "url": "https://www.elmundo.es/espana/2026/07/28/6a690a37fc6c834d158b456f.html",
+      "scraped_at": "2026-07-29T09:05:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "Chapinería, la 'zona cero': muros negros y objetos abandonados en el jardín entre nubes de ceniza",
-      "subtitle": "Las llamas avanzaron impulsadas por las altas temperaturas, la baja humedad y rachas de viento superiores a 50 kilómetros por hora, lo que hizo muy difícil su control",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a67b4d121efa027628b4570.html",
-      "scraped_at": "2026-07-28T08:48:41Z"
+      "title": "Yo necesito un hidroavión, tú me das un eslogan",
+      "subtitle": "Tan dura como la lucha contra el fuego está siéndolo la de apuntalar un marco discursivo para sacar ventaja electoral. Ni la \"emergencia climática\" de Sánchez ni el bucólico regreso al pastoreo de Vox dan solución a un problema complejo y angustioso",
+      "url": "https://www.elmundo.es/espana/2026/07/28/6a6722a0fdddffbb258b458f.html",
+      "scraped_at": "2026-07-29T09:05:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "El malestar de los agentes del Seprona: \"Los montes no se limpian y 2026 es un año complicado\"",
-      "subtitle": "La unidad advierte de que la maleza acumulada tras las lluvias ha alimentado la virulencia de los fuegos",
-      "url": "https://www.elmundo.es/espana/2026/07/27/6a67a36afdddffc43a8b45a0.html",
-      "scraped_at": "2026-07-28T08:48:41Z"
+      "title": "El Gobierno, el peor valorado ante los incendios: el 60% suspende su labor",
+      "subtitle": "Los ciudadanos creen que el trabajo de las administraciones para prevenir incendios cada vez más voraces deja mucho que desear",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/07/29/6a68e6c3fdddff4d1c8b458a.html",
+      "scraped_at": "2026-07-29T09:05:49Z"
     },
     {
       "source": "El Mundo",
-      "title": "Ábalos y Koldo",
-      "subtitle": "La Fiscalía sostiene que ambos condenados se limitan a reiterar argumentos ya rechazados por el Supremo y pide que asuman las costas",
-      "url": "https://www.elmundo.es/espana/2026/07/28/6a679e56fc6c8399658b45b8.html",
-      "scraped_at": "2026-07-28T08:48:41Z"
+      "title": "Terremoto Japón",
+      "subtitle": "Más de 3.600 militares y centenares de bomberos trabajan contrarreloj en Kumamoto tras un seísmo que ha dejado al menos 13 muertos",
+      "url": "https://www.elmundo.es/internacional/2026/07/29/6a698861e85ece01128b4577.html",
+      "scraped_at": "2026-07-29T09:05:49Z"
     }
   ]
 }

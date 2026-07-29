@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los afectados podrán cobrar una prestación durante cuatro meses: Incluye el cuidado de familiares, no exige cotización previa ni consume prestaciones futuras; Francia teme el “mazazo económico” por los incendios forestales: El fuego da un respiro en Burdeos antes de la nueva ola de calor; El paro cae de nuevo por debajo del 10% y queda en su nivel más bajo desde 2008: El mercado laboral suma 486.000 nuevos empleos y el paro cae en 231.000 personas en el segundo trimestre. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-28T08:48:50Z",
+  "summary": "Resumen del día en La Vanguardia: Alerta naranja en nueve comunidades ante la cuarta ola de calor del verano: La situación es más benigna en las costas mediterráneas, sobre todo en el litoral de Barcelona, Tarragona, Castellón, Alicante, Murcia y Andalucía, que se libran del aviso amarillo; Sánchez insta a Feijóo a desmarcarse de Vox y sumarse al pacto climático: “El negacionismo es el peor combustible para los incendios”, alerta el presidente; Sánchez halla otra liana: Pedro Sánchez llega, ahora sí, al final de la legis­latura con lo puesto. Ha perdido parte de los apoyos que le brindaron la investidura –Junts y Podemos–, está asediado por diversos casos judiciales que afectan al Gobierno y a su entorno, y sigue sin haber logrado aprobar unos.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-07-29T09:05:58Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los afectados podrán cobrar una prestación durante cuatro meses",
-      "subtitle": "Incluye el cuidado de familiares, no exige cotización previa ni consume prestaciones futuras",
-      "url": "https://www.lavanguardia.com/economia/20260728/11602679/nueva-prestacion-afectados-incendios-podra-cobrar-cuatro-meses.html",
-      "scraped_at": "2026-07-28T08:48:49Z"
+      "title": "Alerta naranja en nueve comunidades ante la cuarta ola de calor del verano",
+      "subtitle": "La situación es más benigna en las costas mediterráneas, sobre todo en el litoral de Barcelona, Tarragona, Castellón, Alicante, Murcia y Andalucía, que se libran del aviso amarillo",
+      "url": "https://www.lavanguardia.com/natural/20260729/11603403/aemet-lanza-alerta-naranja-nueve-comunidades-cuarta-ola-calor.html",
+      "scraped_at": "2026-07-29T09:05:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Francia teme el “mazazo económico” por los incendios forestales",
-      "subtitle": "El fuego da un respiro en Burdeos antes de la nueva ola de calor",
-      "url": "https://www.lavanguardia.com/internacional/20260728/11602398/francia-teme-mazazo-economico-incendios-forestales.html",
-      "scraped_at": "2026-07-28T08:48:49Z"
+      "title": "Sánchez insta a Feijóo a desmarcarse de Vox y sumarse al pacto climático",
+      "subtitle": "“El negacionismo es el peor combustible para los incendios”, alerta el presidente",
+      "url": "https://www.lavanguardia.com/politica/20260729/11603176/sanchez-insta-feijoo-desmarcarse-vox-sumarse-pacto-climatico.html",
+      "scraped_at": "2026-07-29T09:05:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El paro cae de nuevo por debajo del 10% y queda en su nivel más bajo desde 2008",
-      "subtitle": "El mercado laboral suma 486.000 nuevos empleos y el paro cae en 231.000 personas en el segundo trimestre",
-      "url": "https://www.lavanguardia.com/economia/20260728/11602625/paro-cae-nuevo-debajo-10-queda-nivel-mas-2008.html",
-      "scraped_at": "2026-07-28T08:48:49Z"
+      "title": "Sánchez halla otra liana",
+      "subtitle": "Pedro Sánchez llega, ahora sí, al final de la legis­latura con lo puesto. Ha perdido parte de los apoyos que le brindaron la investidura –Junts y Podemos–, está asediado por diversos casos judiciales que afectan al Gobierno y a su entorno, y sigue sin haber logrado aprobar unos...",
+      "url": "https://www.lavanguardia.com/opinion/20260729/11603191/sanchez-halla-liana.html",
+      "scraped_at": "2026-07-29T09:05:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez defiende impulsar la agenda reformista",
-      "subtitle": "“El Gobierno no está paralizado”, advierten en la Moncloa ante el augurio de Feijóo de que la legislatura está agotada y solo pendiente de la disolución de las Cortes y la convocatoria de elecciones generales",
-      "url": "https://www.lavanguardia.com/politica/20260728/11602379/sanchez-defiende-impulsar-agenda-reformista-pese-posponer-decreto-vivienda.html",
-      "scraped_at": "2026-07-28T08:48:50Z"
+      "title": "El incendio del sur de Francia se reaviva y obliga a más evacuaciones",
+      "subtitle": "Crecen las críticas políticas por la falta de medios aéreos de extinción",
+      "url": "https://www.lavanguardia.com/internacional/20260729/11603231/incendio-sur-francia-reaviva-obliga-mas-evacuaciones.html",
+      "scraped_at": "2026-07-29T09:05:57Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Margot Robbie recupera la controvertida moda de salir a la calle en pijama",
-      "subtitle": "La actriz se deja ver en París con un cómodo conjunto amarillo que confirma el regreso de esta tendencia que no gusta a todas",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260727/11602178/margot-robbie-recupera-controvertida-moda-salir-calle-pijama.html",
-      "scraped_at": "2026-07-28T08:48:50Z"
+      "title": "Hacienda aplaza el Consejo de Política Fiscal para buscar un pacto con el PP",
+      "subtitle": "El Ministerio de Hacienda ha atendido la demanda de las comunidades del PP y aplaza la celebración de la reunión para aprobar el nuevo modelo de financiación al viernes 4 de septiembre",
+      "url": "https://www.lavanguardia.com/politica/20260728/11602885/suspendido-consejo-politica-fiscal-financiera-previsto-manana.html",
+      "scraped_at": "2026-07-29T09:05:58Z"
     }
   ]
 }
