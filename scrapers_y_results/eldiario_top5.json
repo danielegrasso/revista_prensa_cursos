@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Los avances contra el fuego en Zamora permiten contener su expansión pero preocupa el viento: Tras una semana en situación de emergencia nacional, los incendios de Madrid y Ávila se dieron por estabilizados este miércoles, lo que ha permitido el regreso de miles de personas a sus casas y el desconfinamiento de otras tantas. Sin embargo, la ola de calor ha situado a España en horas complicadas respecto al riesgo de incendios y es lo que está sucediendo en Castilla y León. Durante la tarde de ayer se declararon sendos fuegos en las provincias de León y Zamora, donde se han evacuado veinte municipios con cientos de personas fuera de sus casas. En ambos casos están considerados de riesgo alto sunque el fuego de Zamora ha mejorado durante la pasada noche. Se ha conseguido estabilizar los frentes norte y este, que eran los que más preocupaban, sin embargo, todavía hay numerosos puntos calientes y zonas muy complicadas.; La vuelta de Olga y Javier a una casa en el epicentro del fuego: “Tardaremos 20 o 30 años en recuperar la zona”: Estos vecinos de La Iglesuela del Tiétar han visto su hogar acorralado por el fuego y su taller de carpintería devorado por las llamas: \"Todos los años, en cada incendio cercano, llega el miedo de que el fuego entre. Hasta que entra\"; Bomberos precarios y con retenes incompletos luchan contra los megaincendios: “Estamos agotados”: Los equipos que se enfrentan a los peores fuegos de la historia denuncian jornadas extenuantes, contratos temporales y sueldos de hasta 1.200 euros al mes; los sindicatos advierten que algunas comunidades están incumpliendo la ley estatal que regula el sector aprobada en 2024. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-07-30T08:45:31Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno despliega al Ejército en Ceuta y cierra la frontera de Melilla: Pedro Sánchez viaja este viernes a la ciudad ceutí, donde no han cesado las llegadas de personas desde Marruecos durante la noche y a primera hora del viernes, aunque también hay cientos que están regresando al país vecino a través del Tarajal; Miles de personas cruzan a Ceuta en la mayor entrada desde la crisis de 2021: “Queremos ayudar a nuestros padres, allí no hay nada”: Según indican a elDiario.es fuentes del Gobierno local, más de 20.000 personas han llegado este jueves, jornada en la que se han recuperado los cuerpos de nueve personas; PP y Vox cargan contra el Gobierno por la llegada de miles de personas a Ceuta y la vinculan con la regularización de migrantes: Tanto los populares como la ultraderecha demandan devoluciones inmediatas de los migrantes y un despliegue policial masivo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-07-31T09:14:04Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Los avances contra el fuego en Zamora permiten contener su expansión pero preocupa el viento",
-      "subtitle": "Tras una semana en situación de emergencia nacional, los incendios de Madrid y Ávila se dieron por estabilizados este miércoles, lo que ha permitido el regreso de miles de personas a sus casas y el desconfinamiento de otras tantas. Sin embargo, la ola de calor ha situado a España en horas complicadas respecto al riesgo de incendios y es lo que está sucediendo en Castilla y León. Durante la tarde de ayer se declararon sendos fuegos en las provincias de León y Zamora, donde se han evacuado veinte municipios con cientos de personas fuera de sus casas. En ambos casos están considerados de riesgo alto sunque el fuego de Zamora ha mejorado durante la pasada noche. Se ha conseguido estabilizar los frentes norte y este, que eran los que más preocupaban, sin embargo, todavía hay numerosos puntos calientes y zonas muy complicadas.",
-      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-fuego-control-avanza-zamora-leon-estabilizarse-madrid-avila_133_13416677.html",
-      "scraped_at": "2026-07-30T08:45:29Z"
+      "title": "El Gobierno despliega al Ejército en Ceuta y cierra la frontera de Melilla",
+      "subtitle": "Pedro Sánchez viaja este viernes a la ciudad ceutí, donde no han cesado las llegadas de personas desde Marruecos durante la noche y a primera hora del viernes, aunque también hay cientos que están regresando al país vecino a través del Tarajal",
+      "url": "https://www.eldiario.es/politica/gobierno-despliega-ejercito-ceuta-entrada-miles-personas-marruecos_1_13419220.html",
+      "scraped_at": "2026-07-31T09:14:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La vuelta de Olga y Javier a una casa en el epicentro del fuego: “Tardaremos 20 o 30 años en recuperar la zona”",
-      "subtitle": "Estos vecinos de La Iglesuela del Tiétar han visto su hogar acorralado por el fuego y su taller de carpintería devorado por las llamas: \"Todos los años, en cada incendio cercano, llega el miedo de que el fuego entre. Hasta que entra\"",
-      "url": "https://www.eldiario.es/sociedad/vuelta-olga-javier-casa-epicentro-fuego-tardaremos-20-30-anos-recuperar-zona_1_13416320.html",
-      "scraped_at": "2026-07-30T08:45:29Z"
+      "title": "Miles de personas cruzan a Ceuta en la mayor entrada desde la crisis de 2021: “Queremos ayudar a nuestros padres, allí no hay nada”",
+      "subtitle": "Según indican a elDiario.es fuentes del Gobierno local, más de 20.000 personas han llegado este jueves, jornada en la que se han recuperado los cuerpos de nueve personas",
+      "url": "https://www.eldiario.es/desalambre/miles-personas-cruzan-ceuta-mayor-entrada-crisis-2021-queremos-ayudar-padres-no-hay_1_13419247.html",
+      "scraped_at": "2026-07-31T09:14:02Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Bomberos precarios y con retenes incompletos luchan contra los megaincendios: “Estamos agotados”",
-      "subtitle": "Los equipos que se enfrentan a los peores fuegos de la historia denuncian jornadas extenuantes, contratos temporales y sueldos de hasta 1.200 euros al mes; los sindicatos advierten que algunas comunidades están incumpliendo la ley estatal que regula el sector aprobada en 2024",
-      "url": "https://www.eldiario.es/sociedad/bomberos-precarios-retenes-incompletos-luchan-megaincendios-agotados_1_13412862.html",
-      "scraped_at": "2026-07-30T08:45:30Z"
+      "title": "PP y Vox cargan contra el Gobierno por la llegada de miles de personas a Ceuta y la vinculan con la regularización de migrantes",
+      "subtitle": "Tanto los populares como la ultraderecha demandan devoluciones inmediatas de los migrantes y un despliegue policial masivo",
+      "url": "https://www.eldiario.es/politica/pp-vox-cargan-gobierno-llegada-miles-personas-ceuta-vinculan-regularizacion-migrantes_1_13419707.html",
+      "scraped_at": "2026-07-31T09:14:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Del piso de su padre moroso a los áticos en Chamberí: los enredos inmobiliarios de Isabel Díaz Ayuso",
-      "subtitle": "El ático de 485 metros cuadrados adquirido por el Gobierno regional como “oficina” para uso temporal es la última polémica vinculada a la presidenta madrileña",
-      "url": "https://www.eldiario.es/politica/piso-padre-moroso-aticos-chamberi-enredos-inmobiliarios-isabel-diaz-ayuso_1_13414993.html",
-      "scraped_at": "2026-07-30T08:45:30Z"
+      "title": "Meloni plantea el cierre del espacio Schengen con España y Albares convoca al embajador de Italia como protesta",
+      "subtitle": "El ministro de Exteriores califica de \"impropio\" el comportamiento de Italia, del que espera \"solidaridad europea y no demagogia partidista\"",
+      "url": "https://www.eldiario.es/politica/meloni-plantea-cierre-espacio-schengen-albares-convoca-embajador-protesta_1_13419361.html",
+      "scraped_at": "2026-07-31T09:14:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Guerra sucia Podemos",
-      "subtitle": "Pedraz accede a que el inspector jefe Manuel Morocho cuente a la unidad especializada las maniobras contra el partido durante el tiempo que fue destinado a la Dirección Operativa para sobrecargarle de trabajo y que no atendiera al caso de la caja B del PP",
-      "url": "https://www.eldiario.es/politica/policia-acosado-investigar-pp-declarara-asuntos-internos-presencio-guerra-sucia_1_13414262.html",
-      "scraped_at": "2026-07-30T08:45:31Z"
+      "title": "Ático Ayuso",
+      "subtitle": "Opacidad y cuentas \"fuera de plazo\" en la entidad Planifica Madrid, que no era la encomendada por Ley para \"la búsqueda, selección y adecuación de los inmuebles\" del Gobierno regional",
+      "url": "https://www.eldiario.es/politica/empresa-publica-compro-atico-temporal-ayuso-exigio-confidencialidad-vendedor-visita_1_13418991.html",
+      "scraped_at": "2026-07-31T09:14:04Z"
     }
   ]
 }
