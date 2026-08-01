@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: España sufre la mayor crisis en sus fronteras ante la \"permisividad de Marruecos\" y la parálisis del Gobierno durante ocho horas: Unas 20.000 personas acceden a Ceuta durante nueve horas de entrada masiva por mar y pie; Francia refuerza su frontera tras la avalancha marroquí e Italia pide suspender Schengen: Meloni amenaza con cerrar el espacio Schengen mientras Francia dice que no puede \"soportar las consecuencias de las políticas migratorias de sus vecinos\" y refuerza su frontera; Miles de personas siguen cruzando la frontera con Ceuta ante la mirada del Ejército y la Guardia Civil: \"Quiero ser español como tú\": La noche ha sido caótica en la ciudad autónoma: cientos de personas han dormido en parques, en bancos y en gasolineras. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-07-31T09:13:59Z",
+  "summary": "Resumen del día en El Mundo: \"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat: 60.000 migrantes pasaron y ya hay al menos 67 muertos; El Gobierno empieza a instalar barreras de contención en el espigón casi dos años después de la sentencia clave del 'efecto llamada': La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas; La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI: Un diario muy próximo a la Monarquía subraya que \"la recuperación de Ceuta y Melilla es inevitable\" tras los últimos acontecimientos. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-08-01T08:32:15Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "España sufre la mayor crisis en sus fronteras ante la \"permisividad de Marruecos\" y la parálisis del Gobierno durante ocho horas",
-      "subtitle": "Unas 20.000 personas acceden a Ceuta durante nueve horas de entrada masiva por mar y pie",
-      "url": "https://www.elmundo.es/espana/2026/07/30/6a6bb256e4d4d8b27e8b457f.html",
-      "scraped_at": "2026-07-31T09:13:58Z"
+      "title": "\"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat",
+      "subtitle": "60.000 migrantes pasaron y ya hay al menos 67 muertos",
+      "url": "https://www.elmundo.es/espana/2026/07/31/6a6ced9bfdddfffa7a8b456f.html",
+      "scraped_at": "2026-08-01T08:32:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Francia refuerza su frontera tras la avalancha marroquí e Italia pide suspender Schengen",
-      "subtitle": "Meloni amenaza con cerrar el espacio Schengen mientras Francia dice que no puede \"soportar las consecuencias de las políticas migratorias de sus vecinos\" y refuerza su frontera",
-      "url": "https://www.elmundo.es/espana/2026/07/31/6a6c3f97e4d4d8a7068b4575.html",
-      "scraped_at": "2026-07-31T09:13:58Z"
+      "title": "El Gobierno empieza a instalar barreras de contención en el espigón casi dos años después de la sentencia clave del 'efecto llamada'",
+      "subtitle": "La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas",
+      "url": "https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html",
+      "scraped_at": "2026-08-01T08:32:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Miles de personas siguen cruzando la frontera con Ceuta ante la mirada del Ejército y la Guardia Civil: \"Quiero ser español como tú\"",
-      "subtitle": "La noche ha sido caótica en la ciudad autónoma: cientos de personas han dormido en parques, en bancos y en gasolineras",
-      "url": "https://www.elmundo.es/espana/2026/07/31/6a6c5057fc6c839f0d8b457a.html",
-      "scraped_at": "2026-07-31T09:13:59Z"
+      "title": "La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI",
+      "subtitle": "Un diario muy próximo a la Monarquía subraya que \"la recuperación de Ceuta y Melilla es inevitable\" tras los últimos acontecimientos",
+      "url": "https://www.elmundo.es/internacional/2026/07/31/6a6cb6aae4d4d823138b458d.html",
+      "scraped_at": "2026-08-01T08:32:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las imágenes de Ceuta sacuden EEUU: \"España podría estar encaminándose a una guerra civil\"",
-      "subtitle": "Trump y el trumpismo se ensañan con España y se posicionan con Marruecos: \"Parece Guerra Mundial Z\"",
-      "url": "https://www.elmundo.es/espana/2026/07/31/6a6c3509fdddff3f1e8b459d.html",
-      "scraped_at": "2026-07-31T09:13:59Z"
+      "title": "Éxodo a la inversa 24 horas después entre Ceuta y Marruecos: \"Nos vamos. España no nos ha dado ni agua\"",
+      "subtitle": "Los inmigrantes vuelven a Marruecos. Ahmed, de 15 años, prepara el flotador para retornar a nado, tal y como llegó, pero un militar español le guía hacia el camino terrestre",
+      "url": "https://www.elmundo.es/espana/2026/07/31/6a6cfac2e4d4d8a7068b45ad.html",
+      "scraped_at": "2026-08-01T08:32:14Z"
     },
     {
       "source": "El Mundo",
-      "title": "Franco Baresi",
-      "subtitle": "Fue capitán del gran Milan de los años 80 y 90, con el que ganó tres Copas de Europa y seis campeonatos de Italia",
-      "url": "https://www.elmundo.es/deportes/futbol/2026/07/31/6a6c3a8cfc6c8342778b4584.html",
-      "scraped_at": "2026-07-31T09:13:59Z"
+      "title": "Reacciones Europa",
+      "subtitle": "Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta",
+      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html",
+      "scraped_at": "2026-08-01T08:32:15Z"
     }
   ]
 }

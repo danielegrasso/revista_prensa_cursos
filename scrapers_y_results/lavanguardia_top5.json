@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Ceuta, desbordada tras la entrada de más de 40.000 migrantes: la mitad de su población: Miles de jóvenes deambulan por la ciudad autónoma, que no recuerda una estampa así, entre la esperanza de cruzar a la península en busca de oportunidades y la resignación de volver a Marruecos; Una sentencia del Supremo provoca un alud de migrantes en Ceuta: El alto tribunal consideró el 8 de julio que la ley no permite las “devoluciones en caliente” de las personas que cruzan la frontera a nado; Meloni: “Estamos preparados para suspender el espacio Schengen con España”: Madrid convoca al embajador italiano después de que Roma relacionara la crisis de Ceuta con la regularización extraordinaria de inmigrantes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-07-31T09:14:08Z",
+  "summary": "Resumen del día en La Vanguardia: El asalto migratorio a Ceuta enfrenta a Sánchez con sus socios europeos: Meloni suspende el tratado Schengen y trata de hacer frente común contra España; Marruecos luce su poder: La relación entre España y Marruecos se ha caracterizado siempre por su complejidad. En medios diplomáticos se usa la expresión “colchón de intereses”, que supone la asunción por ambas partes de que no les queda otra alternativa que entenderse, más allá de los problemas o...; Del éxtasis a la resignación en solo 24 horas: “Nadie nos acoge, esto parece una cárcel”: Miles de inmigrantes vuelven a Marruecos tras sentirse “engañados” con falsas promesas de oportunidad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-01T08:32:22Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Ceuta, desbordada tras la entrada de más de 40.000 migrantes: la mitad de su población",
-      "subtitle": "Miles de jóvenes deambulan por la ciudad autónoma, que no recuerda una estampa así, entre la esperanza de cruzar a la península en busca de oportunidades y la resignación de volver a Marruecos",
-      "url": "https://www.lavanguardia.com/politica/20260731/11605137/ceuta-desbordada-entrada-mas-40-000-inmigrantes-mitad-poblacion.html",
-      "scraped_at": "2026-07-31T09:14:07Z"
+      "title": "El asalto migratorio a Ceuta enfrenta a Sánchez con sus socios europeos",
+      "subtitle": "Meloni suspende el tratado Schengen y trata de hacer frente común contra España",
+      "url": "https://www.lavanguardia.com/politica/20260801/11605567/crisis-ceuta-enfrenta-sanchez-socios-europeos-inmigracion.html",
+      "scraped_at": "2026-08-01T08:32:21Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una sentencia del Supremo provoca un alud de migrantes en Ceuta",
-      "subtitle": "El alto tribunal consideró el 8 de julio que la ley no permite las “devoluciones en caliente” de las personas que cruzan la frontera a nado",
-      "url": "https://www.lavanguardia.com/politica/20260731/11604743/sentencia-supremo-provoca-alud-migrantes-ceuta-obliga-activar-ejercito.html",
-      "scraped_at": "2026-07-31T09:14:07Z"
+      "title": "Marruecos luce su poder",
+      "subtitle": "La relación entre España y Marruecos se ha caracterizado siempre por su complejidad. En medios diplomáticos se usa la expresión “colchón de intereses”, que supone la asunción por ambas partes de que no les queda otra alternativa que entenderse, más allá de los problemas o...",
+      "url": "https://www.lavanguardia.com/opinion/20260801/11605555/marruecos-luce.html",
+      "scraped_at": "2026-08-01T08:32:21Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Meloni: “Estamos preparados para suspender el espacio Schengen con España”",
-      "subtitle": "Madrid convoca al embajador italiano después de que Roma relacionara la crisis de Ceuta con la regularización extraordinaria de inmigrantes",
-      "url": "https://www.lavanguardia.com/politica/20260730/11604749/italia-considera-suspender-acuerdo-schengen-espana-crisis-migratoria.html",
-      "scraped_at": "2026-07-31T09:14:08Z"
+      "title": "Del éxtasis a la resignación en solo 24 horas: “Nadie nos acoge, esto parece una cárcel”",
+      "subtitle": "Miles de inmigrantes vuelven a Marruecos tras sentirse “engañados” con falsas promesas de oportunidad",
+      "url": "https://www.lavanguardia.com/politica/20260801/11605564/extasis-resignacion-24-horas.html",
+      "scraped_at": "2026-08-01T08:32:21Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El asalto a la valla de Ceuta visto desde las cámaras de los móviles",
-      "subtitle": "Decenas de móviles han podido capturar el momento en el que miles de personas han cruzado la frontera de Ceuta y han transitado por las calles de la ciudad",
-      "url": "https://www.lavanguardia.com/politica/20260730/11604732/asalto-valla-ceuta-visto-camaras-moviles.html",
-      "scraped_at": "2026-07-31T09:14:08Z"
+      "title": "La sentencia del Tribunal Supremo permite las devoluciones desde Ceuta",
+      "subtitle": "Una controvertida decisión judicial que podría revisarse en el pleno, tras el insólito asalto a la frontera española",
+      "url": "https://www.lavanguardia.com/politica/20260801/11605547/sentencia-tribunal-supremo-permite-devoluciones-ceuta.html",
+      "scraped_at": "2026-08-01T08:32:22Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Elena Pita: “El negacionismo se cobra vidas humanas”",
-      "subtitle": "“Los incendios son un reflejo de todo lo que tenemos que hacer para prepararnos ante un clima distinto”, dice la directora general de la Oficina Española de Cambio Climático",
-      "url": "https://www.lavanguardia.com/natural/20260731/11604708/elena-pita-negacionismo-cobra-vidas-humanas.html",
-      "scraped_at": "2026-07-31T09:14:08Z"
+      "title": "Calpe: un verano mediterráneo entre diseño, gastronomía y un peñón",
+      "subtitle": "Naturaleza y arquitectura únicas frente al mar",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260731/11602818/calpe-verano-mediterraneo-diseno-gastronomia-penon.html",
+      "scraped_at": "2026-08-01T08:32:22Z"
     }
   ]
 }
