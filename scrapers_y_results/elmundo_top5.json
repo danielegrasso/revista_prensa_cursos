@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: \"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat: 60.000 migrantes pasaron y ya hay al menos 67 muertos; El Gobierno empieza a instalar barreras de contención en el espigón casi dos años después de la sentencia clave del 'efecto llamada': La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas; La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI: Un diario muy próximo a la Monarquía subraya que \"la recuperación de Ceuta y Melilla es inevitable\" tras los últimos acontecimientos. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-08-01T08:32:15Z",
+  "summary": "Resumen del día en El Mundo: Los migrantes retratan la desidia de Marruecos ante la avalancha del jueves: \"Había 3-4 gendarmes y sólo nos echaban hacia el mar\": Miles de personas esperan hambrientas a las puertas y en los alrededores del centro de inmigrantes de la ciudad, sin saber si serán expulsados, iniciarán los trámites para el asilo o recibirán permisos de residencia temporales; El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta: España vuelve a vivir un colapso récord. Moncloa insiste en que el Gobierno \"funciona\", pero la realidad lo desmiente en situaciones críticas; Sánchez convierte su política migratoria en un problema europeo: El 82% de los socios europeos se revuelve contra el presidente del Gobierno y exige más control en las fronteras para contener los flujos irregulares. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-08-02T08:35:10Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "\"A Marruecos se le fue de las manos\": los primeros análisis sobre la avalancha de Ceuta apuntan a Rabat",
-      "subtitle": "60.000 migrantes pasaron y ya hay al menos 67 muertos",
-      "url": "https://www.elmundo.es/espana/2026/07/31/6a6ced9bfdddfffa7a8b456f.html",
-      "scraped_at": "2026-08-01T08:32:14Z"
+      "title": "Los migrantes retratan la desidia de Marruecos ante la avalancha del jueves: \"Había 3-4 gendarmes y sólo nos echaban hacia el mar\"",
+      "subtitle": "Miles de personas esperan hambrientas a las puertas y en los alrededores del centro de inmigrantes de la ciudad, sin saber si serán expulsados, iniciarán los trámites para el asilo o recibirán permisos de residencia temporales",
+      "url": "https://www.elmundo.es/espana/2026/08/02/6a6e51e621efa031348b4586.html",
+      "scraped_at": "2026-08-02T08:35:09Z"
     },
     {
       "source": "El Mundo",
-      "title": "El Gobierno empieza a instalar barreras de contención en el espigón casi dos años después de la sentencia clave del 'efecto llamada'",
-      "subtitle": "La estructura es neumática, de 500 metros de longitud y entre 30 y 70 centímetros de altura, a la que se suma una primera línea de boyas",
-      "url": "https://www.elmundo.es/espana/2026/08/01/6a6da54b21efa0a7288b458e.html",
-      "scraped_at": "2026-08-01T08:32:14Z"
+      "title": "El fracaso en las crisis persigue a Sánchez hasta el final: imprevisión y reacción tardía, del Covid a Ceuta",
+      "subtitle": "España vuelve a vivir un colapso récord. Moncloa insiste en que el Gobierno \"funciona\", pero la realidad lo desmiente en situaciones críticas",
+      "url": "https://www.elmundo.es/espana/2026/08/01/6a6e3c75e4d4d8165a8b457a.html",
+      "scraped_at": "2026-08-02T08:35:10Z"
     },
     {
       "source": "El Mundo",
-      "title": "La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI",
-      "subtitle": "Un diario muy próximo a la Monarquía subraya que \"la recuperación de Ceuta y Melilla es inevitable\" tras los últimos acontecimientos",
-      "url": "https://www.elmundo.es/internacional/2026/07/31/6a6cb6aae4d4d823138b458d.html",
-      "scraped_at": "2026-08-01T08:32:14Z"
+      "title": "Sánchez convierte su política migratoria en un problema europeo",
+      "subtitle": "El 82% de los socios europeos se revuelve contra el presidente del Gobierno y exige más control en las fronteras para contener los flujos irregulares",
+      "url": "https://www.elmundo.es/opinion/editorial/2026/08/02/6a6e3c85fc6c83e8438b4576.html",
+      "scraped_at": "2026-08-02T08:35:10Z"
     },
     {
       "source": "El Mundo",
-      "title": "Éxodo a la inversa 24 horas después entre Ceuta y Marruecos: \"Nos vamos. España no nos ha dado ni agua\"",
+      "title": "Ceuta intenta resurgir de la peor avalancha migratoria de su historia: \"Ha pasado lo peor, pero no ha pasado todo\"",
+      "subtitle": "Policías y militares peinan calles y plazas para «convencer», a veces con la 'ayuda' de locales, a los magrebíes que aún quedan en la ciudad de que regresen a su país",
+      "url": "https://www.elmundo.es/espana/2026/08/02/6a6e2500fdddfff7298b4585.html",
+      "scraped_at": "2026-08-02T08:35:10Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Inmigrantes Ceuta",
       "subtitle": "Los inmigrantes vuelven a Marruecos. Ahmed, de 15 años, prepara el flotador para retornar a nado, tal y como llegó, pero un militar español le guía hacia el camino terrestre",
       "url": "https://www.elmundo.es/espana/2026/07/31/6a6cfac2e4d4d8a7068b45ad.html",
-      "scraped_at": "2026-08-01T08:32:14Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Reacciones Europa",
-      "subtitle": "Un buen número de socios de la UE echan en cara al Gobierno de España su laxitud durante la crisis de Ceuta",
-      "url": "https://www.elmundo.es/internacional/2026/08/01/6a6cd84ffc6c839f0d8b4594.html",
-      "scraped_at": "2026-08-01T08:32:15Z"
+      "scraped_at": "2026-08-02T08:35:10Z"
     }
   ]
 }
