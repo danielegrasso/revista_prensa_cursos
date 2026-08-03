@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos: El presidente se enfrenta a veintidós socios comunitarios por las críticas a su gestión de la invasión de Ceuta y los tilda de «egoístas»; El PP lleva meses pidiendo reforzar la frontera de la ciudad autónoma con la oposición del PSOE: Los populares en el Senado han emplazado en más de una ocasión al Gobierno a aumentar los recursos humanos y materiales de las fuerzas de seguridad desplegadas en la ciudad autónoma; El reino del sinsentido: El desolador panorama dejado por esta crisis migratoria al otro lado de la frontera, donde vinieron decenas de miles de jóvenes desde lugares lejanos y volvieron con las manos vacías. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-02T08:35:17Z",
+  "summary": "Resumen del día en ABC.es: El monte ceutí, escondite de los inmigrantes que no quieren volver: Comunidades de magrebíes se niegan a regresar a Marruecos. Salen solo para ir a la playa, a por comida o cuando el Ejército los encuentra; El Gobierno, forzado a pactar la reforma urgente de la ley de extranjería: Sánchez se abrió a una modificación y los populares ya tienen registrada una propuesta que se debatirá en septiembre en el Congreso; La Audiencia Nacional pide un informe para investigar si la crisis de Ceuta fue una «acción concertada»: En concreto, ha pedido a la Comisaría General de Extranjería y Fronteras (UCRIF) de la Policía Nacional que emita un informe sobre la «entrada irregular masiva» de decenas de miles de personas desde Marruecos a Ceuta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-03T10:03:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez se enfrenta a sus socios europeos y se aferra a Marruecos",
-      "subtitle": "El presidente se enfrenta a veintidós socios comunitarios por las críticas a su gestión de la invasión de Ceuta y los tilda de «egoístas»",
-      "url": "https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html",
-      "scraped_at": "2026-08-02T08:35:15Z"
+      "title": "El monte ceutí, escondite de los inmigrantes que no quieren volver",
+      "subtitle": "Comunidades de magrebíes se niegan a regresar a Marruecos. Salen solo para ir a la playa, a por comida o cuando el Ejército los encuentra",
+      "url": "https://www.abc.es/espana/monte-ceuti-escondite-inmigrantes-quieren-volver-gente-20260802012133-nt.html",
+      "scraped_at": "2026-08-03T10:03:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP lleva meses pidiendo reforzar la frontera de la ciudad autónoma con la oposición del PSOE",
-      "subtitle": "Los populares en el Senado han emplazado en más de una ocasión al Gobierno a aumentar los recursos humanos y materiales de las fuerzas de seguridad desplegadas en la ciudad autónoma",
-      "url": "https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html",
-      "scraped_at": "2026-08-02T08:35:16Z"
+      "title": "El Gobierno, forzado a pactar la reforma urgente de la ley de extranjería",
+      "subtitle": "Sánchez se abrió a una modificación y los populares ya tienen registrada una propuesta que se debatirá en septiembre en el Congreso",
+      "url": "https://www.abc.es/espana/crisis-ceuta-aboca-gobierno-pp-pactar-reforma-20260802012158-nt.html",
+      "scraped_at": "2026-08-03T10:03:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "El reino del sinsentido",
-      "subtitle": "El desolador panorama dejado por esta crisis migratoria al otro lado de la frontera, donde vinieron decenas de miles de jóvenes desde lugares lejanos y volvieron con las manos vacías",
-      "url": "https://www.abc.es/espana/reino-sinsentido-lado-marroqui-frontera-20260802014241-nt.html",
-      "scraped_at": "2026-08-02T08:35:16Z"
+      "title": "La Audiencia Nacional pide un informe para investigar si la crisis de Ceuta fue una «acción concertada»",
+      "subtitle": "En concreto, ha pedido a la Comisaría General de Extranjería y Fronteras (UCRIF) de la Policía Nacional que emita un informe sobre la «entrada irregular masiva» de decenas de miles de personas desde Marruecos a Ceuta",
+      "url": "https://www.abc.es/espana/audiencia-nacional-pide-informe-investigar-crisis-ceuta-20260803112145-nt.html",
+      "scraped_at": "2026-08-03T10:03:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Hambre en la acampada frente al CETI: centenares de inmigrantes se pelean por un trozo de pan",
-      "subtitle": "Cientos de subsaharianos aprovecharon también para cruzar la frontera desde Marruecos y se congregan desde hace días en torno al Centro de Estancia Temporal para Inmigrantes, que supera su capacidad de acogida",
-      "url": "https://www.abc.es/espana/acampada-frente-ceti-sufre-hambre-centenares-inmigrantes-20260802014318-nt.html",
-      "scraped_at": "2026-08-02T08:35:17Z"
+      "title": "Indignación y tristeza de los vecinos: «La ciudad ha sido abandonada por los Gobiernos»",
+      "subtitle": "Concuerdan en que las autoridades no han estado a la altura de la situación y temen volver a enfrentarse a una situación similar",
+      "url": "https://www.abc.es/espana/indignacion-tristeza-vecinos-ceuta-ciudad-abandonada-gobiernos-20260803012221-nt.html",
+      "scraped_at": "2026-08-03T10:03:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sergio Gutiérrez, experto inmobiliario: “En un contrato de arras debes prestar especial atención a esta cláusula”",
-      "subtitle": "Un experto inmobiliario alerta sobre el 'pacto de cesión a terceros', una cláusula que permite a un comprador vender a otro el derecho de compra con...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/sergio-gutierrez-experto-inmobiliario-contrato-arras-debes-prestar-especial-atencion-clausula-suponerte-miles-euros-impuestos-20260801_3405076.html",
-      "scraped_at": "2026-08-02T08:35:17Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-08-03T10:03:07Z"
     }
   ]
 }

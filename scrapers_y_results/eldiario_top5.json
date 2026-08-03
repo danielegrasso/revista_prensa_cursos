@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La suma de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”: Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”.; El regreso a Marruecos tras entrar en Ceuta: “Nos han mandado de vuelta”: La ciudad de Castillejos continúa paralizada con decenas de personas tumbadas en jardines, soportales y refugios improvisados bajo los árboles mientras, en la playa, algunos migrantes cuentan que les gustaría volver a intentar cruzar la frontera; Cómo ha estrechado Trump la alianza de EEUU con Marruecos: Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-02T08:35:15Z",
+  "summary": "Resumen del día en elDiario.es: La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada”: La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de \"una acción dirigida por alguna organización o grupo criminal\" antes de resolver si es competente para investigar los hechos tras recibir una denuncia; Por qué se van los jóvenes de Marruecos: la falta de horizonte que empuja el éxodo: La salida de los jóvenes marroquíes no se explica solamente por su cercanía con España ni por los vídeos difundidos por redes sociales: es un flujo migratorio que tiene múltiples aristas sociales y económicas, como el desempleo y la desigualdad; Qué puede hacer España en su relación con Marruecos tras la crisis de Ceuta: El generalizado convencimiento de que el modelo de relaciones no sirve plantea la obvia necesidad de diseñar otro que nos lleve a superar tanto el permanente chantaje de Rabat, como el inútil apaciguamiento de Madrid ante cada nuevo pulso. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-03T10:03:05Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La suma de escándalos de Ayuso enciende las alarmas en el PP: “Su caída será peor que la de Cifuentes por las cremas”",
-      "subtitle": "Pese al malestar por el último y turbio episodio de la compra del ático y la posterior rectificación después de la pillada, en la dirección nacional piden calma: “Esto pasará”.",
-      "url": "https://www.eldiario.es/politica/acumulacion-escandalos-ayuso-enciende-alarmas-pp-caida-sera-peor-cifuentes-cremas_129_13421627.html",
-      "scraped_at": "2026-08-02T08:35:13Z"
+      "title": "La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada”",
+      "subtitle": "La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de \"una acción dirigida por alguna organización o grupo criminal\" antes de resolver si es competente para investigar los hechos tras recibir una denuncia",
+      "url": "https://www.eldiario.es/politica/audiencia-nacional-pide-informe-policial-aclare-si-entrada-miles-personas-ceuta-accion-concertada_1_13424412.html",
+      "scraped_at": "2026-08-03T10:03:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El regreso a Marruecos tras entrar en Ceuta: “Nos han mandado de vuelta”",
-      "subtitle": "La ciudad de Castillejos continúa paralizada con decenas de personas tumbadas en jardines, soportales y refugios improvisados bajo los árboles mientras, en la playa, algunos migrantes cuentan que les gustaría volver a intentar cruzar la frontera",
-      "url": "https://www.eldiario.es/desalambre/regreso-marruecos-entrar-ceuta-han-mandado-vuelta_1_13422911.html",
-      "scraped_at": "2026-08-02T08:35:13Z"
+      "title": "Por qué se van los jóvenes de Marruecos: la falta de horizonte que empuja el éxodo",
+      "subtitle": "La salida de los jóvenes marroquíes no se explica solamente por su cercanía con España ni por los vídeos difundidos por redes sociales: es un flujo migratorio que tiene múltiples aristas sociales y económicas, como el desempleo y la desigualdad",
+      "url": "https://www.eldiario.es/desalambre/falta-horizonte-empuja-exodo-jovenes-marruecos-hermano-no-encontraba-trabajo_1_13424031.html",
+      "scraped_at": "2026-08-03T10:03:03Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
-      "subtitle": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca",
-      "url": "https://www.eldiario.es/internacional/estrechado-trump-alianza-eeuu-marruecos_129_13423132.html",
-      "scraped_at": "2026-08-02T08:35:14Z"
+      "title": "Qué puede hacer España en su relación con Marruecos tras la crisis de Ceuta",
+      "subtitle": "El generalizado convencimiento de que el modelo de relaciones no sirve plantea la obvia necesidad de diseñar otro que nos lleve a superar tanto el permanente chantaje de Rabat, como el inútil apaciguamiento de Madrid ante cada nuevo pulso",
+      "url": "https://www.eldiario.es/internacional/espana-relacion-marruecos-crisis-ceuta_129_13423942.html",
+      "scraped_at": "2026-08-03T10:03:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Familias rotas y angustia por los desaparecidos en Ceuta: “No sabemos dónde están”",
-      "subtitle": "En Marruecos, la desesperación de los familiares y amigos que no localizan a sus seres queridos aumenta a medida que sube el número de cuerpos sin vida localizados en el agua, que ya asciende a 67, mientras muchos se aferran a la esperanza de que no tengan teléfono móvil",
-      "url": "https://www.eldiario.es/desalambre/familias-rotas-angustia-busqueda-desaparecidos-tragedia-ceuta-no_1_13423128.html",
-      "scraped_at": "2026-08-02T08:35:14Z"
+      "title": "Sin sitio en el CETI de Ceuta y menores en descampados: “Exigimos que se movilicen recursos”",
+      "subtitle": "La mayoría de las personas marroquíes que cruzaron el jueves ya ha regresado mientras cientos de migrantes de África Subsahariana siguen durmiendo junto al Centro de Estancia Temporal de Inmigrantes y los recursos de acogida continúan saturados",
+      "url": "https://www.eldiario.es/desalambre/sitio-ceti-ceuta-menores-descampados-exigimos-movilicen-recursos_1_13424085.html",
+      "scraped_at": "2026-08-03T10:03:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Alvise Vito Quiles Ceuta",
-      "subtitle": "\"Si sois islamófobos aquí en Ceuta, a la puta calle. No os queremos aquí. Sin violencia, ¿eh? No vamos a empujar. Estoy haciendo uso de mi libertad de expresión, igual que ustedes. Y yo con mi libertad de expresión le digo que se vaya usted con su puto racismo a la puta mierda\", les han dicho",
-      "url": "https://www.eldiario.es/desalambre/ciudadanos-ceuties-plantan-cara-alvise-vito-quiles-aprovechais-situacion-sembrar-odio_1_13423142.html",
-      "scraped_at": "2026-08-02T08:35:15Z"
+      "title": "Última hora Ceuta",
+      "subtitle": "",
+      "url": "https://www.eldiario.es/politica/ultima-hora-llegada-migrantes-ceuta-familias-marroquies-buscan-ceuta_6_13423361.html",
+      "scraped_at": "2026-08-03T10:03:05Z"
     }
   ]
 }

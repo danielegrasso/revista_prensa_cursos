@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El reguero de cadáveres convierte la crisis de Ceuta en la más letal en una frontera española: La cifra de fallecidos se eleva a 67, pero los buzos tienen localizados más cuerpos; Órdago de Sánchez a la UE: Pedro Sánchez ha encontrado otra liana. Lejos de amilanarse ante las críticas recibidas de otros dirigentes europeos por la crisis migratoria vivida en Ceuta, pasó ayer al contraataque con una misiva muy dura contra los países, como Italia o Finlandia, que pidieron la exclusión...; Veintidós países europeos señalan a España y reprochan la regularización: El presidente afea la actitud “egoísta” de algunos gobiernos en la crisis de Ceuta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-02T08:35:19Z",
+  "summary": "Resumen del día en La Vanguardia: El Gobierno acelera  el retorno de los migrantes con sospechas de expulsiones ilegales: Oenegés vigilan que no se camufle a menores y asilados entre regresos voluntarios; Italia teme que España responda con reciprocidad a la suspensión de Schengen: Italia teme que España responda con reciprocidad a la suspensión de Schengen; Marruecos culpa de la crisis de Ceuta a las mafias y a la desinformación: El ministro de Asuntos Exteriores, José Manuel Albares, califica a Marruecos de socio fiable y remarca también la actividad inusual en las redes sociales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-03T10:03:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El reguero de cadáveres convierte la crisis de Ceuta en la más letal en una frontera española",
-      "subtitle": "La cifra de fallecidos se eleva a 67, pero los buzos tienen localizados más cuerpos",
-      "url": "https://www.lavanguardia.com/politica/20260802/11605988/reguero-cadaveres-convierte-crisis-ceuta-mas-letal-frontera.html",
-      "scraped_at": "2026-08-02T08:35:18Z"
+      "title": "El Gobierno acelera  el retorno de los migrantes con sospechas de expulsiones ilegales",
+      "subtitle": "Oenegés vigilan que no se camufle a menores y asilados entre regresos voluntarios",
+      "url": "https://www.lavanguardia.com/politica/20260803/11606346/ceuta-acelera-retorno-migrantes-sospechas-expulsiones-ilegales.html",
+      "scraped_at": "2026-08-03T10:03:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Órdago de Sánchez a la UE",
-      "subtitle": "Pedro Sánchez ha encontrado otra liana. Lejos de amilanarse ante las críticas recibidas de otros dirigentes europeos por la crisis migratoria vivida en Ceuta, pasó ayer al contraataque con una misiva muy dura contra los países, como Italia o Finlandia, que pidieron la exclusión...",
-      "url": "https://www.lavanguardia.com/opinion/20260802/11605923/ordago-sanchez-ue.html",
-      "scraped_at": "2026-08-02T08:35:18Z"
+      "title": "Italia teme que España responda con reciprocidad a la suspensión de Schengen",
+      "subtitle": "Italia teme que España responda con reciprocidad a la suspensión de Schengen",
+      "url": "https://www.lavanguardia.com/politica/20260803/11606319/meloni-aprovecha-crisis-ceuta-impulsar-agenda-migratoria.html",
+      "scraped_at": "2026-08-03T10:03:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
-      "subtitle": "El presidente afea la actitud “egoísta” de algunos gobiernos en la crisis de Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html",
-      "scraped_at": "2026-08-02T08:35:18Z"
+      "title": "Marruecos culpa de la crisis de Ceuta a las mafias y a la desinformación",
+      "subtitle": "El ministro de Asuntos Exteriores, José Manuel Albares, califica a Marruecos de socio fiable y remarca también la actividad inusual en las redes sociales",
+      "url": "https://www.lavanguardia.com/politica/20260803/11606568/marruecos-sacude-responsabilidad-crisis-ceuta-atribuye-desinformacion-mafias.html",
+      "scraped_at": "2026-08-03T10:03:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "En el trasfondo de la crisis migratoria, la final del Mundial 2030",
-      "subtitle": "Marruecos está pugnando con todo con España por llevarse la guinda del pastel en la Copa del Mundo",
-      "url": "https://www.lavanguardia.com/politica/20260802/11605880/trasfondo-crisis-migratoria-final-mundial-2030.html",
-      "scraped_at": "2026-08-02T08:35:19Z"
+      "title": "Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” ceutí",
+      "subtitle": "El líder del PP define al presidente del Gobierno como un “paria” en Europa",
+      "url": "https://www.lavanguardia.com/politica/20260803/11606660/feijoo-recrimina-sanchez-pida-explicaciones-marruecos-invasion-ceuta.html",
+      "scraped_at": "2026-08-03T10:03:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Las cunas del vino por las que pasó Ulises de vuelta a Ítaca en 'La Odisea' y ahora son bodegas",
-      "subtitle": "Un recorrido vitivinícola por los lugares que el protagonista del clásico de Homero recorrió durante sus diez años de periplo",
-      "url": "https://www.lavanguardia.com/comer/beber/20260802/11602741/vinos-pudo-haber-bebido-ulises-odisea-bodegas-nacieron-lugares-recorrieron-viaje-grecia-cdv.html",
-      "scraped_at": "2026-08-02T08:35:19Z"
+      "title": "Estas son las seis infecciones de transmisión sexual más comunes",
+      "subtitle": "Detectarlas a tiempo es clave para evitar complicaciones y frenar su transmisión",
+      "url": "https://www.lavanguardia.com/vida/salud/20260803/11603121/son-seis-infecciones-transmision-sexual-mas-comunes.html",
+      "scraped_at": "2026-08-03T10:03:08Z"
     }
   ]
 }
