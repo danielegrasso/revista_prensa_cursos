@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada”: La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de \"una acción dirigida por alguna organización o grupo criminal\" antes de resolver si es competente para investigar los hechos tras recibir una denuncia; Por qué se van los jóvenes de Marruecos: la falta de horizonte que empuja el éxodo: La salida de los jóvenes marroquíes no se explica solamente por su cercanía con España ni por los vídeos difundidos por redes sociales: es un flujo migratorio que tiene múltiples aristas sociales y económicas, como el desempleo y la desigualdad; Qué puede hacer España en su relación con Marruecos tras la crisis de Ceuta: El generalizado convencimiento de que el modelo de relaciones no sirve plantea la obvia necesidad de diseñar otro que nos lleve a superar tanto el permanente chantaje de Rabat, como el inútil apaciguamiento de Madrid ante cada nuevo pulso. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-03T10:03:05Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisis de Ceuta: El ministro del Interior, Fernando Grande-Marlaska, mantendrá un encuentro telemático con sus homólogos tras las críticas de Italia y otros países y la carta firmada por 22 de los socios —todos menos Francia, Portugal, Irlanda y Luxemburgo— contra la regularización de migrantes; El trabajo del CNI en la crisis de Ceuta provoca un choque al más alto nivel entre Defensa e Interior: Margarita Robles se desmarca de la línea oficial del Gobierno para señalar la responsabilidad de Marruecos y defiende el trabajo de los servicios de inteligencia frente a la acusación de Marlaska de que no alertaron de la movilización de miles de personas que cruzaron la frontera; Moncloa cesa de forma fulminante a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta: La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-04T08:51:21Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acción concertada”",
-      "subtitle": "La jueza María Tardón solicita a la Comisaría de Extranjería y Fronteras que averigüe si se trató de \"una acción dirigida por alguna organización o grupo criminal\" antes de resolver si es competente para investigar los hechos tras recibir una denuncia",
-      "url": "https://www.eldiario.es/politica/audiencia-nacional-pide-informe-policial-aclare-si-entrada-miles-personas-ceuta-accion-concertada_1_13424412.html",
-      "scraped_at": "2026-08-03T10:03:03Z"
+      "title": "El Gobierno reprochará a los socios de la UE su actitud “egoísta” en la reunión por la crisis de Ceuta",
+      "subtitle": "El ministro del Interior, Fernando Grande-Marlaska, mantendrá un encuentro telemático con sus homólogos tras las críticas de Italia y otros países y la carta firmada por 22 de los socios —todos menos Francia, Portugal, Irlanda y Luxemburgo— contra la regularización de migrantes",
+      "url": "https://www.eldiario.es/politica/gobierno-reprochara-socios-ue-actitud-egoista-reunion-crisis-ceuta_1_13425899.html",
+      "scraped_at": "2026-08-04T08:51:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Por qué se van los jóvenes de Marruecos: la falta de horizonte que empuja el éxodo",
-      "subtitle": "La salida de los jóvenes marroquíes no se explica solamente por su cercanía con España ni por los vídeos difundidos por redes sociales: es un flujo migratorio que tiene múltiples aristas sociales y económicas, como el desempleo y la desigualdad",
-      "url": "https://www.eldiario.es/desalambre/falta-horizonte-empuja-exodo-jovenes-marruecos-hermano-no-encontraba-trabajo_1_13424031.html",
-      "scraped_at": "2026-08-03T10:03:03Z"
+      "title": "El trabajo del CNI en la crisis de Ceuta provoca un choque al más alto nivel entre Defensa e Interior",
+      "subtitle": "Margarita Robles se desmarca de la línea oficial del Gobierno para señalar la responsabilidad de Marruecos y defiende el trabajo de los servicios de inteligencia frente a la acusación de Marlaska de que no alertaron de la movilización de miles de personas que cruzaron la frontera",
+      "url": "https://www.eldiario.es/politica/trabajo-cni-crisis-ceuta-provoca-choque-alto-nivel-defensa-e-interior_1_13425898.html",
+      "scraped_at": "2026-08-04T08:51:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Qué puede hacer España en su relación con Marruecos tras la crisis de Ceuta",
-      "subtitle": "El generalizado convencimiento de que el modelo de relaciones no sirve plantea la obvia necesidad de diseñar otro que nos lleve a superar tanto el permanente chantaje de Rabat, como el inútil apaciguamiento de Madrid ante cada nuevo pulso",
-      "url": "https://www.eldiario.es/internacional/espana-relacion-marruecos-crisis-ceuta_129_13423942.html",
-      "scraped_at": "2026-08-03T10:03:04Z"
+      "title": "Moncloa cesa de forma fulminante a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
+      "subtitle": "La decisión supone su cese en el puesto que tenía hasta ahora, no la pérdida de su condición de funcionaria. Publicó que unas 49.000 personas habrían entrado en Ceuta procedentes de Marruecos en un informe que luego fue borrado",
+      "url": "https://www.eldiario.es/politica/moncloa-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta_1_13426445.html",
+      "scraped_at": "2026-08-04T08:51:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sin sitio en el CETI de Ceuta y menores en descampados: “Exigimos que se movilicen recursos”",
-      "subtitle": "La mayoría de las personas marroquíes que cruzaron el jueves ya ha regresado mientras cientos de migrantes de África Subsahariana siguen durmiendo junto al Centro de Estancia Temporal de Inmigrantes y los recursos de acogida continúan saturados",
-      "url": "https://www.eldiario.es/desalambre/sitio-ceti-ceuta-menores-descampados-exigimos-movilicen-recursos_1_13424085.html",
-      "scraped_at": "2026-08-03T10:03:04Z"
+      "title": "Narjisse acogió al joven Abselam en su casa en Ceuta y luego fue a la frontera a comprobar que volvía a salvo",
+      "subtitle": "“No puedo dejar de evitar ponerme en la piel de todos los jóvenes que han salido de Marruecos”, dice la mujer, que logró entrar a Ceuta cuando tenía 17 años después de varios intentos y ahora está repartiendo comida en su casa a decenas de jóvenes migrantes",
+      "url": "https://www.eldiario.es/desalambre/narjisse-acogio-joven-abselam-casa-ceuta-luego-viajo-frontera-comprobar-volvia-salvo_1_13426353.html",
+      "scraped_at": "2026-08-04T08:51:20Z"
     },
     {
       "source": "elDiario.es",
       "title": "Última hora Ceuta",
-      "subtitle": "",
-      "url": "https://www.eldiario.es/politica/ultima-hora-llegada-migrantes-ceuta-familias-marroquies-buscan-ceuta_6_13423361.html",
-      "scraped_at": "2026-08-03T10:03:05Z"
+      "subtitle": "A la espera de la reunión extraordinaria del consejo de ministros de Interior en la Unión Europea, Marruecos aseguró anoche que alertó a España días antes de la crisis en Ceuta que la decisión del Supremo debilitaba la cooperación migratoria. El ministro del Interior, Fernando Grande-Marlaska, participará en la reunión extraordinaria esta mañana con el resto de ministros europeos, que se ha convocado a raíz de la crisis migratoria en Ceuta de los últimos días. En el encuentro, el Gobierno reprochará a los socios de la UE su actitud \"egoísta\".",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-entrada-miles-personas-ceuta_6_13426555.html",
+      "scraped_at": "2026-08-04T08:51:21Z"
     }
   ]
 }
