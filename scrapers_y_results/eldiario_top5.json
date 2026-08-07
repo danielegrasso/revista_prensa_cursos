@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Duermen a la intemperie”: Ante unas autoridades desbordadas, la asociación de vecinos del barrio del Príncipe está haciendo un registro extraoficial de menores para que la ciudad autónoma y el Estado acojan a los jóvenes migrantes con todas las garantías; Ceuta, Marruecos y Europa: las consecuencias de un régimen migratorio colonial y racista: Entender lo sucedido como un simple chantaje de Marruecos a España es una simplificación de la realidad. Es la consecuencia del régimen migratorio euromarroquí construido sobre estructuras heredadas del colonialismo en las que Europa determina quién puede moverse y quién no a partir de jerarquías raciales; Consejos de un cazador de eclipses: “Mucha gente grita, se queda sin aliento y llora involuntariamente”: Ángel Gómez Roldán, director y editor de la revista Astronomía, ha vivido nueve eclipses totales, ofrece consejos prácticos para la experiencia astronómica que se vivirá en la Península este verano. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-06T08:50:29Z",
+  "summary": "Resumen del día en elDiario.es: España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la frontera: El Gobierno no contempla que un episodio como el del 31 de julio pueda repetirse de forma inminente a pesar de la credibilidad que otorgan a los mensajes por redes con nuevas convocatorias para mediados de agosto: \"Ya estamos sobre aviso\"; Vox eleva la presión sobre el PP por la acogida de los menores de Ceuta en las comunidades que gobiernan en coalición: El PP asume que las autonomías cumplirán la ley para el reparto de los niños de Ceuta, una ciudad autónoma que preside un dirigente de su partido, mientras la ultraderecha agita la \"prioridad nacional\"; Tatuajes, cicatrices y ADN: dentro de la oficina que busca a los desaparecidos de la tragedia de Ceuta: La oficina habilitada por la Guardia Civil en la frontera del Tarajal ha recibido en sus primeras horas decenas de denuncias y trabaja por confirmar 29 casos en los que existen indicios de correspondencia entre cuerpos recuperados del mar y familiares que han contactado con la oficina. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-07T07:38:19Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Duermen a la intemperie”",
-      "subtitle": "Ante unas autoridades desbordadas, la asociación de vecinos del barrio del Príncipe está haciendo un registro extraoficial de menores para que la ciudad autónoma y el Estado acojan a los jóvenes migrantes con todas las garantías",
-      "url": "https://www.eldiario.es/desalambre/cientos-menores-migrantes-siguen-calles-principe-acogida-durmiendo-intemperie_1_13430498.html",
-      "scraped_at": "2026-08-06T08:50:26Z"
+      "title": "España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
+      "subtitle": "El Gobierno no contempla que un episodio como el del 31 de julio pueda repetirse de forma inminente a pesar de la credibilidad que otorgan a los mensajes por redes con nuevas convocatorias para mediados de agosto: \"Ya estamos sobre aviso\"",
+      "url": "https://www.eldiario.es/politica/espana-mantiene-alerta-ceuta-estrecha-coordinacion-marruecos-nuevas-llamadas-cruzar-frontera_1_13432739.html",
+      "scraped_at": "2026-08-07T07:38:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ceuta, Marruecos y Europa: las consecuencias de un régimen migratorio colonial y racista",
-      "subtitle": "Entender lo sucedido como un simple chantaje de Marruecos a España es una simplificación de la realidad. Es la consecuencia del régimen migratorio euromarroquí construido sobre estructuras heredadas del colonialismo en las que Europa determina quién puede moverse y quién no a partir de jerarquías raciales",
-      "url": "https://www.eldiario.es/internacional/ceuta-marruecos-europa-consecuencias-regimen-migratorio-colonial-racista_129_13430144.html",
-      "scraped_at": "2026-08-06T08:50:27Z"
+      "title": "Vox eleva la presión sobre el PP por la acogida de los menores de Ceuta en las comunidades que gobiernan en coalición",
+      "subtitle": "El PP asume que las autonomías cumplirán la ley para el reparto de los niños de Ceuta, una ciudad autónoma que preside un dirigente de su partido, mientras la ultraderecha agita la \"prioridad nacional\"",
+      "url": "https://www.eldiario.es/politica/vox-eleva-presion-pp-acogida-menores-ceuta-comunidades-gobiernan-coalicion_1_13431065.html",
+      "scraped_at": "2026-08-07T07:38:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Consejos de un cazador de eclipses: “Mucha gente grita, se queda sin aliento y llora involuntariamente”",
-      "subtitle": "Ángel Gómez Roldán, director y editor de la revista Astronomía, ha vivido nueve eclipses totales, ofrece consejos prácticos para la experiencia astronómica que se vivirá en la Península este verano",
-      "url": "https://www.eldiario.es/sociedad/consejos-cazador-eclipses-gente-grita-queda-aliento-llora-involuntariamente_1_12940151.html",
-      "scraped_at": "2026-08-06T08:50:28Z"
+      "title": "Tatuajes, cicatrices y ADN: dentro de la oficina que busca a los desaparecidos de la tragedia de Ceuta",
+      "subtitle": "La oficina habilitada por la Guardia Civil en la frontera del Tarajal ha recibido en sus primeras horas decenas de denuncias y trabaja por confirmar 29 casos en los que existen indicios de correspondencia entre cuerpos recuperados del mar y familiares que han contactado con la oficina",
+      "url": "https://www.eldiario.es/desalambre/tatuajes-cicatrices-adn-oficina-busca-desaparecidos-tragedia-ceuta_1_13432081.html",
+      "scraped_at": "2026-08-07T07:38:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El eclipse dispara el negocio espiritual en Ibiza: retiros, 'chakras' y escapadas “celestiales” por hasta 100.000 euros",
-      "subtitle": "Asociaciones y hoteles explotan el fenómeno astronómico para vender rituales y \"experiencias transformadoras\" de lujo, algunas propias de las corrientes New Age o de las pseudoterapias, en una isla convertida en escaparate internacional de la industria del bienestar y la espiritualidad",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/eclipse-dispara-negocio-espiritual-ibiza-retiros-chakras-escapadas-celestiales-100-000-euros_1_13427814.html",
-      "scraped_at": "2026-08-06T08:50:29Z"
+      "title": "La victoria de Abdul El-Sayed demuestra que el gran lobby proisraelí de EEUU ya no es intocable",
+      "subtitle": "Hasta ahora, cargar contra AIPAC era un suicidio político, pero la victoria de El-Sayed en Michigan y de otros progresistas en este ciclo de primarias del Partido Demócrata apuntan a que el poder absoluto del millonario grupo de presión se está resquebrajando",
+      "url": "https://www.eldiario.es/internacional/victoria-abdul-sayed-demuestra-gran-lobby-proisraeli-eeuu-no-intocable_1_13432810.html",
+      "scraped_at": "2026-08-07T07:38:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ingreso mínimo vital",
-      "subtitle": "El Gobierno lo ha comunicado al Comité Europeo de Derechos Sociales, aunque solo para ciertas reclamaciones de \"cobros indebidos\" a partir de 2024, algo que las ONG consideran insuficiente",
-      "url": "https://www.eldiario.es/economia/seguridad-social-estudia-ley-condonar-deudas-devoluciones-ingreso-minimo-vital-investiga-europa_1_13429024.html",
-      "scraped_at": "2026-08-06T08:50:29Z"
+      "title": "Pilar Bernabé",
+      "subtitle": "La delegada del Gobierno en la Comunitat Valenciana tuvo 207 comunicaciones el 29 de octubre de 2024 y la madrugada del 30, mientras el presidente de la Generalitat declaró al juzgado diez llamadas durante la sobremesa y 26 en todo el día",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pilar-bernabe-realizo-66-llamadas-dia-dana-mazon-comia-ventorro-alcaldes-guardia-civil-adif_1_13431388.html",
+      "scraped_at": "2026-08-07T07:38:19Z"
     }
   ]
 }
