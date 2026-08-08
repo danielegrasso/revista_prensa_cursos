@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La instrucción que recibieron los agentes: «No actuar, invitar a abandonar Ceuta»: Indignación entre las fuerzas policiales y militares por la indicación de «instancias superiores» que persigue evitar la imputación del delegado del Gobierno; El acuerdo entre España y Marruecos de 2007 permite exigir a Rabat que se haga cargo de los menores: El memorando firmado entre los dos países exige las autoridades marroquíes a colaborar con la policía en la identificación de estos menores y sus familias; La ayuda prometida por el Gobierno tendrá que esperar a que los ministros regresen de vacaciones: El rechazo de Sánchez a celebrar un Consejo de Ministros extraordinario para acelerar los trámites retrasa la disposición de 25 millones claves para Ceuta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-07T07:38:21Z",
+  "summary": "Resumen del día en ABC.es: Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»: La alerta por parte de las asociaciones que representan a ambos cuerpos llega tras la posibilidad de una nueva crisis migratoria y el miedo a que el Ministerio del Interior «no haga nada»; El Gobierno admite el «desborde» de menores, que casi triplican las previsiones iniciales: La ministra de Juventud e Infancia, Sira Rego, anunció este viernes durante su primera jornada de visita a la localidad que se han filiado ya 1.342 niños; La pulsera de urgencias del hospital de Ceuta como efecto llamada: «Creen que les servirá para pedir asilo»: Centenares de inmigrantes acuden diariamente a un hospital desbordado con problemas leves para conseguir un documento 'oficial' de su presencia en España. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-08T07:11:07Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La instrucción que recibieron los agentes: «No actuar, invitar a abandonar Ceuta»",
-      "subtitle": "Indignación entre las fuerzas policiales y militares por la indicación de «instancias superiores» que persigue evitar la imputación del delegado del Gobierno",
-      "url": "https://www.abc.es/espana/fuerzas-cuerpos-seguridad-recibieron-instruccion-invitar-marcharse-20260807010653-nt.html",
-      "scraped_at": "2026-08-07T07:38:20Z"
+      "title": "Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»",
+      "subtitle": "La alerta por parte de las asociaciones que representan a ambos cuerpos llega tras la posibilidad de una nueva crisis migratoria y el miedo a que el Ministerio del Interior «no haga nada»",
+      "url": "https://www.abc.es/espana/policias-guardias-civiles-avisan-refuerzos-enviados-ceuta-20260807010924-nt.html",
+      "scraped_at": "2026-08-08T07:11:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "El acuerdo entre España y Marruecos de 2007 permite exigir a Rabat que se haga cargo de los menores",
-      "subtitle": "El memorando firmado entre los dos países exige las autoridades marroquíes a colaborar con la policía en la identificación de estos menores y sus familias",
-      "url": "https://www.abc.es/espana/espana-puede-exigir-marruecos-haga-cargo-decenas-20260806010659-nt.html",
-      "scraped_at": "2026-08-07T07:38:20Z"
+      "title": "El Gobierno admite el «desborde» de menores, que casi triplican las previsiones iniciales",
+      "subtitle": "La ministra de Juventud e Infancia, Sira Rego, anunció este viernes durante su primera jornada de visita a la localidad que se han filiado ya 1.342 niños",
+      "url": "https://www.abc.es/espana/situacion-menores-desborda-ceuta-gobierno-iniste-ciudad-20260807010930-nt.html",
+      "scraped_at": "2026-08-08T07:11:06Z"
     },
     {
       "source": "ABC.es",
-      "title": "La ayuda prometida por el Gobierno tendrá que esperar a que los ministros regresen de vacaciones",
-      "subtitle": "El rechazo de Sánchez a celebrar un Consejo de Ministros extraordinario para acelerar los trámites retrasa la disposición de 25 millones claves para Ceuta",
-      "url": "https://www.abc.es/espana/ayuda-prometida-gobierno-llegara-minimo-dentro-mes-20260807010706-nt.html",
-      "scraped_at": "2026-08-07T07:38:20Z"
+      "title": "La pulsera de urgencias del hospital de Ceuta como efecto llamada: «Creen que les servirá para pedir asilo»",
+      "subtitle": "Centenares de inmigrantes acuden diariamente a un hospital desbordado con problemas leves para conseguir un documento 'oficial' de su presencia en España",
+      "url": "https://www.abc.es/sociedad/pulsera-urgencias-hospital-ceuta-efecto-llamada-creen-20260808010936-nt.html",
+      "scraped_at": "2026-08-08T07:11:07Z"
     },
     {
       "source": "ABC.es",
-      "title": "Vivas agradece a Felipe VI su cariño y apoyo a Ceuta y promete: «El Rey vendrá»",
-      "subtitle": "Su Majestad se reúne durante hora y cuarto con el presidente ceutí en el marco de uno «de los momentos más difíciles de la historia reciente» de la ciudad autónoma",
-      "url": "https://www.abc.es/espana/casa-real/vivas-agradece-felipe-carino-apoyo-ceuta-promete-20260806195823-nt.html",
-      "scraped_at": "2026-08-07T07:38:21Z"
+      "title": "La cronología del ajedrez político en cada crisis migratoria España-Marruecos",
+      "subtitle": "El contencioso del Sáhara Occidental, la soberanía de Ceuta y Melilla y el equilibrio diplomático con Argelia articulan medio siglo de tensiones entre Madrid y Rabat",
+      "url": "https://www.abc.es/espana/cronologia-ajedrez-politico-crisis-migratoria-espanamarruecos-20260808000501-ntrc.html",
+      "scraped_at": "2026-08-08T07:11:07Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-07T07:38:21Z"
+      "scraped_at": "2026-08-08T07:11:07Z"
     }
   ]
 }
