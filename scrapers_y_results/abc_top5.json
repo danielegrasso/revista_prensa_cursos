@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Moncloa desoyó todos los avisos que alertaban del asalto a Ceuta: La Agencia Europea de la Guardia de Fronteras y Costas (Frontex) publicó un informe un mes antes de las crisis alertando de una «presencia migratoria significativa» en Marruecos; Los ministros que están en el punto de mira por la gestión de Ceuta: En una emergencia que Sánchez definió como un «ataque» a España, la mayoría de sus colaboradores han permanecido ausentes, llegaron tarde o se contradijeron; El infierno de los inocentes detenidos: «Tengo pesadillas con volver a entrar en las cárceles de Bukele»: El régimen de excepción que se aprobó en 2022, y sigue vigente, acabó con la lacra de las pandillas, pero organizaciones de derechos humanos denuncian que miles de personas han sido encarceladas de forma arbitraria. ABC ha hablado con un joven encarcelado durante dos años. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-09T07:12:34Z",
+  "summary": "Resumen del día en ABC.es: La escalada de la inflación pulveriza la subida de los sueldos: El aumento de los precios se consolida por quinto mes consecutivo por encima del 3% impulsados por el empuje de los carburantes y la electricidad, y fuerzan la pérdida de poder adquisitivo; Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos: Mientras la Casa Blanca culpa al Gobierno español de la crisis migratoria, informes del departamento de Estado y el Capitolio alertan de graves deficiencias en Marruecos; De los garajes a 50 euros al colapso de las inmobiliarias tras la entrada masiva en Ceuta: Las agencias aseguran haber recibido llamadas de inmigrantes incluso de madrugada, un aluvión de peticiones en mitad de la crisis habitacional que atraviesa la ciudad autónoma. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-10T08:00:56Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Moncloa desoyó todos los avisos que alertaban del asalto a Ceuta",
-      "subtitle": "La Agencia Europea de la Guardia de Fronteras y Costas (Frontex) publicó un informe un mes antes de las crisis alertando de una «presencia migratoria significativa» en Marruecos",
-      "url": "https://www.abc.es/espana/bruselas-aviso-presion-migratoria-ceuta-contradijo-sanchez-20260807011510-nt.html",
-      "scraped_at": "2026-08-09T07:12:33Z"
+      "title": "La escalada de la inflación pulveriza la subida de los sueldos",
+      "subtitle": "El aumento de los precios se consolida por quinto mes consecutivo por encima del 3% impulsados por el empuje de los carburantes y la electricidad, y fuerzan la pérdida de poder adquisitivo",
+      "url": "https://www.abc.es/economia/inflacion-traga-ganancias-salariales-trabajadores-20260810201135-nt.html",
+      "scraped_at": "2026-08-10T08:00:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los ministros que están en el punto de mira por la gestión de Ceuta",
-      "subtitle": "En una emergencia que Sánchez definió como un «ataque» a España, la mayoría de sus colaboradores han permanecido ausentes, llegaron tarde o se contradijeron",
-      "url": "https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html",
-      "scraped_at": "2026-08-09T07:12:33Z"
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos",
+      "subtitle": "Mientras la Casa Blanca culpa al Gobierno español de la crisis migratoria, informes del departamento de Estado y el Capitolio alertan de graves deficiencias en Marruecos",
+      "url": "https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html",
+      "scraped_at": "2026-08-10T08:00:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "El infierno de los inocentes detenidos: «Tengo pesadillas con volver a entrar en las cárceles de Bukele»",
-      "subtitle": "El régimen de excepción que se aprobó en 2022, y sigue vigente, acabó con la lacra de las pandillas, pero organizaciones de derechos humanos denuncian que miles de personas han sido encarceladas de forma arbitraria. ABC ha hablado con un joven encarcelado durante dos años",
-      "url": "https://www.abc.es/internacional/infierno-inocentes-detenidos-salvador-pesadillas-volver-entrar-20260806011608-nt.html",
-      "scraped_at": "2026-08-09T07:12:33Z"
+      "title": "De los garajes a 50 euros al colapso de las inmobiliarias tras la entrada masiva en Ceuta",
+      "subtitle": "Las agencias aseguran haber recibido llamadas de inmigrantes incluso de madrugada, un aluvión de peticiones en mitad de la crisis habitacional que atraviesa la ciudad autónoma",
+      "url": "https://www.abc.es/economia/garajes-euros-noche-colapso-inmobiliarias-tras-invasion-20260806012334-nt.html",
+      "scraped_at": "2026-08-10T08:00:56Z"
     },
     {
       "source": "ABC.es",
-      "title": "Así reaccionan los animales ante un eclipse solar",
-      "subtitle": "La ciencia lleva décadas documentando la alteración del comportamiento de la fauna durante el cambio repentino del día en noche, fenómeno como el que ocurrirá el próximo 12 de agosto",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/reaccionan-animales-eclipse-solar-total-silencio-aves-20260808011627-nt.html",
-      "scraped_at": "2026-08-09T07:12:33Z"
+      "title": "Los ceutíes salen a las calles y se unen contra el discurso de Moncloa: «¡Basta ya!»",
+      "subtitle": "Más de 15.000 ceutíes se han concentrado para pedir «respuestas» a España y Europa tras la crisis migratoria",
+      "url": "https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html",
+      "scraped_at": "2026-08-10T08:00:56Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-09T07:12:34Z"
+      "scraped_at": "2026-08-10T08:00:56Z"
     }
   ]
 }

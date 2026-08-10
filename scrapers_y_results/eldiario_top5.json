@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: “Solo necesitamos una oportunidad”: el camino a Ceuta de Mohamed y cientos de sudaneses desde la peor crisis humanitaria del mundo: Mohamed, jurista, es uno de los más de 500 sudaneses que han dormido estos días en los alrededores del CETI y que piden a las autoridades españolas que les concedan asilo; Sánchez se planta con Meloni y entra al choque con Italia tras calmar al resto de la UE: La pugna entre ambos vecinos por la reacción de Italia tras la entrada en suelo español de 72.000 personas desde Marruecos ha hecho que vuelvan a Europa los viejos tiempos de los controles fronterizos; Los viajeros atrapados en la crisis entre España e Italia: “Es ridículo que hayamos llegado a esto”: El Gobierno responde durante el primer día con controles laxos a las revisiones extraordinarias de Meloni tras la crisis en Ceuta. En total, y según datos de Exteriores, se han practicado 199 controles fronterizos a pasajeros durante la jornada sábado. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-09T07:12:32Z",
+  "summary": "Resumen del día en elDiario.es: La pareja de Ayuso declara un reparto de 1,2 millones en dividendos y factura 710.000 euros en su consultora: Maxwell Cremona registra pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020; Los vecinos levantan campamentos para acoger a mujeres y niñas que llegaron a Ceuta: “Durante días no conseguimos comer”: Centenares de personas viven en los campamentos vecinales y son los propios ciudadanos los que atienden las necesidades de los migrantes e incluso se encargan de hacer turnos para garantizar su seguridad; Meloni denuncia la regularización en España mientras llama a miles de trabajadores migrantes para Italia con un programa disfuncional: Pese a su batalla contra la regularización en España, la coalición de la ultraderechista ha ampliado considerablemente las cuotas de permisos para extracomunitarios que permite el llamado Decreto de Flujos, pero las organizaciones denuncian que el sistema es disfuncional y los atrae para posteriormente empujarlos a una situación de irregularidad. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-10T08:00:55Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "“Solo necesitamos una oportunidad”: el camino a Ceuta de Mohamed y cientos de sudaneses desde la peor crisis humanitaria del mundo",
-      "subtitle": "Mohamed, jurista, es uno de los más de 500 sudaneses que han dormido estos días en los alrededores del CETI y que piden a las autoridades españolas que les concedan asilo",
-      "url": "https://www.eldiario.es/desalambre/necesitamos-oportunidad-camino-ceuta-mohamed-cientos-sudaneses-peor-crisis-humanitaria-mundo_1_13431936.html",
-      "scraped_at": "2026-08-09T07:12:29Z"
+      "title": "La pareja de Ayuso declara un reparto de 1,2 millones en dividendos y factura 710.000 euros en su consultora",
+      "subtitle": "Maxwell Cremona registra pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020",
+      "url": "https://www.eldiario.es/economia/pareja-ayuso-reparte-1-2-millones-dividendos-factura-710-000-euros-consultora_1_13433593.html",
+      "scraped_at": "2026-08-10T08:00:53Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez se planta con Meloni y entra al choque con Italia tras calmar al resto de la UE",
+      "title": "Los vecinos levantan campamentos para acoger a mujeres y niñas que llegaron a Ceuta: “Durante días no conseguimos comer”",
+      "subtitle": "Centenares de personas viven en los campamentos vecinales y son los propios ciudadanos los que atienden las necesidades de los migrantes e incluso se encargan de hacer turnos para garantizar su seguridad",
+      "url": "https://www.eldiario.es/desalambre/vecinos-levantan-campamentos-acoger-mujeres-ninas-llegaron-ceuta-durante-dias-no-comer_1_13437085.html",
+      "scraped_at": "2026-08-10T08:00:53Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Meloni denuncia la regularización en España mientras llama a miles de trabajadores migrantes para Italia con un programa disfuncional",
+      "subtitle": "Pese a su batalla contra la regularización en España, la coalición de la ultraderechista ha ampliado considerablemente las cuotas de permisos para extracomunitarios que permite el llamado Decreto de Flujos, pero las organizaciones denuncian que el sistema es disfuncional y los atrae para posteriormente empujarlos a una situación de irregularidad",
+      "url": "https://www.eldiario.es/internacional/meloni-denuncia-regularizacion-espana-llama-miles-trabajadores-migrantes-italia-programa-disfuncional_1_13434995.html",
+      "scraped_at": "2026-08-10T08:00:54Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "España tiene casi 8 millones de viviendas no principales, un 30% del total",
+      "subtitle": "Solo cuatro países europeos tienen más vivienda vacía y segundas residencias que España, que podría cubrir parte de su déficit de casas",
+      "url": "https://www.eldiario.es/economia/espana-8-millones-viviendas-no-principales-30-total_1_13371525.html",
+      "scraped_at": "2026-08-10T08:00:55Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Meloni Sánchez",
       "subtitle": "La pugna entre ambos vecinos por la reacción de Italia tras la entrada en suelo español de 72.000 personas desde Marruecos ha hecho que vuelvan a Europa los viejos tiempos de los controles fronterizos",
       "url": "https://www.eldiario.es/politica/sanchez-planta-meloni-entra-choque-italia-calmar-resto-socios-europeos_1_13435217.html",
-      "scraped_at": "2026-08-09T07:12:30Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los viajeros atrapados en la crisis entre España e Italia: “Es ridículo que hayamos llegado a esto”",
-      "subtitle": "El Gobierno responde durante el primer día con controles laxos a las revisiones extraordinarias de Meloni tras la crisis en Ceuta. En total, y según datos de Exteriores, se han practicado 199 controles fronterizos a pasajeros durante la jornada sábado",
-      "url": "https://www.eldiario.es/politica/viajeros-atrapados-crisis-espana-e-italia-ridiculo-hayamos-llegado_1_13436448.html",
-      "scraped_at": "2026-08-09T07:12:30Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La crisis de Ceuta aviva las críticas contra el Mundial 2030 junto a Marruecos: “No podemos agachar la cabeza siempre”",
-      "subtitle": "Mientras la cifra oficial de jóvenes fallecidos en su intento de entrar a España aumenta a 141, crecen las voces que reclaman un debate sobre si España y Portugal deben ir de la mano de Marruecos",
-      "url": "https://www.eldiario.es/politica/crisis-ceuta-aviva-criticas-mundial-2030-marruecos-no-agachar-cabeza_1_13434826.html",
-      "scraped_at": "2026-08-09T07:12:31Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Donald Trump",
-      "subtitle": "El cambio de estrategia del sector más progresista de los demócratas complica los pronósticos de los republicanos mientras la guerra de Irán se recrudece en el bolsillo de los votantes",
-      "url": "https://www.eldiario.es/internacional/tormenta-malestar-desatada-trump-amenaza-arrebatarle-congreso-elecciones-noviembre_1_13435481.html",
-      "scraped_at": "2026-08-09T07:12:32Z"
+      "scraped_at": "2026-08-10T08:00:55Z"
     }
   ]
 }
