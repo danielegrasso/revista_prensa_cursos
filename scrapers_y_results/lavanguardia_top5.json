@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Colombia intensifica los rescates tras el terremoto de magnitud 7,4 que deja ya 132 muertos: Debido al gran número de heridos, que ya pasa del medio millar de personas, los hospitales comienzan a estar al límite de sus capacidades; Así tembló el aeropuerto de Pereira durante el terremoto de Colombia: Siete aeródromos, incluido el de Pereira, han cerrado sus operaciones por los daños registrados en las terminales; Rescatados con vida un bebé y su madre de los escombros tras el terremoto en Cali: El país latinoamericano vive horas críticas tras un seísmo de magnitud 7,4 que enterró miles de víctimas después de derrumbar múltiples edificios. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-11T07:32:36Z",
+  "summary": "Resumen del día en La Vanguardia: El eclipse más macabro: El eclipse solar de hoy reafirma nuestra condición humana. Desde siempre, la humanidad ha prestado atención a este fenómeno. Con curiosidad, con fascinación, con devoción o con miedo. De un tiempo a esta parte, además, su observación ha derivado en un evento social. Esta tarde,...; Vigilancia en playas, miradores y el parque de Collserola con motivo del eclipse: El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles; La IA y la crisis geopolítica provocan un repunte del paro juvenil en el mundo: La tasa de jóvenes que ni estudian ni trabajan sube al 20%, según la OIT. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-12T07:48:01Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Colombia intensifica los rescates tras el terremoto de magnitud 7,4 que deja ya 132 muertos",
-      "subtitle": "Debido al gran número de heridos, que ya pasa del medio millar de personas, los hospitales comienzan a estar al límite de sus capacidades",
-      "url": "https://www.lavanguardia.com/internacional/20260811/11611762/colombia-intensifica-rescates-terremoto-magnitud-7-4-deja-132-muertos.html",
-      "scraped_at": "2026-08-11T07:32:35Z"
+      "title": "El eclipse más macabro",
+      "subtitle": "El eclipse solar de hoy reafirma nuestra condición humana. Desde siempre, la humanidad ha prestado atención a este fenómeno. Con curiosidad, con fascinación, con devoción o con miedo. De un tiempo a esta parte, además, su observación ha derivado en un evento social. Esta tarde,...",
+      "url": "https://www.lavanguardia.com/opinion/20260812/11612092/eclipse-mas-macabro.html",
+      "scraped_at": "2026-08-12T07:48:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Así tembló el aeropuerto de Pereira durante el terremoto de Colombia",
-      "subtitle": "Siete aeródromos, incluido el de Pereira, han cerrado sus operaciones por los daños registrados en las terminales",
-      "url": "https://www.lavanguardia.com/internacional/20260810/11611565/asi-temnblado-aeopuerto-pereira-terremoto-magnitud-7-4-colombia.html",
-      "scraped_at": "2026-08-11T07:32:36Z"
+      "title": "Vigilancia en playas, miradores y el parque de Collserola con motivo del eclipse",
+      "subtitle": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260811/11612139/vigilancia-especial-playas-miradores-parque-collserola-motivo-eclipse.html",
+      "scraped_at": "2026-08-12T07:48:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Rescatados con vida un bebé y su madre de los escombros tras el terremoto en Cali",
-      "subtitle": "El país latinoamericano vive horas críticas tras un seísmo de magnitud 7,4 que enterró miles de víctimas después de derrumbar múltiples edificios",
-      "url": "https://www.lavanguardia.com/internacional/20260811/11611766/rescatistas-sacan-vida-madre-bebe-escombros-cali-devastador-terremoto-colombia.html",
-      "scraped_at": "2026-08-11T07:32:36Z"
+      "title": "La IA y la crisis geopolítica provocan un repunte del paro juvenil en el mundo",
+      "subtitle": "La tasa de jóvenes que ni estudian ni trabajan sube al 20%, según la OIT",
+      "url": "https://www.lavanguardia.com/economia/20260811/11612209/ia-crisis-geopolitica-provocan-repunte-paro-juvenil-mundo.html",
+      "scraped_at": "2026-08-12T07:48:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Guía sobre lo que hay que hacer, y lo que no, para disfrutar del eclipse en Barcelona",
-      "subtitle": "El mar, la montaña y otros enclaves muy singulares permitirán a la ciudadanía seguir el fenómeno en la capital catalana",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260811/11611589/guia-sobre-hay-disfrutar-eclipse-barcelona.html",
-      "scraped_at": "2026-08-11T07:32:36Z"
+      "title": "Colombia busca a más de 3.000 desaparecidos por el terremoto",
+      "subtitle": "Las autoridades regionales y locales cifran en más de 250 las personas fallecidas",
+      "url": "https://www.lavanguardia.com/internacional/20260812/11612238/colombia-busca-mas-3-000-desaparecidos-terremoto.html",
+      "scraped_at": "2026-08-12T07:48:00Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El trabajo esencial de las cabras",
-      "subtitle": "“Un pequeño rebaño de cabras mantiene la ribera del río en óptimas condiciones para evitar incendios en La Fortesa”",
-      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260811/11608522/trabajo-esencial-cabras.html",
-      "scraped_at": "2026-08-11T07:32:36Z"
+      "title": "La ministra de Sanidad niega el colapso en los hospitales de Ceuta y anuncia una visita",
+      "subtitle": "El PP denunció ayer el colapso sanitario en la ciudad autónoma y reprochó a Mónica García que no haya pasado por allí en los tres años que lleva en el Gobierno",
+      "url": "https://www.lavanguardia.com/politica/20260812/11612445/ministra-sanidad-niega-colapso-hospitales-ceuta-anuncia-visita.html",
+      "scraped_at": "2026-08-12T07:48:01Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Familias ceutíes trasladan a sus hijos a la península por miedo a la situación: «No quiero que mis hijos tengan que vivir encerrados o estar con miedo», dice una madre; Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»: El sociólogo y experto en fenómenos migratorios, dirige la revista 'Mondi Migrante' y un centro de estudios sobre este tema, atiende a ABC y no ahorra críticas para los gobiernos español, italiano y comunitario tras la crisis de Ceuta; La zona cero del terremoto en Colombia: «Iba rumbo a la oficina cuando el suelo comenzó a brincar»: Un abogado de Quibdó cuenta a ABC el desastre de Colombia desde el lugar donde inició el terremoto que ya ha cobrado más de 100 vidas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-11T07:32:34Z",
+  "summary": "Resumen del día en ABC.es: El eclipse desde una cárcel como metáfora de la reinserción: «El día está soleado, oscurece, y vuelve la claridad. Como las etapas de una persona», reflexiona Cristian, desde Mas d'Enric, la única prisión de Cataluña desde donde se observará el fenómeno; Mercedes, ciega por un eclipse: «El de ahora me da miedo, parece una fiesta infantil»: La exdiputada de Ciudadanos arrastra un trauma desde el accidente, cuando solo tenía cinco años. Tiene claro que sus dos hijas no lo verán; Anormales, hoy y siempre: Los muyahidines televisivos del régimen se inquietan más por un futbolista orgulloso de su bandera que por el asalto a la valla de Ceuta o por los encapuchados que persiguen a los aficionados que enarbolan la bandera española. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-12T07:47:59Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Familias ceutíes trasladan a sus hijos a la península por miedo a la situación",
-      "subtitle": "«No quiero que mis hijos tengan que vivir encerrados o estar con miedo», dice una madre",
-      "url": "https://www.abc.es/espana/familias-ceuties-trasladan-hijos-menores-peninsula-miedo-20260811011730-nt.html",
-      "scraped_at": "2026-08-11T07:32:33Z"
+      "title": "El eclipse desde una cárcel como metáfora de la reinserción",
+      "subtitle": "«El día está soleado, oscurece, y vuelve la claridad. Como las etapas de una persona», reflexiona Cristian, desde Mas d'Enric, la única prisión de Cataluña desde donde se observará el fenómeno",
+      "url": "https://www.abc.es/sociedad/eclipse-metafora-reinsercion-prision-denric-20260810012828-nt.html",
+      "scraped_at": "2026-08-12T07:47:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
-      "subtitle": "El sociólogo y experto en fenómenos migratorios, dirige la revista 'Mondi Migrante' y un centro de estudios sobre este tema, atiende a ABC y no ahorra críticas para los gobiernos español, italiano y comunitario tras la crisis de Ceuta",
-      "url": "https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html",
-      "scraped_at": "2026-08-11T07:32:33Z"
+      "title": "Mercedes, ciega por un eclipse: «El de ahora me da miedo, parece una fiesta infantil»",
+      "subtitle": "La exdiputada de Ciudadanos arrastra un trauma desde el accidente, cuando solo tenía cinco años. Tiene claro que sus dos hijas no lo verán",
+      "url": "https://www.abc.es/sociedad/mercedes-eclipse-dejo-ciega-anos-miedo-ninos-20260811193535-nt.html",
+      "scraped_at": "2026-08-12T07:47:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "La zona cero del terremoto en Colombia: «Iba rumbo a la oficina cuando el suelo comenzó a brincar»",
-      "subtitle": "Un abogado de Quibdó cuenta a ABC el desastre de Colombia desde el lugar donde inició el terremoto que ya ha cobrado más de 100 vidas",
-      "url": "https://www.abc.es/internacional/iba-rumbo-oficina-suelo-comenzo-brincar-20260811010744-nt.html",
-      "scraped_at": "2026-08-11T07:32:34Z"
+      "title": "Anormales, hoy y siempre",
+      "subtitle": "Los muyahidines televisivos del régimen se inquietan más por un futbolista orgulloso de su bandera que por el asalto a la valla de Ceuta o por los encapuchados que persiguen a los aficionados que enarbolan la bandera española",
+      "url": "https://www.abc.es/opinion/agustin-pery-anormales-hoy-siempre-20260811125053-nt.html",
+      "scraped_at": "2026-08-12T07:47:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Espriella se enfrenta a su primera crisis humanitaria tras 48 horas en el poder",
-      "subtitle": "El presidente De la Espriella ha declarado desastre nacional tras el seísmo que afectó el noroeste del país y se sintió también en Ecuador, Venezuela y Panamá",
-      "url": "https://www.abc.es/internacional/terremoto-sacude-colombia-siente-ecuador-panama-20260810153338-nt.html",
-      "scraped_at": "2026-08-11T07:32:34Z"
+      "title": "El rumor de las cosas pequeñas",
+      "subtitle": "En algún momento los periodistas pensaron que lo importante era llevarse con los poderosos y dejar de escuchar el ruido de la calle",
+      "url": "https://www.abc.es/opinion/alfonso-j-ussia-rumor-pequenas-20260811123141-nt.html",
+      "scraped_at": "2026-08-12T07:47:59Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-11T07:32:34Z"
+      "scraped_at": "2026-08-12T07:47:59Z"
     }
   ]
 }
