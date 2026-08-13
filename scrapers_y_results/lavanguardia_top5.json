@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El eclipse más macabro: El eclipse solar de hoy reafirma nuestra condición humana. Desde siempre, la humanidad ha prestado atención a este fenómeno. Con curiosidad, con fascinación, con devoción o con miedo. De un tiempo a esta parte, además, su observación ha derivado en un evento social. Esta tarde,...; Vigilancia en playas, miradores y el parque de Collserola con motivo del eclipse: El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles; La IA y la crisis geopolítica provocan un repunte del paro juvenil en el mundo: La tasa de jóvenes que ni estudian ni trabajan sube al 20%, según la OIT. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-12T07:48:01Z",
+  "summary": "Resumen del día en La Vanguardia: Jordi Savall vive el eclipse total entre acordes y viñedos: Al maestro le sorprendió la experiencia astronómica en Les Pobles; La portavoz de Trump, Karoline Leavitt, deja el cargo “para pasar más tiempo con su familia”: A sus 28 años, se convirtió el año pasado en la secretaria de prensa más joven en la historia de la Casa Blanca; Cuestión de poder, no de género: Siempre queda alguien por caer del caballo. Esta semana le ha tocado el turno a algunos socialdemócratas, muy en particular a los españoles, tras comprobar que una de sus lideresas, la primera ministra danesa Mette Frederiksen, se sumaba entusiásticamente a su homóloga italiana,.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-13T07:49:19Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El eclipse más macabro",
-      "subtitle": "El eclipse solar de hoy reafirma nuestra condición humana. Desde siempre, la humanidad ha prestado atención a este fenómeno. Con curiosidad, con fascinación, con devoción o con miedo. De un tiempo a esta parte, además, su observación ha derivado en un evento social. Esta tarde,...",
-      "url": "https://www.lavanguardia.com/opinion/20260812/11612092/eclipse-mas-macabro.html",
-      "scraped_at": "2026-08-12T07:48:00Z"
+      "title": "Jordi Savall vive el eclipse total entre acordes y viñedos",
+      "subtitle": "Al maestro le sorprendió la experiencia astronómica en Les Pobles",
+      "url": "https://www.lavanguardia.com/cultura/20260813/11613023/jordi-savall-vive-eclipse-total-acordes-vinedos.html",
+      "scraped_at": "2026-08-13T07:49:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Vigilancia en playas, miradores y el parque de Collserola con motivo del eclipse",
-      "subtitle": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260811/11612139/vigilancia-especial-playas-miradores-parque-collserola-motivo-eclipse.html",
-      "scraped_at": "2026-08-12T07:48:00Z"
+      "title": "La portavoz de Trump, Karoline Leavitt, deja el cargo “para pasar más tiempo con su familia”",
+      "subtitle": "A sus 28 años, se convirtió el año pasado en la secretaria de prensa más joven en la historia de la Casa Blanca",
+      "url": "https://www.lavanguardia.com/internacional/20260812/11612839/portavoz-trump-karoline-leavitt-deja-cargo-pasar-mas-familia.html",
+      "scraped_at": "2026-08-13T07:49:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La IA y la crisis geopolítica provocan un repunte del paro juvenil en el mundo",
-      "subtitle": "La tasa de jóvenes que ni estudian ni trabajan sube al 20%, según la OIT",
-      "url": "https://www.lavanguardia.com/economia/20260811/11612209/ia-crisis-geopolitica-provocan-repunte-paro-juvenil-mundo.html",
-      "scraped_at": "2026-08-12T07:48:00Z"
+      "title": "Cuestión de poder, no de género",
+      "subtitle": "Siempre queda alguien por caer del caballo. Esta semana le ha tocado el turno a algunos socialdemócratas, muy en particular a los españoles, tras comprobar que una de sus lideresas, la primera ministra danesa Mette Frederiksen, se sumaba entusiásticamente a su homóloga italiana,...",
+      "url": "https://www.lavanguardia.com/politica/20260813/11612785/cuestion-genero.html",
+      "scraped_at": "2026-08-13T07:49:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Colombia busca a más de 3.000 desaparecidos por el terremoto",
-      "subtitle": "Las autoridades regionales y locales cifran en más de 250 las personas fallecidas",
-      "url": "https://www.lavanguardia.com/internacional/20260812/11612238/colombia-busca-mas-3-000-desaparecidos-terremoto.html",
-      "scraped_at": "2026-08-12T07:48:00Z"
+      "title": "Rabat estudia suspender el acuerdo de extradición con España",
+      "subtitle": "El titular marroquí de Justicia critica a Madrid por “aceptar” y “regularizar” a migrantes",
+      "url": "https://www.lavanguardia.com/politica/20260813/11613063/rabat-estudia-suspender-acuerdo-extradicion-espana.html",
+      "scraped_at": "2026-08-13T07:49:18Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La ministra de Sanidad niega el colapso en los hospitales de Ceuta y anuncia una visita",
-      "subtitle": "El PP denunció ayer el colapso sanitario en la ciudad autónoma y reprochó a Mónica García que no haya pasado por allí en los tres años que lleva en el Gobierno",
-      "url": "https://www.lavanguardia.com/politica/20260812/11612445/ministra-sanidad-niega-colapso-hospitales-ceuta-anuncia-visita.html",
-      "scraped_at": "2026-08-12T07:48:01Z"
+      "title": "Eventos La Vanguardia",
+      "subtitle": "",
+      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
+      "scraped_at": "2026-08-13T07:49:19Z"
     }
   ]
 }
