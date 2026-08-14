@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Pueblos, playas, montes... España, llena por el fenómeno del año: Miles de personas se desplazan a lo largo del territorio español para disfrutar de este fenómeno histórico; El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta: Diana Morant, Fernando Grande-Marlaska, Ángel Víctor Torres y Óscar López comparten con 140 invitados por el Gobierno el mejor lugar para ver el fenómeno astronómico; Entre el espectáculo y la emergencia: Para mirar al cielo se crea un mando nacional unificado, pero en otras crisis abundan la improvisación y el reparto de culpas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-13T07:49:17Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno extiende la vida útil de Almaraz hasta 2030: El Ejecutivo cede a la presión tras el beneplácito del Consejo Nuclear a la prórroga de la operatividad de los reactores; El goteo de menores inmigrantes continúa en Melilla pese a la presunta colaboración marroquí: 350 niños y adolescentes, algunos llegados tras recorrer solos más de mil kilómetros, llenan un centro con capacidad para solo 80; Cinco años en la «cárcel» talibán: «No es sólo lo que he perdido, sino lo que todavía podría ser»: Una joven narra a ABC desde Kabul cómo es su día a día después de perder todos sus derechos tras la vuelta hace un lustro, se cumple este sábado, de los fundamentalistas al poder en Afganistán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-14T07:47:01Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Pueblos, playas, montes... España, llena por el fenómeno del año",
-      "subtitle": "Miles de personas se desplazan a lo largo del territorio español para disfrutar de este fenómeno histórico",
-      "url": "https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html",
-      "scraped_at": "2026-08-13T07:49:16Z"
+      "title": "El Gobierno extiende la vida útil de Almaraz hasta 2030",
+      "subtitle": "El Ejecutivo cede a la presión tras el beneplácito del Consejo Nuclear a la prórroga de la operatividad de los reactores",
+      "url": "https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html",
+      "scraped_at": "2026-08-14T07:47:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
-      "subtitle": "Diana Morant, Fernando Grande-Marlaska, Ángel Víctor Torres y Óscar López comparten con 140 invitados por el Gobierno el mejor lugar para ver el fenómeno astronómico",
-      "url": "https://www.abc.es/espana/sanchez-interrumpe-vacaciones-ver-eclipse-guadalajara-guarda-20260812210249-nt.html",
-      "scraped_at": "2026-08-13T07:49:16Z"
+      "title": "El goteo de menores inmigrantes continúa en Melilla pese a la presunta colaboración marroquí",
+      "subtitle": "350 niños y adolescentes, algunos llegados tras recorrer solos más de mil kilómetros, llenan un centro con capacidad para solo 80",
+      "url": "https://www.abc.es/espana/goteo-menores-inmigrantes-continua-melilla-pese-presunta-20260814010816-nt.html",
+      "scraped_at": "2026-08-14T07:47:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "Entre el espectáculo y la emergencia",
-      "subtitle": "Para mirar al cielo se crea un mando nacional unificado, pero en otras crisis abundan la improvisación y el reparto de culpas",
-      "url": "https://www.abc.es/opinion/editorial-espectaculo-emergencia-20260812211633-nt.html",
-      "scraped_at": "2026-08-13T07:49:16Z"
+      "title": "Cinco años en la «cárcel» talibán: «No es sólo lo que he perdido, sino lo que todavía podría ser»",
+      "subtitle": "Una joven narra a ABC desde Kabul cómo es su día a día después de perder todos sus derechos tras la vuelta hace un lustro, se cumple este sábado, de los fundamentalistas al poder en Afganistán",
+      "url": "https://www.abc.es/internacional/dia-vida-mujer-afgana-cinco-anos-viviendo-20260814010933-nt.html",
+      "scraped_at": "2026-08-14T07:47:00Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 'efecto eclipse' no acaba: la economía española recibirá más de 1.300 millones en dos años",
-      "subtitle": "Los turistas tienden a alargar su estancia durante la semana, pero, además, en 2027 y 2028 la Península volverá a ser el escenario principal de otras dos ocultaciones solares",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/efecto-eclipse-acaba-economia-espanola-recibira-1300-20260813020125-nt.html",
-      "scraped_at": "2026-08-13T07:49:17Z"
+      "title": "El Balón de Oro más abierto de la historia",
+      "subtitle": "El georgiano Kvaratskhelia enreda un poco más el incierto desenlace del premio al mejor futbolista del curso con una actuación estelar en la Supercopa que no se sabe si computa",
+      "url": "https://www.abc.es/deportes/futbol/carencias-candidatos-balon-oro-20260727010618-nt.html",
+      "scraped_at": "2026-08-14T07:47:01Z"
     },
     {
       "source": "ABC.es",
-      "title": "Gestores administrativos coinciden: «Un sustituto cuesta 2.300 euros para un autónomo y conciliar puede obligarles a cerrar»",
-      "subtitle": "Contratar un sustituto supone un elevado coste mensual que aboca al cierre a miles de autónomos",
-      "url": "https://www.cope.es/actualidad/economia/noticias/gestores-administrativos-coinciden-contratar-sustituto-cuesta-2-300-euros-autonomo-conciliar-obligar-cerrar-3-millones-negocios-20260813_3419191.html",
-      "scraped_at": "2026-08-13T07:49:17Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-08-14T07:47:01Z"
     }
   ]
 }
