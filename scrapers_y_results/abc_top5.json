@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Gobierno extiende la vida útil de Almaraz hasta 2030: El Ejecutivo cede a la presión tras el beneplácito del Consejo Nuclear a la prórroga de la operatividad de los reactores; El goteo de menores inmigrantes continúa en Melilla pese a la presunta colaboración marroquí: 350 niños y adolescentes, algunos llegados tras recorrer solos más de mil kilómetros, llenan un centro con capacidad para solo 80; Cinco años en la «cárcel» talibán: «No es sólo lo que he perdido, sino lo que todavía podría ser»: Una joven narra a ABC desde Kabul cómo es su día a día después de perder todos sus derechos tras la vuelta hace un lustro, se cumple este sábado, de los fundamentalistas al poder en Afganistán. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-14T07:47:01Z",
+  "summary": "Resumen del día en ABC.es: La prórroga de Almaraz hace saltar por los aires el calendario de cierre de las nucleares: La empresa que gestiona los residuos, Enresa, tendrá problemas para gestionar el desmantelamiento de cuatro reactores y eso obliga a revisar el resto de centrales; Las veces que Teresa Ribera negó la moratoria de las plantas atómicas: La exvicepresidenta tercera y exministra de Transición Ecológica impulsó el cierre de las nucleares durante su etapa en el Gobierno; «Mañana empezaremos a luchar por la continuidad hasta 2040»: Empresarios, trabajadores y jóvenes de la zona reciben, en plenas ferias y fiestas locales, la decisión del Gobierno con alivio y el ánimo de continuar dando batalla: «Por fin alzamos todos la voz». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-15T06:55:06Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Gobierno extiende la vida útil de Almaraz hasta 2030",
-      "subtitle": "El Ejecutivo cede a la presión tras el beneplácito del Consejo Nuclear a la prórroga de la operatividad de los reactores",
-      "url": "https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html",
-      "scraped_at": "2026-08-14T07:47:00Z"
+      "title": "La prórroga de Almaraz hace saltar por los aires el calendario de cierre de las nucleares",
+      "subtitle": "La empresa que gestiona los residuos, Enresa, tendrá problemas para gestionar el desmantelamiento de cuatro reactores y eso obliga a revisar el resto de centrales",
+      "url": "https://www.abc.es/economia/prorroga-almaraz-saltar-aires-cierre-nucleares-20260815012905-nt.html",
+      "scraped_at": "2026-08-15T06:55:04Z"
     },
     {
       "source": "ABC.es",
-      "title": "El goteo de menores inmigrantes continúa en Melilla pese a la presunta colaboración marroquí",
-      "subtitle": "350 niños y adolescentes, algunos llegados tras recorrer solos más de mil kilómetros, llenan un centro con capacidad para solo 80",
-      "url": "https://www.abc.es/espana/goteo-menores-inmigrantes-continua-melilla-pese-presunta-20260814010816-nt.html",
-      "scraped_at": "2026-08-14T07:47:00Z"
+      "title": "Las veces que Teresa Ribera negó la moratoria de las plantas atómicas",
+      "subtitle": "La exvicepresidenta tercera y exministra de Transición Ecológica impulsó el cierre de las nucleares durante su etapa en el Gobierno",
+      "url": "https://www.abc.es/economia/rentable-sentido-veces-teresa-ribera-nego-prorroga-20260816010202-nt.html",
+      "scraped_at": "2026-08-15T06:55:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cinco años en la «cárcel» talibán: «No es sólo lo que he perdido, sino lo que todavía podría ser»",
-      "subtitle": "Una joven narra a ABC desde Kabul cómo es su día a día después de perder todos sus derechos tras la vuelta hace un lustro, se cumple este sábado, de los fundamentalistas al poder en Afganistán",
-      "url": "https://www.abc.es/internacional/dia-vida-mujer-afgana-cinco-anos-viviendo-20260814010933-nt.html",
-      "scraped_at": "2026-08-14T07:47:00Z"
+      "title": "«Mañana empezaremos a luchar por la continuidad hasta 2040»",
+      "subtitle": "Empresarios, trabajadores y jóvenes de la zona reciben, en plenas ferias y fiestas locales, la decisión del Gobierno con alivio y el ánimo de continuar dando batalla: «Por fin alzamos todos la voz»",
+      "url": "https://www.abc.es/economia/fin-alzamos-voz-entorno-almaraz-festeja-prorroga-20260815012934-nt.html",
+      "scraped_at": "2026-08-15T06:55:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Balón de Oro más abierto de la historia",
-      "subtitle": "El georgiano Kvaratskhelia enreda un poco más el incierto desenlace del premio al mejor futbolista del curso con una actuación estelar en la Supercopa que no se sabe si computa",
-      "url": "https://www.abc.es/deportes/futbol/carencias-candidatos-balon-oro-20260727010618-nt.html",
-      "scraped_at": "2026-08-14T07:47:01Z"
+      "title": "Calma tensa en Ceuta ante la amenaza de un nuevo asalto",
+      "subtitle": "Los vecinos asumen con resignación su nueva realidad, con dificultad para hacer vida en unas calles y playas invadidas, y aunque, no sea este sábado, sí asumen que volverá a ocurrir",
+      "url": "https://www.abc.es/espana/ceuta-vive-tension-amenaza-marroqui-nuevo-asalto-20260814012754-nt.html",
+      "scraped_at": "2026-08-15T06:55:05Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-14T07:47:01Z"
+      "title": "«Las freidoras de aire suelen tener una potencia de 1.500 W: usarlas durante media hora consume unos 0,75 kWh, el equivalente a 15 céntimos»",
+      "subtitle": "Este electrodoméstico de moda es más eficiente de lo que parece y su uso diario apenas se refleja en la factura de la luz, con un coste de unos pocos...",
+      "url": "https://www.cope.es/actualidad/economia/noticias/freidoras-aire-suelen-potencia-1-500-w-usarlas-media-hora-consume-0-75-kwh-equivalente-15-centimos-20260814_3410636.html",
+      "scraped_at": "2026-08-15T06:55:06Z"
     }
   ]
 }
