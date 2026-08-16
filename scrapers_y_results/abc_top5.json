@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La prórroga de Almaraz hace saltar por los aires el calendario de cierre de las nucleares: La empresa que gestiona los residuos, Enresa, tendrá problemas para gestionar el desmantelamiento de cuatro reactores y eso obliga a revisar el resto de centrales; Las veces que Teresa Ribera negó la moratoria de las plantas atómicas: La exvicepresidenta tercera y exministra de Transición Ecológica impulsó el cierre de las nucleares durante su etapa en el Gobierno; «Mañana empezaremos a luchar por la continuidad hasta 2040»: Empresarios, trabajadores y jóvenes de la zona reciben, en plenas ferias y fiestas locales, la decisión del Gobierno con alivio y el ánimo de continuar dando batalla: «Por fin alzamos todos la voz». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-15T06:55:06Z",
+  "summary": "Resumen del día en ABC.es: Vivas e Imbroda: «La frontera es muy vulnerable. Estamos hablando de la integridad de España»: Los presidentes de Ceuta y Melilla hablan de las amenazas y desafíos de los territorios transfronterizos con la amenaza marroquí latente; La frontera no debe depender solo de Rabat: Marruecos ha probado que controla la frontera cuando quiere; España no puede permitir que su soberanía dependa de Rabat; Sánchez busca un último asidero en la polarización europea con la inmigración: «Le favorecería una victoria de Le Pen en Francia porque así se convertiría en el salvador de la UE frente a la extrema derecha», comenta un analista. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-16T06:56:10Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La prórroga de Almaraz hace saltar por los aires el calendario de cierre de las nucleares",
-      "subtitle": "La empresa que gestiona los residuos, Enresa, tendrá problemas para gestionar el desmantelamiento de cuatro reactores y eso obliga a revisar el resto de centrales",
-      "url": "https://www.abc.es/economia/prorroga-almaraz-saltar-aires-cierre-nucleares-20260815012905-nt.html",
-      "scraped_at": "2026-08-15T06:55:04Z"
+      "title": "Vivas e Imbroda: «La frontera es muy vulnerable. Estamos hablando de la integridad de España»",
+      "subtitle": "Los presidentes de Ceuta y Melilla hablan de las amenazas y desafíos de los territorios transfronterizos con la amenaza marroquí latente",
+      "url": "https://www.abc.es/espana/presidentes-ceuta-melilla-frontera-vulnerable-hablando-integridad-20260816013710-nt.html",
+      "scraped_at": "2026-08-16T06:56:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Las veces que Teresa Ribera negó la moratoria de las plantas atómicas",
-      "subtitle": "La exvicepresidenta tercera y exministra de Transición Ecológica impulsó el cierre de las nucleares durante su etapa en el Gobierno",
-      "url": "https://www.abc.es/economia/rentable-sentido-veces-teresa-ribera-nego-prorroga-20260816010202-nt.html",
-      "scraped_at": "2026-08-15T06:55:05Z"
+      "title": "La frontera no debe depender solo de Rabat",
+      "subtitle": "Marruecos ha probado que controla la frontera cuando quiere; España no puede permitir que su soberanía dependa de Rabat",
+      "url": "https://www.abc.es/opinion/editorial-frontera-debe-depender-solo-rabat-20260815200922-nt.html",
+      "scraped_at": "2026-08-16T06:56:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Mañana empezaremos a luchar por la continuidad hasta 2040»",
-      "subtitle": "Empresarios, trabajadores y jóvenes de la zona reciben, en plenas ferias y fiestas locales, la decisión del Gobierno con alivio y el ánimo de continuar dando batalla: «Por fin alzamos todos la voz»",
-      "url": "https://www.abc.es/economia/fin-alzamos-voz-entorno-almaraz-festeja-prorroga-20260815012934-nt.html",
-      "scraped_at": "2026-08-15T06:55:05Z"
+      "title": "Sánchez busca un último asidero en la polarización europea con la inmigración",
+      "subtitle": "«Le favorecería una victoria de Le Pen en Francia porque así se convertiría en el salvador de la UE frente a la extrema derecha», comenta un analista",
+      "url": "https://www.abc.es/espana/sanchez-busca-nueva-tabla-salvacion-polarizacion-europea-20260816012637-nt.html",
+      "scraped_at": "2026-08-16T06:56:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Calma tensa en Ceuta ante la amenaza de un nuevo asalto",
-      "subtitle": "Los vecinos asumen con resignación su nueva realidad, con dificultad para hacer vida en unas calles y playas invadidas, y aunque, no sea este sábado, sí asumen que volverá a ocurrir",
-      "url": "https://www.abc.es/espana/ceuta-vive-tension-amenaza-marroqui-nuevo-asalto-20260814012754-nt.html",
-      "scraped_at": "2026-08-15T06:55:05Z"
+      "title": "La frontera",
+      "subtitle": "El concepto es todo aquello que desplaza el límite del mapa al individuo. Es el proyecto",
+      "url": "https://www.abc.es/opinion/karina-sainz-borgo-frontera-20260815180715-nt.html",
+      "scraped_at": "2026-08-16T06:56:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Las freidoras de aire suelen tener una potencia de 1.500 W: usarlas durante media hora consume unos 0,75 kWh, el equivalente a 15 céntimos»",
-      "subtitle": "Este electrodoméstico de moda es más eficiente de lo que parece y su uso diario apenas se refleja en la factura de la luz, con un coste de unos pocos...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/freidoras-aire-suelen-potencia-1-500-w-usarlas-media-hora-consume-0-75-kwh-equivalente-15-centimos-20260814_3410636.html",
-      "scraped_at": "2026-08-15T06:55:06Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-08-16T06:56:10Z"
     }
   ]
 }
