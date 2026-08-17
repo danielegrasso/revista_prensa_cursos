@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La agenda de la ultraderecha global secuestra la política española: Prioridad nacional, desregulación, no nacidos, fraude electoral... los grandes temas que las extremas derechas despliegan en todo el mundo se han convertido en el centro del debate nacional, jaleados por los pactos entre PP y Vox y las propuestas legislativas de Isabel Díaz Ayuso; Marruecos eleva a 294 los migrantes interceptados por la fuerza para frenar un intento de entrada a Ceuta: Se han producido retenciones y cargas en una zona montañosa de las inmediaciones de Castillejos. Además, las fuerzas marroquíes dicen que han detenido a 61 personas sospechosas de incitación a la migración irregular; El PP recurre a falsedades y exageraciones para atacar al Gobierno por la crisis de Ceuta: Los portavoces del PP alientan el miedo a las personas extranjeras, ignoran las responsabilidades legales de sus gobiernos autonómicos en la acogida de menores y evitan exigir responsabilidades a Marruecos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-16T06:56:08Z",
+  "summary": "Resumen del día en elDiario.es: 2,5 millones de horas de trabajo no se pagan cada semana en España: La falta de un sistema eficaz de registro horario dificulta demostrar el tiempo trabajado y deja expuestos a sectores como el de la educación, donde aseguran dedicar hasta 10 o 15 horas semanales fuera de su jornada; La sequía lleva al límite a pueblos enteros del norte que ya necesitan camiones de agua para abastecerse: La acumulación de semanas \"extremadamente secas\" agota manantiales y pozos ya muy explotados que necesitan las lluvias al tiempo que los ganaderos del norte ven desaparecidos los pastos de los que dependen sus animales en verano; Los errores y retrasos judiciales libran del banquillo al conspiranoico Santiago Royuela: La Audiencia Provincial de Barcelona apela a la prescripción y a defectos en la investigación para archivar el caso contra él por amenazar a un exdiputado del PP en Catalunya con mensajes y audios. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-17T07:13:08Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La agenda de la ultraderecha global secuestra la política española",
-      "subtitle": "Prioridad nacional, desregulación, no nacidos, fraude electoral... los grandes temas que las extremas derechas despliegan en todo el mundo se han convertido en el centro del debate nacional, jaleados por los pactos entre PP y Vox y las propuestas legislativas de Isabel Díaz Ayuso",
-      "url": "https://www.eldiario.es/internacional/agenda-ultraderecha-internacional-secuestra-politica-espanola_1_13404607.html",
-      "scraped_at": "2026-08-16T06:56:05Z"
+      "title": "2,5 millones de horas de trabajo no se pagan cada semana en España",
+      "subtitle": "La falta de un sistema eficaz de registro horario dificulta demostrar el tiempo trabajado y deja expuestos a sectores como el de la educación, donde aseguran dedicar hasta 10 o 15 horas semanales fuera de su jornada",
+      "url": "https://www.eldiario.es/economia/horas-extras-invisibles-2-5-millones-horas-trabajo-no-pagan-espana-equivale-68-000-empleos_1_13442432.html",
+      "scraped_at": "2026-08-17T07:13:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Marruecos eleva a 294 los migrantes interceptados por la fuerza para frenar un intento de entrada a Ceuta",
-      "subtitle": "Se han producido retenciones y cargas en una zona montañosa de las inmediaciones de Castillejos. Además, las fuerzas marroquíes dicen que han detenido a 61 personas sospechosas de incitación a la migración irregular",
-      "url": "https://www.eldiario.es/internacional/marruecos-asegura-frenado-cientos-migrantes-alcanzar-ceuta_1_13448944.html",
-      "scraped_at": "2026-08-16T06:56:06Z"
+      "title": "La sequía lleva al límite a pueblos enteros del norte que ya necesitan camiones de agua para abastecerse",
+      "subtitle": "La acumulación de semanas \"extremadamente secas\" agota manantiales y pozos ya muy explotados que necesitan las lluvias al tiempo que los ganaderos del norte ven desaparecidos los pastos de los que dependen sus animales en verano",
+      "url": "https://www.eldiario.es/sociedad/sequia-lleva-limite-pueblos-enteros-norte-necesitan-camiones-agua-abastecerse_1_13447119.html",
+      "scraped_at": "2026-08-17T07:13:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP recurre a falsedades y exageraciones para atacar al Gobierno por la crisis de Ceuta",
-      "subtitle": "Los portavoces del PP alientan el miedo a las personas extranjeras, ignoran las responsabilidades legales de sus gobiernos autonómicos en la acogida de menores y evitan exigir responsabilidades a Marruecos",
-      "url": "https://www.eldiario.es/politica/pp-recurre-falsedades-exageraciones-atacar-gobierno-crisis-ceuta_1_13445995.html",
-      "scraped_at": "2026-08-16T06:56:07Z"
+      "title": "Los errores y retrasos judiciales libran del banquillo al conspiranoico Santiago Royuela",
+      "subtitle": "La Audiencia Provincial de Barcelona apela a la prescripción y a defectos en la investigación para archivar el caso contra él por amenazar a un exdiputado del PP en Catalunya con mensajes y audios",
+      "url": "https://www.eldiario.es/politica/errores-retrasos-judiciales-libran-banquillo-conspiranoico-santiago-royuela_1_13301838.html",
+      "scraped_at": "2026-08-17T07:13:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "De un pago dudoso al domicilio de su empresa pantalla: las incongruencias en las cuentas de la pareja de Ayuso",
-      "subtitle": "Las sociedades de González Amador suman otro ejercicio con datos contradictorios: la del presunto soborno dice que vuelve a la sede que tenía cuando la compró a su jefe en Quirón y su consultora sanitaria informa de un dividendo que no está claro que repartiera",
-      "url": "https://www.eldiario.es/politica/pago-dudoso-domicilio-empresa-pantalla-incongruencias-cuentas-pareja-ayuso_1_13446009.html",
-      "scraped_at": "2026-08-16T06:56:07Z"
+      "title": "Una caravana solidaria a Ceuta intenta llenar el vacío institucional: “La gente empieza a derrumbarse”",
+      "subtitle": "Un colectivo de voluntarios ha recogido ropa, pañales, comida y otros bienes básicos en toda España para donarlos a los migrantes que permanecen en la ciudad autónoma dos semanas después de haber llegado desde Marruecos",
+      "url": "https://www.eldiario.es/desalambre/caravana-solidaria-ceuta-llenar-vacio-institucional-gente-empieza-derrumbarse_1_13447994.html",
+      "scraped_at": "2026-08-17T07:13:07Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cazas OTAN Rumanía",
-      "subtitle": "El aparato fue interceptado y destruido entre las localidades Baleni y Cudalbi, en el sureste del país, cerca de la frontera con Moldavia. Rumanía no ha confirmado ni procedencia ni el origen del dron",
-      "url": "https://www.eldiario.es/internacional/caza-espanol-otan-derriba-dron-vulnero-espacio-aereo-rumania_1_13449815.html",
-      "scraped_at": "2026-08-16T06:56:08Z"
+      "title": "Mónica García",
+      "subtitle": "\"Asociar inmigración con enfermedad, es injusto y xenófobo. Los migrantes no traen enfermedades\", ha criticado la ministra que ha reconocido que la sanidad en Ceuta está \"tensionada\" y que la prioridad en estos momentos es \"darle techos\" a estas personas",
+      "url": "https://www.eldiario.es/politica/monica-garcia-cifra-5-800-personas-atendidas-durante-crisis-ceuta-niega-colapso-sanitario_1_13450154.html",
+      "scraped_at": "2026-08-17T07:13:08Z"
     }
   ]
 }

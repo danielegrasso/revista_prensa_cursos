@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: PP y Vox ganan ya en 38 provincias y diluyen al bloque de Sánchez a mandar en sólo ocho: La suma PP-Vox alcanzaría entre 196 y 204 escaños, mientras el PSOE pierde terreno en buena parte del mapa y Vox disputa a los socialistas la segunda plaza en 19 provincias; El PP indaga en si fue \"proporcionado\" que el Gobierno gastara 72.000 euros en el acto oficial del eclipse: Quiere que el Gobierno aclare qué órgano autorizó la utilización del Observatorio y quién \"decidió\" que el espacio permaneciese cerrado al público; Una doble barrera física y jurídica en el mar de Ceuta: disuade y permite devolver en caliente: Superar el nuevo obstáculo convierte a los migrantes en susceptibles de devoluciones en caliente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-08-16T06:56:03Z",
+  "summary": "Resumen del día en El Mundo: Un Congreso paralizado con menos leyes que nunca mientras Sánchez bate récord de decretos: Nunca se aprobaron tan pocas leyes. Y hay 170 normas atascadas. Con los datos del revelador balance en el Congreso iniciamos una serie que examina la etapa de Sánchez en el tramo final hacia las urnas; Recta final de un mandato perdido: Al abuso del decreto se suma que nunca antes se habían aprobado tan pocas leyes en el primer trienio de una legislatura; El mayor parque eólico de Repsol le abre un agujero contable de casi 300 millones: La empresa suspende 'sine die' la segunda fase del proyecto Antofagasta, en Chile, obligado a operar a medio gas por la saturación de la red eléctrica. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-08-17T07:13:03Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "PP y Vox ganan ya en 38 provincias y diluyen al bloque de Sánchez a mandar en sólo ocho",
-      "subtitle": "La suma PP-Vox alcanzaría entre 196 y 204 escaños, mientras el PSOE pierde terreno en buena parte del mapa y Vox disputa a los socialistas la segunda plaza en 19 provincias",
-      "url": "https://www.elmundo.es/espana/2026/08/15/6a80a85d21efa0a66c8b4595.html",
-      "scraped_at": "2026-08-16T06:56:02Z"
+      "title": "Un Congreso paralizado con menos leyes que nunca mientras Sánchez bate récord de decretos",
+      "subtitle": "Nunca se aprobaron tan pocas leyes. Y hay 170 normas atascadas. Con los datos del revelador balance en el Congreso iniciamos una serie que examina la etapa de Sánchez en el tramo final hacia las urnas",
+      "url": "https://www.elmundo.es/espana/2026/08/16/6a82101ee4d4d81c118b459a.html",
+      "scraped_at": "2026-08-17T07:13:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "El PP indaga en si fue \"proporcionado\" que el Gobierno gastara 72.000 euros en el acto oficial del eclipse",
-      "subtitle": "Quiere que el Gobierno aclare qué órgano autorizó la utilización del Observatorio y quién \"decidió\" que el espacio permaneciese cerrado al público",
-      "url": "https://www.elmundo.es/espana/2026/08/16/6a805225fdddffc1778b4589.html",
-      "scraped_at": "2026-08-16T06:56:02Z"
+      "title": "Recta final de un mandato perdido",
+      "subtitle": "Al abuso del decreto se suma que nunca antes se habían aprobado tan pocas leyes en el primer trienio de una legislatura",
+      "url": "https://www.elmundo.es/opinion/editorial/2026/08/16/6a81d3a6e9cf4aae0d8b4576.html",
+      "scraped_at": "2026-08-17T07:13:03Z"
     },
     {
       "source": "El Mundo",
-      "title": "Una doble barrera física y jurídica en el mar de Ceuta: disuade y permite devolver en caliente",
-      "subtitle": "Superar el nuevo obstáculo convierte a los migrantes en susceptibles de devoluciones en caliente",
-      "url": "https://www.elmundo.es/espana/2026/08/15/6a8080f5e9cf4a77488b457b.html",
-      "scraped_at": "2026-08-16T06:56:03Z"
+      "title": "El mayor parque eólico de Repsol le abre un agujero contable de casi 300 millones",
+      "subtitle": "La empresa suspende 'sine die' la segunda fase del proyecto Antofagasta, en Chile, obligado a operar a medio gas por la saturación de la red eléctrica",
+      "url": "https://www.elmundo.es/economia/empresas/2026/08/16/6a7b2412fdddffc11d8b459a.html",
+      "scraped_at": "2026-08-17T07:13:03Z"
     },
     {
       "source": "El Mundo",
-      "title": "El pinchazo de otro asalto masivo a Ceuta no tapa el problema: \"Creo que volveremos con las cosas mejor preparadas\"",
-      "subtitle": "El pinchazo del 15-A deja una frontera blindada y una juventud magrebí que ya ha comprobado que el sueño español no es como lo pintan las redes",
-      "url": "https://www.elmundo.es/espana/2026/08/15/6a80b7c2e9cf4abf358b45a1.html",
-      "scraped_at": "2026-08-16T06:56:03Z"
+      "title": "Una vida entera al margen de la Seguridad Social: \"Tengo 69 años y estoy obligada a seguir trabajando\"",
+      "subtitle": "Casi ocho de cada 10 trabajadoras del hogar creen que tendrán que seguir trabajando después de jubilarse, según un informe de Oxfam Intermón",
+      "url": "https://www.elmundo.es/economia/2026/08/16/6a70b1ccfdddff0a738b456d.html",
+      "scraped_at": "2026-08-17T07:13:03Z"
     },
     {
       "source": "El Mundo",
       "title": "Francina Armengol",
       "subtitle": "Se cumplen tres años de que Junts y ERC obligaran a utilizar el catalán en el Congreso",
       "url": "https://www.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html",
-      "scraped_at": "2026-08-16T06:56:03Z"
+      "scraped_at": "2026-08-17T07:13:03Z"
     }
   ]
 }
