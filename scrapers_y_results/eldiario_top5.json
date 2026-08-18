@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: 2,5 millones de horas de trabajo no se pagan cada semana en España: La falta de un sistema eficaz de registro horario dificulta demostrar el tiempo trabajado y deja expuestos a sectores como el de la educación, donde aseguran dedicar hasta 10 o 15 horas semanales fuera de su jornada; La sequía lleva al límite a pueblos enteros del norte que ya necesitan camiones de agua para abastecerse: La acumulación de semanas \"extremadamente secas\" agota manantiales y pozos ya muy explotados que necesitan las lluvias al tiempo que los ganaderos del norte ven desaparecidos los pastos de los que dependen sus animales en verano; Los errores y retrasos judiciales libran del banquillo al conspiranoico Santiago Royuela: La Audiencia Provincial de Barcelona apela a la prescripción y a defectos en la investigación para archivar el caso contra él por amenazar a un exdiputado del PP en Catalunya con mensajes y audios. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-17T07:13:08Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno achaca a la falta de colaboración de Vivas el retraso en la respuesta a la crisis de Ceuta: El Ejecutivo central anuncia cuatro emplazamientos para acoger a 1.500 personas migrantes y el presidente ceutí amenaza con llevar la situación de la ciudad autónoma a la justicia si se alarga; La crisis sanitaria en Ceuta no está en los hospitales, sino en las calles: muchos migrantes están empeorando: “Los que llegaron sin mucho malestar ya están mostrando síntomas de alguna enfermedad, síntomas de malestar, de agotamiento físico, psicológico”, señalan desde la Asociación Elín.; El PSOE de Ceuta reabre su brecha: qué ha pasado entre el grupo parlamentario y la vieja guardia de la Ejecutiva: El entorno de los diputados que han optado por operar de forma separada a la agrupación local relata desplantes como la no invitación a una cena con el ministro Torres o ausencias en los consejos de administración como detonantes, extremo que niegan desde la Ejecutiva. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-18T07:00:36Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "2,5 millones de horas de trabajo no se pagan cada semana en España",
-      "subtitle": "La falta de un sistema eficaz de registro horario dificulta demostrar el tiempo trabajado y deja expuestos a sectores como el de la educación, donde aseguran dedicar hasta 10 o 15 horas semanales fuera de su jornada",
-      "url": "https://www.eldiario.es/economia/horas-extras-invisibles-2-5-millones-horas-trabajo-no-pagan-espana-equivale-68-000-empleos_1_13442432.html",
-      "scraped_at": "2026-08-17T07:13:05Z"
+      "title": "El Gobierno achaca a la falta de colaboración de Vivas el retraso en la respuesta a la crisis de Ceuta",
+      "subtitle": "El Ejecutivo central anuncia cuatro emplazamientos para acoger a 1.500 personas migrantes y el presidente ceutí amenaza con llevar la situación de la ciudad autónoma a la justicia si se alarga",
+      "url": "https://www.eldiario.es/politica/gobierno-achaca-falta-colaboracion-vivas-retraso-respuesta-crisis-ceuta_1_13452165.html",
+      "scraped_at": "2026-08-18T07:00:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La sequía lleva al límite a pueblos enteros del norte que ya necesitan camiones de agua para abastecerse",
-      "subtitle": "La acumulación de semanas \"extremadamente secas\" agota manantiales y pozos ya muy explotados que necesitan las lluvias al tiempo que los ganaderos del norte ven desaparecidos los pastos de los que dependen sus animales en verano",
-      "url": "https://www.eldiario.es/sociedad/sequia-lleva-limite-pueblos-enteros-norte-necesitan-camiones-agua-abastecerse_1_13447119.html",
-      "scraped_at": "2026-08-17T07:13:06Z"
+      "title": "La crisis sanitaria en Ceuta no está en los hospitales, sino en las calles: muchos migrantes están empeorando",
+      "subtitle": "“Los que llegaron sin mucho malestar ya están mostrando síntomas de alguna enfermedad, síntomas de malestar, de agotamiento físico, psicológico”, señalan desde la Asociación Elín.",
+      "url": "https://www.eldiario.es/desalambre/crisis-sanitaria-ceuta-no-hospitales-calles-migrantes-empeorando_1_13451094.html",
+      "scraped_at": "2026-08-18T07:00:34Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Los errores y retrasos judiciales libran del banquillo al conspiranoico Santiago Royuela",
-      "subtitle": "La Audiencia Provincial de Barcelona apela a la prescripción y a defectos en la investigación para archivar el caso contra él por amenazar a un exdiputado del PP en Catalunya con mensajes y audios",
-      "url": "https://www.eldiario.es/politica/errores-retrasos-judiciales-libran-banquillo-conspiranoico-santiago-royuela_1_13301838.html",
-      "scraped_at": "2026-08-17T07:13:06Z"
+      "title": "El PSOE de Ceuta reabre su brecha: qué ha pasado entre el grupo parlamentario y la vieja guardia de la Ejecutiva",
+      "subtitle": "El entorno de los diputados que han optado por operar de forma separada a la agrupación local relata desplantes como la no invitación a una cena con el ministro Torres o ausencias en los consejos de administración como detonantes, extremo que niegan desde la Ejecutiva",
+      "url": "https://www.eldiario.es/politica/psoe-ceuta-reabre-brecha-pasado-grupo-parlamentario-vieja-guardia-ejecutiva_1_13451988.html",
+      "scraped_at": "2026-08-18T07:00:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Una caravana solidaria a Ceuta intenta llenar el vacío institucional: “La gente empieza a derrumbarse”",
-      "subtitle": "Un colectivo de voluntarios ha recogido ropa, pañales, comida y otros bienes básicos en toda España para donarlos a los migrantes que permanecen en la ciudad autónoma dos semanas después de haber llegado desde Marruecos",
-      "url": "https://www.eldiario.es/desalambre/caravana-solidaria-ceuta-llenar-vacio-institucional-gente-empieza-derrumbarse_1_13447994.html",
-      "scraped_at": "2026-08-17T07:13:07Z"
+      "title": "Irán desafía a un Trump errático tras el vencimiento del acuerdo entre Teherán y Washington",
+      "subtitle": "El plazo para negociar la paz previsto en el memorándum de entendimiento caduca sin que se atisbe la paz mientras Teherán redobla sus exigencias y el presidente estadounidense da bandazos en su discurso público y amenaza incluso con bombardear Omán",
+      "url": "https://www.eldiario.es/internacional/iran-desafia-trump-erratico-vencimiento-acuerdo-teheran-washington_1_13451237.html",
+      "scraped_at": "2026-08-18T07:00:35Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Mónica García",
-      "subtitle": "\"Asociar inmigración con enfermedad, es injusto y xenófobo. Los migrantes no traen enfermedades\", ha criticado la ministra que ha reconocido que la sanidad en Ceuta está \"tensionada\" y que la prioridad en estos momentos es \"darle techos\" a estas personas",
-      "url": "https://www.eldiario.es/politica/monica-garcia-cifra-5-800-personas-atendidas-durante-crisis-ceuta-niega-colapso-sanitario_1_13450154.html",
-      "scraped_at": "2026-08-17T07:13:08Z"
+      "title": "Inquilinos Madrid",
+      "subtitle": "Una vivienda de 5 habitaciones sin comedor llega a costar unos 2.500 euros con ocho personas viviendo, más del doble que en los contratos anteriores, con habitaciones de hasta 690 euros bajo el modelo especulador de realquiler de la empresa Madrid Compartido",
+      "url": "https://www.eldiario.es/economia/chopera-29-propietario-inmobro-alian-echar-inquilinos-alquilar-pisos-habitaciones-2-000-euros_1_13427597.html",
+      "scraped_at": "2026-08-18T07:00:36Z"
     }
   ]
 }

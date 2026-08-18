@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El reciente atentado fallido en Leipzig atiza el temor a una escalada rusa: Putin podría pasar de los ataques híbridos a incursiones limitadas para poner a prueba a la OTAN; ¿Se puede parar a Putin?: Rusia obtiene hoy mejores resultados en la guerra soterrada contra Europa que en el conflicto abierto con Ucrania. La línea del frente entre estos dos países se ha convertido en un disparatado escenario donde los drones se neutralizan entre sí, mientras siguen las operaciones de...; La doble cara de la crisis en Ceuta: inmigrantes enfermos en la calle y camas hospitalarias libres: La titular de Sanidad, que pide no asociar inmigración con enfermedad por ser xenófobo, admite la crisis humanitaria. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-17T07:13:12Z",
+  "summary": "Resumen del día en La Vanguardia: La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico: El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio; Trump amenaza con bombardear Omán si se “interpone” para reabrir Ormuz: Expira el memorándum de entendimiento firmado entre EE.UU. e Irán en junio que establecía un alto el fuego de 60 días; Las grandes petroleras duplican sus beneficios gracias a la crisis de Irán: Las empresas energéticas mundiales disparan su liquidez a máximos históricos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-18T07:00:40Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El reciente atentado fallido en Leipzig atiza el temor a una escalada rusa",
-      "subtitle": "Putin podría pasar de los ataques híbridos a incursiones limitadas para poner a prueba a la OTAN",
-      "url": "https://www.lavanguardia.com/internacional/20260817/11614839/reciente-atentado-fallido-leipzig-atiza-temor-escalada-rusa.html",
-      "scraped_at": "2026-08-17T07:13:11Z"
+      "title": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
+      "subtitle": "El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio",
+      "url": "https://www.lavanguardia.com/internacional/20260818/11615405/guerra-iran-merma-capacidad-militar-ee-uu-pacifico.html",
+      "scraped_at": "2026-08-18T07:00:39Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Se puede parar a Putin?",
-      "subtitle": "Rusia obtiene hoy mejores resultados en la guerra soterrada contra Europa que en el conflicto abierto con Ucrania. La línea del frente entre estos dos países se ha convertido en un disparatado escenario donde los drones se neutralizan entre sí, mientras siguen las operaciones de...",
-      "url": "https://www.lavanguardia.com/opinion/20260817/11614852/putin-leipzig-guerra-hibrida-europa-extrema-derecha.html",
-      "scraped_at": "2026-08-17T07:13:11Z"
+      "title": "Trump amenaza con bombardear Omán si se “interpone” para reabrir Ormuz",
+      "subtitle": "Expira el memorándum de entendimiento firmado entre EE.UU. e Irán en junio que establecía un alto el fuego de 60 días",
+      "url": "https://www.lavanguardia.com/internacional/20260817/11615462/trump-amenaza-bombardear-oman-interpone-negociacion-reabrir-ormuz.html",
+      "scraped_at": "2026-08-18T07:00:39Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La doble cara de la crisis en Ceuta: inmigrantes enfermos en la calle y camas hospitalarias libres",
-      "subtitle": "La titular de Sanidad, que pide no asociar inmigración con enfermedad por ser xenófobo, admite la crisis humanitaria",
-      "url": "https://www.lavanguardia.com/politica/20260817/11614862/doble-cara-crisis-ceuta-inmigrantes-enfermos-calle-camas-hospitalarias-libres.html",
-      "scraped_at": "2026-08-17T07:13:11Z"
+      "title": "Las grandes petroleras duplican sus beneficios gracias a la crisis de Irán",
+      "subtitle": "Las empresas energéticas mundiales disparan su liquidez a máximos históricos",
+      "url": "https://www.lavanguardia.com/economia/20260818/11615530/grandes-petroleras-duplican-beneficios-gracias-crisis-iran.html",
+      "scraped_at": "2026-08-18T07:00:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ceuta, caso sin resolver",
-      "subtitle": "Si algo quedó claro el sábado es que el control de la frontera por Marruecos hace imposible una avalancha como la que vivió Ceuta el 30 de julio. De la llamada a intentar de nuevo el día 15 la entrada masiva en España, y por lo tanto en Europa, solo quedan imágenes de la...",
-      "url": "https://www.lavanguardia.com/politica/20260817/11614792/ceuta-caso-resolver.html",
-      "scraped_at": "2026-08-17T07:13:12Z"
+      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera, planifica la acogida",
+      "subtitle": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615550/gobierno-reorienta-gestion-ceuta-asegurada-frontera-planifica-acogida.html",
+      "scraped_at": "2026-08-18T07:00:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El plan de recuperación cierra con 1,5 millones de beneficiarios, de los que un 68% son pymes",
-      "subtitle": "La Moncloa contabiliza en 78.000 millones de euros los recibidos desde junio del 2021",
-      "url": "https://www.lavanguardia.com/economia/20260817/11613888/plan-recuperacion-cierra-1-5-millones-beneficiarios-68-son-pymes.html",
-      "scraped_at": "2026-08-17T07:13:12Z"
+      "title": "Recorrido virtual por los escenarios de las fiestas de Gràcia, calle a calle",
+      "subtitle": "Un paseo por las 23 calles del barrio decoradas por la Festa Major; el miércoles se conocerá la comisión ganadora",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11615445/recorrido-virtual-escenarios-gracia.html",
+      "scraped_at": "2026-08-18T07:00:40Z"
     }
   ]
 }
