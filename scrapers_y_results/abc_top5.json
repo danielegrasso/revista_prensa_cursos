@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La Justicia investiga ya a una mafia que traslada inmigrantes a la Península tras la avalancha: La Guardia Civil tiene en el punto de mira a una red de marroquíes que están trasladando a sus compatriotas desde los acantilados de la ciudad autónoma hasta la Línea de la Concepción; La Policía despliega un dispositivo para desalojar a los inmigrantes de la playa del Trampolín: Agentes de la Unidad de Intervención Policial están acordonando la zona para trasladar a los 4.000 inmigrantes ilegales hasta uno de los puntos habilitados por el Gobierno a la espera de la resolución de sus peticiones de asilo; Alejandro, enfermero en Ceuta: «Hay compañeras que no pueden ir a domicilio porque las rodean»: Las enfermeras denuncian el colapso del sistema sanitario en la ciudad autónoma, donde además de la salud pública preocupa la inseguridad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-20T07:03:02Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno prevé asentar en Ceuta a más de 2.500 inmigrantes como mínimo seis meses: El Ministerio de Migraciones ha esperado hasta el día 21 tras la crisis para instalar estos recursos ya que esperaban, como les trasladó Interior, que se retornasen prácticamente todos; Mandos policiales alertan de que los centros de reagrupación pueden convertirse en un «polvorín»: La decisión de separar a marroquíes y subsaharianos se produce tras una semana de tensión entre ambos grupos con apuñalamientos y peleas campales; Ceuta no puede ser un CETI: Resulta además difícil justificar que Fernando Grande-Marlaska desoyera ayer la llamada del Senado para dar explicaciones sobre el asalto. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-21T07:04:03Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La Justicia investiga ya a una mafia que traslada inmigrantes a la Península tras la avalancha",
-      "subtitle": "La Guardia Civil tiene en el punto de mira a una red de marroquíes que están trasladando a sus compatriotas desde los acantilados de la ciudad autónoma hasta la Línea de la Concepción",
-      "url": "https://www.abc.es/espana/justicia-investiga-mafia-traslada-inmigrantes-ceuta-peninsula-20260820013933-nt.html",
-      "scraped_at": "2026-08-20T07:03:01Z"
+      "title": "El Gobierno prevé asentar en Ceuta a más de 2.500 inmigrantes como mínimo seis meses",
+      "subtitle": "El Ministerio de Migraciones ha esperado hasta el día 21 tras la crisis para instalar estos recursos ya que esperaban, como les trasladó Interior, que se retornasen prácticamente todos",
+      "url": "https://www.abc.es/espana/gobierno-preve-mantener-ceuta-2500-inmigrantes-avalancha-20260821004154-nt.html",
+      "scraped_at": "2026-08-21T07:04:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Policía despliega un dispositivo para desalojar a los inmigrantes de la playa del Trampolín",
-      "subtitle": "Agentes de la Unidad de Intervención Policial están acordonando la zona para trasladar a los 4.000 inmigrantes ilegales hasta uno de los puntos habilitados por el Gobierno a la espera de la resolución de sus peticiones de asilo",
-      "url": "https://www.abc.es/espana/policia-despliega-dispositivo-desalojar-inmigrantes-playa-trampolin-20260820085008-nt.html",
-      "scraped_at": "2026-08-20T07:03:01Z"
+      "title": "Mandos policiales alertan de que los centros de reagrupación pueden convertirse en un «polvorín»",
+      "subtitle": "La decisión de separar a marroquíes y subsaharianos se produce tras una semana de tensión entre ambos grupos con apuñalamientos y peleas campales",
+      "url": "https://www.abc.es/espana/mandos-policiales-alertan-centros-reagrupacion-pueden-convertirse-20260820004217-nt.html",
+      "scraped_at": "2026-08-21T07:04:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alejandro, enfermero en Ceuta: «Hay compañeras que no pueden ir a domicilio porque las rodean»",
-      "subtitle": "Las enfermeras denuncian el colapso del sistema sanitario en la ciudad autónoma, donde además de la salud pública preocupa la inseguridad",
-      "url": "https://www.abc.es/sociedad/alejandro-enfermero-ceuta-companeras-pueden-visitar-domicilio-20260819013953-nt.html",
-      "scraped_at": "2026-08-20T07:03:02Z"
+      "title": "Ceuta no puede ser un CETI",
+      "subtitle": "Resulta además difícil justificar que Fernando Grande-Marlaska desoyera ayer la llamada del Senado para dar explicaciones sobre el asalto",
+      "url": "https://www.abc.es/opinion/editorial-ceuta-puede-ceti-20260820183946-nt.html",
+      "scraped_at": "2026-08-21T07:04:03Z"
     },
     {
       "source": "ABC.es",
-      "title": "¿Por qué se desmaya Musiala?",
-      "subtitle": "Los médicos avalan que el futbolista del Bayern, que sufre una forma leve de epilepsia, continúe jugando en la élite",
-      "url": "https://www.abc.es/deportes/futbol/cerebro-desconecta-20260819014029-nt.html",
-      "scraped_at": "2026-08-20T07:03:02Z"
+      "title": "«No me creo que haya un león suelto en Toledo, pero el mundo está lleno de locos»",
+      "subtitle": "Jesús Moraleda, director del Zoo Safari Fauna Aventura de Hinojosa, califica de «bulo» el supuesto avistamiento del felino en la Sierra de San Vicente de Toledo. De momento la búsqueda se ha suspendido al no hallarse rastro del animal",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/creo-leon-suelto-mundo-lleno-locos-20260820012600-nt.html",
+      "scraped_at": "2026-08-21T07:04:03Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-20T07:03:02Z"
+      "scraped_at": "2026-08-21T07:04:03Z"
     }
   ]
 }
