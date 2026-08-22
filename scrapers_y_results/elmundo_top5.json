@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La primera 'operación traslado' se queda a medias y da inicio a una odisea burocrática: El proceso es complejo y faltan funcionarios policiales para realizar las identificaciones con rapidez; El Gobierno en alerta ante el rédito para Vox de la crisis en Ceuta: Abascal ya se disparó en las encuestas tras anunciarse la regularización de migrantes: Se ha alentado la hipótesis de un recorte en las ayudas a las entidades sociales basándose en las \"alianzas con la ultraderecha\" que el PP tiene en otras comunidades; Sólo dos médicos voluntarios para 10.000 migrantes: \"Estamos cerca de una verdadera crisis de salud pública\": El cardiólogo Fran García Lanzas, uno de los dos voluntarios aparte de los equipos de Cruz Roja, explica a EL MUNDO las estrecheces del despliegue: \"Gracias a que cada día mandábamos cinco infecciosos al hospital el sistema no ha colapsado\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-08-21T07:03:57Z",
+  "summary": "Resumen del día en El Mundo: El Gobierno fracasa en la devolución total de migrantes pese a adular a Marruecos: 6.500 vagan aún sin control: Tres semanas después, aún busca fórmulas para afrontar un proceso que va para largo. Ahora advierte a Rabat que rechazará posturas distintas a la soberanía española de la ciudad autónoma; El Ministerio de Sanidad convoca de urgencia a las comunidades para suministrar vacunas en Ceuta: varicela, polio, difteria...: Los técnicos están citados este lunes con un único punto del orden del día: \"Mecanismo de solidaridad para vacunas en relación con la situación en Ceuta\"; Ossama y los 2.500 maquis escondidos en los bosques de Ceuta: \"El plan es aguantar, porque si no estamos perdidos\": \"Saltó todo el mundo. Y claro, ahora, con todo este lío, no va a haber manera de conseguir pasar a España\", lamenta uno de los inmigrantes. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-08-22T06:56:22Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La primera 'operación traslado' se queda a medias y da inicio a una odisea burocrática",
+      "title": "El Gobierno fracasa en la devolución total de migrantes pese a adular a Marruecos: 6.500 vagan aún sin control",
+      "subtitle": "Tres semanas después, aún busca fórmulas para afrontar un proceso que va para largo. Ahora advierte a Rabat que rechazará posturas distintas a la soberanía española de la ciudad autónoma",
+      "url": "https://www.elmundo.es/espana/2026/08/21/6a88a257fdddff3d478b4586.html",
+      "scraped_at": "2026-08-22T06:56:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "El Ministerio de Sanidad convoca de urgencia a las comunidades para suministrar vacunas en Ceuta: varicela, polio, difteria...",
+      "subtitle": "Los técnicos están citados este lunes con un único punto del orden del día: \"Mecanismo de solidaridad para vacunas en relación con la situación en Ceuta\"",
+      "url": "https://www.elmundo.es/andalucia/2026/08/22/6a8891e3fdddffaf398b4598.html",
+      "scraped_at": "2026-08-22T06:56:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Ossama y los 2.500 maquis escondidos en los bosques de Ceuta: \"El plan es aguantar, porque si no estamos perdidos\"",
+      "subtitle": "\"Saltó todo el mundo. Y claro, ahora, con todo este lío, no va a haber manera de conseguir pasar a España\", lamenta uno de los inmigrantes",
+      "url": "https://www.elmundo.es/espana/2026/08/21/6a88ab6b21efa01c7f8b4579.html",
+      "scraped_at": "2026-08-22T06:56:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Ceuta agrava la distancia entre Moncloa y Zarzuela: la petición de llamada para \"dar las gracias\" a Mohamed VI, otra polémica durante una crisis",
+      "subtitle": "Un ministro sugirió a Felipe VI que telefoneara al Rey de Marruecos para reconocer la \"colaboración\" de los primeros días en las devoluciones de inmigrantes",
+      "url": "https://www.elmundo.es/espana/2026/08/21/6a85de7de4d4d816048b4588.html",
+      "scraped_at": "2026-08-22T06:56:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Inmigración Ceuta",
       "subtitle": "El proceso es complejo y faltan funcionarios policiales para realizar las identificaciones con rapidez",
       "url": "https://www.elmundo.es/espana/2026/08/20/6a872e4821efa0bf418b459a.html",
-      "scraped_at": "2026-08-21T07:03:56Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El Gobierno en alerta ante el rédito para Vox de la crisis en Ceuta: Abascal ya se disparó en las encuestas tras anunciarse la regularización de migrantes",
-      "subtitle": "Se ha alentado la hipótesis de un recorte en las ayudas a las entidades sociales basándose en las \"alianzas con la ultraderecha\" que el PP tiene en otras comunidades",
-      "url": "https://www.elmundo.es/espana/2026/08/21/6a873531e9cf4a6c0c8b456e.html",
-      "scraped_at": "2026-08-21T07:03:56Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Sólo dos médicos voluntarios para 10.000 migrantes: \"Estamos cerca de una verdadera crisis de salud pública\"",
-      "subtitle": "El cardiólogo Fran García Lanzas, uno de los dos voluntarios aparte de los equipos de Cruz Roja, explica a EL MUNDO las estrecheces del despliegue: \"Gracias a que cada día mandábamos cinco infecciosos al hospital el sistema no ha colapsado\"",
-      "url": "https://www.elmundo.es/espana/2026/08/21/6a875373e85ece997e8b45ae.html",
-      "scraped_at": "2026-08-21T07:03:56Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "22 jornadas de mujeres y niños en el rincón más duro de Ceuta: \"Tres días sin comer\", peleas \"todas las noches\", sin dormir \"por si acaso\"...",
-      "subtitle": "Es la zona cero del drama humanitario: decenas de familias magrebíes anegan unas naves junto a la frontera en una insalubridad absoluta y con niños y niñas jugando entre montones de basura",
-      "url": "https://www.elmundo.es/espana/2026/08/20/6a8727d3e85ece580b8b458a.html",
-      "scraped_at": "2026-08-21T07:03:57Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Juanma Moreno Ceuta",
-      "subtitle": "Los presidentes de Ceuta y Andalucía exigen que se blinde la frontera con Marruecos y se agilicen las devoluciones",
-      "url": "https://www.elmundo.es/andalucia/2026/08/20/6a86c9f721efa0ba048b4591.html",
-      "scraped_at": "2026-08-21T07:03:57Z"
+      "scraped_at": "2026-08-22T06:56:22Z"
     }
   ]
 }
