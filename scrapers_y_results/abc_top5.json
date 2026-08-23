@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Caos en Ceuta por la improvisación en la reagrupación de inmigrantes: La falta de órdenes del Gobierno generan un momento de tensión en la playa del Trampolín, que ya es considerada como un «icono» para este grupo de personas; Exteriores responde a Marruecos que rechaza cualquier planteamiento sobre Ceuta y Melilla: El ministro marroquí de Justicia llama a crear un mecanismo de diálogo con España para discutir su futuro; Defensa parchea la falta de suministro eléctrico en la única base de helicópteros de ataque del Ejército: La instalación funciona desde hace nueve meses con grupos electrógenos y una estación transformadora y no se prevé solución definitiva hasta 2027. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-22T06:56:30Z",
+  "summary": "Resumen del día en ABC.es: El sistema Mohamed VI: un reino donde todas las decisiones conducen al Palacio: Todo el poder emana en Marruecos del Majzén, una camarilla de fieles al monarca integrada por familiares, amigos de la infancia y compañeros de la universidad. «Hay muchas luchas de poder para ver quién tiene mayor influencia»; Del Sahara a Ceuta y Melilla, la frontera que Marruecos quiere mover: El analista y activista saharaui explica la estrategia de Rabat con las ciudades autónomas y señala que la respuesta del Gobierno español resulta difícil de justificar; El Gobierno busca sortear su propia ley para favorecer el traslado de 500 niñas a la Península: El Ministerio de Juventud e Infancia obligará a Ceuta a hacerse cargo de la tutela de las menores pero trasladando a las ONG su manutención para acelerar los trámites. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-23T06:57:46Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Caos en Ceuta por la improvisación en la reagrupación de inmigrantes",
-      "subtitle": "La falta de órdenes del Gobierno generan un momento de tensión en la playa del Trampolín, que ya es considerada como un «icono» para este grupo de personas",
-      "url": "https://www.abc.es/espana/improvisacion-caos-reagrupacion-inmigrantes-ceuta-20260822013605-nt.html",
-      "scraped_at": "2026-08-22T06:56:30Z"
+      "title": "El sistema Mohamed VI: un reino donde todas las decisiones conducen al Palacio",
+      "subtitle": "Todo el poder emana en Marruecos del Majzén, una camarilla de fieles al monarca integrada por familiares, amigos de la infancia y compañeros de la universidad. «Hay muchas luchas de poder para ver quién tiene mayor influencia»",
+      "url": "https://www.abc.es/espana/manda-marruecos-20260822013230-nt.html",
+      "scraped_at": "2026-08-23T06:57:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Exteriores responde a Marruecos que rechaza cualquier planteamiento sobre Ceuta y Melilla",
-      "subtitle": "El ministro marroquí de Justicia llama a crear un mecanismo de diálogo con España para discutir su futuro",
-      "url": "https://www.abc.es/espana/espana-responde-marruecos-rechaza-planteamiento-sobre-ceuta-20260821232050-nt.html",
-      "scraped_at": "2026-08-22T06:56:30Z"
+      "title": "Del Sahara a Ceuta y Melilla, la frontera que Marruecos quiere mover",
+      "subtitle": "El analista y activista saharaui explica la estrategia de Rabat con las ciudades autónomas y señala que la respuesta del Gobierno español resulta difícil de justificar",
+      "url": "https://www.abc.es/espana/sahara-ceuta-melilla-frontera-marruecos-quiere-mover-20260823013246-nt.html",
+      "scraped_at": "2026-08-23T06:57:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Defensa parchea la falta de suministro eléctrico en la única base de helicópteros de ataque del Ejército",
-      "subtitle": "La instalación funciona desde hace nueve meses con grupos electrógenos y una estación transformadora y no se prevé solución definitiva hasta 2027",
-      "url": "https://www.abc.es/espana/defensa-parchea-falta-suministro-electrico-unica-base-20260822013908-nt.html",
-      "scraped_at": "2026-08-22T06:56:30Z"
+      "title": "El Gobierno busca sortear su propia ley para favorecer el traslado de 500 niñas a la Península",
+      "subtitle": "El Ministerio de Juventud e Infancia obligará a Ceuta a hacerse cargo de la tutela de las menores pero trasladando a las ONG su manutención para acelerar los trámites",
+      "url": "https://www.abc.es/espana/gobierno-planea-pasar-500-menores-quiere-trasladar-20260823013301-nt.html",
+      "scraped_at": "2026-08-23T06:57:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cementerios sin lápidas y fronteras protegidas",
-      "subtitle": "Las matizaciones papales realizadas en apenas dos meses prueben que el problema de las avalanchas migratorias exige juicios prudenciales muy delicados",
-      "url": "https://www.abc.es/opinion/juan-manuel-de-prada-cementerios-lapidas-fronteras-protegidas-20260821130311-nt.html",
-      "scraped_at": "2026-08-22T06:56:30Z"
+      "title": "Sobre la historia natural de la destrucción",
+      "subtitle": "Este verano va de ruinas. El mes entero anda servido de escombros",
+      "url": "https://www.abc.es/opinion/karina-sainz-borgo-sobre-historia-natural-destruccion-20260822184047-nt.html",
+      "scraped_at": "2026-08-23T06:57:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Íñigo vive en un camión de flores camperizado de 35.000 euros: «Mi factura del gas es de unos 3 euros al mes»",
-      "subtitle": "Lleva 8 años recorriendo el mundo en su casa sobre ruedas, un antiguo camión de flores que camperizó por 35.000 euros y que le ha permitido cumplir...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/inigo-vive-camion-flores-camperizado-35-000-euros-mi-factura-gas-3-euros-mes-utilizo-bombona-grande-recarga-gasolineras-durar-2-meses-20260822_3396799.html",
-      "scraped_at": "2026-08-22T06:56:30Z"
+      "title": "El truco para ahorrar con el aire acondicionado: «Cuatro horas y mantener la casa fresca por 24 céntimos»",
+      "subtitle": "Un experto desvela con cálculos el consumo real del aparato y desmonta el mito popular del 'falso ahorro' para mantener la casa fresca este verano",
+      "url": "https://www.cope.es/actualidad/economia/noticias/truco-definitivo-ahorrar-aire-acondicionado-enciendes-cuatro-horas-podras-mantener-casa-fresca-apenas-24-centimos-20260822_3414039.html",
+      "scraped_at": "2026-08-23T06:57:46Z"
     }
   ]
 }

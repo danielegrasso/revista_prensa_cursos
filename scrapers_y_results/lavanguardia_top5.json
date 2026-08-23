@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno sigue sin tomar el control total de las calles de Ceuta: El presidente baraja nombrar a Ángel Victor Torres para coordinar los ministerios; Ni expulsan ni acogen: Tres semanas después de la avalancha de migrantes por la frontera ceutí, seguimos sin tener ninguna información fiable sobre quiénes instigaron el asalto y cuál fue el papel de Marruecos. Es posible incluso que no lleguemos a conocer qué ha ocurrido. Pero tres semanas después...; Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años: La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-22T06:56:33Z",
+  "summary": "Resumen del día en La Vanguardia: El clima extremo se ensaña con Europa y agrava su crisis política: La sequía y los incendios se suman a otras emergencias que fragilizan el continente: de las amenazas rusas a la inestabilidad migratoria y el envejecimiento; Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países: Los avisos que lanza el clima este verano no hacen mella en la segunda legislatura de Ursula von der Leyen, que ha registrado un frenazo a las políticas iniciadas en el primer mandato; La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones: Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-23T06:57:47Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno sigue sin tomar el control total de las calles de Ceuta",
-      "subtitle": "El presidente baraja nombrar a Ángel Victor Torres para coordinar los ministerios",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617789/gobierno-consigue-tomar-control-total-calles-ceuta.html",
-      "scraped_at": "2026-08-22T06:56:32Z"
+      "title": "El clima extremo se ensaña con Europa y agrava su crisis política",
+      "subtitle": "La sequía y los incendios se suman a otras emergencias que fragilizan el continente: de las amenazas rusas a la inestabilidad migratoria y el envejecimiento",
+      "url": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html",
+      "scraped_at": "2026-08-23T06:57:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ni expulsan ni acogen",
-      "subtitle": "Tres semanas después de la avalancha de migrantes por la frontera ceutí, seguimos sin tener ninguna información fiable sobre quiénes instigaron el asalto y cuál fue el papel de Marruecos. Es posible incluso que no lleguemos a conocer qué ha ocurrido. Pero tres semanas después...",
-      "url": "https://www.lavanguardia.com/opinion/20260822/11617938/expulsan-acogen.html",
-      "scraped_at": "2026-08-22T06:56:32Z"
+      "title": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
+      "subtitle": "Los avisos que lanza el clima este verano no hacen mella en la segunda legislatura de Ursula von der Leyen, que ha registrado un frenazo a las políticas iniciadas en el primer mandato",
+      "url": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html",
+      "scraped_at": "2026-08-23T06:57:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
-      "subtitle": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617934/bronca-traslado-valencia-cercanias-madrid-usados-23-anos.html",
-      "scraped_at": "2026-08-22T06:56:32Z"
+      "title": "La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones",
+      "subtitle": "Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11618278/lluvia-desborda-costa-daurada-govern-defiende-previsiones.html",
+      "scraped_at": "2026-08-23T06:57:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "subtitle": "Fuertes lluvias llegarán en los próximos meses al noreste de Europa y el riesgo de sequía aumentará en los trópicos, el sur de África y el noreste de Australia, según la Agencia de Meteorología británica",
-      "url": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
-      "scraped_at": "2026-08-22T06:56:33Z"
+      "title": "La complicada agenda de Sánchez para lo que queda de legislatura",
+      "subtitle": "El primer Consejo de Ministros se celebrará pasado mañana, martes, con una larga y compleja lista de tareas para la recta final antes de las elecciones",
+      "url": "https://www.lavanguardia.com/politica/20260823/11618237/complicada-agenda-sanchez-queda-legislatura.html",
+      "scraped_at": "2026-08-23T06:57:47Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ya es posible estudiar para ser influencer: así es el primer máster de esta especialidad",
-      "subtitle": "Paula Ordovás dirige este curso que quiere ofrecer todas las herramientas para triunfar como comunicador en las redes sociales",
-      "url": "https://www.lavanguardia.com/magazine/20260820/11603665/posible-estudiar-influencer-asi-primer-master-mundo-especialidad.html",
-      "scraped_at": "2026-08-22T06:56:33Z"
+      "title": "El Supremo de EE.UU. permite continuar temporalmente las obras del salón de baile",
+      "subtitle": "La máxima instancia judicial a Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617245/entra-vigor-sentencia-ordena-trump-detener-obras-salon-baile-casa-blanca.html",
+      "scraped_at": "2026-08-23T06:57:47Z"
     }
   ]
 }
