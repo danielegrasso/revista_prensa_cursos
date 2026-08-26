@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Mando único y Consejo de Seguridad Nacional: el Gobierno reacciona un mes después: Declara la situación de interés para la seguridad nacional tras verse «desbordado» por la magnitud de la crisis; La guerra entre Marlaska y Robles empuja a Sánchez a dejar el mando único en manos del ministro de Política Territorial: Los responsables de Interior y Defensa están enfrascados desde el inicio de la crisis en una batalla sobre si hubo avisos o no de la amenaza de asalto; «Estamos muy calientes, desbordados, nos puede la situación»: Casi un mes después, la ciudad todavía no recupera el orden y los inmigrantes, sin rumbo preciso, desplazan a la población ceutí de determinadas zonas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-25T07:05:22Z",
+  "summary": "Resumen del día en ABC.es: El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes: Robles y Marlaska vuelven a enzarzarse sobre el papel de los servicios de inteligencia en la crisis; Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión: El presidente concluirá su descanso veraniego con un «viaje privado» junto a Begoña Gómez en Andorra 48 horas después de su llegada a La Moncloa; La Policía detecta mafias que trasladan inmigrantes en barcas inflables: Los patrones de estas organizaciones hinchan las barcas en las zonas de salida y les ponen tablones de madera para que aguanten el peso de más personas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-26T07:05:20Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Mando único y Consejo de Seguridad Nacional: el Gobierno reacciona un mes después",
-      "subtitle": "Declara la situación de interés para la seguridad nacional tras verse «desbordado» por la magnitud de la crisis",
-      "url": "https://www.abc.es/espana/gobierno-trata-recuperar-iniciativa-ceuta-mes-despues-20260825013013-nt.html",
-      "scraped_at": "2026-08-25T07:05:21Z"
+      "title": "El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes",
+      "subtitle": "Robles y Marlaska vuelven a enzarzarse sobre el papel de los servicios de inteligencia en la crisis",
+      "url": "https://www.abc.es/espana/robles-marlaska-vuelven-enzarzar-sobre-papel-cni-20260825014320-nt.html",
+      "scraped_at": "2026-08-26T07:05:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "La guerra entre Marlaska y Robles empuja a Sánchez a dejar el mando único en manos del ministro de Política Territorial",
-      "subtitle": "Los responsables de Interior y Defensa están enfrascados desde el inicio de la crisis en una batalla sobre si hubo avisos o no de la amenaza de asalto",
-      "url": "https://www.abc.es/espana/guerra-marlaska-robles-empuja-sanchez-dejar-mando-20260825013043-nt.html",
-      "scraped_at": "2026-08-25T07:05:22Z"
+      "title": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión",
+      "subtitle": "El presidente concluirá su descanso veraniego con un «viaje privado» junto a Begoña Gómez en Andorra 48 horas después de su llegada a La Moncloa",
+      "url": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html",
+      "scraped_at": "2026-08-26T07:05:19Z"
     },
     {
       "source": "ABC.es",
-      "title": "«Estamos muy calientes, desbordados, nos puede la situación»",
-      "subtitle": "Casi un mes después, la ciudad todavía no recupera el orden y los inmigrantes, sin rumbo preciso, desplazan a la población ceutí de determinadas zonas",
-      "url": "https://www.abc.es/espana/vecinos-ceuta-querer-defenderse-maletas-irse-20260823013138-nt.html",
-      "scraped_at": "2026-08-25T07:05:22Z"
+      "title": "La Policía detecta mafias que trasladan inmigrantes en barcas inflables",
+      "subtitle": "Los patrones de estas organizaciones hinchan las barcas en las zonas de salida y les ponen tablones de madera para que aguanten el peso de más personas",
+      "url": "https://www.abc.es/espana/policia-detecta-mafias-usan-barcas-inflables-traidas-20260826015245-nt.html",
+      "scraped_at": "2026-08-26T07:05:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "Interior no actualiza las cifras de ilegales que entraron en los asaltos a Ceuta y Melilla desde 2021",
-      "subtitle": "El departamento que dirige Fernando Grande - Marlaska asegura en un informe oficial que los días 30 y 31 de julio de este año entraron cero personas a la ciudad de Ceuta",
-      "url": "https://www.abc.es/espana/marlaska-dice-informe-sobre-entrada-ilegales-espana-20260827013820-nt.html",
-      "scraped_at": "2026-08-25T07:05:22Z"
+      "title": "Hotel California",
+      "subtitle": "Hemos llegado al final: un mundo de anormales que no apartan la vista del móvil desde que se levantan hasta que se acuestan",
+      "url": "https://www.abc.es/opinion/ignacio-ruizquintano-hotel-california-20260825125506-nt.html",
+      "scraped_at": "2026-08-26T07:05:20Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-25T07:05:22Z"
+      "scraped_at": "2026-08-26T07:05:20Z"
     }
   ]
 }
