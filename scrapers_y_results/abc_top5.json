@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes: Robles y Marlaska vuelven a enzarzarse sobre el papel de los servicios de inteligencia en la crisis; Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión: El presidente concluirá su descanso veraniego con un «viaje privado» junto a Begoña Gómez en Andorra 48 horas después de su llegada a La Moncloa; La Policía detecta mafias que trasladan inmigrantes en barcas inflables: Los patrones de estas organizaciones hinchan las barcas en las zonas de salida y les ponen tablones de madera para que aguanten el peso de más personas. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-26T07:05:20Z",
+  "summary": "Resumen del día en ABC.es: Los ceutíes vuelven a las calles e intentan bloquear un camión de Cruz Roja: «Que se den la vuelta»: Los ciudadanos plantean formar «grupos de autodefensa» a la vez que organizan en grupos de WhatsApp manifestaciones para reivindicar la expulsión de los marroquíes; Militares en Ceuta piden poder hacer un uso proporcionado de la fuerza ante las agresiones: Denuncian indefensión ante las situaciones de violencia tras la emboscada a una patrulla de las Fuerzas Armadas en la que un soldado resultó herido leve; Bolaños también se desmarca de Robles y dice que no hubo información «previa ni precisa» antes de la invasión en Ceuta: El Ministro de Justicia y Presidencia critica a la oposición: «No es nada patriótico envolverse en la bandera de España pero negar la ayuda de otras comunidades autónomas». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-27T17:35:59Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes",
-      "subtitle": "Robles y Marlaska vuelven a enzarzarse sobre el papel de los servicios de inteligencia en la crisis",
-      "url": "https://www.abc.es/espana/robles-marlaska-vuelven-enzarzar-sobre-papel-cni-20260825014320-nt.html",
-      "scraped_at": "2026-08-26T07:05:19Z"
+      "title": "Los ceutíes vuelven a las calles e intentan bloquear un camión de Cruz Roja: «Que se den la vuelta»",
+      "subtitle": "Los ciudadanos plantean formar «grupos de autodefensa» a la vez que organizan en grupos de WhatsApp manifestaciones para reivindicar la expulsión de los marroquíes",
+      "url": "https://www.abc.es/espana/aumenta-tension-ceuties-inmigrantes-ante-falta-soluciones-20260827120127-nt.html",
+      "scraped_at": "2026-08-27T17:35:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión",
-      "subtitle": "El presidente concluirá su descanso veraniego con un «viaje privado» junto a Begoña Gómez en Andorra 48 horas después de su llegada a La Moncloa",
-      "url": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html",
-      "scraped_at": "2026-08-26T07:05:19Z"
+      "title": "Militares en Ceuta piden poder hacer un uso proporcionado de la fuerza ante las agresiones",
+      "subtitle": "Denuncian indefensión ante las situaciones de violencia tras la emboscada a una patrulla de las Fuerzas Armadas en la que un soldado resultó herido leve",
+      "url": "https://www.abc.es/espana/militares-ceuta-exigen-proteccion-denuncian-indefension-ante-20260827163208-nt.html",
+      "scraped_at": "2026-08-27T17:35:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Policía detecta mafias que trasladan inmigrantes en barcas inflables",
-      "subtitle": "Los patrones de estas organizaciones hinchan las barcas en las zonas de salida y les ponen tablones de madera para que aguanten el peso de más personas",
-      "url": "https://www.abc.es/espana/policia-detecta-mafias-usan-barcas-inflables-traidas-20260826015245-nt.html",
-      "scraped_at": "2026-08-26T07:05:20Z"
+      "title": "Bolaños también se desmarca de Robles y dice que no hubo información «previa ni precisa» antes de la invasión en Ceuta",
+      "subtitle": "El Ministro de Justicia y Presidencia critica a la oposición: «No es nada patriótico envolverse en la bandera de España pero negar la ayuda de otras comunidades autónomas»",
+      "url": "https://www.abc.es/espana/bolanos-achaca-llegada-masiva-inmigrantes-ceuta-mala-20260827110454-nt.html",
+      "scraped_at": "2026-08-27T17:35:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "Hotel California",
-      "subtitle": "Hemos llegado al final: un mundo de anormales que no apartan la vista del móvil desde que se levantan hasta que se acuestan",
-      "url": "https://www.abc.es/opinion/ignacio-ruizquintano-hotel-california-20260825125506-nt.html",
-      "scraped_at": "2026-08-26T07:05:20Z"
+      "title": "Sánchez suspende su viaje a Andorra entre un enorme malestar por la fuga de información",
+      "subtitle": "Moncloa precipita al 3 de septiembre su comparecencia sobre Ceuta en el Congreso tras la publicación de ABC sobre sus nuevas vacaciones",
+      "url": "https://www.abc.es/espana/sanchez-precipita-comparecencia-congreso-tras-conocerse-nuevas-20260826220010-nt.html",
+      "scraped_at": "2026-08-27T17:35:59Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-26T07:05:20Z"
+      "scraped_at": "2026-08-27T17:35:59Z"
     }
   ]
 }
