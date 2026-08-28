@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Los ceutíes vuelven a las calles e intentan bloquear un camión de Cruz Roja: «Que se den la vuelta»: Los ciudadanos plantean formar «grupos de autodefensa» a la vez que organizan en grupos de WhatsApp manifestaciones para reivindicar la expulsión de los marroquíes; Militares en Ceuta piden poder hacer un uso proporcionado de la fuerza ante las agresiones: Denuncian indefensión ante las situaciones de violencia tras la emboscada a una patrulla de las Fuerzas Armadas en la que un soldado resultó herido leve; Bolaños también se desmarca de Robles y dice que no hubo información «previa ni precisa» antes de la invasión en Ceuta: El Ministro de Justicia y Presidencia critica a la oposición: «No es nada patriótico envolverse en la bandera de España pero negar la ayuda de otras comunidades autónomas». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-27T17:35:59Z",
+  "summary": "Resumen del día en ABC.es: España pide un mes después a la UE el apoyo de Frontex para el triaje de los inmigrantes en Ceuta: La Comisión ofreció hace una semana la ayuda de varias agencias al Ministerio del Interior; Albares exculpa a Marruecos, acusa a las redes sociales y carga contra Meloni: Reaparece en el Congreso para defender la gestión diplomática de la crisis y dice que protestó ante Rabat por sus aspiraciones sobre Ceuta y Melilla por todos los cauces legales posibles; Una «Armada de la solidaridad» zarpará este sábado hacia Ceuta: Bajo el lema «El mar nos une, Ceuta nos llama», la convocatoria se ha visto «desbordada» por la cantidad de gente que se ha interesado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-08-28T18:37:16Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Los ceutíes vuelven a las calles e intentan bloquear un camión de Cruz Roja: «Que se den la vuelta»",
-      "subtitle": "Los ciudadanos plantean formar «grupos de autodefensa» a la vez que organizan en grupos de WhatsApp manifestaciones para reivindicar la expulsión de los marroquíes",
-      "url": "https://www.abc.es/espana/aumenta-tension-ceuties-inmigrantes-ante-falta-soluciones-20260827120127-nt.html",
-      "scraped_at": "2026-08-27T17:35:58Z"
+      "title": "España pide un mes después a la UE el apoyo de Frontex para el triaje de los inmigrantes en Ceuta",
+      "subtitle": "La Comisión ofreció hace una semana la ayuda de varias agencias al Ministerio del Interior",
+      "url": "https://www.abc.es/espana/espana-pide-mes-despues-ue-apoyo-frontex-20260828193734-nt.html",
+      "scraped_at": "2026-08-28T18:37:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Militares en Ceuta piden poder hacer un uso proporcionado de la fuerza ante las agresiones",
-      "subtitle": "Denuncian indefensión ante las situaciones de violencia tras la emboscada a una patrulla de las Fuerzas Armadas en la que un soldado resultó herido leve",
-      "url": "https://www.abc.es/espana/militares-ceuta-exigen-proteccion-denuncian-indefension-ante-20260827163208-nt.html",
-      "scraped_at": "2026-08-27T17:35:58Z"
+      "title": "Albares exculpa a Marruecos, acusa a las redes sociales y carga contra Meloni",
+      "subtitle": "Reaparece en el Congreso para defender la gestión diplomática de la crisis y dice que protestó ante Rabat por sus aspiraciones sobre Ceuta y Melilla por todos los cauces legales posibles",
+      "url": "https://www.abc.es/espana/albares-exculpa-marruecos-acusa-redes-carga-meloni-20260828141754-nt.html",
+      "scraped_at": "2026-08-28T18:37:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Bolaños también se desmarca de Robles y dice que no hubo información «previa ni precisa» antes de la invasión en Ceuta",
-      "subtitle": "El Ministro de Justicia y Presidencia critica a la oposición: «No es nada patriótico envolverse en la bandera de España pero negar la ayuda de otras comunidades autónomas»",
-      "url": "https://www.abc.es/espana/bolanos-achaca-llegada-masiva-inmigrantes-ceuta-mala-20260827110454-nt.html",
-      "scraped_at": "2026-08-27T17:35:58Z"
+      "title": "Una «Armada de la solidaridad» zarpará este sábado hacia Ceuta",
+      "subtitle": "Bajo el lema «El mar nos une, Ceuta nos llama», la convocatoria se ha visto «desbordada» por la cantidad de gente que se ha interesado",
+      "url": "https://www.abc.es/espana/armada-solidaridad-decenas-embarcaciones-zarpara-sabado-ceuta-20260828121525-nt.html",
+      "scraped_at": "2026-08-28T18:37:15Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez suspende su viaje a Andorra entre un enorme malestar por la fuga de información",
-      "subtitle": "Moncloa precipita al 3 de septiembre su comparecencia sobre Ceuta en el Congreso tras la publicación de ABC sobre sus nuevas vacaciones",
-      "url": "https://www.abc.es/espana/sanchez-precipita-comparecencia-congreso-tras-conocerse-nuevas-20260826220010-nt.html",
-      "scraped_at": "2026-08-27T17:35:59Z"
+      "title": "Una cámara acorazada y dos únicas llaves: el museo de cuatro millones de euros que acabó desvalijado",
+      "subtitle": "El hallazgo de la Edad de Bronce estuvo años en un arcón con vitrinas sin protección hasta que el Ayuntamiento rehabilitó una antigua fábrica. Los encapuchados entraron en la cámara acorazada, que cuenta con puerta blindada y dos únicas llaves",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/alicante/museo-robaron-tesoro-villena-creo-custodiarlo-seguridad-20260828140313-nt.html",
+      "scraped_at": "2026-08-28T18:37:16Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-08-27T17:35:59Z"
+      "scraped_at": "2026-08-28T18:37:16Z"
     }
   ]
 }
