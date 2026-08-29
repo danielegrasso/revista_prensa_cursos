@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: España pide a la UE el apoyo de Frontex para identificar a los migrantes: Marlaska reclama la ayuda para agilizar el procedimiento de recogida de información de los migrantes que aún no han sido registrados; Meloni busca alargar el pulso con España por Schengen por el “agravamiento” en Ceuta: Italia estudia mantener al menos un mes más los controles fronterizos pese a sus escasos resultados prácticos; Así se convirtió en tragedia la riada de roca y hielo  del Himalaya. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-08-28T18:37:18Z",
+  "summary": "Resumen del día en La Vanguardia: Un verano para recordar: La crisis de Ceuta modifica los ejes de la política española; Al menos 37 muertos y 42 heridos en un ataque ruso a un almacén de munición cerca de Kyiv: Zelenski promete castigo para los responsables de “negligencia” por guardar material militar de este tipo cerca de zonas residenciales; Trump anuncia un acuerdo petrolero con Venezuela que duplicará las reservas de EE.UU.: Delcy Rodríguez confirma el pacto y avanza el desarrollo de 17 campos estratégicos, con “una inversión de más de 100.000 millones de dólares y más de 209.000 millones de dólares en tributos para el Estado”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-08-29T12:39:03Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "España pide a la UE el apoyo de Frontex para identificar a los migrantes",
-      "subtitle": "Marlaska reclama la ayuda para agilizar el procedimiento de recogida de información de los migrantes que aún no han sido registrados",
-      "url": "https://www.lavanguardia.com/politica/20260828/11621912/espana-pide-ue-apoyo-frontex-triaje-migrantes-permanecen-ceuta.html",
-      "scraped_at": "2026-08-28T18:37:17Z"
+      "title": "Un verano para recordar",
+      "subtitle": "La crisis de Ceuta modifica los ejes de la política española",
+      "url": "https://www.lavanguardia.com/politica/20260829/11621905/verano-recordar.html",
+      "scraped_at": "2026-08-29T12:39:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Meloni busca alargar el pulso con España por Schengen por el “agravamiento” en Ceuta",
-      "subtitle": "Italia estudia mantener al menos un mes más los controles fronterizos pese a sus escasos resultados prácticos",
-      "url": "https://www.lavanguardia.com/politica/20260828/11621820/meloni-dispone-prolongar-pulso-espana-schengen.html",
-      "scraped_at": "2026-08-28T18:37:17Z"
+      "title": "Al menos 37 muertos y 42 heridos en un ataque ruso a un almacén de munición cerca de Kyiv",
+      "subtitle": "Zelenski promete castigo para los responsables de “negligencia” por guardar material militar de este tipo cerca de zonas residenciales",
+      "url": "https://www.lavanguardia.com/internacional/20260829/11622237/27-muertos-42-heridos-ataque-ruso-almacen-municion-cerca-kyiv.html",
+      "scraped_at": "2026-08-29T12:39:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Así se convirtió en tragedia la riada de roca y hielo  del Himalaya",
-      "subtitle": "",
-      "url": "https://www.lavanguardia.com/internacional/20260828/11621730/recorrido-visual-riada-nepal.html",
-      "scraped_at": "2026-08-28T18:37:17Z"
+      "title": "Trump anuncia un acuerdo petrolero con Venezuela que duplicará las reservas de EE.UU.",
+      "subtitle": "Delcy Rodríguez confirma el pacto y avanza el desarrollo de 17 campos estratégicos, con “una inversión de más de 100.000 millones de dólares y más de 209.000 millones de dólares en tributos para el Estado”",
+      "url": "https://www.lavanguardia.com/economia/20260829/11622189/delcy-rodriguez-agradece-donald-trump-historico-acuerdo-petrolero-venezuela-ee-uu.html",
+      "scraped_at": "2026-08-29T12:39:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Localizado uno de los tres españoles desaparecidos tras las riadas en Nepal",
-      "subtitle": "Otros dos ciudadanos permanecen en la lista de personas en paradero desconocido",
-      "url": "https://www.lavanguardia.com/internacional/20260828/11621864/localizado-tres-espanoles-desaparecidos-riadas-nepal.html",
-      "scraped_at": "2026-08-28T18:37:18Z"
+      "title": "Las claves del acuerdo entre EE.UU. y Venezuela: ¿negocio o expolio?",
+      "subtitle": "Estados Unidos llegará a controlar un quinto de las reservas petroleras del país sudamericano",
+      "url": "https://www.lavanguardia.com/economia/20260829/11622261/todas-claves-acuerdo-petrolero-ee-uu-venezuela-negocio-expolio.html",
+      "scraped_at": "2026-08-29T12:39:03Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Foros de Vanguardia",
-      "subtitle": "",
-      "url": "https://www.lavanguardia.com/temas/foros-de-vanguardia",
-      "scraped_at": "2026-08-28T18:37:18Z"
+      "title": "Leer nuestro tiempo",
+      "subtitle": "Afirma José María Ordovás, a propósito de la entrega de la medalla de oro del Círculo de Bellas Artes al chef vasco Andoni Luis Aduriz, que es un gesto de enorme significado cultural: “La admisión plena de la cocina en el territorio de las artes mayores y de la creación...",
+      "url": "https://www.lavanguardia.com/opinion/20260829/11621815/leer-nuestro.html",
+      "scraped_at": "2026-08-29T12:39:03Z"
     }
   ]
 }
