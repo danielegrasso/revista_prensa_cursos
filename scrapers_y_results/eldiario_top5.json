@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Islandia rechaza volver a negociar su entrada en la Unión Europea en un apretado referéndum: El 'no’ se impone con un 52,8% frente al 47,2% del ‘sí’ en una votación marcada por la pesca, la soberanía nacional y la creciente incertidumbre geopolítica en el Ártico; Ceuta, radiografía de un mes de caos: “Fue un error de cálculo darlo por zanjado cuando se volvieron a Marruecos 70.000”: \"Pensamos que, si en dos días habían vuelto tantos, en una semana eso estaba liquidado\". elDiario.es reconstruye los detalles y las fechas clave de la gestión de una crisis que estalló el 30 de julio, que ahora se agrava con estallidos de violencia y que mantiene acorralado al Ejecutivo de Sánchez por sus propios errores y por la ofensiva del PP y Vox; Cómo una modernización sin oportunidades en Marruecos dejó a una generación sin futuro: Los jóvenes rechazan un modelo de desarrollo de macroproyectos que desatiende las necesidades sociales básicas a medida que Marruecos intenta dejar de ser una economía periférica. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-08-30T11:50:42Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez anuncia que el rey Felipe VI irá a Ceuta “cuando se den las condiciones”: El presidente del Gobierno asegura no tener \"ninguna información\" que responsabilice a Marruecos de la crisis fronteriza y evita el choque: \"Lo que haría es complicar aún más la situación\"; Caos en el campamento de urgencia de Ceuta: cargas policiales y un herido tras horas de espera: Los agentes utilizan pelotas de goma durante los incidentes en las inmediaciones de Loma Colmenar que dejan al menos un migrante dañado, mientras 400 mujeres son trasladadas desde los asentamientos de las barriadas a la Hípica de la ciudad autónoma; El Gobierno prorroga los controles fronterizos a pasajeros italianos como respuesta a Meloni: El Gobierno de Italia ha decidido prorrogar quince días más la suspensión del acuerdo Schengen con España y los controles en puertos y aeropuertos a los viajeros procedentes del país ibérico, según ha informado este lunes el Ministerio de Interior. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-08-31T13:38:50Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Islandia rechaza volver a negociar su entrada en la Unión Europea en un apretado referéndum",
-      "subtitle": "El 'no’ se impone con un 52,8% frente al 47,2% del ‘sí’ en una votación marcada por la pesca, la soberanía nacional y la creciente incertidumbre geopolítica en el Ártico",
-      "url": "https://www.eldiario.es/internacional/islandia-rechaza-volver-negociar-entrada-ue-margen-apenas-decimas-falta-terminar-recuento_1_13474899.html",
-      "scraped_at": "2026-08-30T11:50:40Z"
+      "title": "Sánchez anuncia que el rey Felipe VI irá a Ceuta “cuando se den las condiciones”",
+      "subtitle": "El presidente del Gobierno asegura no tener \"ninguna información\" que responsabilice a Marruecos de la crisis fronteriza y evita el choque: \"Lo que haría es complicar aún más la situación\"",
+      "url": "https://www.eldiario.es/politica/sanchez-anuncia-rey-felipe-vi-ira-ceuta-hay-razones-suficientes_1_13475926.html",
+      "scraped_at": "2026-08-31T13:38:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ceuta, radiografía de un mes de caos: “Fue un error de cálculo darlo por zanjado cuando se volvieron a Marruecos 70.000”",
-      "subtitle": "\"Pensamos que, si en dos días habían vuelto tantos, en una semana eso estaba liquidado\". elDiario.es reconstruye los detalles y las fechas clave de la gestión de una crisis que estalló el 30 de julio, que ahora se agrava con estallidos de violencia y que mantiene acorralado al Ejecutivo de Sánchez por sus propios errores y por la ofensiva del PP y Vox",
-      "url": "https://www.eldiario.es/politica/ceuta-radiografia-mes-caos-error-calculo-darlo-zanjado-volvieron-marruecos-70-000_1_13473903.html",
-      "scraped_at": "2026-08-30T11:50:40Z"
+      "title": "Caos en el campamento de urgencia de Ceuta: cargas policiales y un herido tras horas de espera",
+      "subtitle": "Los agentes utilizan pelotas de goma durante los incidentes en las inmediaciones de Loma Colmenar que dejan al menos un migrante dañado, mientras 400 mujeres son trasladadas desde los asentamientos de las barriadas a la Hípica de la ciudad autónoma",
+      "url": "https://www.eldiario.es/desalambre/caos-acceso-campamento-urgencia-ceuta-cargas-policiales-herido-horas-espera_1_13477068.html",
+      "scraped_at": "2026-08-31T13:38:48Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Cómo una modernización sin oportunidades en Marruecos dejó a una generación sin futuro",
-      "subtitle": "Los jóvenes rechazan un modelo de desarrollo de macroproyectos que desatiende las necesidades sociales básicas a medida que Marruecos intenta dejar de ser una economía periférica",
-      "url": "https://www.eldiario.es/internacional/modernizacion-oportunidades-marruecos-dejo-generacion-futuro_129_13472279.html",
-      "scraped_at": "2026-08-30T11:50:41Z"
+      "title": "El Gobierno prorroga los controles fronterizos a pasajeros italianos como respuesta a Meloni",
+      "subtitle": "El Gobierno de Italia ha decidido prorrogar quince días más la suspensión del acuerdo Schengen con España y los controles en puertos y aeropuertos a los viajeros procedentes del país ibérico, según ha informado este lunes el Ministerio de Interior",
+      "url": "https://www.eldiario.es/politica/gobierno-prorroga-controles-fronterizos-pasajeros-italianos-respuesta-meloni_1_13476640.html",
+      "scraped_at": "2026-08-31T13:38:49Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Ángel Víctor Torres: “Si no cesa la violencia habrá una ruptura total que retrasará la solución de Ceuta”",
-      "subtitle": "El ministro argumenta que \"cuanto antes estén los migrantes en espacios cerrados, antes podrán ser devueltos\" y dice que se investiga si hay \"grupos organizados\" que han ido a Ceuta a \"generar conflicto\"",
-      "url": "https://www.eldiario.es/politica/angel-victor-torres-si-no-cesa-violencia-habra-ruptura-total-retrasara-solucion-ceuta_1_13473613.html",
-      "scraped_at": "2026-08-30T11:50:42Z"
+      "title": "La Fiscalía eleva a 21 las agresiones sexuales registradas en Ceuta desde el inicio de la crisis migratoria",
+      "subtitle": "Nueve de las víctimas son menores de entre 14 y 17 años, mientras que entre los presuntos agresores hay cuatro de nacionalidad marroquí, tres españoles y un belga",
+      "url": "https://www.eldiario.es/politica/fiscalia-eleva-21-agresiones-sexuales-registradas-ceuta-inicio-crisis-migratoria_1_13476925.html",
+      "scraped_at": "2026-08-31T13:38:50Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Tiroteo Suiza",
-      "subtitle": "El suceso se ha producido durante una fiesta rave en la ciudad de Aarau, capital del cantón de Argovia. Las autoridades continúan buscando al responsable",
-      "url": "https://www.eldiario.es/internacional/muerto-cinco-heridos-tiroteo-norte-suiza_1_13474905.html",
-      "scraped_at": "2026-08-30T11:50:42Z"
+      "title": "Huelga Airbus",
+      "subtitle": "La multinacional exigió a la parte sindical la suspensión de los paros para cerrar un acuerdo de mejoras salariales y de condiciones para poner fin al conflicto, iniciado en julio y que persiste",
+      "url": "https://www.eldiario.es/economia/trabajadores-mantienen-huelga-indefinida-airbus-pese-ultimatum-empresa-seguir-negociando_1_13476928.html",
+      "scraped_at": "2026-08-31T13:38:50Z"
     }
   ]
 }
