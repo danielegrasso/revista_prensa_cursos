@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez insiste en alabar a Marruecos y niega que existieran informes del CNI como dice Robles: El presidente del Gobierno exculpa a Rabat de la entrada de 72.000 personas en España desde su territorio y avisa: «Esta crisis solo se va a resolver con su cooperación»; Inteligencia insta al Gobierno a replantear su relación con Rabat: La gestión de Marruecos en la crisis ha vuelto a levantar sospechas; El PP acusa a Sánchez de «conspiranoico» tras culpar a Israel y Rusia de la crisis: «Solo falta culpar a Franco», afirma Borja Sémper tras la entrevista del presidente, e insiste en criticar que no se atreva a responsabilizar de nada a Marruecos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-08-31T13:38:52Z",
+  "summary": "Resumen del día en ABC.es: Alcaldes socialistas se rebelan contra la orden de Ferraz de no secundar la protesta por Ceuta: Varios dirigentes locales se suman a la concentración convocada por la FEMP y otros organizan actos propios el mismo 2 de septiembre; Detenido un menor marroquí por agresión sexual a tres niñas de entre 10 y 11 años en un centro tras la avalancha: Tanto las víctimas como el agresor entraron en la ciudad autónoma durante la invasión que se produjo a finales de julio. El escenario de las mismas fue un centro de menores; El CGPJ envía a una magistrada especializada en violencia sobre la mujer para reforzar los juzgados: Consuelo Andreo apoyará durante al menos seis meses al Tribunal de Instancia ceutí ante el aumento de carga de trabajo y las agresiones sexuales tras la invasión de julio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-01T11:34:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez insiste en alabar a Marruecos y niega que existieran informes del CNI como dice Robles",
-      "subtitle": "El presidente del Gobierno exculpa a Rabat de la entrada de 72.000 personas en España desde su territorio y avisa: «Esta crisis solo se va a resolver con su cooperación»",
-      "url": "https://www.abc.es/espana/sanchez-insiste-alabar-marruecos-asegura-informes-cni-20260831092354-nt.html",
-      "scraped_at": "2026-08-31T13:38:51Z"
+      "title": "Alcaldes socialistas se rebelan contra la orden de Ferraz de no secundar la protesta por Ceuta",
+      "subtitle": "Varios dirigentes locales se suman a la concentración convocada por la FEMP y otros organizan actos propios el mismo 2 de septiembre",
+      "url": "https://www.abc.es/espana/alcaldes-socialistas-rebelan-ordenes-ferraz-secundar-protesta-20260831013420-nt.html",
+      "scraped_at": "2026-09-01T11:34:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Inteligencia insta al Gobierno a replantear su relación con Rabat",
-      "subtitle": "La gestión de Marruecos en la crisis ha vuelto a levantar sospechas",
-      "url": "https://www.abc.es/espana/cooperacion-contravigilancias-directrices-inteligencia-futuro-relaciones-marruecos-20260820012406-nt.html",
-      "scraped_at": "2026-08-31T13:38:51Z"
+      "title": "Detenido un menor marroquí por agresión sexual a tres niñas de entre 10 y 11 años en un centro tras la avalancha",
+      "subtitle": "Tanto las víctimas como el agresor entraron en la ciudad autónoma durante la invasión que se produjo a finales de julio. El escenario de las mismas fue un centro de menores",
+      "url": "https://www.abc.es/espana/detenido-menor-agresion-sexual-tres-ninas-centro-20260901130006-nt.html",
+      "scraped_at": "2026-09-01T11:34:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP acusa a Sánchez de «conspiranoico» tras culpar a Israel y Rusia de la crisis",
-      "subtitle": "«Solo falta culpar a Franco», afirma Borja Sémper tras la entrevista del presidente, e insiste en criticar que no se atreva a responsabilizar de nada a Marruecos",
-      "url": "https://www.abc.es/espana/pp-acusa-sanchez-conspiranoico-tras-culpar-israel-20260831142228-nt.html",
-      "scraped_at": "2026-08-31T13:38:51Z"
+      "title": "El CGPJ envía a una magistrada especializada en violencia sobre la mujer para reforzar los juzgados",
+      "subtitle": "Consuelo Andreo apoyará durante al menos seis meses al Tribunal de Instancia ceutí ante el aumento de carga de trabajo y las agresiones sexuales tras la invasión de julio",
+      "url": "https://www.abc.es/espana/cgpj-envia-magistrada-cartagena-reforzar-juzgados-ceuta-20260901110320-nt.html",
+      "scraped_at": "2026-09-01T11:34:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Invadamos Ceuta de turistas",
-      "subtitle": "Que gastemos allí, que nuestro dinero llegará antes y sin contrapartidas, no como las ayudas del Gobierno",
-      "url": "https://www.abc.es/espana/invadamos-ceuta-turistas-20260831103946-nt.html",
-      "scraped_at": "2026-08-31T13:38:51Z"
+      "title": "Rusia pide pruebas a España de su participación en la crisis migratoria de Ceuta tras las palabras de Sánchez",
+      "subtitle": "«Sin hechos, sin información que respalde cifras, fechas y nombres, simplemente no hay nada que discutir», afirma la portavoz del Ministerio de Asuntos Exteriores de Moscú",
+      "url": "https://www.abc.es/espana/rusia-pide-pruebas-espana-participacion-crisis-migratoria-20260901111655-nt.html",
+      "scraped_at": "2026-09-01T11:34:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los autónomos podrán cobrar un 25% de su pensión mientras siguen trabajando si optan por la nueva jubilación flexible",
-      "subtitle": "Con Carlos Herrera, Jorge Bustos y Alberto Herrera",
-      "url": "https://www.cope.es/actualidad/economia/noticias/autonomos-septiembre-podran-cobrar-25-pension-siguen-trabajando-optan-nueva-jubilacion-flexible-le-permitia-asalariados-20260831_3427407.html",
-      "scraped_at": "2026-08-31T13:38:52Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-09-01T11:34:39Z"
     }
   ]
 }
