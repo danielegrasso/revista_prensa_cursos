@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez se enroca en la protección a Marruecos, pero se ve obligado a matizar su defensa: El presidente insiste en que «no hay pruebas sólidas» contra Rabat, pero anticipa que se actuará con «total contundencia» si aparecen en el futuro; Sánchez anuncia que se trabaja para que el Rey visite Ceuta «en las próximas semanas»: El presidente del Gobierno ha cambiado de parecer tras señalar hace unos días a Felipe VI por no ir a la ciudad autónoma en «20 años»; Feijóo señala con dureza a Rabat y arrincona a Sánchez: «¿Qué sabe Marruecos de usted?»: El líder del PP anima al presidente a incluir las conversaciones de Pegasus en los informes que dijo que hará públicos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-03T11:08:21Z",
+  "summary": "Resumen del día en ABC.es: La UE recuerda a Marlaska que el objetivo sigue siendo el regreso de los que entraron ilegalmente: El ministro del Interior proporciona a Bruselas la información que faltaba en la petición de ayuda por la crisis de Ceuta; La Audiencia Nacional muestra su «absoluto respaldo» a la juez Tardón tras la crítica de Marlaska: El tribunal afirma que la magistrada «está actuando para la preservación y defensa del interés general de España»; Prohens acusa a Sánchez de ocultarle las alertas sobre llegadas masivas a Baleares: La presidenta balear revela que el jefe del Ejecutivo no le informó durante su reunión en Palma del 29 de julio y exige conocer qué medidas adoptó el Gobierno ante el «alto riesgo» detectado por las Fuerzas de Seguridad. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-04T11:12:38Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez se enroca en la protección a Marruecos, pero se ve obligado a matizar su defensa",
-      "subtitle": "El presidente insiste en que «no hay pruebas sólidas» contra Rabat, pero anticipa que se actuará con «total contundencia» si aparecen en el futuro",
-      "url": "https://www.abc.es/espana/sanchez-enroca-proteccion-marruecos-obligado-matizar-defensa-20260903101306-nt.html",
-      "scraped_at": "2026-09-03T11:08:20Z"
+      "title": "La UE recuerda a Marlaska que el objetivo sigue siendo el regreso de los que entraron ilegalmente",
+      "subtitle": "El ministro del Interior proporciona a Bruselas la información que faltaba en la petición de ayuda por la crisis de Ceuta",
+      "url": "https://www.abc.es/espana/comisario-europeo-migraciones-recuerda-marlaska-objetivo-sigue-20260904115605-nt.html",
+      "scraped_at": "2026-09-04T11:12:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez anuncia que se trabaja para que el Rey visite Ceuta «en las próximas semanas»",
-      "subtitle": "El presidente del Gobierno ha cambiado de parecer tras señalar hace unos días a Felipe VI por no ir a la ciudad autónoma en «20 años»",
-      "url": "https://www.abc.es/espana/sanchez-insta-rey-visitar-ceuta-proximas-semanas-20260903111109-nt.html",
-      "scraped_at": "2026-09-03T11:08:20Z"
+      "title": "La Audiencia Nacional muestra su «absoluto respaldo» a la juez Tardón tras la crítica de Marlaska",
+      "subtitle": "El tribunal afirma que la magistrada «está actuando para la preservación y defensa del interés general de España»",
+      "url": "https://www.abc.es/espana/audiencia-nacional-muestra-absoluto-respaldo-juez-tardon-20260904120025-nt.html",
+      "scraped_at": "2026-09-04T11:12:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo señala con dureza a Rabat y arrincona a Sánchez: «¿Qué sabe Marruecos de usted?»",
-      "subtitle": "El líder del PP anima al presidente a incluir las conversaciones de Pegasus en los informes que dijo que hará públicos",
-      "url": "https://www.abc.es/espana/feijoo-sanchez-congreso-ceuta-20260903180928-nt.html",
-      "scraped_at": "2026-09-03T11:08:20Z"
+      "title": "Prohens acusa a Sánchez de ocultarle las alertas sobre llegadas masivas a Baleares",
+      "subtitle": "La presidenta balear revela que el jefe del Ejecutivo no le informó durante su reunión en Palma del 29 de julio y exige conocer qué medidas adoptó el Gobierno ante el «alto riesgo» detectado por las Fuerzas de Seguridad",
+      "url": "https://www.abc.es/espana/baleares/prohens-acusa-sanchez-ocultarle-alertas-sobre-llegadas-20260904120611-nt.html",
+      "scraped_at": "2026-09-04T11:12:37Z"
     },
     {
       "source": "ABC.es",
-      "title": "Rufián se une a la teoría de Sumar y acusa a Israel y EE.UU. de «estar detrás de la invasión»",
-      "subtitle": "Sigue en directo la última hora de la crisis migratoria en Ceuta y la intervención de Pedro de Sánchez en el Congreso",
-      "url": "https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di.html",
-      "scraped_at": "2026-09-03T11:08:21Z"
+      "title": "Mandos policiales y del Gobierno ven la mano de Zapatero en los informes de Ceuta",
+      "subtitle": "Fuentes policiales y gubernamentales coinciden en señalar el movimiento subterráneo de los mandos policiales afines al expresidente del Gobierno que han controlado los informes policiales",
+      "url": "https://www.abc.es/espana/zapatero-morira-matando-mandos-policiales-gobierno-ven-20260903014017-nt.html",
+      "scraped_at": "2026-09-04T11:12:37Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-09-03T11:08:21Z"
+      "scraped_at": "2026-09-04T11:12:38Z"
     }
   ]
 }
