@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El informe clave de la \"entrada masiva\" llegó tres días tarde y con la invasión desatada: El Jemad lo recibió a las 10.06 del 30 de julio, a pesar de que la alerta del 27 veía \"muy probable\" la avalancha; Page plantea una \"legislación especial\" para acelerar en la expulsión de inmigrantes en casos de \"seguridad nacional\" o contra ataques híbridos: El presidente de Castilla-La Mancha dice que en el caso de Ceuta somos \"prisioneros\" de las leyes de inmigración y asilo; El peso que arrastra Sánchez: \"La soledad del presidente, a nueve meses de las municipales y a once de las generales, quedó retratada en todo su esplendor\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-09-04T11:12:32Z",
+  "summary": "Resumen del día en El Mundo: El Gobierno impone al 90% de las comunidades el modelo de financiación de Junqueras mientras \"racanea todo\" a Ceuta: Sánchez valida el sistema pactado con ERC con la mayoría de comunidades en contra por primera vez en democracia, mientras la consejera ceutí estalla en la reunión; El Gobierno de Ceuta replica a Sánchez: \"Avisamos el 27 de julio y nos dijeron 'no alarméis que es lo de todos lo veranos'\": La consejera de Hacienda de Ceuta protagoniza una dura intervención a puerta cerrada ante los ministros de Hacienda y Política territorial; Todavía no sabe qué es una nación: El error de cálculo de Pedro Sánchez en Ceuta puede compararsecon el de Rajoy en Cataluña. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-09-05T10:30:07Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El informe clave de la \"entrada masiva\" llegó tres días tarde y con la invasión desatada",
-      "subtitle": "El Jemad lo recibió a las 10.06 del 30 de julio, a pesar de que la alerta del 27 veía \"muy probable\" la avalancha",
-      "url": "https://www.elmundo.es/espana/2026/09/03/6a99add9e4d4d8ba2d8b4578.html",
-      "scraped_at": "2026-09-04T11:12:31Z"
+      "title": "El Gobierno impone al 90% de las comunidades el modelo de financiación de Junqueras mientras \"racanea todo\" a Ceuta",
+      "subtitle": "Sánchez valida el sistema pactado con ERC con la mayoría de comunidades en contra por primera vez en democracia, mientras la consejera ceutí estalla en la reunión",
+      "url": "https://www.elmundo.es/espana/2026/09/04/6a9b0948fdddffd6668b4578.html",
+      "scraped_at": "2026-09-05T10:30:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Page plantea una \"legislación especial\" para acelerar en la expulsión de inmigrantes en casos de \"seguridad nacional\" o contra ataques híbridos",
-      "subtitle": "El presidente de Castilla-La Mancha dice que en el caso de Ceuta somos \"prisioneros\" de las leyes de inmigración y asilo",
-      "url": "https://www.elmundo.es/espana/2026/09/04/6a9a96fee85ece21778b458c.html",
-      "scraped_at": "2026-09-04T11:12:31Z"
+      "title": "El Gobierno de Ceuta replica a Sánchez: \"Avisamos el 27 de julio y nos dijeron 'no alarméis que es lo de todos lo veranos'\"",
+      "subtitle": "La consejera de Hacienda de Ceuta protagoniza una dura intervención a puerta cerrada ante los ministros de Hacienda y Política territorial",
+      "url": "https://www.elmundo.es/espana/2026/09/04/6a9b0689e85eceb80f8b4599.html",
+      "scraped_at": "2026-09-05T10:30:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "El peso que arrastra Sánchez",
-      "subtitle": "\"La soledad del presidente, a nueve meses de las municipales y a once de las generales, quedó retratada en todo su esplendor\"",
-      "url": "https://www.elmundo.es/espana/2026/09/03/6a99ae4ce4d4d84f668b4595.html",
-      "scraped_at": "2026-09-04T11:12:31Z"
+      "title": "Todavía no sabe qué es una nación",
+      "subtitle": "El error de cálculo de Pedro Sánchez en Ceuta puede compararsecon el de Rajoy en Cataluña",
+      "url": "https://www.elmundo.es/espana/2026/09/05/6a9ae9f1e85ece056e8b45b5.html",
+      "scraped_at": "2026-09-05T10:30:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Desmentido por los documentos... y por sí mismo",
-      "subtitle": "El presidente del Gobierno, en su intervención de ayer en el Congreso, dejó al descubierto varios matices a lo que venía diciendo el Ejecutivo, mientras que otros datos chocan con las evidencias",
-      "url": "https://www.elmundo.es/espana/2026/09/03/6a99d236fc6c8312398b45bc.html",
-      "scraped_at": "2026-09-04T11:12:31Z"
+      "title": "El 'oasis' de \"libertad\" de los chavales marroquíes en Ceuta: \"Centros de menores, no; queremos libertad\"",
+      "subtitle": "Decenas de menores campan con anarquía adolescente por su asentamiento de chabolas y rehúyen los centros de acogida",
+      "url": "https://www.elmundo.es/espana/2026/09/05/6a9b0f92fdddffdc158b4584.html",
+      "scraped_at": "2026-09-05T10:30:06Z"
     },
     {
       "source": "El Mundo",
-      "title": "Audiencia Nacional Marlaska",
-      "subtitle": "María Tardón \"está actuando para la preservación y defensa del interés general de España, dentro del marco del respeto escrupuloso a sus funciones jurisdiccionales\", resalta la Sala de Gobierno",
-      "url": "https://www.elmundo.es/espana/2026/09/04/6a9a96c9fdddffc6368b45a6.html",
-      "scraped_at": "2026-09-04T11:12:32Z"
+      "title": "Congreso",
+      "subtitle": "Exige la comparecencia en la Cámara Baja del director de la Policía y de la número dos de Marlaska",
+      "url": "https://www.elmundo.es/espana/2026/09/04/6a9b096ffdddfffa288b45b6.html",
+      "scraped_at": "2026-09-05T10:30:07Z"
     }
   ]
 }
