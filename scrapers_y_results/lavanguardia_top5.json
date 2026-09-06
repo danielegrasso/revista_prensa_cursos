@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La Fiscalía apunta a una organización criminal en la crisis de Ceuta pese a que la Policía lo descarta: María Tardón resolverá la próxima semana si abre una causa por la entrada masiva; Sánchez, ante la Sala Segunda: No se habla de moción de censura, se insiste en la vía judicial, intentarán llevar al presidente a juicio por la crisis de Ceuta; El fútbol une, el Mundial 2030 no tanto: De la Fuente y el presidente de la Real Federación Española de Fútbol visitan Ceuta y dan por hecho que España albergará la final y no Marruecos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-09-05T10:30:14Z",
+  "summary": "Resumen del día en La Vanguardia: Manresa, una veintena de jóvenes y el miedo de una ciudad: La reducción de un 6% de los delitos no tranquiliza a los vecinos del Bages; Del miedo a salir de noche: Las estadísticas policiales van por un lado y la percepción ciudadana va por otro. Esta es la clave de todo. En muchas localidades de la Catalunya interior ha habido un incremento de la población inmigrante, principalmente del norte de África, que ha cambiado el paisaje de las...; La paciencia de Ceuta gobierna España: Sábado entre ceutíes: temor, hastío y un día a día que ha caído en picado. “Esto va lento y el hambre es muy malo”, avisa una ceutí musulmana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-09-06T10:50:53Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La Fiscalía apunta a una organización criminal en la crisis de Ceuta pese a que la Policía lo descarta",
-      "subtitle": "María Tardón resolverá la próxima semana si abre una causa por la entrada masiva",
-      "url": "https://www.lavanguardia.com/politica/20260905/11627563/fiscalia-allana-camino-jueza-investigar-crisis-ceuta.html",
-      "scraped_at": "2026-09-05T10:30:14Z"
+      "title": "Manresa, una veintena de jóvenes y el miedo de una ciudad",
+      "subtitle": "La reducción de un 6% de los delitos no tranquiliza a los vecinos del Bages",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260906/11628106/manresa-veintena-jovenes-miedo-ciudad.html",
+      "scraped_at": "2026-09-06T10:50:52Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez, ante la Sala Segunda",
-      "subtitle": "No se habla de moción de censura, se insiste en la vía judicial, intentarán llevar al presidente a juicio por la crisis de Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260905/11627509/sanchez-sala-segunda.html",
-      "scraped_at": "2026-09-05T10:30:14Z"
+      "title": "Del miedo a salir de noche",
+      "subtitle": "Las estadísticas policiales van por un lado y la percepción ciudadana va por otro. Esta es la clave de todo. En muchas localidades de la Catalunya interior ha habido un incremento de la población inmigrante, principalmente del norte de África, que ha cambiado el paisaje de las...",
+      "url": "https://www.lavanguardia.com/opinion/20260906/11628203/miedo-salir-noche.html",
+      "scraped_at": "2026-09-06T10:50:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El fútbol une, el Mundial 2030 no tanto",
-      "subtitle": "De la Fuente y el presidente de la Real Federación Española de Fútbol visitan Ceuta y dan por hecho que España albergará la final y no Marruecos",
-      "url": "https://www.lavanguardia.com/politica/20260905/11627578/futbol-une-mundial-2030-tanto.html",
-      "scraped_at": "2026-09-05T10:30:14Z"
+      "title": "La paciencia de Ceuta gobierna España",
+      "subtitle": "Sábado entre ceutíes: temor, hastío y un día a día que ha caído en picado. “Esto va lento y el hambre es muy malo”, avisa una ceutí musulmana",
+      "url": "https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html",
+      "scraped_at": "2026-09-06T10:50:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El agujero de 10 horas que engulle a Sánchez",
-      "subtitle": "Pedro Sánchez es aficionado al enduro. Le gusta sortear obstáculos naturales con la bici y exhibir resistencia y destreza en las redes sociales. Posición, frenada, curvas, mirada, control de velocidad y lectura del terreno. Proliferan los manuales de jefes de gabinete, pero al...",
-      "url": "https://www.lavanguardia.com/politica/20260905/11627560/agujero-diez-horas-engulle-sanchez.html",
-      "scraped_at": "2026-09-05T10:30:14Z"
+      "title": "“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”",
+      "subtitle": "El ministro de Política Territorial, que asumió el mando único para gestionar la crisis el 25 de agosto, defiende en conversación con 'La Vanguardia' la colaboración con Marruecos y confía en recuperar la normalidad en el menor tiempo posible",
+      "url": "https://www.lavanguardia.com/politica/20260906/11628029/angel-victor-torres-lealtad-gobierno-ceuta-hay-cuestiones-esto-acabe-diremos.html",
+      "scraped_at": "2026-09-06T10:50:53Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un Reino Unido en crisis económica y militar reafirma que las islas Malvinas son suyas",
-      "subtitle": "Downing Street expresa su “apoyo inamovible” al derecho de autodeterminación",
-      "url": "https://www.lavanguardia.com/internacional/20260904/11627572/reino-unido-crisis-economica-militar-reafirma-islas-malvinas-son.html",
-      "scraped_at": "2026-09-05T10:30:14Z"
+      "title": "Toni Bou amplía su leyenda al llegar a los 40 títulos mundiales antes de los 40 años",
+      "subtitle": "El piloto de Piera se ha impuesto en el Trial de los Paises Bajos a Jaime Busto y certifica su 20.º título de trial al aire libre, el 40.º en total",
+      "url": "https://www.lavanguardia.com/deportes/20260906/11628503/trial-toni-bou-campeon-mundo-trial-40-titulos-40-anos-aire-libre-paises-bajos-leyenda.html",
+      "scraped_at": "2026-09-06T10:50:53Z"
     }
   ]
 }
