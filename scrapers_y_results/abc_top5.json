@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber suspendido las vacaciones: La crisis de Ceuta fue lo más seguido en España junto al Mundial y existe una percepción mayoritaria de que la situación política es mala o muy mala; Los votantes del PSOE no se creen a Sánchez en la crisis de Ceuta: El 77% de los encuestados considera «mala o muy mala» la gestión que ha desarrollado el Gobierno después del asalto masivo por la frontera de la ciudad autónoma; El blindaje del presidente frente al delito de traición dificulta que el Supremo pueda juzgarle: Es necesaria una cuarta parte del Congreso para iniciar el procedimiento y mayoría absoluta para poder proceder contra él. Abascal ha puesto sus diputados a disposición del PP. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-06T10:50:51Z",
+  "summary": "Resumen del día en ABC.es: El expresidente de Plus Ultra confirma que habló con Zapatero y entendió que había que pagarle una comisión: Julio Martínez Sola se ratifica en su escrito implicando al expresidente del Gobierno y dice que el pago se hizo a través de 'Julito' Martínez; La debacle de la izquierda deja a Sánchez sin socios: El descalabro de los socios del PSOE deja al actual presidente sin posibilidad alguna de reeditar el acuerdo que le mantuvo en Moncloa; El ex número dos de la inteligencia marroquí filtra «información sensible» a los hackers de Jabaroot: ABC accede en exclusiva al documento identificativo de Mehdi Hijaouy en los servicios secretos, el hombre que está detrás de la brecha de seguridad que dejó al descubierto a 70.381 espías marroquíes. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-07T12:23:43Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber suspendido las vacaciones",
-      "subtitle": "La crisis de Ceuta fue lo más seguido en España junto al Mundial y existe una percepción mayoritaria de que la situación política es mala o muy mala",
-      "url": "https://www.abc.es/espana/gran-mayoria-piensa-marruecos-detras-invasion-sanchez-20260906014650-nt.html",
-      "scraped_at": "2026-09-06T10:50:50Z"
+      "title": "El expresidente de Plus Ultra confirma que habló con Zapatero y entendió que había que pagarle una comisión",
+      "subtitle": "Julio Martínez Sola se ratifica en su escrito implicando al expresidente del Gobierno y dice que el pago se hizo a través de 'Julito' Martínez",
+      "url": "https://www.abc.es/espana/expresidente-plus-ultra-confirma-hablo-zapatero-entendio-20260907122037-nt.html",
+      "scraped_at": "2026-09-07T12:23:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los votantes del PSOE no se creen a Sánchez en la crisis de Ceuta",
-      "subtitle": "El 77% de los encuestados considera «mala o muy mala» la gestión que ha desarrollado el Gobierno después del asalto masivo por la frontera de la ciudad autónoma",
-      "url": "https://www.abc.es/espana/votantes-psoe-creen-sanchez-crisis-ceuta-20260906014706-nt.html",
-      "scraped_at": "2026-09-06T10:50:50Z"
+      "title": "La debacle de la izquierda deja a Sánchez sin socios",
+      "subtitle": "El descalabro de los socios del PSOE deja al actual presidente sin posibilidad alguna de reeditar el acuerdo que le mantuvo en Moncloa",
+      "url": "https://www.abc.es/espana/pp-vox-disparan-202-escanos-sanchez-aguanta-20260907215840-nt.html",
+      "scraped_at": "2026-09-07T12:23:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "El blindaje del presidente frente al delito de traición dificulta que el Supremo pueda juzgarle",
-      "subtitle": "Es necesaria una cuarta parte del Congreso para iniciar el procedimiento y mayoría absoluta para poder proceder contra él. Abascal ha puesto sus diputados a disposición del PP",
-      "url": "https://www.abc.es/espana/puede-sanchez-imputado-traicion-primer-presidente-enfrenta-20260906014812-nt.html",
-      "scraped_at": "2026-09-06T10:50:51Z"
+      "title": "El ex número dos de la inteligencia marroquí filtra «información sensible» a los hackers de Jabaroot",
+      "subtitle": "ABC accede en exclusiva al documento identificativo de Mehdi Hijaouy en los servicios secretos, el hombre que está detrás de la brecha de seguridad que dejó al descubierto a 70.381 espías marroquíes",
+      "url": "https://www.abc.es/espana/numero-dos-inteligencia-marroqui-filtra-informacion-sensible-20260907020434-nt.html",
+      "scraped_at": "2026-09-07T12:23:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo incrementó la interlocución con países clave de la UE en mitad de la crisis de Ceuta",
-      "subtitle": "El líder del PP mantuvo informados directamente a sus socios para internacionalizar la crisis y consolidar la soledad de Sánchez. Vivas viaja este martes a Bruselas",
-      "url": "https://www.abc.es/espana/feijoo-incremento-interlocucion-paises-clave-ue-mitad-20260906014841-nt.html",
-      "scraped_at": "2026-09-06T10:50:51Z"
+      "title": "«El exespía Mehdi Hijaouy, en busca y captura, maneja material sensible sobre el régimen de Mohamed VI»",
+      "subtitle": "La adjunta al director en investigación ofrece las claves de la exclusiva que publica este lunes ABC sobre el ex número dos de los servicios secretos marroquíes y los hackers de Jabaroot",
+      "url": "https://www.abc.es/espana/exespia-mehdi-hijaouy-huyo-marruecos-contenido-movil-20260907020641-nt.html",
+      "scraped_at": "2026-09-07T12:23:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "«El impuesto de sucesiones es necesario pagarlo, porque intenta redistribuir la riqueza y que no se concentre en las mismas familias generación tras generación, es por eso que existe»",
-      "subtitle": "Antonio, creador de contenido, responde al reel del influencer Álvaro Patón preguntándose por qué existe el impuesto de sucesiones",
-      "url": "https://www.cope.es/actualidad/economia/noticias/impuesto-sucesiones-necesario-pagarlo-intenta-redistribuir-riqueza-no-concentre-familias-generacion-generacion-existe-20260906_3431096.html",
-      "scraped_at": "2026-09-06T10:50:51Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-09-07T12:23:43Z"
     }
   ]
 }

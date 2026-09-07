@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Manresa, una veintena de jóvenes y el miedo de una ciudad: La reducción de un 6% de los delitos no tranquiliza a los vecinos del Bages; Del miedo a salir de noche: Las estadísticas policiales van por un lado y la percepción ciudadana va por otro. Esta es la clave de todo. En muchas localidades de la Catalunya interior ha habido un incremento de la población inmigrante, principalmente del norte de África, que ha cambiado el paisaje de las...; La paciencia de Ceuta gobierna España: Sábado entre ceutíes: temor, hastío y un día a día que ha caído en picado. “Esto va lento y el hambre es muy malo”, avisa una ceutí musulmana. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-09-06T10:50:53Z",
+  "summary": "Resumen del día en La Vanguardia: La ultraderechista AfD confía en que diputados de la CDU la apoyen para gobernar Sajonia-Anhalt: A pesar del cortafuegos a la extrema derecha, el candidato ultra Ulrich Siegmund asegura que “existe comprensión hacia nuestras posturas en algunos sectores de los conservadores”; Un futuro inquietante: Se emplea estos días la metáfora de las bombas de la Segunda Guerra Mundial que resurgen en el lecho desecado de los ríos europeos, exangües por la crisis climática. Un proyectil que ha llegado hasta hoy sin estallar, como legado de una época en la que el totalitarismo...; El muro antifascista se resquebraja: El muro antifascista que ha preservado la democracia europea desde el final de la Segunda Guerra Mundial se resquebraja. La victoria aplastante de Alternativa para Alemania (AfD) en Sajonia-Anhalt abre una brecha que asusta en el Elíseo, Downing Street, la Moncloa y otras.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-09-07T12:23:44Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Manresa, una veintena de jóvenes y el miedo de una ciudad",
-      "subtitle": "La reducción de un 6% de los delitos no tranquiliza a los vecinos del Bages",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260906/11628106/manresa-veintena-jovenes-miedo-ciudad.html",
-      "scraped_at": "2026-09-06T10:50:52Z"
+      "title": "La ultraderechista AfD confía en que diputados de la CDU la apoyen para gobernar Sajonia-Anhalt",
+      "subtitle": "A pesar del cortafuegos a la extrema derecha, el candidato ultra Ulrich Siegmund asegura que “existe comprensión hacia nuestras posturas en algunos sectores de los conservadores”",
+      "url": "https://www.lavanguardia.com/internacional/20260907/11629039/ultraderechista-afd-confia-diputados-cdu-apoyen-gobernar-sajonia-anhalt.html",
+      "scraped_at": "2026-09-07T12:23:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Del miedo a salir de noche",
-      "subtitle": "Las estadísticas policiales van por un lado y la percepción ciudadana va por otro. Esta es la clave de todo. En muchas localidades de la Catalunya interior ha habido un incremento de la población inmigrante, principalmente del norte de África, que ha cambiado el paisaje de las...",
-      "url": "https://www.lavanguardia.com/opinion/20260906/11628203/miedo-salir-noche.html",
-      "scraped_at": "2026-09-06T10:50:53Z"
+      "title": "Un futuro inquietante",
+      "subtitle": "Se emplea estos días la metáfora de las bombas de la Segunda Guerra Mundial que resurgen en el lecho desecado de los ríos europeos, exangües por la crisis climática. Un proyectil que ha llegado hasta hoy sin estallar, como legado de una época en la que el totalitarismo...",
+      "url": "https://www.lavanguardia.com/opinion/20260907/11628626/afd-sajonia-anhalt-merz-hitler.html",
+      "scraped_at": "2026-09-07T12:23:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La paciencia de Ceuta gobierna España",
-      "subtitle": "Sábado entre ceutíes: temor, hastío y un día a día que ha caído en picado. “Esto va lento y el hambre es muy malo”, avisa una ceutí musulmana",
-      "url": "https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html",
-      "scraped_at": "2026-09-06T10:50:53Z"
+      "title": "El muro antifascista se resquebraja",
+      "subtitle": "El muro antifascista que ha preservado la democracia europea desde el final de la Segunda Guerra Mundial se resquebraja. La victoria aplastante de Alternativa para Alemania (AfD) en Sajonia-Anhalt abre una brecha que asusta en el Elíseo, Downing Street, la Moncloa y otras...",
+      "url": "https://www.lavanguardia.com/internacional/20260907/11628938/muro-antifascista-resquebraja.html",
+      "scraped_at": "2026-09-07T12:23:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”",
-      "subtitle": "El ministro de Política Territorial, que asumió el mando único para gestionar la crisis el 25 de agosto, defiende en conversación con 'La Vanguardia' la colaboración con Marruecos y confía en recuperar la normalidad en el menor tiempo posible",
-      "url": "https://www.lavanguardia.com/politica/20260906/11628029/angel-victor-torres-lealtad-gobierno-ceuta-hay-cuestiones-esto-acabe-diremos.html",
-      "scraped_at": "2026-09-06T10:50:53Z"
+      "title": "De Abascal a Orbán: los ultras de Europa exultan ante la victoria de la extrema derecha alemana",
+      "subtitle": "Abascal, Orbán, Ventura o Vannacci exultan por el golpe de la extrema derecha alemana en las elecciones regionales",
+      "url": "https://www.lavanguardia.com/internacional/20260907/11628869/victoria-afd-sajonia-anhalt-da-alas-ultras-europeos-incierto-ciclo-electoral.html",
+      "scraped_at": "2026-09-07T12:23:44Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Toni Bou amplía su leyenda al llegar a los 40 títulos mundiales antes de los 40 años",
-      "subtitle": "El piloto de Piera se ha impuesto en el Trial de los Paises Bajos a Jaime Busto y certifica su 20.º título de trial al aire libre, el 40.º en total",
-      "url": "https://www.lavanguardia.com/deportes/20260906/11628503/trial-toni-bou-campeon-mundo-trial-40-titulos-40-anos-aire-libre-paises-bajos-leyenda.html",
-      "scraped_at": "2026-09-06T10:50:53Z"
+      "title": "Quiero y no puedo",
+      "subtitle": "Podría haber estado en cualquier calle de la ciudad, pero el restaurante se encontraba justo en el límite. Allá arriba, decía siempre mi padre cuando éramos pequeños —apuntaba con el dedo a los chalés con jardín, piscina, grandes paseos, zonas verdes, varios grados menos en...",
+      "url": "https://www.lavanguardia.com/comer/opinion/20260906/11627020/quiero.html",
+      "scraped_at": "2026-09-07T12:23:44Z"
     }
   ]
 }
