@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El ex presidente de Plus Ultra afirma ante el juez que aceptó pagar una comisión del 1% \"al grupo Zapatero\" para obtener el rescate de 53 millones: Julio Martínez Sola comparece como imputado ante el juez de la Audiencia Nacional José Luis Calama; La Audiencia Nacional investiga un contrato ficticio de 15 millones vinculado a la financiación del PSOE: Aldama asegura que entregó a Koldo dinero de un pago petrolero venezolano mientras el juez trata de determinar si esos fondos llegaron a las arcas socialistas; El PSOE se apresura a asegurar que está \"absolutamente tranquilo\" con la investigación de un contrato ficticio de 15 millones vinculado a su financiación: En Ferraz lamentan que \"resulta difícil defenderse de acusaciones\" que no conocen y que \"llegan antes a los titulares que a las partes\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-09-07T12:23:37Z",
+  "summary": "Resumen del día en El Mundo: Desastre educativo en España, con el peor resultado de su historia en el informe PISA: España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el \"trabajo duro\" de los alumnos asiáticos \"haciendo deberes\"; Madrid desbanca a Castilla y León en el liderazgo mientras Comunidad Valenciana y País Vasco se hunden estrepitosamente: Todas las comunidades autónomas bajan sus resultados en todas las competencias analizadas respecto a 2022, excepto Castilla-La Mancha; Cataluña no es la única en trampear: Murcia ha excluido al 12% de los alumnos y Baleares al 7,5% cuando sólo se podía sacar al 5%: El truco de dejar fuera del examen a los estudiantes inmigrantes y con necesidades de aprendizaje dispara la tasa de exención nacional al 7,5%. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-09-08T11:11:46Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El ex presidente de Plus Ultra afirma ante el juez que aceptó pagar una comisión del 1% \"al grupo Zapatero\" para obtener el rescate de 53 millones",
-      "subtitle": "Julio Martínez Sola comparece como imputado ante el juez de la Audiencia Nacional José Luis Calama",
-      "url": "https://www.elmundo.es/espana/2026/09/07/6a9e94a8e9cf4a013a8b4591.html",
-      "scraped_at": "2026-09-07T12:23:36Z"
+      "title": "Desastre educativo en España, con el peor resultado de su historia en el informe PISA",
+      "subtitle": "España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el \"trabajo duro\" de los alumnos asiáticos \"haciendo deberes\"",
+      "url": "https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html",
+      "scraped_at": "2026-09-08T11:11:45Z"
     },
     {
       "source": "El Mundo",
-      "title": "La Audiencia Nacional investiga un contrato ficticio de 15 millones vinculado a la financiación del PSOE",
-      "subtitle": "Aldama asegura que entregó a Koldo dinero de un pago petrolero venezolano mientras el juez trata de determinar si esos fondos llegaron a las arcas socialistas",
-      "url": "https://www.elmundo.es/espana/2026/09/06/6a9d861fe85ece85578b458c.html",
-      "scraped_at": "2026-09-07T12:23:36Z"
+      "title": "Madrid desbanca a Castilla y León en el liderazgo mientras Comunidad Valenciana y País Vasco se hunden estrepitosamente",
+      "subtitle": "Todas las comunidades autónomas bajan sus resultados en todas las competencias analizadas respecto a 2022, excepto Castilla-La Mancha",
+      "url": "https://www.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html",
+      "scraped_at": "2026-09-08T11:11:45Z"
     },
     {
       "source": "El Mundo",
-      "title": "El PSOE se apresura a asegurar que está \"absolutamente tranquilo\" con la investigación de un contrato ficticio de 15 millones vinculado a su financiación",
-      "subtitle": "En Ferraz lamentan que \"resulta difícil defenderse de acusaciones\" que no conocen y que \"llegan antes a los titulares que a las partes\"",
-      "url": "https://www.elmundo.es/espana/2026/09/07/6a9e6ee521efa0ee248b4576.html",
-      "scraped_at": "2026-09-07T12:23:36Z"
+      "title": "Cataluña no es la única en trampear: Murcia ha excluido al 12% de los alumnos y Baleares al 7,5% cuando sólo se podía sacar al 5%",
+      "subtitle": "El truco de dejar fuera del examen a los estudiantes inmigrantes y con necesidades de aprendizaje dispara la tasa de exención nacional al 7,5%",
+      "url": "https://www.elmundo.es/espana/2026/09/08/6a9ecbc1e85eceb8198b4591.html",
+      "scraped_at": "2026-09-08T11:11:45Z"
     },
     {
       "source": "El Mundo",
-      "title": "Pánico autonómico al batacazo en el informe PISA, que examina la era Sánchez: \"Volveremos a caer\"",
-      "subtitle": "Ocho millones de estudiantes regresan a las aulas ante una evaluación que medirá el deterioro de la enseñanza durante la legislatura, con Cataluña y País Vasco maquillando la muestra",
-      "url": "https://www.elmundo.es/espana/2026/09/06/6a9d2ff1fdddff8d4c8b4581.html",
-      "scraped_at": "2026-09-07T12:23:36Z"
+      "title": "Informe PISA: el fracaso educativo de España es un fracaso político",
+      "subtitle": "La Lomloe impulsada por Pedro Sánchez rebajó la exigencia, relativizó el valor de los conocimientos",
+      "url": "https://www.elmundo.es/opinion/editorial/2026/09/08/6a9effca21efa0c02d8b45b6.html",
+      "scraped_at": "2026-09-08T11:11:45Z"
     },
     {
       "source": "El Mundo",
-      "title": "Princesa Leonor",
-      "subtitle": "La heredera al trono inicia como una alumna más el grado de Ciencias Políticas en la Universidad Carlos III de Madrid, donde cursara sus estudios mientras atiende sus compromisos institucionales",
-      "url": "https://www.elmundo.es/espana/2026/09/07/6a9e674f21efa0507c8b4575.html",
-      "scraped_at": "2026-09-07T12:23:37Z"
+      "title": "Pedro Sánchez PSOE",
+      "subtitle": "Un sector del partido interpreta que convocará las generales cuando el Congreso tumbe los Presupuestos, en un contexto internacional de auge de la ultraderecha que \"moviliza\" a su votante",
+      "url": "https://www.elmundo.es/espana/2026/09/07/6a9ef5a5fdddff27618b4578.html",
+      "scraped_at": "2026-09-08T11:11:46Z"
     }
   ]
 }
