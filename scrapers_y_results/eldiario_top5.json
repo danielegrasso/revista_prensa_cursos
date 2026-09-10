@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Supremo abre un nuevo frente al Gobierno en vísperas de la apertura del año judicial: La decisión del Alto Tribunal de frenar el derecho al voto de los nacionalizados con la llamada ley de nietos alienta la conspiración del pucherazo y suma un nuevo encontronazo entre el Ejecutivo y una parte de los jueces; Feijóo y Abascal acusan a Sánchez de manipular el censo con la ley de nietos y él les culpa de “cercenar” el derecho al voto: Los líderes de PP y Vox abonan la teoría de la conspiración en la primera sesión de control del curso en el Congreso y vuelven a sostener sin pruebas que el Gobierno quiere \"manipular\" las elecciones; Sánchez asegura que “por supuesto” contará con Zapatero en la campaña electoral de 2027 pese a su imputación: \"No sé si nos imputarán o no, pero le puedo asegurar que no hay financiación ilegal del PSOE\", asegura el jefe del Ejecutivo en una entrevista en TVE. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-09-09T11:16:26Z",
+  "summary": "Resumen del día en elDiario.es: Los informes no despejan la duda sobre la participación directa de Marruecos en la entrada masiva a Ceuta: Los servicios de inteligencia españoles alertaron de la \"pasividad\" de las fuerzas marroquíes ante \"la avalancha migratoria” pero indican que se vieron desbordados y que era muy probable que las autoridades de este país \"no favorecieran activamente la oleada\"; Qué dicen las tres comunicaciones del CNI a Delegación del Gobierno en Ceuta, Guardia Civil y Marruecos: El Ejecutivo sostiene que una conversación informal por mensajería instantánea no puede equipararse a una alerta o a un informe de los servicios de inteligencia. Reproducimos las comunicaciones conocidas tras la desclasificación de los documentos sobre la crisis de Ceuta; El Congreso avalará dar la nacionalidad a los saharauis en plena crisis de Ceuta: El PSOE y sus socios apoyarán la propuesta de Sumar, que afectará a los nacidos en la excolonia antes de 1977 y sus descendientes. Vox votará en contra, mientras el PP apunta a la abstención: “Estamos de acuerdo, pero no así”. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-09-10T11:12:48Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Supremo abre un nuevo frente al Gobierno en vísperas de la apertura del año judicial",
-      "subtitle": "La decisión del Alto Tribunal de frenar el derecho al voto de los nacionalizados con la llamada ley de nietos alienta la conspiración del pucherazo y suma un nuevo encontronazo entre el Ejecutivo y una parte de los jueces",
-      "url": "https://www.eldiario.es/politica/supremo-abre-nuevo-frente-gobierno-visperas-apertura-ano-judicial_1_13496023.html",
-      "scraped_at": "2026-09-09T11:16:24Z"
+      "title": "Los informes no despejan la duda sobre la participación directa de Marruecos en la entrada masiva a Ceuta",
+      "subtitle": "Los servicios de inteligencia españoles alertaron de la \"pasividad\" de las fuerzas marroquíes ante \"la avalancha migratoria” pero indican que se vieron desbordados y que era muy probable que las autoridades de este país \"no favorecieran activamente la oleada\"",
+      "url": "https://www.eldiario.es/politica/informes-no-despejan-duda-participacion-directa-marruecos-entrada-masiva-ceuta_1_13498627.html",
+      "scraped_at": "2026-09-10T11:12:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo y Abascal acusan a Sánchez de manipular el censo con la ley de nietos y él les culpa de “cercenar” el derecho al voto",
-      "subtitle": "Los líderes de PP y Vox abonan la teoría de la conspiración en la primera sesión de control del curso en el Congreso y vuelven a sostener sin pruebas que el Gobierno quiere \"manipular\" las elecciones",
-      "url": "https://www.eldiario.es/politica/feijoo-abascal-acusan-sanchez-alterar-censo-ley-nietos-les-culpa-cercenar-derecho-voto_1_13496550.html",
-      "scraped_at": "2026-09-09T11:16:25Z"
+      "title": "Qué dicen las tres comunicaciones del CNI a Delegación del Gobierno en Ceuta, Guardia Civil y Marruecos",
+      "subtitle": "El Ejecutivo sostiene que una conversación informal por mensajería instantánea no puede equipararse a una alerta o a un informe de los servicios de inteligencia. Reproducimos las comunicaciones conocidas tras la desclasificación de los documentos sobre la crisis de Ceuta",
+      "url": "https://www.eldiario.es/politica/dicen-tres-comunicaciones-cni-delegacion-gobierno-ceuta-guardia-civil-marruecos_1_13499324.html",
+      "scraped_at": "2026-09-10T11:12:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez asegura que “por supuesto” contará con Zapatero en la campaña electoral de 2027 pese a su imputación",
-      "subtitle": "\"No sé si nos imputarán o no, pero le puedo asegurar que no hay financiación ilegal del PSOE\", asegura el jefe del Ejecutivo en una entrevista en TVE",
-      "url": "https://www.eldiario.es/politica/sanchez-asegura-supuesto-contara-zapatero-campana-electoral-2027-pese-imputacion-expresidente_1_13496754.html",
-      "scraped_at": "2026-09-09T11:16:25Z"
+      "title": "El Congreso avalará dar la nacionalidad a los saharauis en plena crisis de Ceuta",
+      "subtitle": "El PSOE y sus socios apoyarán la propuesta de Sumar, que afectará a los nacidos en la excolonia antes de 1977 y sus descendientes. Vox votará en contra, mientras el PP apunta a la abstención: “Estamos de acuerdo, pero no así”",
+      "url": "https://www.eldiario.es/politica/congreso-avalara-dar-nacionalidad-espanola-saharauis-plena-crisis-ceuta_1_13498798.html",
+      "scraped_at": "2026-09-10T11:12:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Por qué España se pega un batacazo en PISA: falta de atención, pantallas y una caída inédita en rentas altas",
-      "subtitle": "La caída de España en PISA, mayor a la de su entorno, levanta preguntas sin una respuesta evidente. \"Analizamos qué pasa en los centros y con la juventud como si no hubiera sociedad que los sostenga, y la pobreza infantil tiene correlación directa con los resultados\", advierte una experta",
-      "url": "https://www.eldiario.es/sociedad/pegado-espana-batacazo-pisa-pantallas-falta-atencion-caida-inedita-rentas-altas_1_13495419.html",
-      "scraped_at": "2026-09-09T11:16:26Z"
+      "title": "Page redobla sus ataques contra Sánchez y dice que la crisis de Ceuta puede ser “la gran mentira de la democracia después del 11M”",
+      "subtitle": "Afirma que si Moncloa no quiere que su gestión se convierta \"en un chollazo enorme para la extrema derecha\", debe \"darse prisa\", porque la imagen que se traslada está \"en la fase en la que toda España se crea que la mentira se ha elevado a la categoría de dogma\"",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/page-eleva-tono-gobierno-crisis-ceuta-gran-mentira-democracia-despues-11m_1_13499867.html",
+      "scraped_at": "2026-09-10T11:12:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Problema del milenio",
-      "subtitle": "La compañía OpenAI asegura que uno de sus modelos de inteligencia artificial (IA) ha encontrado una solución al problema de Navier-Stokes, uno de los seis problemas del milenio que permanecen sin resolver, entre sospechas de que pueden haber robado ideas de los matemáticos que trabajaban en ello",
-      "url": "https://www.eldiario.es/sociedad/resuelto-problema-milenio-guerra-ias-amenaza-gloria-matematicos-espanoles_1_13496474.html",
-      "scraped_at": "2026-09-09T11:16:26Z"
+      "title": "Julio Iglesias",
+      "subtitle": "Women's Link, la organización que representa a Rebeca y Laura, pide a seis mecanismos de Naciones Unidas que soliciten a España medidas de protección para ellas y garantías de una  \"investigación efectiva e independiente\"",
+      "url": "https://www.eldiario.es/cultura/denunciantes-julio-iglesias-elevan-caso-onu-haberse-comprometido-intimidad-seguridad-datos-personales_1_13499312.html",
+      "scraped_at": "2026-09-10T11:12:48Z"
     }
   ]
 }
