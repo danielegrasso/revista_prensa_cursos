@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La Fiscalía alerta en su memoria de la \"posición extremadamente restrictiva\" de Marruecos en la repatriación de sus ciudadanos: Los informes de expulsión de inmigrantes incrementaron un 15% en 2025, pero su ejecución sigue \"obstaculizada\"; Todos los cuerpos del Estado alertaron al Gobierno de la \"entrada masiva\" a Ceuta y \"con las autoridades distraídas\": CNI, Ejército y Policía Nacional avisaron de lo que iba a suceder el 30 de julio en la frontera; \"Nos hemos pegado un tiro en el pie\": incredulidad tras los informes y la versión del Gobierno: Moncloa carga contra el CNI porque se \"limita a mandar un 'whatsapp' a un cargo menor\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-09-10T11:12:44Z",
+  "summary": "Resumen del día en El Mundo: Dimite el jefe de gabinete del delegado del Gobierno en Ceuta y acusa a éste de mentir sobre el aviso del CNI: Gonzalo Sanz asegura que los informes de los distintos organismos \"demuestran la labor de aviso y alerta que se realizó desde delegación del Gobierno hacia los distintos ministerios\"; \"Punto crítico\": el CNI avisó el día 29 de julio a Delegación del Gobierno de que una multitud esperaba en Castillejos: A las 21.00 horas la playa vecina a la ciudad autónoma estaba desbordada y media hora más tarde el jefe de gabinete de la Delegación llamó al enlace del CNI, con el que llevaba siete horas sin hablar; El PP responde a Marruecos y le acusa de ser \"responsable de lo ocurrido por acción u omisión\": Los 'populares' exigen \"lealtad\" a las autoridades marroquíes e inciden en que fue \"un ataque híbrido\" impulsado por dicho país. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-09-11T11:14:03Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La Fiscalía alerta en su memoria de la \"posición extremadamente restrictiva\" de Marruecos en la repatriación de sus ciudadanos",
-      "subtitle": "Los informes de expulsión de inmigrantes incrementaron un 15% en 2025, pero su ejecución sigue \"obstaculizada\"",
-      "url": "https://www.elmundo.es/espana/2026/09/10/6aa261d1e85ece85668b4570.html",
-      "scraped_at": "2026-09-10T11:12:43Z"
+      "title": "Dimite el jefe de gabinete del delegado del Gobierno en Ceuta y acusa a éste de mentir sobre el aviso del CNI",
+      "subtitle": "Gonzalo Sanz asegura que los informes de los distintos organismos \"demuestran la labor de aviso y alerta que se realizó desde delegación del Gobierno hacia los distintos ministerios\"",
+      "url": "https://www.elmundo.es/espana/2026/09/11/6aa3af19e4d4d8326b8b4574.html",
+      "scraped_at": "2026-09-11T11:14:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "Todos los cuerpos del Estado alertaron al Gobierno de la \"entrada masiva\" a Ceuta y \"con las autoridades distraídas\"",
-      "subtitle": "CNI, Ejército y Policía Nacional avisaron de lo que iba a suceder el 30 de julio en la frontera",
-      "url": "https://www.elmundo.es/espana/2026/09/09/6aa1b015fc6c83ba7e8b458b.html",
-      "scraped_at": "2026-09-10T11:12:43Z"
+      "title": "\"Punto crítico\": el CNI avisó el día 29 de julio a Delegación del Gobierno de que una multitud esperaba en Castillejos",
+      "subtitle": "A las 21.00 horas la playa vecina a la ciudad autónoma estaba desbordada y media hora más tarde el jefe de gabinete de la Delegación llamó al enlace del CNI, con el que llevaba siete horas sin hablar",
+      "url": "https://www.elmundo.es/espana/2026/09/10/6aa2f270e4d4d87a4c8b4574.html",
+      "scraped_at": "2026-09-11T11:14:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "\"Nos hemos pegado un tiro en el pie\": incredulidad tras los informes y la versión del Gobierno",
-      "subtitle": "Moncloa carga contra el CNI porque se \"limita a mandar un 'whatsapp' a un cargo menor\"",
-      "url": "https://www.elmundo.es/espana/2026/09/10/6aa19a6021efa075728b45a3.html",
-      "scraped_at": "2026-09-10T11:12:44Z"
+      "title": "El PP responde a Marruecos y le acusa de ser \"responsable de lo ocurrido por acción u omisión\"",
+      "subtitle": "Los 'populares' exigen \"lealtad\" a las autoridades marroquíes e inciden en que fue \"un ataque híbrido\" impulsado por dicho país",
+      "url": "https://www.elmundo.es/espana/2026/09/11/6aa3a373e85ece9d488b4594.html",
+      "scraped_at": "2026-09-11T11:14:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "La fiscal general se revuelve ante las críticas: \"No pueden confundirse con la descalificación sistemática de la institución\"",
-      "subtitle": "Teresa Peramato ha dedicado sólo dos párrafos de su discurso a abordar el fenómeno de la corrupción, en plena oleada de casos que afectan al Gobierno que la nombró y al PSOE",
-      "url": "https://www.elmundo.es/espana/2026/09/10/6aa25c36e4d4d8cf568b45b4.html",
-      "scraped_at": "2026-09-10T11:12:44Z"
+      "title": "El CNI reaviva la guerra de los 'intocables' de Sánchez: \"A Robles no le molesta ir contra Marlaska\"",
+      "subtitle": "Ceuta deja herido al Gobierno, con la ministra de Defensa en el foco: \"Sólo mira lo suyo\"",
+      "url": "https://www.elmundo.es/espana/2026/09/11/6aa2ef3be85ece420e8b45b1.html",
+      "scraped_at": "2026-09-11T11:14:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "Nacionalidad saharauis",
-      "subtitle": "Los grupos, salvo PSOE y Sumar, arremeten contra el presidente del Gobierno y le exigen revertir el giro \"unilateral\" que decidió en 2022 cediendo a las aspiraciones de Marruecos sobre el Sáhara",
-      "url": "https://www.elmundo.es/espana/2026/09/10/6aa27215fc6c83237d8b4599.html",
-      "scraped_at": "2026-09-10T11:12:44Z"
+      "title": "Los Kretz",
+      "subtitle": "Louis y Raphaël han aterrizado en España para vender algunas de las viviendas más excelsas del orbe. Su negocio, convertido en fenómeno global por Netflix, mezcla lujo y voyerismo inmobiliario. En España, mueven más de 300 propiedades de más de un millón de euros. La casa de 15 millones en la que nos reciben no es la más cara",
+      "url": "https://www.elmundo.es/cronica/2026/09/11/6a995586fc6c83f45d8b45a2.html",
+      "scraped_at": "2026-09-11T11:14:03Z"
     }
   ]
 }
