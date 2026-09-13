@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Cuatro comunidades hicieron trampas en PISA y una está bajo sospecha: «Page entrenó a sus alumnos para el test»: El porcentaje de estudiantes españoles que de media fueron excluidos de la prueba (del 7,9%) está por encima de lo que recomienda la OCDE; La dimisión del jefe de Gabinete del delegado en Ceuta cerca al Ejecutivo: Revela que existen informes que demuestran que la alerta de la entrada masiva se remitió a «distintos ministerios»; El Gobierno vacía el CIE de Algeciras ante la sospecha de que lleguen más narcolanchas: De unos 400 internos que había en agosto en la actualidad hay una treintena; el resto han sido puestos en libertad, trasladados a ONG o expulsados a Marruecos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-12T10:40:47Z",
+  "summary": "Resumen del día en ABC.es: La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali: Los servicios secretos marroquíes se enteraron de la llegada del líder del Frente Polisario por el espionaje a la ministra de Exteriores. El entonces secretario general de Presidencia le dio un «acuse de recibo»; La colaboración de Rabat y la responsabilidad por no vigilar la frontera, claves de la causa sobre la invasión: Fuentes de la Audiencia Nacional trasladan que la personación del Gobierno no implica que no se investigue la responsabilidad del Estado si es pertinente; Las noventa tumbas sin nombre de Ceuta: Tal fue la avalancha de muertos que han tenido que ampliar de urgencia el camposanto musulmán de Ceuta, donde descansan los muertos del asalto. En seis días tuvieron que enterrar a destajo a 90 personas. «Se nos ha quedado chico el cementerio». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-13T11:45:11Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Cuatro comunidades hicieron trampas en PISA y una está bajo sospecha: «Page entrenó a sus alumnos para el test»",
-      "subtitle": "El porcentaje de estudiantes españoles que de media fueron excluidos de la prueba (del 7,9%) está por encima de lo que recomienda la OCDE",
-      "url": "https://www.abc.es/sociedad/cuatro-comunidades-hicieron-trampas-pisa-bajo-sospecha-20260912012047-nt.html",
-      "scraped_at": "2026-09-12T10:40:46Z"
+      "title": "La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali",
+      "subtitle": "Los servicios secretos marroquíes se enteraron de la llegada del líder del Frente Polisario por el espionaje a la ministra de Exteriores. El entonces secretario general de Presidencia le dio un «acuse de recibo»",
+      "url": "https://www.abc.es/espana/exministra-laya-entrego-bolanos-telefono-hackeado-tras-20260912020537-nt.html",
+      "scraped_at": "2026-09-13T11:45:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "La dimisión del jefe de Gabinete del delegado en Ceuta cerca al Ejecutivo",
-      "subtitle": "Revela que existen informes que demuestran que la alerta de la entrada masiva se remitió a «distintos ministerios»",
-      "url": "https://www.abc.es/espana/dimision-jefe-gabinete-delegado-ceuta-desmonta-relato-20260912011712-nt.html",
-      "scraped_at": "2026-09-12T10:40:46Z"
+      "title": "La colaboración de Rabat y la responsabilidad por no vigilar la frontera, claves de la causa sobre la invasión",
+      "subtitle": "Fuentes de la Audiencia Nacional trasladan que la personación del Gobierno no implica que no se investigue la responsabilidad del Estado si es pertinente",
+      "url": "https://www.abc.es/espana/colaboracion-marruecos-responsabilidad-vigilar-frontera-claves-causa-20260912020457-nt.html",
+      "scraped_at": "2026-09-13T11:45:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno vacía el CIE de Algeciras ante la sospecha de que lleguen más narcolanchas",
-      "subtitle": "De unos 400 internos que había en agosto en la actualidad hay una treintena; el resto han sido puestos en libertad, trasladados a ONG o expulsados a Marruecos",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/gobierno-vacia-cie-algeciras-ante-sospecha-lleguen-20260912191903-nts.html",
-      "scraped_at": "2026-09-12T10:40:46Z"
+      "title": "Las noventa tumbas sin nombre de Ceuta",
+      "subtitle": "Tal fue la avalancha de muertos que han tenido que ampliar de urgencia el camposanto musulmán de Ceuta, donde descansan los muertos del asalto. En seis días tuvieron que enterrar a destajo a 90 personas. «Se nos ha quedado chico el cementerio»",
+      "url": "https://www.abc.es/espana/tumbas-nombre-tarajal-20260913020518-nt.html",
+      "scraped_at": "2026-09-13T11:45:10Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo asume que Marruecos le mide ya como futuro presidente",
-      "subtitle": "«Ahora Marruecos ya sabe dónde estamos y cuál es nuestra posición», confirman en Génova, que mantienen la posición beligerante y exhiben «lo que haría Feijóo desde Moncloa»",
-      "url": "https://www.abc.es/espana/feijoo-asume-rabat-mide-vista-puesta-cambio-20260912011718-nt.html",
-      "scraped_at": "2026-09-12T10:40:46Z"
+      "title": "La hora del nuncio: los diez nombramientos que reconfigurarán el episcopado español",
+      "subtitle": "Barcelona será la piedra de toque para conocer el modelo de obispo que León XIV quiere para nuestro país",
+      "url": "https://www.abc.es/sociedad/hora-nuncio-diez-nombramientos-reconfiguraran-episcopado-espanol-20260913012733-nt.html",
+      "scraped_at": "2026-09-13T11:45:11Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alberto Sánchez, abogado: «Si alquilas una vivienda, debes incluir una cláusula que aplique intereses por retrasos en el pago»",
-      "subtitle": "El abogado Alberto Sánchez desvela las tres condiciones indispensables que todo propietario debe incorporar para proteger su vivienda de alquiler",
-      "url": "https://www.cope.es/actualidad/economia/noticias/alberto-sanchez-abogado-propietario-vivienda-vas-alquilarla-debes-incluir-clausula-aplique-intereses-inquilino-retrasa-pago-renta-20260912_3422168.html",
-      "scraped_at": "2026-09-12T10:40:47Z"
+      "title": "Bárbara, pescadera: «Me ha llegado un Bizum de una clienta a la que ayer llevamos un pedido de 30,81 euros y nos ha pagado 30. Me parece lamentable»",
+      "subtitle": "La trabajadora de mercado critica que le descuenten céntimos en un envío gratuito cuando las aplicaciones de pago permiten abonar el importe exacto",
+      "url": "https://www.cope.es/actualidad/sociedad/noticias/barbara-pescadera-me-llegado-notificacion-bizum-clienta-ayer-le-servimos-pedido-domicilio-importe-30-81-euros-pagado-30-euros-me-parece-lamentable-20260913_3435085.html",
+      "scraped_at": "2026-09-13T11:45:11Z"
     }
   ]
 }
