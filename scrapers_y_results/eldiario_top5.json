@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Las hostilidades entre progresistas y conservadores amenazan con llevar al Poder Judicial a la parálisis: Los vocales elegidos a iniciativa del PP rompen relaciones con los consejeros de izquierda al considerar una “deslealtad tremenda” el comunicado en el que pedían autocrítica a la presidenta Isabel Perelló; 24 horas con el mando único en Ceuta: elDiario.es recorre las calles de una ciudad autónoma atravesada por la emergencia humanitaria y acompaña durante una jornada de trabajo al ministro de Política Territorial, Ángel Víctor Torres, al frente del operativo de coordinación de la crisis; El Gobierno habilita más de 800 nuevas plazas de acogida en Ceuta y traslada allí a los migrantes de Loma Colmenar: A primera hora se ha llevado a cabo el traslado de 864 hombres que permanecían a la intemperie en el Embolsamiento de Loma Colmenar, uno de las zonas más colapsadas, en un operativo coordinado sobre el terreno por la ministra Elma Saiz para un nuevo centro en el barrio de Los Rosales. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-09-13T11:45:09Z",
+  "summary": "Resumen del día en elDiario.es: El CIS mantiene la ventaja del PSOE sobre el PP pese a caer dos puntos por la crisis en Ceuta: Los socialistas logran un 31% de los votos, dos puntos menos que en julio; el PP, un 25,5%, cuatro décimas por encima que el último estudio; Vox, un 16,6%; Sumar, un 5,7%, y Podemos, el 3,7%, según el barómetro de septiembre del instituto que dirige José Félix Tezanos; Bolaños recurre el archivo de sus denuncias contra el juez Peinado y acusa al Poder Judicial de “corporativismo”: El ministro inicia la vía para acudir al Supremo y denuncia la “hostilidad” y la “actitud intimidatoria” del interrogatorio al que le sometió el juez del caso contra Begoña Gómez; Asuntos Internos “verifica” que existe la red de corrupción policial denunciada por el inspector de los millones emparedados: El exjefe de la UDEF advirtió al juez que le investiga de que la unidad antidrogas ha dejado sin analizar un teléfono encriptado en el que aparecen las referencias a funcionarios que participan en la introducción de cocaína por el puerto de Algeciras. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-09-14T12:38:06Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Las hostilidades entre progresistas y conservadores amenazan con llevar al Poder Judicial a la parálisis",
-      "subtitle": "Los vocales elegidos a iniciativa del PP rompen relaciones con los consejeros de izquierda al considerar una “deslealtad tremenda” el comunicado en el que pedían autocrítica a la presidenta Isabel Perelló",
-      "url": "https://www.eldiario.es/politica/hostilidades-progresistas-conservadores-amenazan-llevar-judicial-paralisis_1_13503906.html",
-      "scraped_at": "2026-09-13T11:45:07Z"
+      "title": "El CIS mantiene la ventaja del PSOE sobre el PP pese a caer dos puntos por la crisis en Ceuta",
+      "subtitle": "Los socialistas logran un 31% de los votos, dos puntos menos que en julio; el PP, un 25,5%, cuatro décimas por encima que el último estudio; Vox, un 16,6%; Sumar, un 5,7%, y Podemos, el 3,7%, según el barómetro de septiembre del instituto que dirige José Félix Tezanos",
+      "url": "https://www.eldiario.es/politica/cis-aumenta-ventaja-psoe-pp-5-5-puntos-pese-crisis-ceuta_1_13507458.html",
+      "scraped_at": "2026-09-14T12:38:04Z"
     },
     {
       "source": "elDiario.es",
-      "title": "24 horas con el mando único en Ceuta",
-      "subtitle": "elDiario.es recorre las calles de una ciudad autónoma atravesada por la emergencia humanitaria y acompaña durante una jornada de trabajo al ministro de Política Territorial, Ángel Víctor Torres, al frente del operativo de coordinación de la crisis",
-      "url": "https://www.eldiario.es/politica/24-horas-mando-unico-ceuta-aliviar-trampolin-principe-loma-colmenar-cuestion-dias_1_13499179.html",
-      "scraped_at": "2026-09-13T11:45:07Z"
+      "title": "Bolaños recurre el archivo de sus denuncias contra el juez Peinado y acusa al Poder Judicial de “corporativismo”",
+      "subtitle": "El ministro inicia la vía para acudir al Supremo y denuncia la “hostilidad” y la “actitud intimidatoria” del interrogatorio al que le sometió el juez del caso contra Begoña Gómez",
+      "url": "https://www.eldiario.es/politica/bolanos-recurre-archivo-denuncias-juez-peinado-acusa-judicial-corporativismo_1_13507172.html",
+      "scraped_at": "2026-09-14T12:38:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno habilita más de 800 nuevas plazas de acogida en Ceuta y traslada allí a los migrantes de Loma Colmenar",
-      "subtitle": "A primera hora se ha llevado a cabo el traslado de 864 hombres que permanecían a la intemperie en el Embolsamiento de Loma Colmenar, uno de las zonas más colapsadas, en un operativo coordinado sobre el terreno por la ministra Elma Saiz para un nuevo centro en el barrio de Los Rosales",
-      "url": "https://www.eldiario.es/politica/gobierno-habilita-800-plazas-nuevas-acogida-migrantes-permanecian-calle-ceuta_1_13505590.html",
-      "scraped_at": "2026-09-13T11:45:08Z"
+      "title": "Asuntos Internos “verifica” que existe la red de corrupción policial denunciada por el inspector de los millones emparedados",
+      "subtitle": "El exjefe de la UDEF advirtió al juez que le investiga de que la unidad antidrogas ha dejado sin analizar un teléfono encriptado en el que aparecen las referencias a funcionarios que participan en la introducción de cocaína por el puerto de Algeciras",
+      "url": "https://www.eldiario.es/politica/asuntos-internos-verifica-existe-red-corrupcion-policial-denunciada-inspector-millones-emparedados_1_13501695.html",
+      "scraped_at": "2026-09-14T12:38:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las imágenes del traslado de cientos de migrantes a un nuevo centro temporal de acogida en Ceuta",
-      "subtitle": "El Gobierno habilita más de 800 nuevas plazas de acogida en Ceuta e inicia el traslado de migrantes que seguían en la calle",
-      "url": "https://www.eldiario.es/desalambre/imagenes-traslado-cientos-migrantes-nuevo-centro-temporal-acogida-ceuta_3_13506249.html",
-      "scraped_at": "2026-09-13T11:45:08Z"
+      "title": "China pide una “barrera de seguridad” para la IA ante los intentos de Trump de frenar una regulación global",
+      "subtitle": "El gigante asiático recuerda, no obstante, que esta tecnología se ha convertido en una nueva \"rivalidad entre grandes potencias\" y recuerda cómo EEUU está intentando frenar su desarrollo con medidas como el embargo de chips avanzados",
+      "url": "https://www.eldiario.es/tecnologia/pekin-denuncia-eeuu-busca-frenar-ia-impedir-china-pueda-mejorar-capacidades_1_13507168.html",
+      "scraped_at": "2026-09-14T12:38:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Isabel Rodríguez",
-      "subtitle": "La ministra de Vivienda exige a Junts y Podemos que cedan como ha hecho ella para alcanzar un pacto y culpa a Ayuso del desahucio de Maricarmen y de imponer la \"ley de la selva\" a favor de especuladores",
-      "url": "https://www.eldiario.es/economia/isabel-rodriguez-hubiera-gustado-lejos-decreto-vivienda-negociamos-congreso_128_13503481.html",
-      "scraped_at": "2026-09-13T11:45:09Z"
+      "title": "Independencia Reino Unido",
+      "subtitle": "Los gobernantes nacionalistas de los tres territorios piden a Londres que \"facilite el cambio constitucional\" y dicen que su futuro está dentro de la Unión Europea",
+      "url": "https://www.eldiario.es/internacional/lideres-escocia-gales-e-irlanda-norte-acuerdan-luchar-independizarse-reino-unido_1_13507512.html",
+      "scraped_at": "2026-09-14T12:38:06Z"
     }
   ]
 }
