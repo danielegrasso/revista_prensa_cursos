@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta: El organismo desvía la atención con preguntas evidentes sobre la seguridad en la frontera y sondea si actores internacionales como Trump, Israel o Meloni orquestaron la crisis; La juez de la Audiencia Nacional reclama el expediente del delegado del Gobierno de Ceuta: Las organizaciones Manos Limpias y Hazte Oír denunciaron a Miguel Ángel Pérez Triana por su presunta actuación ante las informaciones y avisos recibidos antes de la llegada masiva de inmigrantes; Dirigentes del PSOE no quieren a Zapatero en sus actos de campaña: El impacto de la investigación al expresidente desmoviliza al espectro progresista y rompe la estrategia de voto útil de Sánchez. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-14T12:38:11Z",
+  "summary": "Resumen del día en ABC.es: El jefe de Moncloa para Ceuta estuvo todo agosto de vacaciones en Japón durante el asalto: Fuentes gubernamentales alegan que Diego Rubio «dirigió el operativo» desde el país asiático, pero oficialmente Moncloa evita dar detalles de la «geolocalización de los altos cargos»; González Laya tilda de «ataque híbrido» la crisis de Ceuta y advierte del afán «neoimperialista» de Marruecos: La extitular de Exteriores asegura que el asalto responde a una táctica de utilizar «la migración como arma de guerra»; El Rey se pronuncia por primera vez públicamente sobre Ceuta: «Una situación de extraordinaria complejidad»: En un acto junto al ministro Grande-Marlaska, reconoce la labor de Protección Civil y del resto de servidores públicos y voluntarios. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-15T11:38:56Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta",
-      "subtitle": "El organismo desvía la atención con preguntas evidentes sobre la seguridad en la frontera y sondea si actores internacionales como Trump, Israel o Meloni orquestaron la crisis",
-      "url": "https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html",
-      "scraped_at": "2026-09-14T12:38:08Z"
+      "title": "El jefe de Moncloa para Ceuta estuvo todo agosto de vacaciones en Japón durante el asalto",
+      "subtitle": "Fuentes gubernamentales alegan que Diego Rubio «dirigió el operativo» desde el país asiático, pero oficialmente Moncloa evita dar detalles de la «geolocalización de los altos cargos»",
+      "url": "https://www.abc.es/espana/jefe-gabinete-sanchez-agosto-vacaciones-japon-asalto-20260915220201-nt.html",
+      "scraped_at": "2026-09-15T11:38:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "La juez de la Audiencia Nacional reclama el expediente del delegado del Gobierno de Ceuta",
-      "subtitle": "Las organizaciones Manos Limpias y Hazte Oír denunciaron a Miguel Ángel Pérez Triana por su presunta actuación ante las informaciones y avisos recibidos antes de la llegada masiva de inmigrantes",
-      "url": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
-      "scraped_at": "2026-09-14T12:38:09Z"
+      "title": "González Laya tilda de «ataque híbrido» la crisis de Ceuta y advierte del afán «neoimperialista» de Marruecos",
+      "subtitle": "La extitular de Exteriores asegura que el asalto responde a una táctica de utilizar «la migración como arma de guerra»",
+      "url": "https://www.abc.es/espana/gonzalez-laya-tilda-ataque-hibrido-crisis-ceuta-20260915111933-nt.html",
+      "scraped_at": "2026-09-15T11:38:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Dirigentes del PSOE no quieren a Zapatero en sus actos de campaña",
-      "subtitle": "El impacto de la investigación al expresidente desmoviliza al espectro progresista y rompe la estrategia de voto útil de Sánchez",
-      "url": "https://www.abc.es/espana/efecto-zapatero-rompe-estrategia-electoral-voto-util-20260729020226-nt.html",
-      "scraped_at": "2026-09-14T12:38:09Z"
+      "title": "El Rey se pronuncia por primera vez públicamente sobre Ceuta: «Una situación de extraordinaria complejidad»",
+      "subtitle": "En un acto junto al ministro Grande-Marlaska, reconoce la labor de Protección Civil y del resto de servidores públicos y voluntarios",
+      "url": "https://www.abc.es/espana/casa-real/rey-pronuncia-primera-vez-publicamente-sobre-ceuta-20260915130537-nt.html",
+      "scraped_at": "2026-09-15T11:38:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Asesinan en México a una estudiante española de 21 años que estaba de intercambio universitario",
-      "subtitle": "Las autoridades del país investigan inicialmente el crimen de Claudia Tacoronte Aguilera como un feminicidio",
-      "url": "https://www.abc.es/espana/andalucia/granada/asesinan-mexico-estudiante-espanola-anos-intercambio-universitario-20260914063826-nts.html",
-      "scraped_at": "2026-09-14T12:38:10Z"
+      "title": "El PSOE enchufó en la Junta de Andalucía por su «experiencia laboral» a afines sin un día cotizado",
+      "subtitle": "En un informe entregado al juez Vilaplana, la UCO califica de «contradictorias» las exigencias académicas fijadas para dar un empleo público a aspirantes sin competencia real",
+      "url": "https://www.abc.es/espana/andalucia/uco-revela-psoe-enchufo-junta-andalucia-experiencia-20260915011859-nts.html",
+      "scraped_at": "2026-09-15T11:38:55Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-09-14T12:38:11Z"
+      "scraped_at": "2026-09-15T11:38:56Z"
     }
   ]
 }
