@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Alarma IA, fiebre Data Center: La dramatización de la inteligencia artificial coincide con una creciente oposición a los centros de datos; ¿Redactar mal para no ser confundido con una IA? Así se aprende a escribir en los tiempos de la inteligencia artificial: Las escuelas literarias replantean su forma de enseñar por el avance tecnológico; Expansión de chabolas a un ritmo vertiginoso: Ceuta ya tiene su segunda Lampedusa: Centenares de marroquíes, entre los que predominan los del norte del país, se asientan en Playa de Benítez junto a la desalinizadora tras los conflictos con sus compatriotas del sur en el Trampolín. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-09-15T11:38:58Z",
+  "summary": "Resumen del día en La Vanguardia: Von der Leyen anuncia la creación de una mini OTAN de la UE, Canadá, Reino Unido y Ucrania: La presidenta de la Comisión Europea propone crear un “Consejo de Seguridad Europeo” que funcione como una OTAN reducida; Europa necesita un líder de ayer: Ursula von der Leyen, presidenta de la Comisión, inició este miércoles su discurso en el Parlamento Europeo sobre el estado de la Unión constatando una contradicción: Europa es más fuerte que nunca pero, sin embargo, la sensación es toda la contraria. El pesimismo parece haberse...; La presidenta de la CE, a los ceutíes: “Europa estará ahí para vosotros”: La presidenta de la Comisión Europea plantea la creación de un instrumento de respuesta europeo para hacer frente a entradas masivas de irregulares. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-09-16T11:26:07Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Alarma IA, fiebre Data Center",
-      "subtitle": "La dramatización de la inteligencia artificial coincide con una creciente oposición a los centros de datos",
-      "url": "https://www.lavanguardia.com/economia/20260915/11634820/alarma-ia-fiebre-data-center.html",
-      "scraped_at": "2026-09-15T11:38:57Z"
+      "title": "Von der Leyen anuncia la creación de una mini OTAN de la UE, Canadá, Reino Unido y Ucrania",
+      "subtitle": "La presidenta de la Comisión Europea propone crear un “Consejo de Seguridad Europeo” que funcione como una OTAN reducida",
+      "url": "https://www.lavanguardia.com/internacional/20260916/11636009/von-der-leyen-alianza-seguridad-otan-ue-canada-reino-unido-ucrania-smr.html",
+      "scraped_at": "2026-09-16T11:26:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Redactar mal para no ser confundido con una IA? Así se aprende a escribir en los tiempos de la inteligencia artificial",
-      "subtitle": "Las escuelas literarias replantean su forma de enseñar por el avance tecnológico",
-      "url": "https://www.lavanguardia.com/cultura/20260915/11634678/aprender-escribir-tiempos-ia.html",
-      "scraped_at": "2026-09-15T11:38:57Z"
+      "title": "Europa necesita un líder de ayer",
+      "subtitle": "Ursula von der Leyen, presidenta de la Comisión, inició este miércoles su discurso en el Parlamento Europeo sobre el estado de la Unión constatando una contradicción: Europa es más fuerte que nunca pero, sin embargo, la sensación es toda la contraria. El pesimismo parece haberse...",
+      "url": "https://www.lavanguardia.com/internacional/20260916/11636219/europa-necesita-lider-ayer.html",
+      "scraped_at": "2026-09-16T11:26:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Expansión de chabolas a un ritmo vertiginoso: Ceuta ya tiene su segunda Lampedusa",
-      "subtitle": "Centenares de marroquíes, entre los que predominan los del norte del país, se asientan en Playa de Benítez junto a la desalinizadora tras los conflictos con sus compatriotas del sur en el Trampolín",
-      "url": "https://www.lavanguardia.com/politica/20260915/11634808/ceuta-segunda-lampedusa.html",
-      "scraped_at": "2026-09-15T11:38:58Z"
+      "title": "La presidenta de la CE, a los ceutíes: “Europa estará ahí para vosotros”",
+      "subtitle": "La presidenta de la Comisión Europea plantea la creación de un instrumento de respuesta europeo para hacer frente a entradas masivas de irregulares",
+      "url": "https://www.lavanguardia.com/politica/20260916/11636081/von-der-leyen-dirige-ceuties-frontera-ceuta-frontera-europa-europa-estara-vosotros.html",
+      "scraped_at": "2026-09-16T11:26:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Rey se pronuncia por primera vez sobre Ceuta y avisa de la “extraordinaria complejidad” de la crisis",
-      "subtitle": "Felipe VI reconoce el “trabajo ingente” que está realizando el personal de Protección Civil",
-      "url": "https://www.lavanguardia.com/politica/20260915/11635349/rey-alerta-extraordinaria-complejidad-situacion-ceuta.html",
-      "scraped_at": "2026-09-15T11:38:58Z"
+      "title": "Sánchez y Feijóo se acusan de “cronificar” la crisis de Ceuta, sin margen para acordar soluciones",
+      "subtitle": "El presidente del Gobierno reivindica su plan inversor en la ciudad autónoma, mientras el jefe de la oposición exige explicaciones sobre su relación con Marruecos: “Su silencio es una vergüenza”",
+      "url": "https://www.lavanguardia.com/politica/20260916/11636032/sanchez-feijoo-acusan-cronificar-crisis-ceuta-margen-acordar-soluciones.html",
+      "scraped_at": "2026-09-16T11:26:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Moscú advierte a Polonia que “dejará de existir en 2 o 3 días” si ataca a Rusia",
-      "subtitle": "Nikolái Pátrushev, hombre de confianza de Putin, responde así al ministro de Exteriores polaco, Radoslaw Sikorki, quien ha pedido reforzar su seguridad por las provocaciones rusas en la frontera con Ucrania",
-      "url": "https://www.lavanguardia.com/internacional/20260915/11635334/moscu-advierte-a-polonia-que-dejaria-de-existir-en-2-o-3-dias-si-atacase-a-rusia.html",
-      "scraped_at": "2026-09-15T11:38:58Z"
+      "title": "Bernie Sanders y el exasesor de Trump, Steve Bannon, unidos frente a una IA sin control",
+      "subtitle": "Pese a sus profundas diferencias políticas, ambos coinciden en un acto que reúne a cientos de líderes políticos, religiosos, artistas y empresarios",
+      "url": "https://www.lavanguardia.com/internacional/20260916/11635983/progresista-bernie-sanders-exasesor-trump-steve-bannon-unidos-frente-ia-control.html",
+      "scraped_at": "2026-09-16T11:26:07Z"
     }
   ]
 }
