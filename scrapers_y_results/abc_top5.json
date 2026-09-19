@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Tensión y caos en el traslado de los inmigrantes: «No entran todos en el campamento»: El dispositivo de Policía Nacional y Guardia Civil tiene que lidiar con varias avalanchas de grupos de inmigrantes que no querían seguir las órdenes de los agentes; El presidente del Puerto de Ceuta denuncia que «se ha enterado por la televisión» del traslado a los inmigrantes: Óscar Puente defiende que el desplazamiento se hizo con «absoluta coordinación y colaboración con los técnicos del Puerto»; La jueza Tardón busca responsables del asalto a Ceuta por encima del delegado del Gobierno: La multitud de diligencias ordenadas por la magistrada de la Audiencia Nacional no apuntan a la responsabilidad del delegado del Gobierno o su jefe de Gabinete, sino a las más altas instancias del Estado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-18T11:07:59Z",
+  "summary": "Resumen del día en ABC.es: Interior refuerza la seguridad en Melilla ante la fuerte amenaza de una invasión como la de Ceuta: Decenas de guardias civiles son trasladados a la ciudad autónoma ante el aumento de los mensajes en redes sociales de un posibles asalto masivo durante los próximos días; Veinticinco guardias civiles para 1.700 inmigrantes: «Cada día diez marroquíes intentan colarse en barcos hacia la Península»: Los agentes consideran que es insuficiente el dispositivo en el campamento: «La seguridad del puerto de Ceuta está en riesgo»; El 'índice Big Mac' que revela tu bajo poder adquisitivo: Los ínfimos salarios y la escalada de precios sitúan a los españoles entre los últimos del 'ranking' del índice que mide cuántas hamburguesas pueden comprar en cada país en igualdad de condiciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-19T10:52:59Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Tensión y caos en el traslado de los inmigrantes: «No entran todos en el campamento»",
-      "subtitle": "El dispositivo de Policía Nacional y Guardia Civil tiene que lidiar con varias avalanchas de grupos de inmigrantes que no querían seguir las órdenes de los agentes",
-      "url": "https://www.abc.es/espana/tension-caos-traslado-inmigrantes-puerto-ceuta-entran-20260918101849-nt.html",
-      "scraped_at": "2026-09-18T11:07:58Z"
+      "title": "Interior refuerza la seguridad en Melilla ante la fuerte amenaza de una invasión como la de Ceuta",
+      "subtitle": "Decenas de guardias civiles son trasladados a la ciudad autónoma ante el aumento de los mensajes en redes sociales de un posibles asalto masivo durante los próximos días",
+      "url": "https://www.abc.es/espana/interior-refuerza-seguridad-melilla-ante-amenaza-invasion-20260921022615-nt.html",
+      "scraped_at": "2026-09-19T10:52:58Z"
     },
     {
       "source": "ABC.es",
-      "title": "El presidente del Puerto de Ceuta denuncia que «se ha enterado por la televisión» del traslado a los inmigrantes",
-      "subtitle": "Óscar Puente defiende que el desplazamiento se hizo con «absoluta coordinación y colaboración con los técnicos del Puerto»",
-      "url": "https://www.abc.es/espana/presidente-puerto-ceuta-denuncia-enterado-television-traslado-20260918113030-nt.html",
-      "scraped_at": "2026-09-18T11:07:58Z"
+      "title": "Veinticinco guardias civiles para 1.700 inmigrantes: «Cada día diez marroquíes intentan colarse en barcos hacia la Península»",
+      "subtitle": "Los agentes consideran que es insuficiente el dispositivo en el campamento: «La seguridad del puerto de Ceuta está en riesgo»",
+      "url": "https://www.abc.es/espana/seis-guardias-civiles-1700-inmigrantes-seguridad-puerto-20260919022834-nt.html",
+      "scraped_at": "2026-09-19T10:52:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "La jueza Tardón busca responsables del asalto a Ceuta por encima del delegado del Gobierno",
-      "subtitle": "La multitud de diligencias ordenadas por la magistrada de la Audiencia Nacional no apuntan a la responsabilidad del delegado del Gobierno o su jefe de Gabinete, sino a las más altas instancias del Estado",
-      "url": "https://www.abc.es/espana/juez-tardon-busca-responsables-asalto-ceuta-encima-20260918013017-nt.html",
-      "scraped_at": "2026-09-18T11:07:59Z"
+      "title": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
+      "subtitle": "Los ínfimos salarios y la escalada de precios sitúan a los españoles entre los últimos del 'ranking' del índice que mide cuántas hamburguesas pueden comprar en cada país en igualdad de condiciones",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html",
+      "scraped_at": "2026-09-19T10:52:59Z"
     },
     {
       "source": "ABC.es",
-      "title": "Marruecos usó un dron durante la visita de los directores de Policía y Guardia Civil",
-      "subtitle": "Rabat desplegó un aparato en la frontera que alertó a sus homólogos españoles. El vehículo contaba con un cable en la parte baja que sirve para evitar los inhibidores electrónicos",
-      "url": "https://www.abc.es/espana/autoridades-detectan-marruecos-movilizo-extrano-dron-ceuta-20260917013130-nt.html",
-      "scraped_at": "2026-09-18T11:07:59Z"
+      "title": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
+      "subtitle": "La artista colombiana ofrece el primero de sus doce conciertos en la capital, arropada por seguidores de todo el mundo, que disfrutaron también del gigantesco 'parque de atracciones' que montó para la ocasión",
+      "url": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html",
+      "scraped_at": "2026-09-19T10:52:59Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-09-18T11:07:59Z"
+      "scraped_at": "2026-09-19T10:52:59Z"
     }
   ]
 }
