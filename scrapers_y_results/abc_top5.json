@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Interior refuerza la seguridad en Melilla ante la fuerte amenaza de una invasión como la de Ceuta: Decenas de guardias civiles son trasladados a la ciudad autónoma ante el aumento de los mensajes en redes sociales de un posibles asalto masivo durante los próximos días; Veinticinco guardias civiles para 1.700 inmigrantes: «Cada día diez marroquíes intentan colarse en barcos hacia la Península»: Los agentes consideran que es insuficiente el dispositivo en el campamento: «La seguridad del puerto de Ceuta está en riesgo»; El 'índice Big Mac' que revela tu bajo poder adquisitivo: Los ínfimos salarios y la escalada de precios sitúan a los españoles entre los últimos del 'ranking' del índice que mide cuántas hamburguesas pueden comprar en cada país en igualdad de condiciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-19T10:52:59Z",
+  "summary": "Resumen del día en ABC.es: La crisis de Ceuta dinamita la hoja de ruta electoral de Sánchez: Moncloa asume que la gestión de la crisis y la inmigración serán «elementos centrales» de la campaña y tratan de resolver la situación antes de llamar a las urnas. En el PSOE piden activar los Presupuestos para cambiar el foco; El PP aprieta al Gobierno por la puerta que puso Rabat en la valla de Ceuta: Pregunta si conocía su instalación y si piensa adoptar medidas para su retirada; Vender documentos a inmigrantes para colarles en la Península: Un ceutí y una inmigrante arrestados tras intentar acceder al ferry con un DNI que no era suyo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-20T11:16:32Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Interior refuerza la seguridad en Melilla ante la fuerte amenaza de una invasión como la de Ceuta",
-      "subtitle": "Decenas de guardias civiles son trasladados a la ciudad autónoma ante el aumento de los mensajes en redes sociales de un posibles asalto masivo durante los próximos días",
-      "url": "https://www.abc.es/espana/interior-refuerza-seguridad-melilla-ante-amenaza-invasion-20260921022615-nt.html",
-      "scraped_at": "2026-09-19T10:52:58Z"
+      "title": "La crisis de Ceuta dinamita la hoja de ruta electoral de Sánchez",
+      "subtitle": "Moncloa asume que la gestión de la crisis y la inmigración serán «elementos centrales» de la campaña y tratan de resolver la situación antes de llamar a las urnas. En el PSOE piden activar los Presupuestos para cambiar el foco",
+      "url": "https://www.abc.es/espana/psoe-aleja-horizonte-generales-resuelva-ceuta-20260920012232-nt.html",
+      "scraped_at": "2026-09-20T11:16:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "Veinticinco guardias civiles para 1.700 inmigrantes: «Cada día diez marroquíes intentan colarse en barcos hacia la Península»",
-      "subtitle": "Los agentes consideran que es insuficiente el dispositivo en el campamento: «La seguridad del puerto de Ceuta está en riesgo»",
-      "url": "https://www.abc.es/espana/seis-guardias-civiles-1700-inmigrantes-seguridad-puerto-20260919022834-nt.html",
-      "scraped_at": "2026-09-19T10:52:59Z"
+      "title": "El PP aprieta al Gobierno por la puerta que puso Rabat en la valla de Ceuta",
+      "subtitle": "Pregunta si conocía su instalación y si piensa adoptar medidas para su retirada",
+      "url": "https://www.abc.es/espana/pp-aprieta-gobierno-puerta-puso-marruecos-zona-20260920012308-nt.html",
+      "scraped_at": "2026-09-20T11:16:31Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
-      "subtitle": "Los ínfimos salarios y la escalada de precios sitúan a los españoles entre los últimos del 'ranking' del índice que mide cuántas hamburguesas pueden comprar en cada país en igualdad de condiciones",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html",
-      "scraped_at": "2026-09-19T10:52:59Z"
+      "title": "Vender documentos a inmigrantes para colarles en la Península",
+      "subtitle": "Un ceutí y una inmigrante arrestados tras intentar acceder al ferry con un DNI que no era suyo",
+      "url": "https://www.abc.es/espana/alerta-puerto-ceuta-varios-detenidos-vender-documentos-20260920012244-nt.html",
+      "scraped_at": "2026-09-20T11:16:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
-      "subtitle": "La artista colombiana ofrece el primero de sus doce conciertos en la capital, arropada por seguidores de todo el mundo, que disfrutaron también del gigantesco 'parque de atracciones' que montó para la ocasión",
-      "url": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html",
-      "scraped_at": "2026-09-19T10:52:59Z"
+      "title": "Vox rebaja su presión contra el PP para no beneficiar a Sánchez",
+      "subtitle": "Reconoce que el presidente es más «peligroso» cuando más polémicas le rodean, por ello centrará todos los focos en su gestión y no en Feijóo",
+      "url": "https://www.abc.es/espana/vox-rebaja-presion-pp-beneficiar-sanchez-20260918012253-nt.html",
+      "scraped_at": "2026-09-20T11:16:32Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-09-19T10:52:59Z"
+      "title": "Lucía Menéndez, abogada: «Grabar una conversación para usarla como prueba en un juicio puede ser legal o no, según las circunstancias»",
+      "subtitle": "La abogada Lucía Menéndez explica las implicaciones legales de registrar discusiones con el móvil y cuándo puede constituir delito",
+      "url": "https://www.cope.es/actualidad/sociedad/noticias/lucia-menendez-abogada-grabar-conversacion-movil-utilizarla-prueba-juicio-legal-no-dependiendo-circunstancias-20260920_3429747.html",
+      "scraped_at": "2026-09-20T11:16:32Z"
     }
   ]
 }
