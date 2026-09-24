@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Maricarmen, la anciana desahuciada en Madrid que no tiene un aticazo porque no se llama Isabel: El mismo 'sistema' que avanza inexorable en el cumplimiento de las leyes que dejan en la calle a una mujer de 87 años es el que blanquea el capricho de un ático para la Comunidad de Madrid. Porque el sistema, en realidad, son personas; Una diputada del PP lleva un spray de pimienta al Congreso y parte del recinto acaba cerrado por una intoxicación: La parlamentaria Ana Vázquez mostró el arma durante su intervención y Armengol la amenazó con la expulsión. ElPP admite que un asesor al que Vázquez le entregó el spray lo accionó accidentalmente: una delegada de Mauritania de visita en el Congreso acaba intoxicada y necesita atención médica, y se clausuran cuatro salas; El juez Peinado oculta datos clave y hechos relevantes que desmontan la cacería judicial contra Begoña Gómez: El auto de apertura de juicio con jurado obvia las pruebas documentales que acreditan que el software sobre el que se construye el delito de malversación siempre fue propiedad de la Complutense. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-09-23T11:28:31Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno acelera para aprobar ya el decreto de vivienda forzado por el impacto del desahucio de Maricarmen: El Ejecutivo trabaja ahora a contrarreloj espoleado por una ola de indignación social tras la expulsión de su casa de una mujer de 87 años en situación de vulnerabilidad; la idea es llegar al próximo Consejo de Ministros con un texto consensuado con Sumar y que ya se negocia con el resto de grupos, pero que aún no está cerrado; Sumar exige al PSOE expropiar el piso de Maricarmen en el próximo Consejo de Ministros: \"El Gobierno de España no puede permitir que el interés especulativo de un fondo buitre prevalezca sobre el interés general\", espetan fuentes del Ministerio de Derechos Sociales, que aseguran que expropiar el inmueble sería un \"mensaje para el resto de actores económicos\"; El relator de la ONU para Vivienda asegura que la jueza “debería haber parado” el desahucio de Maricarmen: El relator asegura que España debía cumplir con el dictamen del Comité de Derechos Económicos y Sociales. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-09-24T11:39:14Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Maricarmen, la anciana desahuciada en Madrid que no tiene un aticazo porque no se llama Isabel",
-      "subtitle": "El mismo 'sistema' que avanza inexorable en el cumplimiento de las leyes que dejan en la calle a una mujer de 87 años es el que blanquea el capricho de un ático para la Comunidad de Madrid. Porque el sistema, en realidad, son personas",
-      "url": "https://www.eldiario.es/opinion/zona-critica/maricarmen-anciana-desahuciada-madrid-no-aticazo-no-llama-isabel_129_13530909.html",
-      "scraped_at": "2026-09-23T11:28:29Z"
+      "title": "El Gobierno acelera para aprobar ya el decreto de vivienda forzado por el impacto del desahucio de Maricarmen",
+      "subtitle": "El Ejecutivo trabaja ahora a contrarreloj espoleado por una ola de indignación social tras la expulsión de su casa de una mujer de 87 años en situación de vulnerabilidad; la idea es llegar al próximo Consejo de Ministros con un texto consensuado con Sumar y que ya se negocia con el resto de grupos, pero que aún no está cerrado",
+      "url": "https://www.eldiario.es/politica/gobierno-acelera-aprobar-decreto-vivienda-forzado-impacto-desahucio-maricarmen_1_13533032.html",
+      "scraped_at": "2026-09-24T11:39:11Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Una diputada del PP lleva un spray de pimienta al Congreso y parte del recinto acaba cerrado por una intoxicación",
-      "subtitle": "La parlamentaria Ana Vázquez mostró el arma durante su intervención y Armengol la amenazó con la expulsión. ElPP admite que un asesor al que Vázquez le entregó el spray lo accionó accidentalmente: una delegada de Mauritania de visita en el Congreso acaba intoxicada y necesita atención médica, y se clausuran cuatro salas",
-      "url": "https://www.eldiario.es/politica/diputada-pp-introduce-spray-pimienta-congreso-fuerza-bronca-armengol_1_13530865.html",
-      "scraped_at": "2026-09-23T11:28:29Z"
+      "title": "Sumar exige al PSOE expropiar el piso de Maricarmen en el próximo Consejo de Ministros",
+      "subtitle": "\"El Gobierno de España no puede permitir que el interés especulativo de un fondo buitre prevalezca sobre el interés general\", espetan fuentes del Ministerio de Derechos Sociales, que aseguran que expropiar el inmueble sería un \"mensaje para el resto de actores económicos\"",
+      "url": "https://www.eldiario.es/politica/sumar-exige-psoe-expropiar-piso-maricarmen-proximo-consejo-ministros-pleno-choque-vivienda_1_13533853.html",
+      "scraped_at": "2026-09-24T11:39:12Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado oculta datos clave y hechos relevantes que desmontan la cacería judicial contra Begoña Gómez",
-      "subtitle": "El auto de apertura de juicio con jurado obvia las pruebas documentales que acreditan que el software sobre el que se construye el delito de malversación siempre fue propiedad de la Complutense",
-      "url": "https://www.eldiario.es/politica/juez-peinado-oculta-datos-claves-hechos-relevantes-desmontan-caceria-judicial-begona-gomez_129_13529332.html",
-      "scraped_at": "2026-09-23T11:28:30Z"
+      "title": "El relator de la ONU para Vivienda asegura que la jueza “debería haber parado” el desahucio de Maricarmen",
+      "subtitle": "El relator asegura que España debía cumplir con el dictamen del Comité de Derechos Económicos y Sociales",
+      "url": "https://www.eldiario.es/economia/onu-vivienda-asegura-jueza-deberia-haber-parado-desahucio-maricarmen_1_13534312.html",
+      "scraped_at": "2026-09-24T11:39:13Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Se busca juez para el juicio a Begoña Gómez: doce secciones y 60 posibles candidatos",
-      "subtitle": "Cada una de las defensas y acusaciones tendrán opción de recusar a cuatro de los 36 ciudadanos preseleccionados para formar parte de los nueve jurados que emitirán un veredicto sobre la esposa del presidente del Gobierno",
-      "url": "https://www.eldiario.es/politica/busca-juez-juicio-begona-gomez-doce-secciones-60-posibles-candidatos_1_13529328.html",
-      "scraped_at": "2026-09-23T11:28:31Z"
+      "title": "El desahucio de Maricarmen retrata la crisis de la vivienda en España",
+      "subtitle": "Una ley que permite desahucios a personas vulnerables y las desorbitadas subidas de precio de alquiler y venta de vivienda llevan al límite a gran parte de la sociedad, mientras sigue paralizado el decreto de vivienda que el Gobierno prometió antes del verano",
+      "url": "https://www.eldiario.es/economia/desahucio-maricarmen-retrata-crisis-vivienda-espana_1_13532450.html",
+      "scraped_at": "2026-09-24T11:39:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Jubilación",
-      "subtitle": "La proposición de ley de Podemos ha recabado en esta ocasión el apoyo del PSOE y del resto de grupos  del bloque de investidura, y la abstención del PP",
-      "url": "https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html",
-      "scraped_at": "2026-09-23T11:28:31Z"
+      "title": "Gas pimienta",
+      "subtitle": "El bote que Ana Vázquez ha mostrado durante su intervención en la sesión de control está recogido como arma y no puede ser utilizado en la Cámara Baja",
+      "url": "https://www.eldiario.es/politica/dice-ley-spray-pimienta-llevado-diputada-pp-congreso_1_13532063.html",
+      "scraped_at": "2026-09-24T11:39:14Z"
     }
   ]
 }
