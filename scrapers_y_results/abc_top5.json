@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Fundaciones 'fantasma' del PSOE, señaladas como vía para canalizar comisiones: La instrucción secreta pone el foco en las donaciones realizadas a través de las once fundaciones declaradas al órgano fiscalizador como posible vía para canalizar fondos de la trama; Cuatro miembros de la JEC avisan de que la nueva instrucción a los consulados sigue sin garantizar la «limpieza» electoral: En un voto particular advierten de la necesidad de revisar las inscripciones desde 2023 y de establecer una preferencia entre los documentos que sirven para acreditar el arraigo de la ley de nietos; El juez de las cloacas del PSOE cita a la jueza que investigó al hermano de Sánchez: Beatriz Biedma declarará el próximo 8 de octubre después de denunciar una campaña de presión y desprestigio. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-09-28T13:46:17Z",
+  "summary": "Resumen del día en ABC.es: Las medidas anunciadas, una a una: de los incentivos fiscales a la regulación del alquiler: El Consejo de Ministros ha aprobado dos reales decretos para ampliar la regulación de los contratos de alquiler para inquilinos y propietarios; La oferta de alquiler cae en 300.000 viviendas cuando el Gobierno prometió 184.000 más: El intervencionismo del Ejecutivo durante las dos últimas legislaturas ha causado inseguridad en los propietarios y esta se ha trasladado al mercado; Liberar suelo, construir, parque público y reducir la presión fiscal: lo que no se ha hecho: Los expertos también ven fundamental aumentar el parque público para aliviar el mercado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-09-29T12:45:23Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Fundaciones 'fantasma' del PSOE, señaladas como vía para canalizar comisiones",
-      "subtitle": "La instrucción secreta pone el foco en las donaciones realizadas a través de las once fundaciones declaradas al órgano fiscalizador como posible vía para canalizar fondos de la trama",
-      "url": "https://www.abc.es/espana/informacion-aportada-tribunal-cuentas-cerca-fundaciones-fantasma-20260928015839-nt.html",
-      "scraped_at": "2026-09-28T13:46:17Z"
+      "title": "Las medidas anunciadas, una a una: de los incentivos fiscales a la regulación del alquiler",
+      "subtitle": "El Consejo de Ministros ha aprobado dos reales decretos para ampliar la regulación de los contratos de alquiler para inquilinos y propietarios",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/medidas-sobre-vivienda-aprobadas-gobierno-20260929142157-nt.html",
+      "scraped_at": "2026-09-29T12:45:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Cuatro miembros de la JEC avisan de que la nueva instrucción a los consulados sigue sin garantizar la «limpieza» electoral",
-      "subtitle": "En un voto particular advierten de la necesidad de revisar las inscripciones desde 2023 y de establecer una preferencia entre los documentos que sirven para acreditar el arraigo de la ley de nietos",
-      "url": "https://www.abc.es/espana/cuatro-miembros-jec-avisan-nueva-instruccion-consulados-20260928114939-nt.html",
-      "scraped_at": "2026-09-28T13:46:17Z"
+      "title": "La oferta de alquiler cae en 300.000 viviendas cuando el Gobierno prometió 184.000 más",
+      "subtitle": "El intervencionismo del Ejecutivo durante las dos últimas legislaturas ha causado inseguridad en los propietarios y esta se ha trasladado al mercado",
+      "url": "https://www.abc.es/economia/precio-alquiler-sube-sanchez-pierden-300000-pisos-20260929012106-nt.html",
+      "scraped_at": "2026-09-29T12:45:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez de las cloacas del PSOE cita a la jueza que investigó al hermano de Sánchez",
-      "subtitle": "Beatriz Biedma declarará el próximo 8 de octubre después de denunciar una campaña de presión y desprestigio",
-      "url": "https://www.abc.es/espana/juez-investiga-cloacas-psoe-cita-perjudicada-jueza-20260928143328-nt.html",
-      "scraped_at": "2026-09-28T13:46:17Z"
+      "title": "Liberar suelo, construir, parque público y reducir la presión fiscal: lo que no se ha hecho",
+      "subtitle": "Los expertos también ven fundamental aumentar el parque público para aliviar el mercado",
+      "url": "https://www.abc.es/economia/liberar-suelo-construir-vivienda-reducir-presion-fiscal-20260929012241-nt.html",
+      "scraped_at": "2026-09-29T12:45:22Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los detalles del decreto ley de Moncloa sobre vivienda con el que quieren convencer a sus socios",
-      "subtitle": "El Ejecutivo tiene el reto de aprobar una batería de medidas que cuente con el apoyo parlamentario, ya que debe ser ratificado en el Congreso",
-      "url": "https://www.abc.es/economia/proteccion-ante-desahucios-bonificaciones-fiscales-ayudas-primera-20260928093524-nt.html",
-      "scraped_at": "2026-09-28T13:46:17Z"
+      "title": "Mi vivienda, mi ahorro",
+      "subtitle": "Sánchez y Yolanda han hundido las aspiraciones de una juventud convirtiéndola en víctima de la paranoia de la izquierda, con medidas grotescas y ajenas a la realidad",
+      "url": "https://www.abc.es/opinion/julian-quiros-vivienda-ahorro-20260929104306-nt.html",
+      "scraped_at": "2026-09-29T12:45:22Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-09-28T13:46:17Z"
+      "scraped_at": "2026-09-29T12:45:23Z"
     }
   ]
 }

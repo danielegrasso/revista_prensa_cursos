@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: El Gobierno ultima un decreto de vivienda que evite desahucios, blinde alquileres y recoja ayudas para propietarios e inquilinos: El Ministerio de Vivienda trabaja contra reloj para cerrar un texto que debe convencer a la vez a Junts y a Podemos. El Sindicato de Inquilinos, que suma su segunda noche de acampada en la Puerta del Sol, exige convertir en indefinidos los contratos de alquiler, algo que no estaba sobre la mesa de negociación; El Ministerio de Vivienda renuncia a reformar la Ley del Suelo para acercar el apoyo de Podemos al decreto: Las 10 medidas que prepara para el Consejo de Ministros incluyen bonificaciones fiscales y prohibición de desahucios, pero excluyen la aceleración a la construcción que sí preveían en julio; Irene Montero pide que el decreto permita “expropiar viviendas a los fondos buitre para ponerlas en alquiler social”: \"Se acabó el negocio con la vivienda, si quieren hacer negocio que lo hagan con relojes, que es seguramente un negocio también muy muy suculento\", afirma la candidata de Podemos a las generales en conversación con elDiario.es. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-09-28T13:46:16Z",
+  "summary": "Resumen del día en elDiario.es: El Gobierno prohíbe los desahucios hasta 2030 y aprueba un decreto aparte que recoge los alquileres indefinidos: La reunión del Consejo de Ministros ha dado luz verde al paquete de medidas tras una negociación entre ambos socios de coalición que se ha alargado hasta el último minuto; Estas son las medidas de los decretos de vivienda: escudo antidesahucios, prórroga de alquileres y veto a fondos buitre: El Consejo de Ministros amplía hasta 2030 la protección frente a los lanzamientos, prohíbe la compra de viviendas a los fondos buitre hasta 2028 e incluye la prórroga automática de contratos en un segundo texto; Feijóo rechaza los decretos de vivienda sin conocerlos: “El daño no lo van a reparar los culpables”: El líder del PP reprocha al movimiento de vivienda que \"nadie acampara\" por el lanzamiento de una mujer en L'Hospitalet que luego se suicidó, pero obvia que el desahucio fue posible porque su partido, Vox y Junts tumbaron la moratoria en el Congreso. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-09-29T12:45:20Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "El Gobierno ultima un decreto de vivienda que evite desahucios, blinde alquileres y recoja ayudas para propietarios e inquilinos",
-      "subtitle": "El Ministerio de Vivienda trabaja contra reloj para cerrar un texto que debe convencer a la vez a Junts y a Podemos. El Sindicato de Inquilinos, que suma su segunda noche de acampada en la Puerta del Sol, exige convertir en indefinidos los contratos de alquiler, algo que no estaba sobre la mesa de negociación",
-      "url": "https://www.eldiario.es/politica/gobierno-ultima-decreto-vivienda-aprobarlo-martes-presionado-calle-exigencias-socios_1_13538460.html",
-      "scraped_at": "2026-09-28T13:46:14Z"
+      "title": "El Gobierno prohíbe los desahucios hasta 2030 y aprueba un decreto aparte que recoge los alquileres indefinidos",
+      "subtitle": "La reunión del Consejo de Ministros ha dado luz verde al paquete de medidas tras una negociación entre ambos socios de coalición que se ha alargado hasta el último minuto",
+      "url": "https://www.eldiario.es/politica/psoe-sumar-llegan-acuerdo-aprobar-decreto-vivienda-dan-inicio-consejo-ministros_1_13545592.html",
+      "scraped_at": "2026-09-29T12:45:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Ministerio de Vivienda renuncia a reformar la Ley del Suelo para acercar el apoyo de Podemos al decreto",
-      "subtitle": "Las 10 medidas que prepara para el Consejo de Ministros incluyen bonificaciones fiscales y prohibición de desahucios, pero excluyen la aceleración a la construcción que sí preveían en julio",
-      "url": "https://www.eldiario.es/economia/gobierno-renuncia-ley-suelo-acercar-apoyo_1_13542896.html",
-      "scraped_at": "2026-09-28T13:46:14Z"
+      "title": "Estas son las medidas de los decretos de vivienda: escudo antidesahucios, prórroga de alquileres y veto a fondos buitre",
+      "subtitle": "El Consejo de Ministros amplía hasta 2030 la protección frente a los lanzamientos, prohíbe la compra de viviendas a los fondos buitre hasta 2028 e incluye la prórroga automática de contratos en un segundo texto",
+      "url": "https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html",
+      "scraped_at": "2026-09-29T12:45:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Irene Montero pide que el decreto permita “expropiar viviendas a los fondos buitre para ponerlas en alquiler social”",
-      "subtitle": "\"Se acabó el negocio con la vivienda, si quieren hacer negocio que lo hagan con relojes, que es seguramente un negocio también muy muy suculento\", afirma la candidata de Podemos a las generales en conversación con elDiario.es",
-      "url": "https://www.eldiario.es/politica/irene-montero-pide-decreto-permita-expropiar-viviendas-fondos-buitre-ponerlas-alquiler-social_1_13543934.html",
-      "scraped_at": "2026-09-28T13:46:15Z"
+      "title": "Feijóo rechaza los decretos de vivienda sin conocerlos: “El daño no lo van a reparar los culpables”",
+      "subtitle": "El líder del PP reprocha al movimiento de vivienda que \"nadie acampara\" por el lanzamiento de una mujer en L'Hospitalet que luego se suicidó, pero obvia que el desahucio fue posible porque su partido, Vox y Junts tumbaron la moratoria en el Congreso",
+      "url": "https://www.eldiario.es/politica/feijoo-descarta-apoyo-gobierno-decreto-vivienda-dano-hecho-no-reparar-culpables_1_13546114.html",
+      "scraped_at": "2026-09-29T12:45:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El líder de los obispos equipara la crisis de la vivienda con el aborto porque es “un desahucio de consecuencias irreversibles”",
-      "subtitle": "Luis Argüello rompe el silencio del episcopado para mezclar el 'caso Maricarmen' con la crisis de Ceuta y \"el desahucio del vientre materno provocado mediante el aborto\"",
-      "url": "https://www.eldiario.es/sociedad/lider-obispos-equipara-crisis-vivienda-aborto-desahucio-consecuencias-irreversibles_1_13543056.html",
-      "scraped_at": "2026-09-28T13:46:15Z"
+      "title": "¿Son las bonificaciones a los propietarios un “regalo fiscal” al especulador?",
+      "subtitle": "Los diferentes gobiernos estatales encadenan una década sin aprobar beneficios para los inquilinos: apenas 120.000 disfrutan de una deducción que fue suprimida en 2015, frente a ayudas para 2,2 millones de propietarios",
+      "url": "https://www.eldiario.es/economia/son-bonificaciones-propietarios-regalo-fiscal-especulador_1_13545018.html",
+      "scraped_at": "2026-09-29T12:45:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Juez Peinado",
-      "subtitle": "El Ministerio Público considera que el juez se \"extralimitó\" y mostró \"escasa sensibilidad\" con el resto de los intervinientes en el proceso acortando plazos para citarles a la audiencia preliminar del pasado 8 de septiembre: \"No es usual ni normal su precipitación\"",
-      "url": "https://www.eldiario.es/politica/fiscalia-acusa-peinado-haber-pasado-partes-caso-begona-gomez_1_13543010.html",
-      "scraped_at": "2026-09-28T13:46:16Z"
+      "title": "Precio gasolina",
+      "subtitle": "El Ejecutivo plantea un alivio de 20 céntimos en octubre, 13 en noviembre y 6 en diciembre, con una cláusula de salvaguarda en el caso de que el precio del petróleo siga por las nubes",
+      "url": "https://www.eldiario.es/economia/gobierno-prorroga-rebajas-fiscales-gasolina-diesel-limita-tarifa-gas-evitar-dispare-invierno_1_13545625.html",
+      "scraped_at": "2026-09-29T12:45:20Z"
     }
   ]
 }
