@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: PSOE y Sumar salvan un acuerdo en Vivienda con dos decretos que Moncloa quiere convalidar de urgencia en el Congreso este viernes: El Consejo de Ministros ha empezado con una hora de retraso por la falta de acuerdo entre los socios.; De la prohibición de desahucios hasta 2030 a la prórroga de dos años de los contratos en vigor: El Ejecutivo logra convalidar de urgencia el texto tras un pacto 'in extremis' que regula habitaciones, alquileres estacionales y limita a los fondos buitre; Quién está detrás del Sindicato de Inquilinas: una ex actriz de series infantiles y una activista del 15-M: Valeria Racu o Alicia del Río son las portavoces oficiales en el caso de la manifestación por el desahucio de Maricarmen, pero la organización funciona desde su nacimiento de manera horizontal. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-09-29T12:45:16Z",
+  "summary": "Resumen del día en El Mundo: El decreto que el Gobierno no ha llevado al BOE obliga a los caseros a pagar 12 mensualidades a los inquilinos si no prorrogan el contrato: El documento de renovación automática de los alquileres establece límites duros para los arrendadores y consagra el alquiler indefinido; La letra pequeña del decreto publicado hoy: la suma de las habitaciones no podrá superar el precio del piso: El BOE publica este miércoles el primero de los decretos alumbrados a contra reloj por el Gobierno para hacer frente a la crisis de vivienda y al malestar social generado tras el desahucio de Maricarmen Abascal en Madrid; El Congreso remite ahora el segundo decreto para que pueda ser votado el viernes y el PNV advierte: \"No se puede convertir al pequeño propietario en el enemigo\": El Reglamento establece que los textos han de estar en manos de las formaciones al menos 48 horas antes de ser votadas. Todos los grupos critican la \"trampa\" del Ejecutivo. Feijóo dice sentirse \"estafado\" y anuncia su voto en contra. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-09-30T12:28:08Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "PSOE y Sumar salvan un acuerdo en Vivienda con dos decretos que Moncloa quiere convalidar de urgencia en el Congreso este viernes",
-      "subtitle": "El Consejo de Ministros ha empezado con una hora de retraso por la falta de acuerdo entre los socios.",
-      "url": "https://www.elmundo.es/espana/2026/09/29/6abb6e4ce4d4d8b95e8b4582.html",
-      "scraped_at": "2026-09-29T12:45:15Z"
+      "title": "El decreto que el Gobierno no ha llevado al BOE obliga a los caseros a pagar 12 mensualidades a los inquilinos si no prorrogan el contrato",
+      "subtitle": "El documento de renovación automática de los alquileres establece límites duros para los arrendadores y consagra el alquiler indefinido",
+      "url": "https://www.elmundo.es/espana/2026/09/30/6abcba57e4d4d8d01d8b458b.html",
+      "scraped_at": "2026-09-30T12:28:07Z"
     },
     {
       "source": "El Mundo",
-      "title": "De la prohibición de desahucios hasta 2030 a la prórroga de dos años de los contratos en vigor",
-      "subtitle": "El Ejecutivo logra convalidar de urgencia el texto tras un pacto 'in extremis' que regula habitaciones, alquileres estacionales y limita a los fondos buitre",
-      "url": "https://www.elmundo.es/espana/2026/09/29/6abba7cfe9cf4ad8588b459c.html",
-      "scraped_at": "2026-09-29T12:45:15Z"
+      "title": "La letra pequeña del decreto publicado hoy: la suma de las habitaciones no podrá superar el precio del piso",
+      "subtitle": "El BOE publica este miércoles el primero de los decretos alumbrados a contra reloj por el Gobierno para hacer frente a la crisis de vivienda y al malestar social generado tras el desahucio de Maricarmen Abascal en Madrid",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/09/30/6abcb33ffc6c8332128b458b.html",
+      "scraped_at": "2026-09-30T12:28:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "Quién está detrás del Sindicato de Inquilinas: una ex actriz de series infantiles y una activista del 15-M",
-      "subtitle": "Valeria Racu o Alicia del Río son las portavoces oficiales en el caso de la manifestación por el desahucio de Maricarmen, pero la organización funciona desde su nacimiento de manera horizontal",
-      "url": "https://www.elmundo.es/economia/2026/09/28/6aba5a47e4d4d82f4d8b4594.html",
-      "scraped_at": "2026-09-29T12:45:15Z"
+      "title": "El Congreso remite ahora el segundo decreto para que pueda ser votado el viernes y el PNV advierte: \"No se puede convertir al pequeño propietario en el enemigo\"",
+      "subtitle": "El Reglamento establece que los textos han de estar en manos de las formaciones al menos 48 horas antes de ser votadas. Todos los grupos critican la \"trampa\" del Ejecutivo. Feijóo dice sentirse \"estafado\" y anuncia su voto en contra",
+      "url": "https://www.elmundo.es/espana/2026/09/30/6abcb4b0fdddff4e6c8b4598.html",
+      "scraped_at": "2026-09-30T12:28:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "El PP vaticina que el Gobierno \"destruirá el mercado de la vivienda\" y critica la urgencia en convalidar ya los decretos",
-      "subtitle": "La portavoz Ester Muñoz censura en el Congreso la falta de negociación del Ejecutivo ante las nuevas medidas habitacionales",
-      "url": "https://www.elmundo.es/espana/2026/09/29/6abbac24fdddff217f8b45c1.html",
-      "scraped_at": "2026-09-29T12:45:15Z"
+      "title": "Vivas asegura a la juez que intentó contactar \"10 veces\" con Sánchez y que sólo le contestaron tres",
+      "subtitle": "El presidente de Ceuta declara en la Audiencia Nacional que no habló con el jefe del Ejecutivo hasta el día 30 de julio, cuando la incidencia de las entradas era máxima",
+      "url": "https://www.elmundo.es/espana/2026/09/30/6abcf377e4d4d8d32a8b457f.html",
+      "scraped_at": "2026-09-30T12:28:08Z"
     },
     {
       "source": "El Mundo",
-      "title": "Zapatero joyas",
-      "subtitle": "El magistrado de la Audiencia Nacional José Luis Calama avala la pericial y niega \"riesgo\" de parcialidad, como alegó la defensa del ex presidente",
-      "url": "https://www.elmundo.es/espana/2026/09/29/6abb9bf321efa0b9248b459e.html",
-      "scraped_at": "2026-09-29T12:45:16Z"
+      "title": "Israel Flydubai",
+      "subtitle": "Tras emitir una alerta de emergencia, el avión no aterrizó en el aeropuerto Ben Gurión como estaba previsto sino que fue desviado a Arabia Saudí",
+      "url": "https://www.elmundo.es/economia/2026/09/30/6abcc4b2fdddffac388b45b5.html",
+      "scraped_at": "2026-09-30T12:28:08Z"
     }
   ]
 }

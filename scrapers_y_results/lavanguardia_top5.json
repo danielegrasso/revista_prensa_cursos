@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La obediencia a la verdad: Cada día recibimos más y más información y pasamos más tiempo pendientes de un teléfono móvil donde nos llegan vídeos, textos y toda clase de mensajes que nos influyen y nos condicionan en nuestras decisiones y opiniones. Y la mayoría de las veces este gran caudal informativo...; Nielsen, primer ministro de Groenlandia: “La presión ha sido enorme durante dos años”: El primer ministro de Groenlandia, ganador del premio Vanguardia Internacional, habla sobre el nuevo acuerdo de defensa con EE.UU. y los futuros desafíos de la isla; Rueda de prensa del Consejo de Ministros tras la aprobación de los decretos de vivienda: Comienza con una hora de retraso el Consejo de Ministros que debe aprobar el decreto de vivienda. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-09-29T12:45:25Z",
+  "summary": "Resumen del día en La Vanguardia: Los desahucios se suspenderán si el inquilino paga su deuda: El Gobierno veta cualquier compra vivienda a un precio inferior al 70% de su valor de tasación; El segundo decreto: el propietario indemnizará con 12 meses al inquilino si rompe el contrato: El texto podría ser tumbado en el Congreso por la más que probable oposición de Junts; Podemos, Junts y PNV mantienen en vilo la votación de los decretos: ERC y EH Bildu han anunciado su voto a favor mientras el resto de aliados examinará al detalle el segundo decreto para conocer la letra pequeña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-09-30T12:28:14Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La obediencia a la verdad",
-      "subtitle": "Cada día recibimos más y más información y pasamos más tiempo pendientes de un teléfono móvil donde nos llegan vídeos, textos y toda clase de mensajes que nos influyen y nos condicionan en nuestras decisiones y opiniones. Y la mayoría de las veces este gran caudal informativo...",
-      "url": "https://www.lavanguardia.com/opinion/20260929/11646157/obediencia-verdad.html",
-      "scraped_at": "2026-09-29T12:45:24Z"
+      "title": "Los desahucios se suspenderán si el inquilino paga su deuda",
+      "subtitle": "El Gobierno veta cualquier compra vivienda a un precio inferior al 70% de su valor de tasación",
+      "url": "https://www.lavanguardia.com/politica/20260930/11647337/inquilinos-podran-suspender-desahucios-pagan-rentas-adeudan.html",
+      "scraped_at": "2026-09-30T12:28:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Nielsen, primer ministro de Groenlandia: “La presión ha sido enorme durante dos años”",
-      "subtitle": "El primer ministro de Groenlandia, ganador del premio Vanguardia Internacional, habla sobre el nuevo acuerdo de defensa con EE.UU. y los futuros desafíos de la isla",
-      "url": "https://www.lavanguardia.com/internacional/20260929/11646099/jens-frederik-nielsen-groenlandeses-hemos-recibido-presion-enorme-dos-anos.html",
-      "scraped_at": "2026-09-29T12:45:24Z"
+      "title": "El segundo decreto: el propietario indemnizará con 12 meses al inquilino si rompe el contrato",
+      "subtitle": "El texto podría ser tumbado en el Congreso por la más que probable oposición de Junts",
+      "url": "https://www.lavanguardia.com/politica/20260930/11647359/segundo-decreto-preve-indemnizacion-ano-renta-propietario-inquilino-prorroga-contrato.html",
+      "scraped_at": "2026-09-30T12:28:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Rueda de prensa del Consejo de Ministros tras la aprobación de los decretos de vivienda",
-      "subtitle": "Comienza con una hora de retraso el Consejo de Ministros que debe aprobar el decreto de vivienda",
-      "url": "https://www.lavanguardia.com/politica/20260929/11646529/rueda-prensa-consejo-ministros-negociaciones-decreto-vivienda.html",
-      "scraped_at": "2026-09-29T12:45:24Z"
+      "title": "Podemos, Junts y PNV mantienen en vilo la votación de los decretos",
+      "subtitle": "ERC y EH Bildu han anunciado su voto a favor mientras el resto de aliados examinará al detalle el segundo decreto para conocer la letra pequeña",
+      "url": "https://www.lavanguardia.com/politica/20260930/11647455/junts-pnv-mantienen-vilo-votacion-decretos-vivienda-congreso.html",
+      "scraped_at": "2026-09-30T12:28:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno aprueba un decreto con la prohibición de desahucios hasta el 2030 y otro con la prórroga automática de los alquileres",
-      "subtitle": "La coalición salva sus desacuerdos con dos normas, una que contaría con el apoyo de Junts y PNV, y otra que no tiene los votos necesarios para ser convalidada",
-      "url": "https://www.lavanguardia.com/politica/20260929/11646448/psoe-sumar-siguen-negociando-decreto-vivienda-retrasan-consejo-ministros.html",
-      "scraped_at": "2026-09-29T12:45:25Z"
+      "title": "Los promotores advierten de un frenazo en la construcción de vivienda de alquiler",
+      "subtitle": "La APCE lamenta que las medidas para solucionar casos de vulnerabilidad hipotecan las soluciones de futuro del mercado inmobiliario y pide reactivar la reforma de la ley del suelo",
+      "url": "https://www.lavanguardia.com/economia/20260930/11647601/promotores-advierten-frenazo-construccion-vivienda-alquiler.html",
+      "scraped_at": "2026-09-30T12:28:14Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Hacer vino en un país musulmán: el renacer enológico de Turquía",
-      "subtitle": "Turquía produce unos 4 millones de toneladas de uvas al año, lo que sitúa al país como el séptimo productor del mundo",
-      "url": "https://www.lavanguardia.com/comer/beber/20260928/11643601/vino-pais-mayoria-musulmana-interesante-renacer-enologico-turquia.html",
-      "scraped_at": "2026-09-29T12:45:25Z"
+      "title": "Fútbol hoy",
+      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
+      "url": "https://www.lavanguardia.com/deportes/resultados",
+      "scraped_at": "2026-09-30T12:28:14Z"
     }
   ]
 }
