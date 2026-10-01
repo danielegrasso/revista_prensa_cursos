@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Los desahucios se suspenderán si el inquilino paga su deuda: El Gobierno veta cualquier compra vivienda a un precio inferior al 70% de su valor de tasación; El segundo decreto: el propietario indemnizará con 12 meses al inquilino si rompe el contrato: El texto podría ser tumbado en el Congreso por la más que probable oposición de Junts; Podemos, Junts y PNV mantienen en vilo la votación de los decretos: ERC y EH Bildu han anunciado su voto a favor mientras el resto de aliados examinará al detalle el segundo decreto para conocer la letra pequeña. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-09-30T12:28:14Z",
+  "summary": "Resumen del día en La Vanguardia: Junts decide hoy si apoya solo el primer decreto de vivienda, que ya tiene el sí del PNV: Turull convoca a la ejecutiva para las 21 horas mientras arrecian dudas entre los posconvergentes sobre la validación del texto que suspende temporalmente los desahucios; El retorno de Colau: La exalcaldesa de Barcelona en Comú recupera el perfil activista y se acerca a Podemos; Un desahucio en Barcelona, el primero en ser paralizado por el decreto Maricarmen: El Sindicat de Llogueteres dice que el desalojo detenido en el barrio de Sant Andreu es el primero que se frena gracias al decreto Maricarmen. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-01T13:05:31Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Los desahucios se suspenderán si el inquilino paga su deuda",
-      "subtitle": "El Gobierno veta cualquier compra vivienda a un precio inferior al 70% de su valor de tasación",
-      "url": "https://www.lavanguardia.com/politica/20260930/11647337/inquilinos-podran-suspender-desahucios-pagan-rentas-adeudan.html",
-      "scraped_at": "2026-09-30T12:28:13Z"
+      "title": "Junts decide hoy si apoya solo el primer decreto de vivienda, que ya tiene el sí del PNV",
+      "subtitle": "Turull convoca a la ejecutiva para las 21 horas mientras arrecian dudas entre los posconvergentes sobre la validación del texto que suspende temporalmente los desahucios",
+      "url": "https://www.lavanguardia.com/politica/20261001/11648594/junts-convoca-noche-ejecutiva-decidir-apoya-primer-decreto-vivienda.html",
+      "scraped_at": "2026-10-01T13:05:30Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El segundo decreto: el propietario indemnizará con 12 meses al inquilino si rompe el contrato",
-      "subtitle": "El texto podría ser tumbado en el Congreso por la más que probable oposición de Junts",
-      "url": "https://www.lavanguardia.com/politica/20260930/11647359/segundo-decreto-preve-indemnizacion-ano-renta-propietario-inquilino-prorroga-contrato.html",
-      "scraped_at": "2026-09-30T12:28:13Z"
+      "title": "El retorno de Colau",
+      "subtitle": "La exalcaldesa de Barcelona en Comú recupera el perfil activista y se acerca a Podemos",
+      "url": "https://www.lavanguardia.com/politica/20261001/11647808/retorno-colau.html",
+      "scraped_at": "2026-10-01T13:05:30Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Podemos, Junts y PNV mantienen en vilo la votación de los decretos",
-      "subtitle": "ERC y EH Bildu han anunciado su voto a favor mientras el resto de aliados examinará al detalle el segundo decreto para conocer la letra pequeña",
-      "url": "https://www.lavanguardia.com/politica/20260930/11647455/junts-pnv-mantienen-vilo-votacion-decretos-vivienda-congreso.html",
-      "scraped_at": "2026-09-30T12:28:13Z"
+      "title": "Un desahucio en Barcelona, el primero en ser paralizado por el decreto Maricarmen",
+      "subtitle": "El Sindicat de Llogueteres dice que el desalojo detenido en el barrio de Sant Andreu es el primero que se frena gracias al decreto Maricarmen",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261001/11648392/detenido-sant-andreu-desahucio-mujer-vulnerable-trato-regularizar-alquiler.html",
+      "scraped_at": "2026-10-01T13:05:30Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los promotores advierten de un frenazo en la construcción de vivienda de alquiler",
-      "subtitle": "La APCE lamenta que las medidas para solucionar casos de vulnerabilidad hipotecan las soluciones de futuro del mercado inmobiliario y pide reactivar la reforma de la ley del suelo",
-      "url": "https://www.lavanguardia.com/economia/20260930/11647601/promotores-advierten-frenazo-construccion-vivienda-alquiler.html",
-      "scraped_at": "2026-09-30T12:28:14Z"
+      "title": "El Gobierno niega con su registro de llamadas las “acusaciones infundadas” del presidente de Ceuta",
+      "subtitle": "“Vivas juega a un juego muy peligroso”, advierten en la Moncloa: “Todas las llamadas y peticiones del Gobierno de Ceuta entre el 27 y el 30 de julio fueron atendidas en el acto o pocos minutos después”",
+      "url": "https://www.lavanguardia.com/politica/20261001/11648492/gobierno-niega-registro-llamadas-acusaciones-infundadas-presidente-ceuta.html",
+      "scraped_at": "2026-10-01T13:05:30Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Fútbol hoy",
-      "subtitle": "Los resultados y horarios de los partidos de fútbol de hoy. Clasificaciones de LaLiga, Champions League y resto de competiciones",
-      "url": "https://www.lavanguardia.com/deportes/resultados",
-      "scraped_at": "2026-09-30T12:28:14Z"
+      "title": "Eventos La Vanguardia",
+      "subtitle": "",
+      "url": "https://www.lavanguardia.com/temas/eventos-la-vanguardia",
+      "scraped_at": "2026-10-01T13:05:31Z"
     }
   ]
 }
