@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: La espantada de Pedro Sánchez: abandona el hemiciclo y prefiere no escuchar a Junts: También la vicepresidenta segunda, Yolanda Díaz, abandonó la cámara en pleno debate; El Gobierno presiona con adelantar las elecciones si Junts tumba el decreto: Ministros y cargos del PSOE creen que Sánchez debería llamar a las urnas: «Es la hora de la verdad»; Felipe González: «Si digo que hay que convocar elecciones, no se convocan»: Mariano Rajoy, que compartió charla con el expresidente socialista, insiste en una convocatoria urgente tras el pleno de hoy en el Congreso. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-02T12:26:22Z",
+  "summary": "Resumen del día en ABC.es: Sánchez repite el enredo de los cinco días de reflexión: El presidente, que no tiene agenda este fin de semana, quiere aprovechar estos días para reflexionar y reunir evidencias. La posibilidad del adelanto pilla a Sumar con el pie cambiado; La ventana electoral de Sánchez: Hoy no hay ningún capitán Stagg capaz de asegurar al presidente del Gobierno una fecha electoral que le permita reproducir el actual equilibrio parlamentario; En manos de Puigdemont desde el principio de la legislatura: El pacto de Bruselas nació para investir a Sánchez y que el líder de Junts volviera a España, resuelto lo segundo no hay incentivos para seguir juntos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-03T11:34:52Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "La espantada de Pedro Sánchez: abandona el hemiciclo y prefiere no escuchar a Junts",
-      "subtitle": "También la vicepresidenta segunda, Yolanda Díaz, abandonó la cámara en pleno debate",
-      "url": "https://www.abc.es/espana/pedro-sanchez-abandona-hemiciclo-queda-escuchar-junts-20261002121015-nt.html",
-      "scraped_at": "2026-10-02T12:26:21Z"
+      "title": "Sánchez repite el enredo de los cinco días de reflexión",
+      "subtitle": "El presidente, que no tiene agenda este fin de semana, quiere aprovechar estos días para reflexionar y reunir evidencias. La posibilidad del adelanto pilla a Sumar con el pie cambiado",
+      "url": "https://www.abc.es/espana/sanchez-derrotado-decidira-urnas-vista-calle-20261003012532-nt.html",
+      "scraped_at": "2026-10-03T11:34:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno presiona con adelantar las elecciones si Junts tumba el decreto",
-      "subtitle": "Ministros y cargos del PSOE creen que Sánchez debería llamar a las urnas: «Es la hora de la verdad»",
-      "url": "https://www.abc.es/espana/gobierno-presionan-adelanto-electoral-junts-tumba-decreto-20261002094521-nt.html",
-      "scraped_at": "2026-10-02T12:26:22Z"
+      "title": "La ventana electoral de Sánchez",
+      "subtitle": "Hoy no hay ningún capitán Stagg capaz de asegurar al presidente del Gobierno una fecha electoral que le permita reproducir el actual equilibrio parlamentario",
+      "url": "https://www.abc.es/espana/ventana-electoral-sanchez-20261003012826-nt.html",
+      "scraped_at": "2026-10-03T11:34:50Z"
     },
     {
       "source": "ABC.es",
-      "title": "Felipe González: «Si digo que hay que convocar elecciones, no se convocan»",
-      "subtitle": "Mariano Rajoy, que compartió charla con el expresidente socialista, insiste en una convocatoria urgente tras el pleno de hoy en el Congreso",
-      "url": "https://www.abc.es/espana/felipe-gonzalez-digo-convocar-elecciones-convocan-20261002141306-nt.html",
-      "scraped_at": "2026-10-02T12:26:22Z"
+      "title": "En manos de Puigdemont desde el principio de la legislatura",
+      "subtitle": "El pacto de Bruselas nació para investir a Sánchez y que el líder de Junts volviera a España, resuelto lo segundo no hay incentivos para seguir juntos",
+      "url": "https://www.abc.es/espana/cataluna/legislatura-manos-puigdemont-inicio-20261003012834-nt.html",
+      "scraped_at": "2026-10-03T11:34:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Junts propone eliminar las prórrogas obligatorias y el tope del 2% de actualización del alquiler",
-      "subtitle": "El texto alternativo de los de Puigdemont al decreto ley del Gobierno pone el foco en dar mayor seguridad jurídica al propietario",
-      "url": "https://www.abc.es/espana/cataluna/junts-propone-eliminar-prorrogas-obligatorias-tope-actualizacion-20261002124937-nt.html",
-      "scraped_at": "2026-10-02T12:26:22Z"
+      "title": "«Le ves los ojos a Dimitri»: hablan los pilotos españoles que interceptan aviones rusos en el Báltico",
+      "subtitle": "ABC asiste en Lituania a una maniobra aérea de la OTAN con cazas F-18 españoles junto a Eurofighter italianos, F-16 turcos y un avión de transporte lituano C-27J Spartan",
+      "url": "https://www.abc.es/espana/ves-ojos-dimitri-hablan-pilotos-espanoles-interceptan-20261001012356-nt.html",
+      "scraped_at": "2026-10-03T11:34:51Z"
     },
     {
       "source": "ABC.es",
-      "title": "Encina, experta en finanzas: «Tu pago a la Seguridad Social no garantiza tu pensión, debes tomar hoy las decisiones financieras de inversión que te garanticen el futuro de mañana»",
-      "subtitle": "Con Carlos Herrera, Jorge Bustos y Alberto Herrera",
-      "url": "https://www.cope.es/actualidad/economia/noticias/encina-experta-finanzas-pago-seguridad-social-no-garantiza-pension-debes-tomar-hoy-decisiones-financieras-inversion-te-garanticen-futuro-manana-20261002_3445513.html",
-      "scraped_at": "2026-10-02T12:26:22Z"
+      "title": "Cristina Argerich, profesora de derecho: «Alrededor de 5.000 viviendas han desaparecido de la oferta»",
+      "subtitle": "La profesora de Derecho Civil analiza en 'La Mañana de Fin de Semana' las consecuencias de la no convalidación de los reales decretos de vivienda",
+      "url": "https://www.cope.es/actualidad/economia/noticias/cristina-argerich-profesora-derecho-alrededor-5-000-viviendas-han-desaparecido-oferta-hayan-decaido-decretos-vivienda-no-sido-positivo-20261003_3449150.html",
+      "scraped_at": "2026-10-03T11:34:52Z"
     }
   ]
 }
