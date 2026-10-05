@@ -1,42 +1,35 @@
 {
-  "summary": "Resumen del día en El Mundo: Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda: En coordinación con el Gobierno, el ex presidente contactó con la cúpula del partido tras el anuncio de que votarían 'no'; Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar elecciones y \"hacérselo pagar al PP\": División de opiniones entre los partidarios de adelantar elecciones y quienes piensan que es mejor dar tiempo a que la izquierda se organice. Las protestas de ayer no arrojan un veredicto claro; La derecha convence más que la izquierda en vivienda pero un 23% no se fía de ninguno: Casi la mitad de los españoles señala este problema como su primera preocupación. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-04T12:16:00Z",
+  "summary": "Resumen del día en El Mundo: Pedro Sánchez adelanta las elecciones generales al 29 de noviembre: El Consejo de Ministros de este martes volverá a aprobar los decretos de vivienda que tumbó el Congreso con alguna modificación. Los deberá validar la Diputación Permanente, donde no necesitan a Junts para aprobarlos; El discurso del presidente, párrafo a párrafo: Sánchez o muerte. Esa es la cuestión: Es justo reconocerle al presidente la transparencia de su populismo. Al pasar a limpio la comparecencia emerge el único 'leitmotiv': la elección del bien contra el mal; \"¡Por fin!\": Feijóo celebra el adelanto electoral y promete un \"cambio profundo\" y que \"los impuestos no se van a subir\": Euforia contenida en el PP, que pide \"libertad\" para \"el mayor reto en 50 años\": el de la \"reconstrucción nacional\". Feijóo, aplaudido en el Congreso de la Empresa Familiar, promete \"gestión\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-05T14:28:49Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda",
-      "subtitle": "En coordinación con el Gobierno, el ex presidente contactó con la cúpula del partido tras el anuncio de que votarían 'no'",
-      "url": "https://www.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html",
-      "scraped_at": "2026-10-04T12:16:00Z"
+      "title": "Pedro Sánchez adelanta las elecciones generales al 29 de noviembre",
+      "subtitle": "El Consejo de Ministros de este martes volverá a aprobar los decretos de vivienda que tumbó el Congreso con alguna modificación. Los deberá validar la Diputación Permanente, donde no necesitan a Junts para aprobarlos",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3493de4d4d82d6e8b4580.html",
+      "scraped_at": "2026-10-05T14:28:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar elecciones y \"hacérselo pagar al PP\"",
-      "subtitle": "División de opiniones entre los partidarios de adelantar elecciones y quienes piensan que es mejor dar tiempo a que la izquierda se organice. Las protestas de ayer no arrojan un veredicto claro",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html",
-      "scraped_at": "2026-10-04T12:16:00Z"
+      "title": "El discurso del presidente, párrafo a párrafo: Sánchez o muerte. Esa es la cuestión",
+      "subtitle": "Es justo reconocerle al presidente la transparencia de su populismo. Al pasar a limpio la comparecencia emerge el único 'leitmotiv': la elección del bien contra el mal",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac37fdfe9cf4a9e3a8b4594.html",
+      "scraped_at": "2026-10-05T14:28:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "La derecha convence más que la izquierda en vivienda pero un 23% no se fía de ninguno",
-      "subtitle": "Casi la mitad de los españoles señala este problema como su primera preocupación",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/04/6ac11f26e9cf4aae3a8b4598.html",
-      "scraped_at": "2026-10-04T12:16:00Z"
+      "title": "\"¡Por fin!\": Feijóo celebra el adelanto electoral y promete un \"cambio profundo\" y que \"los impuestos no se van a subir\"",
+      "subtitle": "Euforia contenida en el PP, que pide \"libertad\" para \"el mayor reto en 50 años\": el de la \"reconstrucción nacional\". Feijóo, aplaudido en el Congreso de la Empresa Familiar, promete \"gestión\"",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35e19fc6c837b7d8b45a4.html",
+      "scraped_at": "2026-10-05T14:28:48Z"
     },
     {
       "source": "El Mundo",
-      "title": "La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: \"Ninguno de los pisos que encontraba tenía salón\"",
-      "subtitle": "En 2025, la tasa de hacinamiento de la población europea se redujo un 0,1 puntos, pero la española aumentó en 0,4 puntos",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html",
-      "scraped_at": "2026-10-04T12:16:00Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Vivienda",
-      "subtitle": "Son más quienes avalan paralizar desahucios y renovar automáticamente el alquiler",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/04/6ac11fdbe9cf4a5a638b45af.html",
-      "scraped_at": "2026-10-04T12:16:00Z"
+      "title": "Sánchez, dispuesto a bordear el fraude de ley al llevar a la Diputación Permanente los dos decretos de vivienda fallidos",
+      "subtitle": "El Gobierno maniobra para aprovechar el equilibrio de mayorías que ofrece el órgano que vela por los poderes de la Cámara cuando las Cortes están disueltas. En la Diputación, el voto de Junts no resultará decisivo: el primer decreto podría prosperar con 35 votos a favor frente a 34 en contra",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac36314e85ece17518b459b.html",
+      "scraped_at": "2026-10-05T14:28:49Z"
     }
   ]
 }

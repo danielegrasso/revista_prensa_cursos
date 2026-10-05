@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Gabinete de crisis en Moncloa: Sánchez, entre encuestas y su núcleo duro: El Gobierno mide si el impacto social y electoral de la vivienda le permite desactivar los frentes de Ceuta y la corrupción; Alberto Nadal: «Es básico dar confianza a los propietarios para que alquilen su vivienda»: Cree que los decretos del Gobierno erosionaban los derechos de los caseros y hubieran provocado un desplome de la oferta que hubiera empeorado más aún la situación; El intervencionismo del Gobierno atemoriza a los propietarios: «Me da muchísima angustia alquilar»: Los dos decretos desactivados el viernes por el Congreso han paralizado operaciones y dejado a cientos de inquilinos sin casa por la incertidumbre generada. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-04T12:16:07Z",
+  "summary": "Resumen del día en ABC.es: Sánchez convoca elecciones generales el 29 de noviembre: El presidente del Gobierno disuelve las Cortes después de una doble derrota parlamentaria que puede espolear a la izquierda: «No habrá otra oportunidad así»; Bienvenidas elecciones: mejor tarde que nunca: Sánchez convoca elecciones cuando su gobierno lleva demasiado tiempo agotado, sin mayoría, sin Presupuestos y su partido cercado por graves crisis políticas y judiciales; La Diputación Permanente votará los decretos de vivienda: PP, Vox y Junts, sin mayoría: La disolución de las Cortes favorece en este caso a Pedro Sánchez porque el órgano que debe convalidar sus medidas urgentes deja de ser el Pleno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-05T14:28:55Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Gabinete de crisis en Moncloa: Sánchez, entre encuestas y su núcleo duro",
-      "subtitle": "El Gobierno mide si el impacto social y electoral de la vivienda le permite desactivar los frentes de Ceuta y la corrupción",
-      "url": "https://www.abc.es/espana/gabinete-crisis-moncloa-sanchez-encuestas-nucleo-duro-20261004012535-nt.html",
-      "scraped_at": "2026-10-04T12:16:06Z"
+      "title": "Sánchez convoca elecciones generales el 29 de noviembre",
+      "subtitle": "El presidente del Gobierno disuelve las Cortes después de una doble derrota parlamentaria que puede espolear a la izquierda: «No habrá otra oportunidad así»",
+      "url": "https://www.abc.es/espana/sanchez-convoca-elecciones-agitando-malestar-vivienda-20261005090835-nt.html",
+      "scraped_at": "2026-10-05T14:28:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Alberto Nadal: «Es básico dar confianza a los propietarios para que alquilen su vivienda»",
-      "subtitle": "Cree que los decretos del Gobierno erosionaban los derechos de los caseros y hubieran provocado un desplome de la oferta que hubiera empeorado más aún la situación",
-      "url": "https://www.abc.es/economia/alberto-nadal-basico-dar-confianza-propietarios-pongan-20261004012617-nt.html",
-      "scraped_at": "2026-10-04T12:16:06Z"
+      "title": "Bienvenidas elecciones: mejor tarde que nunca",
+      "subtitle": "Sánchez convoca elecciones cuando su gobierno lleva demasiado tiempo agotado, sin mayoría, sin Presupuestos y su partido cercado por graves crisis políticas y judiciales",
+      "url": "https://www.abc.es/opinion/editorial-bienvenidas-elecciones-mejor-tarde-nunca-20261005100233-nt.html",
+      "scraped_at": "2026-10-05T14:28:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "El intervencionismo del Gobierno atemoriza a los propietarios: «Me da muchísima angustia alquilar»",
-      "subtitle": "Los dos decretos desactivados el viernes por el Congreso han paralizado operaciones y dejado a cientos de inquilinos sin casa por la incertidumbre generada",
-      "url": "https://www.abc.es/economia/intervencionismo-gobierno-atemoriza-propietarios-muchisima-angustia-volver-20261004012639-nt.html",
-      "scraped_at": "2026-10-04T12:16:06Z"
+      "title": "La Diputación Permanente votará los decretos de vivienda: PP, Vox y Junts, sin mayoría",
+      "subtitle": "La disolución de las Cortes favorece en este caso a Pedro Sánchez porque el órgano que debe convalidar sus medidas urgentes deja de ser el Pleno",
+      "url": "https://www.abc.es/espana/diputacion-permanente-votara-decretos-vivienda-pp-vox-20261005151049-nt.html",
+      "scraped_at": "2026-10-05T14:28:55Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez se manifiesta contra Sánchez",
-      "subtitle": "La izquierda se instala en una narrativa desternillante, donde la calle no se levanta para pedirle cuentas al poder, sino para vigilar a quienes no gobiernan",
-      "url": "https://www.abc.es/opinion/julian-quiros-sanchez-manifiesta-sanchez-20261004131435-nt.html",
-      "scraped_at": "2026-10-04T12:16:06Z"
+      "title": "Feijóo: «No me temblará el pulso. No traicionaré la confianza de los españoles»",
+      "subtitle": "El líder popular asegura que la disyuntiva ante esta convocatoria es «elegir entre un proyecto de ambición personalista y un proyecto de país»",
+      "url": "https://www.abc.es/espana/feijoo-ante-elecciones-29n-espero-decir-dias-20261005102156-nt.html",
+      "scraped_at": "2026-10-05T14:28:55Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-10-04T12:16:07Z"
+      "scraped_at": "2026-10-05T14:28:55Z"
     }
   ]
 }

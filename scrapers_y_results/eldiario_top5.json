@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos: El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda; Feijóo adelanta las reformas del PP sobre las bajas con su plan para que las mutuas den el alta y el caso gallego: El líder del Partido Popular ha elegido las bajas como un tema central de su agenda laboral, que incluye varias demandas empresariales, como recortes, más control y altas de estas organizaciones patronales; Las palizas de militares a migrantes en Ceuta continuaron después de que Defensa conociese decenas de denuncias: Pese a que elDiario.es publicó el 15 de septiembre los testimonios de decenas de migrantes que denunciaban palizas por parte de militares, acompañados por fotos y partes médicos, Defensa no ha enviado parte de la información a los juzgados hasta este miércoles, tras un informe de Amnistía. Mientras, las denuncias de marroquíes que acusan a soldados españoles han continuado, según ha documentado este medio. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-04T12:16:05Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez convoca elecciones para el 29 de noviembre: El presidente del Gobierno anuncia la llamada a las urnas tras darse el fin de semana para tomar el pulso a las calles después de que la derecha tumbara el viernes los decretos de vivienda que volverán a ser aprobados este martes: \"Para hacer más, necesitamos una mayoría más amplia\"; El Gobierno volverá a aprobar los decretos de vivienda en el Consejo de Ministros de mañana: La idea de Sánchez es que esas medidas vuelvan a entrar en vigor de manera inmediata y que la votación, con las Cortes ya disueltas, tenga lugar en la reunión de la Diputación Permanente; Qué es la Diputación Permanente que decidirá sobre los nuevos decretos de vivienda y por qué Junts no es decisivo: El máximo órgano parlamentario fuera del periodo de sesiones o en periodo electoral cuenta con 68 miembros más Armengol y allí el Gobierno no necesita a Junts para convalidar los textos rechazados por el Pleno el pasado viernes. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-05T14:28:54Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos",
-      "subtitle": "El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda",
-      "url": "https://www.eldiario.es/politica/suma-pp-vox-supera-holgura-mayoria-absoluta-aventaja-izquierda-15-puntos_1_13559749.html",
-      "scraped_at": "2026-10-04T12:16:01Z"
+      "title": "Sánchez convoca elecciones para el 29 de noviembre",
+      "subtitle": "El presidente del Gobierno anuncia la llamada a las urnas tras darse el fin de semana para tomar el pulso a las calles después de que la derecha tumbara el viernes los decretos de vivienda que volverán a ser aprobados este martes: \"Para hacer más, necesitamos una mayoría más amplia\"",
+      "url": "https://www.eldiario.es/politica/sanchez-convoca-elecciones-anticipadas-29-noviembre_1_13555649.html",
+      "scraped_at": "2026-10-05T14:28:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo adelanta las reformas del PP sobre las bajas con su plan para que las mutuas den el alta y el caso gallego",
-      "subtitle": "El líder del Partido Popular ha elegido las bajas como un tema central de su agenda laboral, que incluye varias demandas empresariales, como recortes, más control y altas de estas organizaciones patronales",
-      "url": "https://www.eldiario.es/economia/feijoo-adelanta-reformas-pp-bajas-medicas-plan-mutuas-den-alta-caso-gallego_1_13549301.html",
-      "scraped_at": "2026-10-04T12:16:02Z"
+      "title": "El Gobierno volverá a aprobar los decretos de vivienda en el Consejo de Ministros de mañana",
+      "subtitle": "La idea de Sánchez es que esas medidas vuelvan a entrar en vigor de manera inmediata y que la votación, con las Cortes ya disueltas, tenga lugar en la reunión de la Diputación Permanente",
+      "url": "https://www.eldiario.es/politica/sanchez-llevara-consejo-ministros-decretos-vivienda-nuevo_1_13561933.html",
+      "scraped_at": "2026-10-05T14:28:51Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Las palizas de militares a migrantes en Ceuta continuaron después de que Defensa conociese decenas de denuncias",
-      "subtitle": "Pese a que elDiario.es publicó el 15 de septiembre los testimonios de decenas de migrantes que denunciaban palizas por parte de militares, acompañados por fotos y partes médicos, Defensa no ha enviado parte de la información a los juzgados hasta este miércoles, tras un informe de Amnistía. Mientras, las denuncias de marroquíes que acusan a soldados españoles han continuado, según ha documentado este medio",
-      "url": "https://www.eldiario.es/desalambre/palizas-militares-migrantes-continuaron-despues-defensa-conociese-decenas-denuncias_1_13558199.html",
-      "scraped_at": "2026-10-04T12:16:03Z"
+      "title": "Qué es la Diputación Permanente que decidirá sobre los nuevos decretos de vivienda y por qué Junts no es decisivo",
+      "subtitle": "El máximo órgano parlamentario fuera del periodo de sesiones o en periodo electoral cuenta con 68 miembros más Armengol y allí el Gobierno no necesita a Junts para convalidar los textos rechazados por el Pleno el pasado viernes",
+      "url": "https://www.eldiario.es/politica/diputacion-permanente-decidira-nuevos-decretos-vivienda_1_13562507.html",
+      "scraped_at": "2026-10-05T14:28:52Z"
     },
     {
       "source": "elDiario.es",
-      "title": "“¿Nos van a devolver?”: el desalojo de parte del último asentamiento de migrantes de la playa del Trampolín en Ceuta",
-      "subtitle": "A primera hora de la mañana, las furgonetas han rodeado el perímetro de El Trampolín mientras los agentes dividían la zona por sectores para proceder al desalojo progresivo de parte de las tiendas de campaña",
-      "url": "https://www.eldiario.es/desalambre/policia-nacional-inicia-desalojo-asentamiento-playa-trampolin-ceuta_1_13560310.html",
-      "scraped_at": "2026-10-04T12:16:04Z"
+      "title": "El Frente Amplio echa balones fuera sobre la propuesta de primarias de Podemos: “No queremos un debate en los medios”",
+      "subtitle": "Urtasun pide a los morados que se sienten con el resto de los partidos del espacio para valorar su propuesta: \"Si alguien quiere hacer alguna propuesta, hay una silla disponible junto a las demás organizaciones para venir a presentarla\"",
+      "url": "https://www.eldiario.es/politica/frente-amplio-echa-balones-fuera-propuesta-primarias-no-queremos-debate-medios_1_13562913.html",
+      "scraped_at": "2026-10-05T14:28:53Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Decretos vivienda",
-      "subtitle": "Una muy amplia mayoría de ciudadanos apoyan las medidas que aprobó el Gobierno en materia de vivienda, aunque lo responsabilizan de la situación actual",
-      "url": "https://www.eldiario.es/economia/mitad-votantes-pp-vox-junts-apoyan-escudo-antidesahucios-veto-buitres_1_13556469.html",
-      "scraped_at": "2026-10-04T12:16:05Z"
+      "title": "Verifactu",
+      "subtitle": "El Ejecutivo acompasa la obligación de este nuevo sistema, que iba a entrar en vigor para pymes el 1 de enero, con la factura electrónica entre empresas, dando dos años de margen",
+      "url": "https://www.eldiario.es/economia/gobierno-retrasa-entrada-vigor-verifactu-octubre-2028_1_13562620.html",
+      "scraped_at": "2026-10-05T14:28:54Z"
     }
   ]
 }
