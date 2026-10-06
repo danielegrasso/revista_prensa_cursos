@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Sánchez convoca elecciones generales el 29 de noviembre: El presidente del Gobierno disuelve las Cortes después de una doble derrota parlamentaria que puede espolear a la izquierda: «No habrá otra oportunidad así»; Bienvenidas elecciones: mejor tarde que nunca: Sánchez convoca elecciones cuando su gobierno lleva demasiado tiempo agotado, sin mayoría, sin Presupuestos y su partido cercado por graves crisis políticas y judiciales; La Diputación Permanente votará los decretos de vivienda: PP, Vox y Junts, sin mayoría: La disolución de las Cortes favorece en este caso a Pedro Sánchez porque el órgano que debe convalidar sus medidas urgentes deja de ser el Pleno. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-05T14:28:55Z",
+  "summary": "Resumen del día en ABC.es: El TC borra la malversación del 'procés' y  enmienda al Supremo con la ponencia de Pumpido: Los siete magistrados de la mayoría estiman el recurso de amparo de Bassa, que dará luz verde a la vuelta de Puigdemont; Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC: Ordena a las Fuerzas y Cuerpos de Seguridad que no lo detengan cuando pise España; El Gobierno recupera la prórroga de los alquileres, pero deja los contratos indefinidos a la Diputación Permanente: Sánchez deja en manos de la Diputación Permanete el segundo decreto y promete a los jóvenes 10.000 millones de euros en créditos para la compra de primera vivienda. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-06T13:14:21Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Sánchez convoca elecciones generales el 29 de noviembre",
-      "subtitle": "El presidente del Gobierno disuelve las Cortes después de una doble derrota parlamentaria que puede espolear a la izquierda: «No habrá otra oportunidad así»",
-      "url": "https://www.abc.es/espana/sanchez-convoca-elecciones-agitando-malestar-vivienda-20261005090835-nt.html",
-      "scraped_at": "2026-10-05T14:28:55Z"
+      "title": "El TC borra la malversación del 'procés' y  enmienda al Supremo con la ponencia de Pumpido",
+      "subtitle": "Los siete magistrados de la mayoría estiman el recurso de amparo de Bassa, que dará luz verde a la vuelta de Puigdemont",
+      "url": "https://www.abc.es/espana/tc-borra-malversacion-proces-enmienda-supremo-ponencia-20261006115927-nt.html",
+      "scraped_at": "2026-10-06T13:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Bienvenidas elecciones: mejor tarde que nunca",
-      "subtitle": "Sánchez convoca elecciones cuando su gobierno lleva demasiado tiempo agotado, sin mayoría, sin Presupuestos y su partido cercado por graves crisis políticas y judiciales",
-      "url": "https://www.abc.es/opinion/editorial-bienvenidas-elecciones-mejor-tarde-nunca-20261005100233-nt.html",
-      "scraped_at": "2026-10-05T14:28:55Z"
+      "title": "Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC",
+      "subtitle": "Ordena a las Fuerzas y Cuerpos de Seguridad que no lo detengan cuando pise España",
+      "url": "https://www.abc.es/espana/llarena-levanta-orden-detencion-puigdemont-tras-conocer-20261006125040-nt.html",
+      "scraped_at": "2026-10-06T13:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Diputación Permanente votará los decretos de vivienda: PP, Vox y Junts, sin mayoría",
-      "subtitle": "La disolución de las Cortes favorece en este caso a Pedro Sánchez porque el órgano que debe convalidar sus medidas urgentes deja de ser el Pleno",
-      "url": "https://www.abc.es/espana/diputacion-permanente-votara-decretos-vivienda-pp-vox-20261005151049-nt.html",
-      "scraped_at": "2026-10-05T14:28:55Z"
+      "title": "El Gobierno recupera la prórroga de los alquileres, pero deja los contratos indefinidos a la Diputación Permanente",
+      "subtitle": "Sánchez deja en manos de la Diputación Permanete el segundo decreto y promete a los jóvenes 10.000 millones de euros en créditos para la compra de primera vivienda",
+      "url": "https://www.abc.es/economia/gobierno-recupera-prorroga-forzosa-alquileres-deja-contratos-20261006125406-nt.html",
+      "scraped_at": "2026-10-06T13:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo: «No me temblará el pulso. No traicionaré la confianza de los españoles»",
-      "subtitle": "El líder popular asegura que la disyuntiva ante esta convocatoria es «elegir entre un proyecto de ambición personalista y un proyecto de país»",
-      "url": "https://www.abc.es/espana/feijoo-ante-elecciones-29n-espero-decir-dias-20261005102156-nt.html",
-      "scraped_at": "2026-10-05T14:28:55Z"
+      "title": "El juez pide a Anticorrupción que se pronuncie sobre la petición del PP para imputar ya al PSOE",
+      "subtitle": "Santiago Pedraz impulsa la investigación de las 'cloacas' pidiendo a la formación de Sánchez una relación de abogados asesores e imputa al exministro chavista Nervis Villalobos",
+      "url": "https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html",
+      "scraped_at": "2026-10-06T13:14:21Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-10-05T14:28:55Z"
+      "scraped_at": "2026-10-06T13:14:21Z"
     }
   ]
 }

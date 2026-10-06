@@ -1,35 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Pedro Sánchez adelanta las elecciones generales al 29 de noviembre: El Consejo de Ministros de este martes volverá a aprobar los decretos de vivienda que tumbó el Congreso con alguna modificación. Los deberá validar la Diputación Permanente, donde no necesitan a Junts para aprobarlos; El discurso del presidente, párrafo a párrafo: Sánchez o muerte. Esa es la cuestión: Es justo reconocerle al presidente la transparencia de su populismo. Al pasar a limpio la comparecencia emerge el único 'leitmotiv': la elección del bien contra el mal; \"¡Por fin!\": Feijóo celebra el adelanto electoral y promete un \"cambio profundo\" y que \"los impuestos no se van a subir\": Euforia contenida en el PP, que pide \"libertad\" para \"el mayor reto en 50 años\": el de la \"reconstrucción nacional\". Feijóo, aplaudido en el Congreso de la Empresa Familiar, promete \"gestión\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-05T14:28:49Z",
+  "summary": "Resumen del día en El Mundo: El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont, que podrá regresar ya: El Pleno ampara a la ex consellera Dolors Bassa dividido entre conservadores y progresistas. La decisión del TC obliga a Llarena a levantar la orden de detención contra el ex presidente de la Generalitat.; El voto particular de los cinco magistrados discrepantes: \"El TC suplanta la labor del Supremo en la apreciación de la amnistía\": Los miembros del sector conservador del TC critican los términos gruesos empleados por Conde-Pumpido sobre la actuación del Supremo.; La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques: El PP cuenta también con sondeos internos, pero muy diferentes: sitúan al bloque de derecha por encima de los 200 escaños, pero con Vox por encima de 60 y con un margen de crecimiento de 12 más. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-06T13:14:16Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Pedro Sánchez adelanta las elecciones generales al 29 de noviembre",
-      "subtitle": "El Consejo de Ministros de este martes volverá a aprobar los decretos de vivienda que tumbó el Congreso con alguna modificación. Los deberá validar la Diputación Permanente, donde no necesitan a Junts para aprobarlos",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3493de4d4d82d6e8b4580.html",
-      "scraped_at": "2026-10-05T14:28:48Z"
+      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont, que podrá regresar ya",
+      "subtitle": "El Pleno ampara a la ex consellera Dolors Bassa dividido entre conservadores y progresistas. La decisión del TC obliga a Llarena a levantar la orden de detención contra el ex presidente de la Generalitat.",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html",
+      "scraped_at": "2026-10-06T13:14:15Z"
     },
     {
       "source": "El Mundo",
-      "title": "El discurso del presidente, párrafo a párrafo: Sánchez o muerte. Esa es la cuestión",
-      "subtitle": "Es justo reconocerle al presidente la transparencia de su populismo. Al pasar a limpio la comparecencia emerge el único 'leitmotiv': la elección del bien contra el mal",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac37fdfe9cf4a9e3a8b4594.html",
-      "scraped_at": "2026-10-05T14:28:48Z"
+      "title": "El voto particular de los cinco magistrados discrepantes: \"El TC suplanta la labor del Supremo en la apreciación de la amnistía\"",
+      "subtitle": "Los miembros del sector conservador del TC critican los términos gruesos empleados por Conde-Pumpido sobre la actuación del Supremo.",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4de4ee4d4d810628b458d.html",
+      "scraped_at": "2026-10-06T13:14:16Z"
     },
     {
       "source": "El Mundo",
-      "title": "\"¡Por fin!\": Feijóo celebra el adelanto electoral y promete un \"cambio profundo\" y que \"los impuestos no se van a subir\"",
-      "subtitle": "Euforia contenida en el PP, que pide \"libertad\" para \"el mayor reto en 50 años\": el de la \"reconstrucción nacional\". Feijóo, aplaudido en el Congreso de la Empresa Familiar, promete \"gestión\"",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35e19fc6c837b7d8b45a4.html",
-      "scraped_at": "2026-10-05T14:28:48Z"
+      "title": "La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques",
+      "subtitle": "El PP cuenta también con sondeos internos, pero muy diferentes: sitúan al bloque de derecha por encima de los 200 escaños, pero con Vox por encima de 60 y con un margen de crecimiento de 12 más",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html",
+      "scraped_at": "2026-10-06T13:14:16Z"
     },
     {
       "source": "El Mundo",
-      "title": "Sánchez, dispuesto a bordear el fraude de ley al llevar a la Diputación Permanente los dos decretos de vivienda fallidos",
-      "subtitle": "El Gobierno maniobra para aprovechar el equilibrio de mayorías que ofrece el órgano que vela por los poderes de la Cámara cuando las Cortes están disueltas. En la Diputación, el voto de Junts no resultará decisivo: el primer decreto podría prosperar con 35 votos a favor frente a 34 en contra",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac36314e85ece17518b459b.html",
-      "scraped_at": "2026-10-05T14:28:49Z"
+      "title": "El PP pide la imputación del PSOE por financiación ilegal",
+      "subtitle": "Los 'populares' han registrado un escrito en el que reclaman que también se investigue a los socialistas por \"cohecho, malversación, tráfico de influencias y blanqueo de capitales\"",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html",
+      "scraped_at": "2026-10-06T13:14:16Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Decreto vivienda",
+      "subtitle": "La entrada en vigor de las medidas dependerá de su aprobación en la Diputación Permanente tras la disolución de las Cortes",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/06/6ac4d0c3e85eceaf338b4592.html",
+      "scraped_at": "2026-10-06T13:14:16Z"
     }
   ]
 }

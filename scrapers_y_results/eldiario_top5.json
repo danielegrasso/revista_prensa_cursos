@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Sánchez convoca elecciones para el 29 de noviembre: El presidente del Gobierno anuncia la llamada a las urnas tras darse el fin de semana para tomar el pulso a las calles después de que la derecha tumbara el viernes los decretos de vivienda que volverán a ser aprobados este martes: \"Para hacer más, necesitamos una mayoría más amplia\"; El Gobierno volverá a aprobar los decretos de vivienda en el Consejo de Ministros de mañana: La idea de Sánchez es que esas medidas vuelvan a entrar en vigor de manera inmediata y que la votación, con las Cortes ya disueltas, tenga lugar en la reunión de la Diputación Permanente; Qué es la Diputación Permanente que decidirá sobre los nuevos decretos de vivienda y por qué Junts no es decisivo: El máximo órgano parlamentario fuera del periodo de sesiones o en periodo electoral cuenta con 68 miembros más Armengol y allí el Gobierno no necesita a Junts para convalidar los textos rechazados por el Pleno el pasado viernes. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-05T14:28:54Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: “No lo hicimos por ningún líder, sino por la convivencia”: El presidente comparece en la Moncloa tras el Consejo de Ministros que ha rescatado los decretos de vivienda que tumbó la derecha en el Congreso el pasado viernes; Estas son las medidas que votará la Diputación Permanente: el Gobierno replica los decretos de vivienda: El Ejecutivo aprueba de nuevo en Consejo de Ministros las medidas que tumbaron Junts, PP y Vox ante la presión de las calles; Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa: El texto ampliado obliga a los anuncios a llevar el índice de referencia y prevé 10.000 millones en ayudas para financiar la primera vivienda. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-06T13:14:20Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Sánchez convoca elecciones para el 29 de noviembre",
-      "subtitle": "El presidente del Gobierno anuncia la llamada a las urnas tras darse el fin de semana para tomar el pulso a las calles después de que la derecha tumbara el viernes los decretos de vivienda que volverán a ser aprobados este martes: \"Para hacer más, necesitamos una mayoría más amplia\"",
-      "url": "https://www.eldiario.es/politica/sanchez-convoca-elecciones-anticipadas-29-noviembre_1_13555649.html",
-      "scraped_at": "2026-10-05T14:28:51Z"
+      "title": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: “No lo hicimos por ningún líder, sino por la convivencia”",
+      "subtitle": "El presidente comparece en la Moncloa tras el Consejo de Ministros que ha rescatado los decretos de vivienda que tumbó la derecha en el Congreso el pasado viernes",
+      "url": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
+      "scraped_at": "2026-10-06T13:14:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno volverá a aprobar los decretos de vivienda en el Consejo de Ministros de mañana",
-      "subtitle": "La idea de Sánchez es que esas medidas vuelvan a entrar en vigor de manera inmediata y que la votación, con las Cortes ya disueltas, tenga lugar en la reunión de la Diputación Permanente",
-      "url": "https://www.eldiario.es/politica/sanchez-llevara-consejo-ministros-decretos-vivienda-nuevo_1_13561933.html",
-      "scraped_at": "2026-10-05T14:28:51Z"
+      "title": "Estas son las medidas que votará la Diputación Permanente: el Gobierno replica los decretos de vivienda",
+      "subtitle": "El Ejecutivo aprueba de nuevo en Consejo de Ministros las medidas que tumbaron Junts, PP y Vox ante la presión de las calles",
+      "url": "https://www.eldiario.es/economia/son-medidas-votara-diputacion-permanente-gobierno-calca-decretos-vivienda_1_13561733.html",
+      "scraped_at": "2026-10-06T13:14:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Qué es la Diputación Permanente que decidirá sobre los nuevos decretos de vivienda y por qué Junts no es decisivo",
-      "subtitle": "El máximo órgano parlamentario fuera del periodo de sesiones o en periodo electoral cuenta con 68 miembros más Armengol y allí el Gobierno no necesita a Junts para convalidar los textos rechazados por el Pleno el pasado viernes",
-      "url": "https://www.eldiario.es/politica/diputacion-permanente-decidira-nuevos-decretos-vivienda_1_13562507.html",
-      "scraped_at": "2026-10-05T14:28:52Z"
+      "title": "Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa",
+      "subtitle": "El texto ampliado obliga a los anuncios a llevar el índice de referencia y prevé 10.000 millones en ayudas para financiar la primera vivienda",
+      "url": "https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html",
+      "scraped_at": "2026-10-06T13:14:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Frente Amplio echa balones fuera sobre la propuesta de primarias de Podemos: “No queremos un debate en los medios”",
-      "subtitle": "Urtasun pide a los morados que se sienten con el resto de los partidos del espacio para valorar su propuesta: \"Si alguien quiere hacer alguna propuesta, hay una silla disponible junto a las demás organizaciones para venir a presentarla\"",
-      "url": "https://www.eldiario.es/politica/frente-amplio-echa-balones-fuera-propuesta-primarias-no-queremos-debate-medios_1_13562913.html",
-      "scraped_at": "2026-10-05T14:28:53Z"
+      "title": "Por qué construir más casas no solucionará la crisis de la vivienda",
+      "subtitle": "Las soluciones estructurales deberían combinar la construcción significativa de vivienda pública y accesible (allí donde se necesite más), y un paquete fiscal y regulatorio que desincentivara —o directamente prohibiera— el uso de la vivienda como bien de inversión",
+      "url": "https://www.eldiario.es/economia/construir-casas-no-solucionara-crisis-vivienda_129_13563552.html",
+      "scraped_at": "2026-10-06T13:14:20Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Verifactu",
-      "subtitle": "El Ejecutivo acompasa la obligación de este nuevo sistema, que iba a entrar en vigor para pymes el 1 de enero, con la factura electrónica entre empresas, dando dos años de margen",
-      "url": "https://www.eldiario.es/economia/gobierno-retrasa-entrada-vigor-verifactu-octubre-2028_1_13562620.html",
-      "scraped_at": "2026-10-05T14:28:54Z"
+      "title": "Voto por correo",
+      "subtitle": "\"Hemos visto tantas cosas que entiendo que haya mucha gente que desconfíe de muchas cosas que pasan y de este Gobierno\", añade el portavoz del PP tratando de justificar que la presidenta madrileña alentara el fantasma del pucherazo",
+      "url": "https://www.eldiario.es/politica/borja-semper-contradice-ayuso-defiende-sistema-garantista-votar-correo_1_13565294.html",
+      "scraped_at": "2026-10-06T13:14:20Z"
     }
   ]
 }
