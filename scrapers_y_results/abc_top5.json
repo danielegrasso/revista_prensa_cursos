@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El TC borra la malversación del 'procés' y  enmienda al Supremo con la ponencia de Pumpido: Los siete magistrados de la mayoría estiman el recurso de amparo de Bassa, que dará luz verde a la vuelta de Puigdemont; Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC: Ordena a las Fuerzas y Cuerpos de Seguridad que no lo detengan cuando pise España; El Gobierno recupera la prórroga de los alquileres, pero deja los contratos indefinidos a la Diputación Permanente: Sánchez deja en manos de la Diputación Permanete el segundo decreto y promete a los jóvenes 10.000 millones de euros en créditos para la compra de primera vivienda. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-06T13:14:21Z",
+  "summary": "Resumen del día en ABC.es: El juez que investiga el rescate de Air Europa cita a Aagesen como testigo cinco días antes de las elecciones: El titular del Juzgado 49 de Madrid también llama al asesor de Sánchez Manuel de la Rocha, al presidente de Correos Pedro Saura y al exportavoz de Sumar en el Congreso, Íñigo Errejón; La Fiscalía pide la absolución para Begoña Gómez y su asesora de cara al juicio con jurado: Considera que los hechos narrados «no son constitutivos de infracción penal»; El número tres de Vivienda se gastó otros 100.000 euros en viajes desde el año 2024: El íntimo amigo de Sánchez ha mantenido una intensa agenda internacional para participar en bienales y simposios sobre arquitectura y urbanismo que han supuesto un gasto muy elevado en los últimos tres años. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-07T13:14:47Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El TC borra la malversación del 'procés' y  enmienda al Supremo con la ponencia de Pumpido",
-      "subtitle": "Los siete magistrados de la mayoría estiman el recurso de amparo de Bassa, que dará luz verde a la vuelta de Puigdemont",
-      "url": "https://www.abc.es/espana/tc-borra-malversacion-proces-enmienda-supremo-ponencia-20261006115927-nt.html",
-      "scraped_at": "2026-10-06T13:14:21Z"
+      "title": "El juez que investiga el rescate de Air Europa cita a Aagesen como testigo cinco días antes de las elecciones",
+      "subtitle": "El titular del Juzgado 49 de Madrid también llama al asesor de Sánchez Manuel de la Rocha, al presidente de Correos Pedro Saura y al exportavoz de Sumar en el Congreso, Íñigo Errejón",
+      "url": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html",
+      "scraped_at": "2026-10-07T13:14:45Z"
     },
     {
       "source": "ABC.es",
-      "title": "Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC",
-      "subtitle": "Ordena a las Fuerzas y Cuerpos de Seguridad que no lo detengan cuando pise España",
-      "url": "https://www.abc.es/espana/llarena-levanta-orden-detencion-puigdemont-tras-conocer-20261006125040-nt.html",
-      "scraped_at": "2026-10-06T13:14:21Z"
+      "title": "La Fiscalía pide la absolución para Begoña Gómez y su asesora de cara al juicio con jurado",
+      "subtitle": "Considera que los hechos narrados «no son constitutivos de infracción penal»",
+      "url": "https://www.abc.es/espana/fiscalia-pide-absolucion-begona-gomez-asesora-cara-20261007114512-nt.html",
+      "scraped_at": "2026-10-07T13:14:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno recupera la prórroga de los alquileres, pero deja los contratos indefinidos a la Diputación Permanente",
-      "subtitle": "Sánchez deja en manos de la Diputación Permanete el segundo decreto y promete a los jóvenes 10.000 millones de euros en créditos para la compra de primera vivienda",
-      "url": "https://www.abc.es/economia/gobierno-recupera-prorroga-forzosa-alquileres-deja-contratos-20261006125406-nt.html",
-      "scraped_at": "2026-10-06T13:14:21Z"
+      "title": "El número tres de Vivienda se gastó otros 100.000 euros en viajes desde el año 2024",
+      "subtitle": "El íntimo amigo de Sánchez ha mantenido una intensa agenda internacional para participar en bienales y simposios sobre arquitectura y urbanismo que han supuesto un gasto muy elevado en los últimos tres años",
+      "url": "https://www.abc.es/espana/numero-tres-vivienda-gasto-100000-euros-viajes-20261007214114-nt.html",
+      "scraped_at": "2026-10-07T13:14:46Z"
     },
     {
       "source": "ABC.es",
-      "title": "El juez pide a Anticorrupción que se pronuncie sobre la petición del PP para imputar ya al PSOE",
-      "subtitle": "Santiago Pedraz impulsa la investigación de las 'cloacas' pidiendo a la formación de Sánchez una relación de abogados asesores e imputa al exministro chavista Nervis Villalobos",
-      "url": "https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html",
-      "scraped_at": "2026-10-06T13:14:21Z"
+      "title": "Carnicero se encontraba en Argentina mientras se disolvían las Cortes",
+      "subtitle": "La operación contabilizada en la plataforma de pagos del ministerio refleja un viaje a la Bienal de Arquitectura de Buenos Aires desde el 3 al 7 de octubre",
+      "url": "https://www.abc.es/espana/carnicero-encontraba-argentina-disolvian-cortes-rechazo-decretos-20261007012251-nt.html",
+      "scraped_at": "2026-10-07T13:14:46Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-10-06T13:14:21Z"
+      "scraped_at": "2026-10-07T13:14:47Z"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Supremo deja sin efecto la orden de detención de Puigdemont: Primera consecuencia a la sentencia del Tribunal Constitucional que ordena al Supremo aplicar la amnistía a los líderes del procés; El Constitucional ordena al Supremo amnistiar a los líderes del procés: El tribunal aprueba por 7 votos a favor y 5 en contra, la ponencia que permitirá el regreso del expresident catalán una vez el instructor Pablo Llarena levante la orden de detención que pesa sobre él; Sánchez no se arrepiente de la amnistía pese al golpe de Junts: El presidente del Gobierno recalca que no impulsó la medida de gracia por Puigdemont, sino por recuperar “la convivencia entre catalanes” tras el proceso independentista que estalló en el 2017. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-06T13:14:23Z",
+  "summary": "Resumen del día en La Vanguardia: Rodalies vive una nueva jornada de caos marcada por el plante de los maquinistas: La caída de un árbol sobre un tren les ha llevado a plantarse para reclamar más medidas de seguridad; Hallado el cuerpo de un hombre en un paso inundado en Les Franqueses del Vallès: El cuerpo, que se ha descartado que sea el del menor desaparecido, ha sido localizado en una zona inundada del túnel de la Ronda Nord, en la carretera C-352; Tensión entre los pasajeros: “Al menos no me han escupido a la cara”: Un empleado de Renfe en la estación de Catalunya relata la resignación de los usuarios. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-07T13:14:48Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Supremo deja sin efecto la orden de detención de Puigdemont",
-      "subtitle": "Primera consecuencia a la sentencia del Tribunal Constitucional que ordena al Supremo aplicar la amnistía a los líderes del procés",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652301/llarena-deja-efecto-orden-detencion-puigdemont.html",
-      "scraped_at": "2026-10-06T13:14:22Z"
+      "title": "Rodalies vive una nueva jornada de caos marcada por el plante de los maquinistas",
+      "subtitle": "La caída de un árbol sobre un tren les ha llevado a plantarse para reclamar más medidas de seguridad",
+      "url": "https://www.lavanguardia.com/local/catalunya/20261007/11652978/caos-rodalies-cuatro-dias-intenso-temporal-maquinistas-niegan-circular.html",
+      "scraped_at": "2026-10-07T13:14:48Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Constitucional ordena al Supremo amnistiar a los líderes del procés",
-      "subtitle": "El tribunal aprueba por 7 votos a favor y 5 en contra, la ponencia que permitirá el regreso del expresident catalán una vez el instructor Pablo Llarena levante la orden de detención que pesa sobre él",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652114/tc-ordena-supremo-amnistiar-lideres-proces-abre-retorno-puigdemont.html",
-      "scraped_at": "2026-10-06T13:14:22Z"
+      "title": "Hallado el cuerpo de un hombre en un paso inundado en Les Franqueses del Vallès",
+      "subtitle": "El cuerpo, que se ha descartado que sea el del menor desaparecido, ha sido localizado en una zona inundada del túnel de la Ronda Nord, en la carretera C-352",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261007/11653317/hallado-cadaver-hombre-coche-zona-inundada-les-franqueses.html",
+      "scraped_at": "2026-10-07T13:14:48Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez no se arrepiente de la amnistía pese al golpe de Junts",
-      "subtitle": "El presidente del Gobierno recalca que no impulsó la medida de gracia por Puigdemont, sino por recuperar “la convivencia entre catalanes” tras el proceso independentista que estalló en el 2017",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652395/sanchez-asegura-arrepentirse-amnistia-pese-golpe-junts-precipita-elecciones-29-n.html",
-      "scraped_at": "2026-10-06T13:14:22Z"
+      "title": "Tensión entre los pasajeros: “Al menos no me han escupido a la cara”",
+      "subtitle": "Un empleado de Renfe en la estación de Catalunya relata la resignación de los usuarios",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261007/11653206/me-han-escupido-cara.html",
+      "scraped_at": "2026-10-07T13:14:48Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Y ahora qué ocurrirá con Puigdemont?",
-      "subtitle": "La doctrina del Tribunal Constitucional debería llevar a una aplicación de la ley en cascada a todos los condenados, procesados o encausados por el 'procés'",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652315/tc-ordena-aplicar-amnistia-llarena-levanta-orden-detencion-puigdemont-que.html",
-      "scraped_at": "2026-10-06T13:14:22Z"
+      "title": "Cientos de rayos caen sobre Catalunya durante el temporal",
+      "subtitle": "Los mapas del Meteocat y la Aemet recogen la situación excepcional sobre la costa catalana",
+      "url": "https://www.lavanguardia.com/local/catalunya/20261007/11653130/cientos-rayos-caen-sobre-catalunya-temporal.html",
+      "scraped_at": "2026-10-07T13:14:48Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Exceltur pide al nuevo Gobierno más inversión en infraestructuras y gravar el alquiler turístico",
-      "subtitle": "La patronal turística apunta a una moderación del crecimiento del sector en el cuarto trimestre tras un verano “muy bueno”",
-      "url": "https://www.lavanguardia.com/economia/20261006/11652296/exceltur-pide-nuevo-gobierno-mas-inversion-infraestructuras-gravar-alquiler-turistico.html",
-      "scraped_at": "2026-10-06T13:14:23Z"
+      "title": "Colonos israelíes golpean a un fotógrafo de AFP ante la mirada pasiva de soldados israelíes",
+      "subtitle": "Yafar Ashtiyé cubría la violencia contra los agricultores de olivos, cuando dos hombres le pegaron con la culata de sus rifles. Otro palestino recibió una bala en un pie",
+      "url": "https://www.lavanguardia.com/internacional/20261007/11653064/colonos-israelies-golpean-fotografo-afp-mirada-pasiva-soldados-israelies.html",
+      "scraped_at": "2026-10-07T13:14:48Z"
     }
   ]
 }

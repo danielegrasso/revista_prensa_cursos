@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: “No lo hicimos por ningún líder, sino por la convivencia”: El presidente comparece en la Moncloa tras el Consejo de Ministros que ha rescatado los decretos de vivienda que tumbó la derecha en el Congreso el pasado viernes; Estas son las medidas que votará la Diputación Permanente: el Gobierno replica los decretos de vivienda: El Ejecutivo aprueba de nuevo en Consejo de Ministros las medidas que tumbaron Junts, PP y Vox ante la presión de las calles; Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa: El texto ampliado obliga a los anuncios a llevar el índice de referencia y prevé 10.000 millones en ayudas para financiar la primera vivienda. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-06T13:14:20Z",
+  "summary": "Resumen del día en elDiario.es: Feijóo pone en duda el voto por correo: “He sido presidente de Correos, confío en los carteros, no en los directivos”: El líder del PP asegura que \"en los próximos días\" van a \"proponerle a la Junta Electoral Central algunas medidas adicionales para incrementar la garantía del voto por correo\"; Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones: El decálogo de la extrema derecha deja claro que es más rentable hablar de problemas incomprobables que de soluciones a temas concretos, y que agitar las sospechas sobre los comicios puede animar a los suyos: \"Si no tienes nada que ofrecer, cuestionar las normas es un factor de ruido más\"; El trumpismo cruza fronteras: conspiraciones, mentiras sobre el fraude electoral y “prioridad nacional”: La forma de hacer política del presidente de EEUU está ganando terreno en todo el planeta, desde América Latina hasta Europa, pasando por Corea del Sur, y básicamente consiste en hacer saltar por los aires todas las reglas y cuestionar todos los poderes cuando no se pliegan a los intereses del líder. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-07T13:14:44Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: “No lo hicimos por ningún líder, sino por la convivencia”",
-      "subtitle": "El presidente comparece en la Moncloa tras el Consejo de Ministros que ha rescatado los decretos de vivienda que tumbó la derecha en el Congreso el pasado viernes",
-      "url": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
-      "scraped_at": "2026-10-06T13:14:18Z"
+      "title": "Feijóo pone en duda el voto por correo: “He sido presidente de Correos, confío en los carteros, no en los directivos”",
+      "subtitle": "El líder del PP asegura que \"en los próximos días\" van a \"proponerle a la Junta Electoral Central algunas medidas adicionales para incrementar la garantía del voto por correo\"",
+      "url": "https://www.eldiario.es/politica/feijoo-pone-duda-voto-correo-he-sido-presidente-correos-confio-plenamente-carteros-no-confio-directivos_1_13569337.html",
+      "scraped_at": "2026-10-07T13:14:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Estas son las medidas que votará la Diputación Permanente: el Gobierno replica los decretos de vivienda",
-      "subtitle": "El Ejecutivo aprueba de nuevo en Consejo de Ministros las medidas que tumbaron Junts, PP y Vox ante la presión de las calles",
-      "url": "https://www.eldiario.es/economia/son-medidas-votara-diputacion-permanente-gobierno-calca-decretos-vivienda_1_13561733.html",
-      "scraped_at": "2026-10-06T13:14:19Z"
+      "title": "Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones",
+      "subtitle": "El decálogo de la extrema derecha deja claro que es más rentable hablar de problemas incomprobables que de soluciones a temas concretos, y que agitar las sospechas sobre los comicios puede animar a los suyos: \"Si no tienes nada que ofrecer, cuestionar las normas es un factor de ruido más\"",
+      "url": "https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html",
+      "scraped_at": "2026-10-07T13:14:42Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa",
-      "subtitle": "El texto ampliado obliga a los anuncios a llevar el índice de referencia y prevé 10.000 millones en ayudas para financiar la primera vivienda",
-      "url": "https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html",
-      "scraped_at": "2026-10-06T13:14:19Z"
+      "title": "El trumpismo cruza fronteras: conspiraciones, mentiras sobre el fraude electoral y “prioridad nacional”",
+      "subtitle": "La forma de hacer política del presidente de EEUU está ganando terreno en todo el planeta, desde América Latina hasta Europa, pasando por Corea del Sur, y básicamente consiste en hacer saltar por los aires todas las reglas y cuestionar todos los poderes cuando no se pliegan a los intereses del líder",
+      "url": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/trumpismo-cruza-fronteras-conspiraciones-mentiras-fraude-electoral-prioridad-nacional_132_13563977.html",
+      "scraped_at": "2026-10-07T13:14:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Por qué construir más casas no solucionará la crisis de la vivienda",
-      "subtitle": "Las soluciones estructurales deberían combinar la construcción significativa de vivienda pública y accesible (allí donde se necesite más), y un paquete fiscal y regulatorio que desincentivara —o directamente prohibiera— el uso de la vivienda como bien de inversión",
-      "url": "https://www.eldiario.es/economia/construir-casas-no-solucionara-crisis-vivienda_129_13563552.html",
-      "scraped_at": "2026-10-06T13:14:20Z"
+      "title": "IU abre las puertas del Frente Amplio a Podemos: “Aquí tiene cabida toda la izquierda transformadora”",
+      "subtitle": "El coordinador federal Antonio Maíllo reunirá de manera extraordinaria a la ejecutiva de la organización y prometerá trabajar \"con fraternidad y generosidad\" e incluir en el acuerdo a todo \"aquel que quiera una amplia alianza de la izquierda transformadora\"",
+      "url": "https://www.eldiario.es/politica/iu-abre-puertas-frente-amplio-cabida-izquierda-trasformadora_1_13568008.html",
+      "scraped_at": "2026-10-07T13:14:43Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Voto por correo",
-      "subtitle": "\"Hemos visto tantas cosas que entiendo que haya mucha gente que desconfíe de muchas cosas que pasan y de este Gobierno\", añade el portavoz del PP tratando de justificar que la presidenta madrileña alentara el fantasma del pucherazo",
-      "url": "https://www.eldiario.es/politica/borja-semper-contradice-ayuso-defiende-sistema-garantista-votar-correo_1_13565294.html",
-      "scraped_at": "2026-10-06T13:14:20Z"
+      "title": "Decreto vivienda",
+      "subtitle": "Los nuevos decretos incorporan novedades como la concreción de las ayudas a la compra de vivienda o una ampliación de dos años del veto a la compra especulativa",
+      "url": "https://www.eldiario.es/economia/nuevos-decretos-vivienda-detalle-veto-fondos-buitre-indemnizacion-inquilinos_1_13567889.html",
+      "scraped_at": "2026-10-07T13:14:44Z"
     }
   ]
 }
