@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Rodalies vive una nueva jornada de caos marcada por el plante de los maquinistas: La caída de un árbol sobre un tren les ha llevado a plantarse para reclamar más medidas de seguridad; Hallado el cuerpo de un hombre en un paso inundado en Les Franqueses del Vallès: El cuerpo, que se ha descartado que sea el del menor desaparecido, ha sido localizado en una zona inundada del túnel de la Ronda Nord, en la carretera C-352; Tensión entre los pasajeros: “Al menos no me han escupido a la cara”: Un empleado de Renfe en la estación de Catalunya relata la resignación de los usuarios. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-07T13:14:48Z",
+  "summary": "Resumen del día en La Vanguardia: Bronca en la Asamblea de Madrid por la muerte de Maricarmen: “No habrá paz en las calles”: La oposición sale en tromba contra Ayuso por el alquiler de la vivienda y el caso Maricarmen; Regreso al XVIII: En las guerras, alguien tiene el dudoso honor de ser el primer muerto que parece hacer estallar todo y el último, como símbolo de la mala suerte. De momento, en este ambiente prebélico donde los golpes de Estado se hacen sin tanques y los asesinatos sin pistolas ya nos hemos...; Feijóo acusa a Sánchez de “manipulación emocional” con la vivienda: El líder del PP pide explicaciones a Sánchez sobre la persecución a la jueza Beatriz Biedma: “¿Quién dio la orden?”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-08T13:21:08Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Rodalies vive una nueva jornada de caos marcada por el plante de los maquinistas",
-      "subtitle": "La caída de un árbol sobre un tren les ha llevado a plantarse para reclamar más medidas de seguridad",
-      "url": "https://www.lavanguardia.com/local/catalunya/20261007/11652978/caos-rodalies-cuatro-dias-intenso-temporal-maquinistas-niegan-circular.html",
-      "scraped_at": "2026-10-07T13:14:48Z"
+      "title": "Bronca en la Asamblea de Madrid por la muerte de Maricarmen: “No habrá paz en las calles”",
+      "subtitle": "La oposición sale en tromba contra Ayuso por el alquiler de la vivienda y el caso Maricarmen",
+      "url": "https://www.lavanguardia.com/local/madrid/20261008/11654033/tension-pleno-asamblea-oposicion-ayuso-calle-asumanlo.html",
+      "scraped_at": "2026-10-08T13:21:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Hallado el cuerpo de un hombre en un paso inundado en Les Franqueses del Vallès",
-      "subtitle": "El cuerpo, que se ha descartado que sea el del menor desaparecido, ha sido localizado en una zona inundada del túnel de la Ronda Nord, en la carretera C-352",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261007/11653317/hallado-cadaver-hombre-coche-zona-inundada-les-franqueses.html",
-      "scraped_at": "2026-10-07T13:14:48Z"
+      "title": "Regreso al XVIII",
+      "subtitle": "En las guerras, alguien tiene el dudoso honor de ser el primer muerto que parece hacer estallar todo y el último, como símbolo de la mala suerte. De momento, en este ambiente prebélico donde los golpes de Estado se hacen sin tanques y los asesinatos sin pistolas ya nos hemos...",
+      "url": "https://www.lavanguardia.com/opinion/20261008/11654102/regreso-xviii.html",
+      "scraped_at": "2026-10-08T13:21:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Tensión entre los pasajeros: “Al menos no me han escupido a la cara”",
-      "subtitle": "Un empleado de Renfe en la estación de Catalunya relata la resignación de los usuarios",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261007/11653206/me-han-escupido-cara.html",
-      "scraped_at": "2026-10-07T13:14:48Z"
+      "title": "Feijóo acusa a Sánchez de “manipulación emocional” con la vivienda",
+      "subtitle": "El líder del PP pide explicaciones a Sánchez sobre la persecución a la jueza Beatriz Biedma: “¿Quién dio la orden?”",
+      "url": "https://www.lavanguardia.com/politica/20261008/11654238/feijoo-acusa-sanchez-manipulacion-emocional-vivienda-haber-creado-problema.html",
+      "scraped_at": "2026-10-08T13:21:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cientos de rayos caen sobre Catalunya durante el temporal",
-      "subtitle": "Los mapas del Meteocat y la Aemet recogen la situación excepcional sobre la costa catalana",
-      "url": "https://www.lavanguardia.com/local/catalunya/20261007/11653130/cientos-rayos-caen-sobre-catalunya-temporal.html",
-      "scraped_at": "2026-10-07T13:14:48Z"
+      "title": "Un eurodiputado de Vox pide una autopsia al cuerpo de Maricarmen Abascal",
+      "subtitle": "Vox cree que el Gobierno es responsable del fallecimiento y considera que es preciso averiguar con exactitud cómo falleció",
+      "url": "https://www.lavanguardia.com/politica/20261008/11654001/eurodiputado-vox-pide-autopsia-cuerpo-maricarmen-abascal.html",
+      "scraped_at": "2026-10-08T13:21:08Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Colonos israelíes golpean a un fotógrafo de AFP ante la mirada pasiva de soldados israelíes",
-      "subtitle": "Yafar Ashtiyé cubría la violencia contra los agricultores de olivos, cuando dos hombres le pegaron con la culata de sus rifles. Otro palestino recibió una bala en un pie",
-      "url": "https://www.lavanguardia.com/internacional/20261007/11653064/colonos-israelies-golpean-fotografo-afp-mirada-pasiva-soldados-israelies.html",
-      "scraped_at": "2026-10-07T13:14:48Z"
+      "title": "Meloni logra aprobar su nueva ley electoral para blindar las mayorías parlamentarias",
+      "subtitle": "La reforma otorga una prima de escaños a la coalición más votada si alcanza al menos el 42% de los votos",
+      "url": "https://www.lavanguardia.com/internacional/20261008/11654195/meloni-logra-aprobar-nueva-ley-electoral-blindar-mayorias-parlamentarias.html",
+      "scraped_at": "2026-10-08T13:21:08Z"
     }
   ]
 }
