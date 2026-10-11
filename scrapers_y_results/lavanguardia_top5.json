@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Trump acuerda con Putin el suministro de millones de toneladas de diésel ruso a los mercados mundiales: El presidente afirma que Moscú liberará de inmediato 300.000 toneladas, otras 500.000 en noviembre y hasta cuatro millones más después; Ucrania ataca una petrolera rusa tras el acuerdo del diésel de Trump y Putin: Durante el ataque nocturno, en el que fueron derribados más de cien drones, también habría resultado dañado un puente ferroviario; Sánchez enarbola la “lucha por la vivienda” de Maricarmen para lanzar su carrera al 29-N: El presidente del Gobierno reclama una mayoría progresista más amplia en las urnas para “reforzar” sus decretos de protección a pequeños propietarios e inquilinos frente a la especulación. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-10T12:24:49Z",
+  "summary": "Resumen del día en La Vanguardia: Rufián volverá a liderar la candidatura de ERC en el 29-N: La ejecutiva del partido se reúne este domingo para formalizar que Rufián siga al frente de las filas republicanas en el Congreso esta próxima legislatura; Reconciliación a la izquierda: Suele decirse que la izquierda no necesita que la dividan, les basta con reunirse. Estos días proliferan los aquelarres a la izquierda del PSOE, aunque esta vez –y siempre con la prudencia aconsejable en estos casos hasta el desenlace del último minuto– parecen encaminados a...; España, en primera línea: Lo que ocurra en Estados Unidos después del 3 de noviembre enmarcará la apasionada campaña electoral española. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-11T12:42:26Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Trump acuerda con Putin el suministro de millones de toneladas de diésel ruso a los mercados mundiales",
-      "subtitle": "El presidente afirma que Moscú liberará de inmediato 300.000 toneladas, otras 500.000 en noviembre y hasta cuatro millones más después",
-      "url": "https://www.lavanguardia.com/internacional/20261009/11655554/trump-acuerda-putin-suministro-millones-toneladas-diesel-ruso-mercados-mundiales.html",
-      "scraped_at": "2026-10-10T12:24:48Z"
+      "title": "Rufián volverá a liderar la candidatura de ERC en el 29-N",
+      "subtitle": "La ejecutiva del partido se reúne este domingo para formalizar que Rufián siga al frente de las filas republicanas en el Congreso esta próxima legislatura",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
+      "scraped_at": "2026-10-11T12:42:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Ucrania ataca una petrolera rusa tras el acuerdo del diésel de Trump y Putin",
-      "subtitle": "Durante el ataque nocturno, en el que fueron derribados más de cien drones, también habría resultado dañado un puente ferroviario",
-      "url": "https://www.lavanguardia.com/internacional/20261010/11655917/ucrania-ataca-terminal-petrolera-rusa-pese-acuerdo-alcanzado-trump-putin.html",
-      "scraped_at": "2026-10-10T12:24:49Z"
+      "title": "Reconciliación a la izquierda",
+      "subtitle": "Suele decirse que la izquierda no necesita que la dividan, les basta con reunirse. Estos días proliferan los aquelarres a la izquierda del PSOE, aunque esta vez –y siempre con la prudencia aconsejable en estos casos hasta el desenlace del último minuto– parecen encaminados a...",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656064/reconciliacion-izquierda.html",
+      "scraped_at": "2026-10-11T12:42:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez enarbola la “lucha por la vivienda” de Maricarmen para lanzar su carrera al 29-N",
-      "subtitle": "El presidente del Gobierno reclama una mayoría progresista más amplia en las urnas para “reforzar” sus decretos de protección a pequeños propietarios e inquilinos frente a la especulación",
-      "url": "https://www.lavanguardia.com/politica/20261010/11655971/sanchez-enarbola-lucha-vivienda-maricarmen-impulsar-carrera-29-n.html",
-      "scraped_at": "2026-10-10T12:24:49Z"
+      "title": "España, en primera línea",
+      "subtitle": "Lo que ocurra en Estados Unidos después del 3 de noviembre enmarcará la apasionada campaña electoral española",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656129/espana-primera-linea.html",
+      "scraped_at": "2026-10-11T12:42:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Feijóo plantea un cambio “total” y “sereno” frente a Sánchez: “Lo vamos a echar”",
-      "subtitle": "El líder del PP se da un baño de masas en el primer gran acto de precampaña en Madrid junto a Ayuso y Almeida",
-      "url": "https://www.lavanguardia.com/politica/20261010/11655919/feijoo-plantea-cambio-total-sereno-frente-sanchez-echar-voto-gente.html",
-      "scraped_at": "2026-10-10T12:24:49Z"
+      "title": "Sánchez agita causas de izquierda para aglutinar voto contra la derecha",
+      "subtitle": "El presidente del Gobierno reclama al Tribunal Supremo que “frene el intento de atropello” del PP y Vox contra los nietos de los exiliados: “En una democracia el derecho al voto no se prohíbe, se garantiza”",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656533/sanchez-agita-causas-izquierda-aglutinar-voto-disyuntiva-feijoo-abascal-psoe.html",
+      "scraped_at": "2026-10-11T12:42:25Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "50 años del Col·legi: cuando la filosofía salió de las aulas",
-      "subtitle": "Se cumple medio siglo de la creación de esta institución que impulsaron Llovet, Rubert de Ventós, Trías y Vicens, apadrinó críticamente Jordi Pujol y defendió la “Catalunya-ciutat”",
-      "url": "https://www.lavanguardia.com/cultura/culturas/20261010/11652153/50-anos-collegi-filosofia-salio-aulas.html",
-      "scraped_at": "2026-10-10T12:24:49Z"
+      "title": "“Los regalos a Putin no traerán paz, sino más terror”, asegura Zelenski",
+      "subtitle": "Rusia cree que el acuerdo del diésel abre una brecha entre EE.UU. y Europa",
+      "url": "https://www.lavanguardia.com/internacional/20261010/11656115/regalos-putin-traeran-paz-mas-terror-asegura-zelenski.html",
+      "scraped_at": "2026-10-11T12:42:26Z"
     }
   ]
 }
