@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Casi el 70% de españoles pide frenar las nacionalizaciones vía 'ley de nietos': La mitad del votante socialista se opone a que una persona que haya obtenido la nacionalidad española pero nunca ha vivido en el país pueda votar en unos comicios; El 60% opina que Puigdemont no debería ser amnistiado ni volver a España: Casi la mitad de los socialistas rechaza el regreso del expresidente fugado, a pesar de la defensa de Sánchez a la ley de amnistía; Santiago Abascal: «Tenemos una voluntad de entendimiento aún mayor con el Partido Popular»: El líder de Vox da «garantías» de que su partido tiene una voluntad de entendimiento con el Partido Popular para sacar a Sánchez del poder. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-11T12:42:24Z",
+  "summary": "Resumen del día en ABC.es: El Supremo confirma la suspensión del censo de la 'ley de nietos': no podrán votar: Rechaza el recurso de la Abogacía del Estado contra la paralización y culpa a la Administración de incumplir la orden que le dio en septiembre; Las elecciones acaparan la conversación política del 12-O: duelo de optimismo entre Sánchez y Feijóo: Tanto el presidente como el líder de la oposición se ven grandes favoritos para la cita electoral y confían en la movilización de sus votantes; La 'burbuja antipitidos' del desfile no libra a Sánchez de una lluvia de abucheos e insultos: Los cazas Eurofighter pintan por primera vez la bandera en el cielo en un 12 de octubre marcado por el adelanto electoral. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-12T15:14:21Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Casi el 70% de españoles pide frenar las nacionalizaciones vía 'ley de nietos'",
-      "subtitle": "La mitad del votante socialista se opone a que una persona que haya obtenido la nacionalidad española pero nunca ha vivido en el país pueda votar en unos comicios",
-      "url": "https://www.abc.es/espana/espanoles-pide-frenar-nacionalizaciones-via-ley-nietos-20261011021312-nt.html",
-      "scraped_at": "2026-10-11T12:42:23Z"
+      "title": "El Supremo confirma la suspensión del censo de la 'ley de nietos': no podrán votar",
+      "subtitle": "Rechaza el recurso de la Abogacía del Estado contra la paralización y culpa a la Administración de incumplir la orden que le dio en septiembre",
+      "url": "https://www.abc.es/espana/supremo-confirma-suspension-censo-ley-nietos-podran-20261012153606-nt.html",
+      "scraped_at": "2026-10-12T15:14:20Z"
     },
     {
       "source": "ABC.es",
-      "title": "El 60% opina que Puigdemont no debería ser amnistiado ni volver a España",
-      "subtitle": "Casi la mitad de los socialistas rechaza el regreso del expresidente fugado, a pesar de la defensa de Sánchez a la ley de amnistía",
-      "url": "https://www.abc.es/espana/sociedad-opina-puigdemont-deberia-amnistiado-volver-espana-20261011021206-nt.html",
-      "scraped_at": "2026-10-11T12:42:23Z"
+      "title": "Las elecciones acaparan la conversación política del 12-O: duelo de optimismo entre Sánchez y Feijóo",
+      "subtitle": "Tanto el presidente como el líder de la oposición se ven grandes favoritos para la cita electoral y confían en la movilización de sus votantes",
+      "url": "https://www.abc.es/espana/29n-acapara-corrillos-palacio-real-duelo-optimismo-20261012163120-nt.html",
+      "scraped_at": "2026-10-12T15:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Santiago Abascal: «Tenemos una voluntad de entendimiento aún mayor con el Partido Popular»",
-      "subtitle": "El líder de Vox da «garantías» de que su partido tiene una voluntad de entendimiento con el Partido Popular para sacar a Sánchez del poder",
-      "url": "https://www.abc.es/espana/santiago-abascal-espanoles-deben-temerse-peor-van-20261011021159-nt.html",
-      "scraped_at": "2026-10-11T12:42:23Z"
+      "title": "La 'burbuja antipitidos' del desfile no libra a Sánchez de una lluvia de abucheos e insultos",
+      "subtitle": "Los cazas Eurofighter pintan por primera vez la bandera en el cielo en un 12 de octubre marcado por el adelanto electoral",
+      "url": "https://www.abc.es/espana/burbuja-antipitidos-desfile-libra-sanchez-lluvia-abucheos-20261012130146-nt.html",
+      "scraped_at": "2026-10-12T15:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los desencantados del 15-M y de la nueva acampada de Sol: «Yo me caí de la burra»",
-      "subtitle": "Tres personas que participaron hace 15 años en una protesta regeneracionista contrastan en la actualidad cómo aquello no solucionó sus inquietudes. Mucho menos ven en la actual concentración contra la vivienda algo poco programado que busca, tal vez, «tapar otras suciedades»",
-      "url": "https://www.abc.es/espana/desencantados-15m-nueva-acampada-sol-20261011020246-nt.html",
-      "scraped_at": "2026-10-11T12:42:23Z"
+      "title": "El Rey afronta con «ilusión y ganas» su primera visita a Ceuta",
+      "subtitle": "Don Felipe y Doña Letizia dedicaron sus primeros minutos de recepción en Palacio a los representantes de Ceuta y Melilla",
+      "url": "https://www.abc.es/espana/rey-afronta-ilusion-ganas-primera-visita-ceuta-20261012163649-nt.html",
+      "scraped_at": "2026-10-12T15:14:21Z"
     },
     {
       "source": "ABC.es",
-      "title": "Paula Fernández, abogada: «Si el matrimonio estaba en separación de bienes, la herencia nunca afectará a los bienes del viudo»",
-      "subtitle": "La abogada Paula Fernández explica cómo afecta la ausencia de testamento al cónyuge y las claves legales del reparto patrimonial",
-      "url": "https://www.cope.es/actualidad/economia/noticias/paula-fernandez-abogada-matrimonio-separacion-bienes-herencia-nunca-afectara-bienes-viudo-pertenecieran-difunto-20261011_3451432.html",
-      "scraped_at": "2026-10-11T12:42:24Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-10-12T15:14:21Z"
     }
   ]
 }

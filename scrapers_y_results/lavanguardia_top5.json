@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Rufián volverá a liderar la candidatura de ERC en el 29-N: La ejecutiva del partido se reúne este domingo para formalizar que Rufián siga al frente de las filas republicanas en el Congreso esta próxima legislatura; Reconciliación a la izquierda: Suele decirse que la izquierda no necesita que la dividan, les basta con reunirse. Estos días proliferan los aquelarres a la izquierda del PSOE, aunque esta vez –y siempre con la prudencia aconsejable en estos casos hasta el desenlace del último minuto– parecen encaminados a...; España, en primera línea: Lo que ocurra en Estados Unidos después del 3 de noviembre enmarcará la apasionada campaña electoral española. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-11T12:42:26Z",
+  "summary": "Resumen del día en La Vanguardia: El TS mantiene la suspensión del voto para los nacionalizados con la 'ley de nietos': El Tribunal ordena que no se inscriba a más descendientes para estas elecciones, pero concede el derecho al sufragio a los que se censaron de acuerdo con la ley de Memoria Democrática antes del 1 de agosto; Comuns acusa a Rufián de “dividir” a la izquierda y Frente Amplio acelera un acuerdo con Podemos: La formación catalana expresa su “profunda decepción” con el republicano mientras la coalición trata de sumar a Podemos a contrarreloj; Los Reyes presiden el desfile del 12 de octubre con abucheos a Sánchez y un nuevo plante de Abascal: Los Reyes presiden el acto central de la Fiesta Nacional impregnado de ambiente electoral y antes de viajar a Ceuta. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-12T15:14:24Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Rufián volverá a liderar la candidatura de ERC en el 29-N",
-      "subtitle": "La ejecutiva del partido se reúne este domingo para formalizar que Rufián siga al frente de las filas republicanas en el Congreso esta próxima legislatura",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
-      "scraped_at": "2026-10-11T12:42:25Z"
+      "title": "El TS mantiene la suspensión del voto para los nacionalizados con la 'ley de nietos'",
+      "subtitle": "El Tribunal ordena que no se inscriba a más descendientes para estas elecciones, pero concede el derecho al sufragio a los que se censaron de acuerdo con la ley de Memoria Democrática antes del 1 de agosto",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657158/supremo-mantiene-suspension-voto-nacionalizados-ley-nietos.html",
+      "scraped_at": "2026-10-12T15:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Reconciliación a la izquierda",
-      "subtitle": "Suele decirse que la izquierda no necesita que la dividan, les basta con reunirse. Estos días proliferan los aquelarres a la izquierda del PSOE, aunque esta vez –y siempre con la prudencia aconsejable en estos casos hasta el desenlace del último minuto– parecen encaminados a...",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656064/reconciliacion-izquierda.html",
-      "scraped_at": "2026-10-11T12:42:25Z"
+      "title": "Comuns acusa a Rufián de “dividir” a la izquierda y Frente Amplio acelera un acuerdo con Podemos",
+      "subtitle": "La formación catalana expresa su “profunda decepción” con el republicano mientras la coalición trata de sumar a Podemos a contrarreloj",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656934/frente-amplio-recula-portazo-rufian-traslada-presion.html",
+      "scraped_at": "2026-10-12T15:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "España, en primera línea",
-      "subtitle": "Lo que ocurra en Estados Unidos después del 3 de noviembre enmarcará la apasionada campaña electoral española",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656129/espana-primera-linea.html",
-      "scraped_at": "2026-10-11T12:42:25Z"
+      "title": "Los Reyes presiden el desfile del 12 de octubre con abucheos a Sánchez y un nuevo plante de Abascal",
+      "subtitle": "Los Reyes presiden el acto central de la Fiesta Nacional impregnado de ambiente electoral y antes de viajar a Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
+      "scraped_at": "2026-10-12T15:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Sánchez agita causas de izquierda para aglutinar voto contra la derecha",
-      "subtitle": "El presidente del Gobierno reclama al Tribunal Supremo que “frene el intento de atropello” del PP y Vox contra los nietos de los exiliados: “En una democracia el derecho al voto no se prohíbe, se garantiza”",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656533/sanchez-agita-causas-izquierda-aglutinar-voto-disyuntiva-feijoo-abascal-psoe.html",
-      "scraped_at": "2026-10-11T12:42:25Z"
+      "title": "Sánchez dice que buques de guerra marroquíes entraron en aguas de Ceuta a finales de julio",
+      "subtitle": "El presidente del Gobierno reduce a “hechos puntuales” la presencia de los navíos cerca de la ciudad autónoma coincidiendo con la entrada masiva de migrantes",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657163/sanchez-confirma-buques-guerra-marroquies-entraron-aguas-ceuta-finales-julio.html",
+      "scraped_at": "2026-10-12T15:14:23Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "“Los regalos a Putin no traerán paz, sino más terror”, asegura Zelenski",
-      "subtitle": "Rusia cree que el acuerdo del diésel abre una brecha entre EE.UU. y Europa",
-      "url": "https://www.lavanguardia.com/internacional/20261010/11656115/regalos-putin-traeran-paz-mas-terror-asegura-zelenski.html",
-      "scraped_at": "2026-10-11T12:42:26Z"
+      "title": "La CUP no se presentará a las elecciones generales del 29-N",
+      "subtitle": "La militancia ratifica la decisión de la dirección con un 68,8% de los votos",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656981/cup-presentara-elecciones-generales-29-n.html",
+      "scraped_at": "2026-10-12T15:14:24Z"
     }
   ]
 }
