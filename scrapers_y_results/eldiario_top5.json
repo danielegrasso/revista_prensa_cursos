@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Podemos y Frente Amplio mantienen su pulso en las horas decisivas para la unidad: IU desoye la oferta de Podemos para pactar solo con ellos en diez comunidades e insiste en que cualquier acuerdo debe firmarse a nivel estatal con el resto del Frente Amplio. Podemos, IU, Sumar y Nueva Canarias pactan una lista única allí y hay acuerdo en Aragón y Baleares con una apelación a los morados para que se sumen; Estos son los acuerdos de la izquierda alternativa, territorio a territorio: Canarias dio el pistoletazo de salida y ya han comenzado a anunciarse los primeros preacuerdos territoriales cuando es cuestión de horas que se cierre el plazo para registrar coaliciones; Qué dice la media de las encuestas: PP y Vox aventajan al bloque progresista en 15 puntos mientras la izquierda sigue negociando: El promedio de encuestas de elDiario.es pone a la suma de PP y Vox en 201 escaños, muy por encima de la mayoría absoluta a falta seis semanas para los elecciones generales del 29N. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-16T11:15:43Z",
+  "summary": "Resumen del día en elDiario.es: Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana: La izquierda se presentará partida en dos en la mayor parte de las circunscripciones de España y tan solo habrá unidad plena en dos comunidades. En las dos últimas horas, la negociación se convirtió en un intercambio de ofertas público; El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado: Los socialistas llevaban semanas trabajando en una propuesta de unidad que creen que puede provocar un vuelco en favor de la izquierda y que se ha cerrado al filo del límite del plazo; Así han quedado las candidaturas de la izquierda alternativa, territorio a territorio: Frente Amplio y Podemos no han cerrado un acuerdo global y solo irán juntos en la Comunitat Valenciana y Canarias. En el resto del territorio habrá más de una lista a la izquierda del PSOE. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-17T10:35:22Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Podemos y Frente Amplio mantienen su pulso en las horas decisivas para la unidad",
-      "subtitle": "IU desoye la oferta de Podemos para pactar solo con ellos en diez comunidades e insiste en que cualquier acuerdo debe firmarse a nivel estatal con el resto del Frente Amplio. Podemos, IU, Sumar y Nueva Canarias pactan una lista única allí y hay acuerdo en Aragón y Baleares con una apelación a los morados para que se sumen",
-      "url": "https://www.eldiario.es/politica/frente-amplio-mantienen-pulso-24-horas-decisivas-unidad_1_13589325.html",
-      "scraped_at": "2026-10-16T11:15:41Z"
+      "title": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana",
+      "subtitle": "La izquierda se presentará partida en dos en la mayor parte de las circunscripciones de España y tan solo habrá unidad plena en dos comunidades. En las dos últimas horas, la negociación se convirtió en un intercambio de ofertas público",
+      "url": "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html",
+      "scraped_at": "2026-10-17T10:35:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Estos son los acuerdos de la izquierda alternativa, territorio a territorio",
-      "subtitle": "Canarias dio el pistoletazo de salida y ya han comenzado a anunciarse los primeros preacuerdos territoriales cuando es cuestión de horas que se cierre el plazo para registrar coaliciones",
+      "title": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado",
+      "subtitle": "Los socialistas llevaban semanas trabajando en una propuesta de unidad que creen que puede provocar un vuelco en favor de la izquierda y que se ha cerrado al filo del límite del plazo",
+      "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+      "scraped_at": "2026-10-17T10:35:20Z"
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Así han quedado las candidaturas de la izquierda alternativa, territorio a territorio",
+      "subtitle": "Frente Amplio y Podemos no han cerrado un acuerdo global y solo irán juntos en la Comunitat Valenciana y Canarias. En el resto del territorio habrá más de una lista a la izquierda del PSOE",
       "url": "https://www.eldiario.es/politica/son-acuerdos-izquierda-alternativa-territorio-territorio_1_13589702.html",
-      "scraped_at": "2026-10-16T11:15:41Z"
+      "scraped_at": "2026-10-17T10:35:20Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Qué dice la media de las encuestas: PP y Vox aventajan al bloque progresista en 15 puntos mientras la izquierda sigue negociando",
-      "subtitle": "El promedio de encuestas de elDiario.es pone a la suma de PP y Vox en 201 escaños, muy por encima de la mayoría absoluta a falta seis semanas para los elecciones generales del 29N",
-      "url": "https://www.eldiario.es/politica/dice-hoy-media-encuestas-pp-vox-aventajan-bloque-progresista-15-puntos-izquierda-sigue-negociando_1_13585216.html",
-      "scraped_at": "2026-10-16T11:15:42Z"
+      "title": "Desregulación, recortes y prioridad nacional: las medidas de Vox en las comunidades anticipan sus planes si llega al Gobierno",
+      "subtitle": "El partido ya ha convertido la reducción del gasto público, la revisión de normas y la exclusión de los nacidos en el extranjero en los ejes de su actividad pública",
+      "url": "https://www.eldiario.es/politica/recortes-desregulacion-prioridad-nacional-medidas-vox-comunidades-anticipan-planes-si-llega-gobierno_1_13552492.html",
+      "scraped_at": "2026-10-17T10:35:21Z"
     },
     {
       "source": "elDiario.es",
-      "title": "José Manuel Albares: “Tenemos que estar preparados para injerencias externas en las elecciones”",
-      "subtitle": "El ministro de Exteriores dice que se sintió \"dolido\" por la carta de los europeos en plena crisis de Ceuta, recuerda que el futuro del continente se juega en Ucrania y defiende el apoyo al enviado de la ONU en el Sáhara Occidental para que el conflicto no dure otros 50 años. Alerta contra las fuerzas de extrema derecha que quieren \"debilitar\" Europa",
-      "url": "https://www.eldiario.es/internacional/jose-manuel-albares-preparados-injerencias-externas-elecciones_128_13587998.html",
-      "scraped_at": "2026-10-16T11:15:42Z"
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Junta electoral",
-      "subtitle": "El organismo recuerda que las juntas electorales únicamente pueden actuar si se le trasladan \"denuncias sobre hechos o indicios concretos de irregularidad\"",
-      "url": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
-      "scraped_at": "2026-10-16T11:15:43Z"
+      "title": "Vivienda",
+      "subtitle": "La portavoz del PSOE, Montse Mínguez, dimite tras desvelarse que su pareja cuenta con decenas de viviendas que dedica al negocio inmobiliario; tras los ataques a Maricarmen y al Sindicato de Inquilinas, PP y Vox apuntan ahora contra dirigentes socialistas",
+      "url": "https://www.eldiario.es/politica/debate-vivienda-pone-foco-relacion-politicos-rentismo-medio-ofensiva-derecha_1_13590191.html",
+      "scraped_at": "2026-10-17T10:35:22Z"
     }
   ]
 }
