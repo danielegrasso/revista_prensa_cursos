@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Las pruebas de Adamuz siguen guardadas en un cajón sin analizar nueve meses después: Las víctimas denuncian que Óscar Puente no ha cumplido ninguno de los once puntos de un escrito que le transmitieron hace meses. Sigue sin reunirse con las familias de los afectados; El PP se plantea sacar al Estado del capital de empresas privadas si gana las elecciones: Cree urgente poner fin al activismo del Gobierno en el ámbito empresarial, ve «injustificada» la presencia de SEPI en el capital de empresas que compiten en el sector privado y propone limitar la presencia pública a Defensa y sectores críticos; Ceuta, retrato de una ciudad herida: Los ceutíes manifiestan su incredulidad ante la falta de respuesta del país al que pertenecen, viven con temor el día a día, exigen una frontera con garantías y coinciden en la necesidad de devolver a Marruecos a quienes cruzaron de forma ilegal. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-18T10:57:55Z",
+  "summary": "Resumen del día en ABC.es: El temporal deja ya cuatro muertos y 145 municipios confinados en la Comunidad Valenciana: Sigue en directo la última hora sobre las tormentas y las fuertes lluvias en la Comunidad Valenciana, Cataluña, Baleares y el resto de España por la dana Adam hoy; Rescates en canoas y tablas de paddle surf: «Los vecinos ayudan a los que viven en plantas bajas»: Helicópteros de la Guardia Civil y drones de la Policía Nacional peinan las zonas arrasadas por la dana Adam en Valencia y Alicante; Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España: El magistrado asegura que no comparte las razones con las que Conde-Pumpido ha borrado la malversación y le reprocha la «falta de mesura» en sus calificativos hacia el Supremo. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-19T13:01:42Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Las pruebas de Adamuz siguen guardadas en un cajón sin analizar nueve meses después",
-      "subtitle": "Las víctimas denuncian que Óscar Puente no ha cumplido ninguno de los once puntos de un escrito que le transmitieron hace meses. Sigue sin reunirse con las familias de los afectados",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/pruebas-adamuz-siguen-guardadas-cajon-analizar-nueve-20261018012805-nts.html",
-      "scraped_at": "2026-10-18T10:57:54Z"
+      "title": "El temporal deja ya cuatro muertos y 145 municipios confinados en la Comunidad Valenciana",
+      "subtitle": "Sigue en directo la última hora sobre las tormentas y las fuertes lluvias en la Comunidad Valenciana, Cataluña, Baleares y el resto de España por la dana Adam hoy",
+      "url": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html",
+      "scraped_at": "2026-10-19T13:01:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP se plantea sacar al Estado del capital de empresas privadas si gana las elecciones",
-      "subtitle": "Cree urgente poner fin al activismo del Gobierno en el ámbito empresarial, ve «injustificada» la presencia de SEPI en el capital de empresas que compiten en el sector privado y propone limitar la presencia pública a Defensa y sectores críticos",
-      "url": "https://www.abc.es/economia/pp-pone-punto-mira-presencia-estado-empresas-20261018012739-nt.html",
-      "scraped_at": "2026-10-18T10:57:54Z"
+      "title": "Rescates en canoas y tablas de paddle surf: «Los vecinos ayudan a los que viven en plantas bajas»",
+      "subtitle": "Helicópteros de la Guardia Civil y drones de la Policía Nacional peinan las zonas arrasadas por la dana Adam en Valencia y Alicante",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/rescates-canoas-tablas-paddle-surf-vecinos-ayudado-20261019132110-nt.html",
+      "scraped_at": "2026-10-19T13:01:41Z"
     },
     {
       "source": "ABC.es",
-      "title": "Ceuta, retrato de una ciudad herida",
-      "subtitle": "Los ceutíes manifiestan su incredulidad ante la falta de respuesta del país al que pertenecen, viven con temor el día a día, exigen una frontera con garantías y coinciden en la necesidad de devolver a Marruecos a quienes cruzaron de forma ilegal",
-      "url": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
-      "scraped_at": "2026-10-18T10:57:54Z"
+      "title": "Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
+      "subtitle": "El magistrado asegura que no comparte las razones con las que Conde-Pumpido ha borrado la malversación y le reprocha la «falta de mesura» en sus calificativos hacia el Supremo",
+      "url": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
+      "scraped_at": "2026-10-19T13:01:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo encarga a Albiol una ley antiokupación y pone el foco en Cataluña para «impulsar» el cambio de Gobierno",
-      "subtitle": "«En 2023, nos faltaron cuatro escaños para gobernar y dos de ellos estaban aquí, en Lérida y en Gerona», advierte el presidente del PP",
-      "url": "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html",
-      "scraped_at": "2026-10-18T10:57:55Z"
+      "title": "La jueza que investiga la invasión de Ceuta pide más información a Defensa y cita a tres consejeros",
+      "subtitle": "Solicita una cuantificación del daño económico que provocó la entrada masiva y la afectación a servicios públicos",
+      "url": "https://www.abc.es/espana/jueza-investiga-invasion-ceuta-cita-tres-consejeros-20261019133847-nt.html",
+      "scraped_at": "2026-10-19T13:01:42Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sergio Soto, experto en energía: «Los hogares con calefacción de gas deben revisar su contrato antes de los meses de más consumo»",
-      "subtitle": "La tarifa regulada del gas permite ahorrar un 19% frente al mercado libre a pesar del incremento medio fijado para el último trimestre del año",
-      "url": "https://www.cope.es/actualidad/economia/noticias/sergio-soto-experto-energia-hogares-calefaccion-gas-deben-revisar-contrato-meses-consumo-tarifa-regulada-permite-ahorrar-19-frente-mercado-libre-20261018_3447888.html",
-      "scraped_at": "2026-10-18T10:57:55Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-10-19T13:01:42Z"
     }
   ]
 }

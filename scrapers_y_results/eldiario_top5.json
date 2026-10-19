@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Francia arde en una jornada de protestas con 1.800 detenidos: La policía lanzó gases lacrimógenos en París y el ayuntamiento de Limoges quedó “prácticamente destruido” por un incendio. En París, una persona murió tras sufrir una parada cardiorrespiratoria durante las protestas. Las autoridades achacan la violencia a la “extrema izquierda”; El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”: La coalición de 15 partidos se presenta como la principal alternativa al PSOE y resta importancia al descuelgue del partido de Montero y Belarra, que centra ahora su estrategia en poner en valor el acuerdo con Gabriel Rufián; Sánchez pone al PSOE a bailar al ritmo de Begoña Gómez para voltear la campaña: El presidente convierte a su pareja en un activo electoral como símbolo de la persecución de las derechas y logra impregar de optimismo a su partido de cara al 29N. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-18T10:57:53Z",
+  "summary": "Resumen del día en elDiario.es: Dos muertos en Oliva elevan a cuatro las víctimas por la dana Adam; Feijóo firma su “contrato con España” si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva: El PP arranca con tropiezos la precampaña hacia las elecciones del 29N; ¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle: Los nuevos datos de los ingresos declarados en el IRPF de cada sección censal en 2024 siguen pintando un mapa marcado por las brechas entre el norte y el sur, el campo y la ciudad o los barrios ricos y pobres. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-19T13:01:40Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Francia arde en una jornada de protestas con 1.800 detenidos",
-      "subtitle": "La policía lanzó gases lacrimógenos en París y el ayuntamiento de Limoges quedó “prácticamente destruido” por un incendio. En París, una persona murió tras sufrir una parada cardiorrespiratoria durante las protestas. Las autoridades achacan la violencia a la “extrema izquierda”",
-      "url": "https://www.eldiario.es/internacional/francia-arde-jornada-protestas-1-200-detenidos_1_13594798.html",
-      "scraped_at": "2026-10-18T10:57:50Z"
+      "title": "Dos muertos en Oliva elevan a cuatro las víctimas por la dana Adam",
+      "subtitle": "",
+      "url": "https://www.eldiario.es/sociedad/ultima-hora-temporal-alertas-inundacion-despliegue-ume-clases-suspendidas_133_13595902.html",
+      "scraped_at": "2026-10-19T13:01:38Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
-      "subtitle": "La coalición de 15 partidos se presenta como la principal alternativa al PSOE y resta importancia al descuelgue del partido de Montero y Belarra, que centra ahora su estrategia en poner en valor el acuerdo con Gabriel Rufián",
-      "url": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
-      "scraped_at": "2026-10-18T10:57:51Z"
+      "title": "Feijóo firma su “contrato con España” si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva",
+      "subtitle": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
+      "url": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
+      "scraped_at": "2026-10-19T13:01:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez pone al PSOE a bailar al ritmo de Begoña Gómez para voltear la campaña",
-      "subtitle": "El presidente convierte a su pareja en un activo electoral como símbolo de la persecución de las derechas y logra impregar de optimismo a su partido de cara al 29N",
-      "url": "https://www.eldiario.es/politica/sanchez-pone-psoe-bailar-ritmo-begona-gomez-voltear-campana_1_13594220.html",
-      "scraped_at": "2026-10-18T10:57:51Z"
+      "title": "¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle",
+      "subtitle": "Los nuevos datos de los ingresos declarados en el IRPF de cada sección censal en 2024 siguen pintando un mapa marcado por las brechas entre el norte y el sur, el campo y la ciudad o los barrios ricos y pobres",
+      "url": "https://www.eldiario.es/economia/ganan-vecinos-nuevo-mapa-renta-espana-calle-calle_1_13592191.html",
+      "scraped_at": "2026-10-19T13:01:39Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP arranca con tropiezos la precampaña hacia las elecciones",
-      "subtitle": "Feijóo arrancó la semana planteando que si gobierna pedirá \"sacrificios\" y se enredó luego con la revalorización de las pensiones, mientras alienta las conspiraciones sobre el voto por correo",
-      "url": "https://www.eldiario.es/politica/pp-arranca-tropiezos-precampana-elecciones-29n_1_13592479.html",
-      "scraped_at": "2026-10-18T10:57:52Z"
+      "title": "Pedro Sánchez suspende un acto en Toledo después de que Ferraz haya tumbado a candidatos del PSOE de Page",
+      "subtitle": "No estaba previsto que acudiera el presidente castellanomanchego, su mayor crítico dentro del partido, puesto que se irá de viaje a Italia, pero su cancelación coincide con un ambiente enrarecido en la región a cuenta de la configuración de las candidaturas para el 29N",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/pedro-sanchez-suspende-acto-toledo-ferraz-haya-tumbado-candidatos-psoe-page_1_13596147.html",
+      "scraped_at": "2026-10-19T13:01:40Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Militares Ceuta",
-      "subtitle": "A través de los testimonios de tres de los migrantes agredidos y algunos vecinos ceutíes, elDiario.es reconstruye una paliza de militares en Ceuta que quedó recogida en imágenes. Uno de los heridos era menor.",
-      "url": "https://www.eldiario.es/desalambre/reconstruccion-videos-palizas-militares-migrantes-ceuta-dormiamos-despertaron-golpes_1_13594408.html",
-      "scraped_at": "2026-10-18T10:57:53Z"
+      "title": "Fiesta del Cine 2026",
+      "subtitle": "La película de Javier Calvo y Javier Ambrossi será, sin duda, la película más vista estos cuatro días de entradas a 3,50 euros. Aquí otras posibilidades que están también en salas",
+      "url": "https://www.eldiario.es/cultura/cine/peliculas-ver-fiesta-cine-ademas-bola-negra_1_13596468.html",
+      "scraped_at": "2026-10-19T13:01:40Z"
     }
   ]
 }
