@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Dos muertos en Oliva elevan a cuatro las víctimas por la dana Adam; Feijóo firma su “contrato con España” si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva: El PP arranca con tropiezos la precampaña hacia las elecciones del 29N; ¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle: Los nuevos datos de los ingresos declarados en el IRPF de cada sección censal en 2024 siguen pintando un mapa marcado por las brechas entre el norte y el sur, el campo y la ciudad o los barrios ricos y pobres. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-19T13:01:40Z",
+  "summary": "Resumen del día en elDiario.es: Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional: El líder del PP plantea que Abascal se retire de varias provincias a cambio de entregarle senadores por designación autonómica, como ya han hecho con UPN y Foro Asturias; El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes: Las pensiones por orfandad por asesinatos machistas aumentarán su mínimo \"al doble del salario mínimo\", así como unas bajas especiales con más protección para algunas bajas derivadas de la menopausia; Mónica García renuncia a ir en las listas del Frente Amplio y Tesh Sidi será la número dos: Según ha comunicado la ministra de Sanidad en declaraciones al diario El País, ha tomado la decisión de renunciar a Frente Amplio tras una \"profunda reflexión\" al anteponer \"el bien común al interés personal\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-20T11:28:48Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Dos muertos en Oliva elevan a cuatro las víctimas por la dana Adam",
-      "subtitle": "",
-      "url": "https://www.eldiario.es/sociedad/ultima-hora-temporal-alertas-inundacion-despliegue-ume-clases-suspendidas_133_13595902.html",
-      "scraped_at": "2026-10-19T13:01:38Z"
+      "title": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
+      "subtitle": "El líder del PP plantea que Abascal se retire de varias provincias a cambio de entregarle senadores por designación autonómica, como ya han hecho con UPN y Foro Asturias",
+      "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
+      "scraped_at": "2026-10-20T11:28:45Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo firma su “contrato con España” si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva",
-      "subtitle": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
-      "url": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
-      "scraped_at": "2026-10-19T13:01:39Z"
+      "title": "El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes",
+      "subtitle": "Las pensiones por orfandad por asesinatos machistas aumentarán su mínimo \"al doble del salario mínimo\", así como unas bajas especiales con más protección para algunas bajas derivadas de la menopausia",
+      "url": "https://www.eldiario.es/economia/gobierno-amplia-prestaciones-padres-hijos-enfermos-victimas-violencia-genero-catastrofes_1_13599382.html",
+      "scraped_at": "2026-10-20T11:28:46Z"
     },
     {
       "source": "elDiario.es",
-      "title": "¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle",
-      "subtitle": "Los nuevos datos de los ingresos declarados en el IRPF de cada sección censal en 2024 siguen pintando un mapa marcado por las brechas entre el norte y el sur, el campo y la ciudad o los barrios ricos y pobres",
-      "url": "https://www.eldiario.es/economia/ganan-vecinos-nuevo-mapa-renta-espana-calle-calle_1_13592191.html",
-      "scraped_at": "2026-10-19T13:01:39Z"
+      "title": "Mónica García renuncia a ir en las listas del Frente Amplio y Tesh Sidi será la número dos",
+      "subtitle": "Según ha comunicado la ministra de Sanidad en declaraciones al diario El País, ha tomado la decisión de renunciar a Frente Amplio tras una \"profunda reflexión\" al anteponer \"el bien común al interés personal\"",
+      "url": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
+      "scraped_at": "2026-10-20T11:28:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Sánchez suspende un acto en Toledo después de que Ferraz haya tumbado a candidatos del PSOE de Page",
-      "subtitle": "No estaba previsto que acudiera el presidente castellanomanchego, su mayor crítico dentro del partido, puesto que se irá de viaje a Italia, pero su cancelación coincide con un ambiente enrarecido en la región a cuenta de la configuración de las candidaturas para el 29N",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/pedro-sanchez-suspende-acto-toledo-ferraz-haya-tumbado-candidatos-psoe-page_1_13596147.html",
-      "scraped_at": "2026-10-19T13:01:40Z"
+      "title": "Una imputada denuncia que la UCO del coronel Balas no es imparcial en el caso Leire: “Investigan una conducta que va contra ellos”",
+      "subtitle": "La defensa de Leticia de la Hoz expone al juez Pedraz que los agentes introdujeron en su atestado unos mensajes de WhatsApp recortados pese a conocer la manipulación y plantea que el coronel y sus subordinados no deberían participar en un caso en el que son presuntas víctimas",
+      "url": "https://www.eldiario.es/politica/imputada-denuncia-uco-balas-no-imparcial-caso-leire-investigan-conducta_1_13590472.html",
+      "scraped_at": "2026-10-20T11:28:47Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Fiesta del Cine 2026",
-      "subtitle": "La película de Javier Calvo y Javier Ambrossi será, sin duda, la película más vista estos cuatro días de entradas a 3,50 euros. Aquí otras posibilidades que están también en salas",
-      "url": "https://www.eldiario.es/cultura/cine/peliculas-ver-fiesta-cine-ademas-bola-negra_1_13596468.html",
-      "scraped_at": "2026-10-19T13:01:40Z"
+      "title": "Espinosa de los Monteros",
+      "subtitle": "El Tribunal Superior de Justicia de Madrid tumba los recursos del político y Rocío Monasterio, colaboradora en el fraude, por la multa que les impuso Hacienda al presentar una factura falsa y otros ardides desvelados por elDiario.es",
+      "url": "https://www.eldiario.es/politica/justicia-concluye-espinosa-monteros-engano-hacienda-operacion-inmobiliaria-lujo_1_13596663.html",
+      "scraped_at": "2026-10-20T11:28:48Z"
     }
   ]
 }
