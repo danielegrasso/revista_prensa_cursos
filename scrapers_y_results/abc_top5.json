@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PP propone a Vox que no se presente en todas las circunscripciones y le garantiza senadores autonómicos: Los dos partidos negocian para evitar el riesgo de que la izquierda frustre la mayoría de la derecha: hay dos posibles fórmulas, pero la «más limpia» pasa por que Vox no concurra; Mónica García renuncia a ir en la lista de Frente Amplio al Congreso tras no lograr liderarlo: La dirigente de Más Madrid anuncia ahora que se centrará en las próximas elecciones autonómicas; El Gobierno entra en campaña con una batería de mejoras para viudas y parejas con hijos: Aprueba un decreto que permite cobrar prestación tras dos años de convivencia y que amplía la incapacidad temporal para mujeres que sufren patologías asociadas a la menopausia. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-20T11:28:49Z",
+  "summary": "Resumen del día en ABC.es: El TC tumba el recurso contra la suspensión del censo de la 'ley de nietos' con un contundente 10-2: El Pleno inadmite el amparo, por prematuro, con la ruptura del bloque progresista, del que se descabalgan dos de sus 7 magistrados; Admitida una querella contra la hermana de Óscar Puente por prevaricar en la ley: La magistrada aprecia «la posible existencia» de un delito de prevaricación en contra del criterio de la Fiscalía; Vivas e Imbroda: «Marruecos quiere que dependamos de ellos cuanto más, mejor»: Los presidentes de las dos ciudades autónomas han protagonizado un nuevo Foro ABC. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-21T11:41:13Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PP propone a Vox que no se presente en todas las circunscripciones y le garantiza senadores autonómicos",
-      "subtitle": "Los dos partidos negocian para evitar el riesgo de que la izquierda frustre la mayoría de la derecha: hay dos posibles fórmulas, pero la «más limpia» pasa por que Vox no concurra",
-      "url": "https://www.abc.es/espana/negociacion-quirurgica-pp-vox-evitar-izquierda-haga-20261020012626-nt.html",
-      "scraped_at": "2026-10-20T11:28:49Z"
+      "title": "El TC tumba el recurso contra la suspensión del censo de la 'ley de nietos' con un contundente 10-2",
+      "subtitle": "El Pleno inadmite el amparo, por prematuro, con la ruptura del bloque progresista, del que se descabalgan dos de sus 7 magistrados",
+      "url": "https://www.abc.es/espana/tc-tumba-recurso-defensor-pueblo-suspension-censo-20261021130552-nt.html",
+      "scraped_at": "2026-10-21T11:41:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Mónica García renuncia a ir en la lista de Frente Amplio al Congreso tras no lograr liderarlo",
-      "subtitle": "La dirigente de Más Madrid anuncia ahora que se centrará en las próximas elecciones autonómicas",
-      "url": "https://www.abc.es/espana/monica-garcia-renuncia-incorporarse-lista-frente-amplio-20261020082905-nt.html",
-      "scraped_at": "2026-10-20T11:28:49Z"
+      "title": "Admitida una querella contra la hermana de Óscar Puente por prevaricar en la ley",
+      "subtitle": "La magistrada aprecia «la posible existencia» de un delito de prevaricación en contra del criterio de la Fiscalía",
+      "url": "https://www.abc.es/espana/juzgado-madrid-admite-querella-sofia-puente-prevaricar-20261021124142-nt.html",
+      "scraped_at": "2026-10-21T11:41:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno entra en campaña con una batería de mejoras para viudas y parejas con hijos",
-      "subtitle": "Aprueba un decreto que permite cobrar prestación tras dos años de convivencia y que amplía la incapacidad temporal para mujeres que sufren patologías asociadas a la menopausia",
-      "url": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
-      "scraped_at": "2026-10-20T11:28:49Z"
+      "title": "Vivas e Imbroda: «Marruecos quiere que dependamos de ellos cuanto más, mejor»",
+      "subtitle": "Los presidentes de las dos ciudades autónomas han protagonizado un nuevo Foro ABC",
+      "url": "https://www.abc.es/espana/vivas-imbroda-foro-abc-marruecos-quiere-dependamos-20261021112413-nt.html",
+      "scraped_at": "2026-10-21T11:41:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los privilegios de Puigdemont a su vuelta: 70.385 euros, chófer, escolta y tres asesores",
-      "subtitle": "El retorno del prófugo, ya amnistiado, le permitirá recuperar las prebendas que tienen los expresidentes de la Generalitat y que están regladas en el Estatut",
-      "url": "https://www.abc.es/espana/11730867-sueldo-chofer-escolta-despacho-tres-asesores-20261027012912-nt.html",
-      "scraped_at": "2026-10-20T11:28:49Z"
+      "title": "El presidente de Ceuta: «Marruecos quiso minar la moral de los ceutíes. Tenía un móvil claro»",
+      "subtitle": "Reivindica la españolidad de la ciudad autónoma y apunta a Rabat como principal instigador de la invasión del pasado verano",
+      "url": "https://www.abc.es/espana/vivas-foro-abc-marruecos-quiso-minar-moral-20261021111223-nt.html",
+      "scraped_at": "2026-10-21T11:41:12Z"
     },
     {
       "source": "ABC.es",
-      "title": "Internacional",
-      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
-      "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-10-20T11:28:49Z"
+      "title": "Iñaki Barredo, abogado: «Los testamentos ya no se hacen para los hijos»",
+      "subtitle": "Con Carlos Herrera, Jorge Bustos y Alberto Herrera",
+      "url": "https://www.cope.es/actualidad/economia/noticias/inaki-barredo-abogado-testamentos-no-hijos-proteger-pareja-hijos-exigir-parte-ley-protege-heredero-no-viudo-20261021_3459648.html",
+      "scraped_at": "2026-10-21T11:41:13Z"
     }
   ]
 }

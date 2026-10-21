@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional: El líder del PP plantea que Abascal se retire de varias provincias a cambio de entregarle senadores por designación autonómica, como ya han hecho con UPN y Foro Asturias; El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes: Las pensiones por orfandad por asesinatos machistas aumentarán su mínimo \"al doble del salario mínimo\", así como unas bajas especiales con más protección para algunas bajas derivadas de la menopausia; Mónica García renuncia a ir en las listas del Frente Amplio y Tesh Sidi será la número dos: Según ha comunicado la ministra de Sanidad en declaraciones al diario El País, ha tomado la decisión de renunciar a Frente Amplio tras una \"profunda reflexión\" al anteponer \"el bien común al interés personal\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-20T11:28:48Z",
+  "summary": "Resumen del día en elDiario.es: El Constitucional rechaza la petición del Defensor del Pueblo de reactivar el voto de 160.000 nacionalizados: La mayoría del pleno entiende que el recurso del organismo que preside Ángel Gabilondo se ha presentado de forma prematura y deja en manos del Tribunal Supremo la resolución del pleito que mantiene suspendido el derecho a voto de más de 160.000 personas amparadas por la ley de nietos; Un juzgado abre una causa contra la creadora de la instrucción sobre la ley de nietos tras una denuncia de HazteOír: La magistrada obvia el criterio de la Fiscalía, que pidió la inadmisión de la querella porque otro juzgado ya descartó el carácter delictivo de una denuncia contra esa misma instrucción en 2024; La Fiscalía ve “muy probable” que la pareja de Ayuso camuflara el pago de “un favor” a un directivo de Quirón: El Ministerio Público se pronuncia a favor de que Hacienda deje por ahora la inspección a Quirón Prevención y a su matriz porque la investigación judicial por corrupción en los negocios de Alberto González Amador puede dar resultados que afecten a las cantidades que les reclame en el futuro. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-21T11:41:11Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
-      "subtitle": "El líder del PP plantea que Abascal se retire de varias provincias a cambio de entregarle senadores por designación autonómica, como ya han hecho con UPN y Foro Asturias",
-      "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
-      "scraped_at": "2026-10-20T11:28:45Z"
+      "title": "El Constitucional rechaza la petición del Defensor del Pueblo de reactivar el voto de 160.000 nacionalizados",
+      "subtitle": "La mayoría del pleno entiende que el recurso del organismo que preside Ángel Gabilondo se ha presentado de forma prematura y deja en manos del Tribunal Supremo la resolución del pleito que mantiene suspendido el derecho a voto de más de 160.000 personas amparadas por la ley de nietos",
+      "url": "https://www.eldiario.es/politica/constitucional-rechaza-peticion-defensor-pueblo-reactivar-voto-160-000-nacionalizados_1_13597189.html",
+      "scraped_at": "2026-10-21T11:41:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes",
-      "subtitle": "Las pensiones por orfandad por asesinatos machistas aumentarán su mínimo \"al doble del salario mínimo\", así como unas bajas especiales con más protección para algunas bajas derivadas de la menopausia",
-      "url": "https://www.eldiario.es/economia/gobierno-amplia-prestaciones-padres-hijos-enfermos-victimas-violencia-genero-catastrofes_1_13599382.html",
-      "scraped_at": "2026-10-20T11:28:46Z"
+      "title": "Un juzgado abre una causa contra la creadora de la instrucción sobre la ley de nietos tras una denuncia de HazteOír",
+      "subtitle": "La magistrada obvia el criterio de la Fiscalía, que pidió la inadmisión de la querella porque otro juzgado ya descartó el carácter delictivo de una denuncia contra esa misma instrucción en 2024",
+      "url": "https://www.eldiario.es/politica/juzgado-abre-causa-creadora-instruccion-ley-nietos-denuncia-hazteoir_1_13602700.html",
+      "scraped_at": "2026-10-21T11:41:09Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Mónica García renuncia a ir en las listas del Frente Amplio y Tesh Sidi será la número dos",
-      "subtitle": "Según ha comunicado la ministra de Sanidad en declaraciones al diario El País, ha tomado la decisión de renunciar a Frente Amplio tras una \"profunda reflexión\" al anteponer \"el bien común al interés personal\"",
-      "url": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
-      "scraped_at": "2026-10-20T11:28:47Z"
+      "title": "La Fiscalía ve “muy probable” que la pareja de Ayuso camuflara el pago de “un favor” a un directivo de Quirón",
+      "subtitle": "El Ministerio Público se pronuncia a favor de que Hacienda deje por ahora la inspección a Quirón Prevención y a su matriz porque la investigación judicial por corrupción en los negocios de Alberto González Amador puede dar resultados que afecten a las cantidades que les reclame en el futuro",
+      "url": "https://www.eldiario.es/politica/fiscalia-ve-probable-pareja-ayuso-camuflara-pago-favor-directivo-quiron_1_13602945.html",
+      "scraped_at": "2026-10-21T11:41:10Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Una imputada denuncia que la UCO del coronel Balas no es imparcial en el caso Leire: “Investigan una conducta que va contra ellos”",
-      "subtitle": "La defensa de Leticia de la Hoz expone al juez Pedraz que los agentes introdujeron en su atestado unos mensajes de WhatsApp recortados pese a conocer la manipulación y plantea que el coronel y sus subordinados no deberían participar en un caso en el que son presuntas víctimas",
-      "url": "https://www.eldiario.es/politica/imputada-denuncia-uco-balas-no-imparcial-caso-leire-investigan-conducta_1_13590472.html",
-      "scraped_at": "2026-10-20T11:28:47Z"
+      "title": "Milei llama “impresentable dictador” a Pedro Sánchez y se declara “amigo” de Ayuso y Abascal",
+      "subtitle": "El presidente argentino ha asegurado en su primer acto en Madrid que los españoles tienen \"una deuda de honor con su propia sangre\" para \"sacar a los socialistas a patadas\"",
+      "url": "https://www.eldiario.es/politica/milei-llama-impresentable-dictador-pedro-sanchez-primer-acto-espana_1_13602219.html",
+      "scraped_at": "2026-10-21T11:41:10Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Espinosa de los Monteros",
-      "subtitle": "El Tribunal Superior de Justicia de Madrid tumba los recursos del político y Rocío Monasterio, colaboradora en el fraude, por la multa que les impuso Hacienda al presentar una factura falsa y otros ardides desvelados por elDiario.es",
-      "url": "https://www.eldiario.es/politica/justicia-concluye-espinosa-monteros-engano-hacienda-operacion-inmobiliaria-lujo_1_13596663.html",
-      "scraped_at": "2026-10-20T11:28:48Z"
+      "title": "Ada Colau",
+      "subtitle": "La líder del Frente Amplio achaca la decisión a su participación en la Flotilla que el año pasado fue interceptada por el ejército de Israel mientras llevaba ayuda humanitaria a Gaza. Allí, Colau y el resto de los integrantes de la expedición fueron retenidos durante días y denunciaron insultos y agresiones",
+      "url": "https://www.eldiario.es/politica/gobierno-trump-deniega-ada-colau-entrada-puerto-rico-acto-sido-motivos-politicos_1_13597972.html",
+      "scraped_at": "2026-10-21T11:41:11Z"
     }
   ]
 }
