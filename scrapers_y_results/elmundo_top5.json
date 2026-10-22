@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Delcy Rodríguez facilitó al pagador de Zapatero un 'pelotazo' en las Islas Vírgenes con oro venezolano: Julio Martínez declaró al juez que llegó al contrato con el banco estatal Bandes por su \"conocimiento\" de la actual presidenta venezolana, pero aseguró que quedó en un plan; Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\": El presidente argentino insulta al mandatario español en su séptima visita a España; Trump deniega la entrada a  Ada Colau en Puerto Rico tras su participación en la flotilla  a Gaza: Estados Unidos justifica que la candidata del Frente Amplio \"quiere migrar ilegalmente\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-21T11:41:07Z",
+  "summary": "Resumen del día en El Mundo: Registran dos naves de una ONG en Ceuta acusada de repartir espray pimienta a los inmigrantes e incitarlos \"a atacar a las fuerzas de seguridad\": A principios de la crisis se apuntó a la ONG No Name Kitchen, que trabaja sobre el terreno, como responsable del suministro de botes de espray y de llamadas a atacar a policías y guardias civiles. La operación indaga en esas informaciones; Dos instituciones dañadas por dos ex ministros del PSOE en el intento de salvar la 'ley de nietos': El Defensor del Pueblo, Ángel Gabilondo, ha presentado un insólito recurso de amparo y el magistrado del Tribunal Constitucional Juan Carlos Campo ha votado a favor de admitirlo; \"Dios me protege\": un monasterio bajo los drones rusos en la ciudad que Putin jamás conquistó: Según el Kremlin, este lugar ya está en sus manos, pero jamás consiguieron ocuparlo. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-22T11:43:42Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Delcy Rodríguez facilitó al pagador de Zapatero un 'pelotazo' en las Islas Vírgenes con oro venezolano",
-      "subtitle": "Julio Martínez declaró al juez que llegó al contrato con el banco estatal Bandes por su \"conocimiento\" de la actual presidenta venezolana, pero aseguró que quedó en un plan",
-      "url": "https://www.elmundo.es/espana/2026/10/20/6ad79ed2e9cf4a971a8b45ba.html",
-      "scraped_at": "2026-10-21T11:41:07Z"
+      "title": "Registran dos naves de una ONG en Ceuta acusada de repartir espray pimienta a los inmigrantes e incitarlos \"a atacar a las fuerzas de seguridad\"",
+      "subtitle": "A principios de la crisis se apuntó a la ONG No Name Kitchen, que trabaja sobre el terreno, como responsable del suministro de botes de espray y de llamadas a atacar a policías y guardias civiles. La operación indaga en esas informaciones",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ad9ec33fc6c83d4428b45a7.html",
+      "scraped_at": "2026-10-22T11:43:42Z"
     },
     {
       "source": "El Mundo",
-      "title": "Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\"",
-      "subtitle": "El presidente argentino insulta al mandatario español en su séptima visita a España",
-      "url": "https://www.elmundo.es/espana/2026/10/21/6ad87b4621efa0ed378b4574.html",
-      "scraped_at": "2026-10-21T11:41:07Z"
+      "title": "Dos instituciones dañadas por dos ex ministros del PSOE en el intento de salvar la 'ley de nietos'",
+      "subtitle": "El Defensor del Pueblo, Ángel Gabilondo, ha presentado un insólito recurso de amparo y el magistrado del Tribunal Constitucional Juan Carlos Campo ha votado a favor de admitirlo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad8fea2e85ece4a468b457a.html",
+      "scraped_at": "2026-10-22T11:43:42Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump deniega la entrada a  Ada Colau en Puerto Rico tras su participación en la flotilla  a Gaza",
-      "subtitle": "Estados Unidos justifica que la candidata del Frente Amplio \"quiere migrar ilegalmente\"",
-      "url": "https://www.elmundo.es/espana/2026/10/21/6ad862f3e85ece9f368b4584.html",
-      "scraped_at": "2026-10-21T11:41:07Z"
+      "title": "\"Dios me protege\": un monasterio bajo los drones rusos en la ciudad que Putin jamás conquistó",
+      "subtitle": "Según el Kremlin, este lugar ya está en sus manos, pero jamás consiguieron ocuparlo",
+      "url": "https://www.elmundo.es/internacional/2026/10/21/6ad8ac00e85ece8e5d8b45a0.html",
+      "scraped_at": "2026-10-22T11:43:42Z"
     },
     {
       "source": "El Mundo",
-      "title": "Las seis víctimas que deja la dana Adam: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil",
-      "subtitle": "La borrasca afectó a las provincias de Valencia, Alicante, Barcelona, Málaga, Almería y Baleares",
-      "url": "https://www.elmundo.es/espana/2026/10/20/6ad7b3dffdddff6a428b45b5.html",
-      "scraped_at": "2026-10-21T11:41:07Z"
+      "title": "Así es PHP2Shell, el fallo que amenaza a siete de cada diez webs",
+      "subtitle": "Dos vulnerabilidades en la forma en que PHP gestiona la memoria permiten ejecutar código en un servidor con una simple petición y sin credenciales. El proyecto publicó este miércoles los parches de urgencia, pero advierte de que ninguna configuración protege por completo",
+      "url": "https://www.elmundo.es/economia/2026/10/21/6ad92780fc6c83a57e8b45a4.html",
+      "scraped_at": "2026-10-22T11:43:42Z"
     },
     {
       "source": "El Mundo",
-      "title": "Trump Ada Colau",
-      "subtitle": "La Guardia Civil investiga al menos otros cuatro robos en viviendas de Nigrán, donde reside el centrocampista, registrados desde finales de septiembre",
-      "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/21/6ad86c5bfc6c83592b8b456e.html",
-      "scraped_at": "2026-10-21T11:41:07Z"
+      "title": "Censo electoral",
+      "subtitle": "El viernes comienza el envío electoral a los nacionalizados por la 'ley de nietos', sin que se haya identificado a la gran mayoría de los afectados",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ad8f815e85ece97028b45a4.html",
+      "scraped_at": "2026-10-22T11:43:42Z"
     }
   ]
 }
