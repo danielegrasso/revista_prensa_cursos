@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Feijóo apuesta por el 'efecto Cayetana' para ser su número dos por Madrid con Sémper como tres: La diputada se ha consolidado esta legislatura en el Congreso, atrae voto y cuenta con el visto bueno del PP madrileño; Los 172 diputados que votaron a favor de los decretos suman 242 viviendas: El 40 por ciento de los parlamentarios de PSOE, Sumar, ERC, EH Bildu, PNV, Podemos, Compromís, BNG y Coalición Canaria tienen más de una propiedad; Italia y España levantan los controles de fronteras impuestos tras la crisis de Ceuta: El ministerio de Interior ha tomado la decisión «tras un minucioso análisis de la situación» y después de una conversación entre Fernando Grande-Marlaska y su homólogo Matteo Piantedosi. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-22T11:43:48Z",
+  "summary": "Resumen del día en ABC.es: El Supremo da cinco días a Bolaños y Albares para que identifiquen a los 163.000 'nietos' bajo amenaza de sanción o responsabilidad penal: En caso de desobediencia, el asunto se remitiría a la Sala de lo Penal; La Fiscalía pide que Óscar López sea juzgado por la justicia ordinaria: El escrito, al que ha tenido acceso ABC, rechaza que el ministro sea juzgado por el Supremo porque sus manifestaciones se produjeron en un acto como líder del PSOE, y no le ampara el aforamiento; Los policías critican la pasividad de los delegados del Gobierno con los radicales ante el 29N: Los servicios de información detectan actividad de ultras violentos para reventar la campaña electoral. Hay varios colectivos que buscan ganar visibilidad reventando actos políticos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-23T11:31:39Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Feijóo apuesta por el 'efecto Cayetana' para ser su número dos por Madrid con Sémper como tres",
-      "subtitle": "La diputada se ha consolidado esta legislatura en el Congreso, atrae voto y cuenta con el visto bueno del PP madrileño",
-      "url": "https://www.abc.es/espana/feijoo-elige-alvarez-toledo-numero-dos-lista-20261022090434-nt.html",
-      "scraped_at": "2026-10-22T11:43:47Z"
+      "title": "El Supremo da cinco días a Bolaños y Albares para que identifiquen a los 163.000 'nietos' bajo amenaza de sanción o responsabilidad penal",
+      "subtitle": "En caso de desobediencia, el asunto se remitiría a la Sala de lo Penal",
+      "url": "https://www.abc.es/espana/supremo-dias-bolanos-albares-identifiquen-163000-nietos-20261023123605-nt.html",
+      "scraped_at": "2026-10-23T11:31:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Los 172 diputados que votaron a favor de los decretos suman 242 viviendas",
-      "subtitle": "El 40 por ciento de los parlamentarios de PSOE, Sumar, ERC, EH Bildu, PNV, Podemos, Compromís, BNG y Coalición Canaria tienen más de una propiedad",
-      "url": "https://www.abc.es/espana/172-diputados-votaron-favor-decretos-suman-242-20261022013145-nt.html",
-      "scraped_at": "2026-10-22T11:43:47Z"
+      "title": "La Fiscalía pide que Óscar López sea juzgado por la justicia ordinaria",
+      "subtitle": "El escrito, al que ha tenido acceso ABC, rechaza que el ministro sea juzgado por el Supremo porque sus manifestaciones se produjeron en un acto como líder del PSOE, y no le ampara el aforamiento",
+      "url": "https://www.abc.es/espana/fiscalia-pide-oscar-lopez-juzgado-justicia-ordinaria-20261022214538-nt.html",
+      "scraped_at": "2026-10-23T11:31:38Z"
     },
     {
       "source": "ABC.es",
-      "title": "Italia y España levantan los controles de fronteras impuestos tras la crisis de Ceuta",
-      "subtitle": "El ministerio de Interior ha tomado la decisión «tras un minucioso análisis de la situación» y después de una conversación entre Fernando Grande-Marlaska y su homólogo Matteo Piantedosi",
-      "url": "https://www.abc.es/espana/italia-espana-levantan-controles-fronteras-impuestos-tras-20261022102612-nt.html",
-      "scraped_at": "2026-10-22T11:43:48Z"
+      "title": "Los policías critican la pasividad de los delegados del Gobierno con los radicales ante el 29N",
+      "subtitle": "Los servicios de información detectan actividad de ultras violentos para reventar la campaña electoral. Hay varios colectivos que buscan ganar visibilidad reventando actos políticos",
+      "url": "https://www.abc.es/espana/servicios-informacion-detectan-movimientos-grupos-radicales-reventar-20261023024929-nt.html",
+      "scraped_at": "2026-10-23T11:31:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "'La democracia que sueño', por María Corina Machado",
-      "subtitle": "La líder opositora venezolana -que aún no ha podido regresar a su país- urge a defender el sistema liberal frente a las tiranías en este artículo para ABC Cultural, en el que reinvidica «el coraje de ser libres»",
-      "url": "https://www.abc.es/cultura/cultural/maria-corina-machado-libertad-garantizada-dispuestos-luchar-20261022130555-nt.html",
-      "scraped_at": "2026-10-22T11:43:48Z"
+      "title": "Feijóo mantiene viva la posibilidad de pactos con Vox en el Senado y anuncia que no habrá un ministerio solo para Igualdad",
+      "subtitle": "Ha defendido que sus acuerdos serán «totalmente transparentes» y que «su primer objetivo» es que haya un cambio de gobierno en España",
+      "url": "https://www.abc.es/espana/feijoo-mantiene-viva-posibilidad-pactos-vox-senado-20261023092445-nt.html",
+      "scraped_at": "2026-10-23T11:31:39Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-10-22T11:43:48Z"
+      "scraped_at": "2026-10-23T11:31:39Z"
     }
   ]
 }

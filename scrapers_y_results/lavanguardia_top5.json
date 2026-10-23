@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El malestar europeo deja supermercados vacíos en Italia y pone en jaque a Meloni: Las protestas contra el precio del gasóleo provocan problemas de abastecimiento de alimentos y combustible, que afectan incluso a varios aeropuertos del sur de Italia; Francia contempla suspender Tik Tok para evitar nuevos alborotos: El ministro del Interior admite la posibilidad de suspender algunas redes sociales como Tik Tok para evitar alborotos; El PP crea con IA vídeos falsos de socialistas admitiendo delitos: El Partido Popular contraataca la campaña de los zurdos de Sánchez con un vídeo similar en el que personas simuladas del entorno del Gobierno admiten, en algunos casos, delitos por los que han sido juzgados, se les juzgará o por los que se les investiga. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-22T11:43:50Z",
+  "summary": "Resumen del día en La Vanguardia: El Tribunal Supremo reclama los nombres de los 163.000 afectados por la ley de nietos: La Sala de lo Contencioso advierte a los ministros Félix Bolaños y José Manuel Albares que si no los entregan en cinco días pueden incurrir en responsabilidades penales; Feijóo prevé reducir los ministerios a quince e integrar Igualdad en otros departamentos: El líder del PP cree que es necesario que los padres tengan conocimiento de la voluntad de interrumpir el embarazo de sus hijas si tienen 16 y 17 años; Sánchez aprovechará los formatos mediáticos de gran audiencia tras su “éxito” en ‘La Revuelta’: El presidente del Gobierno emprende una campaña en medios televisivos alejados de los habituales en la política, como ya hizo en el 2023, en busca de nuevos públicos ante las elecciones del 29-N. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-23T11:31:41Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El malestar europeo deja supermercados vacíos en Italia y pone en jaque a Meloni",
-      "subtitle": "Las protestas contra el precio del gasóleo provocan problemas de abastecimiento de alimentos y combustible, que afectan incluso a varios aeropuertos del sur de Italia",
-      "url": "https://www.lavanguardia.com/internacional/20261022/11665320/protesta-camioneros-deja-supermercados-vacios-pone-jaque-meloni.html",
-      "scraped_at": "2026-10-22T11:43:49Z"
+      "title": "El Tribunal Supremo reclama los nombres de los 163.000 afectados por la ley de nietos",
+      "subtitle": "La Sala de lo Contencioso advierte a los ministros Félix Bolaños y José Manuel Albares que si no los entregan en cinco días pueden incurrir en responsabilidades penales",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666385/supremo-reclama-nombros-163-000-afectados-ley-nietos.html",
+      "scraped_at": "2026-10-23T11:31:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Francia contempla suspender Tik Tok para evitar nuevos alborotos",
-      "subtitle": "El ministro del Interior admite la posibilidad de suspender algunas redes sociales como Tik Tok para evitar alborotos",
-      "url": "https://www.lavanguardia.com/internacional/20261021/11664828/macron-irrita-trump-manipular-disturbios.html",
-      "scraped_at": "2026-10-22T11:43:49Z"
+      "title": "Feijóo prevé reducir los ministerios a quince e integrar Igualdad en otros departamentos",
+      "subtitle": "El líder del PP cree que es necesario que los padres tengan conocimiento de la voluntad de interrumpir el embarazo de sus hijas si tienen 16 y 17 años",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
+      "scraped_at": "2026-10-23T11:31:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El PP crea con IA vídeos falsos de socialistas admitiendo delitos",
-      "subtitle": "El Partido Popular contraataca la campaña de los zurdos de Sánchez con un vídeo similar en el que personas simuladas del entorno del Gobierno admiten, en algunos casos, delitos por los que han sido juzgados, se les juzgará o por los que se les investiga",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665207/pp-ia-imagen-voz-socialistas-contraatacar-campana-zurdos.html",
-      "scraped_at": "2026-10-22T11:43:49Z"
+      "title": "Sánchez aprovechará los formatos mediáticos de gran audiencia tras su “éxito” en ‘La Revuelta’",
+      "subtitle": "El presidente del Gobierno emprende una campaña en medios televisivos alejados de los habituales en la política, como ya hizo en el 2023, en busca de nuevos públicos ante las elecciones del 29-N",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666339/sanchez-aprovechara-formatos-mediaticos-gran-audiencia-exito-revuelta.html",
+      "scraped_at": "2026-10-23T11:31:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La izquierda busca extender a alguna lista del Congreso el acuerdo del Senado",
-      "subtitle": "Emilio Delgado alude a conversaciones para “optimizar” los resultados",
-      "url": "https://www.lavanguardia.com/politica/20261022/11664883/izquierda-debate-extender-lista-congreso-acuerdo-senado.html",
-      "scraped_at": "2026-10-22T11:43:50Z"
+      "title": "Un atentado de móvil racista causa un muerto y cuatro heridos cerca de París",
+      "subtitle": "El atacante disparó ráfagas de arma automática desde un vehículo en la ciudad de Trappes, muy multiétnica, al oeste de la capital",
+      "url": "https://www.lavanguardia.com/internacional/20261023/11666365/muerto-cuatro-heridos-disparar-hombre-vehiculo-cerca-paris.html",
+      "scraped_at": "2026-10-23T11:31:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Pistas para los que vuelven",
-      "subtitle": "La gente que vuelve a su país después de haber vivido unos años en el extranjero siempre dice que lo encuentran todo igual pero diferente. A menudo son las cosas más tontas las que les sorprenden. El periodista Javier del Pino, que fue muchos años corresponsal en Estados Unidos,...",
-      "url": "https://www.lavanguardia.com/opinion/20261022/11664494/pistas-vuelven.html",
-      "scraped_at": "2026-10-22T11:43:50Z"
+      "title": "Orgullosos de estar ansiosos",
+      "subtitle": "Sabemos que la ansiedad es un síntoma transversal a casi todos nuestros malestares psíquicos. Nos dicen que fuimos diseñados para la hipervigilancia, o sea, para estar permanentemente alerta con el fin de huir de los animales que estaban por encima de nosotros en la cadena...",
+      "url": "https://www.lavanguardia.com/opinion/20261023/11665276/orgullosos-ansiosos.html",
+      "scraped_at": "2026-10-23T11:31:41Z"
     }
   ]
 }
