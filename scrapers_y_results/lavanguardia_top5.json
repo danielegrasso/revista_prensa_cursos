@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Al menos 128 detenidos, más de la mitad de ellos menores, tras los graves disturbios en Barcelona: Entre 500 y 600 jóvenes convocados por redes sociales provocaron destrozos, incendiaron contenedores y asaltaron comercios en el centro de la ciudad, emulando el movimiento juvenil en Francia; Quiénes eran y cómo se organizaron los alborotadores: La convocatoria se difundió en TikTok y se canalizó a través de grupos de Telegram y WhatsApp; Toldos quemados, cristales rotos y tiendas desvalijadas, Barcelona amanece tras el caos: Los jóvenes saqueadores del centro de Barcelona buscaban sobre todo material de informática, gafas de alta gama y bambas y demás productos deportivos de marca, aunque muchos comercios ya les estaban esperando. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-25T11:17:54Z",
+  "summary": "Resumen del día en La Vanguardia: Victoria histórica de Lula en Brasil: El veterano líder de la izquierda se impone por cuatro puntos al candidato de extrema derecha Flávio Bolsonaro; Bolsonaro no reconoce su derrota ante Lula y pide anular las elecciones: El candidato derrotado acusa a la Corte Suprema de cambiar las reglas en plena votación; Sorpresiva victoria de Lula: En la segunda vuelta se invirtieron las predicciones y, contra todo pronóstico, Lula fue reelegido una vez más. Solo una pequeña empresa encuestadora, Vox Brasil, acertó en ambas ocasiones. Tras la victoria del candidato del Partido de los Trabajadores (PT) los adjetivos.... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-26T12:51:41Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Al menos 128 detenidos, más de la mitad de ellos menores, tras los graves disturbios en Barcelona",
-      "subtitle": "Entre 500 y 600 jóvenes convocados por redes sociales provocaron destrozos, incendiaron contenedores y asaltaron comercios en el centro de la ciudad, emulando el movimiento juvenil en Francia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
-      "scraped_at": "2026-10-25T11:17:53Z"
+      "title": "Victoria histórica de Lula en Brasil",
+      "subtitle": "El veterano líder de la izquierda se impone por cuatro puntos al candidato de extrema derecha Flávio Bolsonaro",
+      "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+      "scraped_at": "2026-10-26T12:51:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Quiénes eran y cómo se organizaron los alborotadores",
-      "subtitle": "La convocatoria se difundió en TikTok y se canalizó a través de grupos de Telegram y WhatsApp",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html",
-      "scraped_at": "2026-10-25T11:17:53Z"
+      "title": "Bolsonaro no reconoce su derrota ante Lula y pide anular las elecciones",
+      "subtitle": "El candidato derrotado acusa a la Corte Suprema de cambiar las reglas en plena votación",
+      "url": "https://www.lavanguardia.com/internacional/20261026/11668002/bolsonaro-reconoce-derrota-lula-pide-anular-elecciones.html",
+      "scraped_at": "2026-10-26T12:51:40Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Toldos quemados, cristales rotos y tiendas desvalijadas, Barcelona amanece tras el caos",
-      "subtitle": "Los jóvenes saqueadores del centro de Barcelona buscaban sobre todo material de informática, gafas de alta gama y bambas y demás productos deportivos de marca, aunque muchos comercios ya les estaban esperando",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667605/olman-empezamos-proteger-tiendas-7-manana-habia-disturbios.html",
-      "scraped_at": "2026-10-25T11:17:53Z"
+      "title": "Sorpresiva victoria de Lula",
+      "subtitle": "En la segunda vuelta se invirtieron las predicciones y, contra todo pronóstico, Lula fue reelegido una vez más. Solo una pequeña empresa encuestadora, Vox Brasil, acertó en ambas ocasiones. Tras la victoria del candidato del Partido de los Trabajadores (PT) los adjetivos...",
+      "url": "https://www.lavanguardia.com/internacional/20261026/11668083/sorpresiva-victoria-lula.html",
+      "scraped_at": "2026-10-26T12:51:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Gremi de Restauració atribuye los disturbios a una evaluación incorrecta y a la falta de policía",
-      "subtitle": "El Gremi lamenta que ninguna administración se pusiera en contacto con ellos “para alertar sobre la convocatoria”",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667609/gremi-restauracio-atribuye-disturbios-evaluacion-incorrecta-riesgo-falta-policia.html",
-      "scraped_at": "2026-10-25T11:17:54Z"
+      "title": "Lula creó un ejército de diez millones de fieles en redes para ganar",
+      "subtitle": "El líder izquierdista brasileño frena la ola ultraconservadora que barre América Latina gracias a una capacidad extraordinaria de movilización y a una campaña para revertir su inferioridad en los algoritmos",
+      "url": "https://www.lavanguardia.com/internacional/20261026/11668190/lula-creo-ejercito-diez-millones-fieles-redes-sociales-dar-vuelco-elecciones.html",
+      "scraped_at": "2026-10-26T12:51:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La ultraderecha israelí encuentra su caladero en la Cisjordania ocupada",
-      "subtitle": "Los partidos extremistas crecen entre los jóvenes en pleno auge de la violencia colona",
-      "url": "https://www.lavanguardia.com/internacional/20261025/11667269/ultraderecha-israeli-encuentra-caladero-cisjordania-ocupada.html",
-      "scraped_at": "2026-10-25T11:17:54Z"
+      "title": "Los comercios del centro de Barcelona intentan recuperar la normalidad tras los altercados",
+      "subtitle": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668184/comercios-centro-barcelona-intentan-recuperar-normalidad-altercados-sabado.html",
+      "scraped_at": "2026-10-26T12:51:41Z"
     }
   ]
 }

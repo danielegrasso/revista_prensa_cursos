@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Sánchez salió del programa de Broncano como líder único de la izquierda: Sánchez ha sido el presidente más divisivo: el 'Guernica' llegó en 1981 y era desde entonces un símbolo de la reconciliación entre los españoles. La concertación en el Senado deja atrás el 78. Todos los malestares convergen en el carácter constituyente del 29-N; La violencia política desborda el blindaje de seguridad: Más de 400.000 manifestantes desafían las prohibiciones y las cargas policiales durante otra jornada de movilizaciones en el país galo; Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta: El presidente de la ciudad autónoma asiste a la protesta en la que pedirán refuerzo fronterizo o garantizar la seguridad de las ceutís y mujeres migrantes. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-25T11:17:47Z",
+  "summary": "Resumen del día en El Mundo: Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños: El PP pierde ocho diputados en una semana, mientras PSOE y Frente Amplio movilizan a su electorado y se anotan tres asientos cada uno, con aún muchos indecisos; Lula logra una victoria inédita en Brasil y derrota al bolsonarismo: La decisión de la justicia de alargar la jornada electoral desata la polémica; El gran cambio de Mourinho en la resurrección del Madrid: \"A los de arriba también les gusta esta mezcla\": La derrota en el Metropolitano provocó varias modificaciones del portugués, que suma cinco victorias seguidas. \"He aprendido que en el medio combinar talentos nos da más que dos jugadores parecidos\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-26T12:51:33Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Sánchez salió del programa de Broncano como líder único de la izquierda",
-      "subtitle": "Sánchez ha sido el presidente más divisivo: el 'Guernica' llegó en 1981 y era desde entonces un símbolo de la reconciliación entre los españoles. La concertación en el Senado deja atrás el 78. Todos los malestares convergen en el carácter constituyente del 29-N",
-      "url": "https://www.elmundo.es/opinion/columnistas/2026/10/24/6adcd0c9fdddff9e7d8b4597.html",
-      "scraped_at": "2026-10-25T11:17:46Z"
+      "title": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
+      "subtitle": "El PP pierde ocho diputados en una semana, mientras PSOE y Frente Amplio movilizan a su electorado y se anotan tres asientos cada uno, con aún muchos indecisos",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
+      "scraped_at": "2026-10-26T12:51:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "La violencia política desborda el blindaje de seguridad",
-      "subtitle": "Más de 400.000 manifestantes desafían las prohibiciones y las cargas policiales durante otra jornada de movilizaciones en el país galo",
-      "url": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
-      "scraped_at": "2026-10-25T11:17:46Z"
+      "title": "Lula logra una victoria inédita en Brasil y derrota al bolsonarismo",
+      "subtitle": "La decisión de la justicia de alargar la jornada electoral desata la polémica",
+      "url": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html",
+      "scraped_at": "2026-10-26T12:51:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta",
-      "subtitle": "El presidente de la ciudad autónoma asiste a la protesta en la que pedirán refuerzo fronterizo o garantizar la seguridad de las ceutís y mujeres migrantes",
-      "url": "https://www.elmundo.es/espana/2026/10/25/6addda73fdddff48738b458f.html",
-      "scraped_at": "2026-10-25T11:17:46Z"
+      "title": "El gran cambio de Mourinho en la resurrección del Madrid: \"A los de arriba también les gusta esta mezcla\"",
+      "subtitle": "La derrota en el Metropolitano provocó varias modificaciones del portugués, que suma cinco victorias seguidas. \"He aprendido que en el medio combinar talentos nos da más que dos jugadores parecidos\"",
+      "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adea699fdddff53378b458f.html",
+      "scraped_at": "2026-10-26T12:51:32Z"
     },
     {
       "source": "El Mundo",
-      "title": "Entramos en el temible barrio de El Príncipe: \"Hay gente sacando tajada\" del asalto masivo",
-      "subtitle": "Cuando se van a cumplir tres meses del asalto a la frontera de Ceuta, 'Crónica' se adentra en una de las barriadas más peligrosas de España, donde proliferan las casas 'patera' y la explotación sexual y laboral de inmigrantes",
-      "url": "https://www.elmundo.es/cronica/2026/10/25/6add19aee9cf4a3f358b4572.html",
-      "scraped_at": "2026-10-25T11:17:46Z"
+      "title": "¿Ha pasado Flick de ser la solución a ser el problema del Barça?",
+      "subtitle": "Ganó el mejor, no el más bonito y este resumen empieza a repetirse demasiado para el colorido Barça de Hansi Flick cuando se enfrenta a equipos de su nivel. Como el curso...",
+      "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6ade8ac8e85ece3e7e8b459e.html",
+      "scraped_at": "2026-10-26T12:51:33Z"
     },
     {
       "source": "El Mundo",
-      "title": "Arancha González Laya",
-      "subtitle": "La jefa de la diplomacia española que salió en 2021 tras la crisis de Ceuta sostiene que la política con el país vecino debe ser la de \"cooperación con disuasión\" y promover un acuerdo entre todas las partes en el Sáhara.",
-      "url": "https://www.elmundo.es/espana/2026/10/23/6adb251cfdddff841c8b4574.html",
-      "scraped_at": "2026-10-25T11:17:47Z"
+      "title": "Sánchez Monteseirín",
+      "subtitle": "Estuvo 12 años al frente del consistorio, desde 1999 y hasta 2011, el regidor que más tiempo ha durado en el cargo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/26/6adf25b921efa0027e8b4577.html",
+      "scraped_at": "2026-10-26T12:51:33Z"
     }
   ]
 }
