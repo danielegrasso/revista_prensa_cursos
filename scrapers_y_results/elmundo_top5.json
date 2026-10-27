@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños: El PP pierde ocho diputados en una semana, mientras PSOE y Frente Amplio movilizan a su electorado y se anotan tres asientos cada uno, con aún muchos indecisos; Lula logra una victoria inédita en Brasil y derrota al bolsonarismo: La decisión de la justicia de alargar la jornada electoral desata la polémica; El gran cambio de Mourinho en la resurrección del Madrid: \"A los de arriba también les gusta esta mezcla\": La derrota en el Metropolitano provocó varias modificaciones del portugués, que suma cinco victorias seguidas. \"He aprendido que en el medio combinar talentos nos da más que dos jugadores parecidos\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-26T12:51:33Z",
+  "summary": "Resumen del día en El Mundo: La UCO acredita los 300.000 euros que Aldama vincula a la financiación ilegal del PSOE: Un financiero amigo de Delcy Rodríguez transfirió los fondos antes de su visita en 2020; Marsella, tomada por la violencia: \"El Black bloc no es un grupo, sino una técnica para atacar\": EL MUNDO sigue desde dentro y analiza los movimientos de quienes convierten las calles de la ciudad en un polvorín; El juez investiga a otros 18 ex altos cargos de la etapa del PSOE en la Junta por la inyección de fondos millonarios a Santana Motor \"sin control alguno\": Entre los citados por el juez en plena campaña electoral del 29-N están el ex consejero Ávila y Juan María González, sobrino de Felipe González. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-27T12:02:59Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
-      "subtitle": "El PP pierde ocho diputados en una semana, mientras PSOE y Frente Amplio movilizan a su electorado y se anotan tres asientos cada uno, con aún muchos indecisos",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
-      "scraped_at": "2026-10-26T12:51:32Z"
+      "title": "La UCO acredita los 300.000 euros que Aldama vincula a la financiación ilegal del PSOE",
+      "subtitle": "Un financiero amigo de Delcy Rodríguez transfirió los fondos antes de su visita en 2020",
+      "url": "https://www.elmundo.es/espana/2026/10/26/6ade3a9dfc6c8337488b4597.html",
+      "scraped_at": "2026-10-27T12:02:58Z"
     },
     {
       "source": "El Mundo",
-      "title": "Lula logra una victoria inédita en Brasil y derrota al bolsonarismo",
-      "subtitle": "La decisión de la justicia de alargar la jornada electoral desata la polémica",
-      "url": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html",
-      "scraped_at": "2026-10-26T12:51:32Z"
+      "title": "Marsella, tomada por la violencia: \"El Black bloc no es un grupo, sino una técnica para atacar\"",
+      "subtitle": "EL MUNDO sigue desde dentro y analiza los movimientos de quienes convierten las calles de la ciudad en un polvorín",
+      "url": "https://www.elmundo.es/internacional/2026/10/26/6adfabbee85ece8d6c8b4574.html",
+      "scraped_at": "2026-10-27T12:02:59Z"
     },
     {
       "source": "El Mundo",
-      "title": "El gran cambio de Mourinho en la resurrección del Madrid: \"A los de arriba también les gusta esta mezcla\"",
-      "subtitle": "La derrota en el Metropolitano provocó varias modificaciones del portugués, que suma cinco victorias seguidas. \"He aprendido que en el medio combinar talentos nos da más que dos jugadores parecidos\"",
-      "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adea699fdddff53378b458f.html",
-      "scraped_at": "2026-10-26T12:51:32Z"
+      "title": "El juez investiga a otros 18 ex altos cargos de la etapa del PSOE en la Junta por la inyección de fondos millonarios a Santana Motor \"sin control alguno\"",
+      "subtitle": "Entre los citados por el juez en plena campaña electoral del 29-N están el ex consejero Ávila y Juan María González, sobrino de Felipe González",
+      "url": "https://www.elmundo.es/andalucia/2026/10/27/6ae0709321efa0027e8b45a8.html",
+      "scraped_at": "2026-10-27T12:02:59Z"
     },
     {
       "source": "El Mundo",
-      "title": "¿Ha pasado Flick de ser la solución a ser el problema del Barça?",
-      "subtitle": "Ganó el mejor, no el más bonito y este resumen empieza a repetirse demasiado para el colorido Barça de Hansi Flick cuando se enfrenta a equipos de su nivel. Como el curso...",
-      "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6ade8ac8e85ece3e7e8b459e.html",
-      "scraped_at": "2026-10-26T12:51:33Z"
+      "title": "El ex delegado del Gobierno dimitió tras recibir una amenaza de demanda millonaria empresarial por \"inacción\" en Sol",
+      "subtitle": "Francisco Martín recibió el requerimiento tres días antes de renunciar, pero desvincula su marcha de este riesgo para su patrimonio",
+      "url": "https://www.elmundo.es/espana/2026/10/26/6adfa41cfc6c830c148b45a1.html",
+      "scraped_at": "2026-10-27T12:02:59Z"
     },
     {
       "source": "El Mundo",
-      "title": "Sánchez Monteseirín",
-      "subtitle": "Estuvo 12 años al frente del consistorio, desde 1999 y hasta 2011, el regidor que más tiempo ha durado en el cargo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/26/6adf25b921efa0027e8b4577.html",
-      "scraped_at": "2026-10-26T12:51:33Z"
+      "title": "Juan Vivas",
+      "subtitle": "El presidente de Ceuta regresó al programa de Pablo Motos seis semanas después de su primera visita, esta vez con acusaciones mucho más contundentes contra el Gobierno de Pedro Sánchez por una crisis que sigue sin resolverse",
+      "url": "https://www.elmundo.es/television/momentvs/2026/10/27/6ae039b9fc6c83bd1d8b4591.html",
+      "scraped_at": "2026-10-27T12:02:59Z"
     }
   ]
 }
