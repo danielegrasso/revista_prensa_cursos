@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: El Gobierno apunta a un “error humano” de un operador de Adif como causante del siniestro: Pedro Sánchez permanece en permanente contacto con el ministro de Transportes, Óscar Puente, y con el presidente de Castilla-La Mancha, Emiliano García-Page; Un pasajero que iba en el tren: “El golpe ha sido fortísimo”: Varios viajeros que han sobrevivido relatan cómo han vivido el accidente; Los partidos cancelan sus actos, salvo Vox, que ya culpa al Gobierno: PSOE, PP, Frente Amplio, Junts y ERC suspenden sus agendas al igual que el Gobierno, el Govern y la Comunidad de Madrid. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-28T12:43:39Z",
+  "summary": "Resumen del día en La Vanguardia: Sánchez garantiza que reforzará la seguridad y esclarecerá “hasta el último detalle” del siniestro: El presidente del Gobierno asegura desde Toledo que “todo el Estado está volcado” para dar una respuesta al nuevo accidente ferroviario, que ya suma 69 víctimas mortales; Maquinistas y diversos partidos lamentan la filtración de los audios del choque: PP, Vox, ERC, Podemos y Adelante Andalucía reprochan al Gobierno que se responsabilice a un solo trabajador de la tragedia; José Manuel Chacón, el rostro andaluz de la tragedia de Urda: El guardia civil sevillano, de 31 años, regresaba a Andalucía cuando se produjo el choque ferroviario en Toledo, mientras familiares de pasajeros como David Martínez Méndez siguen sin noticias de sus seres queridos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-10-29T12:53:36Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "El Gobierno apunta a un “error humano” de un operador de Adif como causante del siniestro",
-      "subtitle": "Pedro Sánchez permanece en permanente contacto con el ministro de Transportes, Óscar Puente, y con el presidente de Castilla-La Mancha, Emiliano García-Page",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670078/gobierno-apunta-error-humano-causa-siniestro-30-fallecidos.html",
-      "scraped_at": "2026-10-28T12:43:38Z"
+      "title": "Sánchez garantiza que reforzará la seguridad y esclarecerá “hasta el último detalle” del siniestro",
+      "subtitle": "El presidente del Gobierno asegura desde Toledo que “todo el Estado está volcado” para dar una respuesta al nuevo accidente ferroviario, que ya suma 69 víctimas mortales",
+      "url": "https://www.lavanguardia.com/politica/20261029/11670999/sanchez-garantiza-reforzara-seguridad-esclarecera-ultimo-detalle-siniestro.html",
+      "scraped_at": "2026-10-29T12:53:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un pasajero que iba en el tren: “El golpe ha sido fortísimo”",
-      "subtitle": "Varios viajeros que han sobrevivido relatan cómo han vivido el accidente",
-      "url": "https://www.lavanguardia.com/local/madrid/20261028/11669993/pasajero-iba-tren-golpe-sido-fortisimo.html",
-      "scraped_at": "2026-10-28T12:43:38Z"
+      "title": "Maquinistas y diversos partidos lamentan la filtración de los audios del choque",
+      "subtitle": "PP, Vox, ERC, Podemos y Adelante Andalucía reprochan al Gobierno que se responsabilice a un solo trabajador de la tragedia",
+      "url": "https://www.lavanguardia.com/politica/20261029/11671145/maquinistas-diversos-partidos-lamentan-filtracion-audios-accidente-urda.html",
+      "scraped_at": "2026-10-29T12:53:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los partidos cancelan sus actos, salvo Vox, que ya culpa al Gobierno",
-      "subtitle": "PSOE, PP, Frente Amplio, Junts y ERC suspenden sus agendas al igual que el Gobierno, el Govern y la Comunidad de Madrid",
-      "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
-      "scraped_at": "2026-10-28T12:43:38Z"
+      "title": "José Manuel Chacón, el rostro andaluz de la tragedia de Urda",
+      "subtitle": "El guardia civil sevillano, de 31 años, regresaba a Andalucía cuando se produjo el choque ferroviario en Toledo, mientras familiares de pasajeros como David Martínez Méndez siguen sin noticias de sus seres queridos",
+      "url": "https://www.lavanguardia.com/local/andalucia/20261029/11671143/jose-manuel-chacon-rostro-andaluz-tragedia-urda-familias-siguen-buscando-desaparecidos.html",
+      "scraped_at": "2026-10-29T12:53:35Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los Reyes, “conmovidos” por el accidente: Felipe VI acorta su visita a Valencia",
-      "subtitle": "El Monarca ha hablado con Pedro Sánchez y el presidente de Castilla-La Mancha, Emiliano García-Page, para conocer el alcance de la tragedia y Zarzuela cancela actos oficiales para los próximos dos días",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670071/reyes-conmovidos-preocupados-accidente-ferroviario-sorprendido-felipe-vi-valencia.html",
-      "scraped_at": "2026-10-28T12:43:38Z"
+      "title": "Feijóo señala a Puente pero evita todavía exigir su dimisión",
+      "subtitle": "El líder del PP ve “frivolidad” en las explicaciones del Gobierno y pide “responsabilidades políticas” antes de que concluya la investigación",
+      "url": "https://www.lavanguardia.com/politica/20261029/11671165/feijoo-senala-puente-evita-todavia-exigir-dimision.html",
+      "scraped_at": "2026-10-29T12:53:36Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cómo se implantó la Pediatría en España",
-      "subtitle": "Se separó de la Obstetricia a finales del siglo XIX, el primer congreso fue en 1914 y ya fue oficial en 1978",
-      "url": "https://www.lavanguardia.com/participacion/red-lectores/20261028/11669139/como-implanto-pediatria-espana.html",
-      "scraped_at": "2026-10-28T12:43:39Z"
+      "title": "Los pueblos más bonitos de Italia (según los italianos) para viajar también en otoño",
+      "subtitle": "En las 13 ediciones del concurso 'Borgo dei Borghi', organizado por RAI 3, los internautas han elegido las localidades más hermosas del país",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20261029/11669186/pueblos-mas-bonitos-italia-italianos-viajar-otono.html",
+      "scraped_at": "2026-10-29T12:53:36Z"
     }
   ]
 }

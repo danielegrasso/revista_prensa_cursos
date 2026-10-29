@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Al menos 30 muertos y 50 heridos graves en el choque de un AVE a más de 100 km/h contra un Iryo en Urda: Es el segundo siniestro mortal en lo que va de año. Un tren de Renfe ha alcanzado a otro de Iryo que estaba detenido sin que se activaran los sistemas de emergencia; El tren Iryo alertó a Adif de que estaba detenido por un fallo del sistema LZB de señalización de la vía 10 minutos antes de ser embestido: El tren del operador italiano avisó de que estaba detenido por un fallo en el sistema de señalización pero el AVE que lo embistió a más de 100 km por hora no recibió la información a tiempo, según las primeras pesquisas; La CEOE pendiente de Fátima Báñez, que viajaba en el tren y permanece desaparecida: La ex ministra de Trabajo viajaba en el vagón 1 del Iryo y se dirigía a Sevilla a un acto empresarial. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-28T12:43:30Z",
+  "summary": "Resumen del día en El Mundo: El accidente, explicado en gráficos: Un AVE de Renfe ha embestido por detrás a un tren Iryo detenido en la vía Madrid-Andalucía, a las 8:54 de este miércoles, en el punto kilométrico 118 de línea de la Alta Velocidad, en la provincia de Toledo. El choque ha provocado el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Andalucía. Las causas siguen bajo investigación.; Vida y llanto en 7,7 kilómetros: Un 'tsunami' de personas colapsa los centros de donación que ya solo reciben a 'ceros negativo'; Atención a víctimas y allegados: Renfe e Iryo activan sus protocolos de asistencia a las víctimas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-29T12:53:27Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Al menos 30 muertos y 50 heridos graves en el choque de un AVE a más de 100 km/h contra un Iryo en Urda",
-      "subtitle": "Es el segundo siniestro mortal en lo que va de año. Un tren de Renfe ha alcanzado a otro de Iryo que estaba detenido sin que se activaran los sistemas de emergencia",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
-      "scraped_at": "2026-10-28T12:43:30Z"
+      "title": "El accidente, explicado en gráficos",
+      "subtitle": "Un AVE de Renfe ha embestido por detrás a un tren Iryo detenido en la vía Madrid-Andalucía, a las 8:54 de este miércoles, en el punto kilométrico 118 de línea de la Alta Velocidad, en la provincia de Toledo. El choque ha provocado el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Andalucía. Las causas siguen bajo investigación.",
+      "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+      "scraped_at": "2026-10-29T12:53:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "El tren Iryo alertó a Adif de que estaba detenido por un fallo del sistema LZB de señalización de la vía 10 minutos antes de ser embestido",
-      "subtitle": "El tren del operador italiano avisó de que estaba detenido por un fallo en el sistema de señalización pero el AVE que lo embistió a más de 100 km por hora no recibió la información a tiempo, según las primeras pesquisas",
-      "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
-      "scraped_at": "2026-10-28T12:43:30Z"
+      "title": "Vida y llanto en 7,7 kilómetros",
+      "subtitle": "Un 'tsunami' de personas colapsa los centros de donación que ya solo reciben a 'ceros negativo'",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae21fbae4d4d84d288b458a.html",
+      "scraped_at": "2026-10-29T12:53:26Z"
     },
     {
       "source": "El Mundo",
-      "title": "La CEOE pendiente de Fátima Báñez, que viajaba en el tren y permanece desaparecida",
-      "subtitle": "La ex ministra de Trabajo viajaba en el vagón 1 del Iryo y se dirigía a Sevilla a un acto empresarial",
-      "url": "https://www.elmundo.es/economia/2026/10/28/6ae1de6bfc6c8364038b4573.html",
-      "scraped_at": "2026-10-28T12:43:30Z"
+      "title": "Atención a víctimas y allegados",
+      "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
+      "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
+      "scraped_at": "2026-10-29T12:53:27Z"
     },
     {
       "source": "El Mundo",
-      "title": "Pasajero del vagón 7 de Iryo: \"No paran de salir cadáveres, es como si hubiera sido una bomba\"",
-      "subtitle": "Hablan los supervivientes y allegados de los pasajeros del Iryo que salió de Madrid a las 7.54 camino de la ciudad hispalense. Sus testimonios son escalofriantes",
-      "url": "https://www.elmundo.es/espana/2026/10/28/6ae1c511fdddffeb558b4572.html",
-      "scraped_at": "2026-10-28T12:43:30Z"
+      "title": "Transportes certificó la seguridad",
+      "subtitle": "La Agencia Estatal de Seguridad Ferroviaria rechazó el 7 de octubre la petición de las víctimas de Adamuz de paralizar el tráfico de trenes",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+      "scraped_at": "2026-10-29T12:53:27Z"
     },
     {
       "source": "El Mundo",
-      "title": "El Hormiguero",
-      "subtitle": "Atresmedia y Mediaset modifican sus parrillas para seguir la última hora de la tragedia. Desaparecen espacios como La ruleta de la suerte, Sueños de libertad, El Intermedio o Cara al show, mientras El Objetivo y Horizonte preparan especiales informativos",
-      "url": "https://www.elmundo.es/television/2026/10/28/6ae1e5d621efa059668b459b.html",
-      "scraped_at": "2026-10-28T12:43:30Z"
+      "title": "Isabel Pardo Vera",
+      "subtitle": "Sigue sin estar terminado un contrato de modernización del sistema de control vencido el pasado enero y se desmontó la dirección general de Seguridad",
+      "url": "https://www.elmundo.es/economia/2026/10/28/6ae232e6e9cf4a51408b4584.html",
+      "scraped_at": "2026-10-29T12:53:27Z"
     }
   ]
 }
