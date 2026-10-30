@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: El accidente, explicado en gráficos: Un AVE de Renfe ha embestido por detrás a un tren Iryo detenido en la vía Madrid-Andalucía, a las 8:54 de este miércoles, en el punto kilométrico 118 de línea de la Alta Velocidad, en la provincia de Toledo. El choque ha provocado el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Andalucía. Las causas siguen bajo investigación.; Vida y llanto en 7,7 kilómetros: Un 'tsunami' de personas colapsa los centros de donación que ya solo reciben a 'ceros negativo'; Atención a víctimas y allegados: Renfe e Iryo activan sus protocolos de asistencia a las víctimas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-29T12:53:27Z",
+  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los familiares reciben la noticia de la muerte de sus seres queridos: \"Ahora nos toca volver a empezar\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-30T12:46:03Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "El accidente, explicado en gráficos",
-      "subtitle": "Un AVE de Renfe ha embestido por detrás a un tren Iryo detenido en la vía Madrid-Andalucía, a las 8:54 de este miércoles, en el punto kilométrico 118 de línea de la Alta Velocidad, en la provincia de Toledo. El choque ha provocado el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Andalucía. Las causas siguen bajo investigación.",
-      "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-      "scraped_at": "2026-10-29T12:53:26Z"
+      "title": "Los 25 km en los que nadie detuvo el tren",
+      "subtitle": "Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...",
+      "url": "https://www.elmundo.es/economia/2026/10/29/6ae337af21efa053118b459c-video.html",
+      "scraped_at": "2026-10-30T12:46:02Z"
     },
     {
       "source": "El Mundo",
-      "title": "Vida y llanto en 7,7 kilómetros",
-      "subtitle": "Un 'tsunami' de personas colapsa los centros de donación que ya solo reciben a 'ceros negativo'",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae21fbae4d4d84d288b458a.html",
-      "scraped_at": "2026-10-29T12:53:26Z"
+      "title": "El accidente, explicado en gráficos",
+      "subtitle": "Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.",
+      "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+      "scraped_at": "2026-10-30T12:46:02Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Los rostros de la tragedia",
+      "subtitle": "Los familiares reciben la noticia de la muerte de sus seres queridos: \"Ahora nos toca volver a empezar\"",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae38ac6fc6c83c75c8b45a0.html",
+      "scraped_at": "2026-10-30T12:46:03Z"
     },
     {
       "source": "El Mundo",
       "title": "Atención a víctimas y allegados",
       "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-      "scraped_at": "2026-10-29T12:53:27Z"
+      "scraped_at": "2026-10-30T12:46:03Z"
     },
     {
       "source": "El Mundo",
-      "title": "Transportes certificó la seguridad",
-      "subtitle": "La Agencia Estatal de Seguridad Ferroviaria rechazó el 7 de octubre la petición de las víctimas de Adamuz de paralizar el tráfico de trenes",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
-      "scraped_at": "2026-10-29T12:53:27Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Isabel Pardo Vera",
-      "subtitle": "Sigue sin estar terminado un contrato de modernización del sistema de control vencido el pasado enero y se desmontó la dirección general de Seguridad",
-      "url": "https://www.elmundo.es/economia/2026/10/28/6ae232e6e9cf4a51408b4584.html",
-      "scraped_at": "2026-10-29T12:53:27Z"
+      "title": "Sistema LZB",
+      "subtitle": "El gestor de las vías contrató en 2021 con un gran descuento la migración a ERTMS del 'antiguo' sistema de seguridad LZB. Pero, con los plazos de entrega vencidos un mes después del accidente de Adamuz, decidió seguir esperando",
+      "url": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
+      "scraped_at": "2026-10-30T12:46:03Z"
     }
   ]
 }

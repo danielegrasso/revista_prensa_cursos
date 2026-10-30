@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Técnicos de Adif: «Sabían que el sistema no era seguro, el LZB está obsoleto, es de 1970»: Transportes adjudicó el contrato para la renovación del sistema ERTMS en septiembre de 2021, pero dilató su ejecución durante 52 meses; El CEO de Iryo alertó hace tres semanas que el sistema LZB fallaba y dejaba sus trenes «parados»: Fabricio Favara dijo en una Comisión de Investigación del Senado que, cuando el sistema obligaba a parar los trenes, estos necesitaban «bastante tiempo» para reconectarse; Sánchez promete «esclarecer hasta el último detalle» la tragedia que suma ya 69 fallecidos: El presidente del Gobierno sitúa la respuesta del Estado en la emergencia, la investigación de las causas y el resarcimiento a las familias. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-29T12:53:34Z",
+  "summary": "Resumen del día en ABC.es: Puente echó a técnicos y llenó la cúpula de Adif de políticos: Funcionarios del gestor ferroviario denuncian que el ministro de Transportes «ha cambiado a los técnicos por comisarios políticos con carné del PSOE»; Transportes no descarta paralizar la circulación del AVE entre Madrid y Barcelona para acelerar la modernización de la línea: El ministro ha dicho que, con una decisión así, tal vez se podría reducir de cinco años a 24 meses el plazo de ejecución de la obra; Feijóo apunta al Gobierno por el accidente de Urda: «Si no dimiten ellos, les dimitiremos en las urnas»: El presidente del PP señala a Sánchez y Puente: «Quien ha faltado a su deber tiene que cargar con ello, quien lo ha nombrado y mantenido, con más motivo». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-10-30T12:46:09Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Técnicos de Adif: «Sabían que el sistema no era seguro, el LZB está obsoleto, es de 1970»",
-      "subtitle": "Transportes adjudicó el contrato para la renovación del sistema ERTMS en septiembre de 2021, pero dilató su ejecución durante 52 meses",
-      "url": "https://www.abc.es/espana/tecnicos-adif-sabian-sistema-era-seguro-lzb-20261028013205-nt.html",
-      "scraped_at": "2026-10-29T12:53:32Z"
+      "title": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
+      "subtitle": "Funcionarios del gestor ferroviario denuncian que el ministro de Transportes «ha cambiado a los técnicos por comisarios políticos con carné del PSOE»",
+      "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
+      "scraped_at": "2026-10-30T12:46:08Z"
     },
     {
       "source": "ABC.es",
-      "title": "El CEO de Iryo alertó hace tres semanas que el sistema LZB fallaba y dejaba sus trenes «parados»",
-      "subtitle": "Fabricio Favara dijo en una Comisión de Investigación del Senado que, cuando el sistema obligaba a parar los trenes, estos necesitaban «bastante tiempo» para reconectarse",
-      "url": "https://www.abc.es/economia/ceo-iryo-alerto-tres-semanas-sistema-lzb-20261029124331-nt.html",
-      "scraped_at": "2026-10-29T12:53:33Z"
+      "title": "Transportes no descarta paralizar la circulación del AVE entre Madrid y Barcelona para acelerar la modernización de la línea",
+      "subtitle": "El ministro ha dicho que, con una decisión así, tal vez se podría reducir de cinco años a 24 meses el plazo de ejecución de la obra",
+      "url": "https://www.abc.es/espana/oscar-puente-descarta-paralizar-circulacion-madrid-barcelona-20261030125157-nt.html",
+      "scraped_at": "2026-10-30T12:46:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez promete «esclarecer hasta el último detalle» la tragedia que suma ya 69 fallecidos",
-      "subtitle": "El presidente del Gobierno sitúa la respuesta del Estado en la emergencia, la investigación de las causas y el resarcimiento a las familias",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/sanchez-promete-esclarecer-ultimo-detalle-tragedia-ferroviaria-20261029111212-nt.html",
-      "scraped_at": "2026-10-29T12:53:33Z"
+      "title": "Feijóo apunta al Gobierno por el accidente de Urda: «Si no dimiten ellos, les dimitiremos en las urnas»",
+      "subtitle": "El presidente del PP señala a Sánchez y Puente: «Quien ha faltado a su deber tiene que cargar con ello, quien lo ha nombrado y mantenido, con más motivo»",
+      "url": "https://www.abc.es/espana/feijoo-apunta-gobierno-accidente-urda-dimiten-dimitiremos-20261030133340-nt.html",
+      "scraped_at": "2026-10-30T12:46:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "Feijóo, a Puente tras el accidente en Urda: «Las responsabilidades políticas no son opcionales, son exigibles»",
-      "subtitle": "El líder del PP pide a Sánchez «respuestas» tras «más de cien muertos en ocho meses» en el mismo corredor ferroviario: «O te rodeas de gente que sabe o te ocurren cosas como esta»",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html",
-      "scraped_at": "2026-10-29T12:53:33Z"
+      "title": "La tragedia en Urda pudo ser peor: otro AVE paró a sólo 500 metros del accidente",
+      "subtitle": "Los viajeros del tren 2061 reportan cómo su convoy se detuvo a menos de un kilómetro del accidente ferroviario en Toledo al encontrarse con una señal en rojo",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/tragedia-urda-pudo-peor-ave-sevillamadrid-paro-20261030123315-nts.html",
+      "scraped_at": "2026-10-30T12:46:09Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Seguridad Social enviará a partir de ahora a miles de trabajadores un SMS para informarles de una notificación en su sede electrónica",
+      "title": "El BOE confirma que el 1 de noviembre es festivo y cae en domingo: se pasará al lunes 2 en 9 comunidades",
       "subtitle": "Con Carlos Herrera, Jorge Bustos y Alberto Herrera",
-      "url": "https://www.cope.es/actualidad/economia/noticias/seguridad-social-enviara-partir-miles-trabajadores-sms-informarles-notificacion-sede-electronica-altas-bajas-no-abres-10-dias-te-dan-avisado-20261029_3456992.html",
-      "scraped_at": "2026-10-29T12:53:34Z"
+      "url": "https://www.cope.es/actualidad/economia/noticias/boe-confirma-1-noviembre-festivo-cae-domingo-pasara-lunes-2-9-comunidades-disfrutaran-puente-laboral-escolar-3-dias-20261030_3464811.html",
+      "scraped_at": "2026-10-30T12:46:09Z"
     }
   ]
 }

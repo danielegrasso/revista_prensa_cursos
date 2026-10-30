@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Malestar por el señalamiento al operario de Atocha: “Todos podemos cometer errores, pero hay fallos estructurales”: Trabajadores y sindicatos muestran su enfado con el ministro de Transportes por apuntar en las primeras horas del siniestro al error humano de un solo empleado y advierten de falta de personal; El accidente de Urda rompe la campaña y pone al Gobierno contra las cuerdas: Moncloa asegura que la gestión de Óscar Puente \"no está en cuestión\" aunque el propio ministro aplaza pronunciarse sobre su continuidad y Sánchez promete contundencia: \"No es asumible en un país como España que haya dos accidentes en la alta velocidad en menos de un año\"; Primero, las víctimas: La campaña electoral convierte en un incentivo el dramático accidente de Toledo y hay quien se salta el orden de la empatía humana. Lo primero son las víctimas, las curas, la atención a las familias. En paralelo, deben darse explicaciones exhaustivas de por qué pasó y por qué nadie frenó al AVE durante los 17 minutos hasta la embestida. Luego, hacer política. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-29T12:53:32Z",
+  "summary": "Resumen del día en elDiario.es: Puente descarta dimitir: “Lo fácil para mí es salir, pero no va con mi carácter ni es lo que me ha pedido el presidente”: El ministro asegura que tiene la confianza del presidente y que ha decidido seguir adelante a pesar de las críticas: \"Sé lo que me espera, sé el calvario al que me van a someter, encima en campaña electoral, sé los insultos, las descalificaciones y los prejuicios de culpabilidad que se me van a atribuir y ya se me están atribuyendo en los próximos días\"; Óscar Puente: “Quienes estaban en el centro de control tenían a la vista lo que estaba sucediendo”: Cifra en 170 las ocasiones que el sistema informático que falló en Urda ha caído este año, reconoce que no se sabe por qué el tren AVE circuló durante 17 minutos con el Iryo parado delante; y asume que se estudia parar el servicio en la Madrid-Barcelona en sus próximas obras; Sánchez admite una “confianza quebrada” en la alta velocidad española y reitera que los dos accidentes son “inasumibles”: El presidente del Gobierno ha comparecido junto a Emiliano García-Page tras la reunión de coordinación que ha rebajado el nivel de emergencia. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-30T12:46:08Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Malestar por el señalamiento al operario de Atocha: “Todos podemos cometer errores, pero hay fallos estructurales”",
-      "subtitle": "Trabajadores y sindicatos muestran su enfado con el ministro de Transportes por apuntar en las primeras horas del siniestro al error humano de un solo empleado y advierten de falta de personal",
-      "url": "https://www.eldiario.es/economia/malestar-senalamiento-operario-atocha-cometer-errores-hay-fallos-estructurales_1_13624144.html",
-      "scraped_at": "2026-10-29T12:53:29Z"
+      "title": "Puente descarta dimitir: “Lo fácil para mí es salir, pero no va con mi carácter ni es lo que me ha pedido el presidente”",
+      "subtitle": "El ministro asegura que tiene la confianza del presidente y que ha decidido seguir adelante a pesar de las críticas: \"Sé lo que me espera, sé el calvario al que me van a someter, encima en campaña electoral, sé los insultos, las descalificaciones y los prejuicios de culpabilidad que se me van a atribuir y ya se me están atribuyendo en los próximos días\"",
+      "url": "https://www.eldiario.es/politica/puente-descarta-dimitir-facil-salir-no-caracter-pedido-presidente_1_13627087.html",
+      "scraped_at": "2026-10-30T12:46:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El accidente de Urda rompe la campaña y pone al Gobierno contra las cuerdas",
-      "subtitle": "Moncloa asegura que la gestión de Óscar Puente \"no está en cuestión\" aunque el propio ministro aplaza pronunciarse sobre su continuidad y Sánchez promete contundencia: \"No es asumible en un país como España que haya dos accidentes en la alta velocidad en menos de un año\"",
-      "url": "https://www.eldiario.es/politica/accidente-urda-rompe-campana-pone-gobierno-nuevo-cuerdas_1_13622861.html",
-      "scraped_at": "2026-10-29T12:53:30Z"
+      "title": "Óscar Puente: “Quienes estaban en el centro de control tenían a la vista lo que estaba sucediendo”",
+      "subtitle": "Cifra en 170 las ocasiones que el sistema informático que falló en Urda ha caído este año, reconoce que no se sabe por qué el tren AVE circuló durante 17 minutos con el Iryo parado delante; y asume que se estudia parar el servicio en la Madrid-Barcelona en sus próximas obras",
+      "url": "https://www.eldiario.es/economia/oscar-puente-reconoce-estudia-parar-alta-velocidad-madrid-barcelona-proxima-renovacion_1_13626256.html",
+      "scraped_at": "2026-10-30T12:46:05Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Primero, las víctimas",
-      "subtitle": "La campaña electoral convierte en un incentivo el dramático accidente de Toledo y hay quien se salta el orden de la empatía humana. Lo primero son las víctimas, las curas, la atención a las familias. En paralelo, deben darse explicaciones exhaustivas de por qué pasó y por qué nadie frenó al AVE durante los 17 minutos hasta la embestida. Luego, hacer política",
-      "url": "https://www.eldiario.es/opinion/zona-critica/victimas_129_13622666.html",
-      "scraped_at": "2026-10-29T12:53:30Z"
+      "title": "Sánchez admite una “confianza quebrada” en la alta velocidad española y reitera que los dos accidentes son “inasumibles”",
+      "subtitle": "El presidente del Gobierno ha comparecido junto a Emiliano García-Page tras la reunión de coordinación que ha rebajado el nivel de emergencia",
+      "url": "https://www.eldiario.es/politica/sanchez-admite-confianza-quebrada-alta-velocidad-espanola-reitera-accidentes-son-inasumibles_1_13626547.html",
+      "scraped_at": "2026-10-30T12:46:06Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La avería de un Ouigo en Madrid provoca retrasos en la alta velocidad entre Valladolid y la Comunitat Valenciana",
-      "subtitle": "Según Adif, el tren ha quedado detenido en la vía I entre Valdemoro (Madrid) y Villarrubia de Santiago (Toledo) a la altura de Aranjuez. Una vez concluya el trasbordo de los pasajeros a un convoy de socorro, el gestor de infraestructuras espera que mejore la circulación",
-      "url": "https://www.eldiario.es/economia/incidencia-tren-ouigo-interrumpe-circulacion-alta-velocidad-levante_1_13624228.html",
-      "scraped_at": "2026-10-29T12:53:31Z"
+      "title": "El PP pide la dimisión de  Puente por primera vez desde el accidente de Urda: “No debería llegar al martes”",
+      "subtitle": "Ester Muñoz asegura que ante el proceso de liberalización del sector ferroviario \"no se han puesto los recursos\" necesarios por parte del Gobierno y afirma que \"en el Ministerio de Transportes han ocurrido muchas cosas y no iban encaminadas a mejorar el servicio\"",
+      "url": "https://www.eldiario.es/politica/pp-pide-dimision-oscar-puente-primera-vez-accidente-urda_1_13626233.html",
+      "scraped_at": "2026-10-30T12:46:07Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Koldo García",
-      "subtitle": "El exasesor de Ábalos denunció en el turno de última palabra que varios medios prometieron ayudarle en el proceso judicial a cambio de que engañara y mintiera contra el Gobierno. La empresa editora del medio giró dos facturas por 242.000 euros",
-      "url": "https://www.eldiario.es/politica/editora-okdiario-pago-defensa-koldo-garcia-juicio-supremo_1_13623197.html",
-      "scraped_at": "2026-10-29T12:53:32Z"
+      "title": "Begoña Gómez",
+      "subtitle": "Los mensajes y la dirección de correo electrónico fueron difundidos después de que la magistrada decidiera que las partes personadas debían tener acceso al material y pese a que la Guardia Civil le había advertido de que \"no parecían tener relevancia para la investigación\"",
+      "url": "https://www.eldiario.es/politica/uco-atribuye-biedma-introduccion-correos-relevancia-begona-gomez-causa-david-sanchez_1_13625139.html",
+      "scraped_at": "2026-10-30T12:46:08Z"
     }
   ]
 }
