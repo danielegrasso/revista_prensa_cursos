@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Puente descarta dimitir: “Lo fácil para mí es salir, pero no va con mi carácter ni es lo que me ha pedido el presidente”: El ministro asegura que tiene la confianza del presidente y que ha decidido seguir adelante a pesar de las críticas: \"Sé lo que me espera, sé el calvario al que me van a someter, encima en campaña electoral, sé los insultos, las descalificaciones y los prejuicios de culpabilidad que se me van a atribuir y ya se me están atribuyendo en los próximos días\"; Óscar Puente: “Quienes estaban en el centro de control tenían a la vista lo que estaba sucediendo”: Cifra en 170 las ocasiones que el sistema informático que falló en Urda ha caído este año, reconoce que no se sabe por qué el tren AVE circuló durante 17 minutos con el Iryo parado delante; y asume que se estudia parar el servicio en la Madrid-Barcelona en sus próximas obras; Sánchez admite una “confianza quebrada” en la alta velocidad española y reitera que los dos accidentes son “inasumibles”: El presidente del Gobierno ha comparecido junto a Emiliano García-Page tras la reunión de coordinación que ha rebajado el nivel de emergencia. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-30T12:46:08Z",
+  "summary": "Resumen del día en elDiario.es: La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario: Denuncian que la escasez de oposiciones durante años y las numerosas jubilaciones han dejado el control sin un relevo generacional adecuado, por lo que exigen más medios y formación; El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña: Los de Ada Colau cargan contra el \"modelo neoliberal\" ferroviario de los socialistas y la liberalización del mercado implantada hace unos años. Podemos, por su parte, evita pedir expresamente la dimisión del ministro, pero denuncia \"mantenimiento insuficiente, plantillas escasas y falta de descansos\"; Miedo e incertidumbre entre los viajeros del AVE: “Nos da igual que vaya lento, pero que llegue”: Los retrasos y las cancelaciones derivados de la huelga ferroviarias se suman a la preocupación por la seguridad tras el accidente. Los viajeros relatan las sensaciones en vísperas del puente: \"¿Es seguro?\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-10-31T12:17:15Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Puente descarta dimitir: “Lo fácil para mí es salir, pero no va con mi carácter ni es lo que me ha pedido el presidente”",
-      "subtitle": "El ministro asegura que tiene la confianza del presidente y que ha decidido seguir adelante a pesar de las críticas: \"Sé lo que me espera, sé el calvario al que me van a someter, encima en campaña electoral, sé los insultos, las descalificaciones y los prejuicios de culpabilidad que se me van a atribuir y ya se me están atribuyendo en los próximos días\"",
-      "url": "https://www.eldiario.es/politica/puente-descarta-dimitir-facil-salir-no-caracter-pedido-presidente_1_13627087.html",
-      "scraped_at": "2026-10-30T12:46:05Z"
+      "title": "La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario",
+      "subtitle": "Denuncian que la escasez de oposiciones durante años y las numerosas jubilaciones han dejado el control sin un relevo generacional adecuado, por lo que exigen más medios y formación",
+      "url": "https://www.eldiario.es/economia/plantilla-advierte-aumento-presion-carga-trabajo-personal-experiencia-control-ferroviario_1_13625397.html",
+      "scraped_at": "2026-10-31T12:17:12Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Óscar Puente: “Quienes estaban en el centro de control tenían a la vista lo que estaba sucediendo”",
-      "subtitle": "Cifra en 170 las ocasiones que el sistema informático que falló en Urda ha caído este año, reconoce que no se sabe por qué el tren AVE circuló durante 17 minutos con el Iryo parado delante; y asume que se estudia parar el servicio en la Madrid-Barcelona en sus próximas obras",
-      "url": "https://www.eldiario.es/economia/oscar-puente-reconoce-estudia-parar-alta-velocidad-madrid-barcelona-proxima-renovacion_1_13626256.html",
-      "scraped_at": "2026-10-30T12:46:05Z"
+      "title": "El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña",
+      "subtitle": "Los de Ada Colau cargan contra el \"modelo neoliberal\" ferroviario de los socialistas y la liberalización del mercado implantada hace unos años. Podemos, por su parte, evita pedir expresamente la dimisión del ministro, pero denuncia \"mantenimiento insuficiente, plantillas escasas y falta de descansos\"",
+      "url": "https://www.eldiario.es/politica/frente-amplio-eleva-presion-puente-tensa-relacion-psoe-semanas-campana_1_13627803.html",
+      "scraped_at": "2026-10-31T12:17:13Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez admite una “confianza quebrada” en la alta velocidad española y reitera que los dos accidentes son “inasumibles”",
-      "subtitle": "El presidente del Gobierno ha comparecido junto a Emiliano García-Page tras la reunión de coordinación que ha rebajado el nivel de emergencia",
-      "url": "https://www.eldiario.es/politica/sanchez-admite-confianza-quebrada-alta-velocidad-espanola-reitera-accidentes-son-inasumibles_1_13626547.html",
-      "scraped_at": "2026-10-30T12:46:06Z"
+      "title": "Miedo e incertidumbre entre los viajeros del AVE: “Nos da igual que vaya lento, pero que llegue”",
+      "subtitle": "Los retrasos y las cancelaciones derivados de la huelga ferroviarias se suman a la preocupación por la seguridad tras el accidente. Los viajeros relatan las sensaciones en vísperas del puente: \"¿Es seguro?\"",
+      "url": "https://www.eldiario.es/sociedad/miedo-e-incertidumbre-viajeros-ave-da-igual-lento-llegue_1_13626243.html",
+      "scraped_at": "2026-10-31T12:17:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El PP pide la dimisión de  Puente por primera vez desde el accidente de Urda: “No debería llegar al martes”",
-      "subtitle": "Ester Muñoz asegura que ante el proceso de liberalización del sector ferroviario \"no se han puesto los recursos\" necesarios por parte del Gobierno y afirma que \"en el Ministerio de Transportes han ocurrido muchas cosas y no iban encaminadas a mejorar el servicio\"",
-      "url": "https://www.eldiario.es/politica/pp-pide-dimision-oscar-puente-primera-vez-accidente-urda_1_13626233.html",
-      "scraped_at": "2026-10-30T12:46:07Z"
+      "title": "Despliegues policiales, detenidos y comercios blindados ante la amenaza de Blocus",
+      "subtitle": "Los detenidos ascienden a diez mientras la Policía se prepara para el riesgo de disturbios en ciudades como Barcelona, València y Bilbao. En Madrid, pese a que la protesta se desconvocó, el Ayuntamiento también ha preparado el despliegue de 1.700 agentes ante la sospecha de que también podrían producirse altercados",
+      "url": "https://www.eldiario.es/sociedad/despliegues-policiales-detenidos-comercios-blindados-amenaza-blocus_1_13628006.html",
+      "scraped_at": "2026-10-31T12:17:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez",
-      "subtitle": "Los mensajes y la dirección de correo electrónico fueron difundidos después de que la magistrada decidiera que las partes personadas debían tener acceso al material y pese a que la Guardia Civil le había advertido de que \"no parecían tener relevancia para la investigación\"",
-      "url": "https://www.eldiario.es/politica/uco-atribuye-biedma-introduccion-correos-relevancia-begona-gomez-causa-david-sanchez_1_13625139.html",
-      "scraped_at": "2026-10-30T12:46:08Z"
+      "title": "Óscar Puente",
+      "subtitle": "La tragedia continúa. Todavía hay cuerpos debajo de los vagones. Los familiares de los fallecidos apenas se están haciendo a la idea de la magnitud de su drama. Entre los ciudadanos se ha instalado una desconfianza comprensible hacia el servicio de trenes. La investigación de lo ocurrido apenas ha comenzado. Hay muchos frentes abiertos",
+      "url": "https://www.eldiario.es/opinion/zona-critica/debe-dimitir-ministro-puente_129_13628219.html",
+      "scraped_at": "2026-10-31T12:17:15Z"
     }
   ]
 }

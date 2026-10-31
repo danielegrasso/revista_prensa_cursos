@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los familiares reciben la noticia de la muerte de sus seres queridos: \"Ahora nos toca volver a empezar\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-10-30T12:46:03Z",
+  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: De las 72 denuncias de desaparecidos, se han localizado a cinco con vida y a uno que no llegó a coger el tren. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-10-31T12:17:11Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Los 25 km en los que nadie detuvo el tren",
       "subtitle": "Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...",
       "url": "https://www.elmundo.es/economia/2026/10/29/6ae337af21efa053118b459c-video.html",
-      "scraped_at": "2026-10-30T12:46:02Z"
+      "scraped_at": "2026-10-31T12:17:09Z"
     },
     {
       "source": "El Mundo",
       "title": "El accidente, explicado en gráficos",
       "subtitle": "Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-      "scraped_at": "2026-10-30T12:46:02Z"
+      "scraped_at": "2026-10-31T12:17:10Z"
     },
     {
       "source": "El Mundo",
       "title": "Los rostros de la tragedia",
-      "subtitle": "Los familiares reciben la noticia de la muerte de sus seres queridos: \"Ahora nos toca volver a empezar\"",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae38ac6fc6c83c75c8b45a0.html",
-      "scraped_at": "2026-10-30T12:46:03Z"
+      "subtitle": "De las 72 denuncias de desaparecidos, se han localizado a cinco con vida y a uno que no llegó a coger el tren",
+      "url": "https://www.elmundo.es/espana/2026/10/31/6ae4fedffc6c836b7a8b4593.html",
+      "scraped_at": "2026-10-31T12:17:10Z"
     },
     {
       "source": "El Mundo",
       "title": "Atención a víctimas y allegados",
       "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-      "scraped_at": "2026-10-30T12:46:03Z"
+      "scraped_at": "2026-10-31T12:17:10Z"
     },
     {
       "source": "El Mundo",
-      "title": "Sistema LZB",
-      "subtitle": "El gestor de las vías contrató en 2021 con un gran descuento la migración a ERTMS del 'antiguo' sistema de seguridad LZB. Pero, con los plazos de entrega vencidos un mes después del accidente de Adamuz, decidió seguir esperando",
-      "url": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
-      "scraped_at": "2026-10-30T12:46:03Z"
+      "title": "Óscar Puente",
+      "subtitle": "El jefe del Ejecutivo mantiene el \"respaldo absoluto\" a su ministro de Transportes, que junto a Zapatero es, o eran, \"dos pilares de la militancia\" que ahora quedan muy magullados",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6ae4f23be85ecea06a8b45b2.html",
+      "scraped_at": "2026-10-31T12:17:11Z"
     }
   ]
 }
