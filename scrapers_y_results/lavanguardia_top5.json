@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Sánchez frena la dimisión de Puente, que exige el PP: El ministro asume las consecuencias de seguir en el cargo: “Me espera un calvario”; Cuando dimitir no es ningún consuelo: “Elena de Borbón, en el foco tras el accidente ferroviario de Toledo: qué ha pasado con su tren”. Este titular con pregunta incluida, algo que yo diría que no te enseñan en la facultad, me saltó a última hora de la tarde del miércoles, día del accidente de Urda. Cliqué. Y la...; La cara de Óscar Puente: Óscar Puente es hoy un ministro mermado en sus funciones políticas. El papel de sargento de trinchera que le habían adjudicado en el guion de la campaña electoral del PSOE, y que tan bien le venía a Pedro Sánchez, ha quedado demediado por la nueva tragedia ferroviaria en Urda..... Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-10-31T12:17:19Z",
+  "summary": "Resumen del día en La Vanguardia: “No se puede ser presidente de España sin entender a Catalunya”: El presidente del Partido Popular dice en entrevista con 'La Vanguardia' que “España está en fallo sistémico. La gestión se ha suplido por la propaganda”; Feijóo se cambia de traje: Alberto Núñez Feijóo se siente mucho más cómodo en su traje de gestor que viene a resolver problemas que en el papel de bronco jefe de la oposición, que es lo que ha hecho toda la legislatura y que es lo que le pedía el Madrid DF. Feijóo fue aupado a la presidencia del PP por su...; La campaña del miedo: Sánchez vuelve a afrontar una catástrofe e intenta que no sea atribuible a una gestión deficiente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-11-01T13:14:21Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Sánchez frena la dimisión de Puente, que exige el PP",
-      "subtitle": "El ministro asume las consecuencias de seguir en el cargo: “Me espera un calvario”",
-      "url": "https://www.lavanguardia.com/politica/20261031/11672405/puente-admite-puso-cargo-disposicion-sanchez-considero-injusto-cesarle.html",
-      "scraped_at": "2026-10-31T12:17:18Z"
+      "title": "“No se puede ser presidente de España sin entender a Catalunya”",
+      "subtitle": "El presidente del Partido Popular dice en entrevista con 'La Vanguardia' que “España está en fallo sistémico. La gestión se ha suplido por la propaganda”",
+      "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
+      "scraped_at": "2026-11-01T13:14:19Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Cuando dimitir no es ningún consuelo",
-      "subtitle": "“Elena de Borbón, en el foco tras el accidente ferroviario de Toledo: qué ha pasado con su tren”. Este titular con pregunta incluida, algo que yo diría que no te enseñan en la facultad, me saltó a última hora de la tarde del miércoles, día del accidente de Urda. Cliqué. Y la...",
-      "url": "https://www.lavanguardia.com/opinion/20261031/11672376/dimitir-ningun-consuelo.html",
-      "scraped_at": "2026-10-31T12:17:18Z"
+      "title": "Feijóo se cambia de traje",
+      "subtitle": "Alberto Núñez Feijóo se siente mucho más cómodo en su traje de gestor que viene a resolver problemas que en el papel de bronco jefe de la oposición, que es lo que ha hecho toda la legislatura y que es lo que le pedía el Madrid DF. Feijóo fue aupado a la presidencia del PP por su...",
+      "url": "https://www.lavanguardia.com/opinion/20261101/11673268/feijoo-cambia-traje.html",
+      "scraped_at": "2026-11-01T13:14:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La cara de Óscar Puente",
-      "subtitle": "Óscar Puente es hoy un ministro mermado en sus funciones políticas. El papel de sargento de trinchera que le habían adjudicado en el guion de la campaña electoral del PSOE, y que tan bien le venía a Pedro Sánchez, ha quedado demediado por la nueva tragedia ferroviaria en Urda....",
-      "url": "https://www.lavanguardia.com/politica/20261031/11672426/cara-oscar-puente.html",
-      "scraped_at": "2026-10-31T12:17:18Z"
+      "title": "La campaña del miedo",
+      "subtitle": "Sánchez vuelve a afrontar una catástrofe e intenta que no sea atribuible a una gestión deficiente",
+      "url": "https://www.lavanguardia.com/politica/20261101/11672937/campana-miedo.html",
+      "scraped_at": "2026-11-01T13:14:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¡Más madera que (quizá) es la guerra!",
-      "subtitle": "Las compras en el centro se adelantan a la mañana mientras los escaparates se siguen cubriendo de madera para protegerse del posible vandalismo",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261031/11672771/mas-madera-quizas-guerra.html",
-      "scraped_at": "2026-10-31T12:17:19Z"
+      "title": "El delirio de las élites españolas con el AVE... y cercanías",
+      "subtitle": "La tragedia ferroviaria de Urda agrava la decadencia de los servicios públicos. Va más allá de la afirmación de Pedro Sánchez de que “la confianza en el AVE se ha quebrado”. La desconfianza abarca a todo el sistema ferroviario: antes del AVE ya se quebró la confianza en las...",
+      "url": "https://www.lavanguardia.com/economia/20261101/11672951/delirio-elites-espanolas-ave-cercanias.html",
+      "scraped_at": "2026-11-01T13:14:20Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Odio, pasión y tragedia... también en el Liceu",
-      "subtitle": "El liceísmo vive el estreno de ‘I Capuleti e i Montecchi’ de Bellini como un terrible reflejo de la actualidad",
-      "url": "https://www.lavanguardia.com/cultura/20261031/11672493/odio-pasion-tragedia-liceu-opera-bellini.html",
-      "scraped_at": "2026-10-31T12:17:19Z"
+      "title": "Un amanecer místico",
+      "subtitle": "El viaje concluye en Los Ángeles, la ciudad de una California que representa la semilla del mal para los conservadores",
+      "url": "https://www.lavanguardia.com/internacional/20261101/11672979/amanecer-mistico.html",
+      "scraped_at": "2026-11-01T13:14:21Z"
     }
   ]
 }

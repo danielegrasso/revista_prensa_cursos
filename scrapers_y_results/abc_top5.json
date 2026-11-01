@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El parte del accidente de Adif revela que hasta cuatro sistemas fallaron justo antes del siniestro: ABC accede al primer parte de la incidencia en el tramo de Urda donde se reflejan las averías que detectaron los operarios cuando llegaron al lugar del siniestro; El Gobierno lleva dos años sin aplicar una directiva que refuerza la seguridad en las infraestructuras ferroviarias: La norma obliga a realizar una evaluación interna de riesgos cada cuatro años para identificar vulnerabilidades físicas, tecnológicas, climáticas y humanas; Moncloa se toma el fin de semana para decidir la estrategia sobre Puente: Sánchez blinda, por ahora, al ministro de Transportes, mientras encarga encuestas para medir el impacto electoral de la tragedia y trazar los próximos movimientos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-10-31T12:17:17Z",
+  "summary": "Resumen del día en ABC.es: El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez: El núcleo duro del presidente analiza el alcance de las responsabilidades a asumir que prometió el día de la tragedia y hasta donde deben llegar y cuando; Antonio Martín Carrillo, uno de los 'padres' del AVE: «Estamos ante un fallo sistémico; la alta velocidad española está enferma»: «Hemos estado a punto de tener un accidente de tres o cuatro trenes. Habríamos tenido un récord mundial de víctimas mortales», asegura el ingeniero aeroespacial sobre una catástrofe que pudo ser todavía mayor a raíz de la caída del sistema LZB; Renfe prepara instrucciones de velocidad máxima y circulación para sus maquinistas: El operador indica a sus maquinistas, según un borrador, que no pueden rebasar los 40km/h en caso de una caída del sistema LZB como la que hubo y que tienen que cerciorarse de si hay más trenes en su mismo cantón. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-11-01T13:14:18Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El parte del accidente de Adif revela que hasta cuatro sistemas fallaron justo antes del siniestro",
-      "subtitle": "ABC accede al primer parte de la incidencia en el tramo de Urda donde se reflejan las averías que detectaron los operarios cuando llegaron al lugar del siniestro",
-      "url": "https://www.abc.es/espana/parte-adif-revela-apagon-lzb-urda-coincidio-20261030013245-nt.html",
-      "scraped_at": "2026-10-31T12:17:15Z"
+      "title": "El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez",
+      "subtitle": "El núcleo duro del presidente analiza el alcance de las responsabilidades a asumir que prometió el día de la tragedia y hasta donde deben llegar y cuando",
+      "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
+      "scraped_at": "2026-11-01T13:14:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "El Gobierno lleva dos años sin aplicar una directiva que refuerza la seguridad en las infraestructuras ferroviarias",
-      "subtitle": "La norma obliga a realizar una evaluación interna de riesgos cada cuatro años para identificar vulnerabilidades físicas, tecnológicas, climáticas y humanas",
-      "url": "https://www.abc.es/economia/gobierno-lleva-dos-anos-aplicar-directiva-refuerza-20261030013239-nt.html",
-      "scraped_at": "2026-10-31T12:17:16Z"
+      "title": "Antonio Martín Carrillo, uno de los 'padres' del AVE: «Estamos ante un fallo sistémico; la alta velocidad española está enferma»",
+      "subtitle": "«Hemos estado a punto de tener un accidente de tres o cuatro trenes. Habríamos tenido un récord mundial de víctimas mortales», asegura el ingeniero aeroespacial sobre una catástrofe que pudo ser todavía mayor a raíz de la caída del sistema LZB",
+      "url": "https://www.abc.es/economia/antonio-martin-carrillo-impulsor-ave-ante-fallo-20261031013804-nt.html",
+      "scraped_at": "2026-11-01T13:14:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Moncloa se toma el fin de semana para decidir la estrategia sobre Puente",
-      "subtitle": "Sánchez blinda, por ahora, al ministro de Transportes, mientras encarga encuestas para medir el impacto electoral de la tragedia y trazar los próximos movimientos",
-      "url": "https://www.abc.es/espana/moncloa-martes-definir-estrategia-puente-20261031013039-nt.html",
-      "scraped_at": "2026-10-31T12:17:16Z"
+      "title": "Renfe prepara instrucciones de velocidad máxima y circulación para sus maquinistas",
+      "subtitle": "El operador indica a sus maquinistas, según un borrador, que no pueden rebasar los 40km/h en caso de una caída del sistema LZB como la que hubo y que tienen que cerciorarse de si hay más trenes en su mismo cantón",
+      "url": "https://www.abc.es/economia/renfe-prepara-instrucciones-velocidad-circulacion-maquinistas-evitar-20261101140411-nt.html",
+      "scraped_at": "2026-11-01T13:14:17Z"
     },
     {
       "source": "ABC.es",
-      "title": "Kana Azuma, experta japonesa en trenes de alta velocidad: «España debería revisar todo su sistema ferroviario»",
-      "subtitle": "La crisis en España por dos accidentes con un centenar de fallecidos en nueve meses es vista con incredulidad desde Japón, el país sin víctimas mortales tras seis décadas de 'trenes bala'",
-      "url": "https://www.abc.es/espana/kana-azuma-experta-ferroviaria-japonesa-espana-deberia-20261030013045-nt.html",
-      "scraped_at": "2026-10-31T12:17:16Z"
+      "title": "La Justicia revisa contratos de Transportes por más de 500 millones de euros por sospechas de malversación",
+      "subtitle": "El magistrado que juzgó a José Luis Ábalos y Koldo García y envió a prisión preventiva a Santos Cerdán vio indicios del desvío de 5 millones de euros de esas adjudcaciones públicas",
+      "url": "https://www.abc.es/espana/dinero-transportes-justicia-revisa-contratos-500-millones-20261101013954-nt.html",
+      "scraped_at": "2026-11-01T13:14:18Z"
     },
     {
       "source": "ABC.es",
-      "title": "Silvia Galve, abogada: «El inquilino puede reparar averías graves que afecten a la seguridad y descontar su coste, previa petición escrita y presupuesto»",
-      "subtitle": "Una abogada experta en derecho inmobiliario explica las claves del nuevo real decreto que da 15 días al propietario para actuar antes de que el...",
-      "url": "https://www.cope.es/actualidad/economia/noticias/silvia-galve-abogada-nueva-ley-vivienda-permite-reparar-averias-graves-afecten-seguridad-vivienda-descontar-coste-alquiler-hay-solicitarlo-escrito-presentar-presupuesto-razonable-20261031_3464439.html",
-      "scraped_at": "2026-10-31T12:17:17Z"
+      "title": "Estrella (23), que construyó su casa en 17 días: «En el campo siempre hay algo que hacer, pero no necesitamos estar ocupados constantemente»",
+      "subtitle": "Esta catalana ha transformado un establo en un loft de 40 m² para vivir con sus propias reglas, generando su energía y buscando producir su alimento",
+      "url": "https://www.cope.es/actualidad/sociedad/noticias/estrella-23-construyo-casa-17-dias-campo-dificil-aburrirse-siempre-hay-embargo-hoy-dia-sentimos-haciendo-cosas-constantemente-no-necesario-20261101_3466114.html",
+      "scraped_at": "2026-11-01T13:14:18Z"
     }
   ]
 }

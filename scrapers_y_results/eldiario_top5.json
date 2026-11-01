@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario: Denuncian que la escasez de oposiciones durante años y las numerosas jubilaciones han dejado el control sin un relevo generacional adecuado, por lo que exigen más medios y formación; El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña: Los de Ada Colau cargan contra el \"modelo neoliberal\" ferroviario de los socialistas y la liberalización del mercado implantada hace unos años. Podemos, por su parte, evita pedir expresamente la dimisión del ministro, pero denuncia \"mantenimiento insuficiente, plantillas escasas y falta de descansos\"; Miedo e incertidumbre entre los viajeros del AVE: “Nos da igual que vaya lento, pero que llegue”: Los retrasos y las cancelaciones derivados de la huelga ferroviarias se suman a la preocupación por la seguridad tras el accidente. Los viajeros relatan las sensaciones en vísperas del puente: \"¿Es seguro?\". Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-10-31T12:17:15Z",
+  "summary": "Resumen del día en elDiario.es: Sánchez sostiene a Puente para que no dimita por ahora y le ayude a gestionar la gran crisis de Urda: El presidente le pidió a su ministro aguantar en el cargo y cree que su salida en este momento solo contribuiría a reforzar la tesis de que los accidentes de tren y las muertes son responsabilidad de su Gobierno; La intrahistoria de las primeras 24 horas de Page en la tragedia de Urda: “Esto es muy grave, hay que contarlo ya”: El presidente de Castilla-La Mancha recibió el primer mensaje del choque ferroviario pocos minutos después del suceso, se desplazó con todo su equipo al lugar del accidente antes de que se montara el puesto de mando y los primeros hospitales de campaña, y contactó con la Unidad Militar de Emergencias desde el lugar mientras se montaba el dispositivo; Así funciona el centro de control del AVE en Atocha: 5 mesas, 16 profesionales y el doble de trenes por turno que antes de la liberalización: Un controlador, solo ante la mesa con los monitores, pasa a gestionar entre 10 y 20 trenes por jornada a entre 30 y 40 sin un aumento de personal desde la entrada de Iryo y Ouigo. Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-11-01T13:14:16Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario",
-      "subtitle": "Denuncian que la escasez de oposiciones durante años y las numerosas jubilaciones han dejado el control sin un relevo generacional adecuado, por lo que exigen más medios y formación",
-      "url": "https://www.eldiario.es/economia/plantilla-advierte-aumento-presion-carga-trabajo-personal-experiencia-control-ferroviario_1_13625397.html",
-      "scraped_at": "2026-10-31T12:17:12Z"
+      "title": "Sánchez sostiene a Puente para que no dimita por ahora y le ayude a gestionar la gran crisis de Urda",
+      "subtitle": "El presidente le pidió a su ministro aguantar en el cargo y cree que su salida en este momento solo contribuiría a reforzar la tesis de que los accidentes de tren y las muertes son responsabilidad de su Gobierno",
+      "url": "https://www.eldiario.es/politica/sanchez-sostiene-puente-no-dimita-ahora-le-ayude-gestionar-gran-crisis-urda_1_13628223.html",
+      "scraped_at": "2026-11-01T13:14:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña",
-      "subtitle": "Los de Ada Colau cargan contra el \"modelo neoliberal\" ferroviario de los socialistas y la liberalización del mercado implantada hace unos años. Podemos, por su parte, evita pedir expresamente la dimisión del ministro, pero denuncia \"mantenimiento insuficiente, plantillas escasas y falta de descansos\"",
-      "url": "https://www.eldiario.es/politica/frente-amplio-eleva-presion-puente-tensa-relacion-psoe-semanas-campana_1_13627803.html",
-      "scraped_at": "2026-10-31T12:17:13Z"
+      "title": "La intrahistoria de las primeras 24 horas de Page en la tragedia de Urda: “Esto es muy grave, hay que contarlo ya”",
+      "subtitle": "El presidente de Castilla-La Mancha recibió el primer mensaje del choque ferroviario pocos minutos después del suceso, se desplazó con todo su equipo al lugar del accidente antes de que se montara el puesto de mando y los primeros hospitales de campaña, y contactó con la Unidad Militar de Emergencias desde el lugar mientras se montaba el dispositivo",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/intrahistoria-primeras-24-horas-page-frente-tragedia-urda-grave-hay-contarlo_1_13628065.html",
+      "scraped_at": "2026-11-01T13:14:14Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Miedo e incertidumbre entre los viajeros del AVE: “Nos da igual que vaya lento, pero que llegue”",
-      "subtitle": "Los retrasos y las cancelaciones derivados de la huelga ferroviarias se suman a la preocupación por la seguridad tras el accidente. Los viajeros relatan las sensaciones en vísperas del puente: \"¿Es seguro?\"",
-      "url": "https://www.eldiario.es/sociedad/miedo-e-incertidumbre-viajeros-ave-da-igual-lento-llegue_1_13626243.html",
-      "scraped_at": "2026-10-31T12:17:14Z"
+      "title": "Así funciona el centro de control del AVE en Atocha: 5 mesas, 16 profesionales y el doble de trenes por turno que antes de la liberalización",
+      "subtitle": "Un controlador, solo ante la mesa con los monitores, pasa a gestionar entre 10 y 20 trenes por jornada a entre 30 y 40 sin un aumento de personal desde la entrada de Iryo y Ouigo",
+      "url": "https://www.eldiario.es/economia/funciona-centro-control-ave-atocha-5-mesas-16-profesionales-doble-trenes-turno-liberalizacion_1_13628184.html",
+      "scraped_at": "2026-11-01T13:14:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Despliegues policiales, detenidos y comercios blindados ante la amenaza de Blocus",
-      "subtitle": "Los detenidos ascienden a diez mientras la Policía se prepara para el riesgo de disturbios en ciudades como Barcelona, València y Bilbao. En Madrid, pese a que la protesta se desconvocó, el Ayuntamiento también ha preparado el despliegue de 1.700 agentes ante la sospecha de que también podrían producirse altercados",
-      "url": "https://www.eldiario.es/sociedad/despliegues-policiales-detenidos-comercios-blindados-amenaza-blocus_1_13628006.html",
-      "scraped_at": "2026-10-31T12:17:14Z"
+      "title": "El Gobierno aprobará el martes las ayudas económicas para las víctimas del accidente de Urda",
+      "subtitle": "El Consejo de Ministros también recibirá un informe del ministro Óscar Puente sobre lo sucedido",
+      "url": "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html",
+      "scraped_at": "2026-11-01T13:14:15Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Óscar Puente",
-      "subtitle": "La tragedia continúa. Todavía hay cuerpos debajo de los vagones. Los familiares de los fallecidos apenas se están haciendo a la idea de la magnitud de su drama. Entre los ciudadanos se ha instalado una desconfianza comprensible hacia el servicio de trenes. La investigación de lo ocurrido apenas ha comenzado. Hay muchos frentes abiertos",
-      "url": "https://www.eldiario.es/opinion/zona-critica/debe-dimitir-ministro-puente_129_13628219.html",
-      "scraped_at": "2026-10-31T12:17:15Z"
+      "title": "PP Angrois",
+      "subtitle": "Alberto Núñez Feijóo señaló al maquinista del Alvia que se estrelló en Santiago en 2013 y vetó investigaciones políticas, y una década después, protegió al presidente de la Generalitat durante todo un año",
+      "url": "https://www.eldiario.es/politica/angrois-dana-valencia-pp-goberno-asumir-responsabilidades-tragedias-mortales_1_13628170.html",
+      "scraped_at": "2026-11-01T13:14:16Z"
     }
   ]
 }
