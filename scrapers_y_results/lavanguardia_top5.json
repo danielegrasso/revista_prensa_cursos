@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: “No se puede ser presidente de España sin entender a Catalunya”: El presidente del Partido Popular dice en entrevista con 'La Vanguardia' que “España está en fallo sistémico. La gestión se ha suplido por la propaganda”; Feijóo se cambia de traje: Alberto Núñez Feijóo se siente mucho más cómodo en su traje de gestor que viene a resolver problemas que en el papel de bronco jefe de la oposición, que es lo que ha hecho toda la legislatura y que es lo que le pedía el Madrid DF. Feijóo fue aupado a la presidencia del PP por su...; La campaña del miedo: Sánchez vuelve a afrontar una catástrofe e intenta que no sea atribuible a una gestión deficiente. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-11-01T13:14:21Z",
+  "summary": "Resumen del día en La Vanguardia: Estados Unidos decide si pone freno a Trump: los tres posibles escenarios tras las 'midterm': Las encuestas auguran una “ola azul” en las elecciones de medio mandato, un resultado que obligaría a Trump a negociar con los demócratas para aprobar leyes o confirmar nombramientos; Stevens traiciona a El-Sayed en Michigan con su apoyo al candidato republicano: La congresista demócrata, antigua rival del candidato en las primarias del Partido Demócrata para el Senado, se pasa al otro bando debido a una disputa por un anuncio que criticaba a Israel; “Ya no me fío del AVE para ir a trabajar”: las empresas reducen el uso del tren por la crisis: Las compañías sustituyen la alta velocidad por reuniones telemáticas o el avión, que crece en todos los corr edores afectados. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-11-02T15:40:07Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "“No se puede ser presidente de España sin entender a Catalunya”",
-      "subtitle": "El presidente del Partido Popular dice en entrevista con 'La Vanguardia' que “España está en fallo sistémico. La gestión se ha suplido por la propaganda”",
-      "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
-      "scraped_at": "2026-11-01T13:14:19Z"
+      "title": "Estados Unidos decide si pone freno a Trump: los tres posibles escenarios tras las 'midterm'",
+      "subtitle": "Las encuestas auguran una “ola azul” en las elecciones de medio mandato, un resultado que obligaría a Trump a negociar con los demócratas para aprobar leyes o confirmar nombramientos",
+      "url": "https://www.lavanguardia.com/internacional/20261102/11673496/posibles-escenarios-legislativas-ee-uu-que-ocurre-democratas-recuperan-congreso.html",
+      "scraped_at": "2026-11-02T15:40:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Feijóo se cambia de traje",
-      "subtitle": "Alberto Núñez Feijóo se siente mucho más cómodo en su traje de gestor que viene a resolver problemas que en el papel de bronco jefe de la oposición, que es lo que ha hecho toda la legislatura y que es lo que le pedía el Madrid DF. Feijóo fue aupado a la presidencia del PP por su...",
-      "url": "https://www.lavanguardia.com/opinion/20261101/11673268/feijoo-cambia-traje.html",
-      "scraped_at": "2026-11-01T13:14:20Z"
+      "title": "Stevens traiciona a El-Sayed en Michigan con su apoyo al candidato republicano",
+      "subtitle": "La congresista demócrata, antigua rival del candidato en las primarias del Partido Demócrata para el Senado, se pasa al otro bando debido a una disputa por un anuncio que criticaba a Israel",
+      "url": "https://www.lavanguardia.com/internacional/20261102/11673780/apoyo-haley-stevens-candidato-republicano-traicion-michigan.html",
+      "scraped_at": "2026-11-02T15:40:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "La campaña del miedo",
-      "subtitle": "Sánchez vuelve a afrontar una catástrofe e intenta que no sea atribuible a una gestión deficiente",
-      "url": "https://www.lavanguardia.com/politica/20261101/11672937/campana-miedo.html",
-      "scraped_at": "2026-11-01T13:14:20Z"
+      "title": "“Ya no me fío del AVE para ir a trabajar”: las empresas reducen el uso del tren por la crisis",
+      "subtitle": "Las compañías sustituyen la alta velocidad por reuniones telemáticas o el avión, que crece en todos los corr edores afectados",
+      "url": "https://www.lavanguardia.com/economia/20261102/11673495/me-fio-ave-trabajar-empresas-reducen-tren-crisis.html",
+      "scraped_at": "2026-11-02T15:40:06Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El delirio de las élites españolas con el AVE... y cercanías",
-      "subtitle": "La tragedia ferroviaria de Urda agrava la decadencia de los servicios públicos. Va más allá de la afirmación de Pedro Sánchez de que “la confianza en el AVE se ha quebrado”. La desconfianza abarca a todo el sistema ferroviario: antes del AVE ya se quebró la confianza en las...",
-      "url": "https://www.lavanguardia.com/economia/20261101/11672951/delirio-elites-espanolas-ave-cercanias.html",
-      "scraped_at": "2026-11-01T13:14:20Z"
+      "title": "Illa apuesta por mantener el AVE Madrid-Barcelona aunque haya obras",
+      "subtitle": "El president considera preferible el modelo que se usa en España a otros en que se opta por cortar las infraestructuras por completo.",
+      "url": "https://www.lavanguardia.com/politica/20261102/11673778/illa-apuesta-mantener-ave-madrid-barcelona-inicien-obras.html",
+      "scraped_at": "2026-11-02T15:40:07Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Un amanecer místico",
-      "subtitle": "El viaje concluye en Los Ángeles, la ciudad de una California que representa la semilla del mal para los conservadores",
-      "url": "https://www.lavanguardia.com/internacional/20261101/11672979/amanecer-mistico.html",
-      "scraped_at": "2026-11-01T13:14:21Z"
+      "title": "Muere Ciara Mageean, oro europeo del 1.500 hace dos años, a causa de un cáncer",
+      "subtitle": "“Era una inspiración para todos dentro y fuera de la pista”, escribió World Athletics para despedir a la mediofondista; tenía 34 años",
+      "url": "https://www.lavanguardia.com/deportes/otros-deportes/20261102/11674019/muere-ciara-mageean-oro-europeo-1-500-dos-anos-causa-cancer.html",
+      "scraped_at": "2026-11-02T15:40:07Z"
     }
   ]
 }

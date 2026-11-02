@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los forenses identifican mediante huella dactilar y ADN a 56 de los 69 fallecidos. Quedan otras 13 personas desaparecidas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-11-01T13:14:12Z",
+  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: De los 69 fallecidos, los forenses han identificado a 66 personas. Estas son las historias de Marie, Yassin, Marta, Ana, Carmen, Antonio o Adriana. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-11-02T15:39:58Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Los 25 km en los que nadie detuvo el tren",
       "subtitle": "Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...",
       "url": "https://www.elmundo.es/economia/2026/10/29/6ae337af21efa053118b459c-video.html",
-      "scraped_at": "2026-11-01T13:14:10Z"
+      "scraped_at": "2026-11-02T15:39:58Z"
     },
     {
       "source": "El Mundo",
       "title": "El accidente, explicado en gráficos",
       "subtitle": "Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-      "scraped_at": "2026-11-01T13:14:11Z"
+      "scraped_at": "2026-11-02T15:39:58Z"
     },
     {
       "source": "El Mundo",
       "title": "Los rostros de la tragedia",
-      "subtitle": "Los forenses identifican mediante huella dactilar y ADN a 56 de los 69 fallecidos. Quedan otras 13 personas desaparecidas",
-      "url": "https://www.elmundo.es/espana/2026/11/01/6ae63d5fe85eced86b8b457d.html",
-      "scraped_at": "2026-11-01T13:14:11Z"
+      "subtitle": "De los 69 fallecidos, los forenses han identificado a 66 personas. Estas son las historias de Marie, Yassin, Marta, Ana, Carmen, Antonio o Adriana",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+      "scraped_at": "2026-11-02T15:39:58Z"
     },
     {
       "source": "El Mundo",
       "title": "Atención a víctimas y allegados",
       "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-      "scraped_at": "2026-11-01T13:14:11Z"
+      "scraped_at": "2026-11-02T15:39:58Z"
     },
     {
       "source": "El Mundo",
-      "title": "Audiencias octubre",
-      "subtitle": "La cadena pública alcanza su mejor octubre desde 2011 con un 13%, impulsada por el fútbol y las entrevistas políticas de La Revuelta. Antena 3 (12,5%) lidera más jornadas y conserva el dominio informativo",
-      "url": "https://www.elmundo.es/television/2026/11/01/6ae49cb4fdddff73338b4589.html",
-      "scraped_at": "2026-11-01T13:14:12Z"
+      "title": "Apagón La Palma",
+      "subtitle": "La isla ya ha recuperado el 100% del suministro eléctrico tras el apagón, según informa Endesa",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae84c15e85ece0f5a8b4582.html",
+      "scraped_at": "2026-11-02T15:39:58Z"
     }
   ]
 }
