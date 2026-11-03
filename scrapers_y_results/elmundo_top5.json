@@ -1,6 +1,6 @@
 {
-  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: De los 69 fallecidos, los forenses han identificado a 66 personas. Estas son las historias de Marie, Yassin, Marta, Ana, Carmen, Antonio o Adriana. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-11-02T15:39:58Z",
+  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los familiares de los fallecidos dicen adiós con mensajes de cariño. Ya han sido identificadas las 69 personas que perdieron la vida en el accidente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-11-03T14:03:16Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
@@ -8,35 +8,35 @@
       "title": "Los 25 km en los que nadie detuvo el tren",
       "subtitle": "Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...",
       "url": "https://www.elmundo.es/economia/2026/10/29/6ae337af21efa053118b459c-video.html",
-      "scraped_at": "2026-11-02T15:39:58Z"
+      "scraped_at": "2026-11-03T14:03:15Z"
     },
     {
       "source": "El Mundo",
       "title": "El accidente, explicado en gráficos",
       "subtitle": "Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-      "scraped_at": "2026-11-02T15:39:58Z"
+      "scraped_at": "2026-11-03T14:03:15Z"
     },
     {
       "source": "El Mundo",
       "title": "Los rostros de la tragedia",
-      "subtitle": "De los 69 fallecidos, los forenses han identificado a 66 personas. Estas son las historias de Marie, Yassin, Marta, Ana, Carmen, Antonio o Adriana",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
-      "scraped_at": "2026-11-02T15:39:58Z"
+      "subtitle": "Los familiares de los fallecidos dicen adiós con mensajes de cariño. Ya han sido identificadas las 69 personas que perdieron la vida en el accidente",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+      "scraped_at": "2026-11-03T14:03:15Z"
     },
     {
       "source": "El Mundo",
       "title": "Atención a víctimas y allegados",
       "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-      "scraped_at": "2026-11-02T15:39:58Z"
+      "scraped_at": "2026-11-03T14:03:15Z"
     },
     {
       "source": "El Mundo",
-      "title": "Apagón La Palma",
-      "subtitle": "La isla ya ha recuperado el 100% del suministro eléctrico tras el apagón, según informa Endesa",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae84c15e85ece0f5a8b4582.html",
-      "scraped_at": "2026-11-02T15:39:58Z"
+      "title": "Víctimas Urda",
+      "subtitle": "En el paquete de medidas se añaden topes a los precios de transportes alternativos y contemplar las bajas laborales derivadas del suceso como \"accidente de trabajo\"",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
+      "scraped_at": "2026-11-03T14:03:16Z"
     }
   ]
 }

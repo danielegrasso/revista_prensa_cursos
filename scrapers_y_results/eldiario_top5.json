@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en elDiario.es: Feijóo acusa al Gobierno de tener una actitud “ruin” sobre la tragedia de Urda: “Dudo que sean buena gente”: El líder del PP insiste en que Puente debería ser \"cesado\" y en que sea Sánchez quien dé las explicaciones sobre el accidente en el que han fallecido 69 personas; “A la mierda el luto”: la extrema derecha se lanza a hacer campaña con la tragedia: Santiago Abascal (Vox), Alvise Pérez (Se Acabó La Fiesta) o partidos extraparlamentarios como Falange, Democracia Nacional o Núcleo Nacional usan minutos de silencio, manifestaciones y querellas para capitalizar el accidente de tren; La alta velocidad, la joya de la corona ahora cuestionada por la falta de inversiones y el impacto de la liberalización: En los últimos años ha crecido la inversión pública destinada a la infraestructura, también se ha disparado el número de viajeros con la entrada de operadores privados y, en cambio, las empresas acumulan números rojos. Además, otras piezas destacadas de política, economía y sociedad.",
-  "generated_at": "2026-11-02T15:40:03Z",
+  "summary": "Resumen del día en elDiario.es: Óscar Puente anuncia un plan de refuerzo de la seguridad de la alta velocidad y menos trenes en la línea Madrid-Sevilla: El ministro de Transportes, que comparece esta tarde en el Congreso de los Diputados, ha adelantado que los operarios tendrán una \"validación cruzada\" cuando se caen los sistemas de control autómatico; El centro de control “pidió disculpas” al maquinista del Iryo que corrigió la orden de retomar la marcha normal: Según los reportes internos que publica El Mundo, ese trabajador respondió a Atocha que lo correcto era reanudar con marcha a la vista: \"Tengo perfectamente interiorizado que cuando el sistema da este fallo indica que en el trayecto hay algún tren ocupando el cantón\"; Feijóo reclama a los sindicatos que desconvoquen la huelga del 11N por Urda: “Es un grave error”: El líder del PP revela que presionó a CCOO y UGT para no secundar al Sindicato de Inquilinas y pide \"interlocutores\" con los que se \"pueda sentar\" tras las elecciones para \"hablar, dialogar y discrepar\", mientras su socio Santiago Abascal amenza: \"Tomaremos nota\". Además, otras piezas destacadas de política, economía y sociedad.",
+  "generated_at": "2026-11-03T14:03:20Z",
   "source": "https://www.eldiario.es/",
   "items": [
     {
       "source": "elDiario.es",
-      "title": "Feijóo acusa al Gobierno de tener una actitud “ruin” sobre la tragedia de Urda: “Dudo que sean buena gente”",
-      "subtitle": "El líder del PP insiste en que Puente debería ser \"cesado\" y en que sea Sánchez quien dé las explicaciones sobre el accidente en el que han fallecido 69 personas",
-      "url": "https://www.eldiario.es/politica/feijoo-acusa-gobierno-reducir-trabajador-responsabilidad-tragedia-urda-dudo-sean-buena-gente_1_13631683.html",
-      "scraped_at": "2026-11-02T15:40:00Z"
+      "title": "Óscar Puente anuncia un plan de refuerzo de la seguridad de la alta velocidad y menos trenes en la línea Madrid-Sevilla",
+      "subtitle": "El ministro de Transportes, que comparece esta tarde en el Congreso de los Diputados, ha adelantado que los operarios tendrán una \"validación cruzada\" cuando se caen los sistemas de control autómatico",
+      "url": "https://www.eldiario.es/economia/oscar-puente-anuncia-plan-refuerzo-seguridad-alta-velocidad-trenes-linea-madrid-sevilla_1_13633260.html",
+      "scraped_at": "2026-11-03T14:03:17Z"
     },
     {
       "source": "elDiario.es",
-      "title": "“A la mierda el luto”: la extrema derecha se lanza a hacer campaña con la tragedia",
-      "subtitle": "Santiago Abascal (Vox), Alvise Pérez (Se Acabó La Fiesta) o partidos extraparlamentarios como Falange, Democracia Nacional o Núcleo Nacional usan minutos de silencio, manifestaciones y querellas para capitalizar el accidente de tren",
-      "url": "https://www.eldiario.es/politica/mierda-luto-extrema-derecha-lanza-campana-tragedia-urda_1_13626529.html",
-      "scraped_at": "2026-11-02T15:40:01Z"
+      "title": "El centro de control “pidió disculpas” al maquinista del Iryo que corrigió la orden de retomar la marcha normal",
+      "subtitle": "Según los reportes internos que publica El Mundo, ese trabajador respondió a Atocha que lo correcto era reanudar con marcha a la vista: \"Tengo perfectamente interiorizado que cuando el sistema da este fallo indica que en el trayecto hay algún tren ocupando el cantón\"",
+      "url": "https://www.eldiario.es/economia/centro-control-pidio-disculpas-maquinista-iryo-corrigio-orden-retomar-marcha-normal_1_13633250.html",
+      "scraped_at": "2026-11-03T14:03:18Z"
     },
     {
       "source": "elDiario.es",
-      "title": "La alta velocidad, la joya de la corona ahora cuestionada por la falta de inversiones y el impacto de la liberalización",
-      "subtitle": "En los últimos años ha crecido la inversión pública destinada a la infraestructura, también se ha disparado el número de viajeros con la entrada de operadores privados y, en cambio, las empresas acumulan números rojos",
-      "url": "https://www.eldiario.es/economia/alta-velocidad-joya-corona-ahora-cuestionada-falta-inversiones-impacto-liberalizacion_1_13627952.html",
-      "scraped_at": "2026-11-02T15:40:02Z"
+      "title": "Feijóo reclama a los sindicatos que desconvoquen la huelga del 11N por Urda: “Es un grave error”",
+      "subtitle": "El líder del PP revela que presionó a CCOO y UGT para no secundar al Sindicato de Inquilinas y pide \"interlocutores\" con los que se \"pueda sentar\" tras las elecciones para \"hablar, dialogar y discrepar\", mientras su socio Santiago Abascal amenza: \"Tomaremos nota\"",
+      "url": "https://www.eldiario.es/politica/feijoo-reclama-sindicatos-desconvoquen-huelga-11n-accidente-urda-grave-error_1_13632870.html",
+      "scraped_at": "2026-11-03T14:03:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "El nuevo choque por el control del Poder Judicial congela la renovación de 15 vacantes en el Supremo",
-      "subtitle": "El enfrentamiento entre bloques después de que la presidenta y un vocal de Sumar votaran con el grupo conservador el reparto de comisiones aleja la posibilidad de acuerdo para cubrir las plazas del Alto Tribunal",
-      "url": "https://www.eldiario.es/politica/nuevo-choque-control-judicial-congela-renovacion-15-vacantes-supremo_1_13628383.html",
-      "scraped_at": "2026-11-02T15:40:03Z"
+      "title": "Tellado carga contra Silvia Intxaurrondo por sus preguntas y la cobertura de Urda, y ella le ofrece criticar a RTVE: “Tiene la palabra, le escucho”",
+      "subtitle": "El Secretario general del Partido Popular ha cuestionado con sorna las preguntas de \"rabiosa actualidad\" que le ha hecho Silvia Intxaurrondo en 'La hora de La 1', y ella le ha ofrecido un espacio para que lance sus críticas a RTVE y así poder continuar con la entrevista",
+      "url": "https://www.eldiario.es/vertele/noticias/tellado-carga-silvia-intxaurrondo-preguntas-cobertura-urda-le-ofrece-criticar-rtve-palabra-le-escucho_1_13633085.html",
+      "scraped_at": "2026-11-03T14:03:19Z"
     },
     {
       "source": "elDiario.es",
-      "title": "Apagón La Palma",
-      "subtitle": "El cero energético registrado este lunes en la Isla ha afectado a 50.508   clientes",
-      "url": "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/palma-queda-luz_1_13631074.html",
-      "scraped_at": "2026-11-02T15:40:03Z"
+      "title": "Óscar Puente",
+      "subtitle": "El ministro deberá aclarar si la responsabilidad del mortal siniestro se puede reducir a los fallos del centro de control de Adif de Atocha o si hay otras cuestiones técnicas, de mantenimiento o inversiones que pudieran causar el accidente",
+      "url": "https://www.eldiario.es/politica/oscar-puente-enfrenta-congreso-hostil-pide-dimision-explicaciones-tragedia-urda_1_13631514.html",
+      "scraped_at": "2026-11-03T14:03:20Z"
     }
   ]
 }
