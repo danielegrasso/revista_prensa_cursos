@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: Los 25 km en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los familiares de los fallecidos dicen adiós con mensajes de cariño. Ya han sido identificadas las 69 personas que perdieron la vida en el accidente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-11-03T14:03:16Z",
+  "summary": "Resumen del día en El Mundo: Así fueron los 25 kilómetros en los que nadie detuvo el tren: Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...; El accidente, explicado en gráficos: Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.; Los rostros de la tragedia: Los familiares de los fallecidos dicen adiós con mensajes de cariño. Ya han sido identificadas las 69 personas que perdieron la vida en el accidente. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-11-04T14:24:06Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "Los 25 km en los que nadie detuvo el tren",
+      "title": "Así fueron los 25 kilómetros en los que nadie detuvo el tren",
       "subtitle": "Un AVE de Renfe embestía por detrás a un tren Iryo detenido en la vía Madrid-Andalucía. Eran las 8:54 del miércoles 28 de octubre. Sucedía en el punto kilométrico 118 de...",
       "url": "https://www.elmundo.es/economia/2026/10/29/6ae337af21efa053118b459c-video.html",
-      "scraped_at": "2026-11-03T14:03:15Z"
+      "scraped_at": "2026-11-04T14:24:05Z"
     },
     {
       "source": "El Mundo",
       "title": "El accidente, explicado en gráficos",
       "subtitle": "Las causas de la colisión que provocó el descarrilamiento de varios vagones y la interrupción de la circulación entre Madrid y Sevilla sigue bajo investigación. Las medidas de seguridad en la Alta Velocidad están siendo cuestionadas.",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
-      "scraped_at": "2026-11-03T14:03:15Z"
+      "scraped_at": "2026-11-04T14:24:05Z"
     },
     {
       "source": "El Mundo",
       "title": "Los rostros de la tragedia",
       "subtitle": "Los familiares de los fallecidos dicen adiós con mensajes de cariño. Ya han sido identificadas las 69 personas que perdieron la vida en el accidente",
       "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
-      "scraped_at": "2026-11-03T14:03:15Z"
+      "scraped_at": "2026-11-04T14:24:05Z"
     },
     {
       "source": "El Mundo",
-      "title": "Atención a víctimas y allegados",
+      "title": "Atención a las víctimas y allegados",
       "subtitle": "Renfe e Iryo activan sus protocolos de asistencia a las víctimas",
       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-      "scraped_at": "2026-11-03T14:03:15Z"
+      "scraped_at": "2026-11-04T14:24:05Z"
     },
     {
       "source": "El Mundo",
-      "title": "Víctimas Urda",
-      "subtitle": "En el paquete de medidas se añaden topes a los precios de transportes alternativos y contemplar las bajas laborales derivadas del suceso como \"accidente de trabajo\"",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
-      "scraped_at": "2026-11-03T14:03:16Z"
+      "title": "La Séptima",
+      "subtitle": "La nueva cadena esculpida por José Miguel Contreras arranca este jueves con 20 millones de inversión, 400 empleos vinculados al proyecto y una herramienta demoscópica para medir el impacto de la campaña electoral. Javier Ruiz promete una televisión que no será \"un monólogo a cuatro voces\"",
+      "url": "https://www.elmundo.es/television/2026/11/04/6aeb05f121efa029678b45de.html",
+      "scraped_at": "2026-11-04T14:24:06Z"
     }
   ]
 }

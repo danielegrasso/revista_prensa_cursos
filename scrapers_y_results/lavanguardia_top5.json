@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La curva de Angrois, la curva de Laffer: Crisis de confianza y algo más, ¿de dónde saldrá el dinero para mantener mejor las infraestructuras?; Los sindicatos y la izquierda rechazan suspender la huelga general como pide Feijóo: UGT ve “insultante” el planteamiento del presidente del PP y CC.OO. le pide que no gobierne con un partido que quiere rebajar lso ingresos fiscales; Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra: “Estamos junto a su desolada familia, junto a sus seres queridos, junto a todo el tinerfeñismo que hoy llora por este cruel desenlace”, dice el club en un comunicado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-11-03T14:03:23Z",
+  "summary": "Resumen del día en La Vanguardia: EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado: La oposición se adentra en bastiones conservadores como Texas, Kansas, Iowa, Ohio, Carolina del Sur o Carolina del Norte; ¿Cómo reaccionará ahora Trump?: Nunca ha habido tanta expectación en todo el mundo por saber el resultado de unas elecciones de medio mandato en Estados Unidos como en esta ocasión. Seguramente había muchas ganas de ver como Donald Trump sufría un gran revolcón por sus erráticas políticas, pero que nadie se...; El-Sayed se convierte en el primer senador musulmán y trolea a Trump: El candidato demócrata ha sobrevivido a una campaña llena de ataques y descalificaciones. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-11-04T14:24:14Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La curva de Angrois, la curva de Laffer",
-      "subtitle": "Crisis de confianza y algo más, ¿de dónde saldrá el dinero para mantener mejor las infraestructuras?",
-      "url": "https://www.lavanguardia.com/politica/20261103/11674697/curva-angrois-curva-laffer.html",
-      "scraped_at": "2026-11-03T14:03:23Z"
+      "title": "EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado",
+      "subtitle": "La oposición se adentra en bastiones conservadores como Texas, Kansas, Iowa, Ohio, Carolina del Sur o Carolina del Norte",
+      "url": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html",
+      "scraped_at": "2026-11-04T14:24:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los sindicatos y la izquierda rechazan suspender la huelga general como pide Feijóo",
-      "subtitle": "UGT ve “insultante” el planteamiento del presidente del PP y CC.OO. le pide que no gobierne con un partido que quiere rebajar lso ingresos fiscales",
-      "url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html",
-      "scraped_at": "2026-11-03T14:03:23Z"
+      "title": "¿Cómo reaccionará ahora Trump?",
+      "subtitle": "Nunca ha habido tanta expectación en todo el mundo por saber el resultado de unas elecciones de medio mandato en Estados Unidos como en esta ocasión. Seguramente había muchas ganas de ver como Donald Trump sufría un gran revolcón por sus erráticas políticas, pero que nadie se...",
+      "url": "https://www.lavanguardia.com/opinion/20261104/11675361/guerra-paz.html",
+      "scraped_at": "2026-11-04T14:24:13Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
-      "subtitle": "“Estamos junto a su desolada familia, junto a sus seres queridos, junto a todo el tinerfeñismo que hoy llora por este cruel desenlace”, dice el club en un comunicado",
-      "url": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
-      "scraped_at": "2026-11-03T14:03:23Z"
+      "title": "El-Sayed se convierte en el primer senador musulmán y trolea a Trump",
+      "subtitle": "El candidato demócrata ha sobrevivido a una campaña llena de ataques y descalificaciones",
+      "url": "https://www.lavanguardia.com/internacional/20261104/11675667/sayed-gana-michigan-convierte-primer-senador-musulman.html",
+      "scraped_at": "2026-11-04T14:24:14Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Owono, hundido, bloquea los comentarios de sus redes ante el aluvión de insultos",
-      "subtitle": "El portero del Andorra, al que se le vio llorando y rezando en el vestuario, fue objeto de infinidad de acusaciones después de la entrada a Jesús de Miguel que le valió la roja",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20261103/11674891/jesus-owono-devastado-cierra-redes-sociales.html",
-      "scraped_at": "2026-11-03T14:03:23Z"
+      "title": "Gina Hinojosa, la primera gobernadora hispana de Texas",
+      "subtitle": "La movilización del voto latino en el Estado de la estrella solitaria ha sido clave en la derrota del trumpismo",
+      "url": "https://www.lavanguardia.com/internacional/20261104/11675610/gina-hinojosa-primera-gobernadora-hispana-texas.html",
+      "scraped_at": "2026-11-04T14:24:14Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Barça-Aston Villa: Gordon ‘is different’",
-      "subtitle": "El inglés ha conquistado al barcelonismo y a Flick en apenas unos meses",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261103/11674645/barca-aston-villa-gordon-is-different.html",
-      "scraped_at": "2026-11-03T14:03:23Z"
+      "title": "Incesto y muerte en la Escuela de Guerra (I)",
+      "subtitle": "La desaparición de un acaudalado viudo en el Madrid de 1913 hizo aflorar una realidad de abusos y de deudas de juego en cuyo centro se encontraba un oficial de ejército de trasfondo siniestro",
+      "url": "https://www.lavanguardia.com/sucesos/20261021/11663001/dossier-negro-podcast-podcast-lv-capitan-sanchez-luisa-sanchez-garcia-jalon-escuela-guerra-madrid-descuartizado-i.html",
+      "scraped_at": "2026-11-04T14:24:14Z"
     }
   ]
 }
