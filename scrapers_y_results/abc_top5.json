@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El PSOE saluda la decisión de Óscar Puente de dimitir: «No quedaba otra»: Dirigentes socialistas anticipaban movimientos después de la comparecencia en el Congreso y en Moncloa confirman que se va «por voluntad propia»; La sección de UGT en Renfe se querella contra Adif por la filtración de las grabaciones del puesto de control: Diversas fuentes revelan que el trabajador del Centro de Control del tráfico ferroviario se encuentra «destrozado y en una posición crítica»; La Airef se ofrece a evaluar el estado de las infraestructuras y señala «falta de conservación»: Admite que su anterior informe, de 2019, está ya desactualizado y que no valoró la cuantía necesaria para garantizar el mantenimiento de la red. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-11-04T14:24:12Z",
+  "summary": "Resumen del día en ABC.es: La UCO detiene a la pareja de Ábalos y al exchófer de Sánchez por la sospecha de amaños de obra pública: Los agentes realizan registros en la casa del exministro en Valencia y en Madrid, Córdoba y Sevilla. Hay seis detenidos; Cerdán se quejó a Koldo del exchófer de Sánchez: «Nos la jugamos en Andalucía y Cristian lo está jodiendo»: La Guardia Civil entregó el año pasado al juez Ismael Moreno en la causa de amaños de obras públicas unos mensajes entre el exasesor de Ábalos y el exsecretario de Organización del PSOE sobre Cristian Corvillo; El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña: En el partido tratan de reorientar su estrategia con la asunción de responsabilidades como bandera frente al PP: «No somos iguales». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-11-05T14:31:53Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El PSOE saluda la decisión de Óscar Puente de dimitir: «No quedaba otra»",
-      "subtitle": "Dirigentes socialistas anticipaban movimientos después de la comparecencia en el Congreso y en Moncloa confirman que se va «por voluntad propia»",
-      "url": "https://www.abc.es/espana/moncloa-aferra-doctrina-mazon-sostener-puente-29n-20261104225432-nt.html",
-      "scraped_at": "2026-11-04T14:24:11Z"
+      "title": "La UCO detiene a la pareja de Ábalos y al exchófer de Sánchez por la sospecha de amaños de obra pública",
+      "subtitle": "Los agentes realizan registros en la casa del exministro en Valencia y en Madrid, Córdoba y Sevilla. Hay seis detenidos",
+      "url": "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
+      "scraped_at": "2026-11-05T14:31:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "La sección de UGT en Renfe se querella contra Adif por la filtración de las grabaciones del puesto de control",
-      "subtitle": "Diversas fuentes revelan que el trabajador del Centro de Control del tráfico ferroviario se encuentra «destrozado y en una posición crítica»",
-      "url": "https://www.abc.es/espana/ugt-querella-adif-filtracion-grabaciones-puesto-control-20261104101809-nt.html",
-      "scraped_at": "2026-11-04T14:24:11Z"
+      "title": "Cerdán se quejó a Koldo del exchófer de Sánchez: «Nos la jugamos en Andalucía y Cristian lo está jodiendo»",
+      "subtitle": "La Guardia Civil entregó el año pasado al juez Ismael Moreno en la causa de amaños de obras públicas unos mensajes entre el exasesor de Ábalos y el exsecretario de Organización del PSOE sobre Cristian Corvillo",
+      "url": "https://www.abc.es/espana/cerdan-quejo-koldo-garcia-exchofer-sanchez-detenido-20261105130825-nt.html",
+      "scraped_at": "2026-11-05T14:31:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "La Airef se ofrece a evaluar el estado de las infraestructuras y señala «falta de conservación»",
-      "subtitle": "Admite que su anterior informe, de 2019, está ya desactualizado y que no valoró la cuantía necesaria para garantizar el mantenimiento de la red",
-      "url": "https://www.abc.es/economia/airef-ofrece-evaluar-estado-infraestructuras-puesto-manifiesto-20261104130227-nt.html",
-      "scraped_at": "2026-11-04T14:24:11Z"
+      "title": "El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña",
+      "subtitle": "En el partido tratan de reorientar su estrategia con la asunción de responsabilidades como bandera frente al PP: «No somos iguales»",
+      "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
+      "scraped_at": "2026-11-05T14:31:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Carlos Cuerpo, el tecnócrata de Sánchez se convierte en su gran baza electoral",
-      "subtitle": "El presidente elige al ministro mejor valorado por la opinión pública para encauzar la crisis de confianza en la gestión de las infraestructuras abierta por su predecesor Óscar Puente",
-      "url": "https://www.abc.es/economia/carlos-cuerpo-tecnocrata-sanchez-convierte-gran-baza-20261104102637-nt.html",
-      "scraped_at": "2026-11-04T14:24:11Z"
+      "title": "Todos caen para que Sánchez sobreviva",
+      "subtitle": "Ábalos, Koldo, García Ortiz, Zapatero, Cerdán, Montse Mínguez, Salazar, los exdelegados de Gobierno de Ceuta y Madrid, su hermano y su mujer se enredan en dimisiones, investigaciones y condenas. Su líder aguanta sin asumir responsabilidades",
+      "url": "https://www.abc.es/espana/culpables-sanchez-20261104012656-nt.html",
+      "scraped_at": "2026-11-05T14:31:53Z"
     },
     {
       "source": "ABC.es",
-      "title": "Un carnicero desvela el truco para ahorrar al comprar cinta de lomo: «Peimos un chuletero de cerdo»",
-      "subtitle": "Con Carlos Herrera, Jorge Bustos y Alberto Herrera",
-      "url": "https://www.cope.es/actualidad/economia/noticias/tomas-carnicero-truco-ahorrar-carne-cinta-lomo-comprar-chuletero-cogemos-trozo-lleva-costillas-cinta-siguiente-operacion-20261104_3468453.html",
-      "scraped_at": "2026-11-04T14:24:12Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-11-05T14:31:53Z"
     }
   ]
 }
