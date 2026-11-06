@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos: La nueva operación se enmarca en una nueva pieza secreta abierta por el instructor Ismael Moreno tras recibir el miércoles un nuevo atestado de la Guardia Civil con presuntas nuevas irregularidades; Koldo García insiste en que el PP le ofreció dinero: El exasesor del exministro José Luis Ábalos sostiene que le han ofrecido mentir a cambio de no entrar en la cárcel”; Milei y Sánchez protagonizan un frío saludo tras llamarle “impresentable dictador”: El argentino carga contra el socialismo ante el presidente del Gobierno: “El socialismo es fascista en política”. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-11-05T14:31:55Z",
+  "summary": "Resumen del día en La Vanguardia: El juez rechaza la tesis de la Fiscalía de que las joyas de Zapatero fueran un regalo malversado: El magistrado mantiene el delito de contrabando y fraude fiscal, pero se opone a ampliar el de malversación porque si fue un regalo no estaba obligado a devolverlo; El Rey hace balance de la Cumbre: “Estoy cada día más orgulloso de ser iberoamericano”: Felipe VI preside la entrega del Premio Fórum Europa 2026 a la Secretaría General Iberoamericana en el Palacio Real de El Pardo; Feijóo arrancará la campaña del 29-N en Badalona con Albiol: El líder del PP se desplazará el jueves para la pegada de carteles en una muestra de su compromiso con Catalunya. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-11-06T14:10:16Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
-      "subtitle": "La nueva operación se enmarca en una nueva pieza secreta abierta por el instructor Ismael Moreno tras recibir el miércoles un nuevo atestado de la Guardia Civil con presuntas nuevas irregularidades",
-      "url": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
-      "scraped_at": "2026-11-05T14:31:54Z"
+      "title": "El juez rechaza la tesis de la Fiscalía de que las joyas de Zapatero fueran un regalo malversado",
+      "subtitle": "El magistrado mantiene el delito de contrabando y fraude fiscal, pero se opone a ampliar el de malversación porque si fue un regalo no estaba obligado a devolverlo",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677923/juez-calama-rechaza-tesis-fiscalia-joyas-zapatero-fueran-regalo-malversado.html",
+      "scraped_at": "2026-11-06T14:10:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Koldo García insiste en que el PP le ofreció dinero",
-      "subtitle": "El exasesor del exministro José Luis Ábalos sostiene que le han ofrecido mentir a cambio de no entrar en la cárcel”",
-      "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
-      "scraped_at": "2026-11-05T14:31:55Z"
+      "title": "El Rey hace balance de la Cumbre: “Estoy cada día más orgulloso de ser iberoamericano”",
+      "subtitle": "Felipe VI preside la entrega del Premio Fórum Europa 2026 a la Secretaría General Iberoamericana en el Palacio Real de El Pardo",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677899/rey-balance-cumbre-dia-mas-orgulloso-iberoamericano.html",
+      "scraped_at": "2026-11-06T14:10:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Milei y Sánchez protagonizan un frío saludo tras llamarle “impresentable dictador”",
-      "subtitle": "El argentino carga contra el socialismo ante el presidente del Gobierno: “El socialismo es fascista en política”",
-      "url": "https://www.lavanguardia.com/politica/20261105/11676636/miley-sanchez-protagonizan-frio-saludo-llamarle-impresentable-dictador.html",
-      "scraped_at": "2026-11-05T14:31:55Z"
+      "title": "Feijóo arrancará la campaña del 29-N en Badalona con Albiol",
+      "subtitle": "El líder del PP se desplazará el jueves para la pegada de carteles en una muestra de su compromiso con Catalunya",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677957/feijoo-dara-inicio-campana-electoral-29-n-acto-badalona-albiol.html",
+      "scraped_at": "2026-11-06T14:10:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "El Rey: “La diplomacia multilateral sigue teniendo sentido”",
-      "subtitle": "Ha clausurado este encuentro reivindicando los acuerdos alcanzados, después de que la anterior cita, celebrada en Cuenca en 2024, terminara sin consenso",
-      "url": "https://www.lavanguardia.com/politica/20261105/11676775/rey-defiende-vigencia-cumbre-iberoamericana-diplomacia-multilateral-sigue-teniendo-sentido.html",
-      "scraped_at": "2026-11-05T14:31:55Z"
+      "title": "Tercera oleada de amenazas de bomba en Europa con al menos 15 vuelos afectados",
+      "subtitle": "Los vuelos afectados tienen origen o destino en República Checa, Dinamarca, Portugal o Francia",
+      "url": "https://www.lavanguardia.com/internacional/20261106/11677930/nueva-oleada-amenazas-bomba-europa-15-vuelos-afectados.html",
+      "scraped_at": "2026-11-06T14:10:16Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "¿Todas las opiniones son respetables?",
-      "subtitle": "La democracia exige proteger el derecho a opinar, no considerar igualmente acertadas todas las opiniones",
-      "url": "https://www.lavanguardia.com/participacion/red-lectores/20261105/11674980/todas-opiniones-son-respetables.html",
-      "scraped_at": "2026-11-05T14:31:55Z"
+      "title": "La excitante ruta bajo el puente Viejo de Ronda: una pasarela por el desfiladero del Tajo",
+      "subtitle": "Descubrimos una nueva panorámica de la ciudad malagueña desde el río Guadalevín",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20261106/11676711/excitante-ruta-puente-viejo-ronda-pasarela-secreta-desfiladero-tajo.html",
+      "scraped_at": "2026-11-06T14:10:16Z"
     }
   ]
 }
