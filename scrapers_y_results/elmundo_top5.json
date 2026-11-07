@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y pide documentación a Adif: Pide documentación a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria.; Calama libra a Zapatero de la imputación por malversación: El magistrado de la Audiencia Nacional rechaza la propuesta de Anticorrupción referida a las piedras preciosas supuestamente recibidas por el ex presidente en 2007 y valoradas en un millón de euros; El hombre que estaba junto a Sánchez en el mitin, con el que compartía paellas, al que dio \"gracias\" y del que ahora reniega el presidente: La UCO comenzó a investigar en 2023 al ayer detenido, a quien Cerdán acusaba de \"hablar mal\" de él. Cristian dejó huella en redes sociales de su cercanía con el presidente. Tras ayudarle en las primarias, intervino en 'Hidrocarburos', en la compra del chalet de Ábalos y en el 'Caso Mascarillas'. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-11-06T14:10:08Z",
+  "summary": "Resumen del día en El Mundo: Adif blindó su plan de bonus millonario tras la tragedia de Urda horas antes de dimitir su presidente: Tras la renuncia de Puente, Marco de la Peña firmó los incentivos hasta 2030; Los ferroviarios piden a la Agencia de Seguridad extender el doble control humano obligatorio a procesos críticos que dependen de una sola persona: El sindicato Alferro avisa por carta a la AESF de que las nuevas medidas de control anunciadas por Puente no cubren todos los procedimientos; El PNV confirma que salvará el 'decreto Maricarmen' pese a que la oferta de alquiler se hunde un 27% en el País Vasco: \"Protege a los que tienen 2 viviendas o menos\": El grupo nacionalista que gobierna con los socialistas vascos ratifica su dato a favor el día 12 tras los malos datos en su propio territorio: \"Incluye medidas necesarias\". Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-11-07T12:53:22Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y pide documentación a Adif",
+      "title": "Adif blindó su plan de bonus millonario tras la tragedia de Urda horas antes de dimitir su presidente",
+      "subtitle": "Tras la renuncia de Puente, Marco de la Peña firmó los incentivos hasta 2030",
+      "url": "https://www.elmundo.es/economia/2026/11/06/6aee494321efa0477c8b45b8.html",
+      "scraped_at": "2026-11-07T12:53:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "Los ferroviarios piden a la Agencia de Seguridad extender el doble control humano obligatorio a procesos críticos que dependen de una sola persona",
+      "subtitle": "El sindicato Alferro avisa por carta a la AESF de que las nuevas medidas de control anunciadas por Puente no cubren todos los procedimientos",
+      "url": "https://www.elmundo.es/economia/2026/11/07/6aee0417e85eceae5a8b456d.html",
+      "scraped_at": "2026-11-07T12:53:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "El PNV confirma que salvará el 'decreto Maricarmen' pese a que la oferta de alquiler se hunde un 27% en el País Vasco: \"Protege a los que tienen 2 viviendas o menos\"",
+      "subtitle": "El grupo nacionalista que gobierna con los socialistas vascos ratifica su dato a favor el día 12 tras los malos datos en su propio territorio: \"Incluye medidas necesarias\"",
+      "url": "https://www.elmundo.es/economia/2026/11/07/6aedc605e9cf4aff5d8b4576.html",
+      "scraped_at": "2026-11-07T12:53:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "El dorado se frena en seco: \"Cuando derrocaron al dictador Stroessner empezó todo esto\"",
+      "subtitle": "Los manifestantes reclaman el fin del Partido Colorado, que se ha afianzado en el poder",
+      "url": "https://www.elmundo.es/internacional/2026/11/06/6aee1c7be85ece10798b45b0.html",
+      "scraped_at": "2026-11-07T12:53:21Z"
+    },
+    {
+      "source": "El Mundo",
+      "title": "UCO Urda",
       "subtitle": "Pide documentación a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria.",
       "url": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
-      "scraped_at": "2026-11-06T14:10:07Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Calama libra a Zapatero de la imputación por malversación",
-      "subtitle": "El magistrado de la Audiencia Nacional rechaza la propuesta de Anticorrupción referida a las piedras preciosas supuestamente recibidas por el ex presidente en 2007 y valoradas en un millón de euros",
-      "url": "https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html",
-      "scraped_at": "2026-11-06T14:10:08Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El hombre que estaba junto a Sánchez en el mitin, con el que compartía paellas, al que dio \"gracias\" y del que ahora reniega el presidente",
-      "subtitle": "La UCO comenzó a investigar en 2023 al ayer detenido, a quien Cerdán acusaba de \"hablar mal\" de él. Cristian dejó huella en redes sociales de su cercanía con el presidente. Tras ayudarle en las primarias, intervino en 'Hidrocarburos', en la compra del chalet de Ábalos y en el 'Caso Mascarillas'",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aecd9ffe85ece23348b4588.html",
-      "scraped_at": "2026-11-06T14:10:08Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "El 'chófer' de Sánchez detenido por la UCO canalizaba las mordidas en contratos de Adif",
-      "subtitle": "La UCO detiene al ex conductor del presidente del Gobierno en las primarias del PSOE de 2017. Se investigan nuevos amaños",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aecd37921efa0f6278b4575.html",
-      "scraped_at": "2026-11-06T14:10:08Z"
-    },
-    {
-      "source": "El Mundo",
-      "title": "Amenazas bomba",
-      "subtitle": "Varios vuelos se han visto afectados en Dinamarca, Francia, Chequia, Hungría, Italia y Portugal, mientras que Irlanda reporta amenazas de bomba en medios de comunicación",
-      "url": "https://www.elmundo.es/economia/2026/11/06/6aedaed4e4d4d8902a8b457e.html",
-      "scraped_at": "2026-11-06T14:10:08Z"
+      "scraped_at": "2026-11-07T12:53:22Z"
     }
   ]
 }
