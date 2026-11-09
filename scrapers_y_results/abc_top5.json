@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Seis de cada diez españoles creen que los trenes no son seguros: A más de la mitad le genera miedo viajar en ferrocarril y siete de cada diez creen que la alta velocidad se ha deteriorado en los últimos años; entre el electorado socialista, el 75% consideran que hay un exceso de políticos en puestos técnicos; El hombre que puenteó al presidente: Puente organiza un acto a puerta cerrada en Valladolid; algunos creen que empieza otra campaña, la del 'post sanchismo'; Polonia, conmocionada: el atacante de Cracovia mató a su familia antes del tiroteo que dejó seis muertos: La Policía encuentra sus cadáveres con heridas de bala en su casa, a unos 200 kilómetros del lugar del atentado. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-11-08T13:15:58Z",
+  "summary": "Resumen del día en ABC.es: El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados: Cree que la petición de excluir también del censo a los descendientes de los 163.000 que no podrán votar es lógica pero la inminencia de las elecciones impide ya actuar; Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»: El Gobierno se queja de una «rutina judicial» adversa y teme que la investigación sobre irregularidades en la línea de Urda reactive el desgaste por el accidente, que creían saldado con la dimisión de Puente; Sánchez defiende la movilización social a dos días de la huelga general: «Los derechos  nunca han caído del cielo»: El presidente del Gobierno denuncia que PP y Vox presumen de «tijeras y motosierras» al plantear «recortes, privatizaciones y sacrificios». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-11-09T16:05:57Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Seis de cada diez españoles creen que los trenes no son seguros",
-      "subtitle": "A más de la mitad le genera miedo viajar en ferrocarril y siete de cada diez creen que la alta velocidad se ha deteriorado en los últimos años; entre el electorado socialista, el 75% consideran que hay un exceso de políticos en puestos técnicos",
-      "url": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html",
-      "scraped_at": "2026-11-08T13:15:56Z"
+      "title": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados",
+      "subtitle": "Cree que la petición de excluir también del censo a los descendientes de los 163.000 que no podrán votar es lógica pero la inminencia de las elecciones impide ya actuar",
+      "url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
+      "scraped_at": "2026-11-09T16:05:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "El hombre que puenteó al presidente",
-      "subtitle": "Puente organiza un acto a puerta cerrada en Valladolid; algunos creen que empieza otra campaña, la del 'post sanchismo'",
-      "url": "https://www.abc.es/espana/ketty-garat-hombre-puenteo-presidente-20261108012244-nt.html",
-      "scraped_at": "2026-11-08T13:15:57Z"
+      "title": "Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»",
+      "subtitle": "El Gobierno se queja de una «rutina judicial» adversa y teme que la investigación sobre irregularidades en la línea de Urda reactive el desgaste por el accidente, que creían saldado con la dimisión de Puente",
+      "url": "https://www.abc.es/espana/tension-psoe-corrupcion-entra-campana-justo-levantabamos-20261108012034-nt.html",
+      "scraped_at": "2026-11-09T16:05:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Polonia, conmocionada: el atacante de Cracovia mató a su familia antes del tiroteo que dejó seis muertos",
-      "subtitle": "La Policía encuentra sus cadáveres con heridas de bala en su casa, a unos 200 kilómetros del lugar del atentado",
-      "url": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html",
-      "scraped_at": "2026-11-08T13:15:57Z"
+      "title": "Sánchez defiende la movilización social a dos días de la huelga general: «Los derechos  nunca han caído del cielo»",
+      "subtitle": "El presidente del Gobierno denuncia que PP y Vox presumen de «tijeras y motosierras» al plantear «recortes, privatizaciones y sacrificios»",
+      "url": "https://www.abc.es/espana/pedro-sanchez-defiende-movilizacion-social-dos-dias-20261109115018-nt.html",
+      "scraped_at": "2026-11-09T16:05:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "El emperador de la UFC al que Trump quiere de portavoz",
-      "subtitle": "El presidente de EE.UU., Donald Trump, le ha ofrecido la Secretaría de Prensa a su amigo personal, con el que puso en liza una velada de MMA en la Casa Blanca el pasado verano",
-      "url": "https://www.abc.es/deportes/mma/dana-white-promotor-combates-creo-imperio-deportivo-20261108073323-nt.html",
-      "scraped_at": "2026-11-08T13:15:58Z"
+      "title": "PP y Vox suman 199 escaños sin que apenas influya el accidente del AVE",
+      "subtitle": "El PP gana tres diputados en un mes, pero Vox pierde dos; en la izquierda, el PSOE cae cuatro y Frente Amplio sube un par",
+      "url": "https://www.abc.es/espana/accidente-urda-apenas-altera-bloques-29n-derecha-20261108023004-nt.html",
+      "scraped_at": "2026-11-09T16:05:57Z"
     },
     {
       "source": "ABC.es",
-      "title": "Nuria Ocaña, abogada: «Pedir el reparto de la herencia para desbloquear una herencia no constituye por sí solo una actuación temeraria. Esto no significa que el procedimiento sea gratuito»",
-      "subtitle": "El Tribunal Supremo aclara quién asume los gastos cuando un heredero se niega a negociar y el conflicto por el reparto de bienes acaba en los juzgados",
-      "url": "https://www.cope.es/actualidad/economia/noticias/nuria-ocana-abogada-pedir-reparto-herencia-desbloquear-herencia-no-constituye-actuacion-temeraria-esto-no-significa-procedimiento-sea-gratuito-20261108_3469852.html",
-      "scraped_at": "2026-11-08T13:15:58Z"
+      "title": "Internacional",
+      "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
+      "url": "https://www.abc.es/internacional/",
+      "scraped_at": "2026-11-09T16:05:57Z"
     }
   ]
 }
