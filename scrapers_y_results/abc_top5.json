@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados: Cree que la petición de excluir también del censo a los descendientes de los 163.000 que no podrán votar es lógica pero la inminencia de las elecciones impide ya actuar; Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»: El Gobierno se queja de una «rutina judicial» adversa y teme que la investigación sobre irregularidades en la línea de Urda reactive el desgaste por el accidente, que creían saldado con la dimisión de Puente; Sánchez defiende la movilización social a dos días de la huelga general: «Los derechos  nunca han caído del cielo»: El presidente del Gobierno denuncia que PP y Vox presumen de «tijeras y motosierras» al plantear «recortes, privatizaciones y sacrificios». Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-11-09T16:05:57Z",
+  "summary": "Resumen del día en ABC.es: Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»: Recordó su promesa de «auditar cada euro» cuando llegue al Gobierno y estudiar la situación en la que se encuentra el Estado por dentro; El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes: Plantean un régimen especial para bajar al mínimo la factura fiscal inicial a la que deben hacer frente al comprar casa y aplazar su pago a lo largo del pago de la hipoteca; EH Bildu será la fuerza más votada en el País Vasco el 29N: Arnaldo Otegi lograría ocho diputados, entre el País Vasco y Navarra, y el partido de Aitor Esteban descendería hasta los cuatro de acuerdo con el barómetro. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-11-10T14:46:50Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados",
-      "subtitle": "Cree que la petición de excluir también del censo a los descendientes de los 163.000 que no podrán votar es lógica pero la inminencia de las elecciones impide ya actuar",
-      "url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
-      "scraped_at": "2026-11-09T16:05:57Z"
+      "title": "Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
+      "subtitle": "Recordó su promesa de «auditar cada euro» cuando llegue al Gobierno y estudiar la situación en la que se encuentra el Estado por dentro",
+      "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
+      "scraped_at": "2026-11-10T14:46:49Z"
     },
     {
       "source": "ABC.es",
-      "title": "Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»",
-      "subtitle": "El Gobierno se queja de una «rutina judicial» adversa y teme que la investigación sobre irregularidades en la línea de Urda reactive el desgaste por el accidente, que creían saldado con la dimisión de Puente",
-      "url": "https://www.abc.es/espana/tension-psoe-corrupcion-entra-campana-justo-levantabamos-20261108012034-nt.html",
-      "scraped_at": "2026-11-09T16:05:57Z"
+      "title": "El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes",
+      "subtitle": "Plantean un régimen especial para bajar al mínimo la factura fiscal inicial a la que deben hacer frente al comprar casa y aplazar su pago a lo largo del pago de la hipoteca",
+      "url": "https://www.abc.es/economia/pp-compromete-bajar-iva-vivienda-jovenes-repartir-20261110141259-nt.html",
+      "scraped_at": "2026-11-10T14:46:50Z"
     },
     {
       "source": "ABC.es",
-      "title": "Sánchez defiende la movilización social a dos días de la huelga general: «Los derechos  nunca han caído del cielo»",
-      "subtitle": "El presidente del Gobierno denuncia que PP y Vox presumen de «tijeras y motosierras» al plantear «recortes, privatizaciones y sacrificios»",
-      "url": "https://www.abc.es/espana/pedro-sanchez-defiende-movilizacion-social-dos-dias-20261109115018-nt.html",
-      "scraped_at": "2026-11-09T16:05:57Z"
+      "title": "EH Bildu será la fuerza más votada en el País Vasco el 29N",
+      "subtitle": "Arnaldo Otegi lograría ocho diputados, entre el País Vasco y Navarra, y el partido de Aitor Esteban descendería hasta los cuatro de acuerdo con el barómetro",
+      "url": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
+      "scraped_at": "2026-11-10T14:46:50Z"
     },
     {
       "source": "ABC.es",
-      "title": "PP y Vox suman 199 escaños sin que apenas influya el accidente del AVE",
-      "subtitle": "El PP gana tres diputados en un mes, pero Vox pierde dos; en la izquierda, el PSOE cae cuatro y Frente Amplio sube un par",
-      "url": "https://www.abc.es/espana/accidente-urda-apenas-altera-bloques-29n-derecha-20261108023004-nt.html",
-      "scraped_at": "2026-11-09T16:05:57Z"
+      "title": "El PP es líder en 31 circunscripciones y empata en nueve con el PSOE, que solo encabeza dos",
+      "subtitle": "Los socialistas mantienen su fortín en Cataluña, donde se quedan la mitad de los escaños en juego, y Bildu se impone en el País Vasco",
+      "url": "https://www.abc.es/espana/pp-encabeza-circunscripciones-empata-nueve-psoe-solo-20261109023029-nt.html",
+      "scraped_at": "2026-11-10T14:46:50Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-11-09T16:05:57Z"
+      "scraped_at": "2026-11-10T14:46:50Z"
     }
   ]
 }

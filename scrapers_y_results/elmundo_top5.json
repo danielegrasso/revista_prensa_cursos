@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en El Mundo: PP y Vox suman 199 diputados con un 50,4% de los votos y Sánchez no remonta la tragedia de los trenes: Feijóo mantiene su ventaja frente al líder del PSOE, que llega a la campaña 26 escaños por debajo; El 'SOS' de El Hierro tras las 4.500 llegadas en siete días y el desguace de 30 cayucos: El agravamiento de la crisis migratoria y la declaración de \"emergencia social\" fuerzan al Gobierno a convocar de urgencia la Comisión Interministerial de Inmigración, que se reúne mañana, para abordar esta situación que amenaza con desbordar los recursos de la isla; Adif confirma que su ex presidente aprobó horas antes de dimitir por la tragedia de Urda un plan de incentivos para su dirección: El gestor de las vías de alta velocidad dice que los incentivos que aprobó Pedro Marco de la Peña es una renovación y que llega a 5.200 trabajadores. En el anterior Adif declaró cumplidos el 100% de los objetivos entre 2023 y 2025, cuando despidió a su presidente y empezaron los problemas. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
-  "generated_at": "2026-11-09T16:05:52Z",
+  "summary": "Resumen del día en El Mundo: Un marroquí que entró a nado en Ceuta explica a la juez Tardón que se decidió tras escuchar \"que Pedro Sánchez iba a regularizar a todo el que entrara\": Cuatro marroquíes comparecen como testigos protegidos ante la magistrada de la Audiencia Nacional para explicar su entrada en la ciudad autónoma; La maquinista del Iryo alertó del riesgo para los pasajeros tras la colisión: \"Veo cable de la catenaria en la vía; ¡no salgan del tren!\": La profesional alertó del peligro para los viajeros que abandonaban los trenes en pleno shock tras ser embestidos por el AVE a más de 160 km/h; El asombro del creador del hombre de paja al descubrir que habla: Muchos de los graves periodistas que ahora reniegan del presentador de La Revuelta (y que callaron hasta ver el resultado) participan del altivo credo antifascista. Además, se incluyen otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/elmundo.html",
+  "generated_at": "2026-11-10T14:46:43Z",
   "source": "https://www.elmundo.es/",
   "items": [
     {
       "source": "El Mundo",
-      "title": "PP y Vox suman 199 diputados con un 50,4% de los votos y Sánchez no remonta la tragedia de los trenes",
-      "subtitle": "Feijóo mantiene su ventaja frente al líder del PSOE, que llega a la campaña 26 escaños por debajo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html",
-      "scraped_at": "2026-11-09T16:05:51Z"
+      "title": "Un marroquí que entró a nado en Ceuta explica a la juez Tardón que se decidió tras escuchar \"que Pedro Sánchez iba a regularizar a todo el que entrara\"",
+      "subtitle": "Cuatro marroquíes comparecen como testigos protegidos ante la magistrada de la Audiencia Nacional para explicar su entrada en la ciudad autónoma",
+      "url": "https://www.elmundo.es/espana/2026/11/10/6af31d1ee4d4d8a03b8b4596.html",
+      "scraped_at": "2026-11-10T14:46:42Z"
     },
     {
       "source": "El Mundo",
-      "title": "El 'SOS' de El Hierro tras las 4.500 llegadas en siete días y el desguace de 30 cayucos",
-      "subtitle": "El agravamiento de la crisis migratoria y la declaración de \"emergencia social\" fuerzan al Gobierno a convocar de urgencia la Comisión Interministerial de Inmigración, que se reúne mañana, para abordar esta situación que amenaza con desbordar los recursos de la isla",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af1cc3ae85ecebb328b4581.html",
-      "scraped_at": "2026-11-09T16:05:51Z"
+      "title": "La maquinista del Iryo alertó del riesgo para los pasajeros tras la colisión: \"Veo cable de la catenaria en la vía; ¡no salgan del tren!\"",
+      "subtitle": "La profesional alertó del peligro para los viajeros que abandonaban los trenes en pleno shock tras ser embestidos por el AVE a más de 160 km/h",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/09/6af2089321efa04e6a8b4595.html",
+      "scraped_at": "2026-11-10T14:46:43Z"
     },
     {
       "source": "El Mundo",
-      "title": "Adif confirma que su ex presidente aprobó horas antes de dimitir por la tragedia de Urda un plan de incentivos para su dirección",
-      "subtitle": "El gestor de las vías de alta velocidad dice que los incentivos que aprobó Pedro Marco de la Peña es una renovación y que llega a 5.200 trabajadores. En el anterior Adif declaró cumplidos el 100% de los objetivos entre 2023 y 2025, cuando despidió a su presidente y empezaron los problemas",
-      "url": "https://www.elmundo.es/economia/2026/11/09/6af18df8e4d4d88f658b458c.html",
-      "scraped_at": "2026-11-09T16:05:51Z"
+      "title": "El asombro del creador del hombre de paja al descubrir que habla",
+      "subtitle": "Muchos de los graves periodistas que ahora reniegan del presentador de La Revuelta (y que callaron hasta ver el resultado) participan del altivo credo antifascista",
+      "url": "https://www.elmundo.es/opinion/columnistas/2026/11/10/6af3147521efa03b188b45b1.html",
+      "scraped_at": "2026-11-10T14:46:43Z"
     },
     {
       "source": "El Mundo",
-      "title": "Oliver Blanco, ministro de Exteriores de Venezuela: \"Estamos sentando las bases para que los venezolanos que están en España regresen. Les necesitamos de vuelta\"",
-      "subtitle": "\"María Corina Machado se reencontró con sus seguidores en total libertad y con garantías\", asegura el canciller de Delcy Rodríguez a su paso por Madrid. Y confiesa: \"Pienso mucho en Adolfo Suárez; podemos aprender de España\"",
-      "url": "https://www.elmundo.es/internacional/2026/11/08/6af0bd93fdddff8e098b4582.html",
-      "scraped_at": "2026-11-09T16:05:52Z"
+      "title": "RTVE admite que la entrevista de Abascal no fue ideal para Broncano y explica por qué aceptó: \"No creamos mártires\"",
+      "subtitle": "El presidente de la televisión pública reconoce que la visita del líder de Vox invita a la reflexión, pero defiende la decisión para evitar acusaciones de censura y denuncia el intento de \"linchar\" al presentador",
+      "url": "https://www.elmundo.es/television/2026/11/10/6af308bde4d4d8997a8b4599.html",
+      "scraped_at": "2026-11-10T14:46:43Z"
     },
     {
       "source": "El Mundo",
-      "title": "Transportes",
-      "subtitle": "La crisis ferroviaria resta 3,4 millones de viajeros a la alta velocidad en seis meses y hunde un 20% los ingresos del gestor de las vías. Carlos Cuerpo hereda nuevas restricciones de tráfico y ocho medidas cuya financiación se desconoce",
-      "url": "https://www.elmundo.es/economia/2026/11/08/6aeda249fdddffd7708b4585.html",
-      "scraped_at": "2026-11-09T16:05:52Z"
+      "title": "Oviedo tiroteo",
+      "subtitle": "El agente fallecido es un subinspector de guías caninos, mientras que el herido es miembro de los Tedax. Acudieron por un tiroteo en el que una chica de 17 años resultó herida",
+      "url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+      "scraped_at": "2026-11-10T14:46:43Z"
     }
   ]
 }
