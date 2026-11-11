@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en ABC.es: Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»: Recordó su promesa de «auditar cada euro» cuando llegue al Gobierno y estudiar la situación en la que se encuentra el Estado por dentro; El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes: Plantean un régimen especial para bajar al mínimo la factura fiscal inicial a la que deben hacer frente al comprar casa y aplazar su pago a lo largo del pago de la hipoteca; EH Bildu será la fuerza más votada en el País Vasco el 29N: Arnaldo Otegi lograría ocho diputados, entre el País Vasco y Navarra, y el partido de Aitor Esteban descendería hasta los cuatro de acuerdo con el barómetro. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
-  "generated_at": "2026-11-10T14:46:50Z",
+  "summary": "Resumen del día en ABC.es: La primera huelga general en 14 años se estrena con más piquetes que seguimiento: Los sindicatos reconocen una situación «dispar» mientras los empresarios apuntan a un bajo seguimiento general y algo más elevado en zonas y sectores más sindicalizados; La huelga general pincha en los aeropuertos, pero provoca la cancelación de uno de cada 4 trenes de alta velocidad: Aena asegura que se han cancelado esta mañana 263 de un total de 4.529 operaciones previstas, apenas un 5%; Las inmobiliarias, en el centro de la diana del día: Numerosos locales han amanecido vandalizados y los trabajadores admiten el miedo de abrirlos ante las protestas y destrozos que se han registrado desde la pasada medianoche. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/abc.html",
+  "generated_at": "2026-11-11T14:09:40Z",
   "source": "https://www.abc.es/",
   "items": [
     {
       "source": "ABC.es",
-      "title": "Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
-      "subtitle": "Recordó su promesa de «auditar cada euro» cuando llegue al Gobierno y estudiar la situación en la que se encuentra el Estado por dentro",
-      "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
-      "scraped_at": "2026-11-10T14:46:49Z"
+      "title": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
+      "subtitle": "Los sindicatos reconocen una situación «dispar» mientras los empresarios apuntan a un bajo seguimiento general y algo más elevado en zonas y sectores más sindicalizados",
+      "url": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
+      "scraped_at": "2026-11-11T14:09:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes",
-      "subtitle": "Plantean un régimen especial para bajar al mínimo la factura fiscal inicial a la que deben hacer frente al comprar casa y aplazar su pago a lo largo del pago de la hipoteca",
-      "url": "https://www.abc.es/economia/pp-compromete-bajar-iva-vivienda-jovenes-repartir-20261110141259-nt.html",
-      "scraped_at": "2026-11-10T14:46:50Z"
+      "title": "La huelga general pincha en los aeropuertos, pero provoca la cancelación de uno de cada 4 trenes de alta velocidad",
+      "subtitle": "Aena asegura que se han cancelado esta mañana 263 de un total de 4.529 operaciones previstas, apenas un 5%",
+      "url": "https://www.abc.es/economia/cancelados-234-vuelos-aeropuertos-espanoles-causa-huelga-20261111113419-nt.html",
+      "scraped_at": "2026-11-11T14:09:39Z"
     },
     {
       "source": "ABC.es",
-      "title": "EH Bildu será la fuerza más votada en el País Vasco el 29N",
-      "subtitle": "Arnaldo Otegi lograría ocho diputados, entre el País Vasco y Navarra, y el partido de Aitor Esteban descendería hasta los cuatro de acuerdo con el barómetro",
-      "url": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
-      "scraped_at": "2026-11-10T14:46:50Z"
+      "title": "Las inmobiliarias, en el centro de la diana del día",
+      "subtitle": "Numerosos locales han amanecido vandalizados y los trabajadores admiten el miedo de abrirlos ante las protestas y destrozos que se han registrado desde la pasada medianoche",
+      "url": "https://www.abc.es/economia/inmobiliarias-centro-diana-huelga-general-20261111105005-nt.html",
+      "scraped_at": "2026-11-11T14:09:40Z"
     },
     {
       "source": "ABC.es",
-      "title": "El PP es líder en 31 circunscripciones y empata en nueve con el PSOE, que solo encabeza dos",
-      "subtitle": "Los socialistas mantienen su fortín en Cataluña, donde se quedan la mitad de los escaños en juego, y Bildu se impone en el País Vasco",
-      "url": "https://www.abc.es/espana/pp-encabeza-circunscripciones-empata-nueve-psoe-solo-20261109023029-nt.html",
-      "scraped_at": "2026-11-10T14:46:50Z"
+      "title": "La sombra de Blocus planea sobre una Barcelona colapsada por los piquetes",
+      "subtitle": "El paro, con seguimiento desigual, impacta en los grandes polígonos pero no consigue cerrar el centro de Barcelona.",
+      "url": "https://www.abc.es/espana/cataluna/sombra-blocus-planea-sobre-barcelona-colapsada-piquetes-20261111144017-nt.html",
+      "scraped_at": "2026-11-11T14:09:40Z"
     },
     {
       "source": "ABC.es",
       "title": "Internacional",
       "subtitle": "Amplia cobertura informativa de las cuestiones internacionales. Seguimiento minuto a minuto del area internacional en ABC.es",
       "url": "https://www.abc.es/internacional/",
-      "scraped_at": "2026-11-10T14:46:50Z"
+      "scraped_at": "2026-11-11T14:09:40Z"
     }
   ]
 }

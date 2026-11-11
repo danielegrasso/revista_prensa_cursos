@@ -1,42 +1,42 @@
 {
-  "summary": "Resumen del día en La Vanguardia: Ni la Virgen te ayudará: la estación de Sants en plena huelga de maquinistas: Viajeros sin alternativas para llegar a sus destinos, trenes suprimidos y un incidente con vigilantes de seguridad marcan una mañana de caos contenido en la parada barcelonesa; Los sindicatos prevén una respuesta “digna” en las empresas y “enorme” en la calle: CC.OO. y UGT quieren fijar el foco en las movilizaciones en esta protesta; Muere un policía y otro resulta herido grave en una explosión en Oviedo: La Policía ha desplegado una operación jaula en la ciudad para localizar al sospechoso que se ha dado a la fuga: un ciudadano español nacido en 1964 con una decena de antecedentes policiales. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
-  "generated_at": "2026-11-10T14:46:53Z",
+  "summary": "Resumen del día en La Vanguardia: Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE cuantifica un seguimiento “bajo”: Las primeras horas se saldan con dos atropellos, otras dos detenciones y denuncias en torno al uso de gas pimienta en Madrid; Un centenar de cortes de vías por la huelga colapsa la movilidad en Catalunya: Los piquetes taponan las principales arterias del país en una mañana de transporte público bajo mínimos; El PP denuncia una “huelga electoral” contra el próximo Gobierno: Tellado avisa que el paro “en nada beneficia” a la “crisis de representatividad” de los sindicatos. Además, otras piezas destacadas de política, economía y sociedad. link a la portada: https://es.kiosko.net/es/np/lavanguardia.html",
+  "generated_at": "2026-11-11T14:09:42Z",
   "source": "https://www.lavanguardia.com/",
   "items": [
     {
       "source": "La Vanguardia",
-      "title": "Ni la Virgen te ayudará: la estación de Sants en plena huelga de maquinistas",
-      "subtitle": "Viajeros sin alternativas para llegar a sus destinos, trenes suprimidos y un incidente con vigilantes de seguridad marcan una mañana de caos contenido en la parada barcelonesa",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261110/11680857/virgen-lourdes-te-ayudara-estacion-sants-plena-huelga-maquinistas.html",
-      "scraped_at": "2026-11-10T14:46:52Z"
+      "title": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE cuantifica un seguimiento “bajo”",
+      "subtitle": "Las primeras horas se saldan con dos atropellos, otras dos detenciones y denuncias en torno al uso de gas pimienta en Madrid",
+      "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
+      "scraped_at": "2026-11-11T14:09:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Los sindicatos prevén una respuesta “digna” en las empresas y “enorme” en la calle",
-      "subtitle": "CC.OO. y UGT quieren fijar el foco en las movilizaciones en esta protesta",
-      "url": "https://www.lavanguardia.com/economia/20261110/11680287/sindicatos-preven-respuesta-digna-empresas-enorme-calle.html",
-      "scraped_at": "2026-11-10T14:46:52Z"
+      "title": "Un centenar de cortes de vías por la huelga colapsa la movilidad en Catalunya",
+      "subtitle": "Los piquetes taponan las principales arterias del país en una mañana de transporte público bajo mínimos",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681449/centenar-cortes-carreteras-autopistas-huelga-colapsan-movilidad-catalunya.html",
+      "scraped_at": "2026-11-11T14:09:41Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Muere un policía y otro resulta herido grave en una explosión en Oviedo",
-      "subtitle": "La Policía ha desplegado una operación jaula en la ciudad para localizar al sospechoso que se ha dado a la fuga: un ciudadano español nacido en 1964 con una decena de antecedentes policiales",
-      "url": "https://www.lavanguardia.com/sucesos/20261110/11680608/muere-policia-especialista-guias-caninos-resulta-gravemente-herido-explosion-oviedo.html",
-      "scraped_at": "2026-11-10T14:46:53Z"
+      "title": "El PP denuncia una “huelga electoral” contra el próximo Gobierno",
+      "subtitle": "Tellado avisa que el paro “en nada beneficia” a la “crisis de representatividad” de los sindicatos",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+      "scraped_at": "2026-11-11T14:09:42Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Una revuelta a medida",
-      "subtitle": "Santiago Abascal logró alejar la imagen oscura que transmite a sectores de la sociedad",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680342/revuelta-medida.html",
-      "scraped_at": "2026-11-10T14:46:53Z"
+      "title": "El Gobierno anula su agenda “por respeto” a la huelga",
+      "subtitle": "“No es una huelga general contra nadie, sino a favor de derechos de todos”, alegan en la Moncloa, ya en la antesala de la campaña electoral del 29-N",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
+      "scraped_at": "2026-11-11T14:09:42Z"
     },
     {
       "source": "La Vanguardia",
-      "title": "Demi Lovato planta cara al escrutinio público con su nueva campaña para Desigual",
-      "subtitle": "La artista se convierte en el nuevo icono de la marca y presenta su última colección",
-      "url": "https://www.lavanguardia.com/magazine/moda/20261110/11680819/demi-lovato-planta-cara-escrutinio-publico-nueva-campana-desigual.html",
-      "scraped_at": "2026-11-10T14:46:53Z"
+      "title": "El 'estiuet de Sant Martí' en la Costa Brava",
+      "subtitle": "“El veranillo es un fenómeno meteorológico tradicional que consiste en un breve episodio de buen tiempo y temperaturas suaves en pleno otoño y que se produce alrededor del 11 de noviembre: diada de San Martín”",
+      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20261111/11681687/estiuet-sant-marti-costa-brava.html",
+      "scraped_at": "2026-11-11T14:09:42Z"
     }
   ]
 }
